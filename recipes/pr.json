@@ -1,0 +1,2837 @@
+{
+  "allthecompressed:precasian_cobblestone_1x": {
+    "result": "allthecompressed:precasian_cobblestone_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:precasian_cobblestone_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:precasian_cobblestone_2x": {
+    "result": "allthecompressed:precasian_cobblestone_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:precasian_cobblestone_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:precasian_cobblestone_3x": {
+    "result": "allthecompressed:precasian_cobblestone_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:precasian_cobblestone_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:precasian_cobblestone_4x": {
+    "result": "allthecompressed:precasian_cobblestone_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:precasian_cobblestone_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:precasian_cobblestone_5x": {
+    "result": "allthecompressed:precasian_cobblestone_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:precasian_cobblestone_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:precasian_cobblestone_6x": {
+    "result": "allthecompressed:precasian_cobblestone_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:precasian_cobblestone_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:precasian_cobblestone_7x": {
+    "result": "allthecompressed:precasian_cobblestone_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:precasian_cobblestone_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:precasian_cobblestone_8x": {
+    "result": "allthecompressed:precasian_cobblestone_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:precasian_cobblestone_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:precasian_cobblestone_9x": {
+    "result": "allthecompressed:precasian_cobblestone_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:precasian_cobblestone_8x",
+      "allthecompressed:precasian_cobblestone_8x",
+      "allthecompressed:precasian_cobblestone_8x",
+      "allthecompressed:precasian_cobblestone_8x",
+      "allthecompressed:precasian_cobblestone_8x",
+      "allthecompressed:precasian_cobblestone_8x",
+      "allthecompressed:precasian_cobblestone_8x",
+      "allthecompressed:precasian_cobblestone_8x",
+      "allthecompressed:precasian_cobblestone_8x"
+    ]
+  },
+  "allthecompressed:precasian_soil_1x": {
+    "result": "allthecompressed:precasian_soil_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:precasian_soil_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:precasian_soil_2x": {
+    "result": "allthecompressed:precasian_soil_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:precasian_soil_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:precasian_soil_3x": {
+    "result": "allthecompressed:precasian_soil_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:precasian_soil_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:precasian_soil_4x": {
+    "result": "allthecompressed:precasian_soil_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:precasian_soil_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:precasian_soil_5x": {
+    "result": "allthecompressed:precasian_soil_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:precasian_soil_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:precasian_soil_6x": {
+    "result": "allthecompressed:precasian_soil_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:precasian_soil_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:precasian_soil_7x": {
+    "result": "allthecompressed:precasian_soil_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:precasian_soil_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:precasian_soil_8x": {
+    "result": "allthecompressed:precasian_soil_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:precasian_soil_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:precasian_soil_9x": {
+    "result": "allthecompressed:precasian_soil_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:precasian_soil_8x",
+      "allthecompressed:precasian_soil_8x",
+      "allthecompressed:precasian_soil_8x",
+      "allthecompressed:precasian_soil_8x",
+      "allthecompressed:precasian_soil_8x",
+      "allthecompressed:precasian_soil_8x",
+      "allthecompressed:precasian_soil_8x",
+      "allthecompressed:precasian_soil_8x",
+      "allthecompressed:precasian_soil_8x"
+    ]
+  },
+  "allthecompressed:precasian_stone_1x": {
+    "result": "allthecompressed:precasian_stone_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:precasian_stone_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:precasian_stone_2x": {
+    "result": "allthecompressed:precasian_stone_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:precasian_stone_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:precasian_stone_3x": {
+    "result": "allthecompressed:precasian_stone_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:precasian_stone_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:precasian_stone_4x": {
+    "result": "allthecompressed:precasian_stone_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:precasian_stone_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:precasian_stone_5x": {
+    "result": "allthecompressed:precasian_stone_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:precasian_stone_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:precasian_stone_6x": {
+    "result": "allthecompressed:precasian_stone_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:precasian_stone_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:precasian_stone_7x": {
+    "result": "allthecompressed:precasian_stone_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:precasian_stone_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:precasian_stone_8x": {
+    "result": "allthecompressed:precasian_stone_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:precasian_stone_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:precasian_stone_9x": {
+    "result": "allthecompressed:precasian_stone_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:precasian_stone_8x",
+      "allthecompressed:precasian_stone_8x",
+      "allthecompressed:precasian_stone_8x",
+      "allthecompressed:precasian_stone_8x",
+      "allthecompressed:precasian_stone_8x",
+      "allthecompressed:precasian_stone_8x",
+      "allthecompressed:precasian_stone_8x",
+      "allthecompressed:precasian_stone_8x",
+      "allthecompressed:precasian_stone_8x"
+    ]
+  },
+  "aoa3:precasian_cobblestone": {
+    "result": "aoa3:precasian_cobblestone",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:precasian_cobblestone_1x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "aoa3:precasian_soil": {
+    "result": "aoa3:precasian_soil",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:precasian_soil_1x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "aoa3:precasian_stone": {
+    "result": "aoa3:precasian_stone",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:precasian_stone_1x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "apothic_enchanting:prismatic_web": {
+    "result": "apothic_enchanting:prismatic_web",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:prismarine_shard",
+      "",
+      "minecraft:prismarine_shard",
+      "minecraft:cobweb",
+      "minecraft:prismarine_shard",
+      "",
+      "minecraft:prismarine_shard",
+      ""
+    ]
+  },
+  "bibliocraft:printing_table": {
+    "result": "bibliocraft:printing_table",
+    "count": 1,
+    "ingredients": [
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:iron",
+      "minecraft:redstone",
+      "minecraft:iron"
+    ]
+  },
+  "botanypots:prismarine_bricks_botany_pot": {
+    "result": "botanypots:prismarine_bricks_botany_pot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:prismarine_bricks",
+      "",
+      "minecraft:prismarine_bricks",
+      "minecraft:prismarine_bricks",
+      "minecraft:flower_pot",
+      "minecraft:prismarine_bricks",
+      "",
+      "minecraft:prismarine_bricks",
+      ""
+    ]
+  },
+  "botanypots:prismarine_bricks_hopper_botany_pot": {
+    "result": "botanypots:prismarine_bricks_hopper_botany_pot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:prismarine_bricks",
+      "minecraft:hopper",
+      "minecraft:prismarine_bricks",
+      "minecraft:prismarine_bricks",
+      "minecraft:flower_pot",
+      "minecraft:prismarine_bricks",
+      "",
+      "minecraft:prismarine_bricks",
+      ""
+    ]
+  },
+  "botanypots:prismarine_bricks_waxed_botany_pot": {
+    "result": "botanypots:prismarine_bricks_waxed_botany_pot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:honeycomb",
+      "botanypots:prismarine_bricks_botany_pot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "cataclysm:prismarine_brick_fence": {
+    "result": "cataclysm:prismarine_brick_fence",
+    "count": 6,
+    "ingredients": [
+      "minecraft:prismarine_bricks",
+      "minecraft:prismarine_shard",
+      "minecraft:prismarine_bricks",
+      "minecraft:prismarine_bricks",
+      "minecraft:prismarine_shard",
+      "minecraft:prismarine_bricks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "cataclysm:prismarine_brick_wall": {
+    "result": "cataclysm:prismarine_brick_wall",
+    "count": 6,
+    "ingredients": [
+      "minecraft:prismarine_bricks",
+      "minecraft:prismarine_bricks",
+      "minecraft:prismarine_bricks",
+      "minecraft:prismarine_bricks",
+      "minecraft:prismarine_bricks",
+      "minecraft:prismarine_bricks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "computercraft:printer": {
+    "result": "computercraft:printer",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:dyes",
+      "minecraft:stone"
+    ]
+  },
+  "cookingforblockheads:preservation_chamber": {
+    "result": "cookingforblockheads:preservation_chamber",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "minecraft:redstone",
+      "minecraft:redstone",
+      "minecraft:iron_ingot",
+      "minecraft:comparator",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:propeller": {
+    "result": "create:propeller",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:iron",
+      "",
+      "minecraft:iron",
+      "create:andesite_alloy",
+      "minecraft:iron",
+      "",
+      "minecraft:iron",
+      ""
+    ]
+  },
+  "create_aquatic_ambitions:prismarine_alloy": {
+    "result": "create_aquatic_ambitions:prismarine_alloy",
+    "count": 9,
+    "ingredients": [
+      "create_aquatic_ambitions:prismarine_alloy_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create_aquatic_ambitions:prismarine_alloy_block": {
+    "result": "create_aquatic_ambitions:prismarine_alloy_block",
+    "count": 1,
+    "ingredients": [
+      "create_aquatic_ambitions:prismarine_alloy",
+      "create_aquatic_ambitions:prismarine_alloy",
+      "create_aquatic_ambitions:prismarine_alloy",
+      "create_aquatic_ambitions:prismarine_alloy",
+      "create_aquatic_ambitions:prismarine_alloy",
+      "create_aquatic_ambitions:prismarine_alloy",
+      "create_aquatic_ambitions:prismarine_alloy",
+      "create_aquatic_ambitions:prismarine_alloy",
+      "create_aquatic_ambitions:prismarine_alloy"
+    ]
+  },
+  "create_aquatic_ambitions:prismarine_alloy_rod": {
+    "result": "create_aquatic_ambitions:prismarine_alloy_rod",
+    "count": 1,
+    "ingredients": [
+      "create_aquatic_ambitions:prismarine_alloy",
+      "",
+      "",
+      "create_aquatic_ambitions:prismarine_alloy",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create_enchantment_industry:printer": {
+    "result": "create_enchantment_industry:printer",
+    "count": 1,
+    "ingredients": [
+      "minecraft:brass",
+      "",
+      "",
+      "create:spout",
+      "",
+      "",
+      "minecraft:iron",
+      "",
+      ""
+    ]
+  },
+  "enderio:pressurized_fluid_tank": {
+    "result": "enderio:pressurized_fluid_tank",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:steel_ingot",
+      "enderio:dark_steel_bars",
+      "modern_industrialization:steel_ingot",
+      "enderio:dark_steel_bars",
+      "minecraft:quartz",
+      "enderio:dark_steel_bars",
+      "modern_industrialization:steel_ingot",
+      "enderio:dark_steel_bars",
+      "modern_industrialization:steel_ingot"
+    ]
+  },
+  "evilcraft:primed_pendant": {
+    "result": "evilcraft:primed_pendant",
+    "count": 1,
+    "ingredients": [
+      "",
+      "evilcraft:golden_string",
+      "",
+      "evilcraft:golden_string",
+      "evilcraft:garmonbozia",
+      "evilcraft:golden_string",
+      "evilcraft:dark_gem_crushed",
+      "evilcraft:blood_infusion_core",
+      "evilcraft:dark_gem_crushed"
+    ]
+  },
+  "evilcraft:promise_efficiency_0": {
+    "result": "evilcraft:promise_efficiency_0",
+    "count": 1,
+    "ingredients": [
+      "evilcraft:bowl_of_promises_tier1",
+      "evilcraft:promise_acceptor_iron",
+      "minecraft:lapis_lazuli",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "evilcraft:promise_speed_0": {
+    "result": "evilcraft:promise_speed_0",
+    "count": 1,
+    "ingredients": [
+      "evilcraft:bowl_of_promises_tier1",
+      "evilcraft:promise_acceptor_iron",
+      "minecraft:redstone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "evilcraft:promise_tier_1": {
+    "result": "evilcraft:promise_tier_1",
+    "count": 1,
+    "ingredients": [
+      "evilcraft:bowl_of_promises_tier0",
+      "evilcraft:promise_acceptor_iron",
+      "minecraft:spider_eye",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "evilcraft:promise_tier_2": {
+    "result": "evilcraft:promise_tier_2",
+    "count": 1,
+    "ingredients": [
+      "evilcraft:bowl_of_promises_tier1",
+      "evilcraft:promise_acceptor_gold",
+      "minecraft:ender_pearl",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "evilcraft:promise_tier_3": {
+    "result": "evilcraft:promise_tier_3",
+    "count": 1,
+    "ingredients": [
+      "evilcraft:bowl_of_promises_tier2",
+      "evilcraft:promise_acceptor_diamond",
+      "minecraft:ender_eye",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "extendedae:precise_export_bus": {
+    "result": "extendedae:precise_export_bus",
+    "count": 1,
+    "ingredients": [
+      "ae2:calculation_processor",
+      "extendedae:ex_export_bus_part",
+      "ae2:calculation_processor",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "extendedae:precise_storage_bus": {
+    "result": "extendedae:precise_storage_bus",
+    "count": 1,
+    "ingredients": [
+      "ae2:calculation_processor",
+      "ae2:storage_bus",
+      "ae2:calculation_processor",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "extended_industrialization:processing_array": {
+    "result": "extended_industrialization:processing_array",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:robot_arm",
+      "modern_industrialization:digital_circuit",
+      "modern_industrialization:robot_arm",
+      "modern_industrialization:clean_stainless_steel_machine_casing",
+      "modern_industrialization:assembler",
+      "modern_industrialization:clean_stainless_steel_machine_casing",
+      "modern_industrialization:robot_arm",
+      "modern_industrialization:digital_circuit",
+      "modern_industrialization:robot_arm"
+    ]
+  },
+  "hostilenetworks:prediction_matrix": {
+    "result": "hostilenetworks:prediction_matrix",
+    "count": 16,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:glass",
+      "",
+      "minecraft:glass",
+      "minecraft:clay_ball",
+      "minecraft:glass",
+      "",
+      "minecraft:glass",
+      "minecraft:gold_ingot"
+    ]
+  },
+  "minecraft:prismarine_shard": {
+    "result": "minecraft:prismarine_shard",
+    "count": 5,
+    "ingredients": [
+      "reliquary:guardian_spike",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "integrateddynamics:proto_chorus": {
+    "result": "integrateddynamics:proto_chorus",
+    "count": 1,
+    "ingredients": [
+      "integrateddynamics:menril_berries",
+      "integrateddynamics:menril_berries",
+      "minecraft:ender_pearl",
+      "minecraft:ender_pearl",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "integrateddynamics:proxy": {
+    "result": "integrateddynamics:proxy",
+    "count": 1,
+    "ingredients": [
+      "integrateddynamics:variable",
+      "integrateddynamics:crystalized_menril_chunk",
+      "integrateddynamics:variable",
+      "integrateddynamics:crystalized_menril_chunk",
+      "integrateddynamics:variablestore",
+      "integrateddynamics:crystalized_menril_chunk",
+      "integrateddynamics:variable",
+      "integrateddynamics:crystalized_menril_chunk",
+      "integrateddynamics:variable"
+    ]
+  },
+  "irons_spellbooks:priest_boots": {
+    "result": "irons_spellbooks:priest_boots",
+    "count": 1,
+    "ingredients": [
+      "minecraft:wizard_base_boots",
+      "irons_spellbooks:holy_rune",
+      "irons_spellbooks:arcane_essence",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "irons_spellbooks:priest_chestplate": {
+    "result": "irons_spellbooks:priest_chestplate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:chest",
+      "irons_spellbooks:holy_rune",
+      "irons_spellbooks:arcane_essence",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "irons_spellbooks:priest_helmet": {
+    "result": "irons_spellbooks:priest_helmet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:wizard_base_helmet",
+      "irons_spellbooks:holy_rune",
+      "irons_spellbooks:arcane_essence",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "irons_spellbooks:priest_leggings": {
+    "result": "irons_spellbooks:priest_leggings",
+    "count": 1,
+    "ingredients": [
+      "minecraft:wizard_base_leggings",
+      "irons_spellbooks:holy_rune",
+      "irons_spellbooks:arcane_essence",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "irons_spellbooks:protection_rune": {
+    "result": "irons_spellbooks:protection_rune",
+    "count": 1,
+    "ingredients": [
+      "minecraft:pufferfish",
+      "minecraft:pufferfish",
+      "minecraft:pufferfish",
+      "minecraft:pufferfish",
+      "irons_spellbooks:blank_rune",
+      "minecraft:pufferfish",
+      "minecraft:pufferfish",
+      "minecraft:pufferfish",
+      "minecraft:pufferfish"
+    ]
+  },
+  "irons_spellbooks:protection_upgrade_orb": {
+    "result": "irons_spellbooks:protection_upgrade_orb",
+    "count": 1,
+    "ingredients": [
+      "irons_spellbooks:protection_rune",
+      "irons_spellbooks:protection_rune",
+      "irons_spellbooks:protection_rune",
+      "irons_spellbooks:protection_rune",
+      "irons_spellbooks:upgrade_orb",
+      "irons_spellbooks:protection_rune",
+      "irons_spellbooks:protection_rune",
+      "irons_spellbooks:protection_rune",
+      "irons_spellbooks:protection_rune"
+    ]
+  },
+  "mcwbridges:prismarine_bricks_bridge": {
+    "result": "mcwbridges:prismarine_bricks_bridge",
+    "count": 1,
+    "ingredients": [
+      "mcwbridges:prismarine_bricks_bridge_stair",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:prismarine_bricks_bridge_pier": {
+    "result": "mcwbridges:prismarine_bricks_bridge_pier",
+    "count": 3,
+    "ingredients": [
+      "minecraft:prismarine_bricks",
+      "minecraft:prismarine_wall",
+      "minecraft:prismarine_bricks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:prismarine_bricks_bridge_stair": {
+    "result": "mcwbridges:prismarine_bricks_bridge_stair",
+    "count": 6,
+    "ingredients": [
+      "",
+      "",
+      "mcwbridges:prismarine_bricks_bridge",
+      "",
+      "mcwbridges:prismarine_bricks_bridge",
+      "mcwbridges:prismarine_bricks_bridge",
+      "mcwbridges:prismarine_bricks_bridge",
+      "mcwbridges:prismarine_bricks_bridge",
+      "mcwbridges:prismarine_bricks_bridge"
+    ]
+  },
+  "mcwdoors:print_acacia": {
+    "result": "mcwdoors:print_acacia",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      "minecraft:acacia_door",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      ""
+    ]
+  },
+  "mcwdoors:print_bamboo": {
+    "result": "mcwdoors:print_bamboo",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      "minecraft:bamboo_door",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      ""
+    ]
+  },
+  "mcwdoors:print_birch": {
+    "result": "mcwdoors:print_birch",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      "minecraft:birch_door",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      ""
+    ]
+  },
+  "mcwdoors:print_dark_oak": {
+    "result": "mcwdoors:print_dark_oak",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      "minecraft:dark_oak_door",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      ""
+    ]
+  },
+  "mcwdoors:print_jungle": {
+    "result": "mcwdoors:print_jungle",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      "minecraft:jungle_door",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      ""
+    ]
+  },
+  "mcwdoors:print_mystic": {
+    "result": "mcwdoors:print_mystic",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      "minecraft:warped_door",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      ""
+    ]
+  },
+  "mcwdoors:print_nether": {
+    "result": "mcwdoors:print_nether",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      "minecraft:crimson_door",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      ""
+    ]
+  },
+  "mcwdoors:print_oak": {
+    "result": "mcwdoors:print_oak",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      "minecraft:oak_door",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      ""
+    ]
+  },
+  "mcwdoors:print_spruce": {
+    "result": "mcwdoors:print_spruce",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      "minecraft:spruce_door",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      ""
+    ]
+  },
+  "mcwdoors:print_swamp": {
+    "result": "mcwdoors:print_swamp",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      "minecraft:mangrove_door",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      ""
+    ]
+  },
+  "mcwdoors:print_waffle": {
+    "result": "mcwdoors:print_waffle",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      "minecraft:cherry_door",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      ""
+    ]
+  },
+  "mcwdoors:print_whispering": {
+    "result": "mcwdoors:print_whispering",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      "minecraft:string",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      ""
+    ]
+  },
+  "mcwfences:prismarine_grass_topped_wall": {
+    "result": "mcwfences:prismarine_grass_topped_wall",
+    "count": 6,
+    "ingredients": [
+      "minecraft:prismarine",
+      "minecraft:dirt",
+      "minecraft:prismarine",
+      "minecraft:prismarine_bricks",
+      "minecraft:prismarine_bricks",
+      "minecraft:prismarine_bricks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfences:prismarine_pillar_wall": {
+    "result": "mcwfences:prismarine_pillar_wall",
+    "count": 5,
+    "ingredients": [
+      "minecraft:prismarine_bricks",
+      "minecraft:prismarine_bricks",
+      "minecraft:prismarine_bricks",
+      "minecraft:prismarine",
+      "",
+      "minecraft:prismarine",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfences:prismarine_railing_gate": {
+    "result": "mcwfences:prismarine_railing_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_bars",
+      "minecraft:prismarine",
+      "minecraft:iron_bars",
+      "minecraft:iron_bars",
+      "minecraft:prismarine",
+      "minecraft:iron_bars",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwholidays:present_doormat": {
+    "result": "mcwholidays:present_doormat",
+    "count": 8,
+    "ingredients": [
+      "minecraft:brown_carpet",
+      "minecraft:brown_carpet",
+      "minecraft:brown_carpet",
+      "minecraft:blue_dye",
+      "minecraft:brown_carpet",
+      "minecraft:yellow_dye",
+      "minecraft:brown_carpet",
+      "minecraft:brown_carpet",
+      "minecraft:brown_carpet"
+    ]
+  },
+  "mcwholidays:present_wall_deco": {
+    "result": "mcwholidays:present_wall_deco",
+    "count": 1,
+    "ingredients": [
+      "minecraft:red_dye",
+      "minecraft:paper",
+      "minecraft:red_dye",
+      "",
+      "minecraft:red_dye",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwtrpdoors:print_bamboo": {
+    "result": "mcwtrpdoors:print_bamboo",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      "minecraft:bamboo_trapdoor",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      ""
+    ]
+  },
+  "mcwtrpdoors:print_barred": {
+    "result": "mcwtrpdoors:print_barred",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      "minecraft:crimson_trapdoor",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      ""
+    ]
+  },
+  "mcwtrpdoors:print_beach": {
+    "result": "mcwtrpdoors:print_beach",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      "minecraft:jungle_trapdoor",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      ""
+    ]
+  },
+  "mcwtrpdoors:print_blossom": {
+    "result": "mcwtrpdoors:print_blossom",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      "minecraft:cherry_trapdoor",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      ""
+    ]
+  },
+  "mcwtrpdoors:print_classic": {
+    "result": "mcwtrpdoors:print_classic",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      "minecraft:oak_trapdoor",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      ""
+    ]
+  },
+  "mcwtrpdoors:print_cottage": {
+    "result": "mcwtrpdoors:print_cottage",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      "minecraft:spruce_trapdoor",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      ""
+    ]
+  },
+  "mcwtrpdoors:print_four_panel": {
+    "result": "mcwtrpdoors:print_four_panel",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      "minecraft:dark_oak_trapdoor",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      ""
+    ]
+  },
+  "mcwtrpdoors:print_mystic": {
+    "result": "mcwtrpdoors:print_mystic",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      "minecraft:warped_trapdoor",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      ""
+    ]
+  },
+  "mcwtrpdoors:print_paper": {
+    "result": "mcwtrpdoors:print_paper",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      "minecraft:birch_trapdoor",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      ""
+    ]
+  },
+  "mcwtrpdoors:print_swamp": {
+    "result": "mcwtrpdoors:print_swamp",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      "minecraft:mangrove_trapdoor",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      ""
+    ]
+  },
+  "mcwtrpdoors:print_tropical": {
+    "result": "mcwtrpdoors:print_tropical",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      "minecraft:acacia_trapdoor",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      ""
+    ]
+  },
+  "mcwtrpdoors:print_whispering": {
+    "result": "mcwtrpdoors:print_whispering",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      "minecraft:bone_meal",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      ""
+    ]
+  },
+  "mcwwindows:prismarine_brick_arrow_slit": {
+    "result": "mcwwindows:prismarine_brick_arrow_slit",
+    "count": 3,
+    "ingredients": [
+      "",
+      "minecraft:prismarine_bricks",
+      "minecraft:prismarine_bricks",
+      "",
+      "minecraft:prismarine_brick_slab",
+      "minecraft:prismarine_brick_slab",
+      "",
+      "minecraft:prismarine_bricks",
+      "minecraft:prismarine_bricks"
+    ]
+  },
+  "mcwwindows:prismarine_brick_gothic": {
+    "result": "mcwwindows:prismarine_brick_gothic",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:prismarine_bricks",
+      "",
+      "minecraft:prismarine_bricks",
+      "minecraft:glass_pane",
+      "minecraft:prismarine_bricks",
+      "",
+      "minecraft:prismarine_bricks",
+      ""
+    ]
+  },
+  "mcwwindows:prismarine_four_window": {
+    "result": "mcwwindows:prismarine_four_window",
+    "count": 8,
+    "ingredients": [
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "minecraft:prismarine_bricks",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base"
+    ]
+  },
+  "mcwwindows:prismarine_pane_window": {
+    "result": "mcwwindows:prismarine_pane_window",
+    "count": 8,
+    "ingredients": [
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "minecraft:prismarine_bricks",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base"
+    ]
+  },
+  "mcwwindows:prismarine_parapet": {
+    "result": "mcwwindows:prismarine_parapet",
+    "count": 5,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:prismarine_bricks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwwindows:prismarine_window": {
+    "result": "mcwwindows:prismarine_window",
+    "count": 4,
+    "ingredients": [
+      "",
+      "mcwwindows:window_base",
+      "",
+      "mcwwindows:window_base",
+      "minecraft:prismarine_bricks",
+      "mcwwindows:window_base",
+      "",
+      "mcwwindows:window_base",
+      ""
+    ]
+  },
+  "mcwwindows:prismarine_window2": {
+    "result": "mcwwindows:prismarine_window2",
+    "count": 8,
+    "ingredients": [
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "minecraft:prismarine_bricks",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base"
+    ]
+  },
+  "mekanism:precision_sawmill": {
+    "result": "mekanism:precision_sawmill",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:basic",
+      "minecraft:iron_ingot",
+      "minecraft:infused",
+      "mekanism:steel_casing",
+      "minecraft:infused",
+      "minecraft:iron_ingot",
+      "minecraft:basic",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "mekanism:pressure_disperser": {
+    "result": "mekanism:pressure_disperser",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:steel_ingot",
+      "minecraft:iron_bars",
+      "modern_industrialization:steel_ingot",
+      "minecraft:iron_bars",
+      "minecraft:infused",
+      "minecraft:iron_bars",
+      "modern_industrialization:steel_ingot",
+      "minecraft:iron_bars",
+      "modern_industrialization:steel_ingot"
+    ]
+  },
+  "merrymaking:prismarine_garland_wall": {
+    "result": "merrymaking:prismarine_garland_wall",
+    "count": 1,
+    "ingredients": [
+      "minecraft:prismarine_wall",
+      "merrymaking:garland_horizontal",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:prismarine_garland_multi_wall": {
+    "result": "merrymaking:prismarine_garland_multi_wall",
+    "count": 1,
+    "ingredients": [
+      "minecraft:prismarine_wall",
+      "merrymaking:garland_horizontal_multi",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:prismarine_garland_lights_wall": {
+    "result": "merrymaking:prismarine_garland_lights_wall",
+    "count": 1,
+    "ingredients": [
+      "minecraft:prismarine_wall",
+      "merrymaking:garland_horizontal_lights",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mffs:projector": {
+    "result": "mffs:projector",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:diamond",
+      "",
+      "mffs:focus_matrix",
+      "mffs:focus_matrix",
+      "mffs:focus_matrix",
+      "modern_industrialization:steel_ingot",
+      "mffs:battery",
+      "modern_industrialization:steel_ingot"
+    ]
+  },
+  "minecraft:prismarine": {
+    "result": "minecraft:prismarine",
+    "count": 1,
+    "ingredients": [
+      "minecraft:prismarine_shard",
+      "minecraft:prismarine_shard",
+      "",
+      "minecraft:prismarine_shard",
+      "minecraft:prismarine_shard",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:prismarine_bricks": {
+    "result": "minecraft:prismarine_bricks",
+    "count": 1,
+    "ingredients": [
+      "minecraft:prismarine_shard",
+      "minecraft:prismarine_shard",
+      "minecraft:prismarine_shard",
+      "minecraft:prismarine_shard",
+      "minecraft:prismarine_shard",
+      "minecraft:prismarine_shard",
+      "minecraft:prismarine_shard",
+      "minecraft:prismarine_shard",
+      "minecraft:prismarine_shard"
+    ]
+  },
+  "minecraft:prismarine_brick_slab": {
+    "result": "minecraft:prismarine_brick_slab",
+    "count": 6,
+    "ingredients": [
+      "minecraft:prismarine_bricks",
+      "minecraft:prismarine_bricks",
+      "minecraft:prismarine_bricks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:prismarine_brick_stairs": {
+    "result": "minecraft:prismarine_brick_stairs",
+    "count": 4,
+    "ingredients": [
+      "minecraft:prismarine_bricks",
+      "",
+      "",
+      "minecraft:prismarine_bricks",
+      "minecraft:prismarine_bricks",
+      "",
+      "minecraft:prismarine_bricks",
+      "minecraft:prismarine_bricks",
+      "minecraft:prismarine_bricks"
+    ]
+  },
+  "minecraft:prismarine_slab": {
+    "result": "minecraft:prismarine_slab",
+    "count": 6,
+    "ingredients": [
+      "minecraft:prismarine",
+      "minecraft:prismarine",
+      "minecraft:prismarine",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:prismarine_stairs": {
+    "result": "minecraft:prismarine_stairs",
+    "count": 4,
+    "ingredients": [
+      "minecraft:prismarine",
+      "",
+      "",
+      "minecraft:prismarine",
+      "minecraft:prismarine",
+      "",
+      "minecraft:prismarine",
+      "minecraft:prismarine",
+      "minecraft:prismarine"
+    ]
+  },
+  "minecraft:prismarine_wall": {
+    "result": "minecraft:prismarine_wall",
+    "count": 6,
+    "ingredients": [
+      "minecraft:prismarine",
+      "minecraft:prismarine",
+      "minecraft:prismarine",
+      "minecraft:prismarine",
+      "minecraft:prismarine",
+      "minecraft:prismarine",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:processing_unit": {
+    "result": "modern_industrialization:processing_unit",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:digital_circuit",
+      "modern_industrialization:memory_management_unit",
+      "modern_industrialization:digital_circuit",
+      "modern_industrialization:random_access_memory",
+      "modern_industrialization:processing_unit_board",
+      "modern_industrialization:random_access_memory",
+      "modern_industrialization:digital_circuit",
+      "modern_industrialization:arithmetic_logic_unit",
+      "modern_industrialization:digital_circuit"
+    ]
+  },
+  "modern_industrialization:pressurizer": {
+    "result": "modern_industrialization:pressurizer",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:advanced_pump",
+      "modern_industrialization:digital_circuit",
+      "modern_industrialization:advanced_pump",
+      "modern_industrialization:titanium_machine_casing_pipe",
+      "modern_industrialization:turbo_machine_hull",
+      "modern_industrialization:titanium_machine_casing_pipe",
+      "modern_industrialization:advanced_pump",
+      "modern_industrialization:aluminum_cable",
+      "modern_industrialization:advanced_pump"
+    ]
+  },
+  "mysticalagradditions:prudentium_apple": {
+    "result": "mysticalagradditions:prudentium_apple",
+    "count": 1,
+    "ingredients": [
+      "",
+      "mysticalagriculture:prudentium_essence",
+      "",
+      "mysticalagriculture:prudentium_essence",
+      "minecraft:golden_apple",
+      "mysticalagriculture:prudentium_essence",
+      "",
+      "mysticalagriculture:prudentium_essence",
+      ""
+    ]
+  },
+  "mysticalagradditions:prudentium_coal": {
+    "result": "mysticalagradditions:prudentium_coal",
+    "count": 9,
+    "ingredients": [
+      "mysticalagradditions:prudentium_coal_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mysticalagradditions:prudentium_coal_block": {
+    "result": "mysticalagradditions:prudentium_coal_block",
+    "count": 1,
+    "ingredients": [
+      "mysticalagradditions:prudentium_coal",
+      "mysticalagradditions:prudentium_coal",
+      "mysticalagradditions:prudentium_coal",
+      "mysticalagradditions:prudentium_coal",
+      "mysticalagradditions:prudentium_coal",
+      "mysticalagradditions:prudentium_coal",
+      "mysticalagradditions:prudentium_coal",
+      "mysticalagradditions:prudentium_coal",
+      "mysticalagradditions:prudentium_coal"
+    ]
+  },
+  "mysticalagradditions:prudentium_paxel": {
+    "result": "mysticalagradditions:prudentium_paxel",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:prudentium_axe",
+      "mysticalagriculture:prudentium_pickaxe",
+      "mysticalagriculture:prudentium_shovel",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "mysticalagriculture:prismarine_agglomeratio": {
+    "result": "mysticalagriculture:prismarine_agglomeratio",
+    "count": 1,
+    "ingredients": [
+      "minecraft:prismarine_crystals",
+      "minecraft:prismarine_shard",
+      "",
+      "minecraft:prismarine_shard",
+      "minecraft:prismarine_crystals",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mysticalagriculture:prosperity_block": {
+    "result": "mysticalagriculture:prosperity_block",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:prosperity_shard",
+      "mysticalagriculture:prosperity_shard",
+      "mysticalagriculture:prosperity_shard",
+      "mysticalagriculture:prosperity_shard",
+      "mysticalagriculture:prosperity_shard",
+      "mysticalagriculture:prosperity_shard",
+      "mysticalagriculture:prosperity_shard",
+      "mysticalagriculture:prosperity_shard",
+      "mysticalagriculture:prosperity_shard"
+    ]
+  },
+  "mysticalagriculture:prosperity_shard": {
+    "result": "mysticalagriculture:prosperity_shard",
+    "count": 9,
+    "ingredients": [
+      "mysticalagriculture:prosperity_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mysticalagriculture:prosperity_gemstone": {
+    "result": "mysticalagriculture:prosperity_gemstone",
+    "count": 9,
+    "ingredients": [
+      "mysticalagriculture:prosperity_gemstone_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mysticalagriculture:prosperity_gemstone_block": {
+    "result": "mysticalagriculture:prosperity_gemstone_block",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:prosperity_gemstone",
+      "mysticalagriculture:prosperity_gemstone",
+      "mysticalagriculture:prosperity_gemstone",
+      "mysticalagriculture:prosperity_gemstone",
+      "mysticalagriculture:prosperity_gemstone",
+      "mysticalagriculture:prosperity_gemstone",
+      "mysticalagriculture:prosperity_gemstone",
+      "mysticalagriculture:prosperity_gemstone",
+      "mysticalagriculture:prosperity_gemstone"
+    ]
+  },
+  "mysticalagriculture:prosperity_ingot": {
+    "result": "mysticalagriculture:prosperity_ingot",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:prosperity_nugget",
+      "mysticalagriculture:prosperity_nugget",
+      "mysticalagriculture:prosperity_nugget",
+      "mysticalagriculture:prosperity_nugget",
+      "mysticalagriculture:prosperity_nugget",
+      "mysticalagriculture:prosperity_nugget",
+      "mysticalagriculture:prosperity_nugget",
+      "mysticalagriculture:prosperity_nugget",
+      "mysticalagriculture:prosperity_nugget"
+    ]
+  },
+  "mysticalagriculture:prosperity_ingot_block": {
+    "result": "mysticalagriculture:prosperity_ingot_block",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:prosperity_ingot",
+      "mysticalagriculture:prosperity_ingot",
+      "mysticalagriculture:prosperity_ingot",
+      "mysticalagriculture:prosperity_ingot",
+      "mysticalagriculture:prosperity_ingot",
+      "mysticalagriculture:prosperity_ingot",
+      "mysticalagriculture:prosperity_ingot",
+      "mysticalagriculture:prosperity_ingot",
+      "mysticalagriculture:prosperity_ingot"
+    ]
+  },
+  "mysticalagriculture:prosperity_nugget": {
+    "result": "mysticalagriculture:prosperity_nugget",
+    "count": 9,
+    "ingredients": [
+      "mysticalagriculture:prosperity_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mysticalagriculture:prosperity_seed_base": {
+    "result": "mysticalagriculture:prosperity_seed_base",
+    "count": 1,
+    "ingredients": [
+      "",
+      "mysticalagriculture:prosperity_shard",
+      "",
+      "mysticalagriculture:prosperity_shard",
+      "minecraft:wheat_seeds",
+      "mysticalagriculture:prosperity_shard",
+      "",
+      "mysticalagriculture:prosperity_shard",
+      ""
+    ]
+  },
+  "mysticalagriculture:prudentium_block": {
+    "result": "mysticalagriculture:prudentium_block",
+    "count": 1,
+    "ingredients": [
+      "",
+      "mysticalagriculture:inferium_block",
+      "",
+      "mysticalagriculture:inferium_block",
+      "mysticalagriculture:master_infusion_crystal",
+      "mysticalagriculture:inferium_block",
+      "",
+      "mysticalagriculture:inferium_block",
+      ""
+    ]
+  },
+  "mysticalagriculture:prudentium_essence": {
+    "result": "mysticalagriculture:prudentium_essence",
+    "count": 4,
+    "ingredients": [
+      "mysticalagriculture:tertium_essence",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mysticalagriculture:prudentium_farmland": {
+    "result": "mysticalagriculture:prudentium_farmland",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:prudentium_essence",
+      "minecraft:farmland",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mysticalagriculture:prudentium_gemstone": {
+    "result": "mysticalagriculture:prudentium_gemstone",
+    "count": 9,
+    "ingredients": [
+      "mysticalagriculture:prudentium_gemstone_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mysticalagriculture:prudentium_gemstone_block": {
+    "result": "mysticalagriculture:prudentium_gemstone_block",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:prudentium_gemstone",
+      "mysticalagriculture:prudentium_gemstone",
+      "mysticalagriculture:prudentium_gemstone",
+      "mysticalagriculture:prudentium_gemstone",
+      "mysticalagriculture:prudentium_gemstone",
+      "mysticalagriculture:prudentium_gemstone",
+      "mysticalagriculture:prudentium_gemstone",
+      "mysticalagriculture:prudentium_gemstone",
+      "mysticalagriculture:prudentium_gemstone"
+    ]
+  },
+  "mysticalagriculture:prudentium_growth_accelerator": {
+    "result": "mysticalagriculture:prudentium_growth_accelerator",
+    "count": 3,
+    "ingredients": [
+      "mysticalagriculture:prudentium_essence",
+      "minecraft:stone",
+      "mysticalagriculture:prudentium_essence",
+      "minecraft:stone",
+      "mysticalagriculture:prudentium_gemstone",
+      "minecraft:stone",
+      "mysticalagriculture:prudentium_essence",
+      "minecraft:stone",
+      "mysticalagriculture:prudentium_essence"
+    ]
+  },
+  "mysticalagriculture:prudentium_ingot": {
+    "result": "mysticalagriculture:prudentium_ingot",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:prudentium_nugget",
+      "mysticalagriculture:prudentium_nugget",
+      "mysticalagriculture:prudentium_nugget",
+      "mysticalagriculture:prudentium_nugget",
+      "mysticalagriculture:prudentium_nugget",
+      "mysticalagriculture:prudentium_nugget",
+      "mysticalagriculture:prudentium_nugget",
+      "mysticalagriculture:prudentium_nugget",
+      "mysticalagriculture:prudentium_nugget"
+    ]
+  },
+  "mysticalagriculture:prudentium_ingot_block": {
+    "result": "mysticalagriculture:prudentium_ingot_block",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:prudentium_ingot",
+      "mysticalagriculture:prudentium_ingot",
+      "mysticalagriculture:prudentium_ingot",
+      "mysticalagriculture:prudentium_ingot",
+      "mysticalagriculture:prudentium_ingot",
+      "mysticalagriculture:prudentium_ingot",
+      "mysticalagriculture:prudentium_ingot",
+      "mysticalagriculture:prudentium_ingot",
+      "mysticalagriculture:prudentium_ingot"
+    ]
+  },
+  "mysticalagriculture:prudentium_nugget": {
+    "result": "mysticalagriculture:prudentium_nugget",
+    "count": 9,
+    "ingredients": [
+      "mysticalagriculture:prudentium_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mysticalagriculture:prudentium_upgrade": {
+    "result": "mysticalagriculture:prudentium_upgrade",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:prudentium_essence",
+      "mysticalagriculture:prudentium_ingot",
+      "mysticalagriculture:prudentium_essence",
+      "mysticalagriculture:prudentium_ingot",
+      "mysticalagriculture:inferium_upgrade",
+      "mysticalagriculture:prudentium_ingot",
+      "mysticalagriculture:prudentium_essence",
+      "mysticalagriculture:prudentium_ingot",
+      "mysticalagriculture:prudentium_essence"
+    ]
+  },
+  "minecraft:prismarine_crystals": {
+    "result": "minecraft:prismarine_crystals",
+    "count": 10,
+    "ingredients": [
+      "reliquary:guardian_spike",
+      "reliquary:guardian_spike",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "naturesaura:projectile_generator": {
+    "result": "naturesaura:projectile_generator",
+    "count": 1,
+    "ingredients": [
+      "naturesaura:infused_stone",
+      "minecraft:feather",
+      "naturesaura:tainted_gold",
+      "naturesaura:token_anger",
+      "minecraft:compass",
+      "naturesaura:token_anger",
+      "naturesaura:tainted_gold",
+      "minecraft:flint",
+      "naturesaura:infused_stone"
+    ]
+  },
+  "oritech:promethium_axe": {
+    "result": "oritech:promethium_axe",
+    "count": 1,
+    "ingredients": [
+      "oritech:prometheum_ingot",
+      "oritech:prometheum_ingot",
+      "",
+      "oritech:prometheum_ingot",
+      "oritech:destroyer_block",
+      "",
+      "",
+      "oritech:destroyer_block",
+      ""
+    ]
+  },
+  "oritech:promethium_pickaxe": {
+    "result": "oritech:promethium_pickaxe",
+    "count": 1,
+    "ingredients": [
+      "oritech:prometheum_ingot",
+      "oritech:prometheum_ingot",
+      "oritech:prometheum_ingot",
+      "",
+      "oritech:destroyer_block",
+      "",
+      "",
+      "oritech:destroyer_block",
+      ""
+    ]
+  },
+  "pamhc2foodextended:pralinesitem": {
+    "result": "pamhc2foodextended:pralinesitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:sugar",
+      "minecraft:pecan",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pneumaticcraft:pressure_chamber_glass": {
+    "result": "pneumaticcraft:pressure_chamber_glass",
+    "count": 4,
+    "ingredients": [
+      "minecraft:glass",
+      "pneumaticcraft:pressure_chamber_wall",
+      "pneumaticcraft:pressure_chamber_wall",
+      "pneumaticcraft:pressure_chamber_wall",
+      "pneumaticcraft:pressure_chamber_wall",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pneumaticcraft:pressure_chamber_interface": {
+    "result": "pneumaticcraft:pressure_chamber_interface",
+    "count": 2,
+    "ingredients": [
+      "minecraft:hopper",
+      "pneumaticcraft:pressure_chamber_wall",
+      "pneumaticcraft:pressure_chamber_wall",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pneumaticcraft:pressure_chamber_valve": {
+    "result": "pneumaticcraft:pressure_chamber_valve",
+    "count": 4,
+    "ingredients": [
+      "pneumaticcraft:pressure_tube",
+      "pneumaticcraft:pressure_chamber_wall",
+      "pneumaticcraft:pressure_chamber_wall",
+      "pneumaticcraft:pressure_chamber_wall",
+      "pneumaticcraft:pressure_chamber_wall",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pneumaticcraft:pressure_chamber_wall": {
+    "result": "pneumaticcraft:pressure_chamber_wall",
+    "count": 16,
+    "ingredients": [
+      "pneumaticcraft:reinforced_bricks",
+      "pneumaticcraft:reinforced_bricks",
+      "pneumaticcraft:reinforced_bricks",
+      "pneumaticcraft:reinforced_bricks",
+      "",
+      "pneumaticcraft:reinforced_bricks",
+      "pneumaticcraft:reinforced_bricks",
+      "pneumaticcraft:reinforced_bricks",
+      "pneumaticcraft:reinforced_bricks"
+    ]
+  },
+  "pneumaticcraft:pressure_gauge": {
+    "result": "pneumaticcraft:pressure_gauge",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:copper_ingot",
+      "",
+      "minecraft:copper_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:copper_ingot",
+      "",
+      "minecraft:copper_ingot",
+      ""
+    ]
+  },
+  "pneumaticcraft:pressure_gauge_module": {
+    "result": "pneumaticcraft:pressure_gauge_module",
+    "count": 1,
+    "ingredients": [
+      "",
+      "pneumaticcraft:pressure_gauge",
+      "",
+      "minecraft:redstone",
+      "pneumaticcraft:pressure_tube",
+      "minecraft:redstone",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pneumaticcraft:pressure_tube": {
+    "result": "pneumaticcraft:pressure_tube",
+    "count": 8,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:glass",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pneumaticcraft:pressurized_spawner": {
+    "result": "pneumaticcraft:pressurized_spawner",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "pneumaticcraft:advanced_pressure_tube",
+      "minecraft:iron_ingot",
+      "pneumaticcraft:advanced_pressure_tube",
+      "pneumaticcraft:empty_spawner",
+      "pneumaticcraft:advanced_pressure_tube",
+      "minecraft:iron_ingot",
+      "pneumaticcraft:advanced_pressure_tube",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "pneumaticcraft:printed_circuit_board": {
+    "result": "pneumaticcraft:printed_circuit_board",
+    "count": 1,
+    "ingredients": [
+      "",
+      "pneumaticcraft:transistor",
+      "",
+      "pneumaticcraft:capacitor",
+      "pneumaticcraft:unassembled_pcb",
+      "pneumaticcraft:capacitor",
+      "",
+      "pneumaticcraft:transistor",
+      ""
+    ]
+  },
+  "pneumaticcraft:programmable_controller": {
+    "result": "pneumaticcraft:programmable_controller",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "pneumaticcraft:remote",
+      "minecraft:iron_ingot",
+      "pneumaticcraft:printed_circuit_board",
+      "pneumaticcraft:drone",
+      "pneumaticcraft:advanced_pressure_tube",
+      "minecraft:iron_ingot",
+      "pneumaticcraft:network_registry",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "pneumaticcraft:programmer": {
+    "result": "pneumaticcraft:programmer",
+    "count": 1,
+    "ingredients": [
+      "minecraft:red",
+      "minecraft:black_stained_glass_pane",
+      "minecraft:red",
+      "pneumaticcraft:turbine_rotor",
+      "pneumaticcraft:printed_circuit_board",
+      "pneumaticcraft:turbine_rotor",
+      "minecraft:plastic_sheets",
+      "",
+      "minecraft:plastic_sheets"
+    ]
+  },
+  "pneumaticcraft:programming_puzzle": {
+    "result": "pneumaticcraft:programming_puzzle",
+    "count": 8,
+    "ingredients": [
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "pneumaticcraft:printed_circuit_board",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets"
+    ]
+  },
+  "productivetrees:prairie_crabapple_bookshelf": {
+    "result": "productivetrees:prairie_crabapple_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:prairie_crabapple_planks",
+      "productivetrees:prairie_crabapple_planks",
+      "productivetrees:prairie_crabapple_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:prairie_crabapple_planks",
+      "productivetrees:prairie_crabapple_planks",
+      "productivetrees:prairie_crabapple_planks"
+    ]
+  },
+  "productivetrees:prairie_crabapple_button": {
+    "result": "productivetrees:prairie_crabapple_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:prairie_crabapple_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:prairie_crabapple_crate": {
+    "result": "productivetrees:prairie_crabapple_crate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:prairie_crabapple",
+      "minecraft:prairie_crabapple",
+      "minecraft:prairie_crabapple",
+      "minecraft:prairie_crabapple",
+      "productivetrees:prairie_crabapple",
+      "minecraft:prairie_crabapple",
+      "minecraft:prairie_crabapple",
+      "minecraft:prairie_crabapple",
+      "minecraft:prairie_crabapple"
+    ]
+  },
+  "productivetrees:prairie_crabapple": {
+    "result": "productivetrees:prairie_crabapple",
+    "count": 9,
+    "ingredients": [
+      "productivetrees:prairie_crabapple_crate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:prairie_crabapple_door": {
+    "result": "productivetrees:prairie_crabapple_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:prairie_crabapple_planks",
+      "productivetrees:prairie_crabapple_planks",
+      "",
+      "productivetrees:prairie_crabapple_planks",
+      "productivetrees:prairie_crabapple_planks",
+      "",
+      "productivetrees:prairie_crabapple_planks",
+      "productivetrees:prairie_crabapple_planks",
+      ""
+    ]
+  },
+  "productivetrees:prairie_crabapple_fence": {
+    "result": "productivetrees:prairie_crabapple_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:prairie_crabapple_planks",
+      "minecraft:stick",
+      "productivetrees:prairie_crabapple_planks",
+      "productivetrees:prairie_crabapple_planks",
+      "minecraft:stick",
+      "productivetrees:prairie_crabapple_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:prairie_crabapple_fence_gate": {
+    "result": "productivetrees:prairie_crabapple_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:prairie_crabapple_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:prairie_crabapple_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:prairie_crabapple_hanging_sign": {
+    "result": "productivetrees:prairie_crabapple_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:prairie_crabapple_planks",
+      "productivetrees:prairie_crabapple_planks",
+      "productivetrees:prairie_crabapple_planks",
+      "productivetrees:prairie_crabapple_planks",
+      "productivetrees:prairie_crabapple_planks",
+      "productivetrees:prairie_crabapple_planks"
+    ]
+  },
+  "productivetrees:prairie_crabapple_planks": {
+    "result": "productivetrees:prairie_crabapple_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:prairie_crabapple_pressure_plate": {
+    "result": "productivetrees:prairie_crabapple_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:prairie_crabapple_planks",
+      "productivetrees:prairie_crabapple_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:prairie_crabapple_sign": {
+    "result": "productivetrees:prairie_crabapple_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:prairie_crabapple_planks",
+      "productivetrees:prairie_crabapple_planks",
+      "productivetrees:prairie_crabapple_planks",
+      "productivetrees:prairie_crabapple_planks",
+      "productivetrees:prairie_crabapple_planks",
+      "productivetrees:prairie_crabapple_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:prairie_crabapple_slab": {
+    "result": "productivetrees:prairie_crabapple_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:prairie_crabapple_planks",
+      "productivetrees:prairie_crabapple_planks",
+      "productivetrees:prairie_crabapple_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:prairie_crabapple_stairs": {
+    "result": "productivetrees:prairie_crabapple_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:prairie_crabapple_planks",
+      "",
+      "",
+      "productivetrees:prairie_crabapple_planks",
+      "productivetrees:prairie_crabapple_planks",
+      "",
+      "productivetrees:prairie_crabapple_planks",
+      "productivetrees:prairie_crabapple_planks",
+      "productivetrees:prairie_crabapple_planks"
+    ]
+  },
+  "productivetrees:prairie_crabapple_trapdoor": {
+    "result": "productivetrees:prairie_crabapple_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:prairie_crabapple_planks",
+      "productivetrees:prairie_crabapple_planks",
+      "productivetrees:prairie_crabapple_planks",
+      "productivetrees:prairie_crabapple_planks",
+      "productivetrees:prairie_crabapple_planks",
+      "productivetrees:prairie_crabapple_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:prairie_crabapple_wood": {
+    "result": "productivetrees:prairie_crabapple_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:prairie_crabapple_log",
+      "productivetrees:prairie_crabapple_log",
+      "",
+      "productivetrees:prairie_crabapple_log",
+      "productivetrees:prairie_crabapple_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pylons:protection_pylon": {
+    "result": "pylons:protection_pylon",
+    "count": 1,
+    "ingredients": [
+      "minecraft:quartz_slab",
+      "minecraft:quartz_slab",
+      "minecraft:quartz_slab",
+      "minecraft:iron_bars",
+      "minecraft:honeycomb_block",
+      "minecraft:iron_bars",
+      "minecraft:polished_blackstone",
+      "minecraft:polished_blackstone",
+      "minecraft:polished_blackstone"
+    ]
+  },
+  "refinedstorage:processor_binding": {
+    "result": "refinedstorage:processor_binding",
+    "count": 8,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "minecraft:string",
+      "minecraft:slime_ball",
+      "minecraft:string",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:prismaglass": {
+    "result": "regions_unexplored:prismaglass",
+    "count": 2,
+    "ingredients": [
+      "",
+      "minecraft:prismarite_crystals",
+      "",
+      "minecraft:prismarite_crystals",
+      "minecraft:glass",
+      "minecraft:prismarite_crystals",
+      "",
+      "minecraft:prismarite_crystals",
+      ""
+    ]
+  },
+  "regions_unexplored:prismoss": {
+    "result": "regions_unexplored:prismoss",
+    "count": 1,
+    "ingredients": [
+      "regions_unexplored:prismoss_sprout",
+      "",
+      "",
+      "minecraft:stone",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "rftoolsbuilder:projector": {
+    "result": "rftoolsbuilder:projector",
+    "count": 1,
+    "ingredients": [
+      "rftoolsbase:infused_diamond",
+      "minecraft:ender_pearl",
+      "rftoolsbase:infused_diamond",
+      "minecraft:glowstone_dust",
+      "rftoolsbase:machine_frame",
+      "minecraft:glowstone_dust",
+      "rftoolsbase:infused_diamond",
+      "minecraft:redstone",
+      "rftoolsbase:infused_diamond"
+    ]
+  },
+  "securitycraft:projector": {
+    "result": "securitycraft:projector",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "securitycraft:reinforced_iron_block",
+      "securitycraft:reinforced_redstone_lamp",
+      "securitycraft:reinforced_glass_pane",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "securitycraft:protecto": {
+    "result": "securitycraft:protecto",
+    "count": 1,
+    "ingredients": [
+      "securitycraft:reinforced_obsidian",
+      "minecraft:daylight_detector",
+      "securitycraft:reinforced_obsidian",
+      "securitycraft:reinforced_obsidian",
+      "minecraft:ender_eye",
+      "securitycraft:reinforced_obsidian",
+      "securitycraft:reinforced_obsidian",
+      "securitycraft:reinforced_obsidian",
+      "securitycraft:reinforced_obsidian"
+    ]
+  },
+  "sfm:printing_press": {
+    "result": "sfm:printing_press",
+    "count": 1,
+    "ingredients": [
+      "minecraft:light_weighted_pressure_plate",
+      "minecraft:black",
+      "minecraft:light_weighted_pressure_plate",
+      "minecraft:stone",
+      "minecraft:anvil",
+      "minecraft:stone",
+      "minecraft:iron_bars",
+      "minecraft:piston",
+      "minecraft:iron_bars"
+    ]
+  },
+  "silentgear:prospector_hammer_blueprint": {
+    "result": "silentgear:prospector_hammer_blueprint",
+    "count": 1,
+    "ingredients": [
+      "minecraft:paper",
+      "minecraft:paper",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:iron_ingot",
+      ""
+    ]
+  },
+  "silentgear:prospector_hammer_template": {
+    "result": "silentgear:prospector_hammer_template",
+    "count": 1,
+    "ingredients": [
+      "minecraft:template_boards",
+      "minecraft:template_boards",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:iron_ingot",
+      ""
+    ]
+  },
+  "supplementaries:present": {
+    "result": "supplementaries:present",
+    "count": 1,
+    "ingredients": [
+      "create:cardboard",
+      "create:cardboard",
+      "create:cardboard",
+      "create:cardboard",
+      "",
+      "create:cardboard",
+      "create:cardboard",
+      "create:cardboard",
+      "create:cardboard"
+    ]
+  },
+  "xycraft_override:prismarine_bricks_blue": {
+    "result": "xycraft_override:prismarine_bricks_blue",
+    "count": 2,
+    "ingredients": [
+      "xycraft_world:xychorium_gem_blue",
+      "minecraft:prismarine_bricks",
+      "",
+      "minecraft:prismarine_bricks",
+      "xycraft_world:xychorium_gem_blue",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xycraft_override:prismarine_bricks_dark": {
+    "result": "xycraft_override:prismarine_bricks_dark",
+    "count": 2,
+    "ingredients": [
+      "xycraft_world:xychorium_gem_dark",
+      "minecraft:prismarine_bricks",
+      "",
+      "minecraft:prismarine_bricks",
+      "xycraft_world:xychorium_gem_dark",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xycraft_override:prismarine_bricks_green": {
+    "result": "xycraft_override:prismarine_bricks_green",
+    "count": 2,
+    "ingredients": [
+      "xycraft_world:xychorium_gem_green",
+      "minecraft:prismarine_bricks",
+      "",
+      "minecraft:prismarine_bricks",
+      "xycraft_world:xychorium_gem_green",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xycraft_override:prismarine_bricks_light": {
+    "result": "xycraft_override:prismarine_bricks_light",
+    "count": 2,
+    "ingredients": [
+      "xycraft_world:xychorium_gem_light",
+      "minecraft:prismarine_bricks",
+      "",
+      "minecraft:prismarine_bricks",
+      "xycraft_world:xychorium_gem_light",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xycraft_override:prismarine_bricks_red": {
+    "result": "xycraft_override:prismarine_bricks_red",
+    "count": 2,
+    "ingredients": [
+      "xycraft_world:xychorium_gem_red",
+      "minecraft:prismarine_bricks",
+      "",
+      "minecraft:prismarine_bricks",
+      "xycraft_world:xychorium_gem_red",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

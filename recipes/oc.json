@@ -1,0 +1,197 @@
+{
+  "bibliocraft:occultism_otherplanks_bookcase": {
+    "result": "bibliocraft:occultism_otherplanks_bookcase",
+    "count": 1,
+    "ingredients": [
+      "occultism:otherplanks",
+      "occultism:otherplanks_slab",
+      "occultism:otherplanks",
+      "occultism:otherplanks",
+      "occultism:otherplanks_slab",
+      "occultism:otherplanks",
+      "occultism:otherplanks",
+      "occultism:otherplanks_slab",
+      "occultism:otherplanks"
+    ]
+  },
+  "bibliocraft:occultism_otherplanks_fancy_armor_stand": {
+    "result": "bibliocraft:occultism_otherplanks_fancy_armor_stand",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "occultism:otherplanks_slab",
+      "occultism:otherplanks_slab",
+      "occultism:otherplanks_slab"
+    ]
+  },
+  "bibliocraft:occultism_otherplanks_fancy_clock": {
+    "result": "bibliocraft:occultism_otherplanks_fancy_clock",
+    "count": 1,
+    "ingredients": [
+      "occultism:otherplanks_slab",
+      "minecraft:clock",
+      "occultism:otherplanks_slab",
+      "occultism:otherplanks_slab",
+      "minecraft:stick",
+      "occultism:otherplanks_slab",
+      "occultism:otherplanks_slab",
+      "minecraft:copper_ingot",
+      "occultism:otherplanks_slab"
+    ]
+  },
+  "bibliocraft:occultism_otherplanks_fancy_crafter": {
+    "result": "bibliocraft:occultism_otherplanks_fancy_crafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black",
+      "minecraft:crafting_tables",
+      "minecraft:feather",
+      "occultism:otherplanks",
+      "minecraft:glass",
+      "occultism:otherplanks",
+      "occultism:otherplanks",
+      "minecraft:crafter",
+      "occultism:otherplanks"
+    ]
+  },
+  "bibliocraft:occultism_otherplanks_fancy_sign": {
+    "result": "bibliocraft:occultism_otherplanks_fancy_sign",
+    "count": 1,
+    "ingredients": [
+      "occultism:otherplanks",
+      "minecraft:paper",
+      "occultism:otherplanks",
+      "occultism:otherplanks",
+      "minecraft:paper",
+      "occultism:otherplanks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "bibliocraft:occultism_otherplanks_grandfather_clock": {
+    "result": "bibliocraft:occultism_otherplanks_grandfather_clock",
+    "count": 1,
+    "ingredients": [
+      "bibliocraft:occultism_otherplanks_fancy_clock",
+      "bibliocraft:occultism_otherplanks_fancy_clock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:occultism_otherplanks_label": {
+    "result": "bibliocraft:occultism_otherplanks_label",
+    "count": 1,
+    "ingredients": [
+      "occultism:otherplanks_slab",
+      "occultism:otherplanks_slab",
+      "occultism:otherplanks_slab",
+      "occultism:otherplanks_slab",
+      "occultism:otherplanks_slab",
+      "occultism:otherplanks_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:occultism_otherplanks_potion_shelf": {
+    "result": "bibliocraft:occultism_otherplanks_potion_shelf",
+    "count": 1,
+    "ingredients": [
+      "occultism:otherplanks_slab",
+      "occultism:otherplanks_slab",
+      "occultism:otherplanks_slab",
+      "occultism:otherplanks",
+      "minecraft:glass_bottle",
+      "occultism:otherplanks",
+      "occultism:otherplanks_slab",
+      "occultism:otherplanks_slab",
+      "occultism:otherplanks_slab"
+    ]
+  },
+  "bibliocraft:occultism_otherplanks_shelf": {
+    "result": "bibliocraft:occultism_otherplanks_shelf",
+    "count": 1,
+    "ingredients": [
+      "occultism:otherplanks_slab",
+      "occultism:otherplanks_slab",
+      "occultism:otherplanks_slab",
+      "",
+      "occultism:otherplanks",
+      "",
+      "occultism:otherplanks_slab",
+      "occultism:otherplanks_slab",
+      "occultism:otherplanks_slab"
+    ]
+  },
+  "bibliocraft:occultism_otherplanks_table": {
+    "result": "bibliocraft:occultism_otherplanks_table",
+    "count": 1,
+    "ingredients": [
+      "occultism:otherplanks_slab",
+      "occultism:otherplanks_slab",
+      "occultism:otherplanks_slab",
+      "",
+      "occultism:otherplanks",
+      "",
+      "",
+      "occultism:otherplanks",
+      ""
+    ]
+  },
+  "bibliocraft:occultism_otherplanks_tool_rack": {
+    "result": "bibliocraft:occultism_otherplanks_tool_rack",
+    "count": 1,
+    "ingredients": [
+      "occultism:otherplanks_slab",
+      "occultism:otherplanks_slab",
+      "occultism:otherplanks_slab",
+      "occultism:otherplanks_slab",
+      "minecraft:iron_ingot",
+      "occultism:otherplanks_slab",
+      "occultism:otherplanks_slab",
+      "occultism:otherplanks_slab",
+      "occultism:otherplanks_slab"
+    ]
+  },
+  "enderio:octadic_capacitor": {
+    "result": "enderio:octadic_capacitor",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:vibrant_alloy",
+      "",
+      "enderio:double_layer_capacitor",
+      "minecraft:glowstone",
+      "enderio:double_layer_capacitor",
+      "",
+      "minecraft:vibrant_alloy",
+      ""
+    ]
+  },
+  "create:ochrum": {
+    "result": "create:ochrum",
+    "count": 16,
+    "ingredients": [
+      "mysticalagriculture:stone_essence",
+      "mysticalagriculture:stone_essence",
+      "mysticalagriculture:stone_essence",
+      "mysticalagriculture:stone_essence",
+      "mysticalagriculture:gold_essence",
+      "mysticalagriculture:stone_essence",
+      "mysticalagriculture:stone_essence",
+      "mysticalagriculture:stone_essence",
+      "mysticalagriculture:stone_essence"
+    ]
+  }
+}

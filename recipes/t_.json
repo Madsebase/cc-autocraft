@@ -1,0 +1,17 @@
+{
+  "little_big_redstone:t_flip_flop": {
+    "result": "little_big_redstone:t_flip_flop",
+    "count": 1,
+    "ingredients": [
+      "little_big_redstone:nand_gate",
+      "",
+      "",
+      "little_big_redstone:rs_nor_latch",
+      "little_big_redstone:redstone_bit",
+      "minecraft:redstone",
+      "little_big_redstone:nand_gate",
+      "",
+      ""
+    ]
+  }
+}

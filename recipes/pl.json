@@ -1,0 +1,2147 @@
+{
+  "actuallyadditions:placer": {
+    "result": "actuallyadditions:placer",
+    "count": 1,
+    "ingredients": [
+      "actuallyadditions:placer",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "actuallyadditions:player_interface": {
+    "result": "actuallyadditions:player_interface",
+    "count": 1,
+    "ingredients": [
+      "actuallyadditions:ender_casing",
+      "minecraft:wither_skeleton_skull",
+      "actuallyadditions:ender_casing",
+      "actuallyadditions:empowered_diamatine_crystal",
+      "actuallyadditions:ender_casing",
+      "actuallyadditions:empowered_diamatine_crystal",
+      "actuallyadditions:ender_casing",
+      "actuallyadditions:advanced_coil",
+      "actuallyadditions:ender_casing"
+    ]
+  },
+  "actuallyadditions:player_probe": {
+    "result": "actuallyadditions:player_probe",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_bars",
+      "",
+      "minecraft:iron_bars",
+      "minecraft:iron_bars",
+      "minecraft:iron_helmet",
+      "minecraft:iron_bars",
+      "actuallyadditions:empowered_restonia_crystal",
+      "minecraft:wither_skeleton_skull",
+      "actuallyadditions:empowered_restonia_crystal"
+    ]
+  },
+  "advancedperipherals:player_detector": {
+    "result": "advancedperipherals:player_detector",
+    "count": 1,
+    "ingredients": [
+      "minecraft:smooth_stone",
+      "minecraft:smooth_stone",
+      "minecraft:smooth_stone",
+      "minecraft:smooth_stone",
+      "advancedperipherals:peripheral_casing",
+      "minecraft:smooth_stone",
+      "minecraft:smooth_stone",
+      "minecraft:redstone",
+      "minecraft:smooth_stone"
+    ]
+  },
+  "allthecompressed:platinum_block_1x": {
+    "result": "allthecompressed:platinum_block_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:platinum_block_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:platinum_block_2x": {
+    "result": "allthecompressed:platinum_block_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:platinum_block_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:platinum_block_3x": {
+    "result": "allthecompressed:platinum_block_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:platinum_block_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:platinum_block_4x": {
+    "result": "allthecompressed:platinum_block_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:platinum_block_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:platinum_block_5x": {
+    "result": "allthecompressed:platinum_block_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:platinum_block_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:platinum_block_6x": {
+    "result": "allthecompressed:platinum_block_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:platinum_block_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:platinum_block_7x": {
+    "result": "allthecompressed:platinum_block_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:platinum_block_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:platinum_block_8x": {
+    "result": "allthecompressed:platinum_block_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:platinum_block_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:platinum_block_9x": {
+    "result": "allthecompressed:platinum_block_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:platinum_block_8x",
+      "allthecompressed:platinum_block_8x",
+      "allthecompressed:platinum_block_8x",
+      "allthecompressed:platinum_block_8x",
+      "allthecompressed:platinum_block_8x",
+      "allthecompressed:platinum_block_8x",
+      "allthecompressed:platinum_block_8x",
+      "allthecompressed:platinum_block_8x",
+      "allthecompressed:platinum_block_8x"
+    ]
+  },
+  "alltheores:platinum_block": {
+    "result": "alltheores:platinum_block",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:tin_ingot",
+      "modern_industrialization:tin_ingot",
+      "modern_industrialization:tin_ingot",
+      "modern_industrialization:tin_ingot",
+      "modern_industrialization:tin_ingot",
+      "modern_industrialization:tin_ingot",
+      "modern_industrialization:tin_ingot",
+      "modern_industrialization:tin_ingot",
+      "modern_industrialization:tin_ingot"
+    ]
+  },
+  "alltheores:platinum_ore_hammer": {
+    "result": "alltheores:platinum_ore_hammer",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:platinum",
+      "minecraft:stick",
+      "",
+      "minecraft:stick",
+      "minecraft:platinum",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "alltheores:platinum_dust": {
+    "result": "alltheores:platinum_dust",
+    "count": 2,
+    "ingredients": [
+      "minecraft:ore_hammers",
+      "minecraft:platinum",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "alltheores:platinum_gear": {
+    "result": "alltheores:platinum_gear",
+    "count": 1,
+    "ingredients": [
+      "",
+      "modern_industrialization:tin_ingot",
+      "",
+      "modern_industrialization:tin_ingot",
+      "minecraft:iron",
+      "modern_industrialization:tin_ingot",
+      "",
+      "modern_industrialization:tin_ingot",
+      ""
+    ]
+  },
+  "alltheores:platinum_ingot": {
+    "result": "alltheores:platinum_ingot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:platinum",
+      "minecraft:platinum",
+      "minecraft:platinum",
+      "minecraft:platinum",
+      "minecraft:platinum",
+      "minecraft:platinum",
+      "minecraft:platinum",
+      "minecraft:platinum",
+      "minecraft:platinum"
+    ]
+  },
+  "alltheores:platinum_nugget": {
+    "result": "alltheores:platinum_nugget",
+    "count": 9,
+    "ingredients": [
+      "modern_industrialization:tin_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "alltheores:platinum_plate": {
+    "result": "alltheores:platinum_plate",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "minecraft:ore_hammers",
+      "modern_industrialization:tin_ingot",
+      "",
+      "modern_industrialization:tin_ingot",
+      "",
+      ""
+    ]
+  },
+  "alltheores:platinum_rod": {
+    "result": "alltheores:platinum_rod",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "modern_industrialization:tin_ingot",
+      "minecraft:ore_hammers",
+      "modern_industrialization:tin_ingot",
+      ""
+    ]
+  },
+  "bibliocraft:plumb_line": {
+    "result": "bibliocraft:plumb_line",
+    "count": 1,
+    "ingredients": [
+      "minecraft:string",
+      "minecraft:string",
+      "minecraft:string",
+      "minecraft:string",
+      "",
+      "minecraft:string",
+      "minecraft:gold_ingot",
+      "",
+      "minecraft:string"
+    ]
+  },
+  "minecraft:player_head": {
+    "result": "minecraft:player_head",
+    "count": 1,
+    "ingredients": [
+      "minecraft:skulls",
+      "computercraft:computer_advanced",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:placard": {
+    "result": "create:placard",
+    "count": 1,
+    "ingredients": [
+      "minecraft:item_frame",
+      "minecraft:brass",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "draconicevolution:player_dislocator_unbound": {
+    "result": "draconicevolution:player_dislocator_unbound",
+    "count": 1,
+    "ingredients": [
+      "draconicevolution:dislocator",
+      "draconicevolution:draconium_core",
+      "minecraft:ghast_tear",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "herbsandharvest:plum_pudding": {
+    "result": "herbsandharvest:plum_pudding",
+    "count": 1,
+    "ingredients": [
+      "minecraft:plum",
+      "minecraft:butter",
+      "minecraft:egg",
+      "minecraft:wheat",
+      "minecraft:sugar",
+      "herbsandharvest:ground_cinnamon",
+      "minecraft:milk",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:plate_aluminum": {
+    "result": "immersiveengineering:plate_aluminum",
+    "count": 1,
+    "ingredients": [
+      "minecraft:aluminum",
+      "immersiveengineering:hammer",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:plate_constantan": {
+    "result": "immersiveengineering:plate_constantan",
+    "count": 1,
+    "ingredients": [
+      "minecraft:constantan",
+      "immersiveengineering:hammer",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:plate_copper": {
+    "result": "immersiveengineering:plate_copper",
+    "count": 1,
+    "ingredients": [
+      "minecraft:copper_ingot",
+      "immersiveengineering:hammer",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:plate_electrum": {
+    "result": "immersiveengineering:plate_electrum",
+    "count": 1,
+    "ingredients": [
+      "minecraft:electrum",
+      "immersiveengineering:hammer",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:plate_gold": {
+    "result": "immersiveengineering:plate_gold",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "immersiveengineering:hammer",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:plate_iron": {
+    "result": "immersiveengineering:plate_iron",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "immersiveengineering:hammer",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:plate_lead": {
+    "result": "immersiveengineering:plate_lead",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:lead_ingot",
+      "immersiveengineering:hammer",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:plate_nickel": {
+    "result": "immersiveengineering:plate_nickel",
+    "count": 1,
+    "ingredients": [
+      "minecraft:nickel",
+      "immersiveengineering:hammer",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:plate_silver": {
+    "result": "immersiveengineering:plate_silver",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:silver_ingot",
+      "immersiveengineering:hammer",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:plate_steel": {
+    "result": "immersiveengineering:plate_steel",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:steel_ingot",
+      "immersiveengineering:hammer",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:plate_uranium": {
+    "result": "immersiveengineering:plate_uranium",
+    "count": 1,
+    "ingredients": [
+      "minecraft:uranium",
+      "immersiveengineering:hammer",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "industrialforegoing:plant_fertilizer": {
+    "result": "industrialforegoing:plant_fertilizer",
+    "count": 1,
+    "ingredients": [
+      "minecraft:plastics",
+      "minecraft:glass_bottle",
+      "minecraft:plastics",
+      "minecraft:leather",
+      "minecraft:simple",
+      "minecraft:leather",
+      "minecraft:iron",
+      "minecraft:redstone",
+      "minecraft:iron"
+    ]
+  },
+  "industrialforegoing:plant_gatherer": {
+    "result": "industrialforegoing:plant_gatherer",
+    "count": 1,
+    "ingredients": [
+      "minecraft:plastics",
+      "minecraft:iron_hoe",
+      "minecraft:plastics",
+      "minecraft:iron_axe",
+      "minecraft:pity",
+      "minecraft:iron_axe",
+      "minecraft:gold",
+      "minecraft:redstone",
+      "minecraft:gold"
+    ]
+  },
+  "industrialforegoing:plant_sower": {
+    "result": "industrialforegoing:plant_sower",
+    "count": 1,
+    "ingredients": [
+      "minecraft:plastics",
+      "minecraft:flower_pot",
+      "minecraft:plastics",
+      "minecraft:piston",
+      "minecraft:pity",
+      "minecraft:piston",
+      "minecraft:iron",
+      "minecraft:redstone",
+      "minecraft:iron"
+    ]
+  },
+  "irons_spellbooks:plagued_boots": {
+    "result": "irons_spellbooks:plagued_boots",
+    "count": 1,
+    "ingredients": [
+      "minecraft:wizard_base_boots",
+      "irons_spellbooks:nature_rune",
+      "irons_spellbooks:arcane_essence",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "irons_spellbooks:plagued_chestplate": {
+    "result": "irons_spellbooks:plagued_chestplate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:chest",
+      "irons_spellbooks:nature_rune",
+      "irons_spellbooks:arcane_essence",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "irons_spellbooks:plagued_helmet": {
+    "result": "irons_spellbooks:plagued_helmet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:wizard_base_helmet",
+      "irons_spellbooks:nature_rune",
+      "irons_spellbooks:arcane_essence",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "irons_spellbooks:plagued_leggings": {
+    "result": "irons_spellbooks:plagued_leggings",
+    "count": 1,
+    "ingredients": [
+      "minecraft:wizard_base_leggings",
+      "irons_spellbooks:nature_rune",
+      "irons_spellbooks:arcane_essence",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "justdirethings:playeraccessor": {
+    "result": "justdirethings:playeraccessor",
+    "count": 1,
+    "ingredients": [
+      "justdirethings:playeraccessor",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:pliers": {
+    "result": "mcwbridges:pliers",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:iron_nugget",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:iron_nugget",
+      "minecraft:iron_nugget",
+      "",
+      "minecraft:iron_ingot",
+      ""
+    ]
+  },
+  "merrymaking:plaid_pajama_pants_leather": {
+    "result": "merrymaking:plaid_pajama_pants_leather",
+    "count": 1,
+    "ingredients": [
+      "minecraft:leather",
+      "minecraft:leather",
+      "minecraft:leather",
+      "minecraft:leather",
+      "",
+      "minecraft:leather",
+      "minecraft:leather",
+      "minecraft:red_wool",
+      "minecraft:leather"
+    ]
+  },
+  "minecolonies:plain_cheesecake": {
+    "result": "minecolonies:plain_cheesecake",
+    "count": 1,
+    "ingredients": [
+      "minecolonies:creamcheese",
+      "minecolonies:creamcheese",
+      "minecolonies:durum",
+      "minecolonies:butter",
+      "minecraft:sugar",
+      "minecraft:egg",
+      "minecraft:egg",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:plutonium_battery": {
+    "result": "modern_industrialization:plutonium_battery",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:superconductor_cable",
+      "minecraft:battery_alloy",
+      "modern_industrialization:superconductor_cable",
+      "modern_industrialization:battery_alloy_curved_plate",
+      "minecraft:plutonium",
+      "modern_industrialization:battery_alloy_curved_plate",
+      "modern_industrialization:battery_alloy_curved_plate",
+      "minecraft:plutonium",
+      "modern_industrialization:battery_alloy_curved_plate"
+    ]
+  },
+  "modern_industrialization:plasma_handling_iridium_machine_casing": {
+    "result": "modern_industrialization:plasma_handling_iridium_machine_casing",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iridium",
+      "minecraft:iridium",
+      "minecraft:iridium",
+      "minecraft:iridium",
+      "modern_industrialization:superconductor_coil",
+      "minecraft:iridium",
+      "minecraft:iridium",
+      "minecraft:iridium",
+      "minecraft:iridium"
+    ]
+  },
+  "modern_industrialization:plasma_turbine": {
+    "result": "modern_industrialization:plasma_turbine",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:superconductor_coil",
+      "modern_industrialization:quantum_circuit",
+      "modern_industrialization:superconductor_coil",
+      "modern_industrialization:titanium_rotor",
+      "modern_industrialization:quantum_machine_hull",
+      "modern_industrialization:titanium_rotor",
+      "modern_industrialization:superconductor_coil",
+      "modern_industrialization:quantum_circuit",
+      "modern_industrialization:superconductor_coil"
+    ]
+  },
+  "modern_industrialization:platinum_block": {
+    "result": "modern_industrialization:platinum_block",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:tin_ingot",
+      "modern_industrialization:tin_ingot",
+      "modern_industrialization:tin_ingot",
+      "modern_industrialization:tin_ingot",
+      "modern_industrialization:platinum_ingot",
+      "modern_industrialization:tin_ingot",
+      "modern_industrialization:tin_ingot",
+      "modern_industrialization:tin_ingot",
+      "modern_industrialization:tin_ingot"
+    ]
+  },
+  "modern_industrialization:platinum_cable": {
+    "result": "modern_industrialization:platinum_cable",
+    "count": 3,
+    "ingredients": [
+      "modern_industrialization:rubber_sheet",
+      "modern_industrialization:rubber_sheet",
+      "modern_industrialization:rubber_sheet",
+      "modern_industrialization:platinum_wire",
+      "modern_industrialization:platinum_wire",
+      "modern_industrialization:platinum_wire",
+      "modern_industrialization:rubber_sheet",
+      "modern_industrialization:rubber_sheet",
+      "modern_industrialization:rubber_sheet"
+    ]
+  },
+  "modern_industrialization:platinum_dust": {
+    "result": "modern_industrialization:platinum_dust",
+    "count": 1,
+    "ingredients": [
+      "minecraft:platinum",
+      "minecraft:platinum",
+      "minecraft:platinum",
+      "minecraft:platinum",
+      "modern_industrialization:platinum_tiny_dust",
+      "minecraft:platinum",
+      "minecraft:platinum",
+      "minecraft:platinum",
+      "minecraft:platinum"
+    ]
+  },
+  "modern_industrialization:platinum_ingot": {
+    "result": "modern_industrialization:platinum_ingot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:platinum",
+      "minecraft:platinum",
+      "minecraft:platinum",
+      "minecraft:platinum",
+      "modern_industrialization:platinum_nugget",
+      "minecraft:platinum",
+      "minecraft:platinum",
+      "minecraft:platinum",
+      "minecraft:platinum"
+    ]
+  },
+  "modern_industrialization:platinum_nugget": {
+    "result": "modern_industrialization:platinum_nugget",
+    "count": 9,
+    "ingredients": [
+      "modern_industrialization:platinum_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:platinum_tiny_dust": {
+    "result": "modern_industrialization:platinum_tiny_dust",
+    "count": 9,
+    "ingredients": [
+      "modern_industrialization:platinum_dust",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:plutonium_block": {
+    "result": "modern_industrialization:plutonium_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:plutonium",
+      "minecraft:plutonium",
+      "minecraft:plutonium",
+      "minecraft:plutonium",
+      "modern_industrialization:plutonium_ingot",
+      "minecraft:plutonium",
+      "minecraft:plutonium",
+      "minecraft:plutonium",
+      "minecraft:plutonium"
+    ]
+  },
+  "modern_industrialization:plutonium_dust": {
+    "result": "modern_industrialization:plutonium_dust",
+    "count": 1,
+    "ingredients": [
+      "minecraft:plutonium",
+      "minecraft:plutonium",
+      "minecraft:plutonium",
+      "minecraft:plutonium",
+      "modern_industrialization:plutonium_tiny_dust",
+      "minecraft:plutonium",
+      "minecraft:plutonium",
+      "minecraft:plutonium",
+      "minecraft:plutonium"
+    ]
+  },
+  "modern_industrialization:plutonium_ingot": {
+    "result": "modern_industrialization:plutonium_ingot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:plutonium",
+      "minecraft:plutonium",
+      "minecraft:plutonium",
+      "minecraft:plutonium",
+      "modern_industrialization:plutonium_nugget",
+      "minecraft:plutonium",
+      "minecraft:plutonium",
+      "minecraft:plutonium",
+      "minecraft:plutonium"
+    ]
+  },
+  "modern_industrialization:plutonium_nugget": {
+    "result": "modern_industrialization:plutonium_nugget",
+    "count": 9,
+    "ingredients": [
+      "modern_industrialization:plutonium_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:plutonium_tiny_dust": {
+    "result": "modern_industrialization:plutonium_tiny_dust",
+    "count": 9,
+    "ingredients": [
+      "modern_industrialization:plutonium_dust",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modularrouters:placer_module": {
+    "result": "modularrouters:placer_module",
+    "count": 1,
+    "ingredients": [
+      "modularrouters:blank_module",
+      "minecraft:dispenser",
+      "minecraft:dirt",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modularrouters:player_module": {
+    "result": "modularrouters:player_module",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:diamond_helmet",
+      "",
+      "modularrouters:sender_module_3",
+      "minecraft:wither_skeleton_skull",
+      "modularrouters:puller_module_2",
+      "",
+      "minecraft:diamond_chestplate",
+      ""
+    ]
+  },
+  "naturesaura:placer": {
+    "result": "naturesaura:placer",
+    "count": 1,
+    "ingredients": [
+      "minecraft:cobblestone",
+      "minecraft:hopper",
+      "minecraft:cobblestone",
+      "minecraft:cobblestone",
+      "minecraft:dispenser",
+      "minecraft:cobblestone",
+      "minecraft:cobblestone",
+      "naturesaura:infused_iron",
+      "minecraft:cobblestone"
+    ]
+  },
+  "oritech:plastic_block": {
+    "result": "oritech:plastic_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:plastic",
+      "minecraft:plastic",
+      "minecraft:plastic",
+      "minecraft:plastic",
+      "minecraft:plastic",
+      "minecraft:plastic",
+      "minecraft:plastic",
+      "minecraft:plastic",
+      "minecraft:plastic"
+    ]
+  },
+  "oritech:plastic_sheet": {
+    "result": "oritech:plastic_sheet",
+    "count": 9,
+    "ingredients": [
+      "minecraft:plastic",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "oritech:platinum_block": {
+    "result": "oritech:platinum_block",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:tin_ingot",
+      "modern_industrialization:tin_ingot",
+      "modern_industrialization:tin_ingot",
+      "modern_industrialization:tin_ingot",
+      "modern_industrialization:tin_ingot",
+      "modern_industrialization:tin_ingot",
+      "modern_industrialization:tin_ingot",
+      "modern_industrialization:tin_ingot",
+      "modern_industrialization:tin_ingot"
+    ]
+  },
+  "oritech:platinum_ingot": {
+    "result": "oritech:platinum_ingot",
+    "count": 1,
+    "ingredients": [
+      "oritech:platinum_nugget",
+      "oritech:platinum_nugget",
+      "oritech:platinum_nugget",
+      "oritech:platinum_nugget",
+      "oritech:platinum_nugget",
+      "oritech:platinum_nugget",
+      "oritech:platinum_nugget",
+      "oritech:platinum_nugget",
+      "oritech:platinum_nugget"
+    ]
+  },
+  "oritech:platinum_clump": {
+    "result": "oritech:platinum_clump",
+    "count": 1,
+    "ingredients": [
+      "oritech:small_platinum_clump",
+      "oritech:small_platinum_clump",
+      "oritech:small_platinum_clump",
+      "oritech:small_platinum_clump",
+      "oritech:small_platinum_clump",
+      "oritech:small_platinum_clump",
+      "oritech:small_platinum_clump",
+      "oritech:small_platinum_clump",
+      "oritech:small_platinum_clump"
+    ]
+  },
+  "oritech:platinum_dust": {
+    "result": "oritech:platinum_dust",
+    "count": 1,
+    "ingredients": [
+      "oritech:small_platinum_dust",
+      "oritech:small_platinum_dust",
+      "oritech:small_platinum_dust",
+      "oritech:small_platinum_dust",
+      "oritech:small_platinum_dust",
+      "oritech:small_platinum_dust",
+      "oritech:small_platinum_dust",
+      "oritech:small_platinum_dust",
+      "oritech:small_platinum_dust"
+    ]
+  },
+  "oritech:platinum_nugget": {
+    "result": "oritech:platinum_nugget",
+    "count": 9,
+    "ingredients": [
+      "oritech:platinum_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "oritech:plutonium_dust": {
+    "result": "oritech:plutonium_dust",
+    "count": 1,
+    "ingredients": [
+      "oritech:small_plutonium_dust",
+      "oritech:small_plutonium_dust",
+      "oritech:small_plutonium_dust",
+      "oritech:small_plutonium_dust",
+      "oritech:small_plutonium_dust",
+      "oritech:small_plutonium_dust",
+      "oritech:small_plutonium_dust",
+      "oritech:small_plutonium_dust",
+      "oritech:small_plutonium_dust"
+    ]
+  },
+  "oritech:plutonium_pellet": {
+    "result": "oritech:plutonium_pellet",
+    "count": 1,
+    "ingredients": [
+      "oritech:small_plutonium_pellet",
+      "oritech:small_plutonium_pellet",
+      "oritech:small_plutonium_pellet",
+      "oritech:small_plutonium_pellet",
+      "oritech:small_plutonium_pellet",
+      "oritech:small_plutonium_pellet",
+      "oritech:small_plutonium_pellet",
+      "oritech:small_plutonium_pellet",
+      "oritech:small_plutonium_pellet"
+    ]
+  },
+  "oritech:placer_block": {
+    "result": "oritech:placer_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "oritech:processing_unit",
+      "oritech:machine_frame_block",
+      "oritech:processing_unit",
+      "oritech:motor",
+      "minecraft:plating",
+      "oritech:motor"
+    ]
+  },
+  "pamhc2foodcore:plaindonutitem": {
+    "result": "pamhc2foodcore:plaindonutitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:cookingoil",
+      "minecraft:batter",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:ploughmanslunchitem": {
+    "result": "pamhc2foodextended:ploughmanslunchitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:bread",
+      "minecraft:apple",
+      "minecraft:cheese",
+      "pamhc2foodextended:sweetpickleitem",
+      "minecraft:onion",
+      "minecraft:rawpork",
+      "minecraft:boiledegg",
+      ""
+    ]
+  },
+  "pamhc2foodextended:plumjellyitem": {
+    "result": "pamhc2foodextended:plumjellyitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:plum",
+      "minecraft:sugar",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:plumjellysandwichitem": {
+    "result": "pamhc2foodextended:plumjellysandwichitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:plumjelly",
+      "minecraft:bread",
+      "minecraft:nutbutters",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:plumjellytoastitem": {
+    "result": "pamhc2foodextended:plumjellytoastitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:plumjelly",
+      "minecraft:toast",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:plumjuiceitem": {
+    "result": "pamhc2foodextended:plumjuiceitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_juicer",
+      "minecraft:plum",
+      "minecraft:plum",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:plumpieitem": {
+    "result": "pamhc2foodextended:plumpieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:plum",
+      "minecraft:sugar",
+      "minecraft:dough",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:plumsmoothieitem": {
+    "result": "pamhc2foodextended:plumsmoothieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:plum",
+      "minecraft:ices",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:plumyogurtitem": {
+    "result": "pamhc2foodextended:plumyogurtitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:plum",
+      "minecraft:yogurt",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2trees:plum_sapling": {
+    "result": "pamhc2trees:plum_sapling",
+    "count": 1,
+    "ingredients": [
+      "pamhc2trees:plumitem",
+      "pamhc2trees:plumitem",
+      "pamhc2trees:plumitem",
+      "pamhc2trees:plumitem",
+      "pamhc2trees:plumitem",
+      "pamhc2trees:plumitem",
+      "pamhc2trees:plumitem",
+      "pamhc2trees:plumitem",
+      "minecraft:saplings"
+    ]
+  },
+  "pneumaticcraft:plastic_brick_black": {
+    "result": "pneumaticcraft:plastic_brick_black",
+    "count": 8,
+    "ingredients": [
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:black",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets"
+    ]
+  },
+  "pneumaticcraft:plastic_brick_blue": {
+    "result": "pneumaticcraft:plastic_brick_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:blue",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets"
+    ]
+  },
+  "pneumaticcraft:plastic_brick_brown": {
+    "result": "pneumaticcraft:plastic_brick_brown",
+    "count": 8,
+    "ingredients": [
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:brown",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets"
+    ]
+  },
+  "pneumaticcraft:plastic_brick_cyan": {
+    "result": "pneumaticcraft:plastic_brick_cyan",
+    "count": 8,
+    "ingredients": [
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:cyan",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets"
+    ]
+  },
+  "pneumaticcraft:plastic_brick_gray": {
+    "result": "pneumaticcraft:plastic_brick_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:gray",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets"
+    ]
+  },
+  "pneumaticcraft:plastic_brick_green": {
+    "result": "pneumaticcraft:plastic_brick_green",
+    "count": 8,
+    "ingredients": [
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:green",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets"
+    ]
+  },
+  "pneumaticcraft:plastic_brick_light_blue": {
+    "result": "pneumaticcraft:plastic_brick_light_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:light_blue",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets"
+    ]
+  },
+  "pneumaticcraft:plastic_brick_light_gray": {
+    "result": "pneumaticcraft:plastic_brick_light_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:light_gray",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets"
+    ]
+  },
+  "pneumaticcraft:plastic_brick_lime": {
+    "result": "pneumaticcraft:plastic_brick_lime",
+    "count": 8,
+    "ingredients": [
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:lime",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets"
+    ]
+  },
+  "pneumaticcraft:plastic_brick_magenta": {
+    "result": "pneumaticcraft:plastic_brick_magenta",
+    "count": 8,
+    "ingredients": [
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:magenta",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets"
+    ]
+  },
+  "pneumaticcraft:plastic_brick_orange": {
+    "result": "pneumaticcraft:plastic_brick_orange",
+    "count": 8,
+    "ingredients": [
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:orange",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets"
+    ]
+  },
+  "pneumaticcraft:plastic_brick_pink": {
+    "result": "pneumaticcraft:plastic_brick_pink",
+    "count": 8,
+    "ingredients": [
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:pink",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets"
+    ]
+  },
+  "pneumaticcraft:plastic_brick_purple": {
+    "result": "pneumaticcraft:plastic_brick_purple",
+    "count": 8,
+    "ingredients": [
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:purple",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets"
+    ]
+  },
+  "pneumaticcraft:plastic_brick_red": {
+    "result": "pneumaticcraft:plastic_brick_red",
+    "count": 8,
+    "ingredients": [
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:red",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets"
+    ]
+  },
+  "pneumaticcraft:plastic_brick_white": {
+    "result": "pneumaticcraft:plastic_brick_white",
+    "count": 8,
+    "ingredients": [
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:white",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets"
+    ]
+  },
+  "pneumaticcraft:plastic_brick_yellow": {
+    "result": "pneumaticcraft:plastic_brick_yellow",
+    "count": 8,
+    "ingredients": [
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:yellow",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets"
+    ]
+  },
+  "powah:player_transmitter_basic": {
+    "result": "powah:player_transmitter_basic",
+    "count": 1,
+    "ingredients": [
+      "",
+      "powah:player_transmitter_starter",
+      "",
+      "powah:capacitor_basic",
+      "powah:dielectric_casing",
+      "powah:capacitor_basic",
+      "",
+      "powah:dielectric_rod",
+      ""
+    ]
+  },
+  "powah:player_transmitter_blazing": {
+    "result": "powah:player_transmitter_blazing",
+    "count": 1,
+    "ingredients": [
+      "",
+      "powah:player_transmitter_hardened",
+      "",
+      "powah:capacitor_blazing",
+      "powah:dielectric_casing",
+      "powah:capacitor_blazing",
+      "",
+      "powah:dielectric_rod",
+      ""
+    ]
+  },
+  "powah:player_transmitter_hardened": {
+    "result": "powah:player_transmitter_hardened",
+    "count": 1,
+    "ingredients": [
+      "",
+      "powah:player_transmitter_basic",
+      "",
+      "powah:capacitor_hardened",
+      "powah:dielectric_casing",
+      "powah:capacitor_hardened",
+      "",
+      "powah:dielectric_rod",
+      ""
+    ]
+  },
+  "powah:player_transmitter_niotic": {
+    "result": "powah:player_transmitter_niotic",
+    "count": 1,
+    "ingredients": [
+      "",
+      "powah:player_transmitter_blazing",
+      "",
+      "powah:capacitor_niotic",
+      "powah:dielectric_casing",
+      "powah:capacitor_niotic",
+      "",
+      "powah:dielectric_rod",
+      ""
+    ]
+  },
+  "powah:player_transmitter_nitro": {
+    "result": "powah:player_transmitter_nitro",
+    "count": 1,
+    "ingredients": [
+      "",
+      "powah:player_transmitter_spirited",
+      "",
+      "powah:capacitor_nitro",
+      "powah:dielectric_casing",
+      "powah:capacitor_nitro",
+      "",
+      "powah:dielectric_rod",
+      ""
+    ]
+  },
+  "powah:player_transmitter_spirited": {
+    "result": "powah:player_transmitter_spirited",
+    "count": 1,
+    "ingredients": [
+      "",
+      "powah:player_transmitter_niotic",
+      "",
+      "powah:capacitor_spirited",
+      "powah:dielectric_casing",
+      "powah:capacitor_spirited",
+      "",
+      "powah:dielectric_rod",
+      ""
+    ]
+  },
+  "powah:player_transmitter_starter": {
+    "result": "powah:player_transmitter_starter",
+    "count": 1,
+    "ingredients": [
+      "",
+      "powah:player_aerial_pearl",
+      "",
+      "powah:capacitor_basic_tiny",
+      "powah:dielectric_casing",
+      "powah:capacitor_basic_tiny",
+      "",
+      "powah:dielectric_rod",
+      ""
+    ]
+  },
+  "productivetrees:plantain_bookshelf": {
+    "result": "productivetrees:plantain_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:plantain_planks",
+      "productivetrees:plantain_planks",
+      "productivetrees:plantain_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:plantain_planks",
+      "productivetrees:plantain_planks",
+      "productivetrees:plantain_planks"
+    ]
+  },
+  "productivetrees:plum_bookshelf": {
+    "result": "productivetrees:plum_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:plum_planks",
+      "productivetrees:plum_planks",
+      "productivetrees:plum_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:plum_planks",
+      "productivetrees:plum_planks",
+      "productivetrees:plum_planks"
+    ]
+  },
+  "productivetrees:plantain_button": {
+    "result": "productivetrees:plantain_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:plantain_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:plum_button": {
+    "result": "productivetrees:plum_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:plum_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:plantain_crate": {
+    "result": "productivetrees:plantain_crate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:plantain",
+      "minecraft:plantain",
+      "minecraft:plantain",
+      "minecraft:plantain",
+      "productivetrees:plantain",
+      "minecraft:plantain",
+      "minecraft:plantain",
+      "minecraft:plantain",
+      "minecraft:plantain"
+    ]
+  },
+  "productivetrees:plantain": {
+    "result": "productivetrees:plantain",
+    "count": 9,
+    "ingredients": [
+      "productivetrees:plantain_crate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:plum_crate": {
+    "result": "productivetrees:plum_crate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:plum",
+      "minecraft:plum",
+      "minecraft:plum",
+      "minecraft:plum",
+      "productivetrees:plum",
+      "minecraft:plum",
+      "minecraft:plum",
+      "minecraft:plum",
+      "minecraft:plum"
+    ]
+  },
+  "productivetrees:plum": {
+    "result": "productivetrees:plum",
+    "count": 9,
+    "ingredients": [
+      "productivetrees:plum_crate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:plantain_door": {
+    "result": "productivetrees:plantain_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:plantain_planks",
+      "productivetrees:plantain_planks",
+      "",
+      "productivetrees:plantain_planks",
+      "productivetrees:plantain_planks",
+      "",
+      "productivetrees:plantain_planks",
+      "productivetrees:plantain_planks",
+      ""
+    ]
+  },
+  "productivetrees:plum_door": {
+    "result": "productivetrees:plum_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:plum_planks",
+      "productivetrees:plum_planks",
+      "",
+      "productivetrees:plum_planks",
+      "productivetrees:plum_planks",
+      "",
+      "productivetrees:plum_planks",
+      "productivetrees:plum_planks",
+      ""
+    ]
+  },
+  "productivetrees:plantain_fence": {
+    "result": "productivetrees:plantain_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:plantain_planks",
+      "minecraft:stick",
+      "productivetrees:plantain_planks",
+      "productivetrees:plantain_planks",
+      "minecraft:stick",
+      "productivetrees:plantain_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:plum_fence": {
+    "result": "productivetrees:plum_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:plum_planks",
+      "minecraft:stick",
+      "productivetrees:plum_planks",
+      "productivetrees:plum_planks",
+      "minecraft:stick",
+      "productivetrees:plum_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:plantain_fence_gate": {
+    "result": "productivetrees:plantain_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:plantain_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:plantain_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:plum_fence_gate": {
+    "result": "productivetrees:plum_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:plum_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:plum_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:plantain_hanging_sign": {
+    "result": "productivetrees:plantain_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:plantain_planks",
+      "productivetrees:plantain_planks",
+      "productivetrees:plantain_planks",
+      "productivetrees:plantain_planks",
+      "productivetrees:plantain_planks",
+      "productivetrees:plantain_planks"
+    ]
+  },
+  "productivetrees:plum_hanging_sign": {
+    "result": "productivetrees:plum_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:plum_planks",
+      "productivetrees:plum_planks",
+      "productivetrees:plum_planks",
+      "productivetrees:plum_planks",
+      "productivetrees:plum_planks",
+      "productivetrees:plum_planks"
+    ]
+  },
+  "productivetrees:plantain_planks": {
+    "result": "productivetrees:plantain_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:plum_planks": {
+    "result": "productivetrees:plum_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:plantain_pressure_plate": {
+    "result": "productivetrees:plantain_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:plantain_planks",
+      "productivetrees:plantain_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:plum_pressure_plate": {
+    "result": "productivetrees:plum_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:plum_planks",
+      "productivetrees:plum_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:plantain_sign": {
+    "result": "productivetrees:plantain_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:plantain_planks",
+      "productivetrees:plantain_planks",
+      "productivetrees:plantain_planks",
+      "productivetrees:plantain_planks",
+      "productivetrees:plantain_planks",
+      "productivetrees:plantain_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:plum_sign": {
+    "result": "productivetrees:plum_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:plum_planks",
+      "productivetrees:plum_planks",
+      "productivetrees:plum_planks",
+      "productivetrees:plum_planks",
+      "productivetrees:plum_planks",
+      "productivetrees:plum_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:plantain_slab": {
+    "result": "productivetrees:plantain_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:plantain_planks",
+      "productivetrees:plantain_planks",
+      "productivetrees:plantain_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:plum_slab": {
+    "result": "productivetrees:plum_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:plum_planks",
+      "productivetrees:plum_planks",
+      "productivetrees:plum_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:plantain_stairs": {
+    "result": "productivetrees:plantain_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:plantain_planks",
+      "",
+      "",
+      "productivetrees:plantain_planks",
+      "productivetrees:plantain_planks",
+      "",
+      "productivetrees:plantain_planks",
+      "productivetrees:plantain_planks",
+      "productivetrees:plantain_planks"
+    ]
+  },
+  "productivetrees:plum_stairs": {
+    "result": "productivetrees:plum_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:plum_planks",
+      "",
+      "",
+      "productivetrees:plum_planks",
+      "productivetrees:plum_planks",
+      "",
+      "productivetrees:plum_planks",
+      "productivetrees:plum_planks",
+      "productivetrees:plum_planks"
+    ]
+  },
+  "productivetrees:plantain_trapdoor": {
+    "result": "productivetrees:plantain_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:plantain_planks",
+      "productivetrees:plantain_planks",
+      "productivetrees:plantain_planks",
+      "productivetrees:plantain_planks",
+      "productivetrees:plantain_planks",
+      "productivetrees:plantain_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:plum_trapdoor": {
+    "result": "productivetrees:plum_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:plum_planks",
+      "productivetrees:plum_planks",
+      "productivetrees:plum_planks",
+      "productivetrees:plum_planks",
+      "productivetrees:plum_planks",
+      "productivetrees:plum_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:plantain_wood": {
+    "result": "productivetrees:plantain_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:plantain_log",
+      "productivetrees:plantain_log",
+      "",
+      "productivetrees:plantain_log",
+      "productivetrees:plantain_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:plum_wood": {
+    "result": "productivetrees:plum_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:plum_log",
+      "productivetrees:plum_log",
+      "",
+      "productivetrees:plum_log",
+      "productivetrees:plum_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pylons:player_filter": {
+    "result": "pylons:player_filter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:cyan_terracotta",
+      "minecraft:green",
+      "minecraft:cyan_terracotta",
+      "minecraft:glass",
+      "minecraft:diamond",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass"
+    ]
+  },
+  "quarryplus:placer_plus": {
+    "result": "quarryplus:placer_plus",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "minecraft:dispenser",
+      "minecraft:gold_ingot",
+      "minecraft:mossy_cobblestone",
+      "minecraft:redstone",
+      "minecraft:mossy_cobblestone",
+      "minecraft:mossy_cobblestone",
+      "minecraft:iron_ingot",
+      "minecraft:markers"
+    ]
+  },
+  "railcraft:player_detector": {
+    "result": "railcraft:player_detector",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone_slab",
+      "minecraft:stone_slab",
+      "minecraft:stone_slab",
+      "minecraft:stone_slab",
+      "minecraft:stone_pressure_plate",
+      "minecraft:stone_slab",
+      "minecraft:stone_slab",
+      "minecraft:stone_slab",
+      "minecraft:stone_slab"
+    ]
+  },
+  "supplementaries:planter": {
+    "result": "supplementaries:planter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:brick",
+      "minecraft:bone_meal",
+      "minecraft:brick",
+      "minecraft:brick",
+      "farmersdelight:rich_soil",
+      "minecraft:brick",
+      "minecraft:brick",
+      "minecraft:brick",
+      "minecraft:brick"
+    ]
+  },
+  "tempad:player_teleport_upgrade": {
+    "result": "tempad:player_teleport_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dried_kelp",
+      "minecraft:dried_kelp",
+      "minecraft:dried_kelp",
+      "minecraft:ender_pearl",
+      "tempad:location_broadcaster",
+      "minecraft:ender_pearl",
+      "minecraft:dried_kelp",
+      "minecraft:dried_kelp",
+      "minecraft:dried_kelp"
+    ]
+  }
+}

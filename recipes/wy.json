@@ -1,0 +1,92 @@
+{
+  "draconicevolution:wyvern_core": {
+    "result": "draconicevolution:wyvern_core",
+    "count": 1,
+    "ingredients": [
+      "minecraft:draconium",
+      "draconicevolution:draconium_core",
+      "minecraft:draconium",
+      "draconicevolution:draconium_core",
+      "minecraft:nether_stars",
+      "draconicevolution:draconium_core",
+      "minecraft:draconium",
+      "draconicevolution:draconium_core",
+      "minecraft:draconium"
+    ]
+  },
+  "draconicevolution:wyvern_energy_core": {
+    "result": "draconicevolution:wyvern_energy_core",
+    "count": 1,
+    "ingredients": [
+      "minecraft:draconium",
+      "minecraft:redstone",
+      "minecraft:draconium",
+      "minecraft:redstone",
+      "draconicevolution:draconium_core",
+      "minecraft:redstone",
+      "minecraft:draconium",
+      "minecraft:redstone",
+      "minecraft:draconium"
+    ]
+  },
+  "draconicevolution:wyvern_io_crystal": {
+    "result": "draconicevolution:wyvern_io_crystal",
+    "count": 2,
+    "ingredients": [
+      "draconicevolution:wyvern_relay_crystal",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "draconicevolution:wyvern_relay_crystal": {
+    "result": "draconicevolution:wyvern_relay_crystal",
+    "count": 1,
+    "ingredients": [
+      "draconicevolution:wyvern_io_crystal",
+      "draconicevolution:wyvern_io_crystal",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "draconicevolution:wyvern_wireless_crystal": {
+    "result": "draconicevolution:wyvern_wireless_crystal",
+    "count": 1,
+    "ingredients": [
+      "minecraft:ender_pearl",
+      "draconicevolution:particle_generator",
+      "minecraft:ender_pearl",
+      "minecraft:ender_eye",
+      "draconicevolution:wyvern_relay_crystal",
+      "minecraft:ender_eye",
+      "minecraft:ender_pearl",
+      "draconicevolution:particle_generator",
+      "minecraft:ender_pearl"
+    ]
+  },
+  "starbunclemania:wyrm_degree": {
+    "result": "starbunclemania:wyrm_degree",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black_carpet",
+      "minecraft:black_carpet",
+      "minecraft:black_carpet",
+      "",
+      "minecraft:black_wool",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

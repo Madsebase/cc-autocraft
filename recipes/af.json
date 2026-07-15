@@ -1,0 +1,32 @@
+{
+  "create_enchantment_industry:affix_augmentor": {
+    "result": "create_enchantment_industry:affix_augmentor",
+    "count": 1,
+    "ingredients": [
+      "create:brass_sheet",
+      "minecraft:amethyst_shard",
+      "create:brass_sheet",
+      "",
+      "minecraft:nether_star",
+      "",
+      "apotheosis:mythic_material",
+      "create:nixie_tube",
+      "apotheosis:mythic_material"
+    ]
+  },
+  "irons_spellbooks:affinity_ring": {
+    "result": "irons_spellbooks:affinity_ring",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bucket",
+      "",
+      "",
+      "",
+      "irons_spellbooks:mithril_scrap",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

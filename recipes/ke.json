@@ -1,0 +1,557 @@
+{
+  "eternal_starlight:keeper_armor_trim_smithing_template": {
+    "result": "eternal_starlight:keeper_armor_trim_smithing_template",
+    "count": 2,
+    "ingredients": [
+      "modern_industrialization:silver_ingot",
+      "eternal_starlight:keeper_armor_trim_smithing_template",
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot",
+      "eternal_starlight:grimstone",
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot"
+    ]
+  },
+  "farmersdelight:kelp_roll": {
+    "result": "farmersdelight:kelp_roll",
+    "count": 1,
+    "ingredients": [
+      "farmersdelight:cooked_rice",
+      "minecraft:vegetable",
+      "farmersdelight:cooked_rice",
+      "minecraft:dried_kelp",
+      "minecraft:dried_kelp",
+      "minecraft:dried_kelp",
+      "",
+      "",
+      ""
+    ]
+  },
+  "herbsandharvest:ketchup": {
+    "result": "herbsandharvest:ketchup",
+    "count": 1,
+    "ingredients": [
+      "herbsandharvest:spice_jar_item",
+      "minecraft:tomato",
+      "minecraft:salt",
+      "minecraft:sugar",
+      "minecraft:minced_garlic",
+      "minecraft:minced_onion",
+      "",
+      "",
+      ""
+    ]
+  },
+  "herbsandharvest:key_lime_pie": {
+    "result": "herbsandharvest:key_lime_pie",
+    "count": 1,
+    "ingredients": [
+      "minecraft:wheat",
+      "minecraft:butter",
+      "minecraft:milk",
+      "minecraft:egg",
+      "minecraft:lime",
+      "minecraft:sugar",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwwindows:key": {
+    "result": "mcwwindows:key",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "minecraft:iron_nugget",
+      "",
+      "minecraft:iron_nugget",
+      "",
+      "mcwwindows:window_base",
+      "",
+      ""
+    ]
+  },
+  "minecolonies:kebab": {
+    "result": "minecolonies:kebab",
+    "count": 1,
+    "ingredients": [
+      "minecolonies:onion",
+      "minecolonies:nether_pepper",
+      "minecraft:stick",
+      "minecraft:mutton",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:kelp": {
+    "result": "minecraft:kelp",
+    "count": 8,
+    "ingredients": [
+      "mysticalagriculture:nature_essence",
+      "mysticalagriculture:water_essence",
+      "mysticalagriculture:nature_essence",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2crops:kenafseeditem": {
+    "result": "pamhc2crops:kenafseeditem",
+    "count": 1,
+    "ingredients": [
+      "pamhc2crops:kenafitem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:ketchupitem": {
+    "result": "pamhc2foodextended:ketchupitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_juicer",
+      "minecraft:tomato",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:keylimepieitem": {
+    "result": "pamhc2foodextended:keylimepieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:lime",
+      "minecraft:meringue",
+      "minecraft:sugar",
+      "minecraft:dough",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:key_lime_bookshelf": {
+    "result": "productivetrees:key_lime_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:key_lime_planks",
+      "productivetrees:key_lime_planks",
+      "productivetrees:key_lime_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:key_lime_planks",
+      "productivetrees:key_lime_planks",
+      "productivetrees:key_lime_planks"
+    ]
+  },
+  "productivetrees:key_lime_button": {
+    "result": "productivetrees:key_lime_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:key_lime_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:key_lime_crate": {
+    "result": "productivetrees:key_lime_crate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:key_lime",
+      "minecraft:key_lime",
+      "minecraft:key_lime",
+      "minecraft:key_lime",
+      "productivetrees:key_lime",
+      "minecraft:key_lime",
+      "minecraft:key_lime",
+      "minecraft:key_lime",
+      "minecraft:key_lime"
+    ]
+  },
+  "productivetrees:key_lime": {
+    "result": "productivetrees:key_lime",
+    "count": 9,
+    "ingredients": [
+      "productivetrees:key_lime_crate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:key_lime_door": {
+    "result": "productivetrees:key_lime_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:key_lime_planks",
+      "productivetrees:key_lime_planks",
+      "",
+      "productivetrees:key_lime_planks",
+      "productivetrees:key_lime_planks",
+      "",
+      "productivetrees:key_lime_planks",
+      "productivetrees:key_lime_planks",
+      ""
+    ]
+  },
+  "productivetrees:key_lime_fence": {
+    "result": "productivetrees:key_lime_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:key_lime_planks",
+      "minecraft:stick",
+      "productivetrees:key_lime_planks",
+      "productivetrees:key_lime_planks",
+      "minecraft:stick",
+      "productivetrees:key_lime_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:key_lime_fence_gate": {
+    "result": "productivetrees:key_lime_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:key_lime_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:key_lime_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:key_lime_hanging_sign": {
+    "result": "productivetrees:key_lime_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:key_lime_planks",
+      "productivetrees:key_lime_planks",
+      "productivetrees:key_lime_planks",
+      "productivetrees:key_lime_planks",
+      "productivetrees:key_lime_planks",
+      "productivetrees:key_lime_planks"
+    ]
+  },
+  "productivetrees:key_lime_planks": {
+    "result": "productivetrees:key_lime_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:key_lime_pressure_plate": {
+    "result": "productivetrees:key_lime_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:key_lime_planks",
+      "productivetrees:key_lime_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:key_lime_sign": {
+    "result": "productivetrees:key_lime_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:key_lime_planks",
+      "productivetrees:key_lime_planks",
+      "productivetrees:key_lime_planks",
+      "productivetrees:key_lime_planks",
+      "productivetrees:key_lime_planks",
+      "productivetrees:key_lime_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:key_lime_slab": {
+    "result": "productivetrees:key_lime_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:key_lime_planks",
+      "productivetrees:key_lime_planks",
+      "productivetrees:key_lime_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:key_lime_stairs": {
+    "result": "productivetrees:key_lime_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:key_lime_planks",
+      "",
+      "",
+      "productivetrees:key_lime_planks",
+      "productivetrees:key_lime_planks",
+      "",
+      "productivetrees:key_lime_planks",
+      "productivetrees:key_lime_planks",
+      "productivetrees:key_lime_planks"
+    ]
+  },
+  "productivetrees:key_lime_trapdoor": {
+    "result": "productivetrees:key_lime_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:key_lime_planks",
+      "productivetrees:key_lime_planks",
+      "productivetrees:key_lime_planks",
+      "productivetrees:key_lime_planks",
+      "productivetrees:key_lime_planks",
+      "productivetrees:key_lime_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:key_lime_wood": {
+    "result": "productivetrees:key_lime_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:key_lime_log",
+      "productivetrees:key_lime_log",
+      "",
+      "productivetrees:key_lime_log",
+      "productivetrees:key_lime_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "securitycraft:keycard_holder": {
+    "result": "securitycraft:keycard_holder",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "securitycraft:reinforced_hopper",
+      "minecraft:iron_ingot",
+      "minecraft:leather",
+      "minecraft:iron_ingot",
+      "minecraft:leather",
+      "",
+      "",
+      ""
+    ]
+  },
+  "securitycraft:keycard_lock": {
+    "result": "securitycraft:keycard_lock",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone",
+      "minecraft:stone",
+      "",
+      "minecraft:redstone",
+      "securitycraft:reinforced_cobblestone_slab",
+      "",
+      "minecraft:stone",
+      "minecraft:stone",
+      ""
+    ]
+  },
+  "securitycraft:keycard_lv1": {
+    "result": "securitycraft:keycard_lv1",
+    "count": 1,
+    "ingredients": [
+      "securitycraft:keycard_lv1",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "securitycraft:keycard_lv2": {
+    "result": "securitycraft:keycard_lv2",
+    "count": 1,
+    "ingredients": [
+      "securitycraft:keycard_lv2",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "securitycraft:keycard_lv3": {
+    "result": "securitycraft:keycard_lv3",
+    "count": 1,
+    "ingredients": [
+      "securitycraft:keycard_lv3",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "securitycraft:keycard_lv4": {
+    "result": "securitycraft:keycard_lv4",
+    "count": 1,
+    "ingredients": [
+      "securitycraft:keycard_lv4",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "securitycraft:keycard_lv5": {
+    "result": "securitycraft:keycard_lv5",
+    "count": 1,
+    "ingredients": [
+      "securitycraft:keycard_lv5",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "securitycraft:keycard_reader": {
+    "result": "securitycraft:keycard_reader",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:redstone",
+      "securitycraft:reinforced_hopper",
+      "securitycraft:reinforced_cobblestone_slab",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone"
+    ]
+  },
+  "securitycraft:keypad_door_item": {
+    "result": "securitycraft:keypad_door_item",
+    "count": 1,
+    "ingredients": [
+      "securitycraft:door_indestructible_iron_item",
+      "securitycraft:keypad",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "securitycraft:keypad_frame": {
+    "result": "securitycraft:keypad_frame",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:redstone",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "securitycraft:keypad_item": {
+    "result": "securitycraft:keypad_item",
+    "count": 1,
+    "ingredients": [
+      "securitycraft:reinforced_stone_button",
+      "securitycraft:reinforced_stone_button",
+      "securitycraft:reinforced_stone_button",
+      "securitycraft:reinforced_stone_button",
+      "minecraft:heavy_weighted_pressure_plate",
+      "securitycraft:reinforced_stone_button",
+      "securitycraft:reinforced_stone_button",
+      "securitycraft:reinforced_stone_button",
+      "securitycraft:reinforced_stone_button"
+    ]
+  },
+  "supplementaries:key": {
+    "result": "supplementaries:key",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:gold_ingot",
+      "",
+      "",
+      "minecraft:gold",
+      "",
+      "",
+      "minecraft:gold",
+      ""
+    ]
+  }
+}

@@ -1,0 +1,2567 @@
+{
+  "allthecompressed:electrum_block_1x": {
+    "result": "allthecompressed:electrum_block_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:electrum_block_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:electrum_block_2x": {
+    "result": "allthecompressed:electrum_block_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:electrum_block_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:electrum_block_3x": {
+    "result": "allthecompressed:electrum_block_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:electrum_block_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:electrum_block_4x": {
+    "result": "allthecompressed:electrum_block_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:electrum_block_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:electrum_block_5x": {
+    "result": "allthecompressed:electrum_block_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:electrum_block_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:electrum_block_6x": {
+    "result": "allthecompressed:electrum_block_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:electrum_block_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:electrum_block_7x": {
+    "result": "allthecompressed:electrum_block_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:electrum_block_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:electrum_block_8x": {
+    "result": "allthecompressed:electrum_block_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:electrum_block_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:electrum_block_9x": {
+    "result": "allthecompressed:electrum_block_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:electrum_block_8x",
+      "allthecompressed:electrum_block_8x",
+      "allthecompressed:electrum_block_8x",
+      "allthecompressed:electrum_block_8x",
+      "allthecompressed:electrum_block_8x",
+      "allthecompressed:electrum_block_8x",
+      "allthecompressed:electrum_block_8x",
+      "allthecompressed:electrum_block_8x",
+      "allthecompressed:electrum_block_8x"
+    ]
+  },
+  "alltheores:electrum_block": {
+    "result": "alltheores:electrum_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:electrum",
+      "minecraft:electrum",
+      "minecraft:electrum",
+      "minecraft:electrum",
+      "minecraft:electrum",
+      "minecraft:electrum",
+      "minecraft:electrum",
+      "minecraft:electrum",
+      "minecraft:electrum"
+    ]
+  },
+  "alltheores:electrum_dust": {
+    "result": "alltheores:electrum_dust",
+    "count": 1,
+    "ingredients": [
+      "minecraft:ore_hammers",
+      "minecraft:electrum",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "alltheores:electrum_gear": {
+    "result": "alltheores:electrum_gear",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:electrum",
+      "",
+      "minecraft:electrum",
+      "minecraft:iron",
+      "minecraft:electrum",
+      "",
+      "minecraft:electrum",
+      ""
+    ]
+  },
+  "alltheores:electrum_ingot": {
+    "result": "alltheores:electrum_ingot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:electrum",
+      "minecraft:electrum",
+      "minecraft:electrum",
+      "minecraft:electrum",
+      "minecraft:electrum",
+      "minecraft:electrum",
+      "minecraft:electrum",
+      "minecraft:electrum",
+      "minecraft:electrum"
+    ]
+  },
+  "alltheores:electrum_nugget": {
+    "result": "alltheores:electrum_nugget",
+    "count": 9,
+    "ingredients": [
+      "minecraft:electrum",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "alltheores:electrum_plate": {
+    "result": "alltheores:electrum_plate",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "minecraft:ore_hammers",
+      "minecraft:electrum",
+      "",
+      "minecraft:electrum",
+      "",
+      ""
+    ]
+  },
+  "alltheores:electrum_rod": {
+    "result": "alltheores:electrum_rod",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "minecraft:electrum",
+      "minecraft:ore_hammers",
+      "minecraft:electrum",
+      ""
+    ]
+  },
+  "cabletiers:elite_autocrafter": {
+    "result": "cabletiers:elite_autocrafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:elite_autocrafters",
+      "minecraft:light_blue",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "cabletiers:elite_constructor": {
+    "result": "cabletiers:elite_constructor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:elite_constructors",
+      "minecraft:gray",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "cabletiers:elite_destructor": {
+    "result": "cabletiers:elite_destructor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:elite_destructors",
+      "minecraft:gray",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "cabletiers:elite_disk_interface": {
+    "result": "cabletiers:elite_disk_interface",
+    "count": 1,
+    "ingredients": [
+      "minecraft:elite_disk_interfaces",
+      "minecraft:light_blue",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "cabletiers:elite_exporter": {
+    "result": "cabletiers:elite_exporter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:elite_exporters",
+      "minecraft:gray",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "cabletiers:elite_importer": {
+    "result": "cabletiers:elite_importer",
+    "count": 1,
+    "ingredients": [
+      "minecraft:elite_importers",
+      "minecraft:gray",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "cabletiers:elite_interface": {
+    "result": "cabletiers:elite_interface",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_block",
+      "refinedstorage:interface",
+      "minecraft:iron_block",
+      "refinedstorage:interface",
+      "refinedstorage:advanced_processor",
+      "refinedstorage:interface",
+      "minecraft:iron_block",
+      "refinedstorage:interface",
+      "minecraft:iron_block"
+    ]
+  },
+  "create:elevator_pulley": {
+    "result": "create:elevator_pulley",
+    "count": 1,
+    "ingredients": [
+      "create:brass_casing",
+      "",
+      "",
+      "minecraft:dried_kelp_block",
+      "",
+      "",
+      "minecraft:iron",
+      "",
+      ""
+    ]
+  },
+  "create:electron_tube": {
+    "result": "create:electron_tube",
+    "count": 1,
+    "ingredients": [
+      "create:polished_rose_quartz",
+      "",
+      "",
+      "minecraft:iron",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "createaddition:electrum_amulet": {
+    "result": "createaddition:electrum_amulet",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:electrum",
+      "minecraft:electrum",
+      "minecraft:electrum",
+      "minecraft:zinc",
+      "minecraft:electrum",
+      "minecraft:diamond",
+      "minecraft:electrum",
+      ""
+    ]
+  },
+  "createaddition:electrum_block": {
+    "result": "createaddition:electrum_block",
+    "count": 1,
+    "ingredients": [
+      "createaddition:electrum_ingot",
+      "createaddition:electrum_ingot",
+      "createaddition:electrum_ingot",
+      "createaddition:electrum_ingot",
+      "createaddition:electrum_ingot",
+      "createaddition:electrum_ingot",
+      "createaddition:electrum_ingot",
+      "createaddition:electrum_ingot",
+      "createaddition:electrum_ingot"
+    ]
+  },
+  "createaddition:electrum_ingot": {
+    "result": "createaddition:electrum_ingot",
+    "count": 1,
+    "ingredients": [
+      "createaddition:electrum_nugget",
+      "createaddition:electrum_nugget",
+      "createaddition:electrum_nugget",
+      "createaddition:electrum_nugget",
+      "createaddition:electrum_nugget",
+      "createaddition:electrum_nugget",
+      "createaddition:electrum_nugget",
+      "createaddition:electrum_nugget",
+      "createaddition:electrum_nugget"
+    ]
+  },
+  "createaddition:electrum_nugget": {
+    "result": "createaddition:electrum_nugget",
+    "count": 9,
+    "ingredients": [
+      "createaddition:electrum_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "createaddition:electrum_spool": {
+    "result": "createaddition:electrum_spool",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:electrum",
+      "",
+      "minecraft:electrum",
+      "createaddition:spool",
+      "minecraft:electrum",
+      "",
+      "minecraft:electrum",
+      ""
+    ]
+  },
+  "elevatorid:elevator_black": {
+    "result": "elevatorid:elevator_black",
+    "count": 1,
+    "ingredients": [
+      "minecraft:elevators",
+      "minecraft:black",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "elevatorid:elevator_blue": {
+    "result": "elevatorid:elevator_blue",
+    "count": 1,
+    "ingredients": [
+      "minecraft:elevators",
+      "minecraft:blue",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "elevatorid:elevator_brown": {
+    "result": "elevatorid:elevator_brown",
+    "count": 1,
+    "ingredients": [
+      "minecraft:elevators",
+      "minecraft:brown",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "elevatorid:elevator_cyan": {
+    "result": "elevatorid:elevator_cyan",
+    "count": 1,
+    "ingredients": [
+      "minecraft:elevators",
+      "minecraft:cyan",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "elevatorid:elevator_gray": {
+    "result": "elevatorid:elevator_gray",
+    "count": 1,
+    "ingredients": [
+      "minecraft:elevators",
+      "minecraft:gray",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "elevatorid:elevator_green": {
+    "result": "elevatorid:elevator_green",
+    "count": 1,
+    "ingredients": [
+      "minecraft:elevators",
+      "minecraft:green",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "elevatorid:elevator_light_blue": {
+    "result": "elevatorid:elevator_light_blue",
+    "count": 1,
+    "ingredients": [
+      "minecraft:elevators",
+      "minecraft:light_blue",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "elevatorid:elevator_light_gray": {
+    "result": "elevatorid:elevator_light_gray",
+    "count": 1,
+    "ingredients": [
+      "minecraft:elevators",
+      "minecraft:light_gray",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "elevatorid:elevator_lime": {
+    "result": "elevatorid:elevator_lime",
+    "count": 1,
+    "ingredients": [
+      "minecraft:elevators",
+      "minecraft:lime",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "elevatorid:elevator_magenta": {
+    "result": "elevatorid:elevator_magenta",
+    "count": 1,
+    "ingredients": [
+      "minecraft:elevators",
+      "minecraft:magenta",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "elevatorid:elevator_orange": {
+    "result": "elevatorid:elevator_orange",
+    "count": 1,
+    "ingredients": [
+      "minecraft:elevators",
+      "minecraft:orange",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "elevatorid:elevator_pink": {
+    "result": "elevatorid:elevator_pink",
+    "count": 1,
+    "ingredients": [
+      "minecraft:elevators",
+      "minecraft:pink",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "elevatorid:elevator_purple": {
+    "result": "elevatorid:elevator_purple",
+    "count": 1,
+    "ingredients": [
+      "minecraft:elevators",
+      "minecraft:purple",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "elevatorid:elevator_red": {
+    "result": "elevatorid:elevator_red",
+    "count": 1,
+    "ingredients": [
+      "minecraft:elevators",
+      "minecraft:red",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "elevatorid:elevator_white": {
+    "result": "elevatorid:elevator_white",
+    "count": 1,
+    "ingredients": [
+      "minecraft:elevators",
+      "minecraft:white",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "elevatorid:elevator_yellow": {
+    "result": "elevatorid:elevator_yellow",
+    "count": 1,
+    "ingredients": [
+      "minecraft:elevators",
+      "minecraft:yellow",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "enderio:electromagnet": {
+    "result": "enderio:electromagnet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:energetic_alloy",
+      "minecraft:vibrant_crystal",
+      "minecraft:energetic_alloy",
+      "minecraft:energetic_alloy",
+      "",
+      "minecraft:energetic_alloy",
+      "minecraft:conductive_alloy",
+      "",
+      "minecraft:conductive_alloy"
+    ]
+  },
+  "extended_industrialization:electric_alloy_smelter": {
+    "result": "extended_industrialization:electric_alloy_smelter",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:cupronickel_wire_magnetic",
+      "modern_industrialization:tin_rotor",
+      "modern_industrialization:cupronickel_wire_magnetic",
+      "modern_industrialization:analog_circuit",
+      "modern_industrialization:basic_machine_hull",
+      "modern_industrialization:analog_circuit",
+      "modern_industrialization:tin_cable",
+      "modern_industrialization:cupronickel_wire_magnetic",
+      "modern_industrialization:tin_cable"
+    ]
+  },
+  "extended_industrialization:electric_bending_machine": {
+    "result": "extended_industrialization:electric_bending_machine",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:analog_circuit",
+      "modern_industrialization:piston",
+      "modern_industrialization:analog_circuit",
+      "modern_industrialization:motor",
+      "modern_industrialization:basic_machine_hull",
+      "modern_industrialization:motor",
+      "modern_industrialization:tin_cable",
+      "modern_industrialization:piston",
+      "modern_industrialization:tin_cable"
+    ]
+  },
+  "extended_industrialization:electric_brewery": {
+    "result": "extended_industrialization:electric_brewery",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:tin_rotor",
+      "modern_industrialization:analog_circuit",
+      "modern_industrialization:tin_rotor",
+      "minecraft:blaze_rod",
+      "modern_industrialization:basic_machine_hull",
+      "minecraft:blaze_rod",
+      "modern_industrialization:pump",
+      "modern_industrialization:analog_circuit",
+      "modern_industrialization:pump"
+    ]
+  },
+  "extended_industrialization:electric_canning_machine": {
+    "result": "extended_industrialization:electric_canning_machine",
+    "count": 1,
+    "ingredients": [
+      "minecraft:fluid_pipes",
+      "modern_industrialization:tin_rotor",
+      "minecraft:fluid_pipes",
+      "modern_industrialization:pump",
+      "modern_industrialization:basic_machine_hull",
+      "modern_industrialization:pump",
+      "modern_industrialization:analog_circuit",
+      "modern_industrialization:conveyor",
+      "modern_industrialization:analog_circuit"
+    ]
+  },
+  "extended_industrialization:electric_composter": {
+    "result": "extended_industrialization:electric_composter",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:analog_circuit",
+      "minecraft:fluid_pipes",
+      "modern_industrialization:analog_circuit",
+      "modern_industrialization:motor",
+      "modern_industrialization:basic_machine_hull",
+      "modern_industrialization:motor",
+      "modern_industrialization:tin_cable",
+      "modern_industrialization:pump",
+      "modern_industrialization:tin_cable"
+    ]
+  },
+  "extended_industrialization:electric_farmer": {
+    "result": "extended_industrialization:electric_farmer",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:robot_arm",
+      "modern_industrialization:large_motor",
+      "modern_industrialization:robot_arm",
+      "modern_industrialization:steel_machine_casing",
+      "extended_industrialization:steam_farmer",
+      "modern_industrialization:steel_machine_casing",
+      "modern_industrialization:large_pump",
+      "modern_industrialization:steel_machine_casing_pipe",
+      "modern_industrialization:large_pump"
+    ]
+  },
+  "extended_industrialization:electric_honey_extractor": {
+    "result": "extended_industrialization:electric_honey_extractor",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:analog_circuit",
+      "modern_industrialization:tin_rotor",
+      "modern_industrialization:analog_circuit",
+      "minecraft:glass",
+      "modern_industrialization:basic_machine_hull",
+      "minecraft:glass",
+      "modern_industrialization:tin_cable",
+      "modern_industrialization:pump",
+      "modern_industrialization:tin_cable"
+    ]
+  },
+  "extended_industrialization:electric_waste_collector": {
+    "result": "extended_industrialization:electric_waste_collector",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_bars",
+      "minecraft:iron_bars",
+      "minecraft:iron_bars",
+      "modern_industrialization:tin_rotor",
+      "modern_industrialization:basic_machine_hull",
+      "modern_industrialization:tin_rotor",
+      "modern_industrialization:tin_cable",
+      "modern_industrialization:pump",
+      "modern_industrialization:tin_cable"
+    ]
+  },
+  "extended_industrialization:electric_chainsaw": {
+    "result": "extended_industrialization:electric_chainsaw",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:advanced_upgrade",
+      "modern_industrialization:rubber_sheet",
+      "extended_industrialization:netherite_rotary_blade",
+      "modern_industrialization:advanced_motor",
+      "extended_industrialization:netherite_rotary_blade",
+      "modern_industrialization:rubber_sheet",
+      "modern_industrialization:aluminum_cable",
+      "modern_industrialization:advanced_motor",
+      "modern_industrialization:advanced_upgrade"
+    ]
+  },
+  "extended_industrialization:electric_mining_drill": {
+    "result": "extended_industrialization:electric_mining_drill",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:advanced_upgrade",
+      "extended_industrialization:netherite_rotary_blade",
+      "modern_industrialization:stainless_steel_drill_head",
+      "modern_industrialization:advanced_motor",
+      "modern_industrialization:large_motor",
+      "extended_industrialization:netherite_rotary_blade",
+      "modern_industrialization:aluminum_cable",
+      "modern_industrialization:advanced_motor",
+      "modern_industrialization:advanced_upgrade"
+    ]
+  },
+  "immersiveengineering:electric_lantern": {
+    "result": "immersiveengineering:electric_lantern",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:iron",
+      "",
+      "minecraft:glass",
+      "immersiveengineering:light_bulb",
+      "minecraft:glass",
+      "",
+      "minecraft:copper",
+      ""
+    ]
+  },
+  "immersiveengineering:electromagnet": {
+    "result": "immersiveengineering:electromagnet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:steel",
+      "immersiveengineering:component_electronic",
+      "minecraft:steel",
+      "immersiveengineering:wirecoil_copper",
+      "minecraft:iron_ingot",
+      "immersiveengineering:wirecoil_copper",
+      "minecraft:steel",
+      "immersiveengineering:wirecoil_copper",
+      "minecraft:steel"
+    ]
+  },
+  "ironjetpacks:elite_coil": {
+    "result": "ironjetpacks:elite_coil",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:diamond",
+      "minecraft:redstone",
+      "minecraft:diamond",
+      "minecraft:stick",
+      "minecraft:diamond",
+      "minecraft:redstone",
+      "minecraft:diamond",
+      ""
+    ]
+  },
+  "irons_spellbooks:eldritch_manuscript": {
+    "result": "irons_spellbooks:eldritch_manuscript",
+    "count": 1,
+    "ingredients": [
+      "irons_spellbooks:ancient_knowledge_fragment",
+      "irons_spellbooks:ancient_knowledge_fragment",
+      "irons_spellbooks:ancient_knowledge_fragment",
+      "irons_spellbooks:ancient_knowledge_fragment",
+      "minecraft:echo_shard",
+      "irons_spellbooks:ancient_knowledge_fragment",
+      "irons_spellbooks:ancient_knowledge_fragment",
+      "irons_spellbooks:ancient_knowledge_fragment",
+      "irons_spellbooks:ancient_knowledge_fragment"
+    ]
+  },
+  "irons_spellbooks:electromancer_boots": {
+    "result": "irons_spellbooks:electromancer_boots",
+    "count": 1,
+    "ingredients": [
+      "minecraft:wizard_base_boots",
+      "irons_spellbooks:lightning_rune",
+      "irons_spellbooks:arcane_essence",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "irons_spellbooks:electromancer_chestplate": {
+    "result": "irons_spellbooks:electromancer_chestplate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:chest",
+      "irons_spellbooks:lightning_rune",
+      "irons_spellbooks:arcane_essence",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "irons_spellbooks:electromancer_helmet": {
+    "result": "irons_spellbooks:electromancer_helmet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:wizard_base_helmet",
+      "irons_spellbooks:lightning_rune",
+      "irons_spellbooks:arcane_essence",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "irons_spellbooks:electromancer_leggings": {
+    "result": "irons_spellbooks:electromancer_leggings",
+    "count": 1,
+    "ingredients": [
+      "minecraft:wizard_base_leggings",
+      "irons_spellbooks:lightning_rune",
+      "irons_spellbooks:arcane_essence",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mekanism:electric_pump": {
+    "result": "mekanism:electric_pump",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:bucket",
+      "",
+      "minecraft:infused",
+      "mekanism:steel_casing",
+      "minecraft:infused",
+      "minecraft:osmium",
+      "minecraft:osmium",
+      "minecraft:osmium"
+    ]
+  },
+  "mekanism:electrolytic_core": {
+    "result": "mekanism:electrolytic_core",
+    "count": 1,
+    "ingredients": [
+      "minecraft:infused",
+      "minecraft:osmium",
+      "minecraft:infused",
+      "minecraft:iron",
+      "minecraft:infused",
+      "minecraft:gold",
+      "minecraft:infused",
+      "minecraft:osmium",
+      "minecraft:infused"
+    ]
+  },
+  "mekanism:electrolytic_separator": {
+    "result": "mekanism:electrolytic_separator",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:redstone",
+      "minecraft:iron_ingot",
+      "minecraft:infused",
+      "mekanism:electrolytic_core",
+      "minecraft:infused",
+      "minecraft:iron_ingot",
+      "minecraft:redstone",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "mekanism:elite_control_circuit": {
+    "result": "mekanism:elite_control_circuit",
+    "count": 1,
+    "ingredients": [
+      "minecraft:reinforced",
+      "minecraft:advanced",
+      "minecraft:reinforced",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mekanism:elite_induction_provider": {
+    "result": "mekanism:elite_induction_provider",
+    "count": 1,
+    "ingredients": [
+      "minecraft:elite",
+      "mekanism:advanced_induction_provider",
+      "minecraft:elite",
+      "mekanism:advanced_induction_provider",
+      "mekanism:elite_energy_cube",
+      "mekanism:advanced_induction_provider",
+      "minecraft:elite",
+      "mekanism:advanced_induction_provider",
+      "minecraft:elite"
+    ]
+  },
+  "mekanism:elite_tier_installer": {
+    "result": "mekanism:elite_tier_installer",
+    "count": 1,
+    "ingredients": [
+      "minecraft:reinforced",
+      "minecraft:elite",
+      "minecraft:reinforced",
+      "minecraft:gold_ingot",
+      "minecraft:oak_planks",
+      "minecraft:gold_ingot",
+      "minecraft:reinforced",
+      "minecraft:elite",
+      "minecraft:reinforced"
+    ]
+  },
+  "mekanism:elite_logistical_transporter": {
+    "result": "mekanism:elite_logistical_transporter",
+    "count": 8,
+    "ingredients": [
+      "mekanism:advanced_logistical_transporter",
+      "mekanism:advanced_logistical_transporter",
+      "mekanism:advanced_logistical_transporter",
+      "mekanism:advanced_logistical_transporter",
+      "minecraft:reinforced",
+      "mekanism:advanced_logistical_transporter",
+      "mekanism:advanced_logistical_transporter",
+      "mekanism:advanced_logistical_transporter",
+      "mekanism:advanced_logistical_transporter"
+    ]
+  },
+  "mekanism:elite_mechanical_pipe": {
+    "result": "mekanism:elite_mechanical_pipe",
+    "count": 8,
+    "ingredients": [
+      "mekanism:advanced_mechanical_pipe",
+      "mekanism:advanced_mechanical_pipe",
+      "mekanism:advanced_mechanical_pipe",
+      "mekanism:advanced_mechanical_pipe",
+      "minecraft:reinforced",
+      "mekanism:advanced_mechanical_pipe",
+      "mekanism:advanced_mechanical_pipe",
+      "mekanism:advanced_mechanical_pipe",
+      "mekanism:advanced_mechanical_pipe"
+    ]
+  },
+  "mekanism:elite_pressurized_tube": {
+    "result": "mekanism:elite_pressurized_tube",
+    "count": 8,
+    "ingredients": [
+      "mekanism:advanced_pressurized_tube",
+      "mekanism:advanced_pressurized_tube",
+      "mekanism:advanced_pressurized_tube",
+      "mekanism:advanced_pressurized_tube",
+      "minecraft:reinforced",
+      "mekanism:advanced_pressurized_tube",
+      "mekanism:advanced_pressurized_tube",
+      "mekanism:advanced_pressurized_tube",
+      "mekanism:advanced_pressurized_tube"
+    ]
+  },
+  "mekanism:elite_thermodynamic_conductor": {
+    "result": "mekanism:elite_thermodynamic_conductor",
+    "count": 8,
+    "ingredients": [
+      "mekanism:advanced_thermodynamic_conductor",
+      "mekanism:advanced_thermodynamic_conductor",
+      "mekanism:advanced_thermodynamic_conductor",
+      "mekanism:advanced_thermodynamic_conductor",
+      "minecraft:reinforced",
+      "mekanism:advanced_thermodynamic_conductor",
+      "mekanism:advanced_thermodynamic_conductor",
+      "mekanism:advanced_thermodynamic_conductor",
+      "mekanism:advanced_thermodynamic_conductor"
+    ]
+  },
+  "mekanism:elite_universal_cable": {
+    "result": "mekanism:elite_universal_cable",
+    "count": 8,
+    "ingredients": [
+      "mekanism:advanced_universal_cable",
+      "mekanism:advanced_universal_cable",
+      "mekanism:advanced_universal_cable",
+      "mekanism:advanced_universal_cable",
+      "minecraft:reinforced",
+      "mekanism:advanced_universal_cable",
+      "mekanism:advanced_universal_cable",
+      "mekanism:advanced_universal_cable",
+      "mekanism:advanced_universal_cable"
+    ]
+  },
+  "mekanismgenerators:electromagnetic_coil": {
+    "result": "mekanismgenerators:electromagnetic_coil",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:steel_ingot",
+      "minecraft:gold_ingot",
+      "modern_industrialization:steel_ingot",
+      "minecraft:gold_ingot",
+      "mekanism:energy_tablet",
+      "minecraft:gold_ingot",
+      "modern_industrialization:steel_ingot",
+      "minecraft:gold_ingot",
+      "modern_industrialization:steel_ingot"
+    ]
+  },
+  "modern_industrialization:electrum_cable": {
+    "result": "modern_industrialization:electrum_cable",
+    "count": 3,
+    "ingredients": [
+      "modern_industrialization:rubber_sheet",
+      "modern_industrialization:rubber_sheet",
+      "modern_industrialization:rubber_sheet",
+      "modern_industrialization:electrum_wire",
+      "modern_industrialization:electrum_wire",
+      "modern_industrialization:electrum_wire",
+      "modern_industrialization:rubber_sheet",
+      "modern_industrialization:rubber_sheet",
+      "modern_industrialization:rubber_sheet"
+    ]
+  },
+  "modern_industrialization:electronic_circuit": {
+    "result": "modern_industrialization:electronic_circuit",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:analog_circuit",
+      "modern_industrialization:diode",
+      "modern_industrialization:analog_circuit",
+      "modern_industrialization:transistor",
+      "modern_industrialization:electronic_circuit_board",
+      "modern_industrialization:transistor",
+      "modern_industrialization:analog_circuit",
+      "modern_industrialization:diode",
+      "modern_industrialization:analog_circuit"
+    ]
+  },
+  "modern_industrialization:electronic_circuit_board": {
+    "result": "modern_industrialization:electronic_circuit_board",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:electrum_cable",
+      "minecraft:aluminum",
+      "modern_industrialization:electrum_cable",
+      "minecraft:aluminum",
+      "modern_industrialization:analog_circuit_board",
+      "minecraft:aluminum",
+      "modern_industrialization:electrum_cable",
+      "modern_industrialization:redstone_battery",
+      "modern_industrialization:electrum_cable"
+    ]
+  },
+  "modern_industrialization:electric_compressor": {
+    "result": "modern_industrialization:electric_compressor",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:piston",
+      "modern_industrialization:analog_circuit",
+      "modern_industrialization:piston",
+      "modern_industrialization:tin_cable",
+      "modern_industrialization:basic_machine_hull",
+      "modern_industrialization:tin_cable",
+      "modern_industrialization:piston",
+      "modern_industrialization:analog_circuit",
+      "modern_industrialization:piston"
+    ]
+  },
+  "modern_industrialization:electric_cutting_machine": {
+    "result": "modern_industrialization:electric_cutting_machine",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glass",
+      "modern_industrialization:invar_rotary_blade",
+      "minecraft:glass",
+      "modern_industrialization:motor",
+      "modern_industrialization:basic_machine_hull",
+      "modern_industrialization:motor",
+      "modern_industrialization:analog_circuit",
+      "modern_industrialization:conveyor",
+      "modern_industrialization:analog_circuit"
+    ]
+  },
+  "modern_industrialization:electric_blast_furnace": {
+    "result": "modern_industrialization:electric_blast_furnace",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:cupronickel_wire_magnetic",
+      "modern_industrialization:cupronickel_wire_magnetic",
+      "modern_industrialization:cupronickel_wire_magnetic",
+      "modern_industrialization:cupronickel_wire_magnetic",
+      "modern_industrialization:basic_machine_hull",
+      "modern_industrialization:cupronickel_wire_magnetic",
+      "modern_industrialization:cupronickel_wire_magnetic",
+      "minecraft:blast_furnace",
+      "modern_industrialization:cupronickel_wire_magnetic"
+    ]
+  },
+  "modern_industrialization:electric_quarry": {
+    "result": "modern_industrialization:electric_quarry",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:large_motor",
+      "modern_industrialization:robot_arm",
+      "modern_industrialization:large_motor",
+      "modern_industrialization:electronic_circuit",
+      "modern_industrialization:advanced_machine_hull",
+      "modern_industrialization:electronic_circuit",
+      "modern_industrialization:large_motor",
+      "modern_industrialization:steam_quarry",
+      "modern_industrialization:large_motor"
+    ]
+  },
+  "modern_industrialization:electrolyzer": {
+    "result": "modern_industrialization:electrolyzer",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:cupronickel_wire_magnetic",
+      "modern_industrialization:electronic_circuit",
+      "modern_industrialization:cupronickel_wire_magnetic",
+      "minecraft:aluminum",
+      "modern_industrialization:basic_machine_hull",
+      "minecraft:aluminum",
+      "modern_industrialization:cupronickel_wire_magnetic",
+      "modern_industrialization:large_pump",
+      "modern_industrialization:cupronickel_wire_magnetic"
+    ]
+  },
+  "modern_industrialization:electric_furnace": {
+    "result": "modern_industrialization:electric_furnace",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:cupronickel_wire_magnetic",
+      "modern_industrialization:analog_circuit",
+      "modern_industrialization:cupronickel_wire_magnetic",
+      "modern_industrialization:cupronickel_wire_magnetic",
+      "modern_industrialization:basic_machine_hull",
+      "modern_industrialization:cupronickel_wire_magnetic",
+      "modern_industrialization:tin_cable",
+      "modern_industrialization:analog_circuit",
+      "modern_industrialization:tin_cable"
+    ]
+  },
+  "modern_industrialization:electric_macerator": {
+    "result": "modern_industrialization:electric_macerator",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:piston",
+      "modern_industrialization:invar_rotary_blade",
+      "modern_industrialization:piston",
+      "modern_industrialization:motor",
+      "modern_industrialization:basic_machine_hull",
+      "modern_industrialization:motor",
+      "modern_industrialization:analog_circuit",
+      "modern_industrialization:tin_cable",
+      "modern_industrialization:analog_circuit"
+    ]
+  },
+  "modern_industrialization:electric_mixer": {
+    "result": "modern_industrialization:electric_mixer",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glass",
+      "modern_industrialization:motor",
+      "minecraft:glass",
+      "modern_industrialization:tin_rotor",
+      "modern_industrialization:basic_machine_hull",
+      "modern_industrialization:tin_rotor",
+      "modern_industrialization:analog_circuit",
+      "minecraft:fluid_pipes",
+      "modern_industrialization:analog_circuit"
+    ]
+  },
+  "modern_industrialization:electric_packer": {
+    "result": "modern_industrialization:electric_packer",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:robot_arm",
+      "modern_industrialization:analog_circuit",
+      "modern_industrialization:robot_arm",
+      "modern_industrialization:conveyor",
+      "modern_industrialization:basic_machine_hull",
+      "modern_industrialization:conveyor",
+      "modern_industrialization:tin_cable",
+      "modern_industrialization:analog_circuit",
+      "modern_industrialization:tin_cable"
+    ]
+  },
+  "modern_industrialization:electric_unpacker": {
+    "result": "modern_industrialization:electric_unpacker",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:motor",
+      "modern_industrialization:analog_circuit",
+      "modern_industrialization:motor",
+      "modern_industrialization:conveyor",
+      "modern_industrialization:basic_machine_hull",
+      "modern_industrialization:conveyor",
+      "modern_industrialization:tin_cable",
+      "modern_industrialization:analog_circuit",
+      "modern_industrialization:tin_cable"
+    ]
+  },
+  "modern_industrialization:electric_water_pump": {
+    "result": "modern_industrialization:electric_water_pump",
+    "count": 1,
+    "ingredients": [
+      "minecraft:fluid_pipes",
+      "modern_industrialization:tin_rotor",
+      "minecraft:fluid_pipes",
+      "modern_industrialization:pump",
+      "modern_industrialization:basic_machine_hull",
+      "modern_industrialization:pump",
+      "modern_industrialization:tin_cable",
+      "modern_industrialization:analog_circuit",
+      "modern_industrialization:tin_cable"
+    ]
+  },
+  "modern_industrialization:electric_wiremill": {
+    "result": "modern_industrialization:electric_wiremill",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:motor",
+      "modern_industrialization:tin_cable",
+      "modern_industrialization:motor",
+      "modern_industrialization:analog_circuit",
+      "modern_industrialization:basic_machine_hull",
+      "modern_industrialization:analog_circuit",
+      "modern_industrialization:motor",
+      "modern_industrialization:tin_cable",
+      "modern_industrialization:motor"
+    ]
+  },
+  "modern_industrialization:electrum_block": {
+    "result": "modern_industrialization:electrum_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:electrum",
+      "minecraft:electrum",
+      "minecraft:electrum",
+      "minecraft:electrum",
+      "modern_industrialization:electrum_ingot",
+      "minecraft:electrum",
+      "minecraft:electrum",
+      "minecraft:electrum",
+      "minecraft:electrum"
+    ]
+  },
+  "modern_industrialization:electrum_dust": {
+    "result": "modern_industrialization:electrum_dust",
+    "count": 1,
+    "ingredients": [
+      "minecraft:electrum",
+      "minecraft:electrum",
+      "minecraft:electrum",
+      "minecraft:electrum",
+      "modern_industrialization:electrum_tiny_dust",
+      "minecraft:electrum",
+      "minecraft:electrum",
+      "minecraft:electrum",
+      "minecraft:electrum"
+    ]
+  },
+  "modern_industrialization:electrum_ingot": {
+    "result": "modern_industrialization:electrum_ingot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:electrum",
+      "minecraft:electrum",
+      "minecraft:electrum",
+      "minecraft:electrum",
+      "modern_industrialization:electrum_nugget",
+      "minecraft:electrum",
+      "minecraft:electrum",
+      "minecraft:electrum",
+      "minecraft:electrum"
+    ]
+  },
+  "modern_industrialization:electrum_nugget": {
+    "result": "modern_industrialization:electrum_nugget",
+    "count": 9,
+    "ingredients": [
+      "modern_industrialization:electrum_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:electrum_tiny_dust": {
+    "result": "modern_industrialization:electrum_tiny_dust",
+    "count": 9,
+    "ingredients": [
+      "modern_industrialization:electrum_dust",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modularbees:electrode_copper": {
+    "result": "modularbees:electrode_copper",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:black",
+      "minecraft:gold",
+      "",
+      "minecraft:copper",
+      "minecraft:black",
+      "minecraft:copper_ingot",
+      "",
+      ""
+    ]
+  },
+  "modularbees:electrode_gold": {
+    "result": "modularbees:electrode_gold",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:black",
+      "minecraft:gold",
+      "",
+      "minecraft:gold",
+      "minecraft:black",
+      "minecraft:gold_ingot",
+      "",
+      ""
+    ]
+  },
+  "modularbees:electrode_iron": {
+    "result": "modularbees:electrode_iron",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:black",
+      "minecraft:gold",
+      "",
+      "minecraft:iron",
+      "minecraft:black",
+      "minecraft:iron_ingot",
+      "",
+      ""
+    ]
+  },
+  "botania:elementium_ingot": {
+    "result": "botania:elementium_ingot",
+    "count": 4,
+    "ingredients": [
+      "mysticalagriculture:elementium_essence",
+      "mysticalagriculture:elementium_essence",
+      "mysticalagriculture:elementium_essence",
+      "mysticalagriculture:elementium_essence",
+      "",
+      "mysticalagriculture:elementium_essence",
+      "mysticalagriculture:elementium_essence",
+      "mysticalagriculture:elementium_essence",
+      "mysticalagriculture:elementium_essence"
+    ]
+  },
+  "oritech:electrum_block": {
+    "result": "oritech:electrum_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:electrum",
+      "minecraft:electrum",
+      "minecraft:electrum",
+      "minecraft:electrum",
+      "minecraft:electrum",
+      "minecraft:electrum",
+      "minecraft:electrum",
+      "minecraft:electrum",
+      "minecraft:electrum"
+    ]
+  },
+  "oritech:electrum_ingot": {
+    "result": "oritech:electrum_ingot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "",
+      "minecraft:redstone",
+      "minecraft:redstone",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "oritech:electric_mace": {
+    "result": "oritech:electric_mace",
+    "count": 1,
+    "ingredients": [
+      "",
+      "oritech:adamant_ingot",
+      "",
+      "oritech:adamant_ingot",
+      "minecraft:heavy_core",
+      "oritech:adamant_ingot",
+      "oritech:carbon_fibre_strands",
+      "oritech:advanced_battery",
+      "oritech:advanced_battery"
+    ]
+  },
+  "pamhc2crops:elderberryseeditem": {
+    "result": "pamhc2crops:elderberryseeditem",
+    "count": 1,
+    "ingredients": [
+      "pamhc2crops:elderberryitem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:elderberryjellyitem": {
+    "result": "pamhc2foodextended:elderberryjellyitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:elderberry",
+      "minecraft:sugar",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:elderberryjellysandwichitem": {
+    "result": "pamhc2foodextended:elderberryjellysandwichitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:elderberryjelly",
+      "minecraft:bread",
+      "minecraft:nutbutters",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:elderberryjellytoastitem": {
+    "result": "pamhc2foodextended:elderberryjellytoastitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:elderberryjelly",
+      "minecraft:toast",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:elderberryjuiceitem": {
+    "result": "pamhc2foodextended:elderberryjuiceitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_juicer",
+      "minecraft:elderberry",
+      "minecraft:elderberry",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:elderberrypieitem": {
+    "result": "pamhc2foodextended:elderberrypieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:elderberry",
+      "minecraft:sugar",
+      "minecraft:dough",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:elderberrysmoothieitem": {
+    "result": "pamhc2foodextended:elderberrysmoothieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:elderberry",
+      "minecraft:ices",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:elderberryyogurtitem": {
+    "result": "pamhc2foodextended:elderberryyogurtitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:elderberry",
+      "minecraft:yogurt",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pneumaticcraft:electrostatic_compressor": {
+    "result": "pneumaticcraft:electrostatic_compressor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_bars",
+      "minecraft:plastic_sheets",
+      "minecraft:iron_bars",
+      "minecraft:plastic_sheets",
+      "pneumaticcraft:turbine_rotor",
+      "minecraft:plastic_sheets",
+      "minecraft:iron_bars",
+      "pneumaticcraft:advanced_air_compressor",
+      "minecraft:iron_bars"
+    ]
+  },
+  "pneumaticcraft:elevator_base": {
+    "result": "pneumaticcraft:elevator_base",
+    "count": 1,
+    "ingredients": [
+      "minecraft:plastic_sheets",
+      "pneumaticcraft:pneumatic_cylinder",
+      "",
+      "pneumaticcraft:pneumatic_cylinder",
+      "minecraft:plastic_sheets",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pneumaticcraft:elevator_caller": {
+    "result": "pneumaticcraft:elevator_caller",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone_button",
+      "minecraft:plastic_sheets",
+      "minecraft:stone_button",
+      "minecraft:plastic_sheets",
+      "minecraft:stone",
+      "minecraft:plastic_sheets",
+      "minecraft:stone_button",
+      "minecraft:plastic_sheets",
+      "minecraft:stone_button"
+    ]
+  },
+  "pneumaticcraft:elevator_frame": {
+    "result": "pneumaticcraft:elevator_frame",
+    "count": 4,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "pneumaticcraft:elytra_upgrade": {
+    "result": "pneumaticcraft:elytra_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:upgrade_components",
+      "minecraft:end_rod",
+      "minecraft:upgrade_components",
+      "minecraft:end_rod",
+      "minecraft:elytra",
+      "minecraft:end_rod",
+      "minecraft:upgrade_components",
+      "minecraft:end_rod",
+      "minecraft:upgrade_components"
+    ]
+  },
+  "productivetrees:elderberry_bookshelf": {
+    "result": "productivetrees:elderberry_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:elderberry_planks",
+      "productivetrees:elderberry_planks",
+      "productivetrees:elderberry_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:elderberry_planks",
+      "productivetrees:elderberry_planks",
+      "productivetrees:elderberry_planks"
+    ]
+  },
+  "productivetrees:elm_bookshelf": {
+    "result": "productivetrees:elm_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:elm_planks",
+      "productivetrees:elm_planks",
+      "productivetrees:elm_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:elm_planks",
+      "productivetrees:elm_planks",
+      "productivetrees:elm_planks"
+    ]
+  },
+  "productivetrees:elderberry_button": {
+    "result": "productivetrees:elderberry_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:elderberry_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:elm_button": {
+    "result": "productivetrees:elm_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:elm_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:elderberry_crate": {
+    "result": "productivetrees:elderberry_crate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:elderberry",
+      "minecraft:elderberry",
+      "minecraft:elderberry",
+      "minecraft:elderberry",
+      "productivetrees:elderberry",
+      "minecraft:elderberry",
+      "minecraft:elderberry",
+      "minecraft:elderberry",
+      "minecraft:elderberry"
+    ]
+  },
+  "productivetrees:elderberry": {
+    "result": "productivetrees:elderberry",
+    "count": 9,
+    "ingredients": [
+      "productivetrees:elderberry_crate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:elderberry_door": {
+    "result": "productivetrees:elderberry_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:elderberry_planks",
+      "productivetrees:elderberry_planks",
+      "",
+      "productivetrees:elderberry_planks",
+      "productivetrees:elderberry_planks",
+      "",
+      "productivetrees:elderberry_planks",
+      "productivetrees:elderberry_planks",
+      ""
+    ]
+  },
+  "productivetrees:elm_door": {
+    "result": "productivetrees:elm_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:elm_planks",
+      "productivetrees:elm_planks",
+      "",
+      "productivetrees:elm_planks",
+      "productivetrees:elm_planks",
+      "",
+      "productivetrees:elm_planks",
+      "productivetrees:elm_planks",
+      ""
+    ]
+  },
+  "productivetrees:elderberry_fence": {
+    "result": "productivetrees:elderberry_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:elderberry_planks",
+      "minecraft:stick",
+      "productivetrees:elderberry_planks",
+      "productivetrees:elderberry_planks",
+      "minecraft:stick",
+      "productivetrees:elderberry_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:elm_fence": {
+    "result": "productivetrees:elm_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:elm_planks",
+      "minecraft:stick",
+      "productivetrees:elm_planks",
+      "productivetrees:elm_planks",
+      "minecraft:stick",
+      "productivetrees:elm_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:elderberry_fence_gate": {
+    "result": "productivetrees:elderberry_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:elderberry_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:elderberry_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:elm_fence_gate": {
+    "result": "productivetrees:elm_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:elm_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:elm_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:elderberry_hanging_sign": {
+    "result": "productivetrees:elderberry_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:elderberry_planks",
+      "productivetrees:elderberry_planks",
+      "productivetrees:elderberry_planks",
+      "productivetrees:elderberry_planks",
+      "productivetrees:elderberry_planks",
+      "productivetrees:elderberry_planks"
+    ]
+  },
+  "productivetrees:elm_hanging_sign": {
+    "result": "productivetrees:elm_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:elm_planks",
+      "productivetrees:elm_planks",
+      "productivetrees:elm_planks",
+      "productivetrees:elm_planks",
+      "productivetrees:elm_planks",
+      "productivetrees:elm_planks"
+    ]
+  },
+  "productivetrees:elderberry_planks": {
+    "result": "productivetrees:elderberry_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:elm_planks": {
+    "result": "productivetrees:elm_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:elderberry_pressure_plate": {
+    "result": "productivetrees:elderberry_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:elderberry_planks",
+      "productivetrees:elderberry_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:elm_pressure_plate": {
+    "result": "productivetrees:elm_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:elm_planks",
+      "productivetrees:elm_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:elderberry_sign": {
+    "result": "productivetrees:elderberry_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:elderberry_planks",
+      "productivetrees:elderberry_planks",
+      "productivetrees:elderberry_planks",
+      "productivetrees:elderberry_planks",
+      "productivetrees:elderberry_planks",
+      "productivetrees:elderberry_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:elm_sign": {
+    "result": "productivetrees:elm_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:elm_planks",
+      "productivetrees:elm_planks",
+      "productivetrees:elm_planks",
+      "productivetrees:elm_planks",
+      "productivetrees:elm_planks",
+      "productivetrees:elm_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:elderberry_slab": {
+    "result": "productivetrees:elderberry_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:elderberry_planks",
+      "productivetrees:elderberry_planks",
+      "productivetrees:elderberry_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:elm_slab": {
+    "result": "productivetrees:elm_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:elm_planks",
+      "productivetrees:elm_planks",
+      "productivetrees:elm_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:elderberry_stairs": {
+    "result": "productivetrees:elderberry_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:elderberry_planks",
+      "",
+      "",
+      "productivetrees:elderberry_planks",
+      "productivetrees:elderberry_planks",
+      "",
+      "productivetrees:elderberry_planks",
+      "productivetrees:elderberry_planks",
+      "productivetrees:elderberry_planks"
+    ]
+  },
+  "productivetrees:elm_stairs": {
+    "result": "productivetrees:elm_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:elm_planks",
+      "",
+      "",
+      "productivetrees:elm_planks",
+      "productivetrees:elm_planks",
+      "",
+      "productivetrees:elm_planks",
+      "productivetrees:elm_planks",
+      "productivetrees:elm_planks"
+    ]
+  },
+  "productivetrees:elderberry_trapdoor": {
+    "result": "productivetrees:elderberry_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:elderberry_planks",
+      "productivetrees:elderberry_planks",
+      "productivetrees:elderberry_planks",
+      "productivetrees:elderberry_planks",
+      "productivetrees:elderberry_planks",
+      "productivetrees:elderberry_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:elm_trapdoor": {
+    "result": "productivetrees:elm_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:elm_planks",
+      "productivetrees:elm_planks",
+      "productivetrees:elm_planks",
+      "productivetrees:elm_planks",
+      "productivetrees:elm_planks",
+      "productivetrees:elm_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:elderberry_wood": {
+    "result": "productivetrees:elderberry_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:elderberry_log",
+      "productivetrees:elderberry_log",
+      "",
+      "productivetrees:elderberry_log",
+      "productivetrees:elderberry_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:elm_wood": {
+    "result": "productivetrees:elm_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:elm_log",
+      "productivetrees:elm_log",
+      "",
+      "productivetrees:elm_log",
+      "productivetrees:elm_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:electric_activator_track": {
+    "result": "railcraft:electric_activator_track",
+    "count": 1,
+    "ingredients": [
+      "railcraft:activator_track_kit",
+      "railcraft:electric_track",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:electric_booster_track": {
+    "result": "railcraft:electric_booster_track",
+    "count": 1,
+    "ingredients": [
+      "railcraft:booster_track_kit",
+      "railcraft:electric_track",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:electric_buffer_stop_track": {
+    "result": "railcraft:electric_buffer_stop_track",
+    "count": 1,
+    "ingredients": [
+      "railcraft:buffer_stop_track_kit",
+      "railcraft:electric_track",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:electric_control_track": {
+    "result": "railcraft:electric_control_track",
+    "count": 1,
+    "ingredients": [
+      "railcraft:control_track_kit",
+      "railcraft:electric_track",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:electric_coupler_track": {
+    "result": "railcraft:electric_coupler_track",
+    "count": 1,
+    "ingredients": [
+      "railcraft:coupler_track_kit",
+      "railcraft:electric_track",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:electric_detector_track": {
+    "result": "railcraft:electric_detector_track",
+    "count": 1,
+    "ingredients": [
+      "railcraft:detector_track_kit",
+      "railcraft:electric_track",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:electric_disembarking_track": {
+    "result": "railcraft:electric_disembarking_track",
+    "count": 1,
+    "ingredients": [
+      "railcraft:disembarking_track_kit",
+      "railcraft:electric_track",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:electric_dumping_track": {
+    "result": "railcraft:electric_dumping_track",
+    "count": 1,
+    "ingredients": [
+      "railcraft:dumping_track_kit",
+      "railcraft:electric_track",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:electric_embarking_track": {
+    "result": "railcraft:electric_embarking_track",
+    "count": 1,
+    "ingredients": [
+      "railcraft:embarking_track_kit",
+      "railcraft:electric_track",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:electric_gated_track": {
+    "result": "railcraft:electric_gated_track",
+    "count": 1,
+    "ingredients": [
+      "railcraft:gated_track_kit",
+      "railcraft:electric_track",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:electric_junction_track": {
+    "result": "railcraft:electric_junction_track",
+    "count": 16,
+    "ingredients": [
+      "railcraft:electric_rail",
+      "railcraft:electric_rail",
+      "railcraft:electric_rail",
+      "railcraft:electric_rail",
+      "railcraft:stone_railbed",
+      "railcraft:electric_rail",
+      "railcraft:electric_rail",
+      "railcraft:electric_rail",
+      "railcraft:electric_rail"
+    ]
+  },
+  "railcraft:electric_launcher_track": {
+    "result": "railcraft:electric_launcher_track",
+    "count": 1,
+    "ingredients": [
+      "railcraft:launcher_track_kit",
+      "railcraft:electric_track",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:electric_locking_track": {
+    "result": "railcraft:electric_locking_track",
+    "count": 1,
+    "ingredients": [
+      "railcraft:locking_track_kit",
+      "railcraft:electric_track",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:electric_locomotive": {
+    "result": "railcraft:electric_locomotive",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone_lamp",
+      "minecraft:steel",
+      "",
+      "railcraft:charge_motor",
+      "railcraft:nickel_iron_battery",
+      "railcraft:charge_motor",
+      "minecraft:steel",
+      "minecraft:minecart",
+      "minecraft:steel"
+    ]
+  },
+  "railcraft:electric_locomotive_track": {
+    "result": "railcraft:electric_locomotive_track",
+    "count": 1,
+    "ingredients": [
+      "railcraft:locomotive_track_kit",
+      "railcraft:electric_track",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:electric_one_way_track": {
+    "result": "railcraft:electric_one_way_track",
+    "count": 1,
+    "ingredients": [
+      "railcraft:one_way_track_kit",
+      "railcraft:electric_track",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:electric_routing_track": {
+    "result": "railcraft:electric_routing_track",
+    "count": 1,
+    "ingredients": [
+      "railcraft:routing_track_kit",
+      "railcraft:electric_track",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:electric_throttle_track": {
+    "result": "railcraft:electric_throttle_track",
+    "count": 1,
+    "ingredients": [
+      "railcraft:throttle_track_kit",
+      "railcraft:electric_track",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:electric_track": {
+    "result": "railcraft:electric_track",
+    "count": 32,
+    "ingredients": [
+      "railcraft:electric_rail",
+      "",
+      "railcraft:electric_rail",
+      "railcraft:electric_rail",
+      "railcraft:stone_railbed",
+      "railcraft:electric_rail",
+      "railcraft:electric_rail",
+      "",
+      "railcraft:electric_rail"
+    ]
+  },
+  "railcraft:electric_turnout_track": {
+    "result": "railcraft:electric_turnout_track",
+    "count": 16,
+    "ingredients": [
+      "railcraft:electric_rail",
+      "railcraft:stone_railbed",
+      "railcraft:electric_rail",
+      "railcraft:electric_rail",
+      "railcraft:electric_rail",
+      "railcraft:electric_rail",
+      "railcraft:electric_rail",
+      "railcraft:electric_rail",
+      "railcraft:electric_rail"
+    ]
+  },
+  "railcraft:electric_whistle_track": {
+    "result": "railcraft:electric_whistle_track",
+    "count": 1,
+    "ingredients": [
+      "railcraft:whistle_track_kit",
+      "railcraft:electric_track",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:electric_wye_track": {
+    "result": "railcraft:electric_wye_track",
+    "count": 16,
+    "ingredients": [
+      "railcraft:electric_rail",
+      "railcraft:electric_rail",
+      "railcraft:electric_rail",
+      "railcraft:electric_rail",
+      "railcraft:electric_rail",
+      "railcraft:stone_railbed",
+      "railcraft:electric_rail",
+      "railcraft:electric_rail",
+      "railcraft:electric_rail"
+    ]
+  },
+  "railcraft:elevator_track": {
+    "result": "railcraft:elevator_track",
+    "count": 8,
+    "ingredients": [
+      "railcraft:advanced_rail",
+      "minecraft:redstone",
+      "railcraft:advanced_rail",
+      "railcraft:advanced_rail",
+      "railcraft:standard_rail",
+      "railcraft:advanced_rail",
+      "railcraft:advanced_rail",
+      "minecraft:redstone",
+      "railcraft:advanced_rail"
+    ]
+  },
+  "securitycraft:electrified_iron_fence": {
+    "result": "securitycraft:electrified_iron_fence",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:wooden_fences",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      ""
+    ]
+  },
+  "silentgear:elytra_blueprint": {
+    "result": "silentgear:elytra_blueprint",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "minecraft:elytra",
+      "minecraft:gold_ingot",
+      "minecraft:phantom_membrane",
+      "minecraft:paper",
+      "minecraft:phantom_membrane",
+      "minecraft:phantom_membrane",
+      "",
+      "minecraft:phantom_membrane"
+    ]
+  },
+  "silentgear:elytra_template": {
+    "result": "silentgear:elytra_template",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "minecraft:elytra",
+      "minecraft:gold_ingot",
+      "minecraft:phantom_membrane",
+      "minecraft:template_boards",
+      "minecraft:phantom_membrane",
+      "minecraft:phantom_membrane",
+      "",
+      "minecraft:phantom_membrane"
+    ]
+  }
+}

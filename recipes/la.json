@@ -1,0 +1,2927 @@
+{
+  "actuallyadditions:lamp_black": {
+    "result": "actuallyadditions:lamp_black",
+    "count": 6,
+    "ingredients": [
+      "minecraft:glowstone",
+      "actuallyadditions:palis_crystal",
+      "minecraft:glowstone",
+      "minecraft:black_dye",
+      "actuallyadditions:black_quartz",
+      "minecraft:black_dye",
+      "minecraft:glowstone",
+      "actuallyadditions:palis_crystal",
+      "minecraft:glowstone"
+    ]
+  },
+  "actuallyadditions:lamp_blue": {
+    "result": "actuallyadditions:lamp_blue",
+    "count": 6,
+    "ingredients": [
+      "minecraft:glowstone",
+      "actuallyadditions:palis_crystal",
+      "minecraft:glowstone",
+      "minecraft:blue_dye",
+      "actuallyadditions:black_quartz",
+      "minecraft:blue_dye",
+      "minecraft:glowstone",
+      "actuallyadditions:palis_crystal",
+      "minecraft:glowstone"
+    ]
+  },
+  "actuallyadditions:lamp_brown": {
+    "result": "actuallyadditions:lamp_brown",
+    "count": 6,
+    "ingredients": [
+      "minecraft:glowstone",
+      "actuallyadditions:palis_crystal",
+      "minecraft:glowstone",
+      "minecraft:brown_dye",
+      "actuallyadditions:black_quartz",
+      "minecraft:brown_dye",
+      "minecraft:glowstone",
+      "actuallyadditions:palis_crystal",
+      "minecraft:glowstone"
+    ]
+  },
+  "actuallyadditions:lamp_controller": {
+    "result": "actuallyadditions:lamp_controller",
+    "count": 4,
+    "ingredients": [
+      "actuallyadditions:restonia_crystal",
+      "actuallyadditions:restonia_crystal",
+      "actuallyadditions:restonia_crystal",
+      "actuallyadditions:restonia_crystal",
+      "minecraft:lamps",
+      "actuallyadditions:restonia_crystal",
+      "actuallyadditions:restonia_crystal",
+      "actuallyadditions:restonia_crystal",
+      "actuallyadditions:restonia_crystal"
+    ]
+  },
+  "actuallyadditions:lamp_cyan": {
+    "result": "actuallyadditions:lamp_cyan",
+    "count": 6,
+    "ingredients": [
+      "minecraft:glowstone",
+      "actuallyadditions:palis_crystal",
+      "minecraft:glowstone",
+      "minecraft:cyan_dye",
+      "actuallyadditions:black_quartz",
+      "minecraft:cyan_dye",
+      "minecraft:glowstone",
+      "actuallyadditions:palis_crystal",
+      "minecraft:glowstone"
+    ]
+  },
+  "actuallyadditions:lamp_gray": {
+    "result": "actuallyadditions:lamp_gray",
+    "count": 6,
+    "ingredients": [
+      "minecraft:glowstone",
+      "actuallyadditions:palis_crystal",
+      "minecraft:glowstone",
+      "minecraft:gray_dye",
+      "actuallyadditions:black_quartz",
+      "minecraft:gray_dye",
+      "minecraft:glowstone",
+      "actuallyadditions:palis_crystal",
+      "minecraft:glowstone"
+    ]
+  },
+  "actuallyadditions:lamp_green": {
+    "result": "actuallyadditions:lamp_green",
+    "count": 6,
+    "ingredients": [
+      "minecraft:glowstone",
+      "actuallyadditions:palis_crystal",
+      "minecraft:glowstone",
+      "minecraft:green_dye",
+      "actuallyadditions:black_quartz",
+      "minecraft:green_dye",
+      "minecraft:glowstone",
+      "actuallyadditions:palis_crystal",
+      "minecraft:glowstone"
+    ]
+  },
+  "actuallyadditions:lamp_light_blue": {
+    "result": "actuallyadditions:lamp_light_blue",
+    "count": 6,
+    "ingredients": [
+      "minecraft:glowstone",
+      "actuallyadditions:palis_crystal",
+      "minecraft:glowstone",
+      "minecraft:light_blue_dye",
+      "actuallyadditions:black_quartz",
+      "minecraft:light_blue_dye",
+      "minecraft:glowstone",
+      "actuallyadditions:palis_crystal",
+      "minecraft:glowstone"
+    ]
+  },
+  "actuallyadditions:lamp_light_gray": {
+    "result": "actuallyadditions:lamp_light_gray",
+    "count": 6,
+    "ingredients": [
+      "minecraft:glowstone",
+      "actuallyadditions:palis_crystal",
+      "minecraft:glowstone",
+      "minecraft:light_gray_dye",
+      "actuallyadditions:black_quartz",
+      "minecraft:light_gray_dye",
+      "minecraft:glowstone",
+      "actuallyadditions:palis_crystal",
+      "minecraft:glowstone"
+    ]
+  },
+  "actuallyadditions:lamp_lime": {
+    "result": "actuallyadditions:lamp_lime",
+    "count": 6,
+    "ingredients": [
+      "minecraft:glowstone",
+      "actuallyadditions:palis_crystal",
+      "minecraft:glowstone",
+      "minecraft:lime_dye",
+      "actuallyadditions:black_quartz",
+      "minecraft:lime_dye",
+      "minecraft:glowstone",
+      "actuallyadditions:palis_crystal",
+      "minecraft:glowstone"
+    ]
+  },
+  "actuallyadditions:lamp_magenta": {
+    "result": "actuallyadditions:lamp_magenta",
+    "count": 6,
+    "ingredients": [
+      "minecraft:glowstone",
+      "actuallyadditions:palis_crystal",
+      "minecraft:glowstone",
+      "minecraft:magenta_dye",
+      "actuallyadditions:black_quartz",
+      "minecraft:magenta_dye",
+      "minecraft:glowstone",
+      "actuallyadditions:palis_crystal",
+      "minecraft:glowstone"
+    ]
+  },
+  "actuallyadditions:lamp_orange": {
+    "result": "actuallyadditions:lamp_orange",
+    "count": 6,
+    "ingredients": [
+      "minecraft:glowstone",
+      "actuallyadditions:palis_crystal",
+      "minecraft:glowstone",
+      "minecraft:orange_dye",
+      "actuallyadditions:black_quartz",
+      "minecraft:orange_dye",
+      "minecraft:glowstone",
+      "actuallyadditions:palis_crystal",
+      "minecraft:glowstone"
+    ]
+  },
+  "actuallyadditions:lamp_pink": {
+    "result": "actuallyadditions:lamp_pink",
+    "count": 6,
+    "ingredients": [
+      "minecraft:glowstone",
+      "actuallyadditions:palis_crystal",
+      "minecraft:glowstone",
+      "minecraft:pink_dye",
+      "actuallyadditions:black_quartz",
+      "minecraft:pink_dye",
+      "minecraft:glowstone",
+      "actuallyadditions:palis_crystal",
+      "minecraft:glowstone"
+    ]
+  },
+  "actuallyadditions:lamp_purple": {
+    "result": "actuallyadditions:lamp_purple",
+    "count": 6,
+    "ingredients": [
+      "minecraft:glowstone",
+      "actuallyadditions:palis_crystal",
+      "minecraft:glowstone",
+      "minecraft:purple_dye",
+      "actuallyadditions:black_quartz",
+      "minecraft:purple_dye",
+      "minecraft:glowstone",
+      "actuallyadditions:palis_crystal",
+      "minecraft:glowstone"
+    ]
+  },
+  "actuallyadditions:lamp_red": {
+    "result": "actuallyadditions:lamp_red",
+    "count": 6,
+    "ingredients": [
+      "minecraft:glowstone",
+      "actuallyadditions:palis_crystal",
+      "minecraft:glowstone",
+      "minecraft:red_dye",
+      "actuallyadditions:black_quartz",
+      "minecraft:red_dye",
+      "minecraft:glowstone",
+      "actuallyadditions:palis_crystal",
+      "minecraft:glowstone"
+    ]
+  },
+  "actuallyadditions:lamp_white": {
+    "result": "actuallyadditions:lamp_white",
+    "count": 6,
+    "ingredients": [
+      "minecraft:glowstone",
+      "actuallyadditions:palis_crystal",
+      "minecraft:glowstone",
+      "minecraft:white_dye",
+      "actuallyadditions:black_quartz",
+      "minecraft:white_dye",
+      "minecraft:glowstone",
+      "actuallyadditions:palis_crystal",
+      "minecraft:glowstone"
+    ]
+  },
+  "actuallyadditions:lamp_yellow": {
+    "result": "actuallyadditions:lamp_yellow",
+    "count": 6,
+    "ingredients": [
+      "minecraft:glowstone",
+      "actuallyadditions:palis_crystal",
+      "minecraft:glowstone",
+      "minecraft:yellow_dye",
+      "actuallyadditions:black_quartz",
+      "minecraft:yellow_dye",
+      "minecraft:glowstone",
+      "actuallyadditions:palis_crystal",
+      "minecraft:glowstone"
+    ]
+  },
+  "actuallyadditions:laser_relay": {
+    "result": "actuallyadditions:laser_relay",
+    "count": 4,
+    "ingredients": [
+      "minecraft:obsidians",
+      "minecraft:redstone",
+      "minecraft:obsidians",
+      "actuallyadditions:restonia_crystal",
+      "actuallyadditions:advanced_coil",
+      "actuallyadditions:restonia_crystal",
+      "minecraft:obsidians",
+      "minecraft:redstone",
+      "minecraft:obsidians"
+    ]
+  },
+  "actuallyadditions:laser_relay_advanced": {
+    "result": "actuallyadditions:laser_relay_advanced",
+    "count": 1,
+    "ingredients": [
+      "",
+      "actuallyadditions:enori_crystal",
+      "",
+      "actuallyadditions:restonia_crystal",
+      "actuallyadditions:laser_relay",
+      "actuallyadditions:restonia_crystal",
+      "",
+      "actuallyadditions:enori_crystal",
+      ""
+    ]
+  },
+  "actuallyadditions:laser_relay_extreme": {
+    "result": "actuallyadditions:laser_relay_extreme",
+    "count": 1,
+    "ingredients": [
+      "",
+      "actuallyadditions:empowered_diamatine_crystal",
+      "",
+      "actuallyadditions:restonia_crystal",
+      "actuallyadditions:laser_relay_advanced",
+      "actuallyadditions:restonia_crystal",
+      "",
+      "actuallyadditions:empowered_diamatine_crystal",
+      ""
+    ]
+  },
+  "actuallyadditions:laser_relay_item_advanced": {
+    "result": "actuallyadditions:laser_relay_item_advanced",
+    "count": 1,
+    "ingredients": [
+      "actuallyadditions:laser_relay_item",
+      "actuallyadditions:advanced_coil",
+      "actuallyadditions:black_quartz",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "actuallyadditions:laser_upgrade_invisibility": {
+    "result": "actuallyadditions:laser_upgrade_invisibility",
+    "count": 4,
+    "ingredients": [
+      "minecraft:black_stained_glass",
+      "minecraft:black_stained_glass",
+      "minecraft:black_stained_glass",
+      "actuallyadditions:void_crystal",
+      "actuallyadditions:advanced_coil",
+      "actuallyadditions:void_crystal",
+      "minecraft:black_stained_glass",
+      "minecraft:black_stained_glass",
+      "minecraft:black_stained_glass"
+    ]
+  },
+  "actuallyadditions:laser_upgrade_range": {
+    "result": "actuallyadditions:laser_upgrade_range",
+    "count": 2,
+    "ingredients": [
+      "actuallyadditions:restonia_crystal",
+      "actuallyadditions:restonia_crystal",
+      "actuallyadditions:advanced_coil",
+      "minecraft:compass",
+      "actuallyadditions:advanced_coil",
+      "minecraft:compass",
+      "actuallyadditions:advanced_coil",
+      "actuallyadditions:restonia_crystal",
+      "actuallyadditions:restonia_crystal"
+    ]
+  },
+  "actuallyadditions:laser_wrench": {
+    "result": "actuallyadditions:laser_wrench",
+    "count": 1,
+    "ingredients": [
+      "actuallyadditions:laser_wrench",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "actuallyadditions:lava_factory_casing": {
+    "result": "actuallyadditions:lava_factory_casing",
+    "count": 4,
+    "ingredients": [
+      "actuallyadditions:enori_crystal_block",
+      "actuallyadditions:iron_casing",
+      "actuallyadditions:enori_crystal_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "actuallyadditions:lava_factory_controller": {
+    "result": "actuallyadditions:lava_factory_controller",
+    "count": 1,
+    "ingredients": [
+      "actuallyadditions:advanced_coil",
+      "actuallyadditions:iron_casing",
+      "actuallyadditions:advanced_coil",
+      "actuallyadditions:empowered_enori_crystal_block",
+      "actuallyadditions:advanced_coil",
+      "actuallyadditions:empowered_enori_crystal_block",
+      "minecraft:lava_bucket",
+      "minecraft:lava_bucket",
+      "minecraft:lava_bucket"
+    ]
+  },
+  "advanced_ae:lava_immunity_card": {
+    "result": "advanced_ae:lava_immunity_card",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:totem_of_undying",
+      "",
+      "",
+      "advanced_ae:quantum_upgrade_base",
+      "",
+      "ae2:quartz_glass",
+      "minecraft:lava_bucket",
+      "ae2:quartz_glass"
+    ]
+  },
+  "allthecompressed:lapis_block_1x": {
+    "result": "allthecompressed:lapis_block_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:lapis_block_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:lapis_block_2x": {
+    "result": "allthecompressed:lapis_block_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:lapis_block_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:lapis_block_3x": {
+    "result": "allthecompressed:lapis_block_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:lapis_block_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:lapis_block_4x": {
+    "result": "allthecompressed:lapis_block_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:lapis_block_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:lapis_block_5x": {
+    "result": "allthecompressed:lapis_block_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:lapis_block_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:lapis_block_6x": {
+    "result": "allthecompressed:lapis_block_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:lapis_block_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:lapis_block_7x": {
+    "result": "allthecompressed:lapis_block_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:lapis_block_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:lapis_block_8x": {
+    "result": "allthecompressed:lapis_block_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:lapis_block_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:lapis_block_9x": {
+    "result": "allthecompressed:lapis_block_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:lapis_block_8x",
+      "allthecompressed:lapis_block_8x",
+      "allthecompressed:lapis_block_8x",
+      "allthecompressed:lapis_block_8x",
+      "allthecompressed:lapis_block_8x",
+      "allthecompressed:lapis_block_8x",
+      "allthecompressed:lapis_block_8x",
+      "allthecompressed:lapis_block_8x",
+      "allthecompressed:lapis_block_8x"
+    ]
+  },
+  "minecraft:lapis_block": {
+    "result": "minecraft:lapis_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:lapis_lazuli",
+      "minecraft:lapis_lazuli",
+      "minecraft:lapis_lazuli",
+      "minecraft:lapis_lazuli",
+      "minecraft:lapis_lazuli",
+      "minecraft:lapis_lazuli",
+      "minecraft:lapis_lazuli",
+      "minecraft:lapis_lazuli",
+      "minecraft:lapis_lazuli"
+    ]
+  },
+  "cataclysm:laser_gatling": {
+    "result": "cataclysm:laser_gatling",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:redstone_block",
+      "cataclysm:witherite_ingot",
+      "",
+      "cataclysm:witherite_ingot",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "create:large_cogwheel": {
+    "result": "create:large_cogwheel",
+    "count": 1,
+    "ingredients": [
+      "create:cogwheel",
+      "minecraft:oak_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:large_water_wheel": {
+    "result": "create:large_water_wheel",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "create:water_wheel",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks"
+    ]
+  },
+  "createaddition:large_connector": {
+    "result": "createaddition:large_connector",
+    "count": 2,
+    "ingredients": [
+      "minecraft:large_connector_usable_rods",
+      "create:andesite_alloy",
+      "create:andesite_alloy",
+      "minecraft:slime_ball",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "draconicevolution:large_chaos_frag": {
+    "result": "draconicevolution:large_chaos_frag",
+    "count": 9,
+    "ingredients": [
+      "draconicevolution:chaos_shard",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:lavender_carpet": {
+    "result": "dyenamics:lavender_carpet",
+    "count": 3,
+    "ingredients": [
+      "dyenamics:lavender_wool",
+      "dyenamics:lavender_wool",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:lavender_candle": {
+    "result": "dyenamics:lavender_candle",
+    "count": 1,
+    "ingredients": [
+      "minecraft:candle",
+      "minecraft:lavender",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:lavender_concrete_powder": {
+    "result": "dyenamics:lavender_concrete_powder",
+    "count": 8,
+    "ingredients": [
+      "minecraft:lavender",
+      "minecraft:sand",
+      "minecraft:sand",
+      "minecraft:sand",
+      "minecraft:sand",
+      "minecraft:gravel",
+      "minecraft:gravel",
+      "minecraft:gravel",
+      "minecraft:gravel"
+    ]
+  },
+  "dyenamics:lavender_dye": {
+    "result": "dyenamics:lavender_dye",
+    "count": 2,
+    "ingredients": [
+      "minecraft:purple",
+      "minecraft:white",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:lavender_stained_glass": {
+    "result": "dyenamics:lavender_stained_glass",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:lavender",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass"
+    ]
+  },
+  "dyenamics:lavender_stained_glass_pane": {
+    "result": "dyenamics:lavender_stained_glass_pane",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:lavender",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane"
+    ]
+  },
+  "dyenamics:lavender_terracotta": {
+    "result": "dyenamics:lavender_terracotta",
+    "count": 8,
+    "ingredients": [
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:lavender",
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:terracotta"
+    ]
+  },
+  "dyenamics:lavender_wool": {
+    "result": "dyenamics:lavender_wool",
+    "count": 1,
+    "ingredients": [
+      "minecraft:lavender",
+      "minecraft:white_wool",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:lavender_banner": {
+    "result": "dyenamics:lavender_banner",
+    "count": 1,
+    "ingredients": [
+      "dyenamics:lavender_wool",
+      "dyenamics:lavender_wool",
+      "dyenamics:lavender_wool",
+      "dyenamics:lavender_wool",
+      "dyenamics:lavender_wool",
+      "dyenamics:lavender_wool",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "dyenamics:lavender_bed": {
+    "result": "dyenamics:lavender_bed",
+    "count": 1,
+    "ingredients": [
+      "minecraft:beds",
+      "minecraft:lavender",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:lavender_rockwool": {
+    "result": "dyenamics:lavender_rockwool",
+    "count": 1,
+    "ingredients": [
+      "thermal:white_rockwool",
+      "minecraft:lavender",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "extended_industrialization:large_configurable_chest": {
+    "result": "extended_industrialization:large_configurable_chest",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:configurable_chest",
+      "",
+      "",
+      "modern_industrialization:conveyor",
+      "",
+      "",
+      "modern_industrialization:configurable_chest",
+      "",
+      ""
+    ]
+  },
+  "extended_industrialization:large_electric_furnace": {
+    "result": "extended_industrialization:large_electric_furnace",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:cupronickel_wire_magnetic",
+      "modern_industrialization:electronic_circuit",
+      "modern_industrialization:cupronickel_wire_magnetic",
+      "modern_industrialization:electric_furnace",
+      "modern_industrialization:advanced_machine_hull",
+      "modern_industrialization:electric_furnace",
+      "modern_industrialization:heatproof_machine_casing",
+      "modern_industrialization:electronic_circuit",
+      "modern_industrialization:heatproof_machine_casing"
+    ]
+  },
+  "extended_industrialization:large_electric_macerator": {
+    "result": "extended_industrialization:large_electric_macerator",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:invar_rotary_blade",
+      "modern_industrialization:electronic_circuit",
+      "modern_industrialization:invar_rotary_blade",
+      "modern_industrialization:electric_macerator",
+      "modern_industrialization:advanced_machine_hull",
+      "modern_industrialization:electric_macerator",
+      "extended_industrialization:steel_plated_bricks",
+      "modern_industrialization:electronic_circuit",
+      "extended_industrialization:steel_plated_bricks"
+    ]
+  },
+  "extended_industrialization:large_steam_furnace": {
+    "result": "extended_industrialization:large_steam_furnace",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:bronze_curved_plate",
+      "modern_industrialization:bronze_plated_bricks",
+      "modern_industrialization:bronze_curved_plate",
+      "modern_industrialization:bronze_furnace",
+      "modern_industrialization:bronze_machine_casing",
+      "modern_industrialization:bronze_furnace",
+      "modern_industrialization:fire_clay_bricks",
+      "modern_industrialization:fire_clay_bricks",
+      "modern_industrialization:fire_clay_bricks"
+    ]
+  },
+  "extended_industrialization:large_steam_macerator": {
+    "result": "extended_industrialization:large_steam_macerator",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:bronze_curved_plate",
+      "modern_industrialization:bronze_plated_bricks",
+      "modern_industrialization:bronze_curved_plate",
+      "modern_industrialization:bronze_macerator",
+      "modern_industrialization:bronze_machine_casing",
+      "modern_industrialization:bronze_macerator",
+      "modern_industrialization:bronze_curved_plate",
+      "modern_industrialization:bronze_plated_bricks",
+      "modern_industrialization:bronze_curved_plate"
+    ]
+  },
+  "herbsandharvest:lamb_pie": {
+    "result": "herbsandharvest:lamb_pie",
+    "count": 1,
+    "ingredients": [
+      "minecraft:cooked_mutton",
+      "minecraft:wheat",
+      "minecraft:onion",
+      "minecraft:carrot",
+      "minecraft:minced_garlic",
+      "herbsandharvest:chopped_thyme",
+      "herbsandharvest:chopped_rosemary",
+      "herbsandharvest:chopped_bay_leaf",
+      ""
+    ]
+  },
+  "immersiveengineering:lantern": {
+    "result": "immersiveengineering:lantern",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron",
+      "minecraft:iron",
+      "minecraft:iron",
+      "minecraft:glass_pane",
+      "minecraft:stone",
+      "minecraft:glass_pane",
+      "minecraft:iron",
+      "minecraft:iron",
+      "minecraft:iron"
+    ]
+  },
+  "industrialforegoing:laser_drill": {
+    "result": "industrialforegoing:laser_drill",
+    "count": 1,
+    "ingredients": [
+      "minecraft:plastics",
+      "minecraft:diamond",
+      "minecraft:plastics",
+      "minecraft:piston",
+      "minecraft:simple",
+      "minecraft:piston",
+      "minecraft:gold",
+      "minecraft:redstone",
+      "minecraft:gold"
+    ]
+  },
+  "industrialforegoing:latex_processing_unit": {
+    "result": "industrialforegoing:latex_processing_unit",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:redstone",
+      "minecraft:iron_ingot",
+      "minecraft:bucket",
+      "minecraft:pity",
+      "minecraft:bucket",
+      "minecraft:iron_ingot",
+      "minecraft:furnace",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "integrateddynamics:labeller": {
+    "result": "integrateddynamics:labeller",
+    "count": 1,
+    "ingredients": [
+      "",
+      "integrateddynamics:crystalized_menril_chunk",
+      "minecraft:writable_book",
+      "",
+      "integrateddynamics:crystalized_menril_chunk",
+      "integrateddynamics:crystalized_menril_chunk",
+      "integrateddynamics:crystalized_menril_chunk",
+      "",
+      ""
+    ]
+  },
+  "laserbridges:laser_fence_source_block": {
+    "result": "laserbridges:laser_fence_source_block",
+    "count": 1,
+    "ingredients": [
+      "laserbridges:laser_source_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "laserbridges:laser_source_block": {
+    "result": "laserbridges:laser_source_block",
+    "count": 2,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:glass",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:end_crystal",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "laserio:laser_connector": {
+    "result": "laserio:laser_connector",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:glass",
+      "",
+      "minecraft:redstone",
+      "laserio:logic_chip",
+      "minecraft:redstone",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "laserio:laser_connector_advanced": {
+    "result": "laserio:laser_connector_advanced",
+    "count": 1,
+    "ingredients": [
+      "minecraft:ender_pearl",
+      "minecraft:diamond",
+      "minecraft:ender_pearl",
+      "minecraft:redstone",
+      "laserio:laser_connector",
+      "minecraft:redstone",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot"
+    ]
+  },
+  "laserio:laser_node": {
+    "result": "laserio:laser_node",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:glass",
+      "minecraft:iron_ingot",
+      "minecraft:glass",
+      "laserio:laser_connector",
+      "minecraft:glass",
+      "minecraft:iron_ingot",
+      "minecraft:glass",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "laserio:laser_wrench": {
+    "result": "laserio:laser_wrench",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "",
+      "laserio:logic_chip",
+      "",
+      "",
+      "minecraft:iron_ingot",
+      ""
+    ]
+  },
+  "mcwholidays:large_pumpkin": {
+    "result": "mcwholidays:large_pumpkin",
+    "count": 4,
+    "ingredients": [
+      "minecraft:pumpkin",
+      "minecraft:pumpkin",
+      "",
+      "minecraft:pumpkin",
+      "minecraft:pumpkin",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwholidays:laying_hay_bale": {
+    "result": "mcwholidays:laying_hay_bale",
+    "count": 1,
+    "ingredients": [
+      "minecraft:wheat",
+      "minecraft:wheat",
+      "minecraft:wheat",
+      "minecraft:wheat",
+      "minecraft:wheat",
+      "minecraft:wheat",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwlights:lava_lamp": {
+    "result": "mcwlights:lava_lamp",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:iron_nugget",
+      "",
+      "minecraft:iron_nugget",
+      "minecraft:lava_bucket",
+      "minecraft:iron_nugget",
+      "",
+      "minecraft:iron_ingot",
+      ""
+    ]
+  },
+  "mekanismgenerators:laser_focus_matrix": {
+    "result": "mekanismgenerators:laser_focus_matrix",
+    "count": 2,
+    "ingredients": [
+      "",
+      "mekanismgenerators:reactor_glass",
+      "",
+      "mekanismgenerators:reactor_glass",
+      "minecraft:redstone",
+      "mekanismgenerators:reactor_glass",
+      "",
+      "mekanismgenerators:reactor_glass",
+      ""
+    ]
+  },
+  "mekanismtools:lapis_lazuli_shield": {
+    "result": "mekanismtools:lapis_lazuli_shield",
+    "count": 1,
+    "ingredients": [
+      "minecraft:lapis_lazuli",
+      "minecraft:shield",
+      "minecraft:lapis_lazuli",
+      "minecraft:lapis_lazuli",
+      "minecraft:lapis_lazuli",
+      "minecraft:lapis_lazuli",
+      "",
+      "minecraft:lapis_lazuli",
+      ""
+    ]
+  },
+  "mekanismtools:lapis_lazuli_boots": {
+    "result": "mekanismtools:lapis_lazuli_boots",
+    "count": 1,
+    "ingredients": [
+      "minecraft:lapis_lazuli",
+      "",
+      "minecraft:lapis_lazuli",
+      "minecraft:lapis_lazuli",
+      "",
+      "minecraft:lapis_lazuli",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mekanismtools:lapis_lazuli_chestplate": {
+    "result": "mekanismtools:lapis_lazuli_chestplate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:lapis_lazuli",
+      "",
+      "minecraft:lapis_lazuli",
+      "minecraft:lapis_lazuli",
+      "minecraft:lapis_lazuli",
+      "minecraft:lapis_lazuli",
+      "minecraft:lapis_lazuli",
+      "minecraft:lapis_lazuli",
+      "minecraft:lapis_lazuli"
+    ]
+  },
+  "mekanismtools:lapis_lazuli_helmet": {
+    "result": "mekanismtools:lapis_lazuli_helmet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:lapis_lazuli",
+      "minecraft:lapis_lazuli",
+      "minecraft:lapis_lazuli",
+      "minecraft:lapis_lazuli",
+      "",
+      "minecraft:lapis_lazuli",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mekanismtools:lapis_lazuli_leggings": {
+    "result": "mekanismtools:lapis_lazuli_leggings",
+    "count": 1,
+    "ingredients": [
+      "minecraft:lapis_lazuli",
+      "minecraft:lapis_lazuli",
+      "minecraft:lapis_lazuli",
+      "minecraft:lapis_lazuli",
+      "",
+      "minecraft:lapis_lazuli",
+      "minecraft:lapis_lazuli",
+      "",
+      "minecraft:lapis_lazuli"
+    ]
+  },
+  "mekanismtools:lapis_lazuli_axe": {
+    "result": "mekanismtools:lapis_lazuli_axe",
+    "count": 1,
+    "ingredients": [
+      "minecraft:lapis_lazuli",
+      "minecraft:lapis_lazuli",
+      "",
+      "minecraft:lapis_lazuli",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "mekanismtools:lapis_lazuli_hoe": {
+    "result": "mekanismtools:lapis_lazuli_hoe",
+    "count": 1,
+    "ingredients": [
+      "minecraft:lapis_lazuli",
+      "minecraft:lapis_lazuli",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "mekanismtools:lapis_lazuli_pickaxe": {
+    "result": "mekanismtools:lapis_lazuli_pickaxe",
+    "count": 1,
+    "ingredients": [
+      "minecraft:lapis_lazuli",
+      "minecraft:lapis_lazuli",
+      "minecraft:lapis_lazuli",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "mekanismtools:lapis_lazuli_shovel": {
+    "result": "mekanismtools:lapis_lazuli_shovel",
+    "count": 1,
+    "ingredients": [
+      "minecraft:lapis_lazuli",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "mekanismtools:lapis_lazuli_sword": {
+    "result": "mekanismtools:lapis_lazuli_sword",
+    "count": 1,
+    "ingredients": [
+      "minecraft:lapis_lazuli",
+      "",
+      "",
+      "minecraft:lapis_lazuli",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:lamp_post": {
+    "result": "merrymaking:lamp_post",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "merrymaking:latke": {
+    "result": "merrymaking:latke",
+    "count": 1,
+    "ingredients": [
+      "minecraft:potato",
+      "herbsandharvest:onion",
+      "minecraft:egg",
+      "minecraft:wheat",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:large_fern": {
+    "result": "minecraft:large_fern",
+    "count": 1,
+    "ingredients": [
+      "minecraft:fern",
+      "minecraft:fern",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecolonies:large_empty_bottle": {
+    "result": "minecolonies:large_empty_bottle",
+    "count": 4,
+    "ingredients": [
+      "minecraft:glass_pane",
+      "minecraft:wooden_slabs",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:glass",
+      "minecraft:glass_pane"
+    ]
+  },
+  "minecolonies:large_water_bottle": {
+    "result": "minecolonies:large_water_bottle",
+    "count": 1,
+    "ingredients": [
+      "minecolonies:large_empty_bottle",
+      "minecraft:water",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:ladder": {
+    "result": "minecraft:ladder",
+    "count": 24,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "minecraft:oak_log",
+      "minecraft:oak_log",
+      "minecraft:oak_log",
+      "minecraft:oak_log",
+      "minecraft:oak_log",
+      "",
+      "minecraft:oak_log"
+    ]
+  },
+  "minecraft:lantern": {
+    "result": "minecraft:lantern",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_nugget",
+      "minecraft:iron_nugget",
+      "minecraft:iron_nugget",
+      "minecraft:iron_nugget",
+      "minecraft:torch",
+      "minecraft:iron_nugget",
+      "minecraft:iron_nugget",
+      "minecraft:iron_nugget",
+      "minecraft:iron_nugget"
+    ]
+  },
+  "minecraft:lapis_lazuli": {
+    "result": "minecraft:lapis_lazuli",
+    "count": 1,
+    "ingredients": [
+      "occultism:gray_paste",
+      "minecraft:lapis_lazuli",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "sfm:labelgun": {
+    "result": "sfm:labelgun",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:blue",
+      "minecraft:signs",
+      "",
+      "minecraft:stick",
+      "minecraft:black",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:large_advanced_motor": {
+    "result": "modern_industrialization:large_advanced_motor",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:advanced_motor",
+      "modern_industrialization:advanced_motor",
+      "modern_industrialization:advanced_motor",
+      "modern_industrialization:processing_unit",
+      "minecraft:titanium",
+      "minecraft:titanium",
+      "modern_industrialization:advanced_motor",
+      "modern_industrialization:advanced_motor",
+      "modern_industrialization:advanced_motor"
+    ]
+  },
+  "modern_industrialization:large_advanced_pump": {
+    "result": "modern_industrialization:large_advanced_pump",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:advanced_pump",
+      "modern_industrialization:advanced_pump",
+      "modern_industrialization:advanced_pump",
+      "modern_industrialization:titanium_rotor",
+      "modern_industrialization:large_advanced_motor",
+      "modern_industrialization:titanium_rotor",
+      "modern_industrialization:processing_unit",
+      "modern_industrialization:titanium_rotor",
+      "modern_industrialization:processing_unit"
+    ]
+  },
+  "modern_industrialization:large_heat_exchanger": {
+    "result": "modern_industrialization:large_heat_exchanger",
+    "count": 1,
+    "ingredients": [
+      "minecraft:invar",
+      "modern_industrialization:small_heat_exchanger",
+      "minecraft:invar",
+      "modern_industrialization:aluminum_rotor",
+      "modern_industrialization:large_advanced_pump",
+      "modern_industrialization:aluminum_rotor",
+      "minecraft:invar",
+      "modern_industrialization:small_heat_exchanger",
+      "minecraft:invar"
+    ]
+  },
+  "modern_industrialization:large_motor": {
+    "result": "modern_industrialization:large_motor",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:motor",
+      "modern_industrialization:motor",
+      "modern_industrialization:motor",
+      "modern_industrialization:electronic_circuit",
+      "minecraft:aluminum",
+      "minecraft:aluminum",
+      "modern_industrialization:motor",
+      "modern_industrialization:motor",
+      "modern_industrialization:motor"
+    ]
+  },
+  "modern_industrialization:large_pump": {
+    "result": "modern_industrialization:large_pump",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:pump",
+      "modern_industrialization:pump",
+      "modern_industrialization:pump",
+      "modern_industrialization:aluminum_rotor",
+      "modern_industrialization:large_motor",
+      "modern_industrialization:aluminum_rotor",
+      "modern_industrialization:electronic_circuit",
+      "modern_industrialization:aluminum_rotor",
+      "modern_industrialization:electronic_circuit"
+    ]
+  },
+  "modern_industrialization:large_diesel_generator": {
+    "result": "modern_industrialization:large_diesel_generator",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:large_advanced_pump",
+      "modern_industrialization:processing_unit",
+      "modern_industrialization:large_advanced_pump",
+      "modern_industrialization:titanium_gear",
+      "modern_industrialization:highly_advanced_machine_hull",
+      "modern_industrialization:titanium_gear",
+      "modern_industrialization:large_advanced_motor",
+      "modern_industrialization:hv_diesel_generator",
+      "modern_industrialization:large_advanced_motor"
+    ]
+  },
+  "modern_industrialization:large_steam_boiler": {
+    "result": "modern_industrialization:large_steam_boiler",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:bronze_plated_bricks",
+      "modern_industrialization:analog_circuit",
+      "modern_industrialization:bronze_plated_bricks",
+      "modern_industrialization:bronze_curved_plate",
+      "modern_industrialization:bronze_boiler",
+      "modern_industrialization:bronze_curved_plate",
+      "modern_industrialization:bronze_plated_bricks",
+      "modern_industrialization:analog_circuit",
+      "modern_industrialization:bronze_plated_bricks"
+    ]
+  },
+  "modern_industrialization:large_steam_turbine": {
+    "result": "modern_industrialization:large_steam_turbine",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:hv_steam_turbine",
+      "modern_industrialization:advanced_pump",
+      "modern_industrialization:hv_steam_turbine",
+      "modern_industrialization:stainless_steel_rotor",
+      "modern_industrialization:turbo_machine_hull",
+      "modern_industrialization:stainless_steel_rotor",
+      "modern_industrialization:hv_steam_turbine",
+      "modern_industrialization:advanced_pump",
+      "modern_industrialization:hv_steam_turbine"
+    ]
+  },
+  "modern_industrialization:large_tank": {
+    "result": "modern_industrialization:large_tank",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:steel_tank",
+      "modern_industrialization:pump",
+      "modern_industrialization:steel_tank",
+      "modern_industrialization:tin_rotor",
+      "modern_industrialization:steel_machine_casing",
+      "modern_industrialization:tin_rotor",
+      "modern_industrialization:steel_tank",
+      "modern_industrialization:pump",
+      "modern_industrialization:steel_tank"
+    ]
+  },
+  "modern_industrialization:large_tank_hatch": {
+    "result": "modern_industrialization:large_tank_hatch",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:steel_tank",
+      "",
+      "",
+      "modern_industrialization:pump",
+      "",
+      "",
+      "modern_industrialization:steel_machine_casing",
+      "",
+      ""
+    ]
+  },
+  "minecraft:lapis_ore": {
+    "result": "minecraft:lapis_ore",
+    "count": 1,
+    "ingredients": [
+      "minecraft:deepslate_lapis_ore",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:lapis_dust": {
+    "result": "modern_industrialization:lapis_dust",
+    "count": 1,
+    "ingredients": [
+      "minecraft:lapis_lazuli",
+      "minecraft:lapis_lazuli",
+      "minecraft:lapis_lazuli",
+      "minecraft:lapis_lazuli",
+      "modern_industrialization:lapis_tiny_dust",
+      "minecraft:lapis_lazuli",
+      "minecraft:lapis_lazuli",
+      "minecraft:lapis_lazuli",
+      "minecraft:lapis_lazuli"
+    ]
+  },
+  "modern_industrialization:lapis_tiny_dust": {
+    "result": "modern_industrialization:lapis_tiny_dust",
+    "count": 9,
+    "ingredients": [
+      "modern_industrialization:lapis_dust",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "morered:latch": {
+    "result": "morered:latch",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone",
+      "minecraft:redstone_torch",
+      "minecraft:stone",
+      "minecraft:redstone",
+      "",
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:redstone_torch",
+      "minecraft:stone"
+    ]
+  },
+  "minecraft:lava_bucket": {
+    "result": "minecraft:lava_bucket",
+    "count": 1,
+    "ingredients": [
+      "theurgy:crystallized_lava",
+      "minecraft:bucket",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "occultism:large_candle": {
+    "result": "occultism:large_candle",
+    "count": 1,
+    "ingredients": [
+      "minecraft:string",
+      "",
+      "",
+      "minecraft:tallow",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "occultism:large_candle_black": {
+    "result": "occultism:large_candle_black",
+    "count": 1,
+    "ingredients": [
+      "occultism:large_candle",
+      "minecraft:black",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "occultism:large_candle_blue": {
+    "result": "occultism:large_candle_blue",
+    "count": 1,
+    "ingredients": [
+      "occultism:large_candle",
+      "minecraft:blue",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "occultism:large_candle_brown": {
+    "result": "occultism:large_candle_brown",
+    "count": 1,
+    "ingredients": [
+      "occultism:large_candle",
+      "minecraft:brown",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "occultism:large_candle_cyan": {
+    "result": "occultism:large_candle_cyan",
+    "count": 1,
+    "ingredients": [
+      "occultism:large_candle",
+      "minecraft:cyan",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "occultism:large_candle_gray": {
+    "result": "occultism:large_candle_gray",
+    "count": 1,
+    "ingredients": [
+      "occultism:large_candle",
+      "minecraft:gray",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "occultism:large_candle_green": {
+    "result": "occultism:large_candle_green",
+    "count": 1,
+    "ingredients": [
+      "occultism:large_candle",
+      "minecraft:green",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "occultism:large_candle_light_blue": {
+    "result": "occultism:large_candle_light_blue",
+    "count": 1,
+    "ingredients": [
+      "occultism:large_candle",
+      "minecraft:light_blue",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "occultism:large_candle_light_gray": {
+    "result": "occultism:large_candle_light_gray",
+    "count": 1,
+    "ingredients": [
+      "occultism:large_candle",
+      "minecraft:light_gray",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "occultism:large_candle_lime": {
+    "result": "occultism:large_candle_lime",
+    "count": 1,
+    "ingredients": [
+      "occultism:large_candle",
+      "minecraft:lime",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "occultism:large_candle_magenta": {
+    "result": "occultism:large_candle_magenta",
+    "count": 1,
+    "ingredients": [
+      "occultism:large_candle",
+      "minecraft:magenta",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "occultism:large_candle_orange": {
+    "result": "occultism:large_candle_orange",
+    "count": 1,
+    "ingredients": [
+      "occultism:large_candle",
+      "minecraft:orange",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "occultism:large_candle_pink": {
+    "result": "occultism:large_candle_pink",
+    "count": 1,
+    "ingredients": [
+      "occultism:large_candle",
+      "minecraft:pink",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "occultism:large_candle_purple": {
+    "result": "occultism:large_candle_purple",
+    "count": 1,
+    "ingredients": [
+      "occultism:large_candle",
+      "minecraft:purple",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "occultism:large_candle_red": {
+    "result": "occultism:large_candle_red",
+    "count": 1,
+    "ingredients": [
+      "occultism:large_candle",
+      "minecraft:red",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "occultism:large_candle_white": {
+    "result": "occultism:large_candle_white",
+    "count": 1,
+    "ingredients": [
+      "occultism:large_candle",
+      "minecraft:white",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "occultism:large_candle_yellow": {
+    "result": "occultism:large_candle_yellow",
+    "count": 1,
+    "ingredients": [
+      "occultism:large_candle",
+      "minecraft:yellow",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "oritech:large_storage_block": {
+    "result": "oritech:large_storage_block",
+    "count": 1,
+    "ingredients": [
+      "oritech:magnetic_coil",
+      "oritech:flux_gate",
+      "oritech:magnetic_coil",
+      "modern_industrialization:steel_ingot",
+      "oritech:dubios_container",
+      "modern_industrialization:steel_ingot",
+      "oritech:advanced_battery",
+      "oritech:advanced_battery",
+      "oritech:advanced_battery"
+    ]
+  },
+  "oritech:laser_arm_block": {
+    "result": "oritech:laser_arm_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:carbon_fibre",
+      "oritech:enderic_lens",
+      "minecraft:carbon_fibre",
+      "oritech:motor",
+      "minecraft:electrum",
+      "oritech:motor",
+      "minecraft:plating",
+      "minecraft:plating",
+      "minecraft:plating"
+    ]
+  },
+  "oritech:lava_generator_block": {
+    "result": "oritech:lava_generator_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:electrum",
+      "minecraft:electrum",
+      "minecraft:electrum",
+      "minecraft:electrum",
+      "oritech:magnetic_coil",
+      "minecraft:electrum",
+      "minecraft:plating",
+      "oritech:basic_generator_block",
+      "minecraft:plating"
+    ]
+  },
+  "pamhc2foodextended:lambbarleysoupitem": {
+    "result": "pamhc2foodextended:lambbarleysoupitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:stock",
+      "minecraft:rawmutton",
+      "minecraft:onion",
+      "minecraft:carrot",
+      "minecraft:barley",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:lambkebabitem": {
+    "result": "pamhc2foodextended:lambkebabitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:rawmutton",
+      "minecraft:onion",
+      "minecraft:bellpepper",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:lambwithmintsauceitem": {
+    "result": "pamhc2foodextended:lambwithmintsauceitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:rawmutton",
+      "minecraft:spiceleaf",
+      "minecraft:vinegar",
+      "minecraft:sugar",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:lamingtonitem": {
+    "result": "pamhc2foodextended:lamingtonitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:dough",
+      "minecraft:chocolatebar",
+      "minecraft:coconut",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:lasagnaitem": {
+    "result": "pamhc2foodextended:lasagnaitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:pasta",
+      "minecraft:cheese",
+      "minecraft:tomato",
+      "minecraft:onion",
+      "minecraft:garlic",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:lavendershortbreaditem": {
+    "result": "pamhc2foodextended:lavendershortbreaditem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:purple",
+      "minecraft:dough",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:lawson_cypress_bookshelf": {
+    "result": "productivetrees:lawson_cypress_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:lawson_cypress_planks",
+      "productivetrees:lawson_cypress_planks",
+      "productivetrees:lawson_cypress_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:lawson_cypress_planks",
+      "productivetrees:lawson_cypress_planks",
+      "productivetrees:lawson_cypress_planks"
+    ]
+  },
+  "productivetrees:lawson_cypress_button": {
+    "result": "productivetrees:lawson_cypress_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:lawson_cypress_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:lawson_cypress_door": {
+    "result": "productivetrees:lawson_cypress_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:lawson_cypress_planks",
+      "productivetrees:lawson_cypress_planks",
+      "",
+      "productivetrees:lawson_cypress_planks",
+      "productivetrees:lawson_cypress_planks",
+      "",
+      "productivetrees:lawson_cypress_planks",
+      "productivetrees:lawson_cypress_planks",
+      ""
+    ]
+  },
+  "productivetrees:lawson_cypress_fence": {
+    "result": "productivetrees:lawson_cypress_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:lawson_cypress_planks",
+      "minecraft:stick",
+      "productivetrees:lawson_cypress_planks",
+      "productivetrees:lawson_cypress_planks",
+      "minecraft:stick",
+      "productivetrees:lawson_cypress_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:lawson_cypress_fence_gate": {
+    "result": "productivetrees:lawson_cypress_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:lawson_cypress_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:lawson_cypress_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:lawson_cypress_hanging_sign": {
+    "result": "productivetrees:lawson_cypress_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:lawson_cypress_planks",
+      "productivetrees:lawson_cypress_planks",
+      "productivetrees:lawson_cypress_planks",
+      "productivetrees:lawson_cypress_planks",
+      "productivetrees:lawson_cypress_planks",
+      "productivetrees:lawson_cypress_planks"
+    ]
+  },
+  "productivetrees:lawson_cypress_planks": {
+    "result": "productivetrees:lawson_cypress_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:lawson_cypress_pressure_plate": {
+    "result": "productivetrees:lawson_cypress_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:lawson_cypress_planks",
+      "productivetrees:lawson_cypress_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:lawson_cypress_sign": {
+    "result": "productivetrees:lawson_cypress_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:lawson_cypress_planks",
+      "productivetrees:lawson_cypress_planks",
+      "productivetrees:lawson_cypress_planks",
+      "productivetrees:lawson_cypress_planks",
+      "productivetrees:lawson_cypress_planks",
+      "productivetrees:lawson_cypress_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:lawson_cypress_slab": {
+    "result": "productivetrees:lawson_cypress_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:lawson_cypress_planks",
+      "productivetrees:lawson_cypress_planks",
+      "productivetrees:lawson_cypress_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:lawson_cypress_stairs": {
+    "result": "productivetrees:lawson_cypress_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:lawson_cypress_planks",
+      "",
+      "",
+      "productivetrees:lawson_cypress_planks",
+      "productivetrees:lawson_cypress_planks",
+      "",
+      "productivetrees:lawson_cypress_planks",
+      "productivetrees:lawson_cypress_planks",
+      "productivetrees:lawson_cypress_planks"
+    ]
+  },
+  "productivetrees:lawson_cypress_trapdoor": {
+    "result": "productivetrees:lawson_cypress_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:lawson_cypress_planks",
+      "productivetrees:lawson_cypress_planks",
+      "productivetrees:lawson_cypress_planks",
+      "productivetrees:lawson_cypress_planks",
+      "productivetrees:lawson_cypress_planks",
+      "productivetrees:lawson_cypress_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:lawson_cypress_wood": {
+    "result": "productivetrees:lawson_cypress_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:lawson_cypress_log",
+      "productivetrees:lawson_cypress_log",
+      "",
+      "productivetrees:lawson_cypress_log",
+      "productivetrees:lawson_cypress_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:launcher_track_kit": {
+    "result": "railcraft:launcher_track_kit",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "railcraft:track_parts",
+      "minecraft:piston",
+      "minecraft:steel",
+      "minecraft:steel",
+      "minecraft:redstone",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:larch_boat": {
+    "result": "regions_unexplored:larch_boat",
+    "count": 1,
+    "ingredients": [
+      "regions_unexplored:larch_planks",
+      "",
+      "regions_unexplored:larch_planks",
+      "regions_unexplored:larch_planks",
+      "regions_unexplored:larch_planks",
+      "regions_unexplored:larch_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:larch_branch": {
+    "result": "regions_unexplored:larch_branch",
+    "count": 2,
+    "ingredients": [
+      "regions_unexplored:larch_log",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:larch_button": {
+    "result": "regions_unexplored:larch_button",
+    "count": 1,
+    "ingredients": [
+      "regions_unexplored:larch_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:larch_chest_boat": {
+    "result": "regions_unexplored:larch_chest_boat",
+    "count": 1,
+    "ingredients": [
+      "minecraft:chest",
+      "regions_unexplored:larch_boat",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:larch_door": {
+    "result": "regions_unexplored:larch_door",
+    "count": 3,
+    "ingredients": [
+      "regions_unexplored:larch_planks",
+      "regions_unexplored:larch_planks",
+      "",
+      "regions_unexplored:larch_planks",
+      "regions_unexplored:larch_planks",
+      "",
+      "regions_unexplored:larch_planks",
+      "regions_unexplored:larch_planks",
+      ""
+    ]
+  },
+  "regions_unexplored:larch_fence": {
+    "result": "regions_unexplored:larch_fence",
+    "count": 3,
+    "ingredients": [
+      "regions_unexplored:larch_planks",
+      "minecraft:stick",
+      "regions_unexplored:larch_planks",
+      "regions_unexplored:larch_planks",
+      "minecraft:stick",
+      "regions_unexplored:larch_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:larch_fence_gate": {
+    "result": "regions_unexplored:larch_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "regions_unexplored:larch_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "regions_unexplored:larch_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:larch_hanging_sign": {
+    "result": "regions_unexplored:larch_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "regions_unexplored:stripped_larch_log",
+      "regions_unexplored:stripped_larch_log",
+      "regions_unexplored:stripped_larch_log",
+      "regions_unexplored:stripped_larch_log",
+      "regions_unexplored:stripped_larch_log",
+      "regions_unexplored:stripped_larch_log"
+    ]
+  },
+  "regions_unexplored:larch_planks": {
+    "result": "regions_unexplored:larch_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:larch_pressure_plate": {
+    "result": "regions_unexplored:larch_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "regions_unexplored:larch_planks",
+      "regions_unexplored:larch_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:larch_sapling": {
+    "result": "regions_unexplored:larch_sapling",
+    "count": 2,
+    "ingredients": [
+      "regions_unexplored:larch_shrub",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:larch_shrub": {
+    "result": "regions_unexplored:larch_shrub",
+    "count": 1,
+    "ingredients": [
+      "regions_unexplored:larch_sapling",
+      "",
+      "",
+      "regions_unexplored:larch_sapling",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:larch_sign": {
+    "result": "regions_unexplored:larch_sign",
+    "count": 3,
+    "ingredients": [
+      "regions_unexplored:larch_planks",
+      "regions_unexplored:larch_planks",
+      "regions_unexplored:larch_planks",
+      "regions_unexplored:larch_planks",
+      "regions_unexplored:larch_planks",
+      "regions_unexplored:larch_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "regions_unexplored:larch_slab": {
+    "result": "regions_unexplored:larch_slab",
+    "count": 6,
+    "ingredients": [
+      "regions_unexplored:larch_planks",
+      "regions_unexplored:larch_planks",
+      "regions_unexplored:larch_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:larch_stairs": {
+    "result": "regions_unexplored:larch_stairs",
+    "count": 4,
+    "ingredients": [
+      "regions_unexplored:larch_planks",
+      "",
+      "",
+      "regions_unexplored:larch_planks",
+      "regions_unexplored:larch_planks",
+      "",
+      "regions_unexplored:larch_planks",
+      "regions_unexplored:larch_planks",
+      "regions_unexplored:larch_planks"
+    ]
+  },
+  "regions_unexplored:larch_trapdoor": {
+    "result": "regions_unexplored:larch_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "regions_unexplored:larch_planks",
+      "regions_unexplored:larch_planks",
+      "regions_unexplored:larch_planks",
+      "regions_unexplored:larch_planks",
+      "regions_unexplored:larch_planks",
+      "regions_unexplored:larch_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:larch_wood": {
+    "result": "regions_unexplored:larch_wood",
+    "count": 3,
+    "ingredients": [
+      "regions_unexplored:larch_log",
+      "regions_unexplored:larch_log",
+      "",
+      "regions_unexplored:larch_log",
+      "regions_unexplored:larch_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:large_prismarite_cluster": {
+    "result": "regions_unexplored:large_prismarite_cluster",
+    "count": 1,
+    "ingredients": [
+      "regions_unexplored:prismarite_cluster",
+      "",
+      "",
+      "regions_unexplored:prismarite_cluster",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "reliquary:lantern_of_paranoia": {
+    "result": "reliquary:lantern_of_paranoia",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "reliquary:slime_pearl",
+      "minecraft:iron_ingot",
+      "minecraft:glass",
+      "reliquary:molten_core",
+      "minecraft:glass",
+      "",
+      "minecraft:iron_ingot",
+      ""
+    ]
+  },
+  "securitycraft:lapis_mine": {
+    "result": "securitycraft:lapis_mine",
+    "count": 1,
+    "ingredients": [
+      "minecraft:lapis_ore",
+      "securitycraft:mine",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "securitycraft:laser_block": {
+    "result": "securitycraft:laser_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone",
+      "minecraft:glass",
+      "minecraft:stone",
+      "minecraft:glass",
+      "minecraft:redstone",
+      "minecraft:glass",
+      "minecraft:stone",
+      "minecraft:glass",
+      "minecraft:stone"
+    ]
+  },
+  "simplylight:lamp_post": {
+    "result": "simplylight:lamp_post",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:white_dye",
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:any_post"
+    ]
+  },
+  "simplylight:lamp_post_black": {
+    "result": "simplylight:lamp_post_black",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:black_dye",
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:any_post"
+    ]
+  },
+  "simplylight:lamp_post_blue": {
+    "result": "simplylight:lamp_post_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:blue_dye",
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:any_post"
+    ]
+  },
+  "simplylight:lamp_post_brown": {
+    "result": "simplylight:lamp_post_brown",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:brown_dye",
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:any_post"
+    ]
+  },
+  "simplylight:lamp_post_cyan": {
+    "result": "simplylight:lamp_post_cyan",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:cyan_dye",
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:any_post"
+    ]
+  },
+  "simplylight:lamp_post_gray": {
+    "result": "simplylight:lamp_post_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:gray_dye",
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:any_post"
+    ]
+  },
+  "simplylight:lamp_post_green": {
+    "result": "simplylight:lamp_post_green",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:green_dye",
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:any_post"
+    ]
+  },
+  "simplylight:lamp_post_light_blue": {
+    "result": "simplylight:lamp_post_light_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:light_blue_dye",
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:any_post"
+    ]
+  },
+  "simplylight:lamp_post_light_gray": {
+    "result": "simplylight:lamp_post_light_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:light_gray_dye",
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:any_post"
+    ]
+  },
+  "simplylight:lamp_post_lime": {
+    "result": "simplylight:lamp_post_lime",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:lime_dye",
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:any_post"
+    ]
+  },
+  "simplylight:lamp_post_magenta": {
+    "result": "simplylight:lamp_post_magenta",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:magenta_dye",
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:any_post"
+    ]
+  },
+  "simplylight:lamp_post_orange": {
+    "result": "simplylight:lamp_post_orange",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:orange_dye",
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:any_post"
+    ]
+  },
+  "simplylight:lamp_post_pink": {
+    "result": "simplylight:lamp_post_pink",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:pink_dye",
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:any_post"
+    ]
+  },
+  "simplylight:lamp_post_purple": {
+    "result": "simplylight:lamp_post_purple",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:purple_dye",
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:any_post"
+    ]
+  },
+  "simplylight:lamp_post_red": {
+    "result": "simplylight:lamp_post_red",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:red_dye",
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:any_post"
+    ]
+  },
+  "simplylight:lamp_post_yellow": {
+    "result": "simplylight:lamp_post_yellow",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:yellow_dye",
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:any_post",
+      "minecraft:any_post"
+    ]
+  },
+  "supplementaries:lapis_bricks": {
+    "result": "supplementaries:lapis_bricks",
+    "count": 1,
+    "ingredients": [
+      "minecraft:lapis_lazuli",
+      "minecraft:lapis_lazuli",
+      "",
+      "minecraft:lapis_lazuli",
+      "minecraft:lapis_lazuli",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "supplementaries:lapis_bricks_slab": {
+    "result": "supplementaries:lapis_bricks_slab",
+    "count": 6,
+    "ingredients": [
+      "supplementaries:lapis_bricks",
+      "supplementaries:lapis_bricks",
+      "supplementaries:lapis_bricks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "supplementaries:lapis_bricks_stairs": {
+    "result": "supplementaries:lapis_bricks_stairs",
+    "count": 4,
+    "ingredients": [
+      "supplementaries:lapis_bricks",
+      "",
+      "",
+      "supplementaries:lapis_bricks",
+      "supplementaries:lapis_bricks",
+      "",
+      "supplementaries:lapis_bricks",
+      "supplementaries:lapis_bricks",
+      "supplementaries:lapis_bricks"
+    ]
+  },
+  "supplementaries:lapis_bricks_wall": {
+    "result": "supplementaries:lapis_bricks_wall",
+    "count": 6,
+    "ingredients": [
+      "supplementaries:lapis_bricks",
+      "supplementaries:lapis_bricks",
+      "supplementaries:lapis_bricks",
+      "supplementaries:lapis_bricks",
+      "supplementaries:lapis_bricks",
+      "supplementaries:lapis_bricks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "transfer_labels:label_accessor": {
+    "result": "transfer_labels:label_accessor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:copper_ingot",
+      "transfer_labels:fluidstack_extract_transfer_label",
+      "minecraft:copper_ingot",
+      "",
+      "minecraft:copper_ingot",
+      "",
+      "",
+      "minecraft:copper_ingot",
+      ""
+    ]
+  },
+  "utilitarian:lapis_lamp": {
+    "result": "utilitarian:lapis_lamp",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:lapis_lazuli",
+      "",
+      "minecraft:lapis_lazuli",
+      "minecraft:redstone_lamp",
+      "minecraft:lapis_lazuli",
+      "",
+      "minecraft:lapis_lazuli",
+      ""
+    ]
+  },
+  "xtonesreworked:lair_block_0": {
+    "result": "xtonesreworked:lair_block_0",
+    "count": 8,
+    "ingredients": [
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile",
+      "minecraft:netherrack",
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile"
+    ]
+  },
+  "xtonesreworked:lave_block_0": {
+    "result": "xtonesreworked:lave_block_0",
+    "count": 8,
+    "ingredients": [
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile",
+      "minecraft:blue",
+      "xtonesreworked:xtone_tile"
+    ]
+  },
+  "xycraft_world:lamp_lantern_white": {
+    "result": "xycraft_world:lamp_lantern_white",
+    "count": 2,
+    "ingredients": [
+      "",
+      "minecraft:aluminum",
+      "",
+      "minecraft:glass",
+      "minecraft:dyes",
+      "minecraft:glass",
+      "xycraft_world:kivi",
+      "minecraft:xychorium",
+      "xycraft_world:kivi"
+    ]
+  },
+  "xycraft_world:lamp_rgb_glowing_white": {
+    "result": "xycraft_world:lamp_rgb_glowing_white",
+    "count": 1,
+    "ingredients": [
+      "xycraft_world:lamp_rgb_glowing_inverted_white",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xycraft_world:lamp_rgb_glowing_inverted_white": {
+    "result": "xycraft_world:lamp_rgb_glowing_inverted_white",
+    "count": 1,
+    "ingredients": [
+      "xycraft_world:lamp_rgb_glowing_white",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

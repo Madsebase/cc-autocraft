@@ -1,0 +1,332 @@
+{
+  "create:oxidized_copper_shingle_slab": {
+    "result": "create:oxidized_copper_shingle_slab",
+    "count": 6,
+    "ingredients": [
+      "create:oxidized_copper_shingles",
+      "create:oxidized_copper_shingles",
+      "create:oxidized_copper_shingles",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:oxidized_copper_shingle_stairs": {
+    "result": "create:oxidized_copper_shingle_stairs",
+    "count": 4,
+    "ingredients": [
+      "create:oxidized_copper_shingles",
+      "",
+      "",
+      "create:oxidized_copper_shingles",
+      "create:oxidized_copper_shingles",
+      "",
+      "create:oxidized_copper_shingles",
+      "create:oxidized_copper_shingles",
+      "create:oxidized_copper_shingles"
+    ]
+  },
+  "create:oxidized_copper_tile_slab": {
+    "result": "create:oxidized_copper_tile_slab",
+    "count": 6,
+    "ingredients": [
+      "create:oxidized_copper_tiles",
+      "create:oxidized_copper_tiles",
+      "create:oxidized_copper_tiles",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:oxidized_copper_tile_stairs": {
+    "result": "create:oxidized_copper_tile_stairs",
+    "count": 4,
+    "ingredients": [
+      "create:oxidized_copper_tiles",
+      "",
+      "",
+      "create:oxidized_copper_tiles",
+      "create:oxidized_copper_tiles",
+      "",
+      "create:oxidized_copper_tiles",
+      "create:oxidized_copper_tiles",
+      "create:oxidized_copper_tiles"
+    ]
+  },
+  "eternal_starlight:oxidized_chiseled_golem_steel_block": {
+    "result": "eternal_starlight:oxidized_chiseled_golem_steel_block",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:oxidized_golem_steel_slab",
+      "",
+      "",
+      "eternal_starlight:oxidized_golem_steel_slab",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:oxidized_golem_steel_bars": {
+    "result": "eternal_starlight:oxidized_golem_steel_bars",
+    "count": 16,
+    "ingredients": [
+      "eternal_starlight:oxidized_golem_steel_ingot",
+      "eternal_starlight:oxidized_golem_steel_ingot",
+      "eternal_starlight:oxidized_golem_steel_ingot",
+      "eternal_starlight:oxidized_golem_steel_ingot",
+      "eternal_starlight:oxidized_golem_steel_ingot",
+      "eternal_starlight:oxidized_golem_steel_ingot",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:oxidized_golem_steel_block": {
+    "result": "eternal_starlight:oxidized_golem_steel_block",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:oxidized_golem_steel_ingot",
+      "eternal_starlight:oxidized_golem_steel_ingot",
+      "eternal_starlight:oxidized_golem_steel_ingot",
+      "eternal_starlight:oxidized_golem_steel_ingot",
+      "eternal_starlight:oxidized_golem_steel_ingot",
+      "eternal_starlight:oxidized_golem_steel_ingot",
+      "eternal_starlight:oxidized_golem_steel_ingot",
+      "eternal_starlight:oxidized_golem_steel_ingot",
+      "eternal_starlight:oxidized_golem_steel_ingot"
+    ]
+  },
+  "eternal_starlight:oxidized_golem_steel_grate": {
+    "result": "eternal_starlight:oxidized_golem_steel_grate",
+    "count": 4,
+    "ingredients": [
+      "",
+      "eternal_starlight:oxidized_golem_steel_block",
+      "",
+      "eternal_starlight:oxidized_golem_steel_block",
+      "",
+      "eternal_starlight:oxidized_golem_steel_block",
+      "",
+      "eternal_starlight:oxidized_golem_steel_block",
+      ""
+    ]
+  },
+  "eternal_starlight:oxidized_golem_steel_ingot": {
+    "result": "eternal_starlight:oxidized_golem_steel_ingot",
+    "count": 9,
+    "ingredients": [
+      "eternal_starlight:oxidized_golem_steel_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:oxidized_golem_steel_nugget": {
+    "result": "eternal_starlight:oxidized_golem_steel_nugget",
+    "count": 9,
+    "ingredients": [
+      "eternal_starlight:oxidized_golem_steel_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:oxidized_golem_steel_pillar": {
+    "result": "eternal_starlight:oxidized_golem_steel_pillar",
+    "count": 2,
+    "ingredients": [
+      "eternal_starlight:oxidized_golem_steel_block",
+      "",
+      "",
+      "eternal_starlight:oxidized_golem_steel_block",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:oxidized_golem_steel_slab": {
+    "result": "eternal_starlight:oxidized_golem_steel_slab",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:oxidized_golem_steel_block",
+      "eternal_starlight:oxidized_golem_steel_block",
+      "eternal_starlight:oxidized_golem_steel_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:oxidized_golem_steel_stairs": {
+    "result": "eternal_starlight:oxidized_golem_steel_stairs",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:oxidized_golem_steel_block",
+      "",
+      "",
+      "eternal_starlight:oxidized_golem_steel_block",
+      "eternal_starlight:oxidized_golem_steel_block",
+      "",
+      "eternal_starlight:oxidized_golem_steel_block",
+      "eternal_starlight:oxidized_golem_steel_block",
+      "eternal_starlight:oxidized_golem_steel_block"
+    ]
+  },
+  "eternal_starlight:oxidized_golem_steel_tiles": {
+    "result": "eternal_starlight:oxidized_golem_steel_tiles",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:oxidized_golem_steel_block",
+      "eternal_starlight:oxidized_golem_steel_block",
+      "",
+      "eternal_starlight:oxidized_golem_steel_block",
+      "eternal_starlight:oxidized_golem_steel_block",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:oxidized_golem_steel_tile_slab": {
+    "result": "eternal_starlight:oxidized_golem_steel_tile_slab",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:oxidized_golem_steel_tiles",
+      "eternal_starlight:oxidized_golem_steel_tiles",
+      "eternal_starlight:oxidized_golem_steel_tiles",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:oxidized_golem_steel_tile_stairs": {
+    "result": "eternal_starlight:oxidized_golem_steel_tile_stairs",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:oxidized_golem_steel_tiles",
+      "",
+      "",
+      "eternal_starlight:oxidized_golem_steel_tiles",
+      "eternal_starlight:oxidized_golem_steel_tiles",
+      "",
+      "eternal_starlight:oxidized_golem_steel_tiles",
+      "eternal_starlight:oxidized_golem_steel_tiles",
+      "eternal_starlight:oxidized_golem_steel_tiles"
+    ]
+  },
+  "minecraft:oxidized_chiseled_copper": {
+    "result": "minecraft:oxidized_chiseled_copper",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oxidized_cut_copper_slab",
+      "",
+      "",
+      "minecraft:oxidized_cut_copper_slab",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:oxidized_copper_bulb": {
+    "result": "minecraft:oxidized_copper_bulb",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:oxidized_copper",
+      "",
+      "minecraft:oxidized_copper",
+      "minecraft:blaze_rod",
+      "minecraft:oxidized_copper",
+      "",
+      "minecraft:redstone",
+      ""
+    ]
+  },
+  "minecraft:oxidized_copper_grate": {
+    "result": "minecraft:oxidized_copper_grate",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:oxidized_copper",
+      "",
+      "minecraft:oxidized_copper",
+      "",
+      "minecraft:oxidized_copper",
+      "",
+      "minecraft:oxidized_copper",
+      ""
+    ]
+  },
+  "minecraft:oxidized_cut_copper": {
+    "result": "minecraft:oxidized_cut_copper",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oxidized_copper",
+      "minecraft:oxidized_copper",
+      "",
+      "minecraft:oxidized_copper",
+      "minecraft:oxidized_copper",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:oxidized_cut_copper_slab": {
+    "result": "minecraft:oxidized_cut_copper_slab",
+    "count": 6,
+    "ingredients": [
+      "minecraft:oxidized_cut_copper",
+      "minecraft:oxidized_cut_copper",
+      "minecraft:oxidized_cut_copper",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:oxidized_cut_copper_stairs": {
+    "result": "minecraft:oxidized_cut_copper_stairs",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oxidized_cut_copper",
+      "",
+      "",
+      "minecraft:oxidized_cut_copper",
+      "minecraft:oxidized_cut_copper",
+      "",
+      "minecraft:oxidized_cut_copper",
+      "minecraft:oxidized_cut_copper",
+      "minecraft:oxidized_cut_copper"
+    ]
+  }
+}

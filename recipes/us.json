@@ -1,0 +1,17 @@
+{
+  "securitycraft:username_logger": {
+    "result": "securitycraft:username_logger",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone",
+      "securitycraft:portable_radar",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone"
+    ]
+  }
+}

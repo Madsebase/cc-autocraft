@@ -48,8 +48,122 @@ if modem then
     rednet.open(peripheral.getName(modem))
 end
 
--- Load recipe database
-local recipes = engine.loadRecipes()
+-- Helper to resolve shard key
+local function getShardKey(itemId)
+    local parts = {}
+    for part in string.gmatch(itemId, "[^:]+") do
+        table.insert(parts, part)
+    end
+    local path = parts[#parts] or itemId
+    local key = ""
+    if string.len(path) >= 2 then
+        key = string.lower(string.sub(path, 1, 2))
+    else
+        key = string.lower(path)
+    end
+    local cleanKey = ""
+    for i = 1, string.len(key) do
+        local c = string.sub(key, i, i)
+        if string.match(c, "[a-z0-9]") then
+            cleanKey = cleanKey .. c
+        else
+            cleanKey = cleanKey .. "_"
+        end
+    end
+    if cleanKey == "" then
+        cleanKey = "other"
+    end
+    return cleanKey
+end
+
+-- On-demand recipe loader
+local function getRecipe(itemId)
+    local key = getShardKey(itemId)
+    local path = "recipes/" .. key .. ".json"
+    
+    if not fs.exists(path) then
+        if not fs.exists("recipes") then
+            fs.makeDir("recipes")
+        end
+        local url = "https://raw.githubusercontent.com/Madsebase/cc-autocraft/main/recipes/" .. key .. ".json"
+        local response = http.get(url)
+        if response then
+            local file = fs.open(path, "w")
+            file.write(response.readAll())
+            file.close()
+            response.close()
+        else
+            return nil
+        end
+    end
+    
+    local file = fs.open(path, "r")
+    local content = file.readAll()
+    file.close()
+    
+    local data = textutils.unserializeJSON(content)
+    if data and data[itemId] then
+        return data[itemId]
+    end
+    return nil
+end
+
+-- Metatable-backed recipes table
+local recipes = setmetatable({}, {
+    __index = function(t, itemId)
+        local r = getRecipe(itemId)
+        rawset(t, itemId, r or false)
+        return r
+    end
+})
+
+-- Common default items
+local commonItems = {
+    "minecraft:stick",
+    "minecraft:iron_ingot",
+    "minecraft:gold_ingot",
+    "minecraft:diamond",
+    "minecraft:chest",
+    "minecraft:crafting_table",
+    "minecraft:furnace",
+    "minecraft:cobblestone",
+    "minecraft:oak_planks"
+}
+
+-- Search index cache
+local loadedIndexLetter = nil
+local loadedIndexItems = {}
+
+local function loadSearchIndex(letter)
+    if loadedIndexLetter == letter then
+        return loadedIndexItems
+    end
+    
+    local path = "recipes/index_" .. letter .. ".json"
+    if not fs.exists(path) then
+        if not fs.exists("recipes") then
+            fs.makeDir("recipes")
+        end
+        local url = "https://raw.githubusercontent.com/Madsebase/cc-autocraft/main/recipes/index_" .. letter .. ".json"
+        local response = http.get(url)
+        if response then
+            local file = fs.open(path, "w")
+            file.write(response.readAll())
+            file.close()
+            response.close()
+        else
+            return {}
+        end
+    end
+    
+    local file = fs.open(path, "r")
+    local content = file.readAll()
+    file.close()
+    
+    loadedIndexLetter = letter
+    loadedIndexItems = textutils.unserializeJSON(content) or {}
+    return loadedIndexItems
+end
 
 -- State variables
 local selectedItem = nil
@@ -348,9 +462,28 @@ end
 local function filterCatalog(query)
     catalogList:clear()
     query = (query or ""):lower()
-    for itemID, _ in pairs(recipes) do
+    
+    if string.len(query) < 2 then
+        -- Show common starter items
+        for _, itemID in ipairs(commonItems) do
+            local displayName = itemID:match(":(.+)$") or itemID
+            if query == "" or displayName:lower():find(query, 1, true) or itemID:lower():find(query, 1, true) then
+                catalogList:addItem(itemID)
+            end
+        end
+        return
+    end
+    
+    -- Load index for the first letter of the query
+    local firstChar = string.sub(query, 1, 1)
+    if not string.match(firstChar, "[a-z]") then
+        firstChar = "other"
+    end
+    
+    local items = loadSearchIndex(firstChar)
+    for _, itemID in ipairs(items) do
         local displayName = itemID:match(":(.+)$") or itemID
-        if query == "" or displayName:lower():find(query, 1, true) or itemID:lower():find(query, 1, true) then
+        if displayName:lower():find(query, 1, true) or itemID:lower():find(query, 1, true) then
             catalogList:addItem(itemID)
         end
     end

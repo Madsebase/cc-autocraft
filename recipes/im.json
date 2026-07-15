@@ -1,0 +1,422 @@
+{
+  "advanced_ae:import_export_bus_part": {
+    "result": "advanced_ae:import_export_bus_part",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "ae2:import_bus",
+      "ae2:logic_processor",
+      "ae2:export_bus",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ae2:import_bus": {
+    "result": "ae2:import_bus",
+    "count": 1,
+    "ingredients": [
+      "",
+      "ae2:annihilation_core",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:piston",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ae2importexportcard:import_card": {
+    "result": "ae2importexportcard:import_card",
+    "count": 1,
+    "ingredients": [
+      "ae2:engineering_processor",
+      "minecraft:redstone_block",
+      "ae2:engineering_processor",
+      "ae2:import_bus",
+      "minecraft:redstone_block",
+      "ae2:advanced_card",
+      "ae2:calculation_processor",
+      "minecraft:redstone_block",
+      "ae2:calculation_processor"
+    ]
+  },
+  "ars_nouveau:imbuement_chamber": {
+    "result": "ars_nouveau:imbuement_chamber",
+    "count": 1,
+    "ingredients": [
+      "ars_nouveau:archwood_planks",
+      "minecraft:gold_ingot",
+      "ars_nouveau:archwood_planks",
+      "ars_nouveau:archwood_planks",
+      "",
+      "ars_nouveau:archwood_planks",
+      "ars_nouveau:archwood_planks",
+      "minecraft:gold_ingot",
+      "ars_nouveau:archwood_planks"
+    ]
+  },
+  "enderio:impulse_hopper": {
+    "result": "enderio:impulse_hopper",
+    "count": 1,
+    "ingredients": [
+      "minecraft:conductive_alloy",
+      "minecraft:hopper",
+      "minecraft:conductive_alloy",
+      "minecraft:iron",
+      "enderio:void_chassis",
+      "minecraft:iron",
+      "minecraft:conductive_alloy",
+      "minecraft:redstone",
+      "minecraft:conductive_alloy"
+    ]
+  },
+  "modern_industrialization:implosion_compressor": {
+    "result": "modern_industrialization:implosion_compressor",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:blastproof_alloy_large_plate",
+      "modern_industrialization:advanced_motor",
+      "modern_industrialization:blastproof_alloy_large_plate",
+      "modern_industrialization:titanium_large_plate",
+      "modern_industrialization:turbo_machine_hull",
+      "modern_industrialization:titanium_large_plate",
+      "modern_industrialization:blastproof_alloy_large_plate",
+      "modern_industrialization:advanced_motor",
+      "modern_industrialization:blastproof_alloy_large_plate"
+    ]
+  },
+  "mysticalagradditions:imperium_apple": {
+    "result": "mysticalagradditions:imperium_apple",
+    "count": 1,
+    "ingredients": [
+      "",
+      "mysticalagriculture:imperium_essence",
+      "",
+      "mysticalagriculture:imperium_essence",
+      "minecraft:golden_apple",
+      "mysticalagriculture:imperium_essence",
+      "",
+      "mysticalagriculture:imperium_essence",
+      ""
+    ]
+  },
+  "mysticalagradditions:imperium_coal": {
+    "result": "mysticalagradditions:imperium_coal",
+    "count": 9,
+    "ingredients": [
+      "mysticalagradditions:imperium_coal_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mysticalagradditions:imperium_coal_block": {
+    "result": "mysticalagradditions:imperium_coal_block",
+    "count": 1,
+    "ingredients": [
+      "mysticalagradditions:imperium_coal",
+      "mysticalagradditions:imperium_coal",
+      "mysticalagradditions:imperium_coal",
+      "mysticalagradditions:imperium_coal",
+      "mysticalagradditions:imperium_coal",
+      "mysticalagradditions:imperium_coal",
+      "mysticalagradditions:imperium_coal",
+      "mysticalagradditions:imperium_coal",
+      "mysticalagradditions:imperium_coal"
+    ]
+  },
+  "mysticalagradditions:imperium_paxel": {
+    "result": "mysticalagradditions:imperium_paxel",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:imperium_axe",
+      "mysticalagriculture:imperium_pickaxe",
+      "mysticalagriculture:imperium_shovel",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "mysticalagriculture:imperium_block": {
+    "result": "mysticalagriculture:imperium_block",
+    "count": 1,
+    "ingredients": [
+      "",
+      "mysticalagriculture:tertium_block",
+      "",
+      "mysticalagriculture:tertium_block",
+      "mysticalagriculture:master_infusion_crystal",
+      "mysticalagriculture:tertium_block",
+      "",
+      "mysticalagriculture:tertium_block",
+      ""
+    ]
+  },
+  "mysticalagriculture:imperium_essence": {
+    "result": "mysticalagriculture:imperium_essence",
+    "count": 4,
+    "ingredients": [
+      "mysticalagriculture:supremium_essence",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mysticalagriculture:imperium_farmland": {
+    "result": "mysticalagriculture:imperium_farmland",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:imperium_essence",
+      "minecraft:farmland",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mysticalagriculture:imperium_gemstone": {
+    "result": "mysticalagriculture:imperium_gemstone",
+    "count": 9,
+    "ingredients": [
+      "mysticalagriculture:imperium_gemstone_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mysticalagriculture:imperium_gemstone_block": {
+    "result": "mysticalagriculture:imperium_gemstone_block",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:imperium_gemstone",
+      "mysticalagriculture:imperium_gemstone",
+      "mysticalagriculture:imperium_gemstone",
+      "mysticalagriculture:imperium_gemstone",
+      "mysticalagriculture:imperium_gemstone",
+      "mysticalagriculture:imperium_gemstone",
+      "mysticalagriculture:imperium_gemstone",
+      "mysticalagriculture:imperium_gemstone",
+      "mysticalagriculture:imperium_gemstone"
+    ]
+  },
+  "mysticalagriculture:imperium_growth_accelerator": {
+    "result": "mysticalagriculture:imperium_growth_accelerator",
+    "count": 3,
+    "ingredients": [
+      "mysticalagriculture:imperium_essence",
+      "minecraft:stone",
+      "mysticalagriculture:imperium_essence",
+      "minecraft:stone",
+      "mysticalagriculture:imperium_gemstone",
+      "minecraft:stone",
+      "mysticalagriculture:imperium_essence",
+      "minecraft:stone",
+      "mysticalagriculture:imperium_essence"
+    ]
+  },
+  "mysticalagriculture:imperium_ingot": {
+    "result": "mysticalagriculture:imperium_ingot",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:imperium_nugget",
+      "mysticalagriculture:imperium_nugget",
+      "mysticalagriculture:imperium_nugget",
+      "mysticalagriculture:imperium_nugget",
+      "mysticalagriculture:imperium_nugget",
+      "mysticalagriculture:imperium_nugget",
+      "mysticalagriculture:imperium_nugget",
+      "mysticalagriculture:imperium_nugget",
+      "mysticalagriculture:imperium_nugget"
+    ]
+  },
+  "mysticalagriculture:imperium_ingot_block": {
+    "result": "mysticalagriculture:imperium_ingot_block",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:imperium_ingot",
+      "mysticalagriculture:imperium_ingot",
+      "mysticalagriculture:imperium_ingot",
+      "mysticalagriculture:imperium_ingot",
+      "mysticalagriculture:imperium_ingot",
+      "mysticalagriculture:imperium_ingot",
+      "mysticalagriculture:imperium_ingot",
+      "mysticalagriculture:imperium_ingot",
+      "mysticalagriculture:imperium_ingot"
+    ]
+  },
+  "mysticalagriculture:imperium_nugget": {
+    "result": "mysticalagriculture:imperium_nugget",
+    "count": 9,
+    "ingredients": [
+      "mysticalagriculture:imperium_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mysticalagriculture:imperium_upgrade": {
+    "result": "mysticalagriculture:imperium_upgrade",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:imperium_essence",
+      "mysticalagriculture:imperium_ingot",
+      "mysticalagriculture:imperium_essence",
+      "mysticalagriculture:imperium_ingot",
+      "mysticalagriculture:tertium_upgrade",
+      "mysticalagriculture:imperium_ingot",
+      "mysticalagriculture:imperium_essence",
+      "mysticalagriculture:imperium_ingot",
+      "mysticalagriculture:imperium_essence"
+    ]
+  },
+  "pamhc2foodextended:imagawayakiitem": {
+    "result": "pamhc2foodextended:imagawayakiitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_skillet",
+      "minecraft:dough",
+      "minecraft:vanilla",
+      "minecraft:cream",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:imitationcrabsticksitem": {
+    "result": "pamhc2foodextended:imitationcrabsticksitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:grain",
+      "minecraft:rawfish",
+      "minecraft:egg",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pipez:improved_upgrade": {
+    "result": "pipez:improved_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "minecraft:redstone",
+      "minecraft:gold_ingot",
+      "minecraft:redstone",
+      "pipez:basic_upgrade",
+      "minecraft:redstone",
+      "minecraft:gold_ingot",
+      "minecraft:redstone",
+      "minecraft:gold_ingot"
+    ]
+  },
+  "refinedstorage:importer": {
+    "result": "refinedstorage:importer",
+    "count": 1,
+    "ingredients": [
+      "refinedstorage:cable",
+      "refinedstorage:destruction_core",
+      "refinedstorage:improved_processor",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "rootsclassic:imbuer": {
+    "result": "rootsclassic:imbuer",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "",
+      "minecraft:stick",
+      "minecraft:oak_log",
+      "minecraft:chiseled_stone_bricks",
+      "minecraft:oak_log",
+      "",
+      "",
+      ""
+    ]
+  },
+  "securitycraft:ims": {
+    "result": "securitycraft:ims",
+    "count": 1,
+    "ingredients": [
+      "securitycraft:bouncing_betty",
+      "securitycraft:portable_radar",
+      "securitycraft:bouncing_betty",
+      "",
+      "securitycraft:reinforced_iron_block",
+      "",
+      "securitycraft:bouncing_betty",
+      "",
+      "securitycraft:bouncing_betty"
+    ]
+  },
+  "tombstone:impregnated_diamond": {
+    "result": "tombstone:impregnated_diamond",
+    "count": 1,
+    "ingredients": [
+      "tombstone:grave_dust",
+      "tombstone:grave_dust",
+      "tombstone:grave_dust",
+      "tombstone:grave_dust",
+      "minecraft:diamond",
+      "tombstone:grave_dust",
+      "tombstone:grave_dust",
+      "tombstone:grave_dust",
+      "tombstone:grave_dust"
+    ]
+  },
+  "wstweaks:immolation_blade": {
+    "result": "wstweaks:immolation_blade",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:blaze_rod",
+      "minecraft:nether_star",
+      "minecraft:blaze_rod",
+      "minecraft:nether_star",
+      "minecraft:blaze_rod",
+      "minecraft:stick",
+      "minecraft:blaze_rod",
+      ""
+    ]
+  }
+}

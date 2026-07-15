@@ -1,0 +1,467 @@
+{
+  "cataclysm:abyssal_sacrifice": {
+    "result": "cataclysm:abyssal_sacrifice",
+    "count": 1,
+    "ingredients": [
+      "minecraft:nautilus_shell",
+      "cataclysm:athame",
+      "cataclysm:coral_chunk",
+      "minecraft:diamond_block",
+      "minecraft:heart_of_the_sea",
+      "minecraft:emerald_block",
+      "minecraft:iron_block",
+      "minecraft:amethyst_block",
+      "minecraft:gold_block"
+    ]
+  },
+  "cataclysm:abyss_eye": {
+    "result": "cataclysm:abyss_eye",
+    "count": 1,
+    "ingredients": [
+      "minecraft:crying_obsidian",
+      "minecraft:obsidian",
+      "minecraft:crying_obsidian",
+      "minecraft:obsidian",
+      "minecraft:ender_eye",
+      "minecraft:obsidian",
+      "minecraft:crying_obsidian",
+      "minecraft:obsidian",
+      "minecraft:crying_obsidian"
+    ]
+  },
+  "mob_grinding_utils:absorption_upgrade": {
+    "result": "mob_grinding_utils:absorption_upgrade",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:ender_pearl",
+      "",
+      "minecraft:ender_pearl",
+      "minecraft:redstone",
+      "minecraft:ender_pearl",
+      "minecraft:obsidians",
+      "minecraft:hopper",
+      "minecraft:obsidians"
+    ]
+  },
+  "mob_grinding_utils:absorption_hopper": {
+    "result": "mob_grinding_utils:absorption_hopper",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:ender_eye",
+      "",
+      "",
+      "minecraft:obsidians",
+      "",
+      "minecraft:obsidians",
+      "minecraft:hopper",
+      "minecraft:obsidians"
+    ]
+  },
+  "railcraft:abandoned_activator_track": {
+    "result": "railcraft:abandoned_activator_track",
+    "count": 1,
+    "ingredients": [
+      "railcraft:activator_track_kit",
+      "railcraft:abandoned_track",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:abandoned_booster_track": {
+    "result": "railcraft:abandoned_booster_track",
+    "count": 1,
+    "ingredients": [
+      "railcraft:booster_track_kit",
+      "railcraft:abandoned_track",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:abandoned_buffer_stop_track": {
+    "result": "railcraft:abandoned_buffer_stop_track",
+    "count": 1,
+    "ingredients": [
+      "railcraft:buffer_stop_track_kit",
+      "railcraft:abandoned_track",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:abandoned_control_track": {
+    "result": "railcraft:abandoned_control_track",
+    "count": 1,
+    "ingredients": [
+      "railcraft:control_track_kit",
+      "railcraft:abandoned_track",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:abandoned_coupler_track": {
+    "result": "railcraft:abandoned_coupler_track",
+    "count": 1,
+    "ingredients": [
+      "railcraft:coupler_track_kit",
+      "railcraft:abandoned_track",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:abandoned_detector_track": {
+    "result": "railcraft:abandoned_detector_track",
+    "count": 1,
+    "ingredients": [
+      "railcraft:detector_track_kit",
+      "railcraft:abandoned_track",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:abandoned_disembarking_track": {
+    "result": "railcraft:abandoned_disembarking_track",
+    "count": 1,
+    "ingredients": [
+      "railcraft:disembarking_track_kit",
+      "railcraft:abandoned_track",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:abandoned_dumping_track": {
+    "result": "railcraft:abandoned_dumping_track",
+    "count": 1,
+    "ingredients": [
+      "railcraft:dumping_track_kit",
+      "railcraft:abandoned_track",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:abandoned_embarking_track": {
+    "result": "railcraft:abandoned_embarking_track",
+    "count": 1,
+    "ingredients": [
+      "railcraft:embarking_track_kit",
+      "railcraft:abandoned_track",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:abandoned_gated_track": {
+    "result": "railcraft:abandoned_gated_track",
+    "count": 1,
+    "ingredients": [
+      "railcraft:gated_track_kit",
+      "railcraft:abandoned_track",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:abandoned_junction_track": {
+    "result": "railcraft:abandoned_junction_track",
+    "count": 16,
+    "ingredients": [
+      "railcraft:standard_rail",
+      "railcraft:standard_rail",
+      "railcraft:standard_rail",
+      "railcraft:standard_rail",
+      "railcraft:wooden_tie",
+      "railcraft:standard_rail",
+      "railcraft:standard_rail",
+      "railcraft:standard_rail",
+      "railcraft:standard_rail"
+    ]
+  },
+  "railcraft:abandoned_launcher_track": {
+    "result": "railcraft:abandoned_launcher_track",
+    "count": 1,
+    "ingredients": [
+      "railcraft:launcher_track_kit",
+      "railcraft:abandoned_track",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:abandoned_locking_track": {
+    "result": "railcraft:abandoned_locking_track",
+    "count": 1,
+    "ingredients": [
+      "railcraft:locking_track_kit",
+      "railcraft:abandoned_track",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:abandoned_locomotive_track": {
+    "result": "railcraft:abandoned_locomotive_track",
+    "count": 1,
+    "ingredients": [
+      "railcraft:locomotive_track_kit",
+      "railcraft:abandoned_track",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:abandoned_one_way_track": {
+    "result": "railcraft:abandoned_one_way_track",
+    "count": 1,
+    "ingredients": [
+      "railcraft:one_way_track_kit",
+      "railcraft:abandoned_track",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:abandoned_routing_track": {
+    "result": "railcraft:abandoned_routing_track",
+    "count": 1,
+    "ingredients": [
+      "railcraft:routing_track_kit",
+      "railcraft:abandoned_track",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:abandoned_throttle_track": {
+    "result": "railcraft:abandoned_throttle_track",
+    "count": 1,
+    "ingredients": [
+      "railcraft:throttle_track_kit",
+      "railcraft:abandoned_track",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:abandoned_track": {
+    "result": "railcraft:abandoned_track",
+    "count": 32,
+    "ingredients": [
+      "railcraft:standard_rail",
+      "",
+      "railcraft:standard_rail",
+      "railcraft:standard_rail",
+      "railcraft:wooden_tie",
+      "railcraft:standard_rail",
+      "railcraft:standard_rail",
+      "",
+      "railcraft:standard_rail"
+    ]
+  },
+  "railcraft:abandoned_turnout_track": {
+    "result": "railcraft:abandoned_turnout_track",
+    "count": 16,
+    "ingredients": [
+      "railcraft:standard_rail",
+      "railcraft:wooden_tie",
+      "railcraft:standard_rail",
+      "railcraft:standard_rail",
+      "railcraft:standard_rail",
+      "railcraft:standard_rail",
+      "railcraft:standard_rail",
+      "railcraft:standard_rail",
+      "railcraft:standard_rail"
+    ]
+  },
+  "railcraft:abandoned_whistle_track": {
+    "result": "railcraft:abandoned_whistle_track",
+    "count": 1,
+    "ingredients": [
+      "railcraft:whistle_track_kit",
+      "railcraft:abandoned_track",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:abandoned_wye_track": {
+    "result": "railcraft:abandoned_wye_track",
+    "count": 16,
+    "ingredients": [
+      "railcraft:standard_rail",
+      "railcraft:standard_rail",
+      "railcraft:standard_rail",
+      "railcraft:standard_rail",
+      "railcraft:standard_rail",
+      "railcraft:wooden_tie",
+      "railcraft:standard_rail",
+      "railcraft:standard_rail",
+      "railcraft:standard_rail"
+    ]
+  },
+  "railcraft:abyssal_bricks": {
+    "result": "railcraft:abyssal_bricks",
+    "count": 4,
+    "ingredients": [
+      "railcraft:polished_abyssal_stone",
+      "railcraft:polished_abyssal_stone",
+      "",
+      "railcraft:polished_abyssal_stone",
+      "railcraft:polished_abyssal_stone",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:abyssal_brick_slab": {
+    "result": "railcraft:abyssal_brick_slab",
+    "count": 6,
+    "ingredients": [
+      "railcraft:abyssal_bricks",
+      "railcraft:abyssal_bricks",
+      "railcraft:abyssal_bricks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:abyssal_brick_stairs": {
+    "result": "railcraft:abyssal_brick_stairs",
+    "count": 4,
+    "ingredients": [
+      "railcraft:abyssal_bricks",
+      "",
+      "",
+      "railcraft:abyssal_bricks",
+      "railcraft:abyssal_bricks",
+      "",
+      "railcraft:abyssal_bricks",
+      "railcraft:abyssal_bricks",
+      "railcraft:abyssal_bricks"
+    ]
+  },
+  "railcraft:abyssal_paver": {
+    "result": "railcraft:abyssal_paver",
+    "count": 4,
+    "ingredients": [
+      "railcraft:abyssal_bricks",
+      "railcraft:abyssal_bricks",
+      "",
+      "railcraft:abyssal_bricks",
+      "railcraft:abyssal_bricks",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:abyssal_paver_slab": {
+    "result": "railcraft:abyssal_paver_slab",
+    "count": 6,
+    "ingredients": [
+      "railcraft:abyssal_paver",
+      "railcraft:abyssal_paver",
+      "railcraft:abyssal_paver",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:abyssal_paver_stairs": {
+    "result": "railcraft:abyssal_paver_stairs",
+    "count": 4,
+    "ingredients": [
+      "railcraft:abyssal_paver",
+      "",
+      "",
+      "railcraft:abyssal_paver",
+      "railcraft:abyssal_paver",
+      "",
+      "railcraft:abyssal_paver",
+      "railcraft:abyssal_paver",
+      "railcraft:abyssal_paver"
+    ]
+  }
+}

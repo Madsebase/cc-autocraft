@@ -1,0 +1,2057 @@
+{
+  "ars_additions:archwood_chain": {
+    "result": "ars_additions:archwood_chain",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_nugget",
+      "",
+      "",
+      "ars_nouveau:archwood_planks",
+      "",
+      "",
+      "minecraft:iron_nugget",
+      "",
+      ""
+    ]
+  },
+  "ars_additions:archwood_lantern": {
+    "result": "ars_additions:archwood_lantern",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_nugget",
+      "ars_nouveau:archwood_planks",
+      "minecraft:iron_nugget",
+      "ars_nouveau:archwood_planks",
+      "minecraft:torch",
+      "ars_nouveau:archwood_planks",
+      "minecraft:iron_nugget",
+      "ars_nouveau:archwood_planks",
+      "minecraft:iron_nugget"
+    ]
+  },
+  "ars_additions:archwood_magelight_lantern": {
+    "result": "ars_additions:archwood_magelight_lantern",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_nugget",
+      "ars_nouveau:archwood_planks",
+      "minecraft:iron_nugget",
+      "ars_nouveau:archwood_planks",
+      "ars_nouveau:source_gem",
+      "ars_nouveau:archwood_planks",
+      "minecraft:iron_nugget",
+      "ars_nouveau:archwood_planks",
+      "minecraft:iron_nugget"
+    ]
+  },
+  "ars_nouveau:arcane_core": {
+    "result": "ars_nouveau:arcane_core",
+    "count": 1,
+    "ingredients": [
+      "ars_nouveau:sourcestone",
+      "ars_nouveau:sourcestone",
+      "ars_nouveau:sourcestone",
+      "minecraft:gold_ingot",
+      "minecraft:source",
+      "minecraft:gold_ingot",
+      "ars_nouveau:sourcestone",
+      "ars_nouveau:sourcestone",
+      "ars_nouveau:sourcestone"
+    ]
+  },
+  "ars_nouveau:arcane_pedestal": {
+    "result": "ars_nouveau:arcane_pedestal",
+    "count": 1,
+    "ingredients": [
+      "ars_nouveau:arcane_platform",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_nouveau:arcane_platform": {
+    "result": "ars_nouveau:arcane_platform",
+    "count": 1,
+    "ingredients": [
+      "ars_nouveau:arcane_pedestal",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_nouveau:archwood_boat": {
+    "result": "ars_nouveau:archwood_boat",
+    "count": 1,
+    "ingredients": [
+      "ars_nouveau:archwood_planks",
+      "",
+      "ars_nouveau:archwood_planks",
+      "ars_nouveau:archwood_planks",
+      "ars_nouveau:archwood_planks",
+      "ars_nouveau:archwood_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_nouveau:archwood_button": {
+    "result": "ars_nouveau:archwood_button",
+    "count": 1,
+    "ingredients": [
+      "ars_nouveau:archwood_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_nouveau:archwood_chest": {
+    "result": "ars_nouveau:archwood_chest",
+    "count": 1,
+    "ingredients": [
+      "ars_nouveau:archwood_planks",
+      "ars_nouveau:archwood_planks",
+      "ars_nouveau:archwood_planks",
+      "ars_nouveau:archwood_planks",
+      "minecraft:gold_nugget",
+      "ars_nouveau:archwood_planks",
+      "ars_nouveau:archwood_planks",
+      "ars_nouveau:archwood_planks",
+      "ars_nouveau:archwood_planks"
+    ]
+  },
+  "ars_nouveau:archwood_door": {
+    "result": "ars_nouveau:archwood_door",
+    "count": 3,
+    "ingredients": [
+      "ars_nouveau:archwood_planks",
+      "ars_nouveau:archwood_planks",
+      "",
+      "ars_nouveau:archwood_planks",
+      "ars_nouveau:archwood_planks",
+      "",
+      "ars_nouveau:archwood_planks",
+      "ars_nouveau:archwood_planks",
+      ""
+    ]
+  },
+  "ars_nouveau:archwood_fence": {
+    "result": "ars_nouveau:archwood_fence",
+    "count": 3,
+    "ingredients": [
+      "ars_nouveau:archwood_planks",
+      "minecraft:stick",
+      "ars_nouveau:archwood_planks",
+      "ars_nouveau:archwood_planks",
+      "minecraft:stick",
+      "ars_nouveau:archwood_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_nouveau:archwood_fence_gate": {
+    "result": "ars_nouveau:archwood_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "ars_nouveau:archwood_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "ars_nouveau:archwood_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_nouveau:archwood_grate": {
+    "result": "ars_nouveau:archwood_grate",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:iron_bars",
+      "",
+      "minecraft:iron_bars",
+      "minecraft:oak_log",
+      "minecraft:iron_bars",
+      "",
+      "minecraft:iron_bars",
+      ""
+    ]
+  },
+  "ars_nouveau:archwood_hanging_sign": {
+    "result": "ars_nouveau:archwood_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "minecraft:oak_log",
+      "minecraft:oak_log",
+      "minecraft:oak_log",
+      "minecraft:oak_log",
+      "minecraft:oak_log",
+      "minecraft:oak_log"
+    ]
+  },
+  "ars_nouveau:archwood_planks": {
+    "result": "ars_nouveau:archwood_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_nouveau:archwood_pressure_plate": {
+    "result": "ars_nouveau:archwood_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "ars_nouveau:archwood_planks",
+      "ars_nouveau:archwood_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_nouveau:archwood_sconce": {
+    "result": "ars_nouveau:archwood_sconce",
+    "count": 1,
+    "ingredients": [
+      "minecraft:source",
+      "ars_nouveau:archwood_planks",
+      "ars_nouveau:archwood_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_nouveau:archwood_sign": {
+    "result": "ars_nouveau:archwood_sign",
+    "count": 3,
+    "ingredients": [
+      "ars_nouveau:archwood_planks",
+      "ars_nouveau:archwood_planks",
+      "ars_nouveau:archwood_planks",
+      "ars_nouveau:archwood_planks",
+      "ars_nouveau:archwood_planks",
+      "ars_nouveau:archwood_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "ars_nouveau:archwood_slab": {
+    "result": "ars_nouveau:archwood_slab",
+    "count": 6,
+    "ingredients": [
+      "ars_nouveau:archwood_planks",
+      "ars_nouveau:archwood_planks",
+      "ars_nouveau:archwood_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_nouveau:archwood_stairs": {
+    "result": "ars_nouveau:archwood_stairs",
+    "count": 4,
+    "ingredients": [
+      "ars_nouveau:archwood_planks",
+      "",
+      "",
+      "ars_nouveau:archwood_planks",
+      "ars_nouveau:archwood_planks",
+      "",
+      "ars_nouveau:archwood_planks",
+      "ars_nouveau:archwood_planks",
+      "ars_nouveau:archwood_planks"
+    ]
+  },
+  "ars_nouveau:archwood_trapdoor": {
+    "result": "ars_nouveau:archwood_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "ars_nouveau:archwood_planks",
+      "ars_nouveau:archwood_planks",
+      "ars_nouveau:archwood_planks",
+      "ars_nouveau:archwood_planks",
+      "ars_nouveau:archwood_planks",
+      "ars_nouveau:archwood_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_nouveau:ars_stencil": {
+    "result": "ars_nouveau:ars_stencil",
+    "count": 1,
+    "ingredients": [
+      "minecraft:paper",
+      "ars_nouveau:abjuration_essence",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:arrow": {
+    "result": "minecraft:arrow",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tipped_arrow",
+      "supplementaries:soap",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:ars_nouveau_archwood_bookcase": {
+    "result": "bibliocraft:ars_nouveau_archwood_bookcase",
+    "count": 1,
+    "ingredients": [
+      "ars_nouveau:archwood_planks",
+      "ars_nouveau:archwood_slab",
+      "ars_nouveau:archwood_planks",
+      "ars_nouveau:archwood_planks",
+      "ars_nouveau:archwood_slab",
+      "ars_nouveau:archwood_planks",
+      "ars_nouveau:archwood_planks",
+      "ars_nouveau:archwood_slab",
+      "ars_nouveau:archwood_planks"
+    ]
+  },
+  "bibliocraft:ars_nouveau_archwood_fancy_armor_stand": {
+    "result": "bibliocraft:ars_nouveau_archwood_fancy_armor_stand",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "ars_nouveau:archwood_slab",
+      "ars_nouveau:archwood_slab",
+      "ars_nouveau:archwood_slab"
+    ]
+  },
+  "bibliocraft:ars_nouveau_archwood_fancy_clock": {
+    "result": "bibliocraft:ars_nouveau_archwood_fancy_clock",
+    "count": 1,
+    "ingredients": [
+      "ars_nouveau:archwood_slab",
+      "minecraft:clock",
+      "ars_nouveau:archwood_slab",
+      "ars_nouveau:archwood_slab",
+      "minecraft:stick",
+      "ars_nouveau:archwood_slab",
+      "ars_nouveau:archwood_slab",
+      "minecraft:copper_ingot",
+      "ars_nouveau:archwood_slab"
+    ]
+  },
+  "bibliocraft:ars_nouveau_archwood_fancy_crafter": {
+    "result": "bibliocraft:ars_nouveau_archwood_fancy_crafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black",
+      "minecraft:crafting_tables",
+      "minecraft:feather",
+      "ars_nouveau:archwood_planks",
+      "minecraft:glass",
+      "ars_nouveau:archwood_planks",
+      "ars_nouveau:archwood_planks",
+      "minecraft:crafter",
+      "ars_nouveau:archwood_planks"
+    ]
+  },
+  "bibliocraft:ars_nouveau_archwood_fancy_sign": {
+    "result": "bibliocraft:ars_nouveau_archwood_fancy_sign",
+    "count": 1,
+    "ingredients": [
+      "ars_nouveau:archwood_planks",
+      "minecraft:paper",
+      "ars_nouveau:archwood_planks",
+      "ars_nouveau:archwood_planks",
+      "minecraft:paper",
+      "ars_nouveau:archwood_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "bibliocraft:ars_nouveau_archwood_grandfather_clock": {
+    "result": "bibliocraft:ars_nouveau_archwood_grandfather_clock",
+    "count": 1,
+    "ingredients": [
+      "bibliocraft:ars_nouveau_archwood_fancy_clock",
+      "bibliocraft:ars_nouveau_archwood_fancy_clock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:ars_nouveau_archwood_label": {
+    "result": "bibliocraft:ars_nouveau_archwood_label",
+    "count": 1,
+    "ingredients": [
+      "ars_nouveau:archwood_slab",
+      "ars_nouveau:archwood_slab",
+      "ars_nouveau:archwood_slab",
+      "ars_nouveau:archwood_slab",
+      "ars_nouveau:archwood_slab",
+      "ars_nouveau:archwood_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:ars_nouveau_archwood_potion_shelf": {
+    "result": "bibliocraft:ars_nouveau_archwood_potion_shelf",
+    "count": 1,
+    "ingredients": [
+      "ars_nouveau:archwood_slab",
+      "ars_nouveau:archwood_slab",
+      "ars_nouveau:archwood_slab",
+      "ars_nouveau:archwood_planks",
+      "minecraft:glass_bottle",
+      "ars_nouveau:archwood_planks",
+      "ars_nouveau:archwood_slab",
+      "ars_nouveau:archwood_slab",
+      "ars_nouveau:archwood_slab"
+    ]
+  },
+  "bibliocraft:ars_nouveau_archwood_shelf": {
+    "result": "bibliocraft:ars_nouveau_archwood_shelf",
+    "count": 1,
+    "ingredients": [
+      "ars_nouveau:archwood_slab",
+      "ars_nouveau:archwood_slab",
+      "ars_nouveau:archwood_slab",
+      "",
+      "ars_nouveau:archwood_planks",
+      "",
+      "ars_nouveau:archwood_slab",
+      "ars_nouveau:archwood_slab",
+      "ars_nouveau:archwood_slab"
+    ]
+  },
+  "bibliocraft:ars_nouveau_archwood_table": {
+    "result": "bibliocraft:ars_nouveau_archwood_table",
+    "count": 1,
+    "ingredients": [
+      "ars_nouveau:archwood_slab",
+      "ars_nouveau:archwood_slab",
+      "ars_nouveau:archwood_slab",
+      "",
+      "ars_nouveau:archwood_planks",
+      "",
+      "",
+      "ars_nouveau:archwood_planks",
+      ""
+    ]
+  },
+  "bibliocraft:ars_nouveau_archwood_tool_rack": {
+    "result": "bibliocraft:ars_nouveau_archwood_tool_rack",
+    "count": 1,
+    "ingredients": [
+      "ars_nouveau:archwood_slab",
+      "ars_nouveau:archwood_slab",
+      "ars_nouveau:archwood_slab",
+      "ars_nouveau:archwood_slab",
+      "minecraft:iron_ingot",
+      "ars_nouveau:archwood_slab",
+      "ars_nouveau:archwood_slab",
+      "ars_nouveau:archwood_slab",
+      "ars_nouveau:archwood_slab"
+    ]
+  },
+  "domum_ornamentum:architectscutter": {
+    "result": "domum_ornamentum:architectscutter",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:stone_slab",
+      "minecraft:stone_slab",
+      "minecraft:stone_slab",
+      "minecraft:oak_log",
+      "minecraft:oak_log",
+      "minecraft:oak_log"
+    ]
+  },
+  "forbidden_arcanus:arcane_bone_meal": {
+    "result": "forbidden_arcanus:arcane_bone_meal",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:bone_meal",
+      "",
+      "minecraft:bone_meal",
+      "forbidden_arcanus:arcane_crystal_dust",
+      "minecraft:bone_meal",
+      "",
+      "minecraft:bone_meal",
+      ""
+    ]
+  },
+  "forbidden_arcanus:arcane_crystal_block": {
+    "result": "forbidden_arcanus:arcane_crystal_block",
+    "count": 1,
+    "ingredients": [
+      "forbidden_arcanus:arcane_crystal",
+      "forbidden_arcanus:arcane_crystal",
+      "forbidden_arcanus:arcane_crystal",
+      "forbidden_arcanus:arcane_crystal",
+      "forbidden_arcanus:arcane_crystal",
+      "forbidden_arcanus:arcane_crystal",
+      "forbidden_arcanus:arcane_crystal",
+      "forbidden_arcanus:arcane_crystal",
+      "forbidden_arcanus:arcane_crystal"
+    ]
+  },
+  "forbidden_arcanus:arcane_crystal_dust": {
+    "result": "forbidden_arcanus:arcane_crystal_dust",
+    "count": 1,
+    "ingredients": [
+      "forbidden_arcanus:arcane_crystal_dust_speck",
+      "forbidden_arcanus:arcane_crystal_dust_speck",
+      "forbidden_arcanus:arcane_crystal_dust_speck",
+      "forbidden_arcanus:arcane_crystal_dust_speck",
+      "forbidden_arcanus:arcane_crystal_dust_speck",
+      "forbidden_arcanus:arcane_crystal_dust_speck",
+      "forbidden_arcanus:arcane_crystal_dust_speck",
+      "forbidden_arcanus:arcane_crystal_dust_speck",
+      "forbidden_arcanus:arcane_crystal_dust_speck"
+    ]
+  },
+  "forbidden_arcanus:arcane_crystal": {
+    "result": "forbidden_arcanus:arcane_crystal",
+    "count": 9,
+    "ingredients": [
+      "forbidden_arcanus:arcane_crystal_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "forbidden_arcanus:arcane_dragon_egg": {
+    "result": "forbidden_arcanus:arcane_dragon_egg",
+    "count": 1,
+    "ingredients": [
+      "",
+      "forbidden_arcanus:golden_dragon_scale",
+      "",
+      "forbidden_arcanus:golden_dragon_scale",
+      "minecraft:dragon_egg",
+      "forbidden_arcanus:golden_dragon_scale",
+      "forbidden_arcanus:golden_dragon_scale",
+      "forbidden_arcanus:golden_dragon_scale",
+      "forbidden_arcanus:golden_dragon_scale"
+    ]
+  },
+  "forbidden_arcanus:arcane_edelwood_door": {
+    "result": "forbidden_arcanus:arcane_edelwood_door",
+    "count": 3,
+    "ingredients": [
+      "forbidden_arcanus:arcane_edelwood_planks",
+      "forbidden_arcanus:arcane_edelwood_planks",
+      "",
+      "forbidden_arcanus:arcane_edelwood_planks",
+      "forbidden_arcanus:arcane_edelwood_planks",
+      "",
+      "forbidden_arcanus:arcane_edelwood_planks",
+      "forbidden_arcanus:arcane_edelwood_planks",
+      ""
+    ]
+  },
+  "forbidden_arcanus:arcane_edelwood_planks": {
+    "result": "forbidden_arcanus:arcane_edelwood_planks",
+    "count": 8,
+    "ingredients": [
+      "forbidden_arcanus:edelwood_planks",
+      "forbidden_arcanus:edelwood_planks",
+      "forbidden_arcanus:edelwood_planks",
+      "forbidden_arcanus:edelwood_planks",
+      "minecraft:deorum",
+      "forbidden_arcanus:edelwood_planks",
+      "forbidden_arcanus:edelwood_planks",
+      "forbidden_arcanus:edelwood_planks",
+      "forbidden_arcanus:edelwood_planks"
+    ]
+  },
+  "forbidden_arcanus:arcane_edelwood_trapdoor": {
+    "result": "forbidden_arcanus:arcane_edelwood_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "forbidden_arcanus:arcane_edelwood_planks",
+      "forbidden_arcanus:arcane_edelwood_planks",
+      "forbidden_arcanus:arcane_edelwood_planks",
+      "forbidden_arcanus:arcane_edelwood_planks",
+      "forbidden_arcanus:arcane_edelwood_planks",
+      "forbidden_arcanus:arcane_edelwood_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "forbidden_arcanus:arcane_polished_darkstone": {
+    "result": "forbidden_arcanus:arcane_polished_darkstone",
+    "count": 8,
+    "ingredients": [
+      "forbidden_arcanus:polished_darkstone",
+      "forbidden_arcanus:polished_darkstone",
+      "forbidden_arcanus:polished_darkstone",
+      "forbidden_arcanus:polished_darkstone",
+      "forbidden_arcanus:deorum_ingot",
+      "forbidden_arcanus:polished_darkstone",
+      "forbidden_arcanus:polished_darkstone",
+      "forbidden_arcanus:polished_darkstone",
+      "forbidden_arcanus:polished_darkstone"
+    ]
+  },
+  "forbidden_arcanus:arcane_polished_darkstone_pillar": {
+    "result": "forbidden_arcanus:arcane_polished_darkstone_pillar",
+    "count": 1,
+    "ingredients": [
+      "forbidden_arcanus:arcane_polished_darkstone",
+      "",
+      "",
+      "forbidden_arcanus:arcane_polished_darkstone",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "forbidden_arcanus:arcane_polished_darkstone_slab": {
+    "result": "forbidden_arcanus:arcane_polished_darkstone_slab",
+    "count": 6,
+    "ingredients": [
+      "forbidden_arcanus:arcane_polished_darkstone",
+      "forbidden_arcanus:arcane_polished_darkstone",
+      "forbidden_arcanus:arcane_polished_darkstone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "forbidden_arcanus:arcane_polished_darkstone_stairs": {
+    "result": "forbidden_arcanus:arcane_polished_darkstone_stairs",
+    "count": 4,
+    "ingredients": [
+      "forbidden_arcanus:arcane_polished_darkstone",
+      "",
+      "",
+      "forbidden_arcanus:arcane_polished_darkstone",
+      "forbidden_arcanus:arcane_polished_darkstone",
+      "",
+      "forbidden_arcanus:arcane_polished_darkstone",
+      "forbidden_arcanus:arcane_polished_darkstone",
+      "forbidden_arcanus:arcane_polished_darkstone"
+    ]
+  },
+  "forbidden_arcanus:arcane_polished_darkstone_wall": {
+    "result": "forbidden_arcanus:arcane_polished_darkstone_wall",
+    "count": 6,
+    "ingredients": [
+      "forbidden_arcanus:arcane_polished_darkstone",
+      "forbidden_arcanus:arcane_polished_darkstone",
+      "forbidden_arcanus:arcane_polished_darkstone",
+      "forbidden_arcanus:arcane_polished_darkstone",
+      "forbidden_arcanus:arcane_polished_darkstone",
+      "forbidden_arcanus:arcane_polished_darkstone",
+      "",
+      "",
+      ""
+    ]
+  },
+  "functionalstorage:armory_cabinet": {
+    "result": "functionalstorage:armory_cabinet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone",
+      "minecraft:drawer",
+      "minecraft:stone",
+      "minecraft:drawer",
+      "minecraft:comparator",
+      "minecraft:drawer",
+      "minecraft:stone",
+      "minecraft:netherite",
+      "minecraft:stone"
+    ]
+  },
+  "iceandfire:armor_amethyst_boots": {
+    "result": "iceandfire:armor_amethyst_boots",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonscales_amethyst",
+      "",
+      "iceandfire:dragonscales_amethyst",
+      "iceandfire:dragonscales_amethyst",
+      "",
+      "iceandfire:dragonscales_amethyst",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:armor_amethyst_chestplate": {
+    "result": "iceandfire:armor_amethyst_chestplate",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonscales_amethyst",
+      "",
+      "iceandfire:dragonscales_amethyst",
+      "iceandfire:dragonscales_amethyst",
+      "iceandfire:dragonscales_amethyst",
+      "iceandfire:dragonscales_amethyst",
+      "iceandfire:dragonscales_amethyst",
+      "iceandfire:dragonscales_amethyst",
+      "iceandfire:dragonscales_amethyst"
+    ]
+  },
+  "iceandfire:armor_amethyst_helmet": {
+    "result": "iceandfire:armor_amethyst_helmet",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonscales_amethyst",
+      "iceandfire:dragonscales_amethyst",
+      "iceandfire:dragonscales_amethyst",
+      "iceandfire:dragonscales_amethyst",
+      "",
+      "iceandfire:dragonscales_amethyst",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:armor_amethyst_leggings": {
+    "result": "iceandfire:armor_amethyst_leggings",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonscales_amethyst",
+      "iceandfire:dragonscales_amethyst",
+      "iceandfire:dragonscales_amethyst",
+      "iceandfire:dragonscales_amethyst",
+      "",
+      "iceandfire:dragonscales_amethyst",
+      "iceandfire:dragonscales_amethyst",
+      "",
+      "iceandfire:dragonscales_amethyst"
+    ]
+  },
+  "iceandfire:armor_black_boots": {
+    "result": "iceandfire:armor_black_boots",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonscales_black",
+      "",
+      "iceandfire:dragonscales_black",
+      "iceandfire:dragonscales_black",
+      "",
+      "iceandfire:dragonscales_black",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:armor_black_chestplate": {
+    "result": "iceandfire:armor_black_chestplate",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonscales_black",
+      "",
+      "iceandfire:dragonscales_black",
+      "iceandfire:dragonscales_black",
+      "iceandfire:dragonscales_black",
+      "iceandfire:dragonscales_black",
+      "iceandfire:dragonscales_black",
+      "iceandfire:dragonscales_black",
+      "iceandfire:dragonscales_black"
+    ]
+  },
+  "iceandfire:armor_black_helmet": {
+    "result": "iceandfire:armor_black_helmet",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonscales_black",
+      "iceandfire:dragonscales_black",
+      "iceandfire:dragonscales_black",
+      "iceandfire:dragonscales_black",
+      "",
+      "iceandfire:dragonscales_black",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:armor_black_leggings": {
+    "result": "iceandfire:armor_black_leggings",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonscales_black",
+      "iceandfire:dragonscales_black",
+      "iceandfire:dragonscales_black",
+      "iceandfire:dragonscales_black",
+      "",
+      "iceandfire:dragonscales_black",
+      "iceandfire:dragonscales_black",
+      "",
+      "iceandfire:dragonscales_black"
+    ]
+  },
+  "iceandfire:armor_blue_boots": {
+    "result": "iceandfire:armor_blue_boots",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonscales_blue",
+      "",
+      "iceandfire:dragonscales_blue",
+      "iceandfire:dragonscales_blue",
+      "",
+      "iceandfire:dragonscales_blue",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:armor_blue_chestplate": {
+    "result": "iceandfire:armor_blue_chestplate",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonscales_blue",
+      "",
+      "iceandfire:dragonscales_blue",
+      "iceandfire:dragonscales_blue",
+      "iceandfire:dragonscales_blue",
+      "iceandfire:dragonscales_blue",
+      "iceandfire:dragonscales_blue",
+      "iceandfire:dragonscales_blue",
+      "iceandfire:dragonscales_blue"
+    ]
+  },
+  "iceandfire:armor_blue_helmet": {
+    "result": "iceandfire:armor_blue_helmet",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonscales_blue",
+      "iceandfire:dragonscales_blue",
+      "iceandfire:dragonscales_blue",
+      "iceandfire:dragonscales_blue",
+      "",
+      "iceandfire:dragonscales_blue",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:armor_blue_leggings": {
+    "result": "iceandfire:armor_blue_leggings",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonscales_blue",
+      "iceandfire:dragonscales_blue",
+      "iceandfire:dragonscales_blue",
+      "iceandfire:dragonscales_blue",
+      "",
+      "iceandfire:dragonscales_blue",
+      "iceandfire:dragonscales_blue",
+      "",
+      "iceandfire:dragonscales_blue"
+    ]
+  },
+  "iceandfire:armor_bronze_boots": {
+    "result": "iceandfire:armor_bronze_boots",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonscales_bronze",
+      "",
+      "iceandfire:dragonscales_bronze",
+      "iceandfire:dragonscales_bronze",
+      "",
+      "iceandfire:dragonscales_bronze",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:armor_bronze_chestplate": {
+    "result": "iceandfire:armor_bronze_chestplate",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonscales_bronze",
+      "",
+      "iceandfire:dragonscales_bronze",
+      "iceandfire:dragonscales_bronze",
+      "iceandfire:dragonscales_bronze",
+      "iceandfire:dragonscales_bronze",
+      "iceandfire:dragonscales_bronze",
+      "iceandfire:dragonscales_bronze",
+      "iceandfire:dragonscales_bronze"
+    ]
+  },
+  "iceandfire:armor_bronze_helmet": {
+    "result": "iceandfire:armor_bronze_helmet",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonscales_bronze",
+      "iceandfire:dragonscales_bronze",
+      "iceandfire:dragonscales_bronze",
+      "iceandfire:dragonscales_bronze",
+      "",
+      "iceandfire:dragonscales_bronze",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:armor_bronze_leggings": {
+    "result": "iceandfire:armor_bronze_leggings",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonscales_bronze",
+      "iceandfire:dragonscales_bronze",
+      "iceandfire:dragonscales_bronze",
+      "iceandfire:dragonscales_bronze",
+      "",
+      "iceandfire:dragonscales_bronze",
+      "iceandfire:dragonscales_bronze",
+      "",
+      "iceandfire:dragonscales_bronze"
+    ]
+  },
+  "iceandfire:armor_copper_boots": {
+    "result": "iceandfire:armor_copper_boots",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonscales_copper",
+      "",
+      "iceandfire:dragonscales_copper",
+      "iceandfire:dragonscales_copper",
+      "",
+      "iceandfire:dragonscales_copper",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:armor_copper_chestplate": {
+    "result": "iceandfire:armor_copper_chestplate",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonscales_copper",
+      "",
+      "iceandfire:dragonscales_copper",
+      "iceandfire:dragonscales_copper",
+      "iceandfire:dragonscales_copper",
+      "iceandfire:dragonscales_copper",
+      "iceandfire:dragonscales_copper",
+      "iceandfire:dragonscales_copper",
+      "iceandfire:dragonscales_copper"
+    ]
+  },
+  "iceandfire:armor_copper_helmet": {
+    "result": "iceandfire:armor_copper_helmet",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonscales_copper",
+      "iceandfire:dragonscales_copper",
+      "iceandfire:dragonscales_copper",
+      "iceandfire:dragonscales_copper",
+      "",
+      "iceandfire:dragonscales_copper",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:armor_copper_leggings": {
+    "result": "iceandfire:armor_copper_leggings",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonscales_copper",
+      "iceandfire:dragonscales_copper",
+      "iceandfire:dragonscales_copper",
+      "iceandfire:dragonscales_copper",
+      "",
+      "iceandfire:dragonscales_copper",
+      "iceandfire:dragonscales_copper",
+      "",
+      "iceandfire:dragonscales_copper"
+    ]
+  },
+  "iceandfire:armor_copper_metal_boots": {
+    "result": "iceandfire:armor_copper_metal_boots",
+    "count": 1,
+    "ingredients": [
+      "minecraft:copper_ingot",
+      "",
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "",
+      "minecraft:copper_ingot",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:armor_copper_metal_chestplate": {
+    "result": "iceandfire:armor_copper_metal_chestplate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:copper_ingot",
+      "",
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot"
+    ]
+  },
+  "iceandfire:armor_copper_metal_helmet": {
+    "result": "iceandfire:armor_copper_metal_helmet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "",
+      "minecraft:copper_ingot",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:armor_copper_metal_leggings": {
+    "result": "iceandfire:armor_copper_metal_leggings",
+    "count": 1,
+    "ingredients": [
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "",
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "",
+      "minecraft:copper_ingot"
+    ]
+  },
+  "iceandfire:armor_electric_boots": {
+    "result": "iceandfire:armor_electric_boots",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonscales_electric",
+      "",
+      "iceandfire:dragonscales_electric",
+      "iceandfire:dragonscales_electric",
+      "",
+      "iceandfire:dragonscales_electric",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:armor_electric_chestplate": {
+    "result": "iceandfire:armor_electric_chestplate",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonscales_electric",
+      "",
+      "iceandfire:dragonscales_electric",
+      "iceandfire:dragonscales_electric",
+      "iceandfire:dragonscales_electric",
+      "iceandfire:dragonscales_electric",
+      "iceandfire:dragonscales_electric",
+      "iceandfire:dragonscales_electric",
+      "iceandfire:dragonscales_electric"
+    ]
+  },
+  "iceandfire:armor_electric_helmet": {
+    "result": "iceandfire:armor_electric_helmet",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonscales_electric",
+      "iceandfire:dragonscales_electric",
+      "iceandfire:dragonscales_electric",
+      "iceandfire:dragonscales_electric",
+      "",
+      "iceandfire:dragonscales_electric",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:armor_electric_leggings": {
+    "result": "iceandfire:armor_electric_leggings",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonscales_electric",
+      "iceandfire:dragonscales_electric",
+      "iceandfire:dragonscales_electric",
+      "iceandfire:dragonscales_electric",
+      "",
+      "iceandfire:dragonscales_electric",
+      "iceandfire:dragonscales_electric",
+      "",
+      "iceandfire:dragonscales_electric"
+    ]
+  },
+  "iceandfire:armor_gray_boots": {
+    "result": "iceandfire:armor_gray_boots",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonscales_gray",
+      "",
+      "iceandfire:dragonscales_gray",
+      "iceandfire:dragonscales_gray",
+      "",
+      "iceandfire:dragonscales_gray",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:armor_gray_chestplate": {
+    "result": "iceandfire:armor_gray_chestplate",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonscales_gray",
+      "",
+      "iceandfire:dragonscales_gray",
+      "iceandfire:dragonscales_gray",
+      "iceandfire:dragonscales_gray",
+      "iceandfire:dragonscales_gray",
+      "iceandfire:dragonscales_gray",
+      "iceandfire:dragonscales_gray",
+      "iceandfire:dragonscales_gray"
+    ]
+  },
+  "iceandfire:armor_gray_helmet": {
+    "result": "iceandfire:armor_gray_helmet",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonscales_gray",
+      "iceandfire:dragonscales_gray",
+      "iceandfire:dragonscales_gray",
+      "iceandfire:dragonscales_gray",
+      "",
+      "iceandfire:dragonscales_gray",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:armor_gray_leggings": {
+    "result": "iceandfire:armor_gray_leggings",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonscales_gray",
+      "iceandfire:dragonscales_gray",
+      "iceandfire:dragonscales_gray",
+      "iceandfire:dragonscales_gray",
+      "",
+      "iceandfire:dragonscales_gray",
+      "iceandfire:dragonscales_gray",
+      "",
+      "iceandfire:dragonscales_gray"
+    ]
+  },
+  "iceandfire:armor_green_boots": {
+    "result": "iceandfire:armor_green_boots",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonscales_green",
+      "",
+      "iceandfire:dragonscales_green",
+      "iceandfire:dragonscales_green",
+      "",
+      "iceandfire:dragonscales_green",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:armor_green_chestplate": {
+    "result": "iceandfire:armor_green_chestplate",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonscales_green",
+      "",
+      "iceandfire:dragonscales_green",
+      "iceandfire:dragonscales_green",
+      "iceandfire:dragonscales_green",
+      "iceandfire:dragonscales_green",
+      "iceandfire:dragonscales_green",
+      "iceandfire:dragonscales_green",
+      "iceandfire:dragonscales_green"
+    ]
+  },
+  "iceandfire:armor_green_helmet": {
+    "result": "iceandfire:armor_green_helmet",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonscales_green",
+      "iceandfire:dragonscales_green",
+      "iceandfire:dragonscales_green",
+      "iceandfire:dragonscales_green",
+      "",
+      "iceandfire:dragonscales_green",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:armor_green_leggings": {
+    "result": "iceandfire:armor_green_leggings",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonscales_green",
+      "iceandfire:dragonscales_green",
+      "iceandfire:dragonscales_green",
+      "iceandfire:dragonscales_green",
+      "",
+      "iceandfire:dragonscales_green",
+      "iceandfire:dragonscales_green",
+      "",
+      "iceandfire:dragonscales_green"
+    ]
+  },
+  "iceandfire:armor_red_boots": {
+    "result": "iceandfire:armor_red_boots",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonscales_red",
+      "",
+      "iceandfire:dragonscales_red",
+      "iceandfire:dragonscales_red",
+      "",
+      "iceandfire:dragonscales_red",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:armor_red_chestplate": {
+    "result": "iceandfire:armor_red_chestplate",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonscales_red",
+      "",
+      "iceandfire:dragonscales_red",
+      "iceandfire:dragonscales_red",
+      "iceandfire:dragonscales_red",
+      "iceandfire:dragonscales_red",
+      "iceandfire:dragonscales_red",
+      "iceandfire:dragonscales_red",
+      "iceandfire:dragonscales_red"
+    ]
+  },
+  "iceandfire:armor_red_helmet": {
+    "result": "iceandfire:armor_red_helmet",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonscales_red",
+      "iceandfire:dragonscales_red",
+      "iceandfire:dragonscales_red",
+      "iceandfire:dragonscales_red",
+      "",
+      "iceandfire:dragonscales_red",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:armor_red_leggings": {
+    "result": "iceandfire:armor_red_leggings",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonscales_red",
+      "iceandfire:dragonscales_red",
+      "iceandfire:dragonscales_red",
+      "iceandfire:dragonscales_red",
+      "",
+      "iceandfire:dragonscales_red",
+      "iceandfire:dragonscales_red",
+      "",
+      "iceandfire:dragonscales_red"
+    ]
+  },
+  "iceandfire:armor_sapphire_boots": {
+    "result": "iceandfire:armor_sapphire_boots",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonscales_sapphire",
+      "",
+      "iceandfire:dragonscales_sapphire",
+      "iceandfire:dragonscales_sapphire",
+      "",
+      "iceandfire:dragonscales_sapphire",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:armor_sapphire_chestplate": {
+    "result": "iceandfire:armor_sapphire_chestplate",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonscales_sapphire",
+      "",
+      "iceandfire:dragonscales_sapphire",
+      "iceandfire:dragonscales_sapphire",
+      "iceandfire:dragonscales_sapphire",
+      "iceandfire:dragonscales_sapphire",
+      "iceandfire:dragonscales_sapphire",
+      "iceandfire:dragonscales_sapphire",
+      "iceandfire:dragonscales_sapphire"
+    ]
+  },
+  "iceandfire:armor_sapphire_helmet": {
+    "result": "iceandfire:armor_sapphire_helmet",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonscales_sapphire",
+      "iceandfire:dragonscales_sapphire",
+      "iceandfire:dragonscales_sapphire",
+      "iceandfire:dragonscales_sapphire",
+      "",
+      "iceandfire:dragonscales_sapphire",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:armor_sapphire_leggings": {
+    "result": "iceandfire:armor_sapphire_leggings",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonscales_sapphire",
+      "iceandfire:dragonscales_sapphire",
+      "iceandfire:dragonscales_sapphire",
+      "iceandfire:dragonscales_sapphire",
+      "",
+      "iceandfire:dragonscales_sapphire",
+      "iceandfire:dragonscales_sapphire",
+      "",
+      "iceandfire:dragonscales_sapphire"
+    ]
+  },
+  "iceandfire:armor_silver_boots": {
+    "result": "iceandfire:armor_silver_boots",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonscales_silver",
+      "",
+      "iceandfire:dragonscales_silver",
+      "iceandfire:dragonscales_silver",
+      "",
+      "iceandfire:dragonscales_silver",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:armor_silver_chestplate": {
+    "result": "iceandfire:armor_silver_chestplate",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonscales_silver",
+      "",
+      "iceandfire:dragonscales_silver",
+      "iceandfire:dragonscales_silver",
+      "iceandfire:dragonscales_silver",
+      "iceandfire:dragonscales_silver",
+      "iceandfire:dragonscales_silver",
+      "iceandfire:dragonscales_silver",
+      "iceandfire:dragonscales_silver"
+    ]
+  },
+  "iceandfire:armor_silver_helmet": {
+    "result": "iceandfire:armor_silver_helmet",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonscales_silver",
+      "iceandfire:dragonscales_silver",
+      "iceandfire:dragonscales_silver",
+      "iceandfire:dragonscales_silver",
+      "",
+      "iceandfire:dragonscales_silver",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:armor_silver_leggings": {
+    "result": "iceandfire:armor_silver_leggings",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonscales_silver",
+      "iceandfire:dragonscales_silver",
+      "iceandfire:dragonscales_silver",
+      "iceandfire:dragonscales_silver",
+      "",
+      "iceandfire:dragonscales_silver",
+      "iceandfire:dragonscales_silver",
+      "",
+      "iceandfire:dragonscales_silver"
+    ]
+  },
+  "iceandfire:armor_silver_metal_boots": {
+    "result": "iceandfire:armor_silver_metal_boots",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:silver_ingot",
+      "",
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot",
+      "",
+      "modern_industrialization:silver_ingot",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:armor_silver_metal_chestplate": {
+    "result": "iceandfire:armor_silver_metal_chestplate",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:silver_ingot",
+      "",
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot"
+    ]
+  },
+  "iceandfire:armor_silver_metal_helmet": {
+    "result": "iceandfire:armor_silver_metal_helmet",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot",
+      "",
+      "modern_industrialization:silver_ingot",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:armor_silver_metal_leggings": {
+    "result": "iceandfire:armor_silver_metal_leggings",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot",
+      "",
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot",
+      "",
+      "modern_industrialization:silver_ingot"
+    ]
+  },
+  "iceandfire:armor_white_boots": {
+    "result": "iceandfire:armor_white_boots",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonscales_white",
+      "",
+      "iceandfire:dragonscales_white",
+      "iceandfire:dragonscales_white",
+      "",
+      "iceandfire:dragonscales_white",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:armor_white_chestplate": {
+    "result": "iceandfire:armor_white_chestplate",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonscales_white",
+      "",
+      "iceandfire:dragonscales_white",
+      "iceandfire:dragonscales_white",
+      "iceandfire:dragonscales_white",
+      "iceandfire:dragonscales_white",
+      "iceandfire:dragonscales_white",
+      "iceandfire:dragonscales_white",
+      "iceandfire:dragonscales_white"
+    ]
+  },
+  "iceandfire:armor_white_helmet": {
+    "result": "iceandfire:armor_white_helmet",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonscales_white",
+      "iceandfire:dragonscales_white",
+      "iceandfire:dragonscales_white",
+      "iceandfire:dragonscales_white",
+      "",
+      "iceandfire:dragonscales_white",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:armor_white_leggings": {
+    "result": "iceandfire:armor_white_leggings",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonscales_white",
+      "iceandfire:dragonscales_white",
+      "iceandfire:dragonscales_white",
+      "iceandfire:dragonscales_white",
+      "",
+      "iceandfire:dragonscales_white",
+      "iceandfire:dragonscales_white",
+      "",
+      "iceandfire:dragonscales_white"
+    ]
+  },
+  "immersiveengineering:armor_faraday_boots": {
+    "result": "immersiveengineering:armor_faraday_boots",
+    "count": 1,
+    "ingredients": [
+      "minecraft:aluminum",
+      "",
+      "minecraft:aluminum",
+      "minecraft:aluminum",
+      "",
+      "minecraft:aluminum",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:armor_faraday_chestplate": {
+    "result": "immersiveengineering:armor_faraday_chestplate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:aluminum",
+      "",
+      "minecraft:aluminum",
+      "minecraft:aluminum",
+      "minecraft:aluminum",
+      "minecraft:aluminum",
+      "minecraft:aluminum",
+      "minecraft:aluminum",
+      "minecraft:aluminum"
+    ]
+  },
+  "immersiveengineering:armor_faraday_helmet": {
+    "result": "immersiveengineering:armor_faraday_helmet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:aluminum",
+      "minecraft:aluminum",
+      "minecraft:aluminum",
+      "minecraft:aluminum",
+      "",
+      "minecraft:aluminum",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:armor_faraday_leggings": {
+    "result": "immersiveengineering:armor_faraday_leggings",
+    "count": 1,
+    "ingredients": [
+      "minecraft:aluminum",
+      "minecraft:aluminum",
+      "minecraft:aluminum",
+      "minecraft:aluminum",
+      "",
+      "minecraft:aluminum",
+      "minecraft:aluminum",
+      "",
+      "minecraft:aluminum"
+    ]
+  },
+  "immersiveengineering:armor_steel_boots": {
+    "result": "immersiveengineering:armor_steel_boots",
+    "count": 1,
+    "ingredients": [
+      "minecraft:steel",
+      "",
+      "minecraft:steel",
+      "minecraft:steel",
+      "",
+      "minecraft:steel",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:armor_steel_chestplate": {
+    "result": "immersiveengineering:armor_steel_chestplate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:steel",
+      "",
+      "minecraft:steel",
+      "minecraft:steel",
+      "minecraft:steel",
+      "minecraft:steel",
+      "minecraft:steel",
+      "minecraft:steel",
+      "minecraft:steel"
+    ]
+  },
+  "immersiveengineering:armor_steel_helmet": {
+    "result": "immersiveengineering:armor_steel_helmet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:steel",
+      "minecraft:steel",
+      "minecraft:steel",
+      "minecraft:steel",
+      "",
+      "minecraft:steel",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:armor_steel_leggings": {
+    "result": "immersiveengineering:armor_steel_leggings",
+    "count": 1,
+    "ingredients": [
+      "minecraft:steel",
+      "minecraft:steel",
+      "minecraft:steel",
+      "minecraft:steel",
+      "",
+      "minecraft:steel",
+      "minecraft:steel",
+      "",
+      "minecraft:steel"
+    ]
+  },
+  "irons_spellbooks:arcane_anvil": {
+    "result": "irons_spellbooks:arcane_anvil",
+    "count": 1,
+    "ingredients": [
+      "minecraft:amethyst_block",
+      "minecraft:amethyst_block",
+      "minecraft:amethyst_block",
+      "",
+      "minecraft:diamond",
+      "",
+      "minecraft:polished_deepslate",
+      "minecraft:anvil",
+      "minecraft:polished_deepslate"
+    ]
+  },
+  "irons_spellbooks:arcane_ingot": {
+    "result": "irons_spellbooks:arcane_ingot",
+    "count": 1,
+    "ingredients": [
+      "irons_spellbooks:arcane_essence",
+      "irons_spellbooks:arcane_essence",
+      "irons_spellbooks:arcane_essence",
+      "irons_spellbooks:arcane_essence",
+      "minecraft:iron_ingot",
+      "irons_spellbooks:arcane_essence",
+      "irons_spellbooks:arcane_essence",
+      "irons_spellbooks:arcane_essence",
+      "irons_spellbooks:arcane_essence"
+    ]
+  },
+  "irons_spellbooks:arcane_rune": {
+    "result": "irons_spellbooks:arcane_rune",
+    "count": 1,
+    "ingredients": [
+      "irons_spellbooks:arcane_essence",
+      "irons_spellbooks:arcane_essence",
+      "irons_spellbooks:arcane_essence",
+      "irons_spellbooks:arcane_essence",
+      "irons_spellbooks:blank_rune",
+      "irons_spellbooks:arcane_essence",
+      "irons_spellbooks:arcane_essence",
+      "irons_spellbooks:arcane_essence",
+      "irons_spellbooks:arcane_essence"
+    ]
+  },
+  "irons_spellbooks:archevoker_boots": {
+    "result": "irons_spellbooks:archevoker_boots",
+    "count": 1,
+    "ingredients": [
+      "minecraft:wizard_base_boots",
+      "irons_spellbooks:evocation_rune",
+      "irons_spellbooks:arcane_essence",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "irons_spellbooks:archevoker_chestplate": {
+    "result": "irons_spellbooks:archevoker_chestplate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:chest",
+      "irons_spellbooks:evocation_rune",
+      "irons_spellbooks:arcane_essence",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "irons_spellbooks:archevoker_helmet": {
+    "result": "irons_spellbooks:archevoker_helmet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:wizard_base_helmet",
+      "irons_spellbooks:evocation_rune",
+      "irons_spellbooks:arcane_essence",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "irons_spellbooks:archevoker_leggings": {
+    "result": "irons_spellbooks:archevoker_leggings",
+    "count": 1,
+    "ingredients": [
+      "minecraft:wizard_base_leggings",
+      "irons_spellbooks:evocation_rune",
+      "irons_spellbooks:arcane_essence",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "irons_spellbooks:artificer_cane": {
+    "result": "irons_spellbooks:artificer_cane",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:amethyst",
+      "minecraft:crimson_planks",
+      "",
+      "minecraft:crimson_planks",
+      "minecraft:gold_ingot",
+      "minecraft:crimson_planks",
+      "minecraft:gold_ingot",
+      ""
+    ]
+  },
+  "minecraft:armor_stand": {
+    "result": "minecraft:armor_stand",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "",
+      "minecraft:stick",
+      "",
+      "minecraft:stick",
+      "minecraft:smooth_stone_slab",
+      "minecraft:stick"
+    ]
+  },
+  "modern_industrialization:arithmetic_logic_unit": {
+    "result": "modern_industrialization:arithmetic_logic_unit",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:not_gate",
+      "modern_industrialization:and_gate",
+      "modern_industrialization:not_gate",
+      "modern_industrialization:or_gate",
+      "minecraft:diamond",
+      "modern_industrialization:or_gate",
+      "modern_industrialization:not_gate",
+      "modern_industrialization:and_gate",
+      "modern_industrialization:not_gate"
+    ]
+  },
+  "minecraft:armadillo_scute": {
+    "result": "minecraft:armadillo_scute",
+    "count": 4,
+    "ingredients": [
+      "mysticalagriculture:armadillo_essence",
+      "mysticalagriculture:armadillo_essence",
+      "mysticalagriculture:armadillo_essence",
+      "mysticalagriculture:armadillo_essence",
+      "",
+      "mysticalagriculture:armadillo_essence",
+      "mysticalagriculture:armadillo_essence",
+      "mysticalagriculture:armadillo_essence",
+      "mysticalagriculture:armadillo_essence"
+    ]
+  },
+  "oritech:arcane_augment_station": {
+    "result": "oritech:arcane_augment_station",
+    "count": 1,
+    "ingredients": [
+      "oritech:overcharged_crystal",
+      "oritech:overcharged_crystal",
+      "oritech:overcharged_crystal",
+      "oritech:overcharged_crystal",
+      "oritech:enderic_lens",
+      "oritech:overcharged_crystal",
+      "minecraft:plating",
+      "minecraft:ender_eye",
+      "minecraft:plating"
+    ]
+  },
+  "pamhc2crops:arrowrootseeditem": {
+    "result": "pamhc2crops:arrowrootseeditem",
+    "count": 1,
+    "ingredients": [
+      "pamhc2crops:arrowrootitem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2crops:artichokeseeditem": {
+    "result": "pamhc2crops:artichokeseeditem",
+    "count": 1,
+    "ingredients": [
+      "pamhc2crops:artichokeitem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pneumaticcraft:armor_upgrade": {
+    "result": "pneumaticcraft:armor_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:upgrade_components",
+      "minecraft:diamond",
+      "minecraft:upgrade_components",
+      "minecraft:diamond",
+      "minecraft:iron_ingot",
+      "minecraft:diamond",
+      "minecraft:upgrade_components",
+      "minecraft:diamond",
+      "minecraft:upgrade_components"
+    ]
+  },
+  "silentgear:arrow_blueprint": {
+    "result": "silentgear:arrow_blueprint",
+    "count": 1,
+    "ingredients": [
+      "minecraft:paper",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:feather",
+      "",
+      ""
+    ]
+  },
+  "silentgear:arrow_template": {
+    "result": "silentgear:arrow_template",
+    "count": 1,
+    "ingredients": [
+      "minecraft:template_boards",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:feather",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:arctic_fur_block": {
+    "result": "twilightforest:arctic_fur_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:arctic_fur",
+      "minecraft:arctic_fur",
+      "minecraft:arctic_fur",
+      "minecraft:arctic_fur",
+      "twilightforest:arctic_fur",
+      "minecraft:arctic_fur",
+      "minecraft:arctic_fur",
+      "minecraft:arctic_fur",
+      "minecraft:arctic_fur"
+    ]
+  },
+  "twilightforest:arctic_fur": {
+    "result": "twilightforest:arctic_fur",
+    "count": 9,
+    "ingredients": [
+      "twilightforest:arctic_fur_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:arctic_boots": {
+    "result": "twilightforest:arctic_boots",
+    "count": 1,
+    "ingredients": [
+      "minecraft:arctic_fur",
+      "",
+      "minecraft:arctic_fur",
+      "minecraft:arctic_fur",
+      "",
+      "minecraft:arctic_fur",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:arctic_chestplate": {
+    "result": "twilightforest:arctic_chestplate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:arctic_fur",
+      "",
+      "minecraft:arctic_fur",
+      "minecraft:arctic_fur",
+      "minecraft:arctic_fur",
+      "minecraft:arctic_fur",
+      "minecraft:arctic_fur",
+      "minecraft:arctic_fur",
+      "minecraft:arctic_fur"
+    ]
+  },
+  "twilightforest:arctic_helmet": {
+    "result": "twilightforest:arctic_helmet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:arctic_fur",
+      "minecraft:arctic_fur",
+      "minecraft:arctic_fur",
+      "minecraft:arctic_fur",
+      "",
+      "minecraft:arctic_fur",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:arctic_leggings": {
+    "result": "twilightforest:arctic_leggings",
+    "count": 1,
+    "ingredients": [
+      "minecraft:arctic_fur",
+      "minecraft:arctic_fur",
+      "minecraft:arctic_fur",
+      "minecraft:arctic_fur",
+      "",
+      "minecraft:arctic_fur",
+      "minecraft:arctic_fur",
+      "",
+      "minecraft:arctic_fur"
+    ]
+  },
+  "twilightforest:armor_shard_cluster": {
+    "result": "twilightforest:armor_shard_cluster",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:armor_shard",
+      "twilightforest:armor_shard",
+      "twilightforest:armor_shard",
+      "twilightforest:armor_shard",
+      "twilightforest:armor_shard",
+      "twilightforest:armor_shard",
+      "twilightforest:armor_shard",
+      "twilightforest:armor_shard",
+      "twilightforest:armor_shard"
+    ]
+  }
+}

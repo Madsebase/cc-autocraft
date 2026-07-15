@@ -1,0 +1,47 @@
+{
+  "reliquary:kraken_shell": {
+    "result": "reliquary:kraken_shell",
+    "count": 1,
+    "ingredients": [
+      "reliquary:kraken_shell_fragment",
+      "reliquary:kraken_shell_fragment",
+      "reliquary:kraken_shell_fragment",
+      "reliquary:nebulous_heart",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "reliquary:kraken_shell_fragment": {
+    "result": "reliquary:kraken_shell_fragment",
+    "count": 1,
+    "ingredients": [
+      "reliquary:squid_beak",
+      "reliquary:squid_beak",
+      "reliquary:squid_beak",
+      "reliquary:slime_pearl",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xtonesreworked:kryp_block_0": {
+    "result": "xtonesreworked:kryp_block_0",
+    "count": 8,
+    "ingredients": [
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile",
+      "minecraft:dirt",
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile"
+    ]
+  }
+}

@@ -1,0 +1,4172 @@
+{
+  "actuallyadditions:diamond_aiot": {
+    "result": "actuallyadditions:diamond_aiot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:diamond_axe",
+      "minecraft:diamond_pickaxe",
+      "minecraft:diamond_sword",
+      "minecraft:diamond_shovel",
+      "minecraft:diamond_hoe",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "actuallyadditions:display_stand": {
+    "result": "actuallyadditions:display_stand",
+    "count": 1,
+    "ingredients": [
+      "actuallyadditions:display_stand",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "actuallyadditions:diamatine_crystal": {
+    "result": "actuallyadditions:diamatine_crystal",
+    "count": 9,
+    "ingredients": [
+      "actuallyadditions:diamatine_crystal_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "actuallyadditions:diamatine_crystal_block": {
+    "result": "actuallyadditions:diamatine_crystal_block",
+    "count": 1,
+    "ingredients": [
+      "actuallyadditions:diamatine_crystal",
+      "actuallyadditions:diamatine_crystal",
+      "actuallyadditions:diamatine_crystal",
+      "actuallyadditions:diamatine_crystal",
+      "actuallyadditions:diamatine_crystal",
+      "actuallyadditions:diamatine_crystal",
+      "actuallyadditions:diamatine_crystal",
+      "actuallyadditions:diamatine_crystal",
+      "actuallyadditions:diamatine_crystal"
+    ]
+  },
+  "actuallyadditions:diamatine_crystal_shard": {
+    "result": "actuallyadditions:diamatine_crystal_shard",
+    "count": 9,
+    "ingredients": [
+      "actuallyadditions:diamatine_crystal",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "aeinfinitybooster:dimension_card": {
+    "result": "aeinfinitybooster:dimension_card",
+    "count": 1,
+    "ingredients": [
+      "aeinfinitybooster:infinity_card",
+      "minecraft:nether_star",
+      "aeinfinitybooster:infinity_card",
+      "minecraft:nether_star",
+      "minecraft:ender_eye",
+      "minecraft:nether_star",
+      "aeinfinitybooster:infinity_card",
+      "minecraft:nether_star",
+      "aeinfinitybooster:infinity_card"
+    ]
+  },
+  "aether:diamond_gloves": {
+    "result": "aether:diamond_gloves",
+    "count": 1,
+    "ingredients": [
+      "minecraft:diamond",
+      "",
+      "minecraft:diamond",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:diamond_block_1x": {
+    "result": "allthecompressed:diamond_block_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:diamond_block_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:diamond_block_2x": {
+    "result": "allthecompressed:diamond_block_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:diamond_block_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:diamond_block_3x": {
+    "result": "allthecompressed:diamond_block_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:diamond_block_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:diamond_block_4x": {
+    "result": "allthecompressed:diamond_block_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:diamond_block_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:diamond_block_5x": {
+    "result": "allthecompressed:diamond_block_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:diamond_block_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:diamond_block_6x": {
+    "result": "allthecompressed:diamond_block_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:diamond_block_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:diamond_block_7x": {
+    "result": "allthecompressed:diamond_block_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:diamond_block_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:diamond_block_8x": {
+    "result": "allthecompressed:diamond_block_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:diamond_block_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:diamond_block_9x": {
+    "result": "allthecompressed:diamond_block_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:diamond_block_8x",
+      "allthecompressed:diamond_block_8x",
+      "allthecompressed:diamond_block_8x",
+      "allthecompressed:diamond_block_8x",
+      "allthecompressed:diamond_block_8x",
+      "allthecompressed:diamond_block_8x",
+      "allthecompressed:diamond_block_8x",
+      "allthecompressed:diamond_block_8x",
+      "allthecompressed:diamond_block_8x"
+    ]
+  },
+  "allthecompressed:diorite_1x": {
+    "result": "allthecompressed:diorite_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:diorite_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:diorite_2x": {
+    "result": "allthecompressed:diorite_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:diorite_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:diorite_3x": {
+    "result": "allthecompressed:diorite_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:diorite_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:diorite_4x": {
+    "result": "allthecompressed:diorite_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:diorite_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:diorite_5x": {
+    "result": "allthecompressed:diorite_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:diorite_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:diorite_6x": {
+    "result": "allthecompressed:diorite_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:diorite_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:diorite_7x": {
+    "result": "allthecompressed:diorite_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:diorite_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:diorite_8x": {
+    "result": "allthecompressed:diorite_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:diorite_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:diorite_9x": {
+    "result": "allthecompressed:diorite_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:diorite_8x",
+      "allthecompressed:diorite_8x",
+      "allthecompressed:diorite_8x",
+      "allthecompressed:diorite_8x",
+      "allthecompressed:diorite_8x",
+      "allthecompressed:diorite_8x",
+      "allthecompressed:diorite_8x",
+      "allthecompressed:diorite_8x",
+      "allthecompressed:diorite_8x"
+    ]
+  },
+  "allthecompressed:dirt_1x": {
+    "result": "allthecompressed:dirt_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:dirt_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:dirt_2x": {
+    "result": "allthecompressed:dirt_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:dirt_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:dirt_3x": {
+    "result": "allthecompressed:dirt_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:dirt_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:dirt_4x": {
+    "result": "allthecompressed:dirt_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:dirt_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:dirt_5x": {
+    "result": "allthecompressed:dirt_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:dirt_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:dirt_6x": {
+    "result": "allthecompressed:dirt_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:dirt_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:dirt_7x": {
+    "result": "allthecompressed:dirt_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:dirt_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:dirt_8x": {
+    "result": "allthecompressed:dirt_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:dirt_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:dirt_9x": {
+    "result": "allthecompressed:dirt_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:dirt_8x",
+      "allthecompressed:dirt_8x",
+      "allthecompressed:dirt_8x",
+      "allthecompressed:dirt_8x",
+      "allthecompressed:dirt_8x",
+      "allthecompressed:dirt_8x",
+      "allthecompressed:dirt_8x",
+      "allthecompressed:dirt_8x",
+      "allthecompressed:dirt_8x"
+    ]
+  },
+  "minecraft:diamond_block": {
+    "result": "minecraft:diamond_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond"
+    ]
+  },
+  "minecraft:diorite": {
+    "result": "minecraft:diorite",
+    "count": 16,
+    "ingredients": [
+      "",
+      "mysticalagriculture:nether_quartz_essence",
+      "",
+      "mysticalagriculture:stone_essence",
+      "mysticalagriculture:stone_essence",
+      "mysticalagriculture:stone_essence",
+      "",
+      "mysticalagriculture:stone_essence",
+      ""
+    ]
+  },
+  "minecraft:dirt": {
+    "result": "minecraft:dirt",
+    "count": 2,
+    "ingredients": [
+      "minecraft:sand",
+      "minecraft:bio",
+      "",
+      "minecraft:bio",
+      "minecraft:sand",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "alltheores:diamond_gear": {
+    "result": "alltheores:diamond_gear",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:diamond",
+      "",
+      "minecraft:diamond",
+      "minecraft:iron",
+      "minecraft:diamond",
+      "",
+      "minecraft:diamond",
+      ""
+    ]
+  },
+  "alltheores:diamond_plate": {
+    "result": "alltheores:diamond_plate",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "minecraft:ore_hammers",
+      "minecraft:diamond",
+      "",
+      "minecraft:diamond",
+      "",
+      ""
+    ]
+  },
+  "alltheores:diamond_rod": {
+    "result": "alltheores:diamond_rod",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "minecraft:diamond",
+      "minecraft:ore_hammers",
+      "minecraft:diamond",
+      ""
+    ]
+  },
+  "alltheores:diamond_dust": {
+    "result": "alltheores:diamond_dust",
+    "count": 2,
+    "ingredients": [
+      "minecraft:ore_hammers",
+      "minecraft:diamond",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "apotheosis:diamond_upgrade_smithing_template": {
+    "result": "apotheosis:diamond_upgrade_smithing_template",
+    "count": 2,
+    "ingredients": [
+      "",
+      "apotheosis:rare_material",
+      "",
+      "minecraft:stone",
+      "apotheosis:gem_fused_slate",
+      "minecraft:stone",
+      "minecraft:stone",
+      "apotheosis:gem_fused_slate",
+      "minecraft:stone"
+    ]
+  },
+  "aquaculture:diamond_fillet_knife": {
+    "result": "aquaculture:diamond_fillet_knife",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "minecraft:diamond",
+      "",
+      "minecraft:diamond",
+      "",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "aquaculture:diamond_fishing_rod": {
+    "result": "aquaculture:diamond_fishing_rod",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "minecraft:diamond",
+      "",
+      "minecraft:diamond",
+      "minecraft:string",
+      "minecraft:stick",
+      "",
+      "minecraft:string"
+    ]
+  },
+  "aquaculture:diamond_hook": {
+    "result": "aquaculture:diamond_hook",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:diamond",
+      "",
+      "minecraft:diamond",
+      "aquaculture:iron_hook",
+      "minecraft:diamond",
+      "",
+      "minecraft:diamond",
+      ""
+    ]
+  },
+  "bibliocraft:dinner_plate": {
+    "result": "bibliocraft:dinner_plate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:smooth_quartz_slab",
+      "minecraft:smooth_quartz_slab",
+      "minecraft:smooth_quartz_slab",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:disc_rack": {
+    "result": "bibliocraft:disc_rack",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:wooden_slabs",
+      "minecraft:wooden_slabs",
+      "minecraft:wooden_slabs",
+      "",
+      "",
+      ""
+    ]
+  },
+  "computercraft:disk_drive": {
+    "result": "computercraft:disk_drive",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:redstone",
+      "minecraft:stone"
+    ]
+  },
+  "constructionstick:diamond_stick": {
+    "result": "constructionstick:diamond_stick",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "minecraft:diamond",
+      "",
+      "minecraft:stick",
+      "",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "create:display_board": {
+    "result": "create:display_board",
+    "count": 2,
+    "ingredients": [
+      "create:andesite_alloy",
+      "create:electron_tube",
+      "create:andesite_alloy",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:display_link": {
+    "result": "create:display_link",
+    "count": 1,
+    "ingredients": [
+      "create:transmitter",
+      "",
+      "",
+      "create:brass_casing",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "createaddition:diamond_grit_sandpaper": {
+    "result": "createaddition:diamond_grit_sandpaper",
+    "count": 1,
+    "ingredients": [
+      "minecraft:paper",
+      "minecraft:diamond",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "createaddition:digital_adapter": {
+    "result": "createaddition:digital_adapter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:wired_modem",
+      "minecraft:brass",
+      "minecraft:redstone_torch",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dimstorage:dimensional_chest": {
+    "result": "dimstorage:dimensional_chest",
+    "count": 1,
+    "ingredients": [
+      "dimstorage:dim_wall",
+      "dimstorage:dim_wall",
+      "dimstorage:dim_wall",
+      "dimstorage:dim_wall",
+      "dimstorage:solid_dim_core",
+      "dimstorage:dim_wall",
+      "dimstorage:dim_wall",
+      "dimstorage:dim_wall",
+      "dimstorage:dim_wall"
+    ]
+  },
+  "dimstorage:dimensional_tablet": {
+    "result": "dimstorage:dimensional_tablet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:glass",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:glass",
+      "minecraft:iron_ingot",
+      "minecraft:obsidian",
+      "dimstorage:solid_dim_core",
+      "minecraft:obsidian"
+    ]
+  },
+  "dimstorage:dimensional_tank": {
+    "result": "dimstorage:dimensional_tank",
+    "count": 1,
+    "ingredients": [
+      "dimstorage:dim_wall",
+      "minecraft:glass",
+      "dimstorage:dim_wall",
+      "minecraft:glass",
+      "minecraft:cauldron",
+      "minecraft:glass",
+      "dimstorage:dim_wall",
+      "dimstorage:solid_dim_core",
+      "dimstorage:dim_wall"
+    ]
+  },
+  "dimstorage:dim_core": {
+    "result": "dimstorage:dim_core",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:redstone",
+      "minecraft:iron_ingot",
+      "minecraft:redstone",
+      "minecraft:diamond",
+      "minecraft:redstone",
+      "minecraft:iron_ingot",
+      "minecraft:redstone",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "dimstorage:dim_wall": {
+    "result": "dimstorage:dim_wall",
+    "count": 4,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:redstone",
+      "minecraft:iron_ingot",
+      "minecraft:redstone",
+      "minecraft:ender_pearl",
+      "minecraft:redstone",
+      "minecraft:iron_ingot",
+      "minecraft:redstone",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "disenchanting_table:disenchanting_table": {
+    "result": "disenchanting_table:disenchanting_table",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:lapis_lazuli",
+      "",
+      "minecraft:diamond",
+      "minecraft:obsidian",
+      "minecraft:diamond",
+      "minecraft:obsidian",
+      "minecraft:obsidian",
+      "minecraft:obsidian"
+    ]
+  },
+  "draconicevolution:disenchanter": {
+    "result": "draconicevolution:disenchanter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:emerald",
+      "draconicevolution:draconium_core",
+      "minecraft:emerald",
+      "minecraft:enchanted_book",
+      "minecraft:enchanting_table",
+      "minecraft:enchanted_book",
+      "minecraft:bookshelf",
+      "minecraft:bookshelf",
+      "minecraft:bookshelf"
+    ]
+  },
+  "draconicevolution:dislocation_inhibitor": {
+    "result": "draconicevolution:dislocation_inhibitor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_bars",
+      "draconicevolution:magnet",
+      "minecraft:iron_bars",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "draconicevolution:dislocator_pedestal": {
+    "result": "draconicevolution:dislocator_pedestal",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stone_pressure_plate",
+      "",
+      "",
+      "minecraft:stone",
+      "",
+      "minecraft:stone_slab",
+      "minecraft:blaze_powder",
+      "minecraft:stone_slab"
+    ]
+  },
+  "draconicevolution:dislocator_receptacle": {
+    "result": "draconicevolution:dislocator_receptacle",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "draconicevolution:draconium_core",
+      "minecraft:iron_ingot",
+      "",
+      "draconicevolution:infused_obsidian",
+      "",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "draconicevolution:dislocator": {
+    "result": "draconicevolution:dislocator",
+    "count": 1,
+    "ingredients": [
+      "minecraft:blaze_powder",
+      "minecraft:draconium",
+      "minecraft:blaze_powder",
+      "minecraft:draconium",
+      "minecraft:ender_eye",
+      "minecraft:draconium",
+      "minecraft:blaze_powder",
+      "minecraft:draconium",
+      "minecraft:blaze_powder"
+    ]
+  },
+  "minecraft:dispenser": {
+    "result": "minecraft:dispenser",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "minecraft:string",
+      "minecraft:stick",
+      "minecraft:dropper",
+      "minecraft:string",
+      "",
+      "minecraft:stick",
+      "minecraft:string"
+    ]
+  },
+  "extrastorage:diamond_crafter": {
+    "result": "extrastorage:diamond_crafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:diamond",
+      "minecraft:chest",
+      "minecraft:diamond",
+      "extrastorage:neural_processor",
+      "extrastorage:gold_crafter",
+      "extrastorage:neural_processor",
+      "minecraft:diamond",
+      "",
+      "minecraft:diamond"
+    ]
+  },
+  "extrastorage:disk_1024k": {
+    "result": "extrastorage:disk_1024k",
+    "count": 1,
+    "ingredients": [
+      "refinedstorage:storage_housing",
+      "minecraft:1024k",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "extrastorage:disk_1048576b_fluid": {
+    "result": "extrastorage:disk_1048576b_fluid",
+    "count": 1,
+    "ingredients": [
+      "refinedstorage:storage_housing",
+      "minecraft:1048576b",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "extrastorage:disk_16384b_fluid": {
+    "result": "extrastorage:disk_16384b_fluid",
+    "count": 1,
+    "ingredients": [
+      "refinedstorage:storage_housing",
+      "minecraft:16384b",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "extrastorage:disk_16384k": {
+    "result": "extrastorage:disk_16384k",
+    "count": 1,
+    "ingredients": [
+      "refinedstorage:storage_housing",
+      "minecraft:16384k",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "extrastorage:disk_256k": {
+    "result": "extrastorage:disk_256k",
+    "count": 1,
+    "ingredients": [
+      "refinedstorage:storage_housing",
+      "minecraft:256k",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "extrastorage:disk_262144b_fluid": {
+    "result": "extrastorage:disk_262144b_fluid",
+    "count": 1,
+    "ingredients": [
+      "refinedstorage:storage_housing",
+      "minecraft:262144b",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "extrastorage:disk_4096k": {
+    "result": "extrastorage:disk_4096k",
+    "count": 1,
+    "ingredients": [
+      "refinedstorage:storage_housing",
+      "minecraft:4096k",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "extrastorage:disk_65536b_fluid": {
+    "result": "extrastorage:disk_65536b_fluid",
+    "count": 1,
+    "ingredients": [
+      "refinedstorage:storage_housing",
+      "minecraft:65536b",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "farmersdelight:diamond_knife": {
+    "result": "farmersdelight:diamond_knife",
+    "count": 1,
+    "ingredients": [
+      "minecraft:diamond",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "forbidden_arcanus:diamond_blacksmith_gavel": {
+    "result": "forbidden_arcanus:diamond_blacksmith_gavel",
+    "count": 1,
+    "ingredients": [
+      "minecraft:diamond",
+      "forbidden_arcanus:blacksmith_gavel_head",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:stick",
+      "minecraft:diamond",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "functionalstorage:diamond_upgrade": {
+    "result": "functionalstorage:diamond_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:chest",
+      "functionalstorage:gold_upgrade",
+      "minecraft:chest",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond"
+    ]
+  },
+  "generatorgalore:diamond_generator_64x": {
+    "result": "generatorgalore:diamond_generator_64x",
+    "count": 1,
+    "ingredients": [
+      "generatorgalore:diamond_generator_8x",
+      "generatorgalore:diamond_generator_8x",
+      "generatorgalore:diamond_generator_8x",
+      "generatorgalore:diamond_generator_8x",
+      "minecraft:conduit",
+      "generatorgalore:diamond_generator_8x",
+      "generatorgalore:diamond_generator_8x",
+      "generatorgalore:diamond_generator_8x",
+      "generatorgalore:diamond_generator_8x"
+    ]
+  },
+  "generatorgalore:diamond_generator_8x": {
+    "result": "generatorgalore:diamond_generator_8x",
+    "count": 1,
+    "ingredients": [
+      "generatorgalore:diamond_generator",
+      "generatorgalore:diamond_generator",
+      "generatorgalore:diamond_generator",
+      "generatorgalore:diamond_generator",
+      "minecraft:echo_shard",
+      "generatorgalore:diamond_generator",
+      "generatorgalore:diamond_generator",
+      "generatorgalore:diamond_generator",
+      "generatorgalore:diamond_generator"
+    ]
+  },
+  "generatorgalore:diamond_generator": {
+    "result": "generatorgalore:diamond_generator",
+    "count": 1,
+    "ingredients": [
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "generatorgalore:gold_generator",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:redstone",
+      "minecraft:diamond"
+    ]
+  },
+  "generatorgalore:diamond_to_emerald_upgrade": {
+    "result": "generatorgalore:diamond_to_emerald_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:emerald",
+      "minecraft:emerald",
+      "minecraft:emerald",
+      "minecraft:emerald",
+      "minecraft:item_frame",
+      "minecraft:emerald",
+      "minecraft:emerald",
+      "minecraft:redstone",
+      "minecraft:emerald"
+    ]
+  },
+  "generatorgalore:diamond_to_obsidian_upgrade": {
+    "result": "generatorgalore:diamond_to_obsidian_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:obsidians",
+      "minecraft:obsidians",
+      "minecraft:obsidians",
+      "minecraft:obsidians",
+      "minecraft:item_frame",
+      "minecraft:obsidians",
+      "minecraft:obsidians",
+      "minecraft:redstone",
+      "minecraft:obsidians"
+    ]
+  },
+  "handcrafted:diorite_corner_trim": {
+    "result": "handcrafted:diorite_corner_trim",
+    "count": 4,
+    "ingredients": [
+      "minecraft:diorite",
+      "",
+      "",
+      "minecraft:diorite",
+      "",
+      "",
+      "minecraft:diorite",
+      "minecraft:diorite",
+      "minecraft:diorite"
+    ]
+  },
+  "handcrafted:diorite_pillar_trim": {
+    "result": "handcrafted:diorite_pillar_trim",
+    "count": 4,
+    "ingredients": [
+      "minecraft:diorite",
+      "",
+      "",
+      "minecraft:diorite",
+      "",
+      "",
+      "minecraft:diorite",
+      "",
+      ""
+    ]
+  },
+  "herbsandharvest:dinner_plate": {
+    "result": "herbsandharvest:dinner_plate",
+    "count": 4,
+    "ingredients": [
+      "minecraft:quartz",
+      "",
+      "minecraft:quartz",
+      "",
+      "minecraft:quartz",
+      "",
+      "minecraft:quartz",
+      "",
+      "minecraft:quartz"
+    ]
+  },
+  "iceandfire:diamond_hippogryph_armor": {
+    "result": "iceandfire:diamond_hippogryph_armor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:feather",
+      "minecraft:diamond_horse_armor",
+      "minecraft:feather",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "industrialforegoing:diamond_gear": {
+    "result": "industrialforegoing:diamond_gear",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:diamond",
+      "",
+      "minecraft:diamond",
+      "",
+      "minecraft:diamond",
+      "",
+      "minecraft:diamond",
+      ""
+    ]
+  },
+  "industrialforegoing:dissolution_chamber": {
+    "result": "industrialforegoing:dissolution_chamber",
+    "count": 1,
+    "ingredients": [
+      "minecraft:plastics",
+      "minecraft:chest",
+      "minecraft:plastics",
+      "minecraft:bucket",
+      "minecraft:pity",
+      "minecraft:bucket",
+      "minecraft:gold_ingot",
+      "minecraft:diamond",
+      "minecraft:gold_ingot"
+    ]
+  },
+  "ironfurnaces:diamond_furnace": {
+    "result": "ironfurnaces:diamond_furnace",
+    "count": 1,
+    "ingredients": [
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:glass",
+      "minecraft:gold",
+      "minecraft:glass",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond"
+    ]
+  },
+  "irons_spellbooks:diamond_spell_book": {
+    "result": "irons_spellbooks:diamond_spell_book",
+    "count": 1,
+    "ingredients": [
+      "minecraft:diamond",
+      "irons_spellbooks:hogskin",
+      "irons_spellbooks:hogskin",
+      "irons_spellbooks:magic_cloth",
+      "minecraft:enchanted_book",
+      "irons_spellbooks:magic_cloth",
+      "minecraft:diamond",
+      "irons_spellbooks:hogskin",
+      "irons_spellbooks:hogskin"
+    ]
+  },
+  "irons_spellbooks:divine_pearl": {
+    "result": "irons_spellbooks:divine_pearl",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "minecraft:amethyst",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "luminax:dim_black_luminax_block": {
+    "result": "luminax:dim_black_luminax_block",
+    "count": 8,
+    "ingredients": [
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:black",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks"
+    ]
+  },
+  "luminax:dim_black_luminax_button": {
+    "result": "luminax:dim_black_luminax_button",
+    "count": 1,
+    "ingredients": [
+      "luminax:dim_black_luminax_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "luminax:dim_black_luminax_pressure_plate": {
+    "result": "luminax:dim_black_luminax_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "luminax:dim_black_luminax_block",
+      "luminax:dim_black_luminax_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "luminax:dim_black_luminax_slab": {
+    "result": "luminax:dim_black_luminax_slab",
+    "count": 6,
+    "ingredients": [
+      "luminax:dim_black_luminax_block",
+      "luminax:dim_black_luminax_block",
+      "luminax:dim_black_luminax_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "luminax:dim_black_luminax_stairs": {
+    "result": "luminax:dim_black_luminax_stairs",
+    "count": 4,
+    "ingredients": [
+      "luminax:dim_black_luminax_block",
+      "",
+      "",
+      "luminax:dim_black_luminax_block",
+      "luminax:dim_black_luminax_block",
+      "",
+      "luminax:dim_black_luminax_block",
+      "luminax:dim_black_luminax_block",
+      "luminax:dim_black_luminax_block"
+    ]
+  },
+  "luminax:dim_black_luminax_wall": {
+    "result": "luminax:dim_black_luminax_wall",
+    "count": 6,
+    "ingredients": [
+      "luminax:dim_black_luminax_block",
+      "luminax:dim_black_luminax_block",
+      "luminax:dim_black_luminax_block",
+      "luminax:dim_black_luminax_block",
+      "luminax:dim_black_luminax_block",
+      "luminax:dim_black_luminax_block",
+      "",
+      "",
+      ""
+    ]
+  },
+  "luminax:dim_blue_luminax_block": {
+    "result": "luminax:dim_blue_luminax_block",
+    "count": 8,
+    "ingredients": [
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:blue",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks"
+    ]
+  },
+  "luminax:dim_blue_luminax_button": {
+    "result": "luminax:dim_blue_luminax_button",
+    "count": 1,
+    "ingredients": [
+      "luminax:dim_blue_luminax_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "luminax:dim_blue_luminax_pressure_plate": {
+    "result": "luminax:dim_blue_luminax_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "luminax:dim_blue_luminax_block",
+      "luminax:dim_blue_luminax_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "luminax:dim_blue_luminax_slab": {
+    "result": "luminax:dim_blue_luminax_slab",
+    "count": 6,
+    "ingredients": [
+      "luminax:dim_blue_luminax_block",
+      "luminax:dim_blue_luminax_block",
+      "luminax:dim_blue_luminax_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "luminax:dim_blue_luminax_stairs": {
+    "result": "luminax:dim_blue_luminax_stairs",
+    "count": 4,
+    "ingredients": [
+      "luminax:dim_blue_luminax_block",
+      "",
+      "",
+      "luminax:dim_blue_luminax_block",
+      "luminax:dim_blue_luminax_block",
+      "",
+      "luminax:dim_blue_luminax_block",
+      "luminax:dim_blue_luminax_block",
+      "luminax:dim_blue_luminax_block"
+    ]
+  },
+  "luminax:dim_blue_luminax_wall": {
+    "result": "luminax:dim_blue_luminax_wall",
+    "count": 6,
+    "ingredients": [
+      "luminax:dim_blue_luminax_block",
+      "luminax:dim_blue_luminax_block",
+      "luminax:dim_blue_luminax_block",
+      "luminax:dim_blue_luminax_block",
+      "luminax:dim_blue_luminax_block",
+      "luminax:dim_blue_luminax_block",
+      "",
+      "",
+      ""
+    ]
+  },
+  "luminax:dim_brown_luminax_block": {
+    "result": "luminax:dim_brown_luminax_block",
+    "count": 8,
+    "ingredients": [
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:brown",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks"
+    ]
+  },
+  "luminax:dim_brown_luminax_button": {
+    "result": "luminax:dim_brown_luminax_button",
+    "count": 1,
+    "ingredients": [
+      "luminax:dim_brown_luminax_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "luminax:dim_brown_luminax_pressure_plate": {
+    "result": "luminax:dim_brown_luminax_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "luminax:dim_brown_luminax_block",
+      "luminax:dim_brown_luminax_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "luminax:dim_brown_luminax_slab": {
+    "result": "luminax:dim_brown_luminax_slab",
+    "count": 6,
+    "ingredients": [
+      "luminax:dim_brown_luminax_block",
+      "luminax:dim_brown_luminax_block",
+      "luminax:dim_brown_luminax_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "luminax:dim_brown_luminax_stairs": {
+    "result": "luminax:dim_brown_luminax_stairs",
+    "count": 4,
+    "ingredients": [
+      "luminax:dim_brown_luminax_block",
+      "",
+      "",
+      "luminax:dim_brown_luminax_block",
+      "luminax:dim_brown_luminax_block",
+      "",
+      "luminax:dim_brown_luminax_block",
+      "luminax:dim_brown_luminax_block",
+      "luminax:dim_brown_luminax_block"
+    ]
+  },
+  "luminax:dim_brown_luminax_wall": {
+    "result": "luminax:dim_brown_luminax_wall",
+    "count": 6,
+    "ingredients": [
+      "luminax:dim_brown_luminax_block",
+      "luminax:dim_brown_luminax_block",
+      "luminax:dim_brown_luminax_block",
+      "luminax:dim_brown_luminax_block",
+      "luminax:dim_brown_luminax_block",
+      "luminax:dim_brown_luminax_block",
+      "",
+      "",
+      ""
+    ]
+  },
+  "luminax:dim_cyan_luminax_block": {
+    "result": "luminax:dim_cyan_luminax_block",
+    "count": 8,
+    "ingredients": [
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:cyan",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks"
+    ]
+  },
+  "luminax:dim_cyan_luminax_button": {
+    "result": "luminax:dim_cyan_luminax_button",
+    "count": 1,
+    "ingredients": [
+      "luminax:dim_cyan_luminax_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "luminax:dim_cyan_luminax_pressure_plate": {
+    "result": "luminax:dim_cyan_luminax_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "luminax:dim_cyan_luminax_block",
+      "luminax:dim_cyan_luminax_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "luminax:dim_cyan_luminax_slab": {
+    "result": "luminax:dim_cyan_luminax_slab",
+    "count": 6,
+    "ingredients": [
+      "luminax:dim_cyan_luminax_block",
+      "luminax:dim_cyan_luminax_block",
+      "luminax:dim_cyan_luminax_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "luminax:dim_cyan_luminax_stairs": {
+    "result": "luminax:dim_cyan_luminax_stairs",
+    "count": 4,
+    "ingredients": [
+      "luminax:dim_cyan_luminax_block",
+      "",
+      "",
+      "luminax:dim_cyan_luminax_block",
+      "luminax:dim_cyan_luminax_block",
+      "",
+      "luminax:dim_cyan_luminax_block",
+      "luminax:dim_cyan_luminax_block",
+      "luminax:dim_cyan_luminax_block"
+    ]
+  },
+  "luminax:dim_cyan_luminax_wall": {
+    "result": "luminax:dim_cyan_luminax_wall",
+    "count": 6,
+    "ingredients": [
+      "luminax:dim_cyan_luminax_block",
+      "luminax:dim_cyan_luminax_block",
+      "luminax:dim_cyan_luminax_block",
+      "luminax:dim_cyan_luminax_block",
+      "luminax:dim_cyan_luminax_block",
+      "luminax:dim_cyan_luminax_block",
+      "",
+      "",
+      ""
+    ]
+  },
+  "luminax:dim_gray_luminax_block": {
+    "result": "luminax:dim_gray_luminax_block",
+    "count": 8,
+    "ingredients": [
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:gray",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks"
+    ]
+  },
+  "luminax:dim_gray_luminax_button": {
+    "result": "luminax:dim_gray_luminax_button",
+    "count": 1,
+    "ingredients": [
+      "luminax:dim_gray_luminax_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "luminax:dim_gray_luminax_pressure_plate": {
+    "result": "luminax:dim_gray_luminax_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "luminax:dim_gray_luminax_block",
+      "luminax:dim_gray_luminax_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "luminax:dim_gray_luminax_slab": {
+    "result": "luminax:dim_gray_luminax_slab",
+    "count": 6,
+    "ingredients": [
+      "luminax:dim_gray_luminax_block",
+      "luminax:dim_gray_luminax_block",
+      "luminax:dim_gray_luminax_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "luminax:dim_gray_luminax_stairs": {
+    "result": "luminax:dim_gray_luminax_stairs",
+    "count": 4,
+    "ingredients": [
+      "luminax:dim_gray_luminax_block",
+      "",
+      "",
+      "luminax:dim_gray_luminax_block",
+      "luminax:dim_gray_luminax_block",
+      "",
+      "luminax:dim_gray_luminax_block",
+      "luminax:dim_gray_luminax_block",
+      "luminax:dim_gray_luminax_block"
+    ]
+  },
+  "luminax:dim_gray_luminax_wall": {
+    "result": "luminax:dim_gray_luminax_wall",
+    "count": 6,
+    "ingredients": [
+      "luminax:dim_gray_luminax_block",
+      "luminax:dim_gray_luminax_block",
+      "luminax:dim_gray_luminax_block",
+      "luminax:dim_gray_luminax_block",
+      "luminax:dim_gray_luminax_block",
+      "luminax:dim_gray_luminax_block",
+      "",
+      "",
+      ""
+    ]
+  },
+  "luminax:dim_green_luminax_block": {
+    "result": "luminax:dim_green_luminax_block",
+    "count": 8,
+    "ingredients": [
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:green",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks"
+    ]
+  },
+  "luminax:dim_green_luminax_button": {
+    "result": "luminax:dim_green_luminax_button",
+    "count": 1,
+    "ingredients": [
+      "luminax:dim_green_luminax_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "luminax:dim_green_luminax_pressure_plate": {
+    "result": "luminax:dim_green_luminax_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "luminax:dim_green_luminax_block",
+      "luminax:dim_green_luminax_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "luminax:dim_green_luminax_slab": {
+    "result": "luminax:dim_green_luminax_slab",
+    "count": 6,
+    "ingredients": [
+      "luminax:dim_green_luminax_block",
+      "luminax:dim_green_luminax_block",
+      "luminax:dim_green_luminax_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "luminax:dim_green_luminax_stairs": {
+    "result": "luminax:dim_green_luminax_stairs",
+    "count": 4,
+    "ingredients": [
+      "luminax:dim_green_luminax_block",
+      "",
+      "",
+      "luminax:dim_green_luminax_block",
+      "luminax:dim_green_luminax_block",
+      "",
+      "luminax:dim_green_luminax_block",
+      "luminax:dim_green_luminax_block",
+      "luminax:dim_green_luminax_block"
+    ]
+  },
+  "luminax:dim_green_luminax_wall": {
+    "result": "luminax:dim_green_luminax_wall",
+    "count": 6,
+    "ingredients": [
+      "luminax:dim_green_luminax_block",
+      "luminax:dim_green_luminax_block",
+      "luminax:dim_green_luminax_block",
+      "luminax:dim_green_luminax_block",
+      "luminax:dim_green_luminax_block",
+      "luminax:dim_green_luminax_block",
+      "",
+      "",
+      ""
+    ]
+  },
+  "luminax:dim_light_blue_luminax_block": {
+    "result": "luminax:dim_light_blue_luminax_block",
+    "count": 8,
+    "ingredients": [
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:light_blue",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks"
+    ]
+  },
+  "luminax:dim_light_blue_luminax_button": {
+    "result": "luminax:dim_light_blue_luminax_button",
+    "count": 1,
+    "ingredients": [
+      "luminax:dim_light_blue_luminax_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "luminax:dim_light_blue_luminax_pressure_plate": {
+    "result": "luminax:dim_light_blue_luminax_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "luminax:dim_light_blue_luminax_block",
+      "luminax:dim_light_blue_luminax_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "luminax:dim_light_blue_luminax_slab": {
+    "result": "luminax:dim_light_blue_luminax_slab",
+    "count": 6,
+    "ingredients": [
+      "luminax:dim_light_blue_luminax_block",
+      "luminax:dim_light_blue_luminax_block",
+      "luminax:dim_light_blue_luminax_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "luminax:dim_light_blue_luminax_stairs": {
+    "result": "luminax:dim_light_blue_luminax_stairs",
+    "count": 4,
+    "ingredients": [
+      "luminax:dim_light_blue_luminax_block",
+      "",
+      "",
+      "luminax:dim_light_blue_luminax_block",
+      "luminax:dim_light_blue_luminax_block",
+      "",
+      "luminax:dim_light_blue_luminax_block",
+      "luminax:dim_light_blue_luminax_block",
+      "luminax:dim_light_blue_luminax_block"
+    ]
+  },
+  "luminax:dim_light_blue_luminax_wall": {
+    "result": "luminax:dim_light_blue_luminax_wall",
+    "count": 6,
+    "ingredients": [
+      "luminax:dim_light_blue_luminax_block",
+      "luminax:dim_light_blue_luminax_block",
+      "luminax:dim_light_blue_luminax_block",
+      "luminax:dim_light_blue_luminax_block",
+      "luminax:dim_light_blue_luminax_block",
+      "luminax:dim_light_blue_luminax_block",
+      "",
+      "",
+      ""
+    ]
+  },
+  "luminax:dim_light_gray_luminax_block": {
+    "result": "luminax:dim_light_gray_luminax_block",
+    "count": 8,
+    "ingredients": [
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:light_gray",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks"
+    ]
+  },
+  "luminax:dim_light_gray_luminax_button": {
+    "result": "luminax:dim_light_gray_luminax_button",
+    "count": 1,
+    "ingredients": [
+      "luminax:dim_light_gray_luminax_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "luminax:dim_light_gray_luminax_pressure_plate": {
+    "result": "luminax:dim_light_gray_luminax_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "luminax:dim_light_gray_luminax_block",
+      "luminax:dim_light_gray_luminax_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "luminax:dim_light_gray_luminax_slab": {
+    "result": "luminax:dim_light_gray_luminax_slab",
+    "count": 6,
+    "ingredients": [
+      "luminax:dim_light_gray_luminax_block",
+      "luminax:dim_light_gray_luminax_block",
+      "luminax:dim_light_gray_luminax_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "luminax:dim_light_gray_luminax_stairs": {
+    "result": "luminax:dim_light_gray_luminax_stairs",
+    "count": 4,
+    "ingredients": [
+      "luminax:dim_light_gray_luminax_block",
+      "",
+      "",
+      "luminax:dim_light_gray_luminax_block",
+      "luminax:dim_light_gray_luminax_block",
+      "",
+      "luminax:dim_light_gray_luminax_block",
+      "luminax:dim_light_gray_luminax_block",
+      "luminax:dim_light_gray_luminax_block"
+    ]
+  },
+  "luminax:dim_light_gray_luminax_wall": {
+    "result": "luminax:dim_light_gray_luminax_wall",
+    "count": 6,
+    "ingredients": [
+      "luminax:dim_light_gray_luminax_block",
+      "luminax:dim_light_gray_luminax_block",
+      "luminax:dim_light_gray_luminax_block",
+      "luminax:dim_light_gray_luminax_block",
+      "luminax:dim_light_gray_luminax_block",
+      "luminax:dim_light_gray_luminax_block",
+      "",
+      "",
+      ""
+    ]
+  },
+  "luminax:dim_lime_luminax_block": {
+    "result": "luminax:dim_lime_luminax_block",
+    "count": 8,
+    "ingredients": [
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:lime",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks"
+    ]
+  },
+  "luminax:dim_lime_luminax_button": {
+    "result": "luminax:dim_lime_luminax_button",
+    "count": 1,
+    "ingredients": [
+      "luminax:dim_lime_luminax_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "luminax:dim_lime_luminax_pressure_plate": {
+    "result": "luminax:dim_lime_luminax_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "luminax:dim_lime_luminax_block",
+      "luminax:dim_lime_luminax_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "luminax:dim_lime_luminax_slab": {
+    "result": "luminax:dim_lime_luminax_slab",
+    "count": 6,
+    "ingredients": [
+      "luminax:dim_lime_luminax_block",
+      "luminax:dim_lime_luminax_block",
+      "luminax:dim_lime_luminax_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "luminax:dim_lime_luminax_stairs": {
+    "result": "luminax:dim_lime_luminax_stairs",
+    "count": 4,
+    "ingredients": [
+      "luminax:dim_lime_luminax_block",
+      "",
+      "",
+      "luminax:dim_lime_luminax_block",
+      "luminax:dim_lime_luminax_block",
+      "",
+      "luminax:dim_lime_luminax_block",
+      "luminax:dim_lime_luminax_block",
+      "luminax:dim_lime_luminax_block"
+    ]
+  },
+  "luminax:dim_lime_luminax_wall": {
+    "result": "luminax:dim_lime_luminax_wall",
+    "count": 6,
+    "ingredients": [
+      "luminax:dim_lime_luminax_block",
+      "luminax:dim_lime_luminax_block",
+      "luminax:dim_lime_luminax_block",
+      "luminax:dim_lime_luminax_block",
+      "luminax:dim_lime_luminax_block",
+      "luminax:dim_lime_luminax_block",
+      "",
+      "",
+      ""
+    ]
+  },
+  "luminax:dim_magenta_luminax_block": {
+    "result": "luminax:dim_magenta_luminax_block",
+    "count": 8,
+    "ingredients": [
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:magenta",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks"
+    ]
+  },
+  "luminax:dim_magenta_luminax_button": {
+    "result": "luminax:dim_magenta_luminax_button",
+    "count": 1,
+    "ingredients": [
+      "luminax:dim_magenta_luminax_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "luminax:dim_magenta_luminax_pressure_plate": {
+    "result": "luminax:dim_magenta_luminax_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "luminax:dim_magenta_luminax_block",
+      "luminax:dim_magenta_luminax_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "luminax:dim_magenta_luminax_slab": {
+    "result": "luminax:dim_magenta_luminax_slab",
+    "count": 6,
+    "ingredients": [
+      "luminax:dim_magenta_luminax_block",
+      "luminax:dim_magenta_luminax_block",
+      "luminax:dim_magenta_luminax_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "luminax:dim_magenta_luminax_stairs": {
+    "result": "luminax:dim_magenta_luminax_stairs",
+    "count": 4,
+    "ingredients": [
+      "luminax:dim_magenta_luminax_block",
+      "",
+      "",
+      "luminax:dim_magenta_luminax_block",
+      "luminax:dim_magenta_luminax_block",
+      "",
+      "luminax:dim_magenta_luminax_block",
+      "luminax:dim_magenta_luminax_block",
+      "luminax:dim_magenta_luminax_block"
+    ]
+  },
+  "luminax:dim_magenta_luminax_wall": {
+    "result": "luminax:dim_magenta_luminax_wall",
+    "count": 6,
+    "ingredients": [
+      "luminax:dim_magenta_luminax_block",
+      "luminax:dim_magenta_luminax_block",
+      "luminax:dim_magenta_luminax_block",
+      "luminax:dim_magenta_luminax_block",
+      "luminax:dim_magenta_luminax_block",
+      "luminax:dim_magenta_luminax_block",
+      "",
+      "",
+      ""
+    ]
+  },
+  "luminax:dim_orange_luminax_block": {
+    "result": "luminax:dim_orange_luminax_block",
+    "count": 8,
+    "ingredients": [
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:orange",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks"
+    ]
+  },
+  "luminax:dim_orange_luminax_button": {
+    "result": "luminax:dim_orange_luminax_button",
+    "count": 1,
+    "ingredients": [
+      "luminax:dim_orange_luminax_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "luminax:dim_orange_luminax_pressure_plate": {
+    "result": "luminax:dim_orange_luminax_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "luminax:dim_orange_luminax_block",
+      "luminax:dim_orange_luminax_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "luminax:dim_orange_luminax_slab": {
+    "result": "luminax:dim_orange_luminax_slab",
+    "count": 6,
+    "ingredients": [
+      "luminax:dim_orange_luminax_block",
+      "luminax:dim_orange_luminax_block",
+      "luminax:dim_orange_luminax_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "luminax:dim_orange_luminax_stairs": {
+    "result": "luminax:dim_orange_luminax_stairs",
+    "count": 4,
+    "ingredients": [
+      "luminax:dim_orange_luminax_block",
+      "",
+      "",
+      "luminax:dim_orange_luminax_block",
+      "luminax:dim_orange_luminax_block",
+      "",
+      "luminax:dim_orange_luminax_block",
+      "luminax:dim_orange_luminax_block",
+      "luminax:dim_orange_luminax_block"
+    ]
+  },
+  "luminax:dim_orange_luminax_wall": {
+    "result": "luminax:dim_orange_luminax_wall",
+    "count": 6,
+    "ingredients": [
+      "luminax:dim_orange_luminax_block",
+      "luminax:dim_orange_luminax_block",
+      "luminax:dim_orange_luminax_block",
+      "luminax:dim_orange_luminax_block",
+      "luminax:dim_orange_luminax_block",
+      "luminax:dim_orange_luminax_block",
+      "",
+      "",
+      ""
+    ]
+  },
+  "luminax:dim_pink_luminax_block": {
+    "result": "luminax:dim_pink_luminax_block",
+    "count": 8,
+    "ingredients": [
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:pink",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks"
+    ]
+  },
+  "luminax:dim_pink_luminax_button": {
+    "result": "luminax:dim_pink_luminax_button",
+    "count": 1,
+    "ingredients": [
+      "luminax:dim_pink_luminax_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "luminax:dim_pink_luminax_pressure_plate": {
+    "result": "luminax:dim_pink_luminax_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "luminax:dim_pink_luminax_block",
+      "luminax:dim_pink_luminax_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "luminax:dim_pink_luminax_slab": {
+    "result": "luminax:dim_pink_luminax_slab",
+    "count": 6,
+    "ingredients": [
+      "luminax:dim_pink_luminax_block",
+      "luminax:dim_pink_luminax_block",
+      "luminax:dim_pink_luminax_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "luminax:dim_pink_luminax_stairs": {
+    "result": "luminax:dim_pink_luminax_stairs",
+    "count": 4,
+    "ingredients": [
+      "luminax:dim_pink_luminax_block",
+      "",
+      "",
+      "luminax:dim_pink_luminax_block",
+      "luminax:dim_pink_luminax_block",
+      "",
+      "luminax:dim_pink_luminax_block",
+      "luminax:dim_pink_luminax_block",
+      "luminax:dim_pink_luminax_block"
+    ]
+  },
+  "luminax:dim_pink_luminax_wall": {
+    "result": "luminax:dim_pink_luminax_wall",
+    "count": 6,
+    "ingredients": [
+      "luminax:dim_pink_luminax_block",
+      "luminax:dim_pink_luminax_block",
+      "luminax:dim_pink_luminax_block",
+      "luminax:dim_pink_luminax_block",
+      "luminax:dim_pink_luminax_block",
+      "luminax:dim_pink_luminax_block",
+      "",
+      "",
+      ""
+    ]
+  },
+  "luminax:dim_purple_luminax_block": {
+    "result": "luminax:dim_purple_luminax_block",
+    "count": 8,
+    "ingredients": [
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:purple",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks"
+    ]
+  },
+  "luminax:dim_purple_luminax_button": {
+    "result": "luminax:dim_purple_luminax_button",
+    "count": 1,
+    "ingredients": [
+      "luminax:dim_purple_luminax_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "luminax:dim_purple_luminax_pressure_plate": {
+    "result": "luminax:dim_purple_luminax_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "luminax:dim_purple_luminax_block",
+      "luminax:dim_purple_luminax_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "luminax:dim_purple_luminax_slab": {
+    "result": "luminax:dim_purple_luminax_slab",
+    "count": 6,
+    "ingredients": [
+      "luminax:dim_purple_luminax_block",
+      "luminax:dim_purple_luminax_block",
+      "luminax:dim_purple_luminax_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "luminax:dim_purple_luminax_stairs": {
+    "result": "luminax:dim_purple_luminax_stairs",
+    "count": 4,
+    "ingredients": [
+      "luminax:dim_purple_luminax_block",
+      "",
+      "",
+      "luminax:dim_purple_luminax_block",
+      "luminax:dim_purple_luminax_block",
+      "",
+      "luminax:dim_purple_luminax_block",
+      "luminax:dim_purple_luminax_block",
+      "luminax:dim_purple_luminax_block"
+    ]
+  },
+  "luminax:dim_purple_luminax_wall": {
+    "result": "luminax:dim_purple_luminax_wall",
+    "count": 6,
+    "ingredients": [
+      "luminax:dim_purple_luminax_block",
+      "luminax:dim_purple_luminax_block",
+      "luminax:dim_purple_luminax_block",
+      "luminax:dim_purple_luminax_block",
+      "luminax:dim_purple_luminax_block",
+      "luminax:dim_purple_luminax_block",
+      "",
+      "",
+      ""
+    ]
+  },
+  "luminax:dim_red_luminax_block": {
+    "result": "luminax:dim_red_luminax_block",
+    "count": 8,
+    "ingredients": [
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:red",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks"
+    ]
+  },
+  "luminax:dim_red_luminax_button": {
+    "result": "luminax:dim_red_luminax_button",
+    "count": 1,
+    "ingredients": [
+      "luminax:dim_red_luminax_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "luminax:dim_red_luminax_pressure_plate": {
+    "result": "luminax:dim_red_luminax_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "luminax:dim_red_luminax_block",
+      "luminax:dim_red_luminax_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "luminax:dim_red_luminax_slab": {
+    "result": "luminax:dim_red_luminax_slab",
+    "count": 6,
+    "ingredients": [
+      "luminax:dim_red_luminax_block",
+      "luminax:dim_red_luminax_block",
+      "luminax:dim_red_luminax_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "luminax:dim_red_luminax_stairs": {
+    "result": "luminax:dim_red_luminax_stairs",
+    "count": 4,
+    "ingredients": [
+      "luminax:dim_red_luminax_block",
+      "",
+      "",
+      "luminax:dim_red_luminax_block",
+      "luminax:dim_red_luminax_block",
+      "",
+      "luminax:dim_red_luminax_block",
+      "luminax:dim_red_luminax_block",
+      "luminax:dim_red_luminax_block"
+    ]
+  },
+  "luminax:dim_red_luminax_wall": {
+    "result": "luminax:dim_red_luminax_wall",
+    "count": 6,
+    "ingredients": [
+      "luminax:dim_red_luminax_block",
+      "luminax:dim_red_luminax_block",
+      "luminax:dim_red_luminax_block",
+      "luminax:dim_red_luminax_block",
+      "luminax:dim_red_luminax_block",
+      "luminax:dim_red_luminax_block",
+      "",
+      "",
+      ""
+    ]
+  },
+  "luminax:dim_white_luminax_block": {
+    "result": "luminax:dim_white_luminax_block",
+    "count": 8,
+    "ingredients": [
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:white",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks"
+    ]
+  },
+  "luminax:dim_white_luminax_button": {
+    "result": "luminax:dim_white_luminax_button",
+    "count": 1,
+    "ingredients": [
+      "luminax:dim_white_luminax_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "luminax:dim_white_luminax_pressure_plate": {
+    "result": "luminax:dim_white_luminax_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "luminax:dim_white_luminax_block",
+      "luminax:dim_white_luminax_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "luminax:dim_white_luminax_slab": {
+    "result": "luminax:dim_white_luminax_slab",
+    "count": 6,
+    "ingredients": [
+      "luminax:dim_white_luminax_block",
+      "luminax:dim_white_luminax_block",
+      "luminax:dim_white_luminax_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "luminax:dim_white_luminax_stairs": {
+    "result": "luminax:dim_white_luminax_stairs",
+    "count": 4,
+    "ingredients": [
+      "luminax:dim_white_luminax_block",
+      "",
+      "",
+      "luminax:dim_white_luminax_block",
+      "luminax:dim_white_luminax_block",
+      "",
+      "luminax:dim_white_luminax_block",
+      "luminax:dim_white_luminax_block",
+      "luminax:dim_white_luminax_block"
+    ]
+  },
+  "luminax:dim_white_luminax_wall": {
+    "result": "luminax:dim_white_luminax_wall",
+    "count": 6,
+    "ingredients": [
+      "luminax:dim_white_luminax_block",
+      "luminax:dim_white_luminax_block",
+      "luminax:dim_white_luminax_block",
+      "luminax:dim_white_luminax_block",
+      "luminax:dim_white_luminax_block",
+      "luminax:dim_white_luminax_block",
+      "",
+      "",
+      ""
+    ]
+  },
+  "luminax:dim_yellow_luminax_block": {
+    "result": "luminax:dim_yellow_luminax_block",
+    "count": 8,
+    "ingredients": [
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:yellow",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks",
+      "minecraft:dim_blocks"
+    ]
+  },
+  "luminax:dim_yellow_luminax_button": {
+    "result": "luminax:dim_yellow_luminax_button",
+    "count": 1,
+    "ingredients": [
+      "luminax:dim_yellow_luminax_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "luminax:dim_yellow_luminax_pressure_plate": {
+    "result": "luminax:dim_yellow_luminax_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "luminax:dim_yellow_luminax_block",
+      "luminax:dim_yellow_luminax_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "luminax:dim_yellow_luminax_slab": {
+    "result": "luminax:dim_yellow_luminax_slab",
+    "count": 6,
+    "ingredients": [
+      "luminax:dim_yellow_luminax_block",
+      "luminax:dim_yellow_luminax_block",
+      "luminax:dim_yellow_luminax_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "luminax:dim_yellow_luminax_stairs": {
+    "result": "luminax:dim_yellow_luminax_stairs",
+    "count": 4,
+    "ingredients": [
+      "luminax:dim_yellow_luminax_block",
+      "",
+      "",
+      "luminax:dim_yellow_luminax_block",
+      "luminax:dim_yellow_luminax_block",
+      "",
+      "luminax:dim_yellow_luminax_block",
+      "luminax:dim_yellow_luminax_block",
+      "luminax:dim_yellow_luminax_block"
+    ]
+  },
+  "luminax:dim_yellow_luminax_wall": {
+    "result": "luminax:dim_yellow_luminax_wall",
+    "count": 6,
+    "ingredients": [
+      "luminax:dim_yellow_luminax_block",
+      "luminax:dim_yellow_luminax_block",
+      "luminax:dim_yellow_luminax_block",
+      "luminax:dim_yellow_luminax_block",
+      "luminax:dim_yellow_luminax_block",
+      "luminax:dim_yellow_luminax_block",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:diorite_bridge": {
+    "result": "mcwbridges:diorite_bridge",
+    "count": 1,
+    "ingredients": [
+      "mcwbridges:diorite_bridge_stair",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:diorite_bridge_pier": {
+    "result": "mcwbridges:diorite_bridge_pier",
+    "count": 3,
+    "ingredients": [
+      "minecraft:diorite",
+      "minecraft:diorite_wall",
+      "minecraft:diorite",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:diorite_bridge_stair": {
+    "result": "mcwbridges:diorite_bridge_stair",
+    "count": 6,
+    "ingredients": [
+      "",
+      "",
+      "mcwbridges:diorite_bridge",
+      "",
+      "mcwbridges:diorite_bridge",
+      "mcwbridges:diorite_bridge",
+      "mcwbridges:diorite_bridge",
+      "mcwbridges:diorite_bridge",
+      "mcwbridges:diorite_bridge"
+    ]
+  },
+  "mcwfences:diorite_grass_topped_wall": {
+    "result": "mcwfences:diorite_grass_topped_wall",
+    "count": 6,
+    "ingredients": [
+      "minecraft:diorite",
+      "minecraft:dirt",
+      "minecraft:diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfences:diorite_pillar_wall": {
+    "result": "mcwfences:diorite_pillar_wall",
+    "count": 5,
+    "ingredients": [
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:diorite",
+      "",
+      "minecraft:diorite",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfences:diorite_railing_gate": {
+    "result": "mcwfences:diorite_railing_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_bars",
+      "minecraft:polished_diorite",
+      "minecraft:iron_bars",
+      "minecraft:iron_bars",
+      "minecraft:polished_diorite",
+      "minecraft:iron_bars",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwwindows:diorite_four_window": {
+    "result": "mcwwindows:diorite_four_window",
+    "count": 8,
+    "ingredients": [
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "minecraft:diorite",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base"
+    ]
+  },
+  "mcwwindows:diorite_louvered_shutter": {
+    "result": "mcwwindows:diorite_louvered_shutter",
+    "count": 3,
+    "ingredients": [
+      "minecraft:diorite_slab",
+      "",
+      "",
+      "minecraft:diorite_slab",
+      "",
+      "",
+      "minecraft:diorite_slab",
+      "",
+      ""
+    ]
+  },
+  "mcwwindows:diorite_pane_window": {
+    "result": "mcwwindows:diorite_pane_window",
+    "count": 8,
+    "ingredients": [
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "minecraft:diorite",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base"
+    ]
+  },
+  "mcwwindows:diorite_parapet": {
+    "result": "mcwwindows:diorite_parapet",
+    "count": 5,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:diorite",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwwindows:diorite_window": {
+    "result": "mcwwindows:diorite_window",
+    "count": 4,
+    "ingredients": [
+      "",
+      "mcwwindows:window_base",
+      "",
+      "mcwwindows:window_base",
+      "minecraft:diorite",
+      "mcwwindows:window_base",
+      "",
+      "mcwwindows:window_base",
+      ""
+    ]
+  },
+  "mcwwindows:diorite_window2": {
+    "result": "mcwwindows:diorite_window2",
+    "count": 8,
+    "ingredients": [
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "minecraft:diorite",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base"
+    ]
+  },
+  "mekanism:dictionary": {
+    "result": "mekanism:dictionary",
+    "count": 1,
+    "ingredients": [
+      "minecraft:basic",
+      "",
+      "",
+      "minecraft:book",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mekanism:dimensional_stabilizer": {
+    "result": "mekanism:dimensional_stabilizer",
+    "count": 1,
+    "ingredients": [
+      "minecraft:refined_obsidian",
+      "minecraft:ultimate",
+      "minecraft:refined_obsidian",
+      "minecraft:atomic",
+      "minecraft:diamond",
+      "minecraft:atomic",
+      "minecraft:refined_obsidian",
+      "minecraft:ultimate",
+      "minecraft:refined_obsidian"
+    ]
+  },
+  "mekanism:diversion_transporter": {
+    "result": "mekanism:diversion_transporter",
+    "count": 2,
+    "ingredients": [
+      "minecraft:redstone",
+      "minecraft:redstone",
+      "minecraft:redstone",
+      "modern_industrialization:steel_ingot",
+      "minecraft:iron_bars",
+      "modern_industrialization:steel_ingot",
+      "minecraft:redstone",
+      "minecraft:redstone",
+      "minecraft:redstone"
+    ]
+  },
+  "merrymaking:diamond_upgrade_smithing_template": {
+    "result": "merrymaking:diamond_upgrade_smithing_template",
+    "count": 2,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "merrymaking:diamond_upgrade_smithing_template",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:stone",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "merrymaking:diorite_garland_wall": {
+    "result": "merrymaking:diorite_garland_wall",
+    "count": 1,
+    "ingredients": [
+      "minecraft:diorite_wall",
+      "merrymaking:garland_horizontal",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:diorite_garland_multi_wall": {
+    "result": "merrymaking:diorite_garland_multi_wall",
+    "count": 1,
+    "ingredients": [
+      "minecraft:diorite_wall",
+      "merrymaking:garland_horizontal_multi",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:diorite_garland_lights_wall": {
+    "result": "merrymaking:diorite_garland_lights_wall",
+    "count": 1,
+    "ingredients": [
+      "minecraft:diorite_wall",
+      "merrymaking:garland_horizontal_lights",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mffs:disintegration_module": {
+    "result": "mffs:disintegration_module",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:diamond_pickaxe",
+      "",
+      "mffs:focus_matrix",
+      "mffs:battery",
+      "mffs:focus_matrix",
+      "",
+      "minecraft:diamond_pickaxe",
+      ""
+    ]
+  },
+  "minecraft:diamond": {
+    "result": "minecraft:diamond",
+    "count": 1,
+    "ingredients": [
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond"
+    ]
+  },
+  "minecraft:diamond_axe": {
+    "result": "minecraft:diamond_axe",
+    "count": 1,
+    "ingredients": [
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "",
+      "minecraft:diamond",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "minecraft:diamond_boots": {
+    "result": "minecraft:diamond_boots",
+    "count": 1,
+    "ingredients": [
+      "minecraft:diamond",
+      "",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "",
+      "minecraft:diamond",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:diamond_chestplate": {
+    "result": "minecraft:diamond_chestplate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:diamond",
+      "",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond"
+    ]
+  },
+  "minecraft:diamond_helmet": {
+    "result": "minecraft:diamond_helmet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "",
+      "minecraft:diamond",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:diamond_hoe": {
+    "result": "minecraft:diamond_hoe",
+    "count": 1,
+    "ingredients": [
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "minecraft:diamond_leggings": {
+    "result": "minecraft:diamond_leggings",
+    "count": 1,
+    "ingredients": [
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "",
+      "minecraft:diamond"
+    ]
+  },
+  "minecraft:diamond_pickaxe": {
+    "result": "minecraft:diamond_pickaxe",
+    "count": 1,
+    "ingredients": [
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "minecraft:diamond_shovel": {
+    "result": "minecraft:diamond_shovel",
+    "count": 1,
+    "ingredients": [
+      "minecraft:diamond",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "minecraft:diamond_sword": {
+    "result": "minecraft:diamond_sword",
+    "count": 1,
+    "ingredients": [
+      "minecraft:diamond",
+      "",
+      "",
+      "minecraft:diamond",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "minecraft:diorite_slab": {
+    "result": "minecraft:diorite_slab",
+    "count": 6,
+    "ingredients": [
+      "minecraft:diorite",
+      "minecraft:diorite",
+      "minecraft:diorite",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:diorite_stairs": {
+    "result": "minecraft:diorite_stairs",
+    "count": 4,
+    "ingredients": [
+      "minecraft:diorite",
+      "",
+      "",
+      "minecraft:diorite",
+      "minecraft:diorite",
+      "",
+      "minecraft:diorite",
+      "minecraft:diorite",
+      "minecraft:diorite"
+    ]
+  },
+  "minecraft:diorite_wall": {
+    "result": "minecraft:diorite_wall",
+    "count": 6,
+    "ingredients": [
+      "minecraft:diorite",
+      "minecraft:diorite",
+      "minecraft:diorite",
+      "minecraft:diorite",
+      "minecraft:diorite",
+      "minecraft:diorite",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:diesel_jetpack": {
+    "result": "modern_industrialization:diesel_jetpack",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:large_pump",
+      "modern_industrialization:aluminum_tank",
+      "modern_industrialization:large_pump",
+      "modern_industrialization:large_motor",
+      "modern_industrialization:electronic_circuit",
+      "modern_industrialization:large_motor",
+      "modern_industrialization:aluminum_rotor",
+      "",
+      "modern_industrialization:aluminum_rotor"
+    ]
+  },
+  "modern_industrialization:digital_circuit": {
+    "result": "modern_industrialization:digital_circuit",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:electronic_circuit",
+      "modern_industrialization:or_gate",
+      "modern_industrialization:electronic_circuit",
+      "modern_industrialization:not_gate",
+      "modern_industrialization:digital_circuit_board",
+      "modern_industrialization:not_gate",
+      "modern_industrialization:electronic_circuit",
+      "modern_industrialization:and_gate",
+      "modern_industrialization:electronic_circuit"
+    ]
+  },
+  "modern_industrialization:diode": {
+    "result": "modern_industrialization:diode",
+    "count": 2,
+    "ingredients": [
+      "modern_industrialization:electrum_fine_wire",
+      "minecraft:steel",
+      "minecraft:glass",
+      "modern_industrialization:electrum_fine_wire",
+      "modern_industrialization:silicon_n_doped_plate",
+      "minecraft:glass",
+      "modern_industrialization:electrum_fine_wire",
+      "minecraft:steel",
+      "minecraft:glass"
+    ]
+  },
+  "modern_industrialization:distillation_tower": {
+    "result": "modern_industrialization:distillation_tower",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:advanced_pump",
+      "modern_industrialization:distillery",
+      "modern_industrialization:advanced_pump",
+      "modern_industrialization:digital_circuit",
+      "modern_industrialization:turbo_machine_hull",
+      "modern_industrialization:digital_circuit",
+      "modern_industrialization:advanced_pump",
+      "modern_industrialization:distillery",
+      "modern_industrialization:advanced_pump"
+    ]
+  },
+  "modern_industrialization:distillery": {
+    "result": "modern_industrialization:distillery",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:fluid_pipes",
+      "minecraft:glass",
+      "modern_industrialization:large_pump",
+      "modern_industrialization:basic_machine_hull",
+      "modern_industrialization:large_pump",
+      "modern_industrialization:electronic_circuit",
+      "modern_industrialization:electrum_cable",
+      "modern_industrialization:electronic_circuit"
+    ]
+  },
+  "minecraft:diamond_ore": {
+    "result": "minecraft:diamond_ore",
+    "count": 1,
+    "ingredients": [
+      "minecraft:deepslate_diamond_ore",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:diamond_dust": {
+    "result": "modern_industrialization:diamond_dust",
+    "count": 1,
+    "ingredients": [
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "modern_industrialization:diamond_tiny_dust",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond"
+    ]
+  },
+  "modern_industrialization:diamond_hammer": {
+    "result": "modern_industrialization:diamond_hammer",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:diamond_large_plate",
+      "modern_industrialization:diamond_large_plate",
+      "modern_industrialization:diamond_large_plate",
+      "modern_industrialization:diamond_large_plate",
+      "minecraft:stick",
+      "modern_industrialization:diamond_large_plate",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "modern_industrialization:diamond_large_plate": {
+    "result": "modern_industrialization:diamond_large_plate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:diamond_tiny_dust": {
+    "result": "modern_industrialization:diamond_tiny_dust",
+    "count": 9,
+    "ingredients": [
+      "modern_industrialization:diamond_dust",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:diesel_chainsaw": {
+    "result": "modern_industrialization:diesel_chainsaw",
+    "count": 1,
+    "ingredients": [
+      "",
+      "modern_industrialization:rubber_sheet",
+      "modern_industrialization:invar_rotary_blade",
+      "modern_industrialization:large_motor",
+      "modern_industrialization:invar_rotary_blade",
+      "modern_industrialization:rubber_sheet",
+      "modern_industrialization:aluminum_tank",
+      "modern_industrialization:large_motor",
+      ""
+    ]
+  },
+  "modern_industrialization:diesel_mining_drill": {
+    "result": "modern_industrialization:diesel_mining_drill",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:electronic_circuit",
+      "modern_industrialization:invar_rotary_blade",
+      "modern_industrialization:aluminum_drill_head",
+      "modern_industrialization:large_motor",
+      "modern_industrialization:large_pump",
+      "modern_industrialization:invar_rotary_blade",
+      "modern_industrialization:aluminum_tank",
+      "modern_industrialization:large_motor",
+      "modern_industrialization:electronic_circuit"
+    ]
+  },
+  "modularrouters:distributor_module": {
+    "result": "modularrouters:distributor_module",
+    "count": 1,
+    "ingredients": [
+      "",
+      "modularrouters:sender_module_2",
+      "",
+      "modularrouters:sender_module_2",
+      "modularrouters:blank_module",
+      "modularrouters:sender_module_2",
+      "",
+      "",
+      ""
+    ]
+  },
+  "morered:diode": {
+    "result": "morered:diode",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone_torch",
+      "minecraft:redstone",
+      "minecraft:redstone_torch",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mysticalagriculture:diamond_scythe": {
+    "result": "mysticalagriculture:diamond_scythe",
+    "count": 1,
+    "ingredients": [
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:stick",
+      "",
+      "minecraft:stick",
+      "",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "mysticalagriculture:diamond_sickle": {
+    "result": "mysticalagriculture:diamond_sickle",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:diamond",
+      "",
+      "",
+      "",
+      "minecraft:diamond",
+      "minecraft:stick",
+      "minecraft:diamond",
+      ""
+    ]
+  },
+  "occultism:dictionary_of_spirits": {
+    "result": "occultism:dictionary_of_spirits",
+    "count": 1,
+    "ingredients": [
+      "minecraft:datura",
+      "minecraft:books",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "occultism:divination_rod": {
+    "result": "occultism:divination_rod",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:gold_ingot",
+      "",
+      "minecraft:glass",
+      "occultism:spirit_attuned_gem",
+      "minecraft:glass",
+      "",
+      "minecraft:gold_ingot",
+      ""
+    ]
+  },
+  "oritech:diamond_paint": {
+    "result": "oritech:diamond_paint",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:cyan_dye",
+      "",
+      "minecraft:plastic",
+      "oritech:adamant_dust",
+      "minecraft:plastic",
+      "",
+      "minecraft:cyan_dye",
+      ""
+    ]
+  },
+  "pamhc2foodextended:dimsumitem": {
+    "result": "pamhc2foodextended:dimsumitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:rice",
+      "minecraft:dough",
+      "minecraft:chest",
+      "minecraft:mushrooms",
+      "minecraft:rawmeats",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pneumaticcraft:diagnostic_subroutine": {
+    "result": "pneumaticcraft:diagnostic_subroutine",
+    "count": 1,
+    "ingredients": [
+      "minecraft:red",
+      "minecraft:plastic_sheets",
+      "minecraft:red",
+      "minecraft:plastic_sheets",
+      "minecraft:chest",
+      "minecraft:plastic_sheets",
+      "minecraft:red",
+      "minecraft:plastic_sheets",
+      "minecraft:red"
+    ]
+  },
+  "pneumaticcraft:dispenser_upgrade": {
+    "result": "pneumaticcraft:dispenser_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:upgrade_components",
+      "minecraft:quartz",
+      "minecraft:upgrade_components",
+      "minecraft:quartz",
+      "minecraft:dispenser",
+      "minecraft:quartz",
+      "minecraft:upgrade_components",
+      "minecraft:quartz",
+      "minecraft:upgrade_components"
+    ]
+  },
+  "pneumaticcraft:display_shelf": {
+    "result": "pneumaticcraft:display_shelf",
+    "count": 1,
+    "ingredients": [
+      "pneumaticcraft:display_table",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pneumaticcraft:display_table": {
+    "result": "pneumaticcraft:display_table",
+    "count": 1,
+    "ingredients": [
+      "pneumaticcraft:display_shelf",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "powah:dielectric_casing": {
+    "result": "powah:dielectric_casing",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "powah:dielectric_rod_horizontal",
+      "minecraft:iron_ingot",
+      "powah:dielectric_rod",
+      "",
+      "powah:dielectric_rod",
+      "minecraft:iron_ingot",
+      "powah:dielectric_rod_horizontal",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "powah:dielectric_paste": {
+    "result": "powah:dielectric_paste",
+    "count": 16,
+    "ingredients": [
+      "minecraft:coal",
+      "minecraft:coal",
+      "minecraft:clay_ball",
+      "minecraft:blaze_powder",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "powah:dielectric_rod": {
+    "result": "powah:dielectric_rod",
+    "count": 1,
+    "ingredients": [
+      "powah:dielectric_rod_horizontal",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "powah:dielectric_rod_horizontal": {
+    "result": "powah:dielectric_rod_horizontal",
+    "count": 1,
+    "ingredients": [
+      "powah:dielectric_rod",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:diamond_crowbar": {
+    "result": "railcraft:diamond_crowbar",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:red",
+      "minecraft:diamond",
+      "minecraft:red",
+      "minecraft:diamond",
+      "minecraft:red",
+      "minecraft:diamond",
+      "minecraft:red",
+      ""
+    ]
+  },
+  "railcraft:diamond_spike_maul": {
+    "result": "railcraft:diamond_spike_maul",
+    "count": 1,
+    "ingredients": [
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "railcraft:diamond_tunnel_bore_head": {
+    "result": "railcraft:diamond_tunnel_bore_head",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "minecraft:diamond",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot"
+    ]
+  },
+  "railcraft:disembarking_track_kit": {
+    "result": "railcraft:disembarking_track_kit",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "railcraft:track_parts",
+      "minecraft:stone_pressure_plate",
+      "minecraft:lead",
+      "minecraft:redstone",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:distant_signal": {
+    "result": "railcraft:distant_signal",
+    "count": 1,
+    "ingredients": [
+      "railcraft:signal_lamp",
+      "railcraft:receiver_circuit",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:black",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      ""
+    ]
+  },
+  "refinedstorage:disk_drive": {
+    "result": "refinedstorage:disk_drive",
+    "count": 1,
+    "ingredients": [
+      "refinedstorage:quartz_enriched_iron",
+      "minecraft:chest",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:machine_casing",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:advanced_processor",
+      "refinedstorage:quartz_enriched_iron"
+    ]
+  },
+  "refinedstorage:disk_interface": {
+    "result": "refinedstorage:disk_interface",
+    "count": 1,
+    "ingredients": [
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:storage_housing",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:construction_core",
+      "refinedstorage:machine_casing",
+      "refinedstorage:destruction_core",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:storage_housing",
+      "refinedstorage:quartz_enriched_iron"
+    ]
+  },
+  "rftoolsbase:dimensionalshard": {
+    "result": "rftoolsbase:dimensionalshard",
+    "count": 1,
+    "ingredients": [
+      "minecraft:diamond",
+      "minecraft:emerald",
+      "minecraft:gold_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:redstone",
+      "minecraft:glowstone_dust",
+      "minecraft:quartz",
+      "minecraft:prismarine_shard",
+      "minecraft:glass"
+    ]
+  },
+  "rftoolspower:dimensionalcell": {
+    "result": "rftoolspower:dimensionalcell",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone_block",
+      "minecraft:diamond",
+      "minecraft:redstone_block",
+      "minecraft:prismarine_shard",
+      "rftoolsbase:machine_frame",
+      "minecraft:prismarine_shard",
+      "minecraft:redstone_block",
+      "minecraft:emerald",
+      "minecraft:redstone_block"
+    ]
+  },
+  "rftoolspower:dimensionalcell_advanced": {
+    "result": "rftoolspower:dimensionalcell_advanced",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone_block",
+      "rftoolsbase:infused_diamond",
+      "minecraft:redstone_block",
+      "rftoolsbase:infused_diamond",
+      "rftoolspower:dimensionalcell",
+      "rftoolsbase:infused_diamond",
+      "minecraft:redstone_block",
+      "rftoolsbase:infused_diamond",
+      "minecraft:redstone_block"
+    ]
+  },
+  "rftoolspower:dimensionalcell_simple": {
+    "result": "rftoolspower:dimensionalcell_simple",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone_block",
+      "minecraft:diamond",
+      "minecraft:redstone_block",
+      "minecraft:quartz",
+      "rftoolsbase:machine_frame",
+      "minecraft:quartz",
+      "minecraft:redstone_block",
+      "minecraft:diamond",
+      "minecraft:redstone_block"
+    ]
+  },
+  "rftoolsutility:dialing_device": {
+    "result": "rftoolsutility:dialing_device",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "minecraft:redstone",
+      "minecraft:redstone",
+      "minecraft:redstone_torch",
+      "rftoolsbase:machine_frame",
+      "minecraft:redstone_torch",
+      "minecraft:redstone",
+      "minecraft:redstone",
+      "minecraft:redstone"
+    ]
+  },
+  "rftoolsutility:digit": {
+    "result": "rftoolsutility:digit",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:redstone",
+      "rftoolsbase:machine_base",
+      "minecraft:redstone",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass"
+    ]
+  },
+  "securitycraft:diamond_mine": {
+    "result": "securitycraft:diamond_mine",
+    "count": 1,
+    "ingredients": [
+      "minecraft:diamond_ore",
+      "securitycraft:mine",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "securitycraft:dirt_mine": {
+    "result": "securitycraft:dirt_mine",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dirt",
+      "securitycraft:mine",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "securitycraft:disguise_module": {
+    "result": "securitycraft:disguise_module",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:paper",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:painting",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "securitycraft:display_case": {
+    "result": "securitycraft:display_case",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:item_frame",
+      "securitycraft:reinforced_glass_pane",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "sfm:disk": {
+    "result": "sfm:disk",
+    "count": 1,
+    "ingredients": [
+      "minecraft:paper",
+      "minecraft:green",
+      "minecraft:paper",
+      "minecraft:red",
+      "minecraft:redstone_block",
+      "minecraft:blue",
+      "minecraft:redstone",
+      "minecraft:repeater",
+      "minecraft:redstone"
+    ]
+  },
+  "silentgear:diamond_shard": {
+    "result": "silentgear:diamond_shard",
+    "count": 9,
+    "ingredients": [
+      "minecraft:diamond",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "sophisticatedstorage:diamond_to_netherite_tier_upgrade": {
+    "result": "sophisticatedstorage:diamond_to_netherite_tier_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:lever",
+      "minecraft:netherite",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "starbunclemania:direction_scroll": {
+    "result": "starbunclemania:direction_scroll",
+    "count": 1,
+    "ingredients": [
+      "ars_nouveau:blank_parchment",
+      "minecraft:compass",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "supplementaries:dispenser_minecart": {
+    "result": "supplementaries:dispenser_minecart",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:dispenser",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      ""
+    ]
+  },
+  "theurgy:digestion_vat": {
+    "result": "theurgy:digestion_vat",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:sal_ammoniac",
+      "",
+      "minecraft:gold_ingot",
+      "minecraft:decorated_pot",
+      "minecraft:gold_ingot",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone"
+    ]
+  },
+  "theurgy:distiller": {
+    "result": "theurgy:distiller",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:copper",
+      "minecraft:iron_ingot",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone"
+    ]
+  },
+  "theurgy:divination_rod_t1": {
+    "result": "theurgy:divination_rod_t1",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:glass",
+      "minecraft:stick",
+      "",
+      "minecraft:stick",
+      "minecraft:glass",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "theurgy:divination_rod_t2": {
+    "result": "theurgy:divination_rod_t2",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:glass",
+      "minecraft:gold",
+      "",
+      "minecraft:amethyst",
+      "minecraft:glass",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "theurgy:divination_rod_t3": {
+    "result": "theurgy:divination_rod_t3",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:glass",
+      "minecraft:diamond",
+      "",
+      "minecraft:quartz",
+      "minecraft:glass",
+      "minecraft:amethyst",
+      "",
+      ""
+    ]
+  },
+  "theurgy:divination_rod_t4": {
+    "result": "theurgy:divination_rod_t4",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:glass",
+      "minecraft:netherite_scrap",
+      "",
+      "minecraft:blaze",
+      "minecraft:glass",
+      "minecraft:amethyst",
+      "",
+      ""
+    ]
+  },
+  "the_bumblezone:dirt_pellet": {
+    "result": "the_bumblezone:dirt_pellet",
+    "count": 8,
+    "ingredients": [
+      "minecraft:coarse_dirt",
+      "minecraft:rooted_dirt",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:ditchbulb_paste": {
+    "result": "undergarden:ditchbulb_paste",
+    "count": 1,
+    "ingredients": [
+      "undergarden:ditchbulb",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

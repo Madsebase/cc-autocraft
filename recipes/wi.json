@@ -1,0 +1,3272 @@
+{
+  "actuallyadditions:wings_of_the_bats": {
+    "result": "actuallyadditions:wings_of_the_bats",
+    "count": 1,
+    "ingredients": [
+      "actuallyadditions:bats_wing",
+      "actuallyadditions:diamatine_crystal_block",
+      "actuallyadditions:bats_wing",
+      "actuallyadditions:bats_wing",
+      "actuallyadditions:ender_star",
+      "actuallyadditions:bats_wing",
+      "actuallyadditions:bats_wing",
+      "actuallyadditions:diamatine_crystal_block",
+      "actuallyadditions:bats_wing"
+    ]
+  },
+  "advanced_ae:wireless_quantum_crafter_terminal": {
+    "result": "advanced_ae:wireless_quantum_crafter_terminal",
+    "count": 1,
+    "ingredients": [
+      "",
+      "ae2:wireless_receiver",
+      "",
+      "",
+      "advanced_ae:quantum_crafter_terminal",
+      "",
+      "",
+      "ae2:dense_energy_cell",
+      ""
+    ]
+  },
+  "ae2:wireless_crafting_terminal": {
+    "result": "ae2:wireless_crafting_terminal",
+    "count": 1,
+    "ingredients": [
+      "ae2:wireless_receiver",
+      "",
+      "",
+      "ae2:crafting_terminal",
+      "",
+      "",
+      "ae2:dense_energy_cell",
+      "",
+      ""
+    ]
+  },
+  "ae2:wireless_access_point": {
+    "result": "ae2:wireless_access_point",
+    "count": 1,
+    "ingredients": [
+      "ae2:wireless_receiver",
+      "",
+      "",
+      "ae2:calculation_processor",
+      "",
+      "",
+      "ae2:fluix_glass_cable",
+      "",
+      ""
+    ]
+  },
+  "ae2:wireless_booster": {
+    "result": "ae2:wireless_booster",
+    "count": 2,
+    "ingredients": [
+      "minecraft:fluix",
+      "minecraft:quartz",
+      "minecraft:ender_pearl",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ae2:wireless_receiver": {
+    "result": "ae2:wireless_receiver",
+    "count": 1,
+    "ingredients": [
+      "",
+      "ae2:fluix_pearl",
+      "",
+      "minecraft:iron_ingot",
+      "ae2:quartz_fiber",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      ""
+    ]
+  },
+  "ae2:wireless_terminal": {
+    "result": "ae2:wireless_terminal",
+    "count": 1,
+    "ingredients": [
+      "ae2:wireless_receiver",
+      "",
+      "",
+      "ae2:terminal",
+      "",
+      "",
+      "ae2:dense_energy_cell",
+      "",
+      ""
+    ]
+  },
+  "ae2wtlib:wireless_pattern_access_terminal": {
+    "result": "ae2wtlib:wireless_pattern_access_terminal",
+    "count": 1,
+    "ingredients": [
+      "ae2:wireless_receiver",
+      "",
+      "",
+      "ae2:pattern_access_terminal",
+      "",
+      "",
+      "ae2:dense_energy_cell",
+      "",
+      ""
+    ]
+  },
+  "ae2wtlib:wireless_pattern_encoding_terminal": {
+    "result": "ae2wtlib:wireless_pattern_encoding_terminal",
+    "count": 1,
+    "ingredients": [
+      "ae2:wireless_receiver",
+      "",
+      "",
+      "ae2:pattern_encoding_terminal",
+      "",
+      "",
+      "ae2:dense_energy_cell",
+      "",
+      ""
+    ]
+  },
+  "ars_nouveau:wixie_charm": {
+    "result": "ars_nouveau:wixie_charm",
+    "count": 1,
+    "ingredients": [
+      "ars_nouveau:wixie_charm",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_nouveau:wixie_hat": {
+    "result": "ars_nouveau:wixie_hat",
+    "count": 1,
+    "ingredients": [
+      "ars_nouveau:magebloom_fiber",
+      "ars_nouveau:magebloom_fiber",
+      "ars_nouveau:magebloom_fiber",
+      "ars_nouveau:magebloom_fiber",
+      "minecraft:gold_ingot",
+      "ars_nouveau:magebloom_fiber",
+      "ars_nouveau:magebloom_fiber",
+      "ars_nouveau:magebloom_fiber",
+      "ars_nouveau:magebloom_fiber"
+    ]
+  },
+  "bhc:wither_bone": {
+    "result": "bhc:wither_bone",
+    "count": 6,
+    "ingredients": [
+      "minecraft:bone",
+      "minecraft:bone",
+      "minecraft:bone",
+      "minecraft:wither_skeleton_skull",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:witchery_alder_bookcase": {
+    "result": "bibliocraft:witchery_alder_bookcase",
+    "count": 1,
+    "ingredients": [
+      "witchery:alder_planks",
+      "witchery:alder_slab",
+      "witchery:alder_planks",
+      "witchery:alder_planks",
+      "witchery:alder_slab",
+      "witchery:alder_planks",
+      "witchery:alder_planks",
+      "witchery:alder_slab",
+      "witchery:alder_planks"
+    ]
+  },
+  "bibliocraft:witchery_alder_fancy_armor_stand": {
+    "result": "bibliocraft:witchery_alder_fancy_armor_stand",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "witchery:alder_slab",
+      "witchery:alder_slab",
+      "witchery:alder_slab"
+    ]
+  },
+  "bibliocraft:witchery_alder_fancy_clock": {
+    "result": "bibliocraft:witchery_alder_fancy_clock",
+    "count": 1,
+    "ingredients": [
+      "witchery:alder_slab",
+      "minecraft:clock",
+      "witchery:alder_slab",
+      "witchery:alder_slab",
+      "minecraft:stick",
+      "witchery:alder_slab",
+      "witchery:alder_slab",
+      "minecraft:copper_ingot",
+      "witchery:alder_slab"
+    ]
+  },
+  "bibliocraft:witchery_alder_fancy_crafter": {
+    "result": "bibliocraft:witchery_alder_fancy_crafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black",
+      "minecraft:crafting_tables",
+      "minecraft:feather",
+      "witchery:alder_planks",
+      "minecraft:glass",
+      "witchery:alder_planks",
+      "witchery:alder_planks",
+      "minecraft:crafter",
+      "witchery:alder_planks"
+    ]
+  },
+  "bibliocraft:witchery_alder_fancy_sign": {
+    "result": "bibliocraft:witchery_alder_fancy_sign",
+    "count": 1,
+    "ingredients": [
+      "witchery:alder_planks",
+      "minecraft:paper",
+      "witchery:alder_planks",
+      "witchery:alder_planks",
+      "minecraft:paper",
+      "witchery:alder_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "bibliocraft:witchery_alder_grandfather_clock": {
+    "result": "bibliocraft:witchery_alder_grandfather_clock",
+    "count": 1,
+    "ingredients": [
+      "bibliocraft:witchery_alder_fancy_clock",
+      "bibliocraft:witchery_alder_fancy_clock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:witchery_alder_label": {
+    "result": "bibliocraft:witchery_alder_label",
+    "count": 1,
+    "ingredients": [
+      "witchery:alder_slab",
+      "witchery:alder_slab",
+      "witchery:alder_slab",
+      "witchery:alder_slab",
+      "witchery:alder_slab",
+      "witchery:alder_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:witchery_alder_potion_shelf": {
+    "result": "bibliocraft:witchery_alder_potion_shelf",
+    "count": 1,
+    "ingredients": [
+      "witchery:alder_slab",
+      "witchery:alder_slab",
+      "witchery:alder_slab",
+      "witchery:alder_planks",
+      "minecraft:glass_bottle",
+      "witchery:alder_planks",
+      "witchery:alder_slab",
+      "witchery:alder_slab",
+      "witchery:alder_slab"
+    ]
+  },
+  "bibliocraft:witchery_alder_shelf": {
+    "result": "bibliocraft:witchery_alder_shelf",
+    "count": 1,
+    "ingredients": [
+      "witchery:alder_slab",
+      "witchery:alder_slab",
+      "witchery:alder_slab",
+      "",
+      "witchery:alder_planks",
+      "",
+      "witchery:alder_slab",
+      "witchery:alder_slab",
+      "witchery:alder_slab"
+    ]
+  },
+  "bibliocraft:witchery_alder_table": {
+    "result": "bibliocraft:witchery_alder_table",
+    "count": 1,
+    "ingredients": [
+      "witchery:alder_slab",
+      "witchery:alder_slab",
+      "witchery:alder_slab",
+      "",
+      "witchery:alder_planks",
+      "",
+      "",
+      "witchery:alder_planks",
+      ""
+    ]
+  },
+  "bibliocraft:witchery_alder_tool_rack": {
+    "result": "bibliocraft:witchery_alder_tool_rack",
+    "count": 1,
+    "ingredients": [
+      "witchery:alder_slab",
+      "witchery:alder_slab",
+      "witchery:alder_slab",
+      "witchery:alder_slab",
+      "minecraft:iron_ingot",
+      "witchery:alder_slab",
+      "witchery:alder_slab",
+      "witchery:alder_slab",
+      "witchery:alder_slab"
+    ]
+  },
+  "bibliocraft:witchery_hawthorn_bookcase": {
+    "result": "bibliocraft:witchery_hawthorn_bookcase",
+    "count": 1,
+    "ingredients": [
+      "witchery:hawthorn_planks",
+      "witchery:hawthorn_slab",
+      "witchery:hawthorn_planks",
+      "witchery:hawthorn_planks",
+      "witchery:hawthorn_slab",
+      "witchery:hawthorn_planks",
+      "witchery:hawthorn_planks",
+      "witchery:hawthorn_slab",
+      "witchery:hawthorn_planks"
+    ]
+  },
+  "bibliocraft:witchery_hawthorn_fancy_armor_stand": {
+    "result": "bibliocraft:witchery_hawthorn_fancy_armor_stand",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "witchery:hawthorn_slab",
+      "witchery:hawthorn_slab",
+      "witchery:hawthorn_slab"
+    ]
+  },
+  "bibliocraft:witchery_hawthorn_fancy_clock": {
+    "result": "bibliocraft:witchery_hawthorn_fancy_clock",
+    "count": 1,
+    "ingredients": [
+      "witchery:hawthorn_slab",
+      "minecraft:clock",
+      "witchery:hawthorn_slab",
+      "witchery:hawthorn_slab",
+      "minecraft:stick",
+      "witchery:hawthorn_slab",
+      "witchery:hawthorn_slab",
+      "minecraft:copper_ingot",
+      "witchery:hawthorn_slab"
+    ]
+  },
+  "bibliocraft:witchery_hawthorn_fancy_crafter": {
+    "result": "bibliocraft:witchery_hawthorn_fancy_crafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black",
+      "minecraft:crafting_tables",
+      "minecraft:feather",
+      "witchery:hawthorn_planks",
+      "minecraft:glass",
+      "witchery:hawthorn_planks",
+      "witchery:hawthorn_planks",
+      "minecraft:crafter",
+      "witchery:hawthorn_planks"
+    ]
+  },
+  "bibliocraft:witchery_hawthorn_fancy_sign": {
+    "result": "bibliocraft:witchery_hawthorn_fancy_sign",
+    "count": 1,
+    "ingredients": [
+      "witchery:hawthorn_planks",
+      "minecraft:paper",
+      "witchery:hawthorn_planks",
+      "witchery:hawthorn_planks",
+      "minecraft:paper",
+      "witchery:hawthorn_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "bibliocraft:witchery_hawthorn_grandfather_clock": {
+    "result": "bibliocraft:witchery_hawthorn_grandfather_clock",
+    "count": 1,
+    "ingredients": [
+      "bibliocraft:witchery_hawthorn_fancy_clock",
+      "bibliocraft:witchery_hawthorn_fancy_clock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:witchery_hawthorn_label": {
+    "result": "bibliocraft:witchery_hawthorn_label",
+    "count": 1,
+    "ingredients": [
+      "witchery:hawthorn_slab",
+      "witchery:hawthorn_slab",
+      "witchery:hawthorn_slab",
+      "witchery:hawthorn_slab",
+      "witchery:hawthorn_slab",
+      "witchery:hawthorn_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:witchery_hawthorn_potion_shelf": {
+    "result": "bibliocraft:witchery_hawthorn_potion_shelf",
+    "count": 1,
+    "ingredients": [
+      "witchery:hawthorn_slab",
+      "witchery:hawthorn_slab",
+      "witchery:hawthorn_slab",
+      "witchery:hawthorn_planks",
+      "minecraft:glass_bottle",
+      "witchery:hawthorn_planks",
+      "witchery:hawthorn_slab",
+      "witchery:hawthorn_slab",
+      "witchery:hawthorn_slab"
+    ]
+  },
+  "bibliocraft:witchery_hawthorn_shelf": {
+    "result": "bibliocraft:witchery_hawthorn_shelf",
+    "count": 1,
+    "ingredients": [
+      "witchery:hawthorn_slab",
+      "witchery:hawthorn_slab",
+      "witchery:hawthorn_slab",
+      "",
+      "witchery:hawthorn_planks",
+      "",
+      "witchery:hawthorn_slab",
+      "witchery:hawthorn_slab",
+      "witchery:hawthorn_slab"
+    ]
+  },
+  "bibliocraft:witchery_hawthorn_table": {
+    "result": "bibliocraft:witchery_hawthorn_table",
+    "count": 1,
+    "ingredients": [
+      "witchery:hawthorn_slab",
+      "witchery:hawthorn_slab",
+      "witchery:hawthorn_slab",
+      "",
+      "witchery:hawthorn_planks",
+      "",
+      "",
+      "witchery:hawthorn_planks",
+      ""
+    ]
+  },
+  "bibliocraft:witchery_hawthorn_tool_rack": {
+    "result": "bibliocraft:witchery_hawthorn_tool_rack",
+    "count": 1,
+    "ingredients": [
+      "witchery:hawthorn_slab",
+      "witchery:hawthorn_slab",
+      "witchery:hawthorn_slab",
+      "witchery:hawthorn_slab",
+      "minecraft:iron_ingot",
+      "witchery:hawthorn_slab",
+      "witchery:hawthorn_slab",
+      "witchery:hawthorn_slab",
+      "witchery:hawthorn_slab"
+    ]
+  },
+  "bibliocraft:witchery_rowan_bookcase": {
+    "result": "bibliocraft:witchery_rowan_bookcase",
+    "count": 1,
+    "ingredients": [
+      "witchery:rowan_planks",
+      "witchery:rowan_slab",
+      "witchery:rowan_planks",
+      "witchery:rowan_planks",
+      "witchery:rowan_slab",
+      "witchery:rowan_planks",
+      "witchery:rowan_planks",
+      "witchery:rowan_slab",
+      "witchery:rowan_planks"
+    ]
+  },
+  "bibliocraft:witchery_rowan_fancy_armor_stand": {
+    "result": "bibliocraft:witchery_rowan_fancy_armor_stand",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "witchery:rowan_slab",
+      "witchery:rowan_slab",
+      "witchery:rowan_slab"
+    ]
+  },
+  "bibliocraft:witchery_rowan_fancy_clock": {
+    "result": "bibliocraft:witchery_rowan_fancy_clock",
+    "count": 1,
+    "ingredients": [
+      "witchery:rowan_slab",
+      "minecraft:clock",
+      "witchery:rowan_slab",
+      "witchery:rowan_slab",
+      "minecraft:stick",
+      "witchery:rowan_slab",
+      "witchery:rowan_slab",
+      "minecraft:copper_ingot",
+      "witchery:rowan_slab"
+    ]
+  },
+  "bibliocraft:witchery_rowan_fancy_crafter": {
+    "result": "bibliocraft:witchery_rowan_fancy_crafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black",
+      "minecraft:crafting_tables",
+      "minecraft:feather",
+      "witchery:rowan_planks",
+      "minecraft:glass",
+      "witchery:rowan_planks",
+      "witchery:rowan_planks",
+      "minecraft:crafter",
+      "witchery:rowan_planks"
+    ]
+  },
+  "bibliocraft:witchery_rowan_fancy_sign": {
+    "result": "bibliocraft:witchery_rowan_fancy_sign",
+    "count": 1,
+    "ingredients": [
+      "witchery:rowan_planks",
+      "minecraft:paper",
+      "witchery:rowan_planks",
+      "witchery:rowan_planks",
+      "minecraft:paper",
+      "witchery:rowan_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "bibliocraft:witchery_rowan_grandfather_clock": {
+    "result": "bibliocraft:witchery_rowan_grandfather_clock",
+    "count": 1,
+    "ingredients": [
+      "bibliocraft:witchery_rowan_fancy_clock",
+      "bibliocraft:witchery_rowan_fancy_clock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:witchery_rowan_label": {
+    "result": "bibliocraft:witchery_rowan_label",
+    "count": 1,
+    "ingredients": [
+      "witchery:rowan_slab",
+      "witchery:rowan_slab",
+      "witchery:rowan_slab",
+      "witchery:rowan_slab",
+      "witchery:rowan_slab",
+      "witchery:rowan_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:witchery_rowan_potion_shelf": {
+    "result": "bibliocraft:witchery_rowan_potion_shelf",
+    "count": 1,
+    "ingredients": [
+      "witchery:rowan_slab",
+      "witchery:rowan_slab",
+      "witchery:rowan_slab",
+      "witchery:rowan_planks",
+      "minecraft:glass_bottle",
+      "witchery:rowan_planks",
+      "witchery:rowan_slab",
+      "witchery:rowan_slab",
+      "witchery:rowan_slab"
+    ]
+  },
+  "bibliocraft:witchery_rowan_shelf": {
+    "result": "bibliocraft:witchery_rowan_shelf",
+    "count": 1,
+    "ingredients": [
+      "witchery:rowan_slab",
+      "witchery:rowan_slab",
+      "witchery:rowan_slab",
+      "",
+      "witchery:rowan_planks",
+      "",
+      "witchery:rowan_slab",
+      "witchery:rowan_slab",
+      "witchery:rowan_slab"
+    ]
+  },
+  "bibliocraft:witchery_rowan_table": {
+    "result": "bibliocraft:witchery_rowan_table",
+    "count": 1,
+    "ingredients": [
+      "witchery:rowan_slab",
+      "witchery:rowan_slab",
+      "witchery:rowan_slab",
+      "",
+      "witchery:rowan_planks",
+      "",
+      "",
+      "witchery:rowan_planks",
+      ""
+    ]
+  },
+  "bibliocraft:witchery_rowan_tool_rack": {
+    "result": "bibliocraft:witchery_rowan_tool_rack",
+    "count": 1,
+    "ingredients": [
+      "witchery:rowan_slab",
+      "witchery:rowan_slab",
+      "witchery:rowan_slab",
+      "witchery:rowan_slab",
+      "minecraft:iron_ingot",
+      "witchery:rowan_slab",
+      "witchery:rowan_slab",
+      "witchery:rowan_slab",
+      "witchery:rowan_slab"
+    ]
+  },
+  "biomeswevegone:willow_boat": {
+    "result": "biomeswevegone:willow_boat",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:willow_planks",
+      "",
+      "biomeswevegone:willow_planks",
+      "biomeswevegone:willow_planks",
+      "biomeswevegone:willow_planks",
+      "biomeswevegone:willow_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:willow_bookshelf": {
+    "result": "biomeswevegone:willow_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:willow_planks",
+      "biomeswevegone:willow_planks",
+      "biomeswevegone:willow_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "biomeswevegone:willow_planks",
+      "biomeswevegone:willow_planks",
+      "biomeswevegone:willow_planks"
+    ]
+  },
+  "biomeswevegone:willow_button": {
+    "result": "biomeswevegone:willow_button",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:willow_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:willow_chest_boat": {
+    "result": "biomeswevegone:willow_chest_boat",
+    "count": 1,
+    "ingredients": [
+      "minecraft:chest",
+      "biomeswevegone:willow_boat",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:willow_crafting_table": {
+    "result": "biomeswevegone:willow_crafting_table",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:willow_planks",
+      "biomeswevegone:willow_planks",
+      "",
+      "biomeswevegone:willow_planks",
+      "biomeswevegone:willow_planks",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:willow_door": {
+    "result": "biomeswevegone:willow_door",
+    "count": 3,
+    "ingredients": [
+      "biomeswevegone:willow_planks",
+      "biomeswevegone:willow_planks",
+      "",
+      "biomeswevegone:willow_planks",
+      "biomeswevegone:willow_planks",
+      "",
+      "biomeswevegone:willow_planks",
+      "biomeswevegone:willow_planks",
+      ""
+    ]
+  },
+  "biomeswevegone:willow_fence": {
+    "result": "biomeswevegone:willow_fence",
+    "count": 3,
+    "ingredients": [
+      "biomeswevegone:willow_planks",
+      "minecraft:stick",
+      "biomeswevegone:willow_planks",
+      "biomeswevegone:willow_planks",
+      "minecraft:stick",
+      "biomeswevegone:willow_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:willow_fence_gate": {
+    "result": "biomeswevegone:willow_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "biomeswevegone:willow_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "biomeswevegone:willow_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:willow_hanging_sign": {
+    "result": "biomeswevegone:willow_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "biomeswevegone:stripped_willow_log",
+      "biomeswevegone:stripped_willow_log",
+      "biomeswevegone:stripped_willow_log",
+      "biomeswevegone:stripped_willow_log",
+      "biomeswevegone:stripped_willow_log",
+      "biomeswevegone:stripped_willow_log"
+    ]
+  },
+  "biomeswevegone:willow_planks": {
+    "result": "biomeswevegone:willow_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:willow_pressure_plate": {
+    "result": "biomeswevegone:willow_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:willow_planks",
+      "biomeswevegone:willow_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:willow_sign": {
+    "result": "biomeswevegone:willow_sign",
+    "count": 3,
+    "ingredients": [
+      "biomeswevegone:willow_planks",
+      "biomeswevegone:willow_planks",
+      "biomeswevegone:willow_planks",
+      "biomeswevegone:willow_planks",
+      "biomeswevegone:willow_planks",
+      "biomeswevegone:willow_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "biomeswevegone:willow_slab": {
+    "result": "biomeswevegone:willow_slab",
+    "count": 6,
+    "ingredients": [
+      "biomeswevegone:willow_planks",
+      "biomeswevegone:willow_planks",
+      "biomeswevegone:willow_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:willow_stairs": {
+    "result": "biomeswevegone:willow_stairs",
+    "count": 4,
+    "ingredients": [
+      "biomeswevegone:willow_planks",
+      "",
+      "",
+      "biomeswevegone:willow_planks",
+      "biomeswevegone:willow_planks",
+      "",
+      "biomeswevegone:willow_planks",
+      "biomeswevegone:willow_planks",
+      "biomeswevegone:willow_planks"
+    ]
+  },
+  "biomeswevegone:willow_trapdoor": {
+    "result": "biomeswevegone:willow_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "biomeswevegone:willow_planks",
+      "biomeswevegone:willow_planks",
+      "biomeswevegone:willow_planks",
+      "biomeswevegone:willow_planks",
+      "biomeswevegone:willow_planks",
+      "biomeswevegone:willow_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:willow_wood": {
+    "result": "biomeswevegone:willow_wood",
+    "count": 3,
+    "ingredients": [
+      "biomeswevegone:willow_log",
+      "biomeswevegone:willow_log",
+      "",
+      "biomeswevegone:willow_log",
+      "biomeswevegone:willow_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:windswept_sandstone": {
+    "result": "biomeswevegone:windswept_sandstone",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:windswept_sand",
+      "biomeswevegone:windswept_sand",
+      "",
+      "biomeswevegone:windswept_sand",
+      "biomeswevegone:windswept_sand",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:windswept_sandstone_pillar": {
+    "result": "biomeswevegone:windswept_sandstone_pillar",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:windswept_sandstone",
+      "",
+      "",
+      "biomeswevegone:windswept_sandstone",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:windswept_sandstone_slab": {
+    "result": "biomeswevegone:windswept_sandstone_slab",
+    "count": 6,
+    "ingredients": [
+      "biomeswevegone:windswept_sandstone",
+      "biomeswevegone:windswept_sandstone",
+      "biomeswevegone:windswept_sandstone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:windswept_sandstone_stairs": {
+    "result": "biomeswevegone:windswept_sandstone_stairs",
+    "count": 4,
+    "ingredients": [
+      "biomeswevegone:windswept_sandstone",
+      "",
+      "",
+      "biomeswevegone:windswept_sandstone",
+      "biomeswevegone:windswept_sandstone",
+      "",
+      "biomeswevegone:windswept_sandstone",
+      "biomeswevegone:windswept_sandstone",
+      "biomeswevegone:windswept_sandstone"
+    ]
+  },
+  "biomeswevegone:windswept_sandstone_wall": {
+    "result": "biomeswevegone:windswept_sandstone_wall",
+    "count": 6,
+    "ingredients": [
+      "biomeswevegone:windswept_sandstone",
+      "biomeswevegone:windswept_sandstone",
+      "biomeswevegone:windswept_sandstone",
+      "biomeswevegone:windswept_sandstone",
+      "biomeswevegone:windswept_sandstone",
+      "biomeswevegone:windswept_sandstone",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:winter_rosy_wreath": {
+    "result": "biomeswevegone:winter_rosy_wreath",
+    "count": 1,
+    "ingredients": [
+      "",
+      "biomeswevegone:winter_rose",
+      "",
+      "biomeswevegone:black_rose",
+      "biomeswevegone:wreath",
+      "biomeswevegone:black_rose",
+      "",
+      "biomeswevegone:winter_rose",
+      ""
+    ]
+  },
+  "biomeswevegone:witch_hazel_boat": {
+    "result": "biomeswevegone:witch_hazel_boat",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:witch_hazel_planks",
+      "",
+      "biomeswevegone:witch_hazel_planks",
+      "biomeswevegone:witch_hazel_planks",
+      "biomeswevegone:witch_hazel_planks",
+      "biomeswevegone:witch_hazel_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:witch_hazel_bookshelf": {
+    "result": "biomeswevegone:witch_hazel_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:witch_hazel_planks",
+      "biomeswevegone:witch_hazel_planks",
+      "biomeswevegone:witch_hazel_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "biomeswevegone:witch_hazel_planks",
+      "biomeswevegone:witch_hazel_planks",
+      "biomeswevegone:witch_hazel_planks"
+    ]
+  },
+  "biomeswevegone:witch_hazel_button": {
+    "result": "biomeswevegone:witch_hazel_button",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:witch_hazel_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:witch_hazel_chest_boat": {
+    "result": "biomeswevegone:witch_hazel_chest_boat",
+    "count": 1,
+    "ingredients": [
+      "minecraft:chest",
+      "biomeswevegone:witch_hazel_boat",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:witch_hazel_crafting_table": {
+    "result": "biomeswevegone:witch_hazel_crafting_table",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:witch_hazel_planks",
+      "biomeswevegone:witch_hazel_planks",
+      "",
+      "biomeswevegone:witch_hazel_planks",
+      "biomeswevegone:witch_hazel_planks",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:witch_hazel_door": {
+    "result": "biomeswevegone:witch_hazel_door",
+    "count": 3,
+    "ingredients": [
+      "biomeswevegone:witch_hazel_planks",
+      "biomeswevegone:witch_hazel_planks",
+      "",
+      "biomeswevegone:witch_hazel_planks",
+      "biomeswevegone:witch_hazel_planks",
+      "",
+      "biomeswevegone:witch_hazel_planks",
+      "biomeswevegone:witch_hazel_planks",
+      ""
+    ]
+  },
+  "biomeswevegone:witch_hazel_fence": {
+    "result": "biomeswevegone:witch_hazel_fence",
+    "count": 3,
+    "ingredients": [
+      "biomeswevegone:witch_hazel_planks",
+      "minecraft:stick",
+      "biomeswevegone:witch_hazel_planks",
+      "biomeswevegone:witch_hazel_planks",
+      "minecraft:stick",
+      "biomeswevegone:witch_hazel_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:witch_hazel_fence_gate": {
+    "result": "biomeswevegone:witch_hazel_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "biomeswevegone:witch_hazel_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "biomeswevegone:witch_hazel_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:witch_hazel_hanging_sign": {
+    "result": "biomeswevegone:witch_hazel_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "biomeswevegone:stripped_witch_hazel_log",
+      "biomeswevegone:stripped_witch_hazel_log",
+      "biomeswevegone:stripped_witch_hazel_log",
+      "biomeswevegone:stripped_witch_hazel_log",
+      "biomeswevegone:stripped_witch_hazel_log",
+      "biomeswevegone:stripped_witch_hazel_log"
+    ]
+  },
+  "biomeswevegone:witch_hazel_planks": {
+    "result": "biomeswevegone:witch_hazel_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:witch_hazel_pressure_plate": {
+    "result": "biomeswevegone:witch_hazel_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:witch_hazel_planks",
+      "biomeswevegone:witch_hazel_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:witch_hazel_sign": {
+    "result": "biomeswevegone:witch_hazel_sign",
+    "count": 3,
+    "ingredients": [
+      "biomeswevegone:witch_hazel_planks",
+      "biomeswevegone:witch_hazel_planks",
+      "biomeswevegone:witch_hazel_planks",
+      "biomeswevegone:witch_hazel_planks",
+      "biomeswevegone:witch_hazel_planks",
+      "biomeswevegone:witch_hazel_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "biomeswevegone:witch_hazel_slab": {
+    "result": "biomeswevegone:witch_hazel_slab",
+    "count": 6,
+    "ingredients": [
+      "biomeswevegone:witch_hazel_planks",
+      "biomeswevegone:witch_hazel_planks",
+      "biomeswevegone:witch_hazel_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:witch_hazel_stairs": {
+    "result": "biomeswevegone:witch_hazel_stairs",
+    "count": 4,
+    "ingredients": [
+      "biomeswevegone:witch_hazel_planks",
+      "",
+      "",
+      "biomeswevegone:witch_hazel_planks",
+      "biomeswevegone:witch_hazel_planks",
+      "",
+      "biomeswevegone:witch_hazel_planks",
+      "biomeswevegone:witch_hazel_planks",
+      "biomeswevegone:witch_hazel_planks"
+    ]
+  },
+  "biomeswevegone:witch_hazel_trapdoor": {
+    "result": "biomeswevegone:witch_hazel_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "biomeswevegone:witch_hazel_planks",
+      "biomeswevegone:witch_hazel_planks",
+      "biomeswevegone:witch_hazel_planks",
+      "biomeswevegone:witch_hazel_planks",
+      "biomeswevegone:witch_hazel_planks",
+      "biomeswevegone:witch_hazel_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:witch_hazel_wood": {
+    "result": "biomeswevegone:witch_hazel_wood",
+    "count": 3,
+    "ingredients": [
+      "biomeswevegone:witch_hazel_log",
+      "biomeswevegone:witch_hazel_log",
+      "",
+      "biomeswevegone:witch_hazel_log",
+      "biomeswevegone:witch_hazel_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "cataclysm:witherite_block": {
+    "result": "cataclysm:witherite_block",
+    "count": 1,
+    "ingredients": [
+      "cataclysm:witherite_ingot",
+      "cataclysm:witherite_ingot",
+      "cataclysm:witherite_ingot",
+      "cataclysm:witherite_ingot",
+      "cataclysm:witherite_ingot",
+      "cataclysm:witherite_ingot",
+      "cataclysm:witherite_ingot",
+      "cataclysm:witherite_ingot",
+      "cataclysm:witherite_ingot"
+    ]
+  },
+  "cataclysm:witherite_ingot": {
+    "result": "cataclysm:witherite_ingot",
+    "count": 9,
+    "ingredients": [
+      "cataclysm:witherite_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "cataclysm:wither_assault_shoulder_weapon": {
+    "result": "cataclysm:wither_assault_shoulder_weapon",
+    "count": 1,
+    "ingredients": [
+      "cataclysm:witherite_ingot",
+      "minecraft:gunpowder",
+      "",
+      "minecraft:gunpowder",
+      "minecraft:redstone_block",
+      "minecraft:gunpowder",
+      "",
+      "minecraft:gunpowder",
+      "cataclysm:witherite_ingot"
+    ]
+  },
+  "computercraft:wired_modem": {
+    "result": "computercraft:wired_modem",
+    "count": 1,
+    "ingredients": [
+      "computercraft:wired_modem_full",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "computercraft:wired_modem_full": {
+    "result": "computercraft:wired_modem_full",
+    "count": 1,
+    "ingredients": [
+      "computercraft:wired_modem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "computercraft:wireless_modem_advanced": {
+    "result": "computercraft:wireless_modem_advanced",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:ender_eye",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot"
+    ]
+  },
+  "computercraft:wireless_modem_normal": {
+    "result": "computercraft:wireless_modem_normal",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:ender_pearl",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone"
+    ]
+  },
+  "create:windmill_bearing": {
+    "result": "create:windmill_bearing",
+    "count": 1,
+    "ingredients": [
+      "minecraft:wooden_slabs",
+      "",
+      "",
+      "minecraft:stone",
+      "",
+      "",
+      "create:shaft",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:wine_carpet": {
+    "result": "dyenamics:wine_carpet",
+    "count": 3,
+    "ingredients": [
+      "dyenamics:wine_wool",
+      "dyenamics:wine_wool",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:wine_candle": {
+    "result": "dyenamics:wine_candle",
+    "count": 1,
+    "ingredients": [
+      "minecraft:candle",
+      "minecraft:wine",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:wine_concrete_powder": {
+    "result": "dyenamics:wine_concrete_powder",
+    "count": 8,
+    "ingredients": [
+      "minecraft:wine",
+      "minecraft:sand",
+      "minecraft:sand",
+      "minecraft:sand",
+      "minecraft:sand",
+      "minecraft:gravel",
+      "minecraft:gravel",
+      "minecraft:gravel",
+      "minecraft:gravel"
+    ]
+  },
+  "dyenamics:wine_dye": {
+    "result": "dyenamics:wine_dye",
+    "count": 2,
+    "ingredients": [
+      "minecraft:black",
+      "minecraft:purple",
+      "minecraft:maroon",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:wine_stained_glass": {
+    "result": "dyenamics:wine_stained_glass",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:wine",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass"
+    ]
+  },
+  "dyenamics:wine_stained_glass_pane": {
+    "result": "dyenamics:wine_stained_glass_pane",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:wine",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane"
+    ]
+  },
+  "dyenamics:wine_terracotta": {
+    "result": "dyenamics:wine_terracotta",
+    "count": 8,
+    "ingredients": [
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:wine",
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:terracotta"
+    ]
+  },
+  "dyenamics:wine_wool": {
+    "result": "dyenamics:wine_wool",
+    "count": 1,
+    "ingredients": [
+      "minecraft:wine",
+      "minecraft:white_wool",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:wine_banner": {
+    "result": "dyenamics:wine_banner",
+    "count": 1,
+    "ingredients": [
+      "dyenamics:wine_wool",
+      "dyenamics:wine_wool",
+      "dyenamics:wine_wool",
+      "dyenamics:wine_wool",
+      "dyenamics:wine_wool",
+      "dyenamics:wine_wool",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "dyenamics:wine_bed": {
+    "result": "dyenamics:wine_bed",
+    "count": 1,
+    "ingredients": [
+      "minecraft:beds",
+      "minecraft:wine",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:wine_rockwool": {
+    "result": "dyenamics:wine_rockwool",
+    "count": 1,
+    "ingredients": [
+      "thermal:white_rockwool",
+      "minecraft:wine",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "enderio:wired_charger": {
+    "result": "enderio:wired_charger",
+    "count": 1,
+    "ingredients": [
+      "minecraft:conductive_alloy",
+      "minecraft:conductive_alloy",
+      "minecraft:conductive_alloy",
+      "minecraft:conductive_alloy",
+      "enderio:void_chassis",
+      "minecraft:conductive_alloy",
+      "minecraft:conductive_alloy",
+      "minecraft:conductive_alloy",
+      "minecraft:conductive_alloy"
+    ]
+  },
+  "enderio:wireless_charger": {
+    "result": "enderio:wireless_charger",
+    "count": 1,
+    "ingredients": [
+      "minecraft:conductive_alloy",
+      "minecraft:conductive_alloy",
+      "minecraft:conductive_alloy",
+      "minecraft:conductive_alloy",
+      "enderio:void_chassis",
+      "minecraft:conductive_alloy",
+      "minecraft:conductive_alloy",
+      "enderio:ender_resonator",
+      "minecraft:conductive_alloy"
+    ]
+  },
+  "enderio:wireless_charger_antenna": {
+    "result": "enderio:wireless_charger_antenna",
+    "count": 1,
+    "ingredients": [
+      "",
+      "modern_industrialization:tin_ingot",
+      "",
+      "",
+      "modern_industrialization:tin_ingot",
+      "",
+      "minecraft:conductive_alloy",
+      "enderio:ender_resonator",
+      "minecraft:conductive_alloy"
+    ]
+  },
+  "enderio:wireless_charger_antenna_advanced": {
+    "result": "enderio:wireless_charger_antenna_advanced",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:vibrant_alloy",
+      "",
+      "",
+      "minecraft:vibrant_alloy",
+      "",
+      "minecraft:conductive_alloy",
+      "enderio:sentient_ender",
+      "minecraft:conductive_alloy"
+    ]
+  },
+  "eternal_starlight:wilted_crossbow": {
+    "result": "eternal_starlight:wilted_crossbow",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "modern_industrialization:steel_ingot",
+      "minecraft:stick",
+      "eternal_starlight:tenacious_vine",
+      "eternal_starlight:red_velvetumoss_flower",
+      "eternal_starlight:tenacious_vine",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "eternal_starlight:wind_crystal": {
+    "result": "eternal_starlight:wind_crystal",
+    "count": 1,
+    "ingredients": [
+      "",
+      "eternal_starlight:red_starlight_crystal_shard",
+      "",
+      "eternal_starlight:red_starlight_crystal_shard",
+      "minecraft:wind_crystal_ingredients",
+      "eternal_starlight:red_starlight_crystal_shard",
+      "",
+      "eternal_starlight:red_starlight_crystal_shard",
+      ""
+    ]
+  },
+  "expandedae:wireless_exp_encoding_terminal": {
+    "result": "expandedae:wireless_exp_encoding_terminal",
+    "count": 1,
+    "ingredients": [
+      "ae2:wireless_receiver",
+      "",
+      "",
+      "expandedae:exp_encoding_terminal",
+      "",
+      "",
+      "ae2:dense_energy_cell",
+      "",
+      ""
+    ]
+  },
+  "extendedae:wireless_ex_pat": {
+    "result": "extendedae:wireless_ex_pat",
+    "count": 1,
+    "ingredients": [
+      "ae2:wireless_receiver",
+      "",
+      "",
+      "extendedae:ex_pattern_access_part",
+      "",
+      "",
+      "ae2:dense_energy_cell",
+      "",
+      ""
+    ]
+  },
+  "extendedae:wireless_connector_upgrade": {
+    "result": "extendedae:wireless_connector_upgrade",
+    "count": 1,
+    "ingredients": [
+      "extendedae:wireless_hub",
+      "minecraft:ingots",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "handcrafted:witch_trophy": {
+    "result": "handcrafted:witch_trophy",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stone",
+      "",
+      "minecraft:stone",
+      "minecraft:glass_bottle",
+      "minecraft:stone",
+      "minecraft:stone",
+      "",
+      "minecraft:stone"
+    ]
+  },
+  "handcrafted:wither_skeleton_trophy": {
+    "result": "handcrafted:wither_skeleton_trophy",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:wither_skeleton_skull",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks"
+    ]
+  },
+  "iceandfire:wither_shard": {
+    "result": "iceandfire:wither_shard",
+    "count": 3,
+    "ingredients": [
+      "minecraft:bone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immeng:wirecoil_me": {
+    "result": "immeng:wirecoil_me",
+    "count": 4,
+    "ingredients": [
+      "",
+      "ae2:fluix_glass_cable",
+      "",
+      "ae2:fluix_glass_cable",
+      "minecraft:stick",
+      "ae2:fluix_glass_cable",
+      "",
+      "ae2:fluix_glass_cable",
+      ""
+    ]
+  },
+  "immeng:wirecoil_me_dense": {
+    "result": "immeng:wirecoil_me_dense",
+    "count": 4,
+    "ingredients": [
+      "",
+      "ae2:fluix_covered_dense_cable",
+      "",
+      "ae2:fluix_covered_dense_cable",
+      "minecraft:stick",
+      "ae2:fluix_covered_dense_cable",
+      "",
+      "ae2:fluix_covered_dense_cable",
+      ""
+    ]
+  },
+  "immersiveengineering:wirecoil_copper": {
+    "result": "immersiveengineering:wirecoil_copper",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:copper",
+      "",
+      "minecraft:copper",
+      "minecraft:stick",
+      "minecraft:copper",
+      "",
+      "minecraft:copper",
+      ""
+    ]
+  },
+  "immersiveengineering:wirecoil_electrum": {
+    "result": "immersiveengineering:wirecoil_electrum",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:electrum",
+      "",
+      "minecraft:electrum",
+      "minecraft:stick",
+      "minecraft:electrum",
+      "",
+      "minecraft:electrum",
+      ""
+    ]
+  },
+  "immersiveengineering:windmill": {
+    "result": "immersiveengineering:windmill",
+    "count": 1,
+    "ingredients": [
+      "immersiveengineering:windmill_blade",
+      "immersiveengineering:windmill_blade",
+      "immersiveengineering:windmill_blade",
+      "immersiveengineering:windmill_blade",
+      "minecraft:iron_ingot",
+      "immersiveengineering:windmill_blade",
+      "immersiveengineering:windmill_blade",
+      "immersiveengineering:windmill_blade",
+      "immersiveengineering:windmill_blade"
+    ]
+  },
+  "immersiveengineering:windmill_blade": {
+    "result": "immersiveengineering:windmill_blade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:treated_wood",
+      "minecraft:treated_wood",
+      "",
+      "minecraft:treated_wood",
+      "minecraft:treated_wood",
+      "minecraft:treated_wood",
+      "minecraft:treated_wood",
+      "minecraft:treated_wood",
+      ""
+    ]
+  },
+  "immersiveengineering:windmill_sail": {
+    "result": "immersiveengineering:windmill_sail",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:fabric_hemp",
+      "minecraft:fabric_hemp",
+      "minecraft:fabric_hemp",
+      "minecraft:fabric_hemp",
+      "minecraft:fabric_hemp",
+      "",
+      "minecraft:fabric_hemp",
+      ""
+    ]
+  },
+  "immersiveengineering:wirecoil_copper_ins": {
+    "result": "immersiveengineering:wirecoil_copper_ins",
+    "count": 4,
+    "ingredients": [
+      "minecraft:fabric_hemp",
+      "immersiveengineering:wirecoil_copper",
+      "minecraft:fabric_hemp",
+      "immersiveengineering:wirecoil_copper",
+      "minecraft:fabric_hemp",
+      "immersiveengineering:wirecoil_copper",
+      "minecraft:fabric_hemp",
+      "immersiveengineering:wirecoil_copper",
+      "minecraft:fabric_hemp"
+    ]
+  },
+  "immersiveengineering:wirecoil_electrum_ins": {
+    "result": "immersiveengineering:wirecoil_electrum_ins",
+    "count": 4,
+    "ingredients": [
+      "minecraft:fabric_hemp",
+      "immersiveengineering:wirecoil_electrum",
+      "minecraft:fabric_hemp",
+      "immersiveengineering:wirecoil_electrum",
+      "minecraft:fabric_hemp",
+      "immersiveengineering:wirecoil_electrum",
+      "minecraft:fabric_hemp",
+      "immersiveengineering:wirecoil_electrum",
+      "minecraft:fabric_hemp"
+    ]
+  },
+  "immersiveengineering:wirecoil_structure_rope": {
+    "result": "immersiveengineering:wirecoil_structure_rope",
+    "count": 4,
+    "ingredients": [
+      "",
+      "immersiveengineering:hemp_fiber",
+      "",
+      "immersiveengineering:hemp_fiber",
+      "minecraft:stick",
+      "immersiveengineering:hemp_fiber",
+      "",
+      "immersiveengineering:hemp_fiber",
+      ""
+    ]
+  },
+  "immersiveengineering:wirecoil_structure_steel": {
+    "result": "immersiveengineering:wirecoil_structure_steel",
+    "count": 4,
+    "ingredients": [
+      "",
+      "immersiveengineering:wire_steel",
+      "",
+      "immersiveengineering:wire_steel",
+      "minecraft:stick",
+      "immersiveengineering:wire_steel",
+      "",
+      "immersiveengineering:wire_steel",
+      ""
+    ]
+  },
+  "immersiveengineering:wirecutter": {
+    "result": "immersiveengineering:wirecutter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:wire_aluminum": {
+    "result": "immersiveengineering:wire_aluminum",
+    "count": 1,
+    "ingredients": [
+      "minecraft:aluminum",
+      "immersiveengineering:wirecutter",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:wire_copper": {
+    "result": "immersiveengineering:wire_copper",
+    "count": 1,
+    "ingredients": [
+      "minecraft:copper",
+      "immersiveengineering:wirecutter",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:wire_electrum": {
+    "result": "immersiveengineering:wire_electrum",
+    "count": 1,
+    "ingredients": [
+      "minecraft:electrum",
+      "immersiveengineering:wirecutter",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:wire_lead": {
+    "result": "immersiveengineering:wire_lead",
+    "count": 1,
+    "ingredients": [
+      "minecraft:lead",
+      "immersiveengineering:wirecutter",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:wire_steel": {
+    "result": "immersiveengineering:wire_steel",
+    "count": 1,
+    "ingredients": [
+      "minecraft:steel",
+      "immersiveengineering:wirecutter",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "industrialforegoing:wither_builder": {
+    "result": "industrialforegoing:wither_builder",
+    "count": 1,
+    "ingredients": [
+      "minecraft:plastics",
+      "minecraft:nether_star",
+      "minecraft:plastics",
+      "minecraft:wither_skeleton_skull",
+      "minecraft:supreme",
+      "minecraft:wither_skeleton_skull",
+      "minecraft:soul_sand",
+      "minecraft:soul_sand",
+      "minecraft:soul_sand"
+    ]
+  },
+  "irons_spellbooks:wisewood_chiseled_bookshelf": {
+    "result": "irons_spellbooks:wisewood_chiseled_bookshelf",
+    "count": 8,
+    "ingredients": [
+      "minecraft:chiseled_bookshelf",
+      "minecraft:chiseled_bookshelf",
+      "minecraft:chiseled_bookshelf",
+      "minecraft:chiseled_bookshelf",
+      "irons_spellbooks:arcane_essence",
+      "minecraft:chiseled_bookshelf",
+      "minecraft:chiseled_bookshelf",
+      "minecraft:chiseled_bookshelf",
+      "minecraft:chiseled_bookshelf"
+    ]
+  },
+  "irons_spellbooks:wisewood_bookshelf": {
+    "result": "irons_spellbooks:wisewood_bookshelf",
+    "count": 8,
+    "ingredients": [
+      "minecraft:bookshelves",
+      "minecraft:bookshelves",
+      "minecraft:bookshelves",
+      "minecraft:bookshelves",
+      "irons_spellbooks:arcane_essence",
+      "minecraft:bookshelves",
+      "minecraft:bookshelves",
+      "minecraft:bookshelves",
+      "minecraft:bookshelves"
+    ]
+  },
+  "irons_spellbooks:wizard_boots": {
+    "result": "irons_spellbooks:wizard_boots",
+    "count": 1,
+    "ingredients": [
+      "irons_spellbooks:magic_cloth",
+      "",
+      "irons_spellbooks:magic_cloth",
+      "irons_spellbooks:magic_cloth",
+      "",
+      "irons_spellbooks:magic_cloth",
+      "",
+      "",
+      ""
+    ]
+  },
+  "irons_spellbooks:wizard_chestplate": {
+    "result": "irons_spellbooks:wizard_chestplate",
+    "count": 1,
+    "ingredients": [
+      "irons_spellbooks:magic_cloth",
+      "",
+      "irons_spellbooks:magic_cloth",
+      "irons_spellbooks:magic_cloth",
+      "irons_spellbooks:magic_cloth",
+      "irons_spellbooks:magic_cloth",
+      "irons_spellbooks:magic_cloth",
+      "irons_spellbooks:magic_cloth",
+      "irons_spellbooks:magic_cloth"
+    ]
+  },
+  "irons_spellbooks:wizard_hat": {
+    "result": "irons_spellbooks:wizard_hat",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "irons_spellbooks:magic_cloth",
+      "",
+      "irons_spellbooks:magic_cloth",
+      "",
+      "irons_spellbooks:magic_cloth",
+      "irons_spellbooks:magic_cloth",
+      "irons_spellbooks:magic_cloth"
+    ]
+  },
+  "irons_spellbooks:wizard_helmet": {
+    "result": "irons_spellbooks:wizard_helmet",
+    "count": 1,
+    "ingredients": [
+      "irons_spellbooks:magic_cloth",
+      "irons_spellbooks:magic_cloth",
+      "irons_spellbooks:magic_cloth",
+      "irons_spellbooks:magic_cloth",
+      "",
+      "irons_spellbooks:magic_cloth",
+      "",
+      "",
+      ""
+    ]
+  },
+  "irons_spellbooks:wizard_leggings": {
+    "result": "irons_spellbooks:wizard_leggings",
+    "count": 1,
+    "ingredients": [
+      "irons_spellbooks:magic_cloth",
+      "irons_spellbooks:magic_cloth",
+      "irons_spellbooks:magic_cloth",
+      "irons_spellbooks:magic_cloth",
+      "",
+      "irons_spellbooks:magic_cloth",
+      "irons_spellbooks:magic_cloth",
+      "",
+      "irons_spellbooks:magic_cloth"
+    ]
+  },
+  "mcwholidays:witch_cauldron": {
+    "result": "mcwholidays:witch_cauldron",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_nugget",
+      "minecraft:iron_nugget",
+      "minecraft:iron_nugget",
+      "minecraft:iron_nugget",
+      "minecraft:cauldron",
+      "minecraft:iron_nugget",
+      "minecraft:iron_nugget",
+      "minecraft:iron_nugget",
+      "minecraft:iron_nugget"
+    ]
+  },
+  "mcwholidays:witch_hat": {
+    "result": "mcwholidays:witch_hat",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:blue_wool",
+      "",
+      "minecraft:blue_wool",
+      "minecraft:gold_nugget",
+      "minecraft:blue_wool",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwholidays:witch_hat_wall_deco_1": {
+    "result": "mcwholidays:witch_hat_wall_deco_1",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:black_dye",
+      "",
+      "minecraft:black_dye",
+      "minecraft:paper",
+      "minecraft:black_dye",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwholidays:witch_hat_wall_deco_2": {
+    "result": "mcwholidays:witch_hat_wall_deco_2",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "minecraft:black_dye",
+      "",
+      "minecraft:black_dye",
+      "",
+      "minecraft:black_dye",
+      "minecraft:paper",
+      "minecraft:black_dye"
+    ]
+  },
+  "mcwwindows:window_base": {
+    "result": "mcwwindows:window_base",
+    "count": 1,
+    "ingredients": [
+      "mcwwindows:window_half_bar_base",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwwindows:window_centre_bar_base": {
+    "result": "mcwwindows:window_centre_bar_base",
+    "count": 2,
+    "ingredients": [
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwwindows:window_half_bar_base": {
+    "result": "mcwwindows:window_half_bar_base",
+    "count": 2,
+    "ingredients": [
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mekmm:wireless_charging_station": {
+    "result": "mekmm:wireless_charging_station",
+    "count": 1,
+    "ingredients": [
+      "mekanism:hdpe_sheet",
+      "mekanism:teleportation_core",
+      "mekanism:hdpe_sheet",
+      "mekanism:hdpe_sheet",
+      "mekanism:robit",
+      "mekanism:hdpe_sheet",
+      "minecraft:ultimate",
+      "mekanism:ultimate_energy_cube",
+      "minecraft:ultimate"
+    ]
+  },
+  "mekmm:wireless_transmission_station": {
+    "result": "mekmm:wireless_transmission_station",
+    "count": 1,
+    "ingredients": [
+      "mekanism:hdpe_sheet",
+      "mekanism:supercharged_coil",
+      "mekanism:hdpe_sheet",
+      "mekanism:hdpe_sheet",
+      "mekanism:robit",
+      "mekanism:hdpe_sheet",
+      "minecraft:plutonium",
+      "mekanism:quantum_entangloporter",
+      "minecraft:plutonium"
+    ]
+  },
+  "merequester:wireless_requester_terminal": {
+    "result": "merequester:wireless_requester_terminal",
+    "count": 1,
+    "ingredients": [
+      "ae2:wireless_receiver",
+      "",
+      "",
+      "merequester:requester_terminal",
+      "",
+      "",
+      "ae2:dense_energy_cell",
+      "",
+      ""
+    ]
+  },
+  "minecraft:wild_armor_trim_smithing_template": {
+    "result": "minecraft:wild_armor_trim_smithing_template",
+    "count": 2,
+    "ingredients": [
+      "minecraft:diamond",
+      "minecraft:wild_armor_trim_smithing_template",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:mossy_cobblestone",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond"
+    ]
+  },
+  "minecraft:wind_charge": {
+    "result": "minecraft:wind_charge",
+    "count": 4,
+    "ingredients": [
+      "minecraft:breeze_rod",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mob_grinding_utils:wither_muffler": {
+    "result": "mob_grinding_utils:wither_muffler",
+    "count": 1,
+    "ingredients": [
+      "minecraft:white_wool",
+      "minecraft:white_wool",
+      "minecraft:white_wool",
+      "minecraft:white_wool",
+      "minecraft:wither_skeleton_skull",
+      "minecraft:white_wool",
+      "minecraft:white_wool",
+      "minecraft:white_wool",
+      "minecraft:white_wool"
+    ]
+  },
+  "minecraft:wither_skeleton_skull": {
+    "result": "minecraft:wither_skeleton_skull",
+    "count": 1,
+    "ingredients": [
+      "wstweaks:fragment",
+      "wstweaks:fragment",
+      "wstweaks:fragment",
+      "wstweaks:fragment",
+      "wstweaks:fragment",
+      "wstweaks:fragment",
+      "wstweaks:fragment",
+      "wstweaks:fragment",
+      "wstweaks:fragment"
+    ]
+  },
+  "mysticalagriculture:witherproof_block": {
+    "result": "mysticalagriculture:witherproof_block",
+    "count": 1,
+    "ingredients": [
+      "",
+      "mysticalagriculture:wither_skeleton_essence",
+      "",
+      "mysticalagriculture:wither_skeleton_essence",
+      "mysticalagriculture:soulstone",
+      "mysticalagriculture:wither_skeleton_essence",
+      "",
+      "mysticalagriculture:wither_skeleton_essence",
+      ""
+    ]
+  },
+  "mysticalagriculture:witherproof_bricks": {
+    "result": "mysticalagriculture:witherproof_bricks",
+    "count": 4,
+    "ingredients": [
+      "mysticalagriculture:witherproof_block",
+      "mysticalagriculture:witherproof_block",
+      "",
+      "mysticalagriculture:witherproof_block",
+      "mysticalagriculture:witherproof_block",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mysticalagriculture:witherproof_glass": {
+    "result": "mysticalagriculture:witherproof_glass",
+    "count": 1,
+    "ingredients": [
+      "",
+      "mysticalagriculture:wither_skeleton_essence",
+      "",
+      "mysticalagriculture:wither_skeleton_essence",
+      "mysticalagriculture:soul_glass",
+      "mysticalagriculture:wither_skeleton_essence",
+      "",
+      "mysticalagriculture:wither_skeleton_essence",
+      ""
+    ]
+  },
+  "oritech:wither_crop_block": {
+    "result": "oritech:wither_crop_block",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:wither_rose",
+      "",
+      "minecraft:flowers",
+      "minecraft:wither_rose",
+      "minecraft:flowers",
+      "",
+      "minecraft:wither_rose",
+      ""
+    ]
+  },
+  "pamhc2crops:wintersquashseeditem": {
+    "result": "pamhc2crops:wintersquashseeditem",
+    "count": 1,
+    "ingredients": [
+      "pamhc2crops:wintersquashitem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:wild_cherry_bookshelf": {
+    "result": "productivetrees:wild_cherry_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:wild_cherry_planks",
+      "productivetrees:wild_cherry_planks",
+      "productivetrees:wild_cherry_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:wild_cherry_planks",
+      "productivetrees:wild_cherry_planks",
+      "productivetrees:wild_cherry_planks"
+    ]
+  },
+  "productivetrees:wild_cherry_button": {
+    "result": "productivetrees:wild_cherry_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:wild_cherry_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:wild_cherry_crate": {
+    "result": "productivetrees:wild_cherry_crate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:wild_cherry",
+      "minecraft:wild_cherry",
+      "minecraft:wild_cherry",
+      "minecraft:wild_cherry",
+      "productivetrees:wild_cherry",
+      "minecraft:wild_cherry",
+      "minecraft:wild_cherry",
+      "minecraft:wild_cherry",
+      "minecraft:wild_cherry"
+    ]
+  },
+  "productivetrees:wild_cherry": {
+    "result": "productivetrees:wild_cherry",
+    "count": 9,
+    "ingredients": [
+      "productivetrees:wild_cherry_crate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:wild_cherry_door": {
+    "result": "productivetrees:wild_cherry_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:wild_cherry_planks",
+      "productivetrees:wild_cherry_planks",
+      "",
+      "productivetrees:wild_cherry_planks",
+      "productivetrees:wild_cherry_planks",
+      "",
+      "productivetrees:wild_cherry_planks",
+      "productivetrees:wild_cherry_planks",
+      ""
+    ]
+  },
+  "productivetrees:wild_cherry_fence": {
+    "result": "productivetrees:wild_cherry_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:wild_cherry_planks",
+      "minecraft:stick",
+      "productivetrees:wild_cherry_planks",
+      "productivetrees:wild_cherry_planks",
+      "minecraft:stick",
+      "productivetrees:wild_cherry_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:wild_cherry_fence_gate": {
+    "result": "productivetrees:wild_cherry_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:wild_cherry_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:wild_cherry_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:wild_cherry_hanging_sign": {
+    "result": "productivetrees:wild_cherry_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:wild_cherry_planks",
+      "productivetrees:wild_cherry_planks",
+      "productivetrees:wild_cherry_planks",
+      "productivetrees:wild_cherry_planks",
+      "productivetrees:wild_cherry_planks",
+      "productivetrees:wild_cherry_planks"
+    ]
+  },
+  "productivetrees:wild_cherry_planks": {
+    "result": "productivetrees:wild_cherry_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:wild_cherry_pressure_plate": {
+    "result": "productivetrees:wild_cherry_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:wild_cherry_planks",
+      "productivetrees:wild_cherry_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:wild_cherry_sign": {
+    "result": "productivetrees:wild_cherry_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:wild_cherry_planks",
+      "productivetrees:wild_cherry_planks",
+      "productivetrees:wild_cherry_planks",
+      "productivetrees:wild_cherry_planks",
+      "productivetrees:wild_cherry_planks",
+      "productivetrees:wild_cherry_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:wild_cherry_slab": {
+    "result": "productivetrees:wild_cherry_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:wild_cherry_planks",
+      "productivetrees:wild_cherry_planks",
+      "productivetrees:wild_cherry_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:wild_cherry_stairs": {
+    "result": "productivetrees:wild_cherry_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:wild_cherry_planks",
+      "",
+      "",
+      "productivetrees:wild_cherry_planks",
+      "productivetrees:wild_cherry_planks",
+      "",
+      "productivetrees:wild_cherry_planks",
+      "productivetrees:wild_cherry_planks",
+      "productivetrees:wild_cherry_planks"
+    ]
+  },
+  "productivetrees:wild_cherry_trapdoor": {
+    "result": "productivetrees:wild_cherry_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:wild_cherry_planks",
+      "productivetrees:wild_cherry_planks",
+      "productivetrees:wild_cherry_planks",
+      "productivetrees:wild_cherry_planks",
+      "productivetrees:wild_cherry_planks",
+      "productivetrees:wild_cherry_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:wild_cherry_wood": {
+    "result": "productivetrees:wild_cherry_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:wild_cherry_log",
+      "productivetrees:wild_cherry_log",
+      "",
+      "productivetrees:wild_cherry_log",
+      "productivetrees:wild_cherry_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "refinedstorage:wireless_autocrafting_monitor": {
+    "result": "refinedstorage:wireless_autocrafting_monitor",
+    "count": 1,
+    "ingredients": [
+      "refinedstorage:quartz_enriched_iron",
+      "minecraft:ender_pearl",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:quartz_enriched_iron",
+      "minecraft:autocrafting_monitors",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:advanced_processor",
+      "refinedstorage:quartz_enriched_iron"
+    ]
+  },
+  "refinedstorage:wireless_grid": {
+    "result": "refinedstorage:wireless_grid",
+    "count": 1,
+    "ingredients": [
+      "refinedstorage:quartz_enriched_iron",
+      "minecraft:ender_pearl",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:quartz_enriched_iron",
+      "minecraft:grids",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:advanced_processor",
+      "refinedstorage:quartz_enriched_iron"
+    ]
+  },
+  "refinedstorage:wireless_transmitter": {
+    "result": "refinedstorage:wireless_transmitter",
+    "count": 1,
+    "ingredients": [
+      "refinedstorage:quartz_enriched_iron",
+      "minecraft:ender_pearl",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:machine_casing",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:advanced_processor",
+      "refinedstorage:quartz_enriched_iron"
+    ]
+  },
+  "refinedstorage_quartz_arsenal:wireless_crafting_grid": {
+    "result": "refinedstorage_quartz_arsenal:wireless_crafting_grid",
+    "count": 1,
+    "ingredients": [
+      "refinedstorage:quartz_enriched_iron",
+      "minecraft:ender_pearl",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:quartz_enriched_iron",
+      "minecraft:crafting_grids",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:advanced_processor",
+      "refinedstorage:quartz_enriched_iron"
+    ]
+  },
+  "regions_unexplored:willow_boat": {
+    "result": "regions_unexplored:willow_boat",
+    "count": 1,
+    "ingredients": [
+      "regions_unexplored:willow_planks",
+      "",
+      "regions_unexplored:willow_planks",
+      "regions_unexplored:willow_planks",
+      "regions_unexplored:willow_planks",
+      "regions_unexplored:willow_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:willow_branch": {
+    "result": "regions_unexplored:willow_branch",
+    "count": 2,
+    "ingredients": [
+      "regions_unexplored:willow_log",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:willow_button": {
+    "result": "regions_unexplored:willow_button",
+    "count": 1,
+    "ingredients": [
+      "regions_unexplored:willow_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:willow_chest_boat": {
+    "result": "regions_unexplored:willow_chest_boat",
+    "count": 1,
+    "ingredients": [
+      "minecraft:chest",
+      "regions_unexplored:willow_boat",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:willow_door": {
+    "result": "regions_unexplored:willow_door",
+    "count": 3,
+    "ingredients": [
+      "regions_unexplored:willow_planks",
+      "regions_unexplored:willow_planks",
+      "",
+      "regions_unexplored:willow_planks",
+      "regions_unexplored:willow_planks",
+      "",
+      "regions_unexplored:willow_planks",
+      "regions_unexplored:willow_planks",
+      ""
+    ]
+  },
+  "regions_unexplored:willow_fence": {
+    "result": "regions_unexplored:willow_fence",
+    "count": 3,
+    "ingredients": [
+      "regions_unexplored:willow_planks",
+      "minecraft:stick",
+      "regions_unexplored:willow_planks",
+      "regions_unexplored:willow_planks",
+      "minecraft:stick",
+      "regions_unexplored:willow_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:willow_fence_gate": {
+    "result": "regions_unexplored:willow_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "regions_unexplored:willow_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "regions_unexplored:willow_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:willow_hanging_sign": {
+    "result": "regions_unexplored:willow_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "regions_unexplored:stripped_willow_log",
+      "regions_unexplored:stripped_willow_log",
+      "regions_unexplored:stripped_willow_log",
+      "regions_unexplored:stripped_willow_log",
+      "regions_unexplored:stripped_willow_log",
+      "regions_unexplored:stripped_willow_log"
+    ]
+  },
+  "regions_unexplored:willow_planks": {
+    "result": "regions_unexplored:willow_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:willow_pressure_plate": {
+    "result": "regions_unexplored:willow_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "regions_unexplored:willow_planks",
+      "regions_unexplored:willow_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:willow_sapling": {
+    "result": "regions_unexplored:willow_sapling",
+    "count": 2,
+    "ingredients": [
+      "regions_unexplored:willow_shrub",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:willow_shrub": {
+    "result": "regions_unexplored:willow_shrub",
+    "count": 1,
+    "ingredients": [
+      "regions_unexplored:willow_sapling",
+      "",
+      "",
+      "regions_unexplored:willow_sapling",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:willow_sign": {
+    "result": "regions_unexplored:willow_sign",
+    "count": 3,
+    "ingredients": [
+      "regions_unexplored:willow_planks",
+      "regions_unexplored:willow_planks",
+      "regions_unexplored:willow_planks",
+      "regions_unexplored:willow_planks",
+      "regions_unexplored:willow_planks",
+      "regions_unexplored:willow_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "regions_unexplored:willow_slab": {
+    "result": "regions_unexplored:willow_slab",
+    "count": 6,
+    "ingredients": [
+      "regions_unexplored:willow_planks",
+      "regions_unexplored:willow_planks",
+      "regions_unexplored:willow_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:willow_stairs": {
+    "result": "regions_unexplored:willow_stairs",
+    "count": 4,
+    "ingredients": [
+      "regions_unexplored:willow_planks",
+      "",
+      "",
+      "regions_unexplored:willow_planks",
+      "regions_unexplored:willow_planks",
+      "",
+      "regions_unexplored:willow_planks",
+      "regions_unexplored:willow_planks",
+      "regions_unexplored:willow_planks"
+    ]
+  },
+  "regions_unexplored:willow_trapdoor": {
+    "result": "regions_unexplored:willow_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "regions_unexplored:willow_planks",
+      "regions_unexplored:willow_planks",
+      "regions_unexplored:willow_planks",
+      "regions_unexplored:willow_planks",
+      "regions_unexplored:willow_planks",
+      "regions_unexplored:willow_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:willow_wood": {
+    "result": "regions_unexplored:willow_wood",
+    "count": 3,
+    "ingredients": [
+      "regions_unexplored:willow_log",
+      "regions_unexplored:willow_log",
+      "",
+      "regions_unexplored:willow_log",
+      "regions_unexplored:willow_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "reliquary:witch_hat": {
+    "result": "reliquary:witch_hat",
+    "count": 1,
+    "ingredients": [
+      "minecraft:sugar",
+      "minecraft:stone",
+      "minecraft:sugar",
+      "minecraft:redstone",
+      "minecraft:gold_ingot",
+      "minecraft:redstone",
+      "minecraft:stick",
+      "minecraft:stone",
+      "minecraft:stick"
+    ]
+  },
+  "reliquary:withered_rib": {
+    "result": "reliquary:withered_rib",
+    "count": 1,
+    "ingredients": [
+      "minecraft:diamond",
+      "",
+      "minecraft:diamond",
+      "",
+      "minecraft:skeleton_skull",
+      "",
+      "minecraft:diamond",
+      "",
+      "minecraft:diamond"
+    ]
+  },
+  "reliquary:witherless_rose": {
+    "result": "reliquary:witherless_rose",
+    "count": 1,
+    "ingredients": [
+      "reliquary:fertile_essence",
+      "minecraft:nether_stars",
+      "reliquary:fertile_essence",
+      "minecraft:nether_stars",
+      "minecraft:rose_bush",
+      "minecraft:nether_stars",
+      "reliquary:fertile_essence",
+      "minecraft:nether_stars",
+      "reliquary:fertile_essence"
+    ]
+  },
+  "rftoolsutility:wire": {
+    "result": "rftoolsutility:wire",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "rftoolsbase:machine_base",
+      "minecraft:redstone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "securitycraft:wire_cutters": {
+    "result": "securitycraft:wire_cutters",
+    "count": 1,
+    "ingredients": [
+      "minecraft:shears",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      ""
+    ]
+  },
+  "silentgear:wide_plate_upgrade": {
+    "result": "silentgear:wide_plate_upgrade",
+    "count": 1,
+    "ingredients": [
+      "silentgear:advanced_upgrade_base",
+      "minecraft:crimson_iron",
+      "modern_industrialization:steel_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "supplementaries:wicker_fence": {
+    "result": "supplementaries:wicker_fence",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:sugar_cane",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:sugar_cane",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "supplementaries:wind_vane": {
+    "result": "supplementaries:wind_vane",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:iron_bars",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:redstone",
+      ""
+    ]
+  },
+  "undergarden:wigglewood_boat": {
+    "result": "undergarden:wigglewood_boat",
+    "count": 1,
+    "ingredients": [
+      "undergarden:wigglewood_planks",
+      "",
+      "undergarden:wigglewood_planks",
+      "undergarden:wigglewood_planks",
+      "undergarden:wigglewood_planks",
+      "undergarden:wigglewood_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:wigglewood_button": {
+    "result": "undergarden:wigglewood_button",
+    "count": 1,
+    "ingredients": [
+      "undergarden:wigglewood_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:wigglewood_chest_boat": {
+    "result": "undergarden:wigglewood_chest_boat",
+    "count": 1,
+    "ingredients": [
+      "undergarden:wigglewood_boat",
+      "minecraft:chest",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:wigglewood_door": {
+    "result": "undergarden:wigglewood_door",
+    "count": 3,
+    "ingredients": [
+      "undergarden:wigglewood_planks",
+      "undergarden:wigglewood_planks",
+      "",
+      "undergarden:wigglewood_planks",
+      "undergarden:wigglewood_planks",
+      "",
+      "undergarden:wigglewood_planks",
+      "undergarden:wigglewood_planks",
+      ""
+    ]
+  },
+  "undergarden:wigglewood_fence": {
+    "result": "undergarden:wigglewood_fence",
+    "count": 6,
+    "ingredients": [
+      "undergarden:wigglewood_planks",
+      "minecraft:stick",
+      "undergarden:wigglewood_planks",
+      "undergarden:wigglewood_planks",
+      "minecraft:stick",
+      "undergarden:wigglewood_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:wigglewood_fence_gate": {
+    "result": "undergarden:wigglewood_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "undergarden:wigglewood_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "undergarden:wigglewood_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:wigglewood_hanging_sign": {
+    "result": "undergarden:wigglewood_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "undergarden:stripped_wigglewood_log",
+      "undergarden:stripped_wigglewood_log",
+      "undergarden:stripped_wigglewood_log",
+      "undergarden:stripped_wigglewood_log",
+      "undergarden:stripped_wigglewood_log",
+      "undergarden:stripped_wigglewood_log"
+    ]
+  },
+  "undergarden:wigglewood_planks": {
+    "result": "undergarden:wigglewood_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:wigglewood_pressure_plate": {
+    "result": "undergarden:wigglewood_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "undergarden:wigglewood_planks",
+      "undergarden:wigglewood_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:wigglewood_sign": {
+    "result": "undergarden:wigglewood_sign",
+    "count": 3,
+    "ingredients": [
+      "undergarden:wigglewood_planks",
+      "undergarden:wigglewood_planks",
+      "undergarden:wigglewood_planks",
+      "undergarden:wigglewood_planks",
+      "undergarden:wigglewood_planks",
+      "undergarden:wigglewood_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "undergarden:wigglewood_slab": {
+    "result": "undergarden:wigglewood_slab",
+    "count": 6,
+    "ingredients": [
+      "undergarden:wigglewood_planks",
+      "undergarden:wigglewood_planks",
+      "undergarden:wigglewood_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:wigglewood_stairs": {
+    "result": "undergarden:wigglewood_stairs",
+    "count": 4,
+    "ingredients": [
+      "undergarden:wigglewood_planks",
+      "",
+      "",
+      "undergarden:wigglewood_planks",
+      "undergarden:wigglewood_planks",
+      "",
+      "undergarden:wigglewood_planks",
+      "undergarden:wigglewood_planks",
+      "undergarden:wigglewood_planks"
+    ]
+  },
+  "undergarden:wigglewood_trapdoor": {
+    "result": "undergarden:wigglewood_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "undergarden:wigglewood_planks",
+      "undergarden:wigglewood_planks",
+      "undergarden:wigglewood_planks",
+      "undergarden:wigglewood_planks",
+      "undergarden:wigglewood_planks",
+      "undergarden:wigglewood_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:wigglewood_wood": {
+    "result": "undergarden:wigglewood_wood",
+    "count": 3,
+    "ingredients": [
+      "undergarden:wigglewood_log",
+      "undergarden:wigglewood_log",
+      "",
+      "undergarden:wigglewood_log",
+      "undergarden:wigglewood_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "universalgrid:wireless_universal_grid": {
+    "result": "universalgrid:wireless_universal_grid",
+    "count": 1,
+    "ingredients": [
+      "minecraft:diamond",
+      "refinedstorage:wireless_autocrafting_monitor",
+      "minecraft:diamond",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:wireless_grid",
+      "refinedstorage:quartz_enriched_iron",
+      "minecraft:diamond",
+      "refinedstorage_quartz_arsenal:wireless_crafting_grid",
+      "minecraft:diamond"
+    ]
+  },
+  "xnet:wireless_router": {
+    "result": "xnet:wireless_router",
+    "count": 1,
+    "ingredients": [
+      "minecraft:ender_pearl",
+      "minecraft:comparator",
+      "minecraft:ender_pearl",
+      "minecraft:redstone",
+      "rftoolsbase:machine_frame",
+      "minecraft:redstone",
+      "minecraft:ender_pearl",
+      "minecraft:redstone",
+      "minecraft:ender_pearl"
+    ]
+  }
+}

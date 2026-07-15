@@ -1,0 +1,77 @@
+{
+  "mekanism:qio_dashboard": {
+    "result": "mekanism:qio_dashboard",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:lead_ingot",
+      "minecraft:ender_pearl",
+      "modern_industrialization:lead_ingot",
+      "minecraft:ender_pearl",
+      "minecraft:glass",
+      "minecraft:ender_pearl",
+      "modern_industrialization:lead_ingot",
+      "mekanism:teleportation_core",
+      "modern_industrialization:lead_ingot"
+    ]
+  },
+  "mekanism:qio_drive_base": {
+    "result": "mekanism:qio_drive_base",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:lead_ingot",
+      "mekanism:ultimate_control_circuit",
+      "modern_industrialization:lead_ingot",
+      "mekanism:ultimate_control_circuit",
+      "minecraft:ender_pearl",
+      "mekanism:ultimate_control_circuit",
+      "modern_industrialization:lead_ingot",
+      "mekanism:ultimate_control_circuit",
+      "modern_industrialization:lead_ingot"
+    ]
+  },
+  "mekanism:qio_exporter": {
+    "result": "mekanism:qio_exporter",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:lead_ingot",
+      "mekanism:teleportation_core",
+      "modern_industrialization:lead_ingot",
+      "minecraft:ender_pearl",
+      "minecraft:ultimate",
+      "minecraft:ender_pearl",
+      "",
+      "minecraft:piston",
+      ""
+    ]
+  },
+  "mekanism:qio_importer": {
+    "result": "mekanism:qio_importer",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:lead_ingot",
+      "mekanism:teleportation_core",
+      "modern_industrialization:lead_ingot",
+      "minecraft:ender_pearl",
+      "minecraft:ultimate",
+      "minecraft:ender_pearl",
+      "",
+      "minecraft:sticky_piston",
+      ""
+    ]
+  },
+  "mekanism:qio_redstone_adapter": {
+    "result": "mekanism:qio_redstone_adapter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:ender_pearl",
+      "minecraft:redstone_torch",
+      "minecraft:ender_pearl",
+      "minecraft:ultimate",
+      "minecraft:redstone",
+      "minecraft:ultimate",
+      "minecraft:ender_pearl",
+      "mekanism:teleportation_core",
+      "minecraft:ender_pearl"
+    ]
+  }
+}

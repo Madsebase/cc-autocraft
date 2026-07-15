@@ -1,0 +1,62 @@
+{
+  "herbsandharvest:rye_loaf": {
+    "result": "herbsandharvest:rye_loaf",
+    "count": 1,
+    "ingredients": [
+      "minecraft:rye",
+      "minecraft:rye",
+      "minecraft:rye",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "herbsandharvest:rye_seeds": {
+    "result": "herbsandharvest:rye_seeds",
+    "count": 1,
+    "ingredients": [
+      "herbsandharvest:rye",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "herbsandharvest:rye_slice": {
+    "result": "herbsandharvest:rye_slice",
+    "count": 8,
+    "ingredients": [
+      "minecraft:rye",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2crops:ryeseeditem": {
+    "result": "pamhc2crops:ryeseeditem",
+    "count": 1,
+    "ingredients": [
+      "pamhc2crops:ryeitem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "mysticalagriculture:essence_vessel": {
+    "result": "mysticalagriculture:essence_vessel",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "minecraft:glass",
+      "minecraft:gold_ingot",
+      "",
+      "mysticalagriculture:soulstone",
+      "",
+      "",
+      "mysticalagriculture:soulstone",
+      ""
+    ]
+  },
+  "pamhc2foodextended:espressoitem": {
+    "result": "pamhc2foodextended:espressoitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "pamhc2crops:hotcoffeeitem",
+      "pamhc2crops:hotcoffeeitem",
+      "pamhc2crops:hotcoffeeitem",
+      "minecraft:sugar",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

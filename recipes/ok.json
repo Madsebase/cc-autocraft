@@ -1,0 +1,47 @@
+{
+  "pamhc2crops:okraseeditem": {
+    "result": "pamhc2crops:okraseeditem",
+    "count": 1,
+    "ingredients": [
+      "pamhc2crops:okraitem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:okrachipsitem": {
+    "result": "pamhc2foodextended:okrachipsitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:okra",
+      "minecraft:salt",
+      "minecraft:spiceleaf",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:okracreoleitem": {
+    "result": "pamhc2foodextended:okracreoleitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_skillet",
+      "minecraft:okra",
+      "minecraft:garlic",
+      "minecraft:tomato",
+      "minecraft:bellpepper",
+      "minecraft:onion",
+      "minecraft:spiceleaf",
+      "",
+      ""
+    ]
+  }
+}

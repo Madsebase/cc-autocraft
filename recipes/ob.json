@@ -1,0 +1,497 @@
+{
+  "allthecompressed:obsidian_1x": {
+    "result": "allthecompressed:obsidian_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:obsidian_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:obsidian_2x": {
+    "result": "allthecompressed:obsidian_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:obsidian_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:obsidian_3x": {
+    "result": "allthecompressed:obsidian_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:obsidian_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:obsidian_4x": {
+    "result": "allthecompressed:obsidian_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:obsidian_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:obsidian_5x": {
+    "result": "allthecompressed:obsidian_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:obsidian_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:obsidian_6x": {
+    "result": "allthecompressed:obsidian_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:obsidian_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:obsidian_7x": {
+    "result": "allthecompressed:obsidian_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:obsidian_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:obsidian_8x": {
+    "result": "allthecompressed:obsidian_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:obsidian_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:obsidian_9x": {
+    "result": "allthecompressed:obsidian_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:obsidian_8x",
+      "allthecompressed:obsidian_8x",
+      "allthecompressed:obsidian_8x",
+      "allthecompressed:obsidian_8x",
+      "allthecompressed:obsidian_8x",
+      "allthecompressed:obsidian_8x",
+      "allthecompressed:obsidian_8x",
+      "allthecompressed:obsidian_8x",
+      "allthecompressed:obsidian_8x"
+    ]
+  },
+  "minecraft:obsidian": {
+    "result": "minecraft:obsidian",
+    "count": 64,
+    "ingredients": [
+      "twilightforest:giant_obsidian",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "cataclysm:obsidian_bricks": {
+    "result": "cataclysm:obsidian_bricks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:obsidian",
+      "minecraft:obsidian",
+      "",
+      "minecraft:obsidian",
+      "minecraft:obsidian",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "cataclysm:obsidian_brick_slab": {
+    "result": "cataclysm:obsidian_brick_slab",
+    "count": 6,
+    "ingredients": [
+      "cataclysm:obsidian_bricks",
+      "cataclysm:obsidian_bricks",
+      "cataclysm:obsidian_bricks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "cataclysm:obsidian_brick_stairs": {
+    "result": "cataclysm:obsidian_brick_stairs",
+    "count": 4,
+    "ingredients": [
+      "cataclysm:obsidian_bricks",
+      "",
+      "",
+      "cataclysm:obsidian_bricks",
+      "cataclysm:obsidian_bricks",
+      "",
+      "cataclysm:obsidian_bricks",
+      "cataclysm:obsidian_bricks",
+      "cataclysm:obsidian_bricks"
+    ]
+  },
+  "cataclysm:obsidian_brick_wall": {
+    "result": "cataclysm:obsidian_brick_wall",
+    "count": 6,
+    "ingredients": [
+      "cataclysm:obsidian_bricks",
+      "cataclysm:obsidian_bricks",
+      "cataclysm:obsidian_bricks",
+      "cataclysm:obsidian_bricks",
+      "cataclysm:obsidian_bricks",
+      "cataclysm:obsidian_bricks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "cataclysm:obsidian_explosion_trap_bricks": {
+    "result": "cataclysm:obsidian_explosion_trap_bricks",
+    "count": 8,
+    "ingredients": [
+      "cataclysm:obsidian_bricks",
+      "cataclysm:obsidian_bricks",
+      "cataclysm:obsidian_bricks",
+      "cataclysm:obsidian_bricks",
+      "cataclysm:void_stone",
+      "cataclysm:obsidian_bricks",
+      "cataclysm:obsidian_bricks",
+      "cataclysm:obsidian_bricks",
+      "cataclysm:obsidian_bricks"
+    ]
+  },
+  "cataclysm:obsidian_pillar": {
+    "result": "cataclysm:obsidian_pillar",
+    "count": 2,
+    "ingredients": [
+      "cataclysm:obsidian_bricks",
+      "",
+      "",
+      "cataclysm:obsidian_bricks",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:observer": {
+    "result": "minecraft:observer",
+    "count": 1,
+    "ingredients": [
+      "minecraft:cobblestone",
+      "minecraft:cobblestone",
+      "minecraft:cobblestone",
+      "minecraft:redstone",
+      "minecraft:redstone",
+      "minecraft:quartz",
+      "minecraft:cobblestone",
+      "minecraft:cobblestone",
+      "minecraft:cobblestone"
+    ]
+  },
+  "evilcraft:obscured_glass": {
+    "result": "evilcraft:obscured_glass",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "evilcraft:dark_gem",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass"
+    ]
+  },
+  "forbidden_arcanus:obsidiansteel_block": {
+    "result": "forbidden_arcanus:obsidiansteel_block",
+    "count": 1,
+    "ingredients": [
+      "forbidden_arcanus:obsidiansteel_ingot",
+      "forbidden_arcanus:obsidiansteel_ingot",
+      "forbidden_arcanus:obsidiansteel_ingot",
+      "forbidden_arcanus:obsidiansteel_ingot",
+      "forbidden_arcanus:obsidiansteel_ingot",
+      "forbidden_arcanus:obsidiansteel_ingot",
+      "forbidden_arcanus:obsidiansteel_ingot",
+      "forbidden_arcanus:obsidiansteel_ingot",
+      "forbidden_arcanus:obsidiansteel_ingot"
+    ]
+  },
+  "forbidden_arcanus:obsidiansteel_ingot": {
+    "result": "forbidden_arcanus:obsidiansteel_ingot",
+    "count": 9,
+    "ingredients": [
+      "forbidden_arcanus:obsidiansteel_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "forbidden_arcanus:obsidian_skull": {
+    "result": "forbidden_arcanus:obsidian_skull",
+    "count": 1,
+    "ingredients": [
+      "forbidden_arcanus:cracked_obsidian_skull",
+      "forbidden_arcanus:obsidiansteel_ingot",
+      "forbidden_arcanus:obsidiansteel_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "functionalstorage:obsidian_upgrade": {
+    "result": "functionalstorage:obsidian_upgrade",
+    "count": 1,
+    "ingredients": [
+      "functionalstorage:dripping_upgrade",
+      "functionalstorage:dripping_upgrade",
+      "functionalstorage:dripping_upgrade",
+      "functionalstorage:dripping_upgrade",
+      "functionalstorage:water_generator_upgrade",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "generatorgalore:obsidian_generator_64x": {
+    "result": "generatorgalore:obsidian_generator_64x",
+    "count": 1,
+    "ingredients": [
+      "generatorgalore:obsidian_generator_8x",
+      "generatorgalore:obsidian_generator_8x",
+      "generatorgalore:obsidian_generator_8x",
+      "generatorgalore:obsidian_generator_8x",
+      "minecraft:conduit",
+      "generatorgalore:obsidian_generator_8x",
+      "generatorgalore:obsidian_generator_8x",
+      "generatorgalore:obsidian_generator_8x",
+      "generatorgalore:obsidian_generator_8x"
+    ]
+  },
+  "generatorgalore:obsidian_generator_8x": {
+    "result": "generatorgalore:obsidian_generator_8x",
+    "count": 1,
+    "ingredients": [
+      "generatorgalore:obsidian_generator",
+      "generatorgalore:obsidian_generator",
+      "generatorgalore:obsidian_generator",
+      "generatorgalore:obsidian_generator",
+      "minecraft:echo_shard",
+      "generatorgalore:obsidian_generator",
+      "generatorgalore:obsidian_generator",
+      "generatorgalore:obsidian_generator",
+      "generatorgalore:obsidian_generator"
+    ]
+  },
+  "generatorgalore:obsidian_generator": {
+    "result": "generatorgalore:obsidian_generator",
+    "count": 1,
+    "ingredients": [
+      "minecraft:obsidians",
+      "minecraft:obsidians",
+      "minecraft:obsidians",
+      "minecraft:obsidians",
+      "generatorgalore:diamond_generator",
+      "minecraft:obsidians",
+      "minecraft:obsidians",
+      "minecraft:redstone",
+      "minecraft:obsidians"
+    ]
+  },
+  "generatorgalore:obsidian_to_enchantment_upgrade": {
+    "result": "generatorgalore:obsidian_to_enchantment_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:enchanted_book",
+      "minecraft:enchanted_book",
+      "minecraft:enchanted_book",
+      "minecraft:enchanted_book",
+      "minecraft:item_frame",
+      "minecraft:enchanted_book",
+      "minecraft:enchanted_book",
+      "minecraft:enchanting_table",
+      "minecraft:enchanted_book"
+    ]
+  },
+  "generatorgalore:obsidian_to_ender_upgrade": {
+    "result": "generatorgalore:obsidian_to_ender_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:ender_pearl",
+      "minecraft:ender_pearl",
+      "minecraft:ender_pearl",
+      "minecraft:ender_pearl",
+      "minecraft:item_frame",
+      "minecraft:ender_pearl",
+      "minecraft:ender_pearl",
+      "minecraft:redstone",
+      "minecraft:ender_pearl"
+    ]
+  },
+  "generatorgalore:obsidian_to_magmatic_upgrade": {
+    "result": "generatorgalore:obsidian_to_magmatic_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:item_frame",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:lava",
+      "minecraft:gold_ingot"
+    ]
+  },
+  "glassential:obsidian_door": {
+    "result": "glassential:obsidian_door",
+    "count": 3,
+    "ingredients": [
+      "glassential:obsidian_glass",
+      "glassential:obsidian_glass",
+      "",
+      "glassential:obsidian_glass",
+      "glassential:obsidian_glass",
+      "",
+      "glassential:obsidian_glass",
+      "glassential:obsidian_glass",
+      ""
+    ]
+  },
+  "glassential:obsidian_glass": {
+    "result": "glassential:obsidian_glass",
+    "count": 4,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:obsidian",
+      "minecraft:glass",
+      "minecraft:obsidian",
+      "",
+      "minecraft:obsidian",
+      "minecraft:glass",
+      "minecraft:obsidian",
+      "minecraft:glass"
+    ]
+  },
+  "glassential:obsidian_trapdoor": {
+    "result": "glassential:obsidian_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "glassential:obsidian_glass",
+      "glassential:obsidian_glass",
+      "",
+      "glassential:obsidian_glass",
+      "glassential:obsidian_glass",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ironfurnaces:obsidian_furnace": {
+    "result": "ironfurnaces:obsidian_furnace",
+    "count": 1,
+    "ingredients": [
+      "minecraft:obsidians",
+      "minecraft:blaze",
+      "minecraft:obsidians",
+      "minecraft:blaze",
+      "minecraft:crystal",
+      "minecraft:blaze",
+      "minecraft:obsidians",
+      "minecraft:blaze",
+      "minecraft:obsidians"
+    ]
+  },
+  "productivebees:obsidian_nest": {
+    "result": "productivebees:obsidian_nest",
+    "count": 1,
+    "ingredients": [
+      "productivebees:obsidian_nest",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

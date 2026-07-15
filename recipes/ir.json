@@ -1,0 +1,2777 @@
+{
+  "actuallyadditions:iron_aiot": {
+    "result": "actuallyadditions:iron_aiot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_axe",
+      "minecraft:iron_pickaxe",
+      "minecraft:iron_sword",
+      "minecraft:iron_shovel",
+      "minecraft:iron_hoe",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "actuallyadditions:iron_casing": {
+    "result": "actuallyadditions:iron_casing",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:stick",
+      "minecraft:iron_ingot",
+      "minecraft:stick",
+      "actuallyadditions:black_quartz",
+      "minecraft:stick",
+      "minecraft:iron_ingot",
+      "minecraft:stick",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "aether:iron_gloves": {
+    "result": "aether:iron_gloves",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "aether:iron_pendant": {
+    "result": "aether:iron_pendant",
+    "count": 1,
+    "ingredients": [
+      "minecraft:string",
+      "minecraft:string",
+      "minecraft:string",
+      "minecraft:string",
+      "",
+      "minecraft:string",
+      "",
+      "minecraft:iron_ingot",
+      ""
+    ]
+  },
+  "aether:iron_ring": {
+    "result": "aether:iron_ring",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      ""
+    ]
+  },
+  "allthecompressed:iridium_block_1x": {
+    "result": "allthecompressed:iridium_block_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:iridium_block_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:iridium_block_2x": {
+    "result": "allthecompressed:iridium_block_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:iridium_block_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:iridium_block_3x": {
+    "result": "allthecompressed:iridium_block_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:iridium_block_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:iridium_block_4x": {
+    "result": "allthecompressed:iridium_block_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:iridium_block_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:iridium_block_5x": {
+    "result": "allthecompressed:iridium_block_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:iridium_block_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:iridium_block_6x": {
+    "result": "allthecompressed:iridium_block_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:iridium_block_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:iridium_block_7x": {
+    "result": "allthecompressed:iridium_block_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:iridium_block_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:iridium_block_8x": {
+    "result": "allthecompressed:iridium_block_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:iridium_block_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:iridium_block_9x": {
+    "result": "allthecompressed:iridium_block_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:iridium_block_8x",
+      "allthecompressed:iridium_block_8x",
+      "allthecompressed:iridium_block_8x",
+      "allthecompressed:iridium_block_8x",
+      "allthecompressed:iridium_block_8x",
+      "allthecompressed:iridium_block_8x",
+      "allthecompressed:iridium_block_8x",
+      "allthecompressed:iridium_block_8x",
+      "allthecompressed:iridium_block_8x"
+    ]
+  },
+  "allthecompressed:iron_block_1x": {
+    "result": "allthecompressed:iron_block_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:iron_block_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:iron_block_2x": {
+    "result": "allthecompressed:iron_block_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:iron_block_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:iron_block_3x": {
+    "result": "allthecompressed:iron_block_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:iron_block_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:iron_block_4x": {
+    "result": "allthecompressed:iron_block_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:iron_block_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:iron_block_5x": {
+    "result": "allthecompressed:iron_block_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:iron_block_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:iron_block_6x": {
+    "result": "allthecompressed:iron_block_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:iron_block_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:iron_block_7x": {
+    "result": "allthecompressed:iron_block_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:iron_block_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:iron_block_8x": {
+    "result": "allthecompressed:iron_block_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:iron_block_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:iron_block_9x": {
+    "result": "allthecompressed:iron_block_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:iron_block_8x",
+      "allthecompressed:iron_block_8x",
+      "allthecompressed:iron_block_8x",
+      "allthecompressed:iron_block_8x",
+      "allthecompressed:iron_block_8x",
+      "allthecompressed:iron_block_8x",
+      "allthecompressed:iron_block_8x",
+      "allthecompressed:iron_block_8x",
+      "allthecompressed:iron_block_8x"
+    ]
+  },
+  "alltheores:iridium_block": {
+    "result": "alltheores:iridium_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iridium",
+      "minecraft:iridium",
+      "minecraft:iridium",
+      "minecraft:iridium",
+      "minecraft:iridium",
+      "minecraft:iridium",
+      "minecraft:iridium",
+      "minecraft:iridium",
+      "minecraft:iridium"
+    ]
+  },
+  "minecraft:iron_block": {
+    "result": "minecraft:iron_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "alltheores:iron_ore_hammer": {
+    "result": "alltheores:iron_ore_hammer",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:iron",
+      "minecraft:stick",
+      "",
+      "minecraft:stick",
+      "minecraft:iron",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "alltheores:iridium_dust": {
+    "result": "alltheores:iridium_dust",
+    "count": 2,
+    "ingredients": [
+      "minecraft:ore_hammers",
+      "minecraft:iridium",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "alltheores:iron_dust": {
+    "result": "alltheores:iron_dust",
+    "count": 2,
+    "ingredients": [
+      "minecraft:ore_hammers",
+      "minecraft:iron",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "alltheores:iridium_gear": {
+    "result": "alltheores:iridium_gear",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:iridium",
+      "",
+      "minecraft:iridium",
+      "minecraft:iron",
+      "minecraft:iridium",
+      "",
+      "minecraft:iridium",
+      ""
+    ]
+  },
+  "alltheores:iridium_ingot": {
+    "result": "alltheores:iridium_ingot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iridium",
+      "minecraft:iridium",
+      "minecraft:iridium",
+      "minecraft:iridium",
+      "minecraft:iridium",
+      "minecraft:iridium",
+      "minecraft:iridium",
+      "minecraft:iridium",
+      "minecraft:iridium"
+    ]
+  },
+  "alltheores:iridium_nugget": {
+    "result": "alltheores:iridium_nugget",
+    "count": 9,
+    "ingredients": [
+      "minecraft:iridium",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "alltheores:iridium_plate": {
+    "result": "alltheores:iridium_plate",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "minecraft:ore_hammers",
+      "minecraft:iridium",
+      "",
+      "minecraft:iridium",
+      "",
+      ""
+    ]
+  },
+  "alltheores:iridium_rod": {
+    "result": "alltheores:iridium_rod",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "minecraft:iridium",
+      "minecraft:ore_hammers",
+      "minecraft:iridium",
+      ""
+    ]
+  },
+  "alltheores:iron_gear": {
+    "result": "alltheores:iron_gear",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:iron",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      ""
+    ]
+  },
+  "alltheores:iron_plate": {
+    "result": "alltheores:iron_plate",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "minecraft:ore_hammers",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "",
+      ""
+    ]
+  },
+  "alltheores:iron_rod": {
+    "result": "alltheores:iron_rod",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:ore_hammers",
+      "minecraft:iron_ingot",
+      ""
+    ]
+  },
+  "apotheosis:iron_upgrade_smithing_template": {
+    "result": "apotheosis:iron_upgrade_smithing_template",
+    "count": 2,
+    "ingredients": [
+      "",
+      "apotheosis:common_material",
+      "",
+      "minecraft:stone",
+      "apotheosis:gem_fused_slate",
+      "minecraft:stone",
+      "minecraft:stone",
+      "apotheosis:gem_fused_slate",
+      "minecraft:stone"
+    ]
+  },
+  "aquaculture:iron_fillet_knife": {
+    "result": "aquaculture:iron_fillet_knife",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "aquaculture:iron_fishing_rod": {
+    "result": "aquaculture:iron_fishing_rod",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:string",
+      "minecraft:stick",
+      "",
+      "minecraft:string"
+    ]
+  },
+  "aquaculture:iron_hook": {
+    "result": "aquaculture:iron_hook",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "minecraft:iron",
+      "minecraft:iron",
+      "",
+      "minecraft:iron",
+      "",
+      "minecraft:iron",
+      ""
+    ]
+  },
+  "bibliocraft:iron_fancy_armor_stand": {
+    "result": "bibliocraft:iron_fancy_armor_stand",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:smooth_stone_slab",
+      "minecraft:smooth_stone_slab",
+      "minecraft:smooth_stone_slab"
+    ]
+  },
+  "bibliocraft:iron_printing_table": {
+    "result": "bibliocraft:iron_printing_table",
+    "count": 1,
+    "ingredients": [
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron",
+      "minecraft:redstone",
+      "minecraft:iron"
+    ]
+  },
+  "biomeswevegone:ironwood_boat": {
+    "result": "biomeswevegone:ironwood_boat",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:ironwood_planks",
+      "",
+      "biomeswevegone:ironwood_planks",
+      "biomeswevegone:ironwood_planks",
+      "biomeswevegone:ironwood_planks",
+      "biomeswevegone:ironwood_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:ironwood_bookshelf": {
+    "result": "biomeswevegone:ironwood_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:ironwood_planks",
+      "biomeswevegone:ironwood_planks",
+      "biomeswevegone:ironwood_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "biomeswevegone:ironwood_planks",
+      "biomeswevegone:ironwood_planks",
+      "biomeswevegone:ironwood_planks"
+    ]
+  },
+  "biomeswevegone:ironwood_button": {
+    "result": "biomeswevegone:ironwood_button",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:ironwood_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:ironwood_chest_boat": {
+    "result": "biomeswevegone:ironwood_chest_boat",
+    "count": 1,
+    "ingredients": [
+      "minecraft:chest",
+      "biomeswevegone:ironwood_boat",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:ironwood_crafting_table": {
+    "result": "biomeswevegone:ironwood_crafting_table",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:ironwood_planks",
+      "biomeswevegone:ironwood_planks",
+      "",
+      "biomeswevegone:ironwood_planks",
+      "biomeswevegone:ironwood_planks",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:ironwood_door": {
+    "result": "biomeswevegone:ironwood_door",
+    "count": 3,
+    "ingredients": [
+      "biomeswevegone:ironwood_planks",
+      "biomeswevegone:ironwood_planks",
+      "",
+      "biomeswevegone:ironwood_planks",
+      "biomeswevegone:ironwood_planks",
+      "",
+      "biomeswevegone:ironwood_planks",
+      "biomeswevegone:ironwood_planks",
+      ""
+    ]
+  },
+  "biomeswevegone:ironwood_fence": {
+    "result": "biomeswevegone:ironwood_fence",
+    "count": 3,
+    "ingredients": [
+      "biomeswevegone:ironwood_planks",
+      "minecraft:stick",
+      "biomeswevegone:ironwood_planks",
+      "biomeswevegone:ironwood_planks",
+      "minecraft:stick",
+      "biomeswevegone:ironwood_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:ironwood_fence_gate": {
+    "result": "biomeswevegone:ironwood_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "biomeswevegone:ironwood_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "biomeswevegone:ironwood_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:ironwood_hanging_sign": {
+    "result": "biomeswevegone:ironwood_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "biomeswevegone:stripped_ironwood_log",
+      "biomeswevegone:stripped_ironwood_log",
+      "biomeswevegone:stripped_ironwood_log",
+      "biomeswevegone:stripped_ironwood_log",
+      "biomeswevegone:stripped_ironwood_log",
+      "biomeswevegone:stripped_ironwood_log"
+    ]
+  },
+  "biomeswevegone:ironwood_planks": {
+    "result": "biomeswevegone:ironwood_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:ironwood_pressure_plate": {
+    "result": "biomeswevegone:ironwood_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:ironwood_planks",
+      "biomeswevegone:ironwood_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:ironwood_sign": {
+    "result": "biomeswevegone:ironwood_sign",
+    "count": 3,
+    "ingredients": [
+      "biomeswevegone:ironwood_planks",
+      "biomeswevegone:ironwood_planks",
+      "biomeswevegone:ironwood_planks",
+      "biomeswevegone:ironwood_planks",
+      "biomeswevegone:ironwood_planks",
+      "biomeswevegone:ironwood_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "biomeswevegone:ironwood_slab": {
+    "result": "biomeswevegone:ironwood_slab",
+    "count": 6,
+    "ingredients": [
+      "biomeswevegone:ironwood_planks",
+      "biomeswevegone:ironwood_planks",
+      "biomeswevegone:ironwood_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:ironwood_stairs": {
+    "result": "biomeswevegone:ironwood_stairs",
+    "count": 4,
+    "ingredients": [
+      "biomeswevegone:ironwood_planks",
+      "",
+      "",
+      "biomeswevegone:ironwood_planks",
+      "biomeswevegone:ironwood_planks",
+      "",
+      "biomeswevegone:ironwood_planks",
+      "biomeswevegone:ironwood_planks",
+      "biomeswevegone:ironwood_planks"
+    ]
+  },
+  "biomeswevegone:ironwood_trapdoor": {
+    "result": "biomeswevegone:ironwood_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "biomeswevegone:ironwood_planks",
+      "biomeswevegone:ironwood_planks",
+      "biomeswevegone:ironwood_planks",
+      "biomeswevegone:ironwood_planks",
+      "biomeswevegone:ironwood_planks",
+      "biomeswevegone:ironwood_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:ironwood_wood": {
+    "result": "biomeswevegone:ironwood_wood",
+    "count": 3,
+    "ingredients": [
+      "biomeswevegone:ironwood_log",
+      "biomeswevegone:ironwood_log",
+      "",
+      "biomeswevegone:ironwood_log",
+      "biomeswevegone:ironwood_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "constructionstick:iron_stick": {
+    "result": "constructionstick:iron_stick",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:stick",
+      "",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "easy_villagers:iron_farm": {
+    "result": "easy_villagers:iron_farm",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:lava_bucket",
+      "minecraft:glass",
+      "minecraft:iron_ingot",
+      "minecraft:stone",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "enderio:iron_gear": {
+    "result": "enderio:iron_gear",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron",
+      "minecraft:iron_ingot",
+      "minecraft:iron",
+      "minecraft:iron_ingot",
+      "enderio:grains_of_infinity",
+      "minecraft:iron_ingot",
+      "minecraft:iron",
+      "minecraft:iron_ingot",
+      "minecraft:iron"
+    ]
+  },
+  "extrastorage:iron_crafter": {
+    "result": "extrastorage:iron_crafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:chest",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:autocrafters",
+      "",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "farmersdelight:iron_knife": {
+    "result": "farmersdelight:iron_knife",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "forbidden_arcanus:iron_blacksmith_gavel": {
+    "result": "forbidden_arcanus:iron_blacksmith_gavel",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "forbidden_arcanus:blacksmith_gavel_head",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:stick",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "functionalstorage:iron_downgrade": {
+    "result": "functionalstorage:iron_downgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:drawer",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "generatorgalore:iron_generator_64x": {
+    "result": "generatorgalore:iron_generator_64x",
+    "count": 1,
+    "ingredients": [
+      "generatorgalore:iron_generator_8x",
+      "generatorgalore:iron_generator_8x",
+      "generatorgalore:iron_generator_8x",
+      "generatorgalore:iron_generator_8x",
+      "minecraft:conduit",
+      "generatorgalore:iron_generator_8x",
+      "generatorgalore:iron_generator_8x",
+      "generatorgalore:iron_generator_8x",
+      "generatorgalore:iron_generator_8x"
+    ]
+  },
+  "generatorgalore:iron_generator_8x": {
+    "result": "generatorgalore:iron_generator_8x",
+    "count": 1,
+    "ingredients": [
+      "generatorgalore:iron_generator",
+      "generatorgalore:iron_generator",
+      "generatorgalore:iron_generator",
+      "generatorgalore:iron_generator",
+      "minecraft:echo_shard",
+      "generatorgalore:iron_generator",
+      "generatorgalore:iron_generator",
+      "generatorgalore:iron_generator",
+      "generatorgalore:iron_generator"
+    ]
+  },
+  "generatorgalore:iron_generator": {
+    "result": "generatorgalore:iron_generator",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "generatorgalore:copper_generator",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:redstone",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "generatorgalore:iron_to_gold_upgrade": {
+    "result": "generatorgalore:iron_to_gold_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:item_frame",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:redstone",
+      "minecraft:gold_ingot"
+    ]
+  },
+  "minecraft:iron_door": {
+    "result": "minecraft:iron_door",
+    "count": 3,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      ""
+    ]
+  },
+  "glassential:iron_glass": {
+    "result": "glassential:iron_glass",
+    "count": 4,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:iron_ingot",
+      "minecraft:glass",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:glass",
+      "minecraft:iron_ingot",
+      "minecraft:glass"
+    ]
+  },
+  "glassential:iron_glass_door": {
+    "result": "glassential:iron_glass_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_door",
+      "minecraft:glass_pane",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "glassential:iron_glass_trapdoor": {
+    "result": "glassential:iron_glass_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_trapdoor",
+      "minecraft:glass_pane",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:iron_trapdoor": {
+    "result": "minecraft:iron_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:iron_ingot": {
+    "result": "minecraft:iron_ingot",
+    "count": 6,
+    "ingredients": [
+      "mysticalagriculture:iron_essence",
+      "mysticalagriculture:iron_essence",
+      "mysticalagriculture:iron_essence",
+      "mysticalagriculture:iron_essence",
+      "",
+      "mysticalagriculture:iron_essence",
+      "mysticalagriculture:iron_essence",
+      "mysticalagriculture:iron_essence",
+      "mysticalagriculture:iron_essence"
+    ]
+  },
+  "iceandfire:iron_hippogryph_armor": {
+    "result": "iceandfire:iron_hippogryph_armor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:feather",
+      "minecraft:iron_horse_armor",
+      "minecraft:feather",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "industrialforegoing:iron_gear": {
+    "result": "industrialforegoing:iron_gear",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      ""
+    ]
+  },
+  "ironfurnaces:iron_furnace": {
+    "result": "ironfurnaces:iron_furnace",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:glass",
+      "minecraft:copper",
+      "minecraft:glass",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "irons_spellbooks:iron_spell_book": {
+    "result": "irons_spellbooks:iron_spell_book",
+    "count": 1,
+    "ingredients": [
+      "minecraft:chain",
+      "minecraft:leather",
+      "minecraft:leather",
+      "minecraft:chain",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:chain",
+      "minecraft:leather",
+      "minecraft:leather"
+    ]
+  },
+  "mcwbridges:iron_bridge": {
+    "result": "mcwbridges:iron_bridge",
+    "count": 1,
+    "ingredients": [
+      "mcwbridges:iron_bridge_stair",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:iron_bridge_pier": {
+    "result": "mcwbridges:iron_bridge_pier",
+    "count": 3,
+    "ingredients": [
+      "minecraft:iron_bars",
+      "minecraft:iron_bars",
+      "minecraft:iron_bars",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:iron_bridge_stair": {
+    "result": "mcwbridges:iron_bridge_stair",
+    "count": 6,
+    "ingredients": [
+      "",
+      "",
+      "mcwbridges:iron_bridge",
+      "",
+      "mcwbridges:iron_bridge",
+      "mcwbridges:iron_bridge",
+      "mcwbridges:iron_bridge",
+      "mcwbridges:iron_bridge",
+      "mcwbridges:iron_bridge"
+    ]
+  },
+  "mcwdoors:iron_portcullis": {
+    "result": "mcwdoors:iron_portcullis",
+    "count": 3,
+    "ingredients": [
+      "minecraft:iron_bars",
+      "minecraft:iron_bars",
+      "minecraft:iron_bars",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfences:iron_cheval_de_frise": {
+    "result": "mcwfences:iron_cheval_de_frise",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:iron_nugget",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwlights:iron_candle_holder": {
+    "result": "mcwlights:iron_candle_holder",
+    "count": 2,
+    "ingredients": [
+      "",
+      "minecraft:string",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:honeycomb",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      ""
+    ]
+  },
+  "mcwlights:iron_chandelier": {
+    "result": "mcwlights:iron_chandelier",
+    "count": 1,
+    "ingredients": [
+      "minecraft:string",
+      "minecraft:iron_ingot",
+      "minecraft:string",
+      "minecraft:honeycomb",
+      "minecraft:iron_ingot",
+      "minecraft:honeycomb",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "mcwlights:iron_double_candle_holder": {
+    "result": "mcwlights:iron_double_candle_holder",
+    "count": 1,
+    "ingredients": [
+      "minecraft:string",
+      "",
+      "minecraft:string",
+      "minecraft:honeycomb",
+      "minecraft:iron_ingot",
+      "minecraft:honeycomb",
+      "",
+      "minecraft:iron_ingot",
+      ""
+    ]
+  },
+  "mcwlights:iron_framed_torch": {
+    "result": "mcwlights:iron_framed_torch",
+    "count": 4,
+    "ingredients": [
+      "minecraft:iron_nugget",
+      "minecraft:coal",
+      "minecraft:iron_nugget",
+      "",
+      "minecraft:iron_nugget",
+      "",
+      "",
+      "minecraft:iron_nugget",
+      ""
+    ]
+  },
+  "mcwlights:iron_low_candle_holder": {
+    "result": "mcwlights:iron_low_candle_holder",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:string",
+      "",
+      "",
+      "minecraft:honeycomb",
+      "",
+      "",
+      "minecraft:iron_ingot",
+      ""
+    ]
+  },
+  "mcwlights:iron_small_chandelier": {
+    "result": "mcwlights:iron_small_chandelier",
+    "count": 1,
+    "ingredients": [
+      "minecraft:string",
+      "minecraft:iron_ingot",
+      "minecraft:string",
+      "minecraft:honeycomb",
+      "minecraft:iron_ingot",
+      "minecraft:honeycomb",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwlights:iron_triple_candle_holder": {
+    "result": "mcwlights:iron_triple_candle_holder",
+    "count": 1,
+    "ingredients": [
+      "minecraft:string",
+      "minecraft:string",
+      "minecraft:string",
+      "minecraft:honeycomb",
+      "minecraft:honeycomb",
+      "minecraft:honeycomb",
+      "",
+      "minecraft:iron_ingot",
+      ""
+    ]
+  },
+  "mcwlights:iron_wall_candle_holder": {
+    "result": "mcwlights:iron_wall_candle_holder",
+    "count": 1,
+    "ingredients": [
+      "minecraft:string",
+      "",
+      "",
+      "minecraft:honeycomb",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwwindows:iron_shutter": {
+    "result": "mcwwindows:iron_shutter",
+    "count": 3,
+    "ingredients": [
+      "minecraft:iron_trapdoor",
+      "",
+      "",
+      "minecraft:iron_trapdoor",
+      "",
+      "",
+      "minecraft:iron_trapdoor",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:iron_upgrade_smithing_template": {
+    "result": "merrymaking:iron_upgrade_smithing_template",
+    "count": 2,
+    "ingredients": [
+      "minecraft:leather",
+      "merrymaking:iron_upgrade_smithing_template",
+      "minecraft:leather",
+      "minecraft:leather",
+      "minecraft:stone",
+      "minecraft:leather",
+      "minecraft:leather",
+      "minecraft:leather",
+      "minecraft:leather"
+    ]
+  },
+  "merrymaking:iron_wreath_door": {
+    "result": "merrymaking:iron_wreath_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_door",
+      "merrymaking:christmas_wreath",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:iron_wreath_lights_multi_door": {
+    "result": "merrymaking:iron_wreath_lights_multi_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_door",
+      "merrymaking:christmas_wreath_multi_lights",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:iron_wreath_lights_white_door": {
+    "result": "merrymaking:iron_wreath_lights_white_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_door",
+      "merrymaking:christmas_wreath_white_lights",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:iron_axe": {
+    "result": "minecraft:iron_axe",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "minecraft:iron_bars": {
+    "result": "minecraft:iron_bars",
+    "count": 16,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:iron_boots": {
+    "result": "minecraft:iron_boots",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:iron_chestplate": {
+    "result": "minecraft:iron_chestplate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "minecraft:iron_helmet": {
+    "result": "minecraft:iron_helmet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:iron_hoe": {
+    "result": "minecraft:iron_hoe",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "minecraft:iron_leggings": {
+    "result": "minecraft:iron_leggings",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "minecraft:iron_nugget": {
+    "result": "minecraft:iron_nugget",
+    "count": 9,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:iron_pickaxe": {
+    "result": "minecraft:iron_pickaxe",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "minecraft:iron_shovel": {
+    "result": "minecraft:iron_shovel",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "minecraft:iron_sword": {
+    "result": "minecraft:iron_sword",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "",
+      "",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:iridium_machine_casing_pipe": {
+    "result": "modern_industrialization:iridium_machine_casing_pipe",
+    "count": 2,
+    "ingredients": [
+      "modern_industrialization:iridium_curved_plate",
+      "modern_industrialization:large_advanced_pump",
+      "modern_industrialization:iridium_curved_plate",
+      "modern_industrialization:iridium_curved_plate",
+      "modern_industrialization:plasma_handling_iridium_machine_casing",
+      "modern_industrialization:iridium_curved_plate",
+      "modern_industrialization:iridium_curved_plate",
+      "modern_industrialization:large_advanced_pump",
+      "modern_industrialization:iridium_curved_plate"
+    ]
+  },
+  "modern_industrialization:iridium_block": {
+    "result": "modern_industrialization:iridium_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iridium",
+      "minecraft:iridium",
+      "minecraft:iridium",
+      "minecraft:iridium",
+      "modern_industrialization:iridium_ingot",
+      "minecraft:iridium",
+      "minecraft:iridium",
+      "minecraft:iridium",
+      "minecraft:iridium"
+    ]
+  },
+  "modern_industrialization:iridium_dust": {
+    "result": "modern_industrialization:iridium_dust",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iridium",
+      "minecraft:iridium",
+      "minecraft:iridium",
+      "minecraft:iridium",
+      "modern_industrialization:iridium_tiny_dust",
+      "minecraft:iridium",
+      "minecraft:iridium",
+      "minecraft:iridium",
+      "minecraft:iridium"
+    ]
+  },
+  "modern_industrialization:iridium_ingot": {
+    "result": "modern_industrialization:iridium_ingot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iridium",
+      "minecraft:iridium",
+      "minecraft:iridium",
+      "minecraft:iridium",
+      "modern_industrialization:iridium_nugget",
+      "minecraft:iridium",
+      "minecraft:iridium",
+      "minecraft:iridium",
+      "minecraft:iridium"
+    ]
+  },
+  "modern_industrialization:iridium_nugget": {
+    "result": "modern_industrialization:iridium_nugget",
+    "count": 9,
+    "ingredients": [
+      "modern_industrialization:iridium_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:iridium_tiny_dust": {
+    "result": "modern_industrialization:iridium_tiny_dust",
+    "count": 9,
+    "ingredients": [
+      "modern_industrialization:iridium_dust",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:iron_barrel": {
+    "result": "modern_industrialization:iron_barrel",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron",
+      "minecraft:iron",
+      "minecraft:iron",
+      "minecraft:iron",
+      "minecraft:wooden",
+      "minecraft:iron",
+      "minecraft:iron",
+      "minecraft:iron",
+      "minecraft:iron"
+    ]
+  },
+  "minecraft:iron_ore": {
+    "result": "minecraft:iron_ore",
+    "count": 1,
+    "ingredients": [
+      "minecraft:deepslate_iron_ore",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:iron_dust": {
+    "result": "modern_industrialization:iron_dust",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron",
+      "minecraft:iron",
+      "minecraft:iron",
+      "minecraft:iron",
+      "modern_industrialization:iron_tiny_dust",
+      "minecraft:iron",
+      "minecraft:iron",
+      "minecraft:iron",
+      "minecraft:iron"
+    ]
+  },
+  "modern_industrialization:iron_gear": {
+    "result": "modern_industrialization:iron_gear",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron",
+      "modern_industrialization:iron_bolt",
+      "minecraft:iron",
+      "modern_industrialization:iron_bolt",
+      "modern_industrialization:iron_ring",
+      "modern_industrialization:iron_bolt",
+      "minecraft:iron",
+      "modern_industrialization:iron_bolt",
+      "minecraft:iron"
+    ]
+  },
+  "modern_industrialization:iron_hammer": {
+    "result": "modern_industrialization:iron_hammer",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:iron_large_plate",
+      "modern_industrialization:iron_large_plate",
+      "modern_industrialization:iron_large_plate",
+      "modern_industrialization:iron_large_plate",
+      "minecraft:stick",
+      "modern_industrialization:iron_large_plate",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "modern_industrialization:iron_large_plate": {
+    "result": "modern_industrialization:iron_large_plate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron",
+      "minecraft:iron",
+      "",
+      "minecraft:iron",
+      "minecraft:iron",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:iron_ring": {
+    "result": "modern_industrialization:iron_ring",
+    "count": 2,
+    "ingredients": [
+      "modern_industrialization:iron_bolt",
+      "minecraft:iron",
+      "modern_industrialization:iron_bolt",
+      "minecraft:iron",
+      "",
+      "minecraft:iron",
+      "modern_industrialization:iron_bolt",
+      "minecraft:iron",
+      "modern_industrialization:iron_bolt"
+    ]
+  },
+  "modern_industrialization:iron_tank": {
+    "result": "modern_industrialization:iron_tank",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron",
+      "minecraft:iron",
+      "minecraft:iron",
+      "minecraft:iron",
+      "minecraft:glass",
+      "minecraft:iron",
+      "minecraft:iron",
+      "minecraft:iron",
+      "minecraft:iron"
+    ]
+  },
+  "modern_industrialization:iron_tiny_dust": {
+    "result": "modern_industrialization:iron_tiny_dust",
+    "count": 9,
+    "ingredients": [
+      "modern_industrialization:iron_dust",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:ironwood_ingot": {
+    "result": "twilightforest:ironwood_ingot",
+    "count": 9,
+    "ingredients": [
+      "twilightforest:ironwood_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "oritech:iron_clump": {
+    "result": "oritech:iron_clump",
+    "count": 1,
+    "ingredients": [
+      "oritech:small_iron_clump",
+      "oritech:small_iron_clump",
+      "oritech:small_iron_clump",
+      "oritech:small_iron_clump",
+      "oritech:small_iron_clump",
+      "oritech:small_iron_clump",
+      "oritech:small_iron_clump",
+      "oritech:small_iron_clump",
+      "oritech:small_iron_clump"
+    ]
+  },
+  "oritech:iron_dust": {
+    "result": "oritech:iron_dust",
+    "count": 1,
+    "ingredients": [
+      "oritech:small_iron_dust",
+      "oritech:small_iron_dust",
+      "oritech:small_iron_dust",
+      "oritech:small_iron_dust",
+      "oritech:small_iron_dust",
+      "oritech:small_iron_dust",
+      "oritech:small_iron_dust",
+      "oritech:small_iron_dust",
+      "oritech:small_iron_dust"
+    ]
+  },
+  "oritech:iron_plating_block": {
+    "result": "oritech:iron_plating_block",
+    "count": 2,
+    "ingredients": [
+      "minecraft:stone",
+      "modern_industrialization:steel_ingot",
+      "minecraft:stone",
+      "modern_industrialization:steel_ingot",
+      "minecraft:iron_ingot",
+      "modern_industrialization:steel_ingot",
+      "minecraft:stone",
+      "modern_industrialization:steel_ingot",
+      "minecraft:stone"
+    ]
+  },
+  "oritech:iron_plating_pressure_plate": {
+    "result": "oritech:iron_plating_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "oritech:iron_plating_block",
+      "oritech:iron_plating_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "oritech:iron_plating_slab": {
+    "result": "oritech:iron_plating_slab",
+    "count": 6,
+    "ingredients": [
+      "oritech:iron_plating_block",
+      "oritech:iron_plating_block",
+      "oritech:iron_plating_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "oritech:iron_plating_stairs": {
+    "result": "oritech:iron_plating_stairs",
+    "count": 4,
+    "ingredients": [
+      "oritech:iron_plating_block",
+      "",
+      "",
+      "oritech:iron_plating_block",
+      "oritech:iron_plating_block",
+      "",
+      "oritech:iron_plating_block",
+      "oritech:iron_plating_block",
+      "oritech:iron_plating_block"
+    ]
+  },
+  "productivetrees:iroko_bookshelf": {
+    "result": "productivetrees:iroko_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:iroko_planks",
+      "productivetrees:iroko_planks",
+      "productivetrees:iroko_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:iroko_planks",
+      "productivetrees:iroko_planks",
+      "productivetrees:iroko_planks"
+    ]
+  },
+  "productivetrees:iroko_button": {
+    "result": "productivetrees:iroko_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:iroko_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:iroko_door": {
+    "result": "productivetrees:iroko_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:iroko_planks",
+      "productivetrees:iroko_planks",
+      "",
+      "productivetrees:iroko_planks",
+      "productivetrees:iroko_planks",
+      "",
+      "productivetrees:iroko_planks",
+      "productivetrees:iroko_planks",
+      ""
+    ]
+  },
+  "productivetrees:iroko_fence": {
+    "result": "productivetrees:iroko_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:iroko_planks",
+      "minecraft:stick",
+      "productivetrees:iroko_planks",
+      "productivetrees:iroko_planks",
+      "minecraft:stick",
+      "productivetrees:iroko_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:iroko_fence_gate": {
+    "result": "productivetrees:iroko_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:iroko_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:iroko_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:iroko_hanging_sign": {
+    "result": "productivetrees:iroko_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:iroko_planks",
+      "productivetrees:iroko_planks",
+      "productivetrees:iroko_planks",
+      "productivetrees:iroko_planks",
+      "productivetrees:iroko_planks",
+      "productivetrees:iroko_planks"
+    ]
+  },
+  "productivetrees:iroko_planks": {
+    "result": "productivetrees:iroko_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:iroko_pressure_plate": {
+    "result": "productivetrees:iroko_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:iroko_planks",
+      "productivetrees:iroko_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:iroko_sign": {
+    "result": "productivetrees:iroko_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:iroko_planks",
+      "productivetrees:iroko_planks",
+      "productivetrees:iroko_planks",
+      "productivetrees:iroko_planks",
+      "productivetrees:iroko_planks",
+      "productivetrees:iroko_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:iroko_slab": {
+    "result": "productivetrees:iroko_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:iroko_planks",
+      "productivetrees:iroko_planks",
+      "productivetrees:iroko_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:iroko_stairs": {
+    "result": "productivetrees:iroko_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:iroko_planks",
+      "",
+      "",
+      "productivetrees:iroko_planks",
+      "productivetrees:iroko_planks",
+      "",
+      "productivetrees:iroko_planks",
+      "productivetrees:iroko_planks",
+      "productivetrees:iroko_planks"
+    ]
+  },
+  "productivetrees:iroko_trapdoor": {
+    "result": "productivetrees:iroko_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:iroko_planks",
+      "productivetrees:iroko_planks",
+      "productivetrees:iroko_planks",
+      "productivetrees:iroko_planks",
+      "productivetrees:iroko_planks",
+      "productivetrees:iroko_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:iroko_wood": {
+    "result": "productivetrees:iroko_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:iroko_log",
+      "productivetrees:iroko_log",
+      "",
+      "productivetrees:iroko_log",
+      "productivetrees:iroko_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:iron_activator_track": {
+    "result": "railcraft:iron_activator_track",
+    "count": 1,
+    "ingredients": [
+      "railcraft:activator_track_kit",
+      "minecraft:rail",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:iron_booster_track": {
+    "result": "railcraft:iron_booster_track",
+    "count": 1,
+    "ingredients": [
+      "railcraft:booster_track_kit",
+      "minecraft:rail",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:iron_buffer_stop_track": {
+    "result": "railcraft:iron_buffer_stop_track",
+    "count": 1,
+    "ingredients": [
+      "railcraft:buffer_stop_track_kit",
+      "minecraft:rail",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:iron_control_track": {
+    "result": "railcraft:iron_control_track",
+    "count": 1,
+    "ingredients": [
+      "railcraft:control_track_kit",
+      "minecraft:rail",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:iron_coupler_track": {
+    "result": "railcraft:iron_coupler_track",
+    "count": 1,
+    "ingredients": [
+      "railcraft:coupler_track_kit",
+      "minecraft:rail",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:iron_crowbar": {
+    "result": "railcraft:iron_crowbar",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:red",
+      "minecraft:iron_ingot",
+      "minecraft:red",
+      "minecraft:iron_ingot",
+      "minecraft:red",
+      "minecraft:iron_ingot",
+      "minecraft:red",
+      ""
+    ]
+  },
+  "railcraft:iron_detector_track": {
+    "result": "railcraft:iron_detector_track",
+    "count": 1,
+    "ingredients": [
+      "railcraft:detector_track_kit",
+      "minecraft:rail",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:iron_disembarking_track": {
+    "result": "railcraft:iron_disembarking_track",
+    "count": 1,
+    "ingredients": [
+      "railcraft:disembarking_track_kit",
+      "minecraft:rail",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:iron_dumping_track": {
+    "result": "railcraft:iron_dumping_track",
+    "count": 1,
+    "ingredients": [
+      "railcraft:dumping_track_kit",
+      "minecraft:rail",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:iron_embarking_track": {
+    "result": "railcraft:iron_embarking_track",
+    "count": 1,
+    "ingredients": [
+      "railcraft:embarking_track_kit",
+      "minecraft:rail",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:iron_gated_track": {
+    "result": "railcraft:iron_gated_track",
+    "count": 1,
+    "ingredients": [
+      "railcraft:gated_track_kit",
+      "minecraft:rail",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:iron_gear": {
+    "result": "railcraft:iron_gear",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "railcraft:bushing_gear",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      ""
+    ]
+  },
+  "railcraft:iron_junction_track": {
+    "result": "railcraft:iron_junction_track",
+    "count": 16,
+    "ingredients": [
+      "railcraft:standard_rail",
+      "railcraft:standard_rail",
+      "railcraft:standard_rail",
+      "railcraft:standard_rail",
+      "railcraft:wooden_railbed",
+      "railcraft:standard_rail",
+      "railcraft:standard_rail",
+      "railcraft:standard_rail",
+      "railcraft:standard_rail"
+    ]
+  },
+  "railcraft:iron_launcher_track": {
+    "result": "railcraft:iron_launcher_track",
+    "count": 1,
+    "ingredients": [
+      "railcraft:launcher_track_kit",
+      "minecraft:rail",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:iron_locking_track": {
+    "result": "railcraft:iron_locking_track",
+    "count": 1,
+    "ingredients": [
+      "railcraft:locking_track_kit",
+      "minecraft:rail",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:iron_locomotive_track": {
+    "result": "railcraft:iron_locomotive_track",
+    "count": 1,
+    "ingredients": [
+      "railcraft:locomotive_track_kit",
+      "minecraft:rail",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:iron_one_way_track": {
+    "result": "railcraft:iron_one_way_track",
+    "count": 1,
+    "ingredients": [
+      "railcraft:one_way_track_kit",
+      "minecraft:rail",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:iron_routing_track": {
+    "result": "railcraft:iron_routing_track",
+    "count": 1,
+    "ingredients": [
+      "railcraft:routing_track_kit",
+      "minecraft:rail",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:iron_spike_maul": {
+    "result": "railcraft:iron_spike_maul",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:iron",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "railcraft:iron_throttle_track": {
+    "result": "railcraft:iron_throttle_track",
+    "count": 1,
+    "ingredients": [
+      "railcraft:throttle_track_kit",
+      "minecraft:rail",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:iron_tunnel_bore_head": {
+    "result": "railcraft:iron_tunnel_bore_head",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "minecraft:iron",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot"
+    ]
+  },
+  "railcraft:iron_turnout_track": {
+    "result": "railcraft:iron_turnout_track",
+    "count": 16,
+    "ingredients": [
+      "railcraft:standard_rail",
+      "railcraft:wooden_railbed",
+      "railcraft:standard_rail",
+      "railcraft:standard_rail",
+      "railcraft:standard_rail",
+      "railcraft:standard_rail",
+      "railcraft:standard_rail",
+      "railcraft:standard_rail",
+      "railcraft:standard_rail"
+    ]
+  },
+  "railcraft:iron_whistle_track": {
+    "result": "railcraft:iron_whistle_track",
+    "count": 1,
+    "ingredients": [
+      "railcraft:whistle_track_kit",
+      "minecraft:rail",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:iron_wye_track": {
+    "result": "railcraft:iron_wye_track",
+    "count": 16,
+    "ingredients": [
+      "railcraft:standard_rail",
+      "railcraft:standard_rail",
+      "railcraft:standard_rail",
+      "railcraft:standard_rail",
+      "railcraft:standard_rail",
+      "railcraft:wooden_railbed",
+      "railcraft:standard_rail",
+      "railcraft:standard_rail",
+      "railcraft:standard_rail"
+    ]
+  },
+  "securitycraft:iron_mine": {
+    "result": "securitycraft:iron_mine",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ore",
+      "securitycraft:mine",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgear:iron_rod": {
+    "result": "silentgear:iron_rod",
+    "count": 4,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "",
+      "",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgems:iron_potato": {
+    "result": "silentgems:iron_potato",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gems",
+      "minecraft:iron",
+      "minecraft:gems",
+      "minecraft:iron",
+      "minecraft:potato",
+      "minecraft:iron",
+      "minecraft:gems",
+      "minecraft:iron",
+      "minecraft:gems"
+    ]
+  },
+  "sophisticatedstorage:iron_to_diamond_tier_upgrade": {
+    "result": "sophisticatedstorage:iron_to_diamond_tier_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "sophisticatedstorage:iron_to_gold_tier_upgrade",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond"
+    ]
+  },
+  "sophisticatedstorage:iron_to_gold_tier_upgrade": {
+    "result": "sophisticatedstorage:iron_to_gold_tier_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:lever",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot"
+    ]
+  },
+  "sophisticatedstorage:iron_to_netherite_tier_upgrade": {
+    "result": "sophisticatedstorage:iron_to_netherite_tier_upgrade",
+    "count": 1,
+    "ingredients": [
+      "sophisticatedstorage:iron_to_diamond_tier_upgrade",
+      "minecraft:netherite",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "supplementaries:iron_gate": {
+    "result": "supplementaries:iron_gate",
+    "count": 2,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "minecraft:iron",
+      "minecraft:iron_ingot",
+      "minecraft:iron",
+      "minecraft:iron",
+      "minecraft:iron_ingot",
+      "minecraft:iron"
+    ]
+  },
+  "twilightforest:iron_ladder": {
+    "result": "twilightforest:iron_ladder",
+    "count": 3,
+    "ingredients": [
+      "minecraft:iron",
+      "minecraft:iron_bars",
+      "minecraft:iron",
+      "minecraft:iron",
+      "minecraft:iron_bars",
+      "minecraft:iron",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:ironwood_block": {
+    "result": "twilightforest:ironwood_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "twilightforest:ironwood_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "twilightforest:ironwood_axe": {
+    "result": "twilightforest:ironwood_axe",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "twilightforest:ironwood_boots": {
+    "result": "twilightforest:ironwood_boots",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:ironwood_chestplate": {
+    "result": "twilightforest:ironwood_chestplate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "twilightforest:ironwood_helmet": {
+    "result": "twilightforest:ironwood_helmet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:ironwood_hoe": {
+    "result": "twilightforest:ironwood_hoe",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "twilightforest:ironwood_leggings": {
+    "result": "twilightforest:ironwood_leggings",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "twilightforest:ironwood_pickaxe": {
+    "result": "twilightforest:ironwood_pickaxe",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "twilightforest:ironwood_shovel": {
+    "result": "twilightforest:ironwood_shovel",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:ironwood_sword": {
+    "result": "twilightforest:ironwood_sword",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "",
+      "",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  }
+}

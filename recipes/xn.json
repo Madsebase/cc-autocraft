@@ -1,0 +1,17 @@
+{
+  "morered:xnor_gate": {
+    "result": "morered:xnor_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone",
+      "minecraft:redstone_torch",
+      "minecraft:stone",
+      "minecraft:redstone_torch",
+      "minecraft:redstone_torch",
+      "minecraft:redstone_torch",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone"
+    ]
+  }
+}

@@ -1,0 +1,4052 @@
+{
+  "aether:freezer": {
+    "result": "aether:freezer",
+    "count": 1,
+    "ingredients": [
+      "aether:holystone",
+      "aether:holystone",
+      "aether:holystone",
+      "aether:holystone",
+      "aether:icestone",
+      "aether:holystone",
+      "aether:skyroot_planks",
+      "aether:skyroot_planks",
+      "aether:skyroot_planks"
+    ]
+  },
+  "cataclysm:frosted_stone_bricks": {
+    "result": "cataclysm:frosted_stone_bricks",
+    "count": 8,
+    "ingredients": [
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:snow_block",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks"
+    ]
+  },
+  "cataclysm:frosted_stone_brick_slab": {
+    "result": "cataclysm:frosted_stone_brick_slab",
+    "count": 6,
+    "ingredients": [
+      "cataclysm:frosted_stone_bricks",
+      "cataclysm:frosted_stone_bricks",
+      "cataclysm:frosted_stone_bricks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "cataclysm:frosted_stone_brick_stairs": {
+    "result": "cataclysm:frosted_stone_brick_stairs",
+    "count": 4,
+    "ingredients": [
+      "cataclysm:frosted_stone_bricks",
+      "",
+      "",
+      "cataclysm:frosted_stone_bricks",
+      "cataclysm:frosted_stone_bricks",
+      "",
+      "cataclysm:frosted_stone_bricks",
+      "cataclysm:frosted_stone_bricks",
+      "cataclysm:frosted_stone_bricks"
+    ]
+  },
+  "cataclysm:frosted_stone_brick_wall": {
+    "result": "cataclysm:frosted_stone_brick_wall",
+    "count": 6,
+    "ingredients": [
+      "cataclysm:frosted_stone_bricks",
+      "cataclysm:frosted_stone_bricks",
+      "cataclysm:frosted_stone_bricks",
+      "cataclysm:frosted_stone_bricks",
+      "cataclysm:frosted_stone_bricks",
+      "cataclysm:frosted_stone_bricks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "cookingforblockheads:fruit_basket": {
+    "result": "cookingforblockheads:fruit_basket",
+    "count": 1,
+    "ingredients": [
+      "minecraft:wooden_slabs",
+      "minecraft:wooden_pressure_plates",
+      "minecraft:wooden_slabs",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:framed_glass_pane": {
+    "result": "create:framed_glass_pane",
+    "count": 16,
+    "ingredients": [
+      "create:framed_glass",
+      "create:framed_glass",
+      "create:framed_glass",
+      "create:framed_glass",
+      "create:framed_glass",
+      "create:framed_glass",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:framed_glass_door": {
+    "result": "create:framed_glass_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:wooden_doors",
+      "create:framed_glass",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:framed_glass_trapdoor": {
+    "result": "create:framed_glass_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:wooden_trapdoors",
+      "create:framed_glass",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create_dragons_plus:fragile_fluid_tank": {
+    "result": "create_dragons_plus:fragile_fluid_tank",
+    "count": 1,
+    "ingredients": [
+      "",
+      "create:copper_sheet",
+      "",
+      "minecraft:gold_ingot",
+      "minecraft:barrel",
+      "minecraft:gold_ingot",
+      "",
+      "create:copper_sheet",
+      ""
+    ]
+  },
+  "eternal_starlight:frozen_bomb": {
+    "result": "eternal_starlight:frozen_bomb",
+    "count": 12,
+    "ingredients": [
+      "eternal_starlight:ashen_snowball",
+      "minecraft:glacite",
+      "",
+      "minecraft:glacite",
+      "minecraft:starcore",
+      "minecraft:glacite",
+      "",
+      "minecraft:glacite",
+      ""
+    ]
+  },
+  "farmersdelight:fruit_salad": {
+    "result": "farmersdelight:fruit_salad",
+    "count": 1,
+    "ingredients": [
+      "minecraft:apple",
+      "minecraft:melon_slice",
+      "minecraft:melon_slice",
+      "minecraft:berry",
+      "minecraft:berry",
+      "farmersdelight:pumpkin_slice",
+      "minecraft:bowl",
+      "",
+      ""
+    ]
+  },
+  "forbidden_arcanus:fragmented_obsidian_skull": {
+    "result": "forbidden_arcanus:fragmented_obsidian_skull",
+    "count": 1,
+    "ingredients": [
+      "forbidden_arcanus:fading_obsidian_skull",
+      "forbidden_arcanus:obsidiansteel_ingot",
+      "forbidden_arcanus:obsidiansteel_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_activator_rail_slope": {
+    "result": "framedblocks:framed_activator_rail_slope",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_slope",
+      "minecraft:activator_rail",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_adj_double_copycat_panel": {
+    "result": "framedblocks:framed_adj_double_copycat_panel",
+    "count": 2,
+    "ingredients": [
+      "framedblocks:framed_collapsible_copycat_block",
+      "",
+      "",
+      "framedblocks:framed_collapsible_copycat_block",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_adj_double_copycat_slab": {
+    "result": "framedblocks:framed_adj_double_copycat_slab",
+    "count": 2,
+    "ingredients": [
+      "framedblocks:framed_collapsible_copycat_block",
+      "framedblocks:framed_collapsible_copycat_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_adj_double_panel": {
+    "result": "framedblocks:framed_adj_double_panel",
+    "count": 2,
+    "ingredients": [
+      "framedblocks:framed_collapsible_block",
+      "",
+      "",
+      "framedblocks:framed_collapsible_block",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_adj_double_slab": {
+    "result": "framedblocks:framed_adj_double_slab",
+    "count": 2,
+    "ingredients": [
+      "framedblocks:framed_collapsible_block",
+      "framedblocks:framed_collapsible_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_axe": {
+    "result": "framedblocks:framed_axe",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "framedblocks:framed_cube",
+      "",
+      "",
+      "framedblocks:framed_cube",
+      ""
+    ]
+  },
+  "framedblocks:framed_bars": {
+    "result": "framedblocks:framed_bars",
+    "count": 16,
+    "ingredients": [
+      "framedblocks:framed_cube",
+      "",
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube",
+      "",
+      "framedblocks:framed_cube"
+    ]
+  },
+  "framedblocks:framed_blueprint": {
+    "result": "framedblocks:framed_blueprint",
+    "count": 1,
+    "ingredients": [
+      "",
+      "framedblocks:framed_cube",
+      "",
+      "framedblocks:framed_cube",
+      "minecraft:paper",
+      "framedblocks:framed_cube",
+      "",
+      "framedblocks:framed_cube",
+      ""
+    ]
+  },
+  "framedblocks:framed_bookshelf": {
+    "result": "framedblocks:framed_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube"
+    ]
+  },
+  "framedblocks:framed_bouncy_cube": {
+    "result": "framedblocks:framed_bouncy_cube",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:slime_ball",
+      "",
+      "minecraft:slime_ball",
+      "framedblocks:framed_cube",
+      "minecraft:slime_ball",
+      "",
+      "minecraft:slime_ball",
+      ""
+    ]
+  },
+  "framedblocks:framed_button": {
+    "result": "framedblocks:framed_button",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_cube",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_centered_panel": {
+    "result": "framedblocks:framed_centered_panel",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_panel",
+      "framedblocks:framed_hammer",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_centered_slab": {
+    "result": "framedblocks:framed_centered_slab",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_slab",
+      "framedblocks:framed_hammer",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_checkered_cube": {
+    "result": "framedblocks:framed_checkered_cube",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_slab_corner",
+      "framedblocks:framed_slab_corner",
+      "framedblocks:framed_slab_corner",
+      "framedblocks:framed_slab_corner",
+      "",
+      "framedblocks:framed_slab_corner",
+      "framedblocks:framed_slab_corner",
+      "framedblocks:framed_slab_corner",
+      "framedblocks:framed_slab_corner"
+    ]
+  },
+  "framedblocks:framed_checkered_panel": {
+    "result": "framedblocks:framed_checkered_panel",
+    "count": 6,
+    "ingredients": [
+      "framedblocks:framed_checkered_cube",
+      "",
+      "",
+      "framedblocks:framed_checkered_cube",
+      "",
+      "",
+      "framedblocks:framed_checkered_cube",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_checkered_slab": {
+    "result": "framedblocks:framed_checkered_slab",
+    "count": 6,
+    "ingredients": [
+      "framedblocks:framed_checkered_cube",
+      "framedblocks:framed_checkered_cube",
+      "framedblocks:framed_checkered_cube",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_chest": {
+    "result": "framedblocks:framed_chest",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube",
+      "",
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube"
+    ]
+  },
+  "framedblocks:framed_chiseled_bookshelf": {
+    "result": "framedblocks:framed_chiseled_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube",
+      "framedblocks:framed_slab",
+      "framedblocks:framed_slab",
+      "framedblocks:framed_slab",
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube"
+    ]
+  },
+  "framedblocks:framed_collapsible_block": {
+    "result": "framedblocks:framed_collapsible_block",
+    "count": 4,
+    "ingredients": [
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube"
+    ]
+  },
+  "framedblocks:framed_collapsible_copycat_block": {
+    "result": "framedblocks:framed_collapsible_copycat_block",
+    "count": 4,
+    "ingredients": [
+      "framedblocks:framed_cube",
+      "minecraft:copper_ingot",
+      "framedblocks:framed_cube",
+      "minecraft:copper_ingot",
+      "",
+      "minecraft:copper_ingot",
+      "framedblocks:framed_cube",
+      "minecraft:copper_ingot",
+      "framedblocks:framed_cube"
+    ]
+  },
+  "framedblocks:framed_compound_slope_panel": {
+    "result": "framedblocks:framed_compound_slope_panel",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_slope_panel",
+      "framedblocks:framed_slope_panel",
+      "framedblocks:framed_hammer",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_compound_slope_slab": {
+    "result": "framedblocks:framed_compound_slope_slab",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_slope_slab",
+      "framedblocks:framed_slope_slab",
+      "framedblocks:framed_hammer",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_corner_pillar": {
+    "result": "framedblocks:framed_corner_pillar",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_pillar",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_corner_slope": {
+    "result": "framedblocks:framed_corner_slope",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_hammer",
+      "framedblocks:framed_slope",
+      "",
+      "",
+      "",
+      "framedblocks:framed_slope",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_corner_strip": {
+    "result": "framedblocks:framed_corner_strip",
+    "count": 16,
+    "ingredients": [
+      "framedblocks:framed_wall_board",
+      "framedblocks:framed_hammer",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_corner_tube": {
+    "result": "framedblocks:framed_corner_tube",
+    "count": 3,
+    "ingredients": [
+      "framedblocks:framed_tube",
+      "framedblocks:framed_tube",
+      "",
+      "framedblocks:framed_tube",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_cube": {
+    "result": "framedblocks:framed_cube",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "minecraft:stick",
+      "minecraft:oak_planks",
+      "minecraft:stick",
+      "",
+      "minecraft:stick",
+      "minecraft:oak_planks",
+      "minecraft:stick",
+      "minecraft:oak_planks"
+    ]
+  },
+  "framedblocks:framed_detector_rail_slope": {
+    "result": "framedblocks:framed_detector_rail_slope",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_slope",
+      "minecraft:detector_rail",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_divided_panel_horizontal": {
+    "result": "framedblocks:framed_divided_panel_horizontal",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_slab_edge",
+      "",
+      "",
+      "framedblocks:framed_slab_edge",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_divided_panel_vertical": {
+    "result": "framedblocks:framed_divided_panel_vertical",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_corner_pillar",
+      "framedblocks:framed_corner_pillar",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_divided_slab": {
+    "result": "framedblocks:framed_divided_slab",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_slab_edge",
+      "framedblocks:framed_slab_edge",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_divided_slope": {
+    "result": "framedblocks:framed_divided_slope",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_half_slope",
+      "framedblocks:framed_half_slope",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_divided_stairs": {
+    "result": "framedblocks:framed_divided_stairs",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_half_stairs",
+      "framedblocks:framed_half_stairs",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_door": {
+    "result": "framedblocks:framed_door",
+    "count": 3,
+    "ingredients": [
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube",
+      "",
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube",
+      "",
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube",
+      ""
+    ]
+  },
+  "framedblocks:framed_double_corner": {
+    "result": "framedblocks:framed_double_corner",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_inner_corner_slope",
+      "framedblocks:framed_corner_slope",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_double_half_slope": {
+    "result": "framedblocks:framed_double_half_slope",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_half_slope",
+      "",
+      "",
+      "framedblocks:framed_half_slope",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_double_half_stairs": {
+    "result": "framedblocks:framed_double_half_stairs",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_half_stairs",
+      "framedblocks:framed_slab_corner",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_double_panel": {
+    "result": "framedblocks:framed_double_panel",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_panel",
+      "framedblocks:framed_panel",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_double_prism_corner": {
+    "result": "framedblocks:framed_double_prism_corner",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_inner_prism_corner",
+      "framedblocks:framed_prism_corner",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_double_slab": {
+    "result": "framedblocks:framed_double_slab",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_slab",
+      "",
+      "",
+      "framedblocks:framed_slab",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_double_slope": {
+    "result": "framedblocks:framed_double_slope",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_slope",
+      "framedblocks:framed_slope",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_double_slope_panel": {
+    "result": "framedblocks:framed_double_slope_panel",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_inv_double_slope_panel",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_double_slope_slab": {
+    "result": "framedblocks:framed_double_slope_slab",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_inv_double_slope_slab",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_double_stairs": {
+    "result": "framedblocks:framed_double_stairs",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_stairs",
+      "framedblocks:framed_slab_edge",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_double_threeway_corner": {
+    "result": "framedblocks:framed_double_threeway_corner",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_inner_threeway_corner",
+      "framedblocks:framed_threeway_corner",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_double_threeway_corner_pillar": {
+    "result": "framedblocks:framed_double_threeway_corner_pillar",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_threeway_corner_pillar",
+      "",
+      "",
+      "framedblocks:framed_threeway_corner_pillar",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_elevated_double_slope_edge": {
+    "result": "framedblocks:framed_elevated_double_slope_edge",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_slope_edge",
+      "",
+      "",
+      "framedblocks:framed_elevated_slope_edge",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_elevated_double_slope_slab": {
+    "result": "framedblocks:framed_elevated_double_slope_slab",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_slope_slab",
+      "",
+      "",
+      "framedblocks:framed_elevated_slope_slab",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_elevated_inner_double_prism": {
+    "result": "framedblocks:framed_elevated_inner_double_prism",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_prism",
+      "",
+      "",
+      "framedblocks:framed_elevated_inner_prism",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_elevated_inner_double_sloped_prism": {
+    "result": "framedblocks:framed_elevated_inner_double_sloped_prism",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_sloped_prism",
+      "",
+      "",
+      "framedblocks:framed_elevated_inner_sloped_prism",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_elevated_inner_prism": {
+    "result": "framedblocks:framed_elevated_inner_prism",
+    "count": 2,
+    "ingredients": [
+      "framedblocks:framed_slope",
+      "framedblocks:framed_slope",
+      "",
+      "framedblocks:framed_slab",
+      "framedblocks:framed_slab",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_elevated_inner_sloped_prism": {
+    "result": "framedblocks:framed_elevated_inner_sloped_prism",
+    "count": 2,
+    "ingredients": [
+      "framedblocks:framed_corner_slope",
+      "framedblocks:framed_corner_slope",
+      "",
+      "framedblocks:framed_slab",
+      "framedblocks:framed_slab",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_elevated_pyramid_slab": {
+    "result": "framedblocks:framed_elevated_pyramid_slab",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_pyramid_slab",
+      "",
+      "",
+      "framedblocks:framed_slab",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_elevated_slope_edge": {
+    "result": "framedblocks:framed_elevated_slope_edge",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_slope_edge",
+      "",
+      "",
+      "framedblocks:framed_stairs",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_elevated_slope_slab": {
+    "result": "framedblocks:framed_elevated_slope_slab",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_slope_slab",
+      "",
+      "",
+      "framedblocks:framed_slab",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_extended_double_slope_panel": {
+    "result": "framedblocks:framed_extended_double_slope_panel",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_extended_slope_panel",
+      "framedblocks:framed_slope_panel",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_extended_slope_panel": {
+    "result": "framedblocks:framed_extended_slope_panel",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_panel",
+      "framedblocks:framed_slope_panel",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_ext_corner_slope_panel": {
+    "result": "framedblocks:framed_ext_corner_slope_panel",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_hammer",
+      "framedblocks:framed_large_corner_slope_panel",
+      "framedblocks:framed_corner_pillar",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_ext_double_corner_slope_panel": {
+    "result": "framedblocks:framed_ext_double_corner_slope_panel",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_ext_corner_slope_panel",
+      "framedblocks:framed_large_inner_corner_slope_panel",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_ext_inner_corner_slope_panel": {
+    "result": "framedblocks:framed_ext_inner_corner_slope_panel",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_hammer",
+      "framedblocks:framed_small_inner_corner_slope_panel",
+      "framedblocks:framed_vertical_stairs",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_ext_inner_double_corner_slope_panel": {
+    "result": "framedblocks:framed_ext_inner_double_corner_slope_panel",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_ext_inner_corner_slope_panel",
+      "framedblocks:framed_small_corner_slope_panel",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_fancy_activator_rail": {
+    "result": "framedblocks:framed_fancy_activator_rail",
+    "count": 6,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "framedblocks:framed_cube",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:redstone_torch",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "framedblocks:framed_cube",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "framedblocks:framed_fancy_activator_rail_slope": {
+    "result": "framedblocks:framed_fancy_activator_rail_slope",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_fancy_activator_rail",
+      "",
+      "",
+      "framedblocks:framed_slope",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_fancy_detector_rail": {
+    "result": "framedblocks:framed_fancy_detector_rail",
+    "count": 6,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:stone_pressure_plate",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "framedblocks:framed_cube",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:redstone",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "framedblocks:framed_fancy_detector_rail_slope": {
+    "result": "framedblocks:framed_fancy_detector_rail_slope",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_fancy_detector_rail",
+      "",
+      "",
+      "framedblocks:framed_slope",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_fancy_powered_rail": {
+    "result": "framedblocks:framed_fancy_powered_rail",
+    "count": 6,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "framedblocks:framed_cube",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:redstone",
+      "minecraft:gold_ingot"
+    ]
+  },
+  "framedblocks:framed_fancy_powered_rail_slope": {
+    "result": "framedblocks:framed_fancy_powered_rail_slope",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_fancy_powered_rail",
+      "",
+      "",
+      "framedblocks:framed_slope",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_fancy_rail": {
+    "result": "framedblocks:framed_fancy_rail",
+    "count": 16,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "framedblocks:framed_cube",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "framedblocks:framed_fancy_rail_slope": {
+    "result": "framedblocks:framed_fancy_rail_slope",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_fancy_rail",
+      "",
+      "",
+      "framedblocks:framed_slope",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_fence": {
+    "result": "framedblocks:framed_fence",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_post",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_fence_gate": {
+    "result": "framedblocks:framed_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "framedblocks:framed_cube",
+      "minecraft:stick",
+      "minecraft:stick",
+      "framedblocks:framed_cube",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_flat_double_slope_panel_corner": {
+    "result": "framedblocks:framed_flat_double_slope_panel_corner",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_flat_inv_double_slope_panel_corner",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_flat_double_slope_slab_corner": {
+    "result": "framedblocks:framed_flat_double_slope_slab_corner",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_flat_inv_double_slope_slab_corner",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_flat_elev_double_slope_slab_corner": {
+    "result": "framedblocks:framed_flat_elev_double_slope_slab_corner",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_flat_inner_slope_slab_corner",
+      "",
+      "",
+      "framedblocks:framed_flat_elev_slope_slab_corner",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_flat_elev_inner_double_slope_slab_corner": {
+    "result": "framedblocks:framed_flat_elev_inner_double_slope_slab_corner",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_flat_slope_slab_corner",
+      "",
+      "",
+      "framedblocks:framed_flat_elev_inner_slope_slab_corner",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_flat_elev_inner_slope_slab_corner": {
+    "result": "framedblocks:framed_flat_elev_inner_slope_slab_corner",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_flat_inner_slope_slab_corner",
+      "",
+      "",
+      "framedblocks:framed_slab",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_flat_elev_slope_slab_corner": {
+    "result": "framedblocks:framed_flat_elev_slope_slab_corner",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_flat_slope_slab_corner",
+      "",
+      "",
+      "framedblocks:framed_slab",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_flat_ext_double_slope_panel_corner": {
+    "result": "framedblocks:framed_flat_ext_double_slope_panel_corner",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_flat_ext_slope_panel_corner",
+      "framedblocks:framed_flat_inner_slope_panel_corner",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_flat_ext_inner_double_slope_panel_corner": {
+    "result": "framedblocks:framed_flat_ext_inner_double_slope_panel_corner",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_flat_ext_inner_slope_panel_corner",
+      "framedblocks:framed_flat_slope_panel_corner",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_flat_ext_inner_slope_panel_corner": {
+    "result": "framedblocks:framed_flat_ext_inner_slope_panel_corner",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_panel",
+      "framedblocks:framed_flat_inner_slope_panel_corner",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_flat_ext_slope_panel_corner": {
+    "result": "framedblocks:framed_flat_ext_slope_panel_corner",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_panel",
+      "framedblocks:framed_flat_slope_panel_corner",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_flat_inner_slope_panel_corner": {
+    "result": "framedblocks:framed_flat_inner_slope_panel_corner",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_hammer",
+      "",
+      "framedblocks:framed_slope_panel",
+      "",
+      "framedblocks:framed_slope_panel",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_flat_inner_slope_slab_corner": {
+    "result": "framedblocks:framed_flat_inner_slope_slab_corner",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_hammer",
+      "",
+      "framedblocks:framed_slope_slab",
+      "",
+      "framedblocks:framed_slope_slab",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_flat_inv_double_slope_panel_corner": {
+    "result": "framedblocks:framed_flat_inv_double_slope_panel_corner",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_flat_double_slope_panel_corner",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_flat_inv_double_slope_slab_corner": {
+    "result": "framedblocks:framed_flat_inv_double_slope_slab_corner",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_flat_double_slope_slab_corner",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_flat_slope_panel_corner": {
+    "result": "framedblocks:framed_flat_slope_panel_corner",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_hammer",
+      "framedblocks:framed_slope_panel",
+      "",
+      "",
+      "",
+      "framedblocks:framed_slope_panel",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_flat_slope_slab_corner": {
+    "result": "framedblocks:framed_flat_slope_slab_corner",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_hammer",
+      "framedblocks:framed_slope_slab",
+      "",
+      "",
+      "",
+      "framedblocks:framed_slope_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_flat_stacked_inner_slope_panel_corner": {
+    "result": "framedblocks:framed_flat_stacked_inner_slope_panel_corner",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_panel",
+      "framedblocks:framed_flat_inner_slope_panel_corner",
+      "framedblocks:framed_hammer",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_flat_stacked_inner_slope_slab_corner": {
+    "result": "framedblocks:framed_flat_stacked_inner_slope_slab_corner",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_hammer",
+      "",
+      "",
+      "framedblocks:framed_flat_inner_slope_slab_corner",
+      "",
+      "",
+      "framedblocks:framed_slab",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_flat_stacked_slope_panel_corner": {
+    "result": "framedblocks:framed_flat_stacked_slope_panel_corner",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_panel",
+      "framedblocks:framed_flat_slope_panel_corner",
+      "framedblocks:framed_hammer",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_flat_stacked_slope_slab_corner": {
+    "result": "framedblocks:framed_flat_stacked_slope_slab_corner",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_hammer",
+      "",
+      "",
+      "framedblocks:framed_flat_slope_slab_corner",
+      "",
+      "",
+      "framedblocks:framed_slab",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_floor_board": {
+    "result": "framedblocks:framed_floor_board",
+    "count": 4,
+    "ingredients": [
+      "framedblocks:framed_slab",
+      "framedblocks:framed_slab",
+      "framedblocks:framed_hammer",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_flower_pot": {
+    "result": "framedblocks:framed_flower_pot",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_cube",
+      "",
+      "framedblocks:framed_cube",
+      "",
+      "framedblocks:framed_cube",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_gate": {
+    "result": "framedblocks:framed_gate",
+    "count": 4,
+    "ingredients": [
+      "framedblocks:framed_door",
+      "framedblocks:framed_door",
+      "",
+      "framedblocks:framed_door",
+      "framedblocks:framed_door",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_glowing_cube": {
+    "result": "framedblocks:framed_glowing_cube",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stone",
+      "",
+      "minecraft:stone",
+      "framedblocks:framed_cube",
+      "minecraft:stone",
+      "",
+      "minecraft:stone",
+      ""
+    ]
+  },
+  "framedblocks:framed_glowing_item_frame": {
+    "result": "framedblocks:framed_glowing_item_frame",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_item_frame",
+      "minecraft:glow_ink_sac",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_gold_pressure_plate": {
+    "result": "framedblocks:framed_gold_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube",
+      "",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_half_pillar": {
+    "result": "framedblocks:framed_half_pillar",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_slab_corner",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_half_slope": {
+    "result": "framedblocks:framed_half_slope",
+    "count": 2,
+    "ingredients": [
+      "framedblocks:framed_slope",
+      "framedblocks:framed_hammer",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_half_stairs": {
+    "result": "framedblocks:framed_half_stairs",
+    "count": 2,
+    "ingredients": [
+      "framedblocks:framed_hammer",
+      "framedblocks:framed_stairs",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_hammer": {
+    "result": "framedblocks:framed_hammer",
+    "count": 1,
+    "ingredients": [
+      "",
+      "framedblocks:framed_cube",
+      "",
+      "",
+      "minecraft:stick",
+      "framedblocks:framed_cube",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_hanging_sign": {
+    "result": "framedblocks:framed_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube"
+    ]
+  },
+  "framedblocks:framed_horizontal_pane": {
+    "result": "framedblocks:framed_horizontal_pane",
+    "count": 4,
+    "ingredients": [
+      "framedblocks:framed_pane",
+      "framedblocks:framed_pane",
+      "",
+      "framedblocks:framed_pane",
+      "framedblocks:framed_pane",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_inner_corner_slope": {
+    "result": "framedblocks:framed_inner_corner_slope",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_hammer",
+      "",
+      "framedblocks:framed_slope",
+      "",
+      "framedblocks:framed_slope",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_inner_prism_corner": {
+    "result": "framedblocks:framed_inner_prism_corner",
+    "count": 1,
+    "ingredients": [
+      "",
+      "framedblocks:framed_slope",
+      "",
+      "framedblocks:framed_slope",
+      "",
+      "framedblocks:framed_slope",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_inner_threeway_corner": {
+    "result": "framedblocks:framed_inner_threeway_corner",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_slope",
+      "framedblocks:framed_slope",
+      "",
+      "framedblocks:framed_slope",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_inv_double_corner_slope_panel": {
+    "result": "framedblocks:framed_inv_double_corner_slope_panel",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_large_corner_slope_panel",
+      "framedblocks:framed_small_inner_corner_slope_panel",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_inv_double_slope_panel": {
+    "result": "framedblocks:framed_inv_double_slope_panel",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_double_slope_panel",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_inv_double_slope_slab": {
+    "result": "framedblocks:framed_inv_double_slope_slab",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_double_slope_slab",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_iron_door": {
+    "result": "framedblocks:framed_iron_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "framedblocks:framed_door",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_iron_gate": {
+    "result": "framedblocks:framed_iron_gate",
+    "count": 4,
+    "ingredients": [
+      "framedblocks:framed_iron_door",
+      "framedblocks:framed_iron_door",
+      "",
+      "framedblocks:framed_iron_door",
+      "framedblocks:framed_iron_door",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_iron_pressure_plate": {
+    "result": "framedblocks:framed_iron_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_iron_trapdoor": {
+    "result": "framedblocks:framed_iron_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_trapdoor",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_item_frame": {
+    "result": "framedblocks:framed_item_frame",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube",
+      "minecraft:leather",
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube"
+    ]
+  },
+  "framedblocks:framed_key": {
+    "result": "framedblocks:framed_key",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:stick",
+      "framedblocks:framed_cube",
+      "minecraft:iron",
+      "minecraft:iron",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_ladder": {
+    "result": "framedblocks:framed_ladder",
+    "count": 3,
+    "ingredients": [
+      "framedblocks:framed_cube",
+      "",
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube",
+      "minecraft:stick",
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube",
+      "",
+      "framedblocks:framed_cube"
+    ]
+  },
+  "framedblocks:framed_lantern": {
+    "result": "framedblocks:framed_lantern",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_slab_corner",
+      "framedblocks:framed_slab_corner",
+      "framedblocks:framed_slab_corner",
+      "framedblocks:framed_slab_corner",
+      "minecraft:torch",
+      "framedblocks:framed_slab_corner",
+      "framedblocks:framed_slab_corner",
+      "framedblocks:framed_slab_corner",
+      "framedblocks:framed_slab_corner"
+    ]
+  },
+  "framedblocks:framed_large_button": {
+    "result": "framedblocks:framed_large_button",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_button",
+      "framedblocks:framed_button",
+      "",
+      "framedblocks:framed_button",
+      "framedblocks:framed_button",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_large_corner_slope_panel": {
+    "result": "framedblocks:framed_large_corner_slope_panel",
+    "count": 2,
+    "ingredients": [
+      "framedblocks:framed_hammer",
+      "",
+      "",
+      "",
+      "framedblocks:framed_slope_panel",
+      "framedblocks:framed_slope_panel",
+      "",
+      "framedblocks:framed_slope_panel",
+      ""
+    ]
+  },
+  "framedblocks:framed_large_double_corner_slope_panel": {
+    "result": "framedblocks:framed_large_double_corner_slope_panel",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_hammer",
+      "framedblocks:framed_large_corner_slope_panel",
+      "framedblocks:framed_large_inner_corner_slope_panel",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_large_inner_corner_slope_panel": {
+    "result": "framedblocks:framed_large_inner_corner_slope_panel",
+    "count": 1,
+    "ingredients": [
+      "",
+      "framedblocks:framed_slope_panel",
+      "",
+      "framedblocks:framed_slope_panel",
+      "framedblocks:framed_slope_panel",
+      "",
+      "",
+      "",
+      "framedblocks:framed_hammer"
+    ]
+  },
+  "framedblocks:framed_large_stone_button": {
+    "result": "framedblocks:framed_large_stone_button",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_stone_button",
+      "framedblocks:framed_stone_button",
+      "",
+      "framedblocks:framed_stone_button",
+      "framedblocks:framed_stone_button",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_lattice_block": {
+    "result": "framedblocks:framed_lattice_block",
+    "count": 3,
+    "ingredients": [
+      "",
+      "framedblocks:framed_cube",
+      "",
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube",
+      "",
+      "framedblocks:framed_cube",
+      ""
+    ]
+  },
+  "framedblocks:framed_lever": {
+    "result": "framedblocks:framed_lever",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "",
+      "",
+      "framedblocks:framed_cube",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_masonry_corner": {
+    "result": "framedblocks:framed_masonry_corner",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_slab_edge",
+      "framedblocks:framed_slab_edge",
+      "",
+      "framedblocks:framed_slab_edge",
+      "framedblocks:framed_slab_edge",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_mini_cube": {
+    "result": "framedblocks:framed_mini_cube",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_cube",
+      "framedblocks:framed_hammer",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_obsidian_pressure_plate": {
+    "result": "framedblocks:framed_obsidian_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube",
+      "",
+      "minecraft:obsidians",
+      "minecraft:obsidians",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_one_way_window": {
+    "result": "framedblocks:framed_one_way_window",
+    "count": 4,
+    "ingredients": [
+      "minecraft:tinted_glass",
+      "framedblocks:framed_cube",
+      "minecraft:tinted_glass",
+      "framedblocks:framed_cube",
+      "",
+      "framedblocks:framed_cube",
+      "minecraft:tinted_glass",
+      "framedblocks:framed_cube",
+      "minecraft:tinted_glass"
+    ]
+  },
+  "framedblocks:framed_pane": {
+    "result": "framedblocks:framed_pane",
+    "count": 12,
+    "ingredients": [
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube",
+      "",
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_panel": {
+    "result": "framedblocks:framed_panel",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_centered_panel",
+      "framedblocks:framed_hammer",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_pillar": {
+    "result": "framedblocks:framed_pillar",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_corner_pillar",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_pillar_socket": {
+    "result": "framedblocks:framed_pillar_socket",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_split_pillar_socket",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_post": {
+    "result": "framedblocks:framed_post",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_fence",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_powered_rail_slope": {
+    "result": "framedblocks:framed_powered_rail_slope",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_slope",
+      "minecraft:powered_rail",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_pressure_plate": {
+    "result": "framedblocks:framed_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_prism": {
+    "result": "framedblocks:framed_prism",
+    "count": 2,
+    "ingredients": [
+      "framedblocks:framed_slope",
+      "framedblocks:framed_slope",
+      "framedblocks:framed_hammer",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_prism_corner": {
+    "result": "framedblocks:framed_prism_corner",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_slope",
+      "",
+      "framedblocks:framed_slope",
+      "",
+      "framedblocks:framed_slope",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_pyramid": {
+    "result": "framedblocks:framed_pyramid",
+    "count": 4,
+    "ingredients": [
+      "framedblocks:framed_slope_panel",
+      "framedblocks:framed_slope_panel",
+      "",
+      "framedblocks:framed_slope_panel",
+      "framedblocks:framed_slope_panel",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_pyramid_slab": {
+    "result": "framedblocks:framed_pyramid_slab",
+    "count": 4,
+    "ingredients": [
+      "framedblocks:framed_slope",
+      "framedblocks:framed_slope",
+      "",
+      "framedblocks:framed_slope",
+      "framedblocks:framed_slope",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_rail_slope": {
+    "result": "framedblocks:framed_rail_slope",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_slope",
+      "minecraft:rail",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_redstone_block": {
+    "result": "framedblocks:framed_redstone_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "minecraft:redstone",
+      "minecraft:redstone",
+      "minecraft:redstone",
+      "framedblocks:framed_cube",
+      "minecraft:redstone",
+      "minecraft:redstone",
+      "minecraft:redstone",
+      "minecraft:redstone"
+    ]
+  },
+  "framedblocks:framed_redstone_torch": {
+    "result": "framedblocks:framed_redstone_torch",
+    "count": 4,
+    "ingredients": [
+      "minecraft:redstone",
+      "",
+      "",
+      "framedblocks:framed_cube",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_reinforcement": {
+    "result": "framedblocks:framed_reinforcement",
+    "count": 16,
+    "ingredients": [
+      "minecraft:obsidians",
+      "minecraft:stick",
+      "minecraft:obsidians",
+      "minecraft:stick",
+      "framedblocks:framed_cube",
+      "minecraft:stick",
+      "minecraft:obsidians",
+      "minecraft:stick",
+      "minecraft:obsidians"
+    ]
+  },
+  "framedblocks:framed_screwdriver": {
+    "result": "framedblocks:framed_screwdriver",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      "framedblocks:framed_cube",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_secret_storage": {
+    "result": "framedblocks:framed_secret_storage",
+    "count": 1,
+    "ingredients": [
+      "",
+      "framedblocks:framed_cube",
+      "",
+      "framedblocks:framed_cube",
+      "framedblocks:framed_chest",
+      "framedblocks:framed_cube",
+      "",
+      "framedblocks:framed_cube",
+      ""
+    ]
+  },
+  "framedblocks:framed_sign": {
+    "result": "framedblocks:framed_sign",
+    "count": 3,
+    "ingredients": [
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "framedblocks:framed_slab": {
+    "result": "framedblocks:framed_slab",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_centered_slab",
+      "framedblocks:framed_hammer",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_slab_corner": {
+    "result": "framedblocks:framed_slab_corner",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_half_pillar",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_slab_edge": {
+    "result": "framedblocks:framed_slab_edge",
+    "count": 6,
+    "ingredients": [
+      "framedblocks:framed_slab",
+      "framedblocks:framed_slab",
+      "framedblocks:framed_slab",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_sliced_sloped_stairs_slab": {
+    "result": "framedblocks:framed_sliced_sloped_stairs_slab",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_half_slope",
+      "",
+      "",
+      "framedblocks:framed_slab",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_sliced_sloped_stairs_slope": {
+    "result": "framedblocks:framed_sliced_sloped_stairs_slope",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_slope",
+      "framedblocks:framed_half_slope",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_sliced_stairs_panel": {
+    "result": "framedblocks:framed_sliced_stairs_panel",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_panel",
+      "framedblocks:framed_slab_edge",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_sliced_stairs_slab": {
+    "result": "framedblocks:framed_sliced_stairs_slab",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_slab_edge",
+      "",
+      "",
+      "framedblocks:framed_slab",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_slope": {
+    "result": "framedblocks:framed_slope",
+    "count": 3,
+    "ingredients": [
+      "framedblocks:framed_cube",
+      "",
+      "",
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_sloped_double_stairs": {
+    "result": "framedblocks:framed_sloped_double_stairs",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_half_slope",
+      "",
+      "",
+      "framedblocks:framed_sloped_stairs",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_sloped_prism": {
+    "result": "framedblocks:framed_sloped_prism",
+    "count": 2,
+    "ingredients": [
+      "framedblocks:framed_corner_slope",
+      "framedblocks:framed_corner_slope",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_sloped_stairs": {
+    "result": "framedblocks:framed_sloped_stairs",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_half_slope",
+      "",
+      "",
+      "framedblocks:framed_slab",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_slope_edge": {
+    "result": "framedblocks:framed_slope_edge",
+    "count": 6,
+    "ingredients": [
+      "framedblocks:framed_slope",
+      "framedblocks:framed_slope",
+      "framedblocks:framed_slope",
+      "",
+      "framedblocks:framed_hammer",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_slope_panel": {
+    "result": "framedblocks:framed_slope_panel",
+    "count": 6,
+    "ingredients": [
+      "framedblocks:framed_slope",
+      "",
+      "",
+      "framedblocks:framed_slope",
+      "",
+      "",
+      "framedblocks:framed_slope",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_slope_slab": {
+    "result": "framedblocks:framed_slope_slab",
+    "count": 6,
+    "ingredients": [
+      "framedblocks:framed_slope",
+      "framedblocks:framed_slope",
+      "framedblocks:framed_slope",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_small_corner_slope_panel": {
+    "result": "framedblocks:framed_small_corner_slope_panel",
+    "count": 6,
+    "ingredients": [
+      "framedblocks:framed_hammer",
+      "framedblocks:framed_slope_panel",
+      "",
+      "framedblocks:framed_slope_panel",
+      "framedblocks:framed_slope_panel",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_small_double_corner_slope_panel": {
+    "result": "framedblocks:framed_small_double_corner_slope_panel",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_hammer",
+      "framedblocks:framed_small_corner_slope_panel",
+      "framedblocks:framed_small_inner_corner_slope_panel",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_small_inner_corner_slope_panel": {
+    "result": "framedblocks:framed_small_inner_corner_slope_panel",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_slope_panel",
+      "framedblocks:framed_slope_panel",
+      "",
+      "framedblocks:framed_slope_panel",
+      "framedblocks:framed_hammer",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_soul_lantern": {
+    "result": "framedblocks:framed_soul_lantern",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_slab_corner",
+      "framedblocks:framed_slab_corner",
+      "framedblocks:framed_slab_corner",
+      "framedblocks:framed_slab_corner",
+      "minecraft:soul_torch",
+      "framedblocks:framed_slab_corner",
+      "framedblocks:framed_slab_corner",
+      "framedblocks:framed_slab_corner",
+      "framedblocks:framed_slab_corner"
+    ]
+  },
+  "framedblocks:framed_soul_torch": {
+    "result": "framedblocks:framed_soul_torch",
+    "count": 4,
+    "ingredients": [
+      "minecraft:coal",
+      "",
+      "",
+      "framedblocks:framed_cube",
+      "",
+      "",
+      "minecraft:soul_fire_base_blocks",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_split_pillar_socket": {
+    "result": "framedblocks:framed_split_pillar_socket",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_pillar_socket",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_stacked_corner_slope_panel": {
+    "result": "framedblocks:framed_stacked_corner_slope_panel",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_large_corner_slope_panel",
+      "framedblocks:framed_corner_pillar",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_stacked_inner_corner_slope_panel": {
+    "result": "framedblocks:framed_stacked_inner_corner_slope_panel",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_small_inner_corner_slope_panel",
+      "framedblocks:framed_vertical_stairs",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_stacked_pyramid_slab": {
+    "result": "framedblocks:framed_stacked_pyramid_slab",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_hammer",
+      "",
+      "",
+      "framedblocks:framed_pyramid_slab",
+      "",
+      "",
+      "framedblocks:framed_slab",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_stacked_slope_edge": {
+    "result": "framedblocks:framed_stacked_slope_edge",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_hammer",
+      "",
+      "",
+      "framedblocks:framed_slope_edge",
+      "",
+      "",
+      "framedblocks:framed_stairs",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_stacked_slope_panel": {
+    "result": "framedblocks:framed_stacked_slope_panel",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_panel",
+      "framedblocks:framed_slope_panel",
+      "framedblocks:framed_hammer",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_stacked_slope_slab": {
+    "result": "framedblocks:framed_stacked_slope_slab",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_hammer",
+      "",
+      "",
+      "framedblocks:framed_slope_slab",
+      "",
+      "",
+      "framedblocks:framed_slab",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_stairs": {
+    "result": "framedblocks:framed_stairs",
+    "count": 4,
+    "ingredients": [
+      "framedblocks:framed_cube",
+      "",
+      "",
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube",
+      "",
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube"
+    ]
+  },
+  "framedblocks:framed_stone_button": {
+    "result": "framedblocks:framed_stone_button",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_cube",
+      "minecraft:stone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_stone_pressure_plate": {
+    "result": "framedblocks:framed_stone_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube",
+      "",
+      "minecraft:stone",
+      "minecraft:stone",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_tank": {
+    "result": "framedblocks:framed_tank",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_cube",
+      "minecraft:glass",
+      "framedblocks:framed_cube",
+      "minecraft:glass",
+      "minecraft:bucket",
+      "minecraft:glass",
+      "framedblocks:framed_cube",
+      "minecraft:glass",
+      "framedblocks:framed_cube"
+    ]
+  },
+  "framedblocks:framed_target": {
+    "result": "framedblocks:framed_target",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_cube",
+      "minecraft:redstone",
+      "framedblocks:framed_cube",
+      "minecraft:redstone",
+      "minecraft:hay_block",
+      "minecraft:redstone",
+      "framedblocks:framed_cube",
+      "minecraft:redstone",
+      "framedblocks:framed_cube"
+    ]
+  },
+  "framedblocks:framed_thick_lattice": {
+    "result": "framedblocks:framed_thick_lattice",
+    "count": 2,
+    "ingredients": [
+      "framedblocks:framed_hammer",
+      "framedblocks:framed_cube",
+      "",
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube",
+      "",
+      "framedblocks:framed_cube",
+      ""
+    ]
+  },
+  "framedblocks:framed_threeway_corner": {
+    "result": "framedblocks:framed_threeway_corner",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_slope",
+      "",
+      "",
+      "framedblocks:framed_slope",
+      "framedblocks:framed_slope",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_threeway_corner_pillar": {
+    "result": "framedblocks:framed_threeway_corner_pillar",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_corner_pillar",
+      "",
+      "",
+      "framedblocks:framed_slab_edge",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_torch": {
+    "result": "framedblocks:framed_torch",
+    "count": 4,
+    "ingredients": [
+      "minecraft:coal",
+      "",
+      "",
+      "framedblocks:framed_cube",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_trapdoor": {
+    "result": "framedblocks:framed_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_slab",
+      "framedblocks:framed_slab",
+      "framedblocks:framed_slab",
+      "framedblocks:framed_slab",
+      "framedblocks:framed_slab",
+      "framedblocks:framed_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_tube": {
+    "result": "framedblocks:framed_tube",
+    "count": 4,
+    "ingredients": [
+      "",
+      "framedblocks:framed_cube",
+      "",
+      "framedblocks:framed_cube",
+      "",
+      "framedblocks:framed_cube",
+      "",
+      "framedblocks:framed_cube",
+      ""
+    ]
+  },
+  "framedblocks:framed_vertical_divided_stairs": {
+    "result": "framedblocks:framed_vertical_divided_stairs",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_vertical_half_stairs",
+      "",
+      "",
+      "framedblocks:framed_vertical_half_stairs",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_vertical_double_half_stairs": {
+    "result": "framedblocks:framed_vertical_double_half_stairs",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_vertical_half_stairs",
+      "framedblocks:framed_slab_corner",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_vertical_double_stairs": {
+    "result": "framedblocks:framed_vertical_double_stairs",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_vertical_stairs",
+      "framedblocks:framed_corner_pillar",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_vertical_half_stairs": {
+    "result": "framedblocks:framed_vertical_half_stairs",
+    "count": 2,
+    "ingredients": [
+      "framedblocks:framed_vertical_stairs",
+      "framedblocks:framed_hammer",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_vertical_sliced_sloped_stairs_panel": {
+    "result": "framedblocks:framed_vertical_sliced_sloped_stairs_panel",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_panel",
+      "framedblocks:framed_half_slope",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_vertical_sliced_sloped_stairs_slope": {
+    "result": "framedblocks:framed_vertical_sliced_sloped_stairs_slope",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_half_slope",
+      "",
+      "",
+      "framedblocks:framed_slope",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_vertical_sliced_stairs": {
+    "result": "framedblocks:framed_vertical_sliced_stairs",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_panel",
+      "framedblocks:framed_slab_edge",
+      "framedblocks:framed_wrench",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_vertical_sloped_double_stairs": {
+    "result": "framedblocks:framed_vertical_sloped_double_stairs",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_vertical_sloped_stairs",
+      "framedblocks:framed_half_slope",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_vertical_sloped_stairs": {
+    "result": "framedblocks:framed_vertical_sloped_stairs",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_panel",
+      "framedblocks:framed_half_slope",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_vertical_stairs": {
+    "result": "framedblocks:framed_vertical_stairs",
+    "count": 4,
+    "ingredients": [
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube",
+      "",
+      "framedblocks:framed_cube",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_wall": {
+    "result": "framedblocks:framed_wall",
+    "count": 6,
+    "ingredients": [
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_wall_board": {
+    "result": "framedblocks:framed_wall_board",
+    "count": 4,
+    "ingredients": [
+      "framedblocks:framed_panel",
+      "framedblocks:framed_panel",
+      "framedblocks:framed_hammer",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:framed_wrench": {
+    "result": "framedblocks:framed_wrench",
+    "count": 1,
+    "ingredients": [
+      "framedblocks:framed_cube",
+      "",
+      "framedblocks:framed_cube",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "framedblocks:framing_saw": {
+    "result": "framedblocks:framing_saw",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:iron_ingot",
+      "",
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube",
+      "",
+      "",
+      ""
+    ]
+  },
+  "functionalstorage:framed_1": {
+    "result": "functionalstorage:framed_1",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron",
+      "minecraft:iron",
+      "minecraft:iron",
+      "minecraft:iron",
+      "minecraft:chest",
+      "minecraft:iron",
+      "minecraft:iron",
+      "minecraft:iron",
+      "minecraft:iron"
+    ]
+  },
+  "functionalstorage:framed_2": {
+    "result": "functionalstorage:framed_2",
+    "count": 2,
+    "ingredients": [
+      "minecraft:iron",
+      "minecraft:chest",
+      "minecraft:iron",
+      "minecraft:iron",
+      "minecraft:iron",
+      "minecraft:iron",
+      "minecraft:iron",
+      "minecraft:chest",
+      "minecraft:iron"
+    ]
+  },
+  "functionalstorage:framed_4": {
+    "result": "functionalstorage:framed_4",
+    "count": 4,
+    "ingredients": [
+      "minecraft:chest",
+      "minecraft:iron",
+      "minecraft:chest",
+      "minecraft:iron",
+      "minecraft:iron",
+      "minecraft:iron",
+      "minecraft:chest",
+      "minecraft:iron",
+      "minecraft:chest"
+    ]
+  },
+  "functionalstorage:framed_controller_extension": {
+    "result": "functionalstorage:framed_controller_extension",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron",
+      "minecraft:quartz_block",
+      "minecraft:iron",
+      "minecraft:drawer",
+      "minecraft:repeater",
+      "minecraft:drawer",
+      "minecraft:iron",
+      "minecraft:quartz_block",
+      "minecraft:iron"
+    ]
+  },
+  "functionalstorage:framed_fluid_1": {
+    "result": "functionalstorage:framed_fluid_1",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_nugget",
+      "minecraft:iron_nugget",
+      "minecraft:iron_nugget",
+      "minecraft:iron_nugget",
+      "minecraft:bucket",
+      "minecraft:iron_nugget",
+      "minecraft:iron_nugget",
+      "minecraft:iron_nugget",
+      "minecraft:iron_nugget"
+    ]
+  },
+  "functionalstorage:framed_fluid_2": {
+    "result": "functionalstorage:framed_fluid_2",
+    "count": 2,
+    "ingredients": [
+      "minecraft:iron_nugget",
+      "minecraft:bucket",
+      "minecraft:iron_nugget",
+      "minecraft:iron_nugget",
+      "minecraft:iron_nugget",
+      "minecraft:iron_nugget",
+      "minecraft:iron_nugget",
+      "minecraft:bucket",
+      "minecraft:iron_nugget"
+    ]
+  },
+  "functionalstorage:framed_fluid_4": {
+    "result": "functionalstorage:framed_fluid_4",
+    "count": 4,
+    "ingredients": [
+      "minecraft:bucket",
+      "minecraft:iron_nugget",
+      "minecraft:bucket",
+      "minecraft:iron_nugget",
+      "minecraft:iron_nugget",
+      "minecraft:iron_nugget",
+      "minecraft:bucket",
+      "minecraft:iron_nugget",
+      "minecraft:bucket"
+    ]
+  },
+  "functionalstorage:framed_simple_compacting_drawer": {
+    "result": "functionalstorage:framed_simple_compacting_drawer",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron",
+      "minecraft:iron",
+      "minecraft:iron",
+      "minecraft:iron",
+      "minecraft:drawer",
+      "minecraft:piston",
+      "minecraft:iron",
+      "minecraft:iron_ingot",
+      "minecraft:iron"
+    ]
+  },
+  "functionalstorage:framed_storage_controller": {
+    "result": "functionalstorage:framed_storage_controller",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron",
+      "minecraft:quartz_block",
+      "minecraft:iron",
+      "minecraft:drawer",
+      "minecraft:comparator",
+      "minecraft:drawer",
+      "minecraft:iron",
+      "minecraft:quartz_block",
+      "minecraft:iron"
+    ]
+  },
+  "handcrafted:frozen_bench": {
+    "result": "handcrafted:frozen_bench",
+    "count": 1,
+    "ingredients": [
+      "handcrafted:bench",
+      "minecraft:snowball",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:frost_stew": {
+    "result": "iceandfire:frost_stew",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bowl",
+      "minecraft:prismarine_crystals",
+      "iceandfire:frost_lily",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:frost_troll_leather_boots": {
+    "result": "iceandfire:frost_troll_leather_boots",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:troll_leather_frost",
+      "",
+      "iceandfire:troll_leather_frost",
+      "iceandfire:troll_leather_frost",
+      "",
+      "iceandfire:troll_leather_frost",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:frost_troll_leather_chestplate": {
+    "result": "iceandfire:frost_troll_leather_chestplate",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:troll_leather_frost",
+      "",
+      "iceandfire:troll_leather_frost",
+      "iceandfire:troll_leather_frost",
+      "iceandfire:troll_leather_frost",
+      "iceandfire:troll_leather_frost",
+      "iceandfire:troll_leather_frost",
+      "iceandfire:troll_leather_frost",
+      "iceandfire:troll_leather_frost"
+    ]
+  },
+  "iceandfire:frost_troll_leather_helmet": {
+    "result": "iceandfire:frost_troll_leather_helmet",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:troll_leather_frost",
+      "iceandfire:troll_leather_frost",
+      "iceandfire:troll_leather_frost",
+      "iceandfire:troll_tusk",
+      "",
+      "iceandfire:troll_tusk",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:frost_troll_leather_leggings": {
+    "result": "iceandfire:frost_troll_leather_leggings",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:troll_leather_frost",
+      "iceandfire:troll_leather_frost",
+      "iceandfire:troll_leather_frost",
+      "iceandfire:troll_leather_frost",
+      "",
+      "iceandfire:troll_leather_frost",
+      "iceandfire:troll_leather_frost",
+      "",
+      "iceandfire:troll_leather_frost"
+    ]
+  },
+  "irons_spellbooks:frosted_helve": {
+    "result": "irons_spellbooks:frosted_helve",
+    "count": 1,
+    "ingredients": [
+      "",
+      "irons_spellbooks:frozen_bone",
+      "irons_spellbooks:arcane_ingot",
+      "irons_spellbooks:frozen_bone",
+      "irons_spellbooks:arcane_ingot",
+      "irons_spellbooks:frozen_bone",
+      "irons_spellbooks:arcane_ingot",
+      "irons_spellbooks:frozen_bone",
+      ""
+    ]
+  },
+  "irons_spellbooks:frostward_ring": {
+    "result": "irons_spellbooks:frostward_ring",
+    "count": 1,
+    "ingredients": [
+      "irons_spellbooks:permafrost_shard",
+      "",
+      "",
+      "",
+      "irons_spellbooks:mithril_scrap",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwlights:framed_torch": {
+    "result": "mcwlights:framed_torch",
+    "count": 4,
+    "ingredients": [
+      "minecraft:iron_nugget",
+      "minecraft:coal",
+      "minecraft:iron_nugget",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:iron_nugget",
+      ""
+    ]
+  },
+  "merrymaking:fruitcake": {
+    "result": "merrymaking:fruitcake",
+    "count": 1,
+    "ingredients": [
+      "merrymaking:icing",
+      "minecraft:sugar",
+      "minecraft:egg",
+      "minecraft:wheat",
+      "minecraft:sweet_berries",
+      "minecraft:milk_bucket",
+      "minecraft:apple",
+      "",
+      ""
+    ]
+  },
+  "mffs:frequency_card": {
+    "result": "mffs:frequency_card",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "mffs:blank_card",
+      "minecraft:gold_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecolonies:fried_rice": {
+    "result": "minecolonies:fried_rice",
+    "count": 1,
+    "ingredients": [
+      "minecolonies:onion",
+      "minecolonies:garlic",
+      "minecolonies:eggplant",
+      "minecraft:carrot",
+      "minecolonies:cooked_rice",
+      "minecraft:egg",
+      "minecraft:rawmeat",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:frostproof_machine_casing": {
+    "result": "modern_industrialization:frostproof_machine_casing",
+    "count": 1,
+    "ingredients": [
+      "minecraft:aluminum",
+      "minecraft:aluminum",
+      "minecraft:aluminum",
+      "minecraft:aluminum",
+      "minecraft:aluminum",
+      "minecraft:aluminum",
+      "minecraft:aluminum",
+      "minecraft:aluminum",
+      "minecraft:aluminum"
+    ]
+  },
+  "oritech:fragment_forge_block": {
+    "result": "oritech:fragment_forge_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:plastic",
+      "minecraft:plastic",
+      "minecraft:plastic",
+      "minecraft:plastic",
+      "oritech:flux_gate",
+      "minecraft:plastic",
+      "oritech:motor",
+      "minecraft:plating",
+      "oritech:motor"
+    ]
+  },
+  "oritech:framed_energy_pipe": {
+    "result": "oritech:framed_energy_pipe",
+    "count": 8,
+    "ingredients": [
+      "oritech:energy_pipe",
+      "oritech:energy_pipe",
+      "oritech:energy_pipe",
+      "oritech:energy_pipe",
+      "minecraft:plating",
+      "oritech:energy_pipe",
+      "oritech:energy_pipe",
+      "oritech:energy_pipe",
+      "oritech:energy_pipe"
+    ]
+  },
+  "oritech:framed_fluid_pipe": {
+    "result": "oritech:framed_fluid_pipe",
+    "count": 8,
+    "ingredients": [
+      "oritech:fluid_pipe",
+      "oritech:fluid_pipe",
+      "oritech:fluid_pipe",
+      "oritech:fluid_pipe",
+      "minecraft:plating",
+      "oritech:fluid_pipe",
+      "oritech:fluid_pipe",
+      "oritech:fluid_pipe",
+      "oritech:fluid_pipe"
+    ]
+  },
+  "oritech:framed_item_pipe": {
+    "result": "oritech:framed_item_pipe",
+    "count": 8,
+    "ingredients": [
+      "oritech:item_pipe",
+      "oritech:item_pipe",
+      "oritech:item_pipe",
+      "oritech:item_pipe",
+      "minecraft:plating",
+      "oritech:item_pipe",
+      "oritech:item_pipe",
+      "oritech:item_pipe",
+      "oritech:item_pipe"
+    ]
+  },
+  "oritech:framed_superconductor": {
+    "result": "oritech:framed_superconductor",
+    "count": 8,
+    "ingredients": [
+      "oritech:superconductor",
+      "oritech:superconductor",
+      "oritech:superconductor",
+      "oritech:superconductor",
+      "minecraft:plating",
+      "oritech:superconductor",
+      "oritech:superconductor",
+      "oritech:superconductor",
+      "oritech:superconductor"
+    ]
+  },
+  "pamhc2foodcore:freshmilkitem": {
+    "result": "pamhc2foodcore:freshmilkitem",
+    "count": 2,
+    "ingredients": [
+      "productivebees:milk_bottle",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:freshwateritem": {
+    "result": "pamhc2foodcore:freshwateritem",
+    "count": 8,
+    "ingredients": [
+      "minecraft:water_bucket",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:friedchickenitem": {
+    "result": "pamhc2foodcore:friedchickenitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:flour",
+      "minecraft:rawchicken",
+      "minecraft:cookingoil",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:friedeggitem": {
+    "result": "pamhc2foodcore:friedeggitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_skillet",
+      "minecraft:egg",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:friesitem": {
+    "result": "pamhc2foodcore:friesitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:potato",
+      "minecraft:cookingoil",
+      "minecraft:salt",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:fruitpunchitem": {
+    "result": "pamhc2foodcore:fruitpunchitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_juicer",
+      "minecraft:fruits",
+      "minecraft:fruits",
+      "minecraft:fruits",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:fruitsaladitem": {
+    "result": "pamhc2foodcore:fruitsaladitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:fruits",
+      "minecraft:fruits",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:frenchtoastitem": {
+    "result": "pamhc2foodextended:frenchtoastitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_skillet",
+      "minecraft:bread",
+      "minecraft:egg",
+      "minecraft:groundcinnamon",
+      "minecraft:milk",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:friedbolognasandwichitem": {
+    "result": "pamhc2foodextended:friedbolognasandwichitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:bread",
+      "pamhc2foodextended:bolognaitem",
+      "minecraft:cheese",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:friedfeastitem": {
+    "result": "pamhc2foodextended:friedfeastitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "pamhc2foodcore:friedchickenitem",
+      "pamhc2foodextended:coleslawitem",
+      "pamhc2foodcore:mashedpotatoesitem",
+      "minecraft:sodas",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:friedgreentomatoesitem": {
+    "result": "pamhc2foodextended:friedgreentomatoesitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:tomato",
+      "minecraft:cookingoil",
+      "minecraft:batter",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:friedonionsitem": {
+    "result": "pamhc2foodextended:friedonionsitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:onion",
+      "minecraft:butter",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:friedpecanokraitem": {
+    "result": "pamhc2foodextended:friedpecanokraitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_skillet",
+      "minecraft:okra",
+      "minecraft:pecan",
+      "minecraft:cookingoil",
+      "minecraft:blackpepper",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:friedriceitem": {
+    "result": "pamhc2foodextended:friedriceitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_skillet",
+      "minecraft:rice",
+      "minecraft:carrot",
+      "minecraft:egg",
+      "minecraft:onion",
+      "minecraft:peas",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:frosteddonutitem": {
+    "result": "pamhc2foodextended:frosteddonutitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:cookingoil",
+      "minecraft:batter",
+      "minecraft:sugar",
+      "minecraft:butter",
+      "minecraft:milk",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:fruitcakeitem": {
+    "result": "pamhc2foodextended:fruitcakeitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:dough",
+      "minecraft:apricot",
+      "minecraft:pineapple",
+      "pamhc2foodextended:raisinsitem",
+      "minecraft:juices",
+      "minecraft:date",
+      "minecraft:cherry",
+      ""
+    ]
+  },
+  "pamhc2foodextended:fruitcreamfestivalbreaditem": {
+    "result": "pamhc2foodextended:fruitcreamfestivalbreaditem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "pamhc2foodextended:festivalbreaditem",
+      "minecraft:fruits",
+      "minecraft:cream",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:frame": {
+    "result": "railcraft:frame",
+    "count": 10,
+    "ingredients": [
+      "minecraft:steel",
+      "minecraft:steel",
+      "minecraft:steel",
+      "railcraft:rebar",
+      "",
+      "railcraft:rebar",
+      "railcraft:rebar",
+      "railcraft:rebar",
+      "railcraft:rebar"
+    ]
+  },
+  "reliquary:frozen_core": {
+    "result": "reliquary:frozen_core",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "minecraft:pumpkin",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:snow",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:snow",
+      "minecraft:gold_ingot"
+    ]
+  },
+  "rootsclassic:fruit_salad": {
+    "result": "rootsclassic:fruit_salad",
+    "count": 1,
+    "ingredients": [
+      "minecraft:melon",
+      "minecraft:melon",
+      "minecraft:melon",
+      "minecraft:apple",
+      "minecraft:bowl",
+      "rootsclassic:elderberry",
+      "rootsclassic:whitecurrant",
+      "rootsclassic:blackcurrant",
+      "rootsclassic:redcurrant"
+    ]
+  },
+  "torchmaster:frozen_pearl": {
+    "result": "torchmaster:frozen_pearl",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:ice",
+      "",
+      "minecraft:ice",
+      "minecraft:ender_pearl",
+      "minecraft:ice",
+      "",
+      "minecraft:ice",
+      ""
+    ]
+  },
+  "undergarden:froststeel_axe": {
+    "result": "undergarden:froststeel_axe",
+    "count": 1,
+    "ingredients": [
+      "undergarden:froststeel_ingot",
+      "undergarden:froststeel_ingot",
+      "",
+      "undergarden:froststeel_ingot",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "undergarden:froststeel_block": {
+    "result": "undergarden:froststeel_block",
+    "count": 1,
+    "ingredients": [
+      "undergarden:froststeel_ingot",
+      "undergarden:froststeel_ingot",
+      "undergarden:froststeel_ingot",
+      "undergarden:froststeel_ingot",
+      "undergarden:froststeel_ingot",
+      "undergarden:froststeel_ingot",
+      "undergarden:froststeel_ingot",
+      "undergarden:froststeel_ingot",
+      "undergarden:froststeel_ingot"
+    ]
+  },
+  "undergarden:froststeel_ingot": {
+    "result": "undergarden:froststeel_ingot",
+    "count": 1,
+    "ingredients": [
+      "undergarden:froststeel_nugget",
+      "undergarden:froststeel_nugget",
+      "undergarden:froststeel_nugget",
+      "undergarden:froststeel_nugget",
+      "undergarden:froststeel_nugget",
+      "undergarden:froststeel_nugget",
+      "undergarden:froststeel_nugget",
+      "undergarden:froststeel_nugget",
+      "undergarden:froststeel_nugget"
+    ]
+  },
+  "undergarden:froststeel_boots": {
+    "result": "undergarden:froststeel_boots",
+    "count": 1,
+    "ingredients": [
+      "undergarden:froststeel_ingot",
+      "",
+      "undergarden:froststeel_ingot",
+      "undergarden:froststeel_ingot",
+      "",
+      "undergarden:froststeel_ingot",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:froststeel_chestplate": {
+    "result": "undergarden:froststeel_chestplate",
+    "count": 1,
+    "ingredients": [
+      "undergarden:froststeel_ingot",
+      "",
+      "undergarden:froststeel_ingot",
+      "undergarden:froststeel_ingot",
+      "undergarden:froststeel_ingot",
+      "undergarden:froststeel_ingot",
+      "undergarden:froststeel_ingot",
+      "undergarden:froststeel_ingot",
+      "undergarden:froststeel_ingot"
+    ]
+  },
+  "undergarden:froststeel_helmet": {
+    "result": "undergarden:froststeel_helmet",
+    "count": 1,
+    "ingredients": [
+      "undergarden:froststeel_ingot",
+      "undergarden:froststeel_ingot",
+      "undergarden:froststeel_ingot",
+      "undergarden:froststeel_ingot",
+      "",
+      "undergarden:froststeel_ingot",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:froststeel_hoe": {
+    "result": "undergarden:froststeel_hoe",
+    "count": 1,
+    "ingredients": [
+      "undergarden:froststeel_ingot",
+      "undergarden:froststeel_ingot",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "undergarden:froststeel_nugget": {
+    "result": "undergarden:froststeel_nugget",
+    "count": 9,
+    "ingredients": [
+      "undergarden:froststeel_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:froststeel_leggings": {
+    "result": "undergarden:froststeel_leggings",
+    "count": 1,
+    "ingredients": [
+      "undergarden:froststeel_ingot",
+      "undergarden:froststeel_ingot",
+      "undergarden:froststeel_ingot",
+      "undergarden:froststeel_ingot",
+      "",
+      "undergarden:froststeel_ingot",
+      "undergarden:froststeel_ingot",
+      "",
+      "undergarden:froststeel_ingot"
+    ]
+  },
+  "undergarden:froststeel_pickaxe": {
+    "result": "undergarden:froststeel_pickaxe",
+    "count": 1,
+    "ingredients": [
+      "undergarden:froststeel_ingot",
+      "undergarden:froststeel_ingot",
+      "undergarden:froststeel_ingot",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "undergarden:froststeel_shovel": {
+    "result": "undergarden:froststeel_shovel",
+    "count": 1,
+    "ingredients": [
+      "undergarden:froststeel_ingot",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "undergarden:froststeel_sword": {
+    "result": "undergarden:froststeel_sword",
+    "count": 1,
+    "ingredients": [
+      "undergarden:froststeel_ingot",
+      "",
+      "",
+      "undergarden:froststeel_ingot",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  }
+}

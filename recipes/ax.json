@@ -1,0 +1,47 @@
+{
+  "immersiveengineering:axe_steel": {
+    "result": "immersiveengineering:axe_steel",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "",
+      "modern_industrialization:steel_ingot",
+      "minecraft:treated_wood",
+      "",
+      "",
+      "minecraft:treated_wood",
+      ""
+    ]
+  },
+  "silentgear:axe_blueprint": {
+    "result": "silentgear:axe_blueprint",
+    "count": 1,
+    "ingredients": [
+      "minecraft:paper",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "silentgear:axe_template": {
+    "result": "silentgear:axe_template",
+    "count": 1,
+    "ingredients": [
+      "minecraft:template_boards",
+      "minecraft:template_boards",
+      "",
+      "minecraft:template_boards",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  }
+}

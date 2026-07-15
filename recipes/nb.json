@@ -1,0 +1,17 @@
+{
+  "advancedperipherals:nbt_storage": {
+    "result": "advancedperipherals:nbt_storage",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:chest",
+      "minecraft:iron_ingot",
+      "minecraft:chest",
+      "advancedperipherals:peripheral_casing",
+      "minecraft:chest",
+      "minecraft:redstone",
+      "minecraft:chest",
+      "minecraft:redstone"
+    ]
+  }
+}

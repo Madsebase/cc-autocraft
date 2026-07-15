@@ -1,0 +1,3332 @@
+{
+  "minecraft:paper": {
+    "result": "minecraft:paper",
+    "count": 3,
+    "ingredients": [
+      "minecraft:sugar_cane",
+      "minecraft:sugar_cane",
+      "",
+      "minecraft:sugar_cane",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "actuallyadditions:palis_crystal": {
+    "result": "actuallyadditions:palis_crystal",
+    "count": 9,
+    "ingredients": [
+      "actuallyadditions:palis_crystal_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "actuallyadditions:palis_crystal_block": {
+    "result": "actuallyadditions:palis_crystal_block",
+    "count": 1,
+    "ingredients": [
+      "actuallyadditions:palis_crystal",
+      "actuallyadditions:palis_crystal",
+      "actuallyadditions:palis_crystal",
+      "actuallyadditions:palis_crystal",
+      "actuallyadditions:palis_crystal",
+      "actuallyadditions:palis_crystal",
+      "actuallyadditions:palis_crystal",
+      "actuallyadditions:palis_crystal",
+      "actuallyadditions:palis_crystal"
+    ]
+  },
+  "actuallyadditions:palis_crystal_shard": {
+    "result": "actuallyadditions:palis_crystal_shard",
+    "count": 9,
+    "ingredients": [
+      "actuallyadditions:palis_crystal",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ae2:pattern_provider": {
+    "result": "ae2:pattern_provider",
+    "count": 1,
+    "ingredients": [
+      "ae2:cable_pattern_provider",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ae2:pattern_access_terminal": {
+    "result": "ae2:pattern_access_terminal",
+    "count": 1,
+    "ingredients": [
+      "minecraft:illuminated_panel",
+      "ae2:engineering_processor",
+      "minecraft:pattern_provider",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ae2:pattern_encoding_terminal": {
+    "result": "ae2:pattern_encoding_terminal",
+    "count": 1,
+    "ingredients": [
+      "ae2:engineering_processor",
+      "ae2:crafting_terminal",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:packed_mud_1x": {
+    "result": "allthecompressed:packed_mud_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:packed_mud_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:packed_mud_2x": {
+    "result": "allthecompressed:packed_mud_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:packed_mud_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:packed_mud_3x": {
+    "result": "allthecompressed:packed_mud_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:packed_mud_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:packed_mud_4x": {
+    "result": "allthecompressed:packed_mud_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:packed_mud_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:packed_mud_5x": {
+    "result": "allthecompressed:packed_mud_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:packed_mud_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:packed_mud_6x": {
+    "result": "allthecompressed:packed_mud_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:packed_mud_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:packed_mud_7x": {
+    "result": "allthecompressed:packed_mud_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:packed_mud_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:packed_mud_8x": {
+    "result": "allthecompressed:packed_mud_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:packed_mud_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:packed_mud_9x": {
+    "result": "allthecompressed:packed_mud_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:packed_mud_8x",
+      "allthecompressed:packed_mud_8x",
+      "allthecompressed:packed_mud_8x",
+      "allthecompressed:packed_mud_8x",
+      "allthecompressed:packed_mud_8x",
+      "allthecompressed:packed_mud_8x",
+      "allthecompressed:packed_mud_8x",
+      "allthecompressed:packed_mud_8x",
+      "allthecompressed:packed_mud_8x"
+    ]
+  },
+  "minecraft:packed_mud": {
+    "result": "minecraft:packed_mud",
+    "count": 1,
+    "ingredients": [
+      "minecraft:mud",
+      "minecraft:wheat",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "appflux:part_flux_accessor": {
+    "result": "appflux:part_flux_accessor",
+    "count": 1,
+    "ingredients": [
+      "appflux:flux_accessor",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:packed_black_ice": {
+    "result": "biomeswevegone:packed_black_ice",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:black_ice",
+      "biomeswevegone:black_ice",
+      "biomeswevegone:black_ice",
+      "biomeswevegone:black_ice",
+      "biomeswevegone:black_ice",
+      "biomeswevegone:black_ice",
+      "biomeswevegone:black_ice",
+      "biomeswevegone:black_ice",
+      "biomeswevegone:black_ice"
+    ]
+  },
+  "biomeswevegone:packed_borealis_ice": {
+    "result": "biomeswevegone:packed_borealis_ice",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:borealis_ice",
+      "biomeswevegone:borealis_ice",
+      "biomeswevegone:borealis_ice",
+      "biomeswevegone:borealis_ice",
+      "biomeswevegone:borealis_ice",
+      "biomeswevegone:borealis_ice",
+      "biomeswevegone:borealis_ice",
+      "biomeswevegone:borealis_ice",
+      "biomeswevegone:borealis_ice"
+    ]
+  },
+  "biomeswevegone:packed_pale_mud": {
+    "result": "biomeswevegone:packed_pale_mud",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:pale_mud",
+      "minecraft:wheat",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:pale_jack_o_lantern": {
+    "result": "biomeswevegone:pale_jack_o_lantern",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:carved_pale_pumpkin",
+      "",
+      "",
+      "minecraft:soul_torch",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:pale_mud": {
+    "result": "biomeswevegone:pale_mud",
+    "count": 8,
+    "ingredients": [
+      "minecraft:mud",
+      "minecraft:mud",
+      "minecraft:mud",
+      "minecraft:mud",
+      "biomeswevegone:soul_fruit",
+      "minecraft:mud",
+      "minecraft:mud",
+      "minecraft:mud",
+      "minecraft:mud"
+    ]
+  },
+  "biomeswevegone:pale_mud_bricks": {
+    "result": "biomeswevegone:pale_mud_bricks",
+    "count": 4,
+    "ingredients": [
+      "biomeswevegone:packed_pale_mud",
+      "biomeswevegone:packed_pale_mud",
+      "",
+      "biomeswevegone:packed_pale_mud",
+      "biomeswevegone:packed_pale_mud",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:pale_mud_bricks_slab": {
+    "result": "biomeswevegone:pale_mud_bricks_slab",
+    "count": 6,
+    "ingredients": [
+      "biomeswevegone:pale_mud_bricks",
+      "biomeswevegone:pale_mud_bricks",
+      "biomeswevegone:pale_mud_bricks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:pale_mud_bricks_stairs": {
+    "result": "biomeswevegone:pale_mud_bricks_stairs",
+    "count": 4,
+    "ingredients": [
+      "biomeswevegone:pale_mud_bricks",
+      "",
+      "",
+      "biomeswevegone:pale_mud_bricks",
+      "biomeswevegone:pale_mud_bricks",
+      "",
+      "biomeswevegone:pale_mud_bricks",
+      "biomeswevegone:pale_mud_bricks",
+      "biomeswevegone:pale_mud_bricks"
+    ]
+  },
+  "biomeswevegone:pale_mud_bricks_wall": {
+    "result": "biomeswevegone:pale_mud_bricks_wall",
+    "count": 6,
+    "ingredients": [
+      "biomeswevegone:pale_mud_bricks",
+      "biomeswevegone:pale_mud_bricks",
+      "biomeswevegone:pale_mud_bricks",
+      "biomeswevegone:pale_mud_bricks",
+      "biomeswevegone:pale_mud_bricks",
+      "biomeswevegone:pale_mud_bricks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:pale_pumpkin_seeds": {
+    "result": "biomeswevegone:pale_pumpkin_seeds",
+    "count": 4,
+    "ingredients": [
+      "biomeswevegone:pale_pumpkin",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:palm_boat": {
+    "result": "biomeswevegone:palm_boat",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:palm_planks",
+      "",
+      "biomeswevegone:palm_planks",
+      "biomeswevegone:palm_planks",
+      "biomeswevegone:palm_planks",
+      "biomeswevegone:palm_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:palm_bookshelf": {
+    "result": "biomeswevegone:palm_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:palm_planks",
+      "biomeswevegone:palm_planks",
+      "biomeswevegone:palm_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "biomeswevegone:palm_planks",
+      "biomeswevegone:palm_planks",
+      "biomeswevegone:palm_planks"
+    ]
+  },
+  "biomeswevegone:palm_button": {
+    "result": "biomeswevegone:palm_button",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:palm_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:palm_chest_boat": {
+    "result": "biomeswevegone:palm_chest_boat",
+    "count": 1,
+    "ingredients": [
+      "minecraft:chest",
+      "biomeswevegone:palm_boat",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:palm_crafting_table": {
+    "result": "biomeswevegone:palm_crafting_table",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:palm_planks",
+      "biomeswevegone:palm_planks",
+      "",
+      "biomeswevegone:palm_planks",
+      "biomeswevegone:palm_planks",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:palm_door": {
+    "result": "biomeswevegone:palm_door",
+    "count": 3,
+    "ingredients": [
+      "biomeswevegone:palm_planks",
+      "biomeswevegone:palm_planks",
+      "",
+      "biomeswevegone:palm_planks",
+      "biomeswevegone:palm_planks",
+      "",
+      "biomeswevegone:palm_planks",
+      "biomeswevegone:palm_planks",
+      ""
+    ]
+  },
+  "biomeswevegone:palm_fence": {
+    "result": "biomeswevegone:palm_fence",
+    "count": 3,
+    "ingredients": [
+      "biomeswevegone:palm_planks",
+      "minecraft:stick",
+      "biomeswevegone:palm_planks",
+      "biomeswevegone:palm_planks",
+      "minecraft:stick",
+      "biomeswevegone:palm_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:palm_fence_gate": {
+    "result": "biomeswevegone:palm_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "biomeswevegone:palm_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "biomeswevegone:palm_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:palm_hanging_sign": {
+    "result": "biomeswevegone:palm_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "biomeswevegone:stripped_palm_log",
+      "biomeswevegone:stripped_palm_log",
+      "biomeswevegone:stripped_palm_log",
+      "biomeswevegone:stripped_palm_log",
+      "biomeswevegone:stripped_palm_log",
+      "biomeswevegone:stripped_palm_log"
+    ]
+  },
+  "biomeswevegone:palm_planks": {
+    "result": "biomeswevegone:palm_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:palm_pressure_plate": {
+    "result": "biomeswevegone:palm_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:palm_planks",
+      "biomeswevegone:palm_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:palm_sign": {
+    "result": "biomeswevegone:palm_sign",
+    "count": 3,
+    "ingredients": [
+      "biomeswevegone:palm_planks",
+      "biomeswevegone:palm_planks",
+      "biomeswevegone:palm_planks",
+      "biomeswevegone:palm_planks",
+      "biomeswevegone:palm_planks",
+      "biomeswevegone:palm_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "biomeswevegone:palm_slab": {
+    "result": "biomeswevegone:palm_slab",
+    "count": 6,
+    "ingredients": [
+      "biomeswevegone:palm_planks",
+      "biomeswevegone:palm_planks",
+      "biomeswevegone:palm_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:palm_stairs": {
+    "result": "biomeswevegone:palm_stairs",
+    "count": 4,
+    "ingredients": [
+      "biomeswevegone:palm_planks",
+      "",
+      "",
+      "biomeswevegone:palm_planks",
+      "biomeswevegone:palm_planks",
+      "",
+      "biomeswevegone:palm_planks",
+      "biomeswevegone:palm_planks",
+      "biomeswevegone:palm_planks"
+    ]
+  },
+  "biomeswevegone:palm_trapdoor": {
+    "result": "biomeswevegone:palm_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "biomeswevegone:palm_planks",
+      "biomeswevegone:palm_planks",
+      "biomeswevegone:palm_planks",
+      "biomeswevegone:palm_planks",
+      "biomeswevegone:palm_planks",
+      "biomeswevegone:palm_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:palm_wood": {
+    "result": "biomeswevegone:palm_wood",
+    "count": 3,
+    "ingredients": [
+      "biomeswevegone:palm_log",
+      "biomeswevegone:palm_log",
+      "",
+      "biomeswevegone:palm_log",
+      "biomeswevegone:palm_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:palo_verde_wood": {
+    "result": "biomeswevegone:palo_verde_wood",
+    "count": 3,
+    "ingredients": [
+      "biomeswevegone:palo_verde_log",
+      "biomeswevegone:palo_verde_log",
+      "",
+      "biomeswevegone:palo_verde_log",
+      "biomeswevegone:palo_verde_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:package_filter": {
+    "result": "create:package_filter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:zinc",
+      "minecraft:white_wool",
+      "minecraft:zinc",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:packager": {
+    "result": "create:packager",
+    "count": 1,
+    "ingredients": [
+      "create:repackager",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:package_frogport": {
+    "result": "create:package_frogport",
+    "count": 1,
+    "ingredients": [
+      "minecraft:slime_ball",
+      "",
+      "",
+      "create:item_vault",
+      "",
+      "",
+      "create:andesite_alloy",
+      "",
+      ""
+    ]
+  },
+  "domum_ornamentum:paper_extra": {
+    "result": "domum_ornamentum:paper_extra",
+    "count": 4,
+    "ingredients": [
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      "",
+      "minecraft:paper"
+    ]
+  },
+  "draconicevolution:particle_generator": {
+    "result": "draconicevolution:particle_generator",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "minecraft:blaze_rod",
+      "minecraft:redstone",
+      "minecraft:blaze_rod",
+      "draconicevolution:draconium_core",
+      "minecraft:blaze_rod",
+      "minecraft:redstone",
+      "minecraft:blaze_rod",
+      "minecraft:redstone"
+    ]
+  },
+  "enderio:painting_machine": {
+    "result": "enderio:painting_machine",
+    "count": 1,
+    "ingredients": [
+      "minecraft:red",
+      "minecraft:green",
+      "minecraft:blue",
+      "minecraft:conductive_alloy",
+      "enderio:void_chassis",
+      "minecraft:conductive_alloy",
+      "minecraft:iron",
+      "minecraft:redstone",
+      "minecraft:iron"
+    ]
+  },
+  "eternal_starlight:packed_nightfall_mud": {
+    "result": "eternal_starlight:packed_nightfall_mud",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:nightfall_mud",
+      "eternal_starlight:crinoa",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "expandedae:pattern_refiller_card": {
+    "result": "expandedae:pattern_refiller_card",
+    "count": 1,
+    "ingredients": [
+      "ae2:advanced_card",
+      "ae2:blank_pattern",
+      "",
+      "ae2:blank_pattern",
+      "ae2:engineering_processor",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "extendedae:pattern_terminal_upgrade": {
+    "result": "extendedae:pattern_terminal_upgrade",
+    "count": 1,
+    "ingredients": [
+      "extendedae:ex_pattern_access_part",
+      "minecraft:ingots",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "extendedae:pattern_provider_upgrade": {
+    "result": "extendedae:pattern_provider_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:extended_pattern_provider",
+      "minecraft:ingots",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "extendedae:pattern_modifier": {
+    "result": "extendedae:pattern_modifier",
+    "count": 1,
+    "ingredients": [
+      "minecraft:green",
+      "ae2:blank_pattern",
+      "minecraft:green",
+      "",
+      "ae2:logic_processor",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:painting": {
+    "result": "minecraft:painting",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:white_wool",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick"
+    ]
+  },
+  "herbsandharvest:pan": {
+    "result": "herbsandharvest:pan",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_nugget",
+      "",
+      "minecraft:iron_nugget",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      ""
+    ]
+  },
+  "herbsandharvest:pancakes": {
+    "result": "herbsandharvest:pancakes",
+    "count": 3,
+    "ingredients": [
+      "minecraft:wheat",
+      "minecraft:butter",
+      "minecraft:milk",
+      "minecraft:egg",
+      "minecraft:sugar",
+      "minecraft:salt",
+      "",
+      "",
+      ""
+    ]
+  },
+  "integratedcrafting:part_crafting_writer": {
+    "result": "integratedcrafting:part_crafting_writer",
+    "count": 1,
+    "ingredients": [
+      "minecraft:crafting_table",
+      "integrateddynamics:variable_transformer_output",
+      "minecraft:crafting_table",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "integratedcrafting:part_interface_crafting": {
+    "result": "integratedcrafting:part_interface_crafting",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:crafting_table",
+      "minecraft:iron_ingot",
+      "integrateddynamics:variable_transformer_output",
+      "integrateddynamics:crystalized_menril_block",
+      "integrateddynamics:variable_transformer_input",
+      "minecraft:iron_ingot",
+      "minecraft:crafting_table",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "integratedcrafting:part_interface_crafting_attuned": {
+    "result": "integratedcrafting:part_interface_crafting_attuned",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:emerald",
+      "",
+      "integratedcrafting:part_interface_crafting",
+      "integrateddynamics:crystalized_chorus_block",
+      "integratedcrafting:part_interface_crafting",
+      "",
+      "minecraft:emerald",
+      ""
+    ]
+  },
+  "integrateddynamics:part_audio_reader": {
+    "result": "integrateddynamics:part_audio_reader",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:note_block",
+      "",
+      "minecraft:note_block",
+      "integrateddynamics:variable_transformer_input",
+      "minecraft:note_block",
+      "",
+      "minecraft:note_block",
+      ""
+    ]
+  },
+  "integrateddynamics:part_audio_writer": {
+    "result": "integrateddynamics:part_audio_writer",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:note_block",
+      "",
+      "minecraft:note_block",
+      "integrateddynamics:variable_transformer_output",
+      "minecraft:note_block",
+      "",
+      "minecraft:note_block",
+      ""
+    ]
+  },
+  "integrateddynamics:part_block_reader": {
+    "result": "integrateddynamics:part_block_reader",
+    "count": 1,
+    "ingredients": [
+      "minecraft:cobblestone",
+      "minecraft:dirt",
+      "minecraft:cobblestone",
+      "minecraft:dirt",
+      "integrateddynamics:variable_transformer_input",
+      "minecraft:dirt",
+      "minecraft:cobblestone",
+      "minecraft:dirt",
+      "minecraft:cobblestone"
+    ]
+  },
+  "integrateddynamics:part_connector_mono_directional": {
+    "result": "integrateddynamics:part_connector_mono_directional",
+    "count": 1,
+    "ingredients": [
+      "",
+      "integrateddynamics:variable_transformer_output",
+      "",
+      "integrateddynamics:cable",
+      "integrateddynamics:cable",
+      "integrateddynamics:cable",
+      "",
+      "integrateddynamics:variable_transformer_input",
+      ""
+    ]
+  },
+  "integrateddynamics:part_display_panel": {
+    "result": "integrateddynamics:part_display_panel",
+    "count": 1,
+    "ingredients": [
+      "",
+      "integrateddynamics:menril_berries",
+      "",
+      "integrateddynamics:part_static_light_panel",
+      "integrateddynamics:variable_transformer_output",
+      "integrateddynamics:part_static_light_panel",
+      "",
+      "integrateddynamics:menril_berries",
+      ""
+    ]
+  },
+  "integrateddynamics:part_dynamic_light_panel": {
+    "result": "integrateddynamics:part_dynamic_light_panel",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:redstone",
+      "",
+      "minecraft:redstone",
+      "integrateddynamics:part_static_light_panel",
+      "minecraft:redstone",
+      "",
+      "minecraft:redstone",
+      ""
+    ]
+  },
+  "integrateddynamics:part_effect_writer": {
+    "result": "integrateddynamics:part_effect_writer",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:fire_charge",
+      "",
+      "minecraft:fire_charge",
+      "integrateddynamics:variable_transformer_output",
+      "minecraft:fire_charge",
+      "",
+      "minecraft:fire_charge",
+      ""
+    ]
+  },
+  "integrateddynamics:part_entity_reader": {
+    "result": "integrateddynamics:part_entity_reader",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:porkchop",
+      "",
+      "minecraft:porkchop",
+      "integrateddynamics:variable_transformer_input",
+      "minecraft:porkchop",
+      "",
+      "minecraft:porkchop",
+      ""
+    ]
+  },
+  "integrateddynamics:part_entity_writer": {
+    "result": "integrateddynamics:part_entity_writer",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:porkchop",
+      "",
+      "minecraft:porkchop",
+      "integrateddynamics:variable_transformer_output",
+      "minecraft:porkchop",
+      "",
+      "minecraft:porkchop",
+      ""
+    ]
+  },
+  "integrateddynamics:part_extradimensional_reader": {
+    "result": "integrateddynamics:part_extradimensional_reader",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:ender_eye",
+      "",
+      "minecraft:ender_pearl",
+      "integrateddynamics:variable_transformer_input",
+      "minecraft:ender_pearl",
+      "",
+      "minecraft:ender_eye",
+      ""
+    ]
+  },
+  "integrateddynamics:part_fluid_reader": {
+    "result": "integrateddynamics:part_fluid_reader",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:water_bucket",
+      "",
+      "minecraft:bucket",
+      "integrateddynamics:variable_transformer_input",
+      "minecraft:bucket",
+      "",
+      "minecraft:water_bucket",
+      ""
+    ]
+  },
+  "integrateddynamics:part_inventory_reader": {
+    "result": "integrateddynamics:part_inventory_reader",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:chest",
+      "",
+      "minecraft:chest",
+      "integrateddynamics:variable_transformer_input",
+      "minecraft:chest",
+      "",
+      "",
+      ""
+    ]
+  },
+  "integrateddynamics:part_inventory_writer": {
+    "result": "integrateddynamics:part_inventory_writer",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:chest",
+      "",
+      "minecraft:chest",
+      "integrateddynamics:variable_transformer_output",
+      "minecraft:chest",
+      "",
+      "",
+      ""
+    ]
+  },
+  "integrateddynamics:part_machine_reader": {
+    "result": "integrateddynamics:part_machine_reader",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:furnace",
+      "",
+      "minecraft:iron_ingot",
+      "integrateddynamics:variable_transformer_input",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:crafting_table",
+      ""
+    ]
+  },
+  "integrateddynamics:part_machine_writer": {
+    "result": "integrateddynamics:part_machine_writer",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:furnace",
+      "",
+      "minecraft:iron_ingot",
+      "integrateddynamics:variable_transformer_output",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:crafting_table",
+      ""
+    ]
+  },
+  "integrateddynamics:part_network_reader": {
+    "result": "integrateddynamics:part_network_reader",
+    "count": 1,
+    "ingredients": [
+      "",
+      "integrateddynamics:cable",
+      "",
+      "integrateddynamics:cable",
+      "integrateddynamics:variable_transformer_input",
+      "integrateddynamics:cable",
+      "",
+      "integrateddynamics:cable",
+      ""
+    ]
+  },
+  "integrateddynamics:part_redstone_reader": {
+    "result": "integrateddynamics:part_redstone_reader",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:redstone",
+      "",
+      "minecraft:redstone",
+      "integrateddynamics:variable_transformer_input",
+      "minecraft:redstone",
+      "",
+      "",
+      ""
+    ]
+  },
+  "integrateddynamics:part_redstone_writer": {
+    "result": "integrateddynamics:part_redstone_writer",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:redstone",
+      "",
+      "minecraft:redstone",
+      "integrateddynamics:variable_transformer_output",
+      "minecraft:redstone",
+      "",
+      "",
+      ""
+    ]
+  },
+  "integrateddynamics:part_static_light_panel": {
+    "result": "integrateddynamics:part_static_light_panel",
+    "count": 1,
+    "ingredients": [
+      "",
+      "integrateddynamics:menril_berries",
+      "",
+      "integrateddynamics:menril_berries",
+      "integrateddynamics:variable_transformer_output",
+      "minecraft:redstone",
+      "",
+      "integrateddynamics:menril_berries",
+      ""
+    ]
+  },
+  "integrateddynamics:part_world_reader": {
+    "result": "integrateddynamics:part_world_reader",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dirt",
+      "minecraft:obsidians",
+      "minecraft:dirt",
+      "minecraft:obsidians",
+      "integrateddynamics:variable_transformer_input",
+      "minecraft:obsidians",
+      "minecraft:dirt",
+      "minecraft:obsidians",
+      "minecraft:dirt"
+    ]
+  },
+  "integratedscripting:part_terminal_scripting": {
+    "result": "integratedscripting:part_terminal_scripting",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "integratedscripting:mendesite",
+      "minecraft:redstone",
+      "integrateddynamics:variable_transformer_output",
+      "integrateddynamics:part_display_panel",
+      "integrateddynamics:variable_transformer_input",
+      "minecraft:redstone",
+      "",
+      "minecraft:redstone"
+    ]
+  },
+  "integratedterminals:part_terminal_crafting_job": {
+    "result": "integratedterminals:part_terminal_crafting_job",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone",
+      "integratedterminals:menril_glass",
+      "minecraft:stone",
+      "",
+      "integrateddynamics:part_display_panel",
+      "",
+      "minecraft:stone",
+      "minecraft:crafting_table",
+      "minecraft:stone"
+    ]
+  },
+  "integratedterminals:part_terminal_storage": {
+    "result": "integratedterminals:part_terminal_storage",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone",
+      "integratedterminals:menril_glass",
+      "minecraft:stone",
+      "integrateddynamics:variable_transformer_output",
+      "integrateddynamics:part_display_panel",
+      "integrateddynamics:variable_transformer_input",
+      "minecraft:stone",
+      "",
+      "minecraft:stone"
+    ]
+  },
+  "integratedtunnels:part_exporter_energy": {
+    "result": "integratedtunnels:part_exporter_energy",
+    "count": 1,
+    "ingredients": [
+      "integratedtunnels:part_interface_energy",
+      "integrateddynamics:variable_transformer_output",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "integratedtunnels:part_exporter_fluid": {
+    "result": "integratedtunnels:part_exporter_fluid",
+    "count": 1,
+    "ingredients": [
+      "integratedtunnels:part_interface_fluid",
+      "integrateddynamics:variable_transformer_output",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "integratedtunnels:part_exporter_item": {
+    "result": "integratedtunnels:part_exporter_item",
+    "count": 1,
+    "ingredients": [
+      "integratedtunnels:part_interface_item",
+      "integrateddynamics:variable_transformer_output",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "integratedtunnels:part_exporter_world_block": {
+    "result": "integratedtunnels:part_exporter_world_block",
+    "count": 1,
+    "ingredients": [
+      "integratedtunnels:part_exporter_item",
+      "integrateddynamics:logic_director",
+      "minecraft:diamond_pickaxe",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "integratedtunnels:part_exporter_world_energy": {
+    "result": "integratedtunnels:part_exporter_world_energy",
+    "count": 1,
+    "ingredients": [
+      "integratedtunnels:part_exporter_energy",
+      "integrateddynamics:logic_director",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "integratedtunnels:part_exporter_world_fluid": {
+    "result": "integratedtunnels:part_exporter_world_fluid",
+    "count": 1,
+    "ingredients": [
+      "integratedtunnels:part_exporter_fluid",
+      "integrateddynamics:logic_director",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "integratedtunnels:part_exporter_world_item": {
+    "result": "integratedtunnels:part_exporter_world_item",
+    "count": 1,
+    "ingredients": [
+      "integratedtunnels:part_exporter_item",
+      "integrateddynamics:logic_director",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "integratedtunnels:part_importer_energy": {
+    "result": "integratedtunnels:part_importer_energy",
+    "count": 1,
+    "ingredients": [
+      "integratedtunnels:part_interface_energy",
+      "integrateddynamics:variable_transformer_input",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "integratedtunnels:part_importer_fluid": {
+    "result": "integratedtunnels:part_importer_fluid",
+    "count": 1,
+    "ingredients": [
+      "integratedtunnels:part_interface_fluid",
+      "integrateddynamics:variable_transformer_input",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "integratedtunnels:part_importer_item": {
+    "result": "integratedtunnels:part_importer_item",
+    "count": 1,
+    "ingredients": [
+      "integratedtunnels:part_interface_item",
+      "integrateddynamics:variable_transformer_input",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "integratedtunnels:part_importer_world_block": {
+    "result": "integratedtunnels:part_importer_world_block",
+    "count": 1,
+    "ingredients": [
+      "integratedtunnels:part_importer_item",
+      "integrateddynamics:logic_director",
+      "minecraft:diamond_pickaxe",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "integratedtunnels:part_importer_world_energy": {
+    "result": "integratedtunnels:part_importer_world_energy",
+    "count": 1,
+    "ingredients": [
+      "integratedtunnels:part_importer_energy",
+      "integrateddynamics:logic_director",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "integratedtunnels:part_importer_world_fluid": {
+    "result": "integratedtunnels:part_importer_world_fluid",
+    "count": 1,
+    "ingredients": [
+      "integratedtunnels:part_importer_fluid",
+      "integrateddynamics:logic_director",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "integratedtunnels:part_importer_world_item": {
+    "result": "integratedtunnels:part_importer_world_item",
+    "count": 1,
+    "ingredients": [
+      "integratedtunnels:part_importer_item",
+      "integrateddynamics:logic_director",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "integratedtunnels:part_interface_energy": {
+    "result": "integratedtunnels:part_interface_energy",
+    "count": 4,
+    "ingredients": [
+      "integrateddynamics:crystalized_menril_chunk",
+      "integrateddynamics:energy_battery",
+      "integrateddynamics:crystalized_menril_chunk",
+      "integrateddynamics:crystalized_menril_chunk",
+      "integrateddynamics:crystalized_menril_chunk",
+      "integrateddynamics:crystalized_menril_chunk",
+      "",
+      "",
+      ""
+    ]
+  },
+  "integratedtunnels:part_interface_filter_energy": {
+    "result": "integratedtunnels:part_interface_filter_energy",
+    "count": 1,
+    "ingredients": [
+      "integratedtunnels:part_interface_energy",
+      "integratedtunnels:part_interface_energy",
+      "minecraft:hopper",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "integratedtunnels:part_interface_filter_fluid": {
+    "result": "integratedtunnels:part_interface_filter_fluid",
+    "count": 1,
+    "ingredients": [
+      "integratedtunnels:part_interface_fluid",
+      "integratedtunnels:part_interface_fluid",
+      "minecraft:hopper",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "integratedtunnels:part_interface_filter_item": {
+    "result": "integratedtunnels:part_interface_filter_item",
+    "count": 1,
+    "ingredients": [
+      "integratedtunnels:part_interface_item",
+      "integratedtunnels:part_interface_item",
+      "minecraft:hopper",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "integratedtunnels:part_interface_fluid": {
+    "result": "integratedtunnels:part_interface_fluid",
+    "count": 4,
+    "ingredients": [
+      "integrateddynamics:crystalized_menril_chunk",
+      "minecraft:bucket",
+      "integrateddynamics:crystalized_menril_chunk",
+      "integrateddynamics:crystalized_menril_chunk",
+      "integrateddynamics:crystalized_menril_chunk",
+      "integrateddynamics:crystalized_menril_chunk",
+      "",
+      "",
+      ""
+    ]
+  },
+  "integratedtunnels:part_interface_item": {
+    "result": "integratedtunnels:part_interface_item",
+    "count": 4,
+    "ingredients": [
+      "integrateddynamics:crystalized_menril_chunk",
+      "minecraft:chest",
+      "integrateddynamics:crystalized_menril_chunk",
+      "integrateddynamics:crystalized_menril_chunk",
+      "integrateddynamics:crystalized_menril_chunk",
+      "integrateddynamics:crystalized_menril_chunk",
+      "",
+      "",
+      ""
+    ]
+  },
+  "integratedtunnels:part_player_simulator": {
+    "result": "integratedtunnels:part_player_simulator",
+    "count": 1,
+    "ingredients": [
+      "integratedtunnels:part_exporter_world_item",
+      "",
+      "integratedtunnels:part_importer_world_block",
+      "integratedtunnels:part_importer_world_item",
+      "minecraft:emerald",
+      "integratedtunnels:part_exporter_world_block",
+      "",
+      "",
+      ""
+    ]
+  },
+  "irons_spellbooks:paladin_chestplate": {
+    "result": "irons_spellbooks:paladin_chestplate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "irons_spellbooks:divine_soulshard",
+      "minecraft:gold_ingot",
+      "irons_spellbooks:mithril_weave",
+      "irons_spellbooks:priest_chestplate",
+      "irons_spellbooks:mithril_weave",
+      "minecraft:gold_ingot",
+      "irons_spellbooks:mithril_weave",
+      "minecraft:gold_ingot"
+    ]
+  },
+  "justdirethings:paradoxmachine": {
+    "result": "justdirethings:paradoxmachine",
+    "count": 1,
+    "ingredients": [
+      "justdirethings:eclipsealloy_ingot",
+      "justdirethings:time_crystal",
+      "justdirethings:eclipsealloy_ingot",
+      "justdirethings:time_crystal",
+      "justdirethings:time_crystal_block",
+      "justdirethings:time_crystal",
+      "justdirethings:eclipsealloy_ingot",
+      "justdirethings:time_fluid_bucket",
+      "justdirethings:eclipsealloy_ingot"
+    ]
+  },
+  "mcwfences:panelled_metal_fence_gate": {
+    "result": "mcwfences:panelled_metal_fence_gate",
+    "count": 6,
+    "ingredients": [
+      "mcwfences:panelled_metal_fence",
+      "mcwfences:panelled_metal_fence",
+      "mcwfences:panelled_metal_fence",
+      "mcwfences:panelled_metal_fence",
+      "mcwfences:panelled_metal_fence",
+      "mcwfences:panelled_metal_fence",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwholidays:pair_of_potions": {
+    "result": "mcwholidays:pair_of_potions",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:glass_bottle",
+      "minecraft:glass_bottle",
+      "",
+      "minecraft:green_dye",
+      "minecraft:red_dye",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwholidays:pair_of_pumpkins": {
+    "result": "mcwholidays:pair_of_pumpkins",
+    "count": 1,
+    "ingredients": [
+      "mcwholidays:small_pumpkin",
+      "mcwholidays:medium_pumpkin",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mekanism:painting_machine": {
+    "result": "mekanism:painting_machine",
+    "count": 1,
+    "ingredients": [
+      "minecraft:infused",
+      "minecraft:advanced",
+      "minecraft:infused",
+      "mekanism:dye_base",
+      "mekanism:steel_casing",
+      "mekanism:dye_base",
+      "minecraft:infused",
+      "minecraft:advanced",
+      "minecraft:infused"
+    ]
+  },
+  "minecolonies:pasta_plain": {
+    "result": "minecolonies:pasta_plain",
+    "count": 1,
+    "ingredients": [
+      "minecolonies:raw_noodle",
+      "minecolonies:butter",
+      "minecraft:bowl",
+      "minecolonies:garlic",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecolonies:pasta_tomato": {
+    "result": "minecolonies:pasta_tomato",
+    "count": 1,
+    "ingredients": [
+      "minecolonies:raw_noodle",
+      "minecolonies:tomato",
+      "minecolonies:onion",
+      "minecraft:bowl",
+      "minecolonies:garlic",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:packed_ice": {
+    "result": "minecraft:packed_ice",
+    "count": 9,
+    "ingredients": [
+      "minecraft:blue_ice",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:packer_block_template": {
+    "result": "modern_industrialization:packer_block_template",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bricks",
+      "",
+      "",
+      "minecraft:steel",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:packer_double_ingot_template": {
+    "result": "modern_industrialization:packer_double_ingot_template",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:iron_double_ingot",
+      "",
+      "",
+      "minecraft:steel",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "oritech:packed_wheat": {
+    "result": "oritech:packed_wheat",
+    "count": 1,
+    "ingredients": [
+      "minecraft:wheat",
+      "minecraft:wheat",
+      "",
+      "minecraft:wheat",
+      "minecraft:wheat",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "oritech:particle_collector_block": {
+    "result": "oritech:particle_collector_block",
+    "count": 1,
+    "ingredients": [
+      "oritech:superconductor",
+      "oritech:superconductor",
+      "oritech:superconductor",
+      "oritech:heisenberg_compensator",
+      "oritech:big_solar_panel_block",
+      "oritech:heisenberg_compensator",
+      "oritech:superconductor",
+      "oritech:superconductor",
+      "oritech:superconductor"
+    ]
+  },
+  "pamhc2crops:papyrusseeditem": {
+    "result": "pamhc2crops:papyrusseeditem",
+    "count": 1,
+    "ingredients": [
+      "pamhc2crops:papyrusitem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2crops:parsnipseeditem": {
+    "result": "pamhc2crops:parsnipseeditem",
+    "count": 1,
+    "ingredients": [
+      "pamhc2crops:parsnipitem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:pastaitem": {
+    "result": "pamhc2foodcore:pastaitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_roller",
+      "minecraft:dough",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:padthaiitem": {
+    "result": "pamhc2foodextended:padthaiitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_skillet",
+      "minecraft:pasta",
+      "minecraft:peanut",
+      "minecraft:boiledegg",
+      "minecraft:firmtofu",
+      "minecraft:chilipepper",
+      "minecraft:lime",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:pambitsboxitem": {
+    "result": "pamhc2foodextended:pambitsboxitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:dough",
+      "minecraft:cookingoil",
+      "minecraft:paper",
+      "minecraft:cocoapowder",
+      "minecraft:sugar",
+      "minecraft:groundcinnamon",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:pancakesitem": {
+    "result": "pamhc2foodextended:pancakesitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_skillet",
+      "minecraft:cookingoil",
+      "minecraft:batter",
+      "minecraft:butter",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:paneeritem": {
+    "result": "pamhc2foodextended:paneeritem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:milk",
+      "minecraft:vinegar",
+      "minecraft:lemon",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:paneertikkamasalaitem": {
+    "result": "pamhc2foodextended:paneertikkamasalaitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "pamhc2foodextended:paneeritem",
+      "minecraft:garammasala",
+      "minecraft:currypowder",
+      "minecraft:coconut",
+      "minecraft:onion",
+      "minecraft:bellpepper",
+      "minecraft:tomato",
+      "minecraft:ginger"
+    ]
+  },
+  "pamhc2foodextended:papayajellyitem": {
+    "result": "pamhc2foodextended:papayajellyitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:papaya",
+      "minecraft:sugar",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:papayajellysandwichitem": {
+    "result": "pamhc2foodextended:papayajellysandwichitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:papayajelly",
+      "minecraft:bread",
+      "minecraft:nutbutters",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:papayajellytoastitem": {
+    "result": "pamhc2foodextended:papayajellytoastitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:papayajelly",
+      "minecraft:toast",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:papayajuiceitem": {
+    "result": "pamhc2foodextended:papayajuiceitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_juicer",
+      "minecraft:papaya",
+      "minecraft:papaya",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:papayapieitem": {
+    "result": "pamhc2foodextended:papayapieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:papaya",
+      "minecraft:sugar",
+      "minecraft:dough",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:papayasmoothieitem": {
+    "result": "pamhc2foodextended:papayasmoothieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:papaya",
+      "minecraft:ices",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:papayayogurtitem": {
+    "result": "pamhc2foodextended:papayayogurtitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:papaya",
+      "minecraft:yogurt",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:paradiseburgeritem": {
+    "result": "pamhc2foodextended:paradiseburgeritem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_skillet",
+      "minecraft:rawbeef",
+      "minecraft:cheese",
+      "minecraft:relish",
+      "minecraft:bread",
+      "minecraft:leafyvegetables",
+      "minecraft:tomato",
+      "minecraft:condiments",
+      ""
+    ]
+  },
+  "pamhc2foodextended:passionfruitjellyitem": {
+    "result": "pamhc2foodextended:passionfruitjellyitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:passionfruit",
+      "minecraft:sugar",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:passionfruitjellysandwichitem": {
+    "result": "pamhc2foodextended:passionfruitjellysandwichitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:passionfruitjelly",
+      "minecraft:bread",
+      "minecraft:nutbutters",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:passionfruitjellytoastitem": {
+    "result": "pamhc2foodextended:passionfruitjellytoastitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:passionfruitjelly",
+      "minecraft:toast",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:passionfruitjuiceitem": {
+    "result": "pamhc2foodextended:passionfruitjuiceitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_juicer",
+      "minecraft:passionfruit",
+      "minecraft:passionfruit",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:passionfruitpieitem": {
+    "result": "pamhc2foodextended:passionfruitpieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:passionfruit",
+      "minecraft:sugar",
+      "minecraft:dough",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:passionfruitsmoothieitem": {
+    "result": "pamhc2foodextended:passionfruitsmoothieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:passionfruit",
+      "minecraft:ices",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:passionfruityogurtitem": {
+    "result": "pamhc2foodextended:passionfruityogurtitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:passionfruit",
+      "minecraft:yogurt",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:pastagardeniaitem": {
+    "result": "pamhc2foodextended:pastagardeniaitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:pasta",
+      "minecraft:cookingoil",
+      "minecraft:tomato",
+      "minecraft:spiceleaf",
+      "minecraft:cheese",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:pavlovaitem": {
+    "result": "pamhc2foodextended:pavlovaitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:egg",
+      "minecraft:sugar",
+      "minecraft:lemon",
+      "minecraft:meringue",
+      "minecraft:strawberry",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:pawpawjellyitem": {
+    "result": "pamhc2foodextended:pawpawjellyitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:pawpaw",
+      "minecraft:sugar",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:pawpawjellysandwichitem": {
+    "result": "pamhc2foodextended:pawpawjellysandwichitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:pawpawjelly",
+      "minecraft:bread",
+      "minecraft:nutbutters",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:pawpawjellytoastitem": {
+    "result": "pamhc2foodextended:pawpawjellytoastitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:pawpawjelly",
+      "minecraft:toast",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:pawpawjuiceitem": {
+    "result": "pamhc2foodextended:pawpawjuiceitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_juicer",
+      "minecraft:pawpaw",
+      "minecraft:pawpaw",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:pawpawpieitem": {
+    "result": "pamhc2foodextended:pawpawpieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:pawpaw",
+      "minecraft:sugar",
+      "minecraft:dough",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:pawpawsmoothieitem": {
+    "result": "pamhc2foodextended:pawpawsmoothieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:pawpaw",
+      "minecraft:ices",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:pawpawyogurtitem": {
+    "result": "pamhc2foodextended:pawpawyogurtitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:pawpaw",
+      "minecraft:yogurt",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2trees:papaya_sapling": {
+    "result": "pamhc2trees:papaya_sapling",
+    "count": 1,
+    "ingredients": [
+      "pamhc2trees:papayaitem",
+      "pamhc2trees:papayaitem",
+      "pamhc2trees:papayaitem",
+      "pamhc2trees:papayaitem",
+      "pamhc2trees:papayaitem",
+      "pamhc2trees:papayaitem",
+      "pamhc2trees:papayaitem",
+      "pamhc2trees:papayaitem",
+      "minecraft:saplings"
+    ]
+  },
+  "pamhc2trees:paperbark_sapling": {
+    "result": "pamhc2trees:paperbark_sapling",
+    "count": 1,
+    "ingredients": [
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:saplings"
+    ]
+  },
+  "pamhc2trees:passionfruit_sapling": {
+    "result": "pamhc2trees:passionfruit_sapling",
+    "count": 1,
+    "ingredients": [
+      "pamhc2trees:passionfruititem",
+      "pamhc2trees:passionfruititem",
+      "pamhc2trees:passionfruititem",
+      "pamhc2trees:passionfruititem",
+      "pamhc2trees:passionfruititem",
+      "pamhc2trees:passionfruititem",
+      "pamhc2trees:passionfruititem",
+      "pamhc2trees:passionfruititem",
+      "minecraft:saplings"
+    ]
+  },
+  "pamhc2trees:pawpaw_sapling": {
+    "result": "pamhc2trees:pawpaw_sapling",
+    "count": 1,
+    "ingredients": [
+      "pamhc2trees:pawpawitem",
+      "pamhc2trees:pawpawitem",
+      "pamhc2trees:pawpawitem",
+      "pamhc2trees:pawpawitem",
+      "pamhc2trees:pawpawitem",
+      "pamhc2trees:pawpawitem",
+      "pamhc2trees:pawpawitem",
+      "pamhc2trees:pawpawitem",
+      "minecraft:saplings"
+    ]
+  },
+  "productivetrees:padauk_bookshelf": {
+    "result": "productivetrees:padauk_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:padauk_planks",
+      "productivetrees:padauk_planks",
+      "productivetrees:padauk_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:padauk_planks",
+      "productivetrees:padauk_planks",
+      "productivetrees:padauk_planks"
+    ]
+  },
+  "productivetrees:pandanus_bookshelf": {
+    "result": "productivetrees:pandanus_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:pandanus_planks",
+      "productivetrees:pandanus_planks",
+      "productivetrees:pandanus_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:pandanus_planks",
+      "productivetrees:pandanus_planks",
+      "productivetrees:pandanus_planks"
+    ]
+  },
+  "productivetrees:papaya_bookshelf": {
+    "result": "productivetrees:papaya_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:papaya_planks",
+      "productivetrees:papaya_planks",
+      "productivetrees:papaya_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:papaya_planks",
+      "productivetrees:papaya_planks",
+      "productivetrees:papaya_planks"
+    ]
+  },
+  "productivetrees:padauk_button": {
+    "result": "productivetrees:padauk_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:padauk_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:pandanus_button": {
+    "result": "productivetrees:pandanus_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:pandanus_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:papaya_button": {
+    "result": "productivetrees:papaya_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:papaya_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:papaya_crate": {
+    "result": "productivetrees:papaya_crate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:papaya",
+      "minecraft:papaya",
+      "minecraft:papaya",
+      "minecraft:papaya",
+      "productivetrees:papaya",
+      "minecraft:papaya",
+      "minecraft:papaya",
+      "minecraft:papaya",
+      "minecraft:papaya"
+    ]
+  },
+  "productivetrees:papaya": {
+    "result": "productivetrees:papaya",
+    "count": 9,
+    "ingredients": [
+      "productivetrees:papaya_crate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:padauk_door": {
+    "result": "productivetrees:padauk_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:padauk_planks",
+      "productivetrees:padauk_planks",
+      "",
+      "productivetrees:padauk_planks",
+      "productivetrees:padauk_planks",
+      "",
+      "productivetrees:padauk_planks",
+      "productivetrees:padauk_planks",
+      ""
+    ]
+  },
+  "productivetrees:pandanus_door": {
+    "result": "productivetrees:pandanus_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:pandanus_planks",
+      "productivetrees:pandanus_planks",
+      "",
+      "productivetrees:pandanus_planks",
+      "productivetrees:pandanus_planks",
+      "",
+      "productivetrees:pandanus_planks",
+      "productivetrees:pandanus_planks",
+      ""
+    ]
+  },
+  "productivetrees:papaya_door": {
+    "result": "productivetrees:papaya_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:papaya_planks",
+      "productivetrees:papaya_planks",
+      "",
+      "productivetrees:papaya_planks",
+      "productivetrees:papaya_planks",
+      "",
+      "productivetrees:papaya_planks",
+      "productivetrees:papaya_planks",
+      ""
+    ]
+  },
+  "productivetrees:padauk_fence": {
+    "result": "productivetrees:padauk_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:padauk_planks",
+      "minecraft:stick",
+      "productivetrees:padauk_planks",
+      "productivetrees:padauk_planks",
+      "minecraft:stick",
+      "productivetrees:padauk_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:pandanus_fence": {
+    "result": "productivetrees:pandanus_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:pandanus_planks",
+      "minecraft:stick",
+      "productivetrees:pandanus_planks",
+      "productivetrees:pandanus_planks",
+      "minecraft:stick",
+      "productivetrees:pandanus_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:papaya_fence": {
+    "result": "productivetrees:papaya_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:papaya_planks",
+      "minecraft:stick",
+      "productivetrees:papaya_planks",
+      "productivetrees:papaya_planks",
+      "minecraft:stick",
+      "productivetrees:papaya_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:padauk_fence_gate": {
+    "result": "productivetrees:padauk_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:padauk_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:padauk_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:pandanus_fence_gate": {
+    "result": "productivetrees:pandanus_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:pandanus_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:pandanus_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:papaya_fence_gate": {
+    "result": "productivetrees:papaya_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:papaya_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:papaya_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:padauk_hanging_sign": {
+    "result": "productivetrees:padauk_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:padauk_planks",
+      "productivetrees:padauk_planks",
+      "productivetrees:padauk_planks",
+      "productivetrees:padauk_planks",
+      "productivetrees:padauk_planks",
+      "productivetrees:padauk_planks"
+    ]
+  },
+  "productivetrees:pandanus_hanging_sign": {
+    "result": "productivetrees:pandanus_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:pandanus_planks",
+      "productivetrees:pandanus_planks",
+      "productivetrees:pandanus_planks",
+      "productivetrees:pandanus_planks",
+      "productivetrees:pandanus_planks",
+      "productivetrees:pandanus_planks"
+    ]
+  },
+  "productivetrees:papaya_hanging_sign": {
+    "result": "productivetrees:papaya_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:papaya_planks",
+      "productivetrees:papaya_planks",
+      "productivetrees:papaya_planks",
+      "productivetrees:papaya_planks",
+      "productivetrees:papaya_planks",
+      "productivetrees:papaya_planks"
+    ]
+  },
+  "productivetrees:padauk_planks": {
+    "result": "productivetrees:padauk_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:pandanus_planks": {
+    "result": "productivetrees:pandanus_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:papaya_planks": {
+    "result": "productivetrees:papaya_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:padauk_pressure_plate": {
+    "result": "productivetrees:padauk_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:padauk_planks",
+      "productivetrees:padauk_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:pandanus_pressure_plate": {
+    "result": "productivetrees:pandanus_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:pandanus_planks",
+      "productivetrees:pandanus_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:papaya_pressure_plate": {
+    "result": "productivetrees:papaya_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:papaya_planks",
+      "productivetrees:papaya_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:padauk_sign": {
+    "result": "productivetrees:padauk_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:padauk_planks",
+      "productivetrees:padauk_planks",
+      "productivetrees:padauk_planks",
+      "productivetrees:padauk_planks",
+      "productivetrees:padauk_planks",
+      "productivetrees:padauk_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:pandanus_sign": {
+    "result": "productivetrees:pandanus_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:pandanus_planks",
+      "productivetrees:pandanus_planks",
+      "productivetrees:pandanus_planks",
+      "productivetrees:pandanus_planks",
+      "productivetrees:pandanus_planks",
+      "productivetrees:pandanus_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:papaya_sign": {
+    "result": "productivetrees:papaya_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:papaya_planks",
+      "productivetrees:papaya_planks",
+      "productivetrees:papaya_planks",
+      "productivetrees:papaya_planks",
+      "productivetrees:papaya_planks",
+      "productivetrees:papaya_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:padauk_slab": {
+    "result": "productivetrees:padauk_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:padauk_planks",
+      "productivetrees:padauk_planks",
+      "productivetrees:padauk_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:pandanus_slab": {
+    "result": "productivetrees:pandanus_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:pandanus_planks",
+      "productivetrees:pandanus_planks",
+      "productivetrees:pandanus_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:papaya_slab": {
+    "result": "productivetrees:papaya_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:papaya_planks",
+      "productivetrees:papaya_planks",
+      "productivetrees:papaya_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:padauk_stairs": {
+    "result": "productivetrees:padauk_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:padauk_planks",
+      "",
+      "",
+      "productivetrees:padauk_planks",
+      "productivetrees:padauk_planks",
+      "",
+      "productivetrees:padauk_planks",
+      "productivetrees:padauk_planks",
+      "productivetrees:padauk_planks"
+    ]
+  },
+  "productivetrees:pandanus_stairs": {
+    "result": "productivetrees:pandanus_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:pandanus_planks",
+      "",
+      "",
+      "productivetrees:pandanus_planks",
+      "productivetrees:pandanus_planks",
+      "",
+      "productivetrees:pandanus_planks",
+      "productivetrees:pandanus_planks",
+      "productivetrees:pandanus_planks"
+    ]
+  },
+  "productivetrees:papaya_stairs": {
+    "result": "productivetrees:papaya_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:papaya_planks",
+      "",
+      "",
+      "productivetrees:papaya_planks",
+      "productivetrees:papaya_planks",
+      "",
+      "productivetrees:papaya_planks",
+      "productivetrees:papaya_planks",
+      "productivetrees:papaya_planks"
+    ]
+  },
+  "productivetrees:padauk_trapdoor": {
+    "result": "productivetrees:padauk_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:padauk_planks",
+      "productivetrees:padauk_planks",
+      "productivetrees:padauk_planks",
+      "productivetrees:padauk_planks",
+      "productivetrees:padauk_planks",
+      "productivetrees:padauk_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:pandanus_trapdoor": {
+    "result": "productivetrees:pandanus_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:pandanus_planks",
+      "productivetrees:pandanus_planks",
+      "productivetrees:pandanus_planks",
+      "productivetrees:pandanus_planks",
+      "productivetrees:pandanus_planks",
+      "productivetrees:pandanus_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:papaya_trapdoor": {
+    "result": "productivetrees:papaya_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:papaya_planks",
+      "productivetrees:papaya_planks",
+      "productivetrees:papaya_planks",
+      "productivetrees:papaya_planks",
+      "productivetrees:papaya_planks",
+      "productivetrees:papaya_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:padauk_wood": {
+    "result": "productivetrees:padauk_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:padauk_log",
+      "productivetrees:padauk_log",
+      "",
+      "productivetrees:padauk_log",
+      "productivetrees:padauk_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:pandanus_wood": {
+    "result": "productivetrees:pandanus_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:pandanus_log",
+      "productivetrees:pandanus_log",
+      "",
+      "productivetrees:pandanus_log",
+      "productivetrees:pandanus_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:papaya_wood": {
+    "result": "productivetrees:papaya_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:papaya_log",
+      "productivetrees:papaya_log",
+      "",
+      "productivetrees:papaya_log",
+      "productivetrees:papaya_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "refinedstorage:pattern": {
+    "result": "refinedstorage:pattern",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:redstone",
+      "minecraft:glass",
+      "minecraft:redstone",
+      "minecraft:glass",
+      "minecraft:redstone",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:quartz_enriched_iron"
+    ]
+  },
+  "refinedstorage:pattern_grid": {
+    "result": "refinedstorage:pattern_grid",
+    "count": 1,
+    "ingredients": [
+      "refinedstorage:grid",
+      "refinedstorage:advanced_processor",
+      "refinedstorage:pattern",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:palm_beard": {
+    "result": "regions_unexplored:palm_beard",
+    "count": 2,
+    "ingredients": [
+      "regions_unexplored:palm_log",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:palm_boat": {
+    "result": "regions_unexplored:palm_boat",
+    "count": 1,
+    "ingredients": [
+      "regions_unexplored:palm_planks",
+      "",
+      "regions_unexplored:palm_planks",
+      "regions_unexplored:palm_planks",
+      "regions_unexplored:palm_planks",
+      "regions_unexplored:palm_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:palm_button": {
+    "result": "regions_unexplored:palm_button",
+    "count": 1,
+    "ingredients": [
+      "regions_unexplored:palm_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:palm_chest_boat": {
+    "result": "regions_unexplored:palm_chest_boat",
+    "count": 1,
+    "ingredients": [
+      "minecraft:chest",
+      "regions_unexplored:palm_boat",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:palm_door": {
+    "result": "regions_unexplored:palm_door",
+    "count": 3,
+    "ingredients": [
+      "regions_unexplored:palm_planks",
+      "regions_unexplored:palm_planks",
+      "",
+      "regions_unexplored:palm_planks",
+      "regions_unexplored:palm_planks",
+      "",
+      "regions_unexplored:palm_planks",
+      "regions_unexplored:palm_planks",
+      ""
+    ]
+  },
+  "regions_unexplored:palm_fence": {
+    "result": "regions_unexplored:palm_fence",
+    "count": 3,
+    "ingredients": [
+      "regions_unexplored:palm_planks",
+      "minecraft:stick",
+      "regions_unexplored:palm_planks",
+      "regions_unexplored:palm_planks",
+      "minecraft:stick",
+      "regions_unexplored:palm_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:palm_fence_gate": {
+    "result": "regions_unexplored:palm_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "regions_unexplored:palm_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "regions_unexplored:palm_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:palm_hanging_sign": {
+    "result": "regions_unexplored:palm_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "regions_unexplored:stripped_palm_log",
+      "regions_unexplored:stripped_palm_log",
+      "regions_unexplored:stripped_palm_log",
+      "regions_unexplored:stripped_palm_log",
+      "regions_unexplored:stripped_palm_log",
+      "regions_unexplored:stripped_palm_log"
+    ]
+  },
+  "regions_unexplored:palm_planks": {
+    "result": "regions_unexplored:palm_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:palm_pressure_plate": {
+    "result": "regions_unexplored:palm_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "regions_unexplored:palm_planks",
+      "regions_unexplored:palm_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:palm_sapling": {
+    "result": "regions_unexplored:palm_sapling",
+    "count": 2,
+    "ingredients": [
+      "regions_unexplored:palm_shrub",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:palm_shrub": {
+    "result": "regions_unexplored:palm_shrub",
+    "count": 1,
+    "ingredients": [
+      "regions_unexplored:palm_sapling",
+      "",
+      "",
+      "regions_unexplored:palm_sapling",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:palm_sign": {
+    "result": "regions_unexplored:palm_sign",
+    "count": 3,
+    "ingredients": [
+      "regions_unexplored:palm_planks",
+      "regions_unexplored:palm_planks",
+      "regions_unexplored:palm_planks",
+      "regions_unexplored:palm_planks",
+      "regions_unexplored:palm_planks",
+      "regions_unexplored:palm_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "regions_unexplored:palm_slab": {
+    "result": "regions_unexplored:palm_slab",
+    "count": 6,
+    "ingredients": [
+      "regions_unexplored:palm_planks",
+      "regions_unexplored:palm_planks",
+      "regions_unexplored:palm_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:palm_stairs": {
+    "result": "regions_unexplored:palm_stairs",
+    "count": 4,
+    "ingredients": [
+      "regions_unexplored:palm_planks",
+      "",
+      "",
+      "regions_unexplored:palm_planks",
+      "regions_unexplored:palm_planks",
+      "",
+      "regions_unexplored:palm_planks",
+      "regions_unexplored:palm_planks",
+      "regions_unexplored:palm_planks"
+    ]
+  },
+  "regions_unexplored:palm_trapdoor": {
+    "result": "regions_unexplored:palm_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "regions_unexplored:palm_planks",
+      "regions_unexplored:palm_planks",
+      "regions_unexplored:palm_planks",
+      "regions_unexplored:palm_planks",
+      "regions_unexplored:palm_planks",
+      "regions_unexplored:palm_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:palm_wood": {
+    "result": "regions_unexplored:palm_wood",
+    "count": 3,
+    "ingredients": [
+      "regions_unexplored:palm_log",
+      "regions_unexplored:palm_log",
+      "",
+      "regions_unexplored:palm_log",
+      "regions_unexplored:palm_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "securitycraft:panic_button": {
+    "result": "securitycraft:panic_button",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "securitycraft:reinforced_stone_button",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:redstone",
+      ""
+    ]
+  },
+  "silentgear:paint_mixer": {
+    "result": "silentgear:paint_mixer",
+    "count": 1,
+    "ingredients": [
+      "minecraft:smooth_stone",
+      "minecraft:dyes",
+      "minecraft:smooth_stone",
+      "minecraft:copper_ingot",
+      "minecraft:iron",
+      "minecraft:copper_ingot",
+      "minecraft:smooth_stone",
+      "minecraft:empty",
+      "minecraft:smooth_stone"
+    ]
+  },
+  "silentgear:paxel_blueprint": {
+    "result": "silentgear:paxel_blueprint",
+    "count": 1,
+    "ingredients": [
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:stick",
+      "minecraft:paper",
+      "",
+      "minecraft:stick",
+      "minecraft:paper"
+    ]
+  },
+  "silentgear:paxel_template": {
+    "result": "silentgear:paxel_template",
+    "count": 1,
+    "ingredients": [
+      "minecraft:template_boards",
+      "minecraft:template_boards",
+      "minecraft:template_boards",
+      "minecraft:template_boards",
+      "minecraft:stick",
+      "minecraft:template_boards",
+      "",
+      "minecraft:stick",
+      "minecraft:template_boards"
+    ]
+  },
+  "sophisticatedstorage:packing_tape": {
+    "result": "sophisticatedstorage:packing_tape",
+    "count": 1,
+    "ingredients": [
+      "minecraft:slime_ball",
+      "minecraft:paper",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "sophisticatedstorage:paintbrush": {
+    "result": "sophisticatedstorage:paintbrush",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:white_wool",
+      "",
+      "",
+      "minecraft:stick",
+      "minecraft:white_wool",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "supplementaries:pancake": {
+    "result": "supplementaries:pancake",
+    "count": 3,
+    "ingredients": [
+      "minecraft:sugar",
+      "minecraft:milk",
+      "minecraft:dough",
+      "minecraft:eggs",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

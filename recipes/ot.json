@@ -1,0 +1,692 @@
+{
+  "apothic_enchanting:other_tome": {
+    "result": "apothic_enchanting:other_tome",
+    "count": 6,
+    "ingredients": [
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:blaze_rod",
+      "",
+      ""
+    ]
+  },
+  "occultism:otherworld_goggles": {
+    "result": "occultism:otherworld_goggles",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:leather",
+      "",
+      "minecraft:leather",
+      "occultism:infused_lenses",
+      "minecraft:leather",
+      "",
+      "occultism:lens_frame",
+      ""
+    ]
+  },
+  "occultism:othercobblerock_slab": {
+    "result": "occultism:othercobblerock_slab",
+    "count": 6,
+    "ingredients": [
+      "occultism:othercobblerock",
+      "occultism:othercobblerock",
+      "occultism:othercobblerock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "occultism:othercobblerock_stairs": {
+    "result": "occultism:othercobblerock_stairs",
+    "count": 4,
+    "ingredients": [
+      "occultism:othercobblerock",
+      "",
+      "",
+      "occultism:othercobblerock",
+      "occultism:othercobblerock",
+      "",
+      "occultism:othercobblerock",
+      "occultism:othercobblerock",
+      "occultism:othercobblerock"
+    ]
+  },
+  "occultism:othercobblerock_wall": {
+    "result": "occultism:othercobblerock_wall",
+    "count": 6,
+    "ingredients": [
+      "occultism:othercobblerock",
+      "occultism:othercobblerock",
+      "occultism:othercobblerock",
+      "occultism:othercobblerock",
+      "occultism:othercobblerock",
+      "occultism:othercobblerock",
+      "",
+      "",
+      ""
+    ]
+  },
+  "occultism:othercobblestone_slab": {
+    "result": "occultism:othercobblestone_slab",
+    "count": 6,
+    "ingredients": [
+      "occultism:othercobblestone",
+      "occultism:othercobblestone",
+      "occultism:othercobblestone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "occultism:othercobblestone_stairs": {
+    "result": "occultism:othercobblestone_stairs",
+    "count": 4,
+    "ingredients": [
+      "occultism:othercobblestone",
+      "",
+      "",
+      "occultism:othercobblestone",
+      "occultism:othercobblestone",
+      "",
+      "occultism:othercobblestone",
+      "occultism:othercobblestone",
+      "occultism:othercobblestone"
+    ]
+  },
+  "occultism:othercobblestone_wall": {
+    "result": "occultism:othercobblestone_wall",
+    "count": 6,
+    "ingredients": [
+      "occultism:othercobblestone",
+      "occultism:othercobblestone",
+      "occultism:othercobblestone",
+      "occultism:othercobblestone",
+      "occultism:othercobblestone",
+      "occultism:othercobblestone",
+      "",
+      "",
+      ""
+    ]
+  },
+  "occultism:otherglass_natural": {
+    "result": "occultism:otherglass_natural",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iesnium",
+      "minecraft:stone",
+      "minecraft:iesnium",
+      "minecraft:stone",
+      "minecraft:glass",
+      "minecraft:stone",
+      "minecraft:iesnium",
+      "minecraft:stone",
+      "minecraft:iesnium"
+    ]
+  },
+  "occultism:otherplanks": {
+    "result": "occultism:otherplanks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "occultism:otherplanks_button": {
+    "result": "occultism:otherplanks_button",
+    "count": 1,
+    "ingredients": [
+      "occultism:otherplanks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "occultism:otherplanks_door": {
+    "result": "occultism:otherplanks_door",
+    "count": 3,
+    "ingredients": [
+      "occultism:otherplanks",
+      "occultism:otherplanks",
+      "",
+      "occultism:otherplanks",
+      "occultism:otherplanks",
+      "",
+      "occultism:otherplanks",
+      "occultism:otherplanks",
+      ""
+    ]
+  },
+  "occultism:otherplanks_fence": {
+    "result": "occultism:otherplanks_fence",
+    "count": 3,
+    "ingredients": [
+      "occultism:otherplanks",
+      "minecraft:stick",
+      "occultism:otherplanks",
+      "occultism:otherplanks",
+      "minecraft:stick",
+      "occultism:otherplanks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "occultism:otherplanks_fence_gate": {
+    "result": "occultism:otherplanks_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "occultism:otherplanks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "occultism:otherplanks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "occultism:otherplanks_hanging_sign": {
+    "result": "occultism:otherplanks_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "occultism:stripped_otherworld_log",
+      "occultism:stripped_otherworld_log",
+      "occultism:stripped_otherworld_log",
+      "occultism:stripped_otherworld_log",
+      "occultism:stripped_otherworld_log",
+      "occultism:stripped_otherworld_log"
+    ]
+  },
+  "occultism:otherplanks_pressure_plate": {
+    "result": "occultism:otherplanks_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "occultism:otherplanks",
+      "occultism:otherplanks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "occultism:otherplanks_sign": {
+    "result": "occultism:otherplanks_sign",
+    "count": 3,
+    "ingredients": [
+      "occultism:otherplanks",
+      "occultism:otherplanks",
+      "occultism:otherplanks",
+      "occultism:otherplanks",
+      "occultism:otherplanks",
+      "occultism:otherplanks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "occultism:otherplanks_slab": {
+    "result": "occultism:otherplanks_slab",
+    "count": 6,
+    "ingredients": [
+      "occultism:otherplanks",
+      "occultism:otherplanks",
+      "occultism:otherplanks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "occultism:otherplanks_stairs": {
+    "result": "occultism:otherplanks_stairs",
+    "count": 4,
+    "ingredients": [
+      "occultism:otherplanks",
+      "",
+      "",
+      "occultism:otherplanks",
+      "occultism:otherplanks",
+      "",
+      "occultism:otherplanks",
+      "occultism:otherplanks",
+      "occultism:otherplanks"
+    ]
+  },
+  "occultism:otherplanks_trapdoor": {
+    "result": "occultism:otherplanks_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "occultism:otherplanks",
+      "occultism:otherplanks",
+      "occultism:otherplanks",
+      "occultism:otherplanks",
+      "occultism:otherplanks",
+      "occultism:otherplanks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "occultism:otherrock_bricks": {
+    "result": "occultism:otherrock_bricks",
+    "count": 4,
+    "ingredients": [
+      "occultism:otherrock",
+      "occultism:otherrock",
+      "",
+      "occultism:otherrock",
+      "occultism:otherrock",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "occultism:otherrock_bricks_slab": {
+    "result": "occultism:otherrock_bricks_slab",
+    "count": 6,
+    "ingredients": [
+      "occultism:otherrock_bricks",
+      "occultism:otherrock_bricks",
+      "occultism:otherrock_bricks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "occultism:otherrock_bricks_stairs": {
+    "result": "occultism:otherrock_bricks_stairs",
+    "count": 4,
+    "ingredients": [
+      "occultism:otherrock_bricks",
+      "",
+      "",
+      "occultism:otherrock_bricks",
+      "occultism:otherrock_bricks",
+      "",
+      "occultism:otherrock_bricks",
+      "occultism:otherrock_bricks",
+      "occultism:otherrock_bricks"
+    ]
+  },
+  "occultism:otherrock_bricks_wall": {
+    "result": "occultism:otherrock_bricks_wall",
+    "count": 6,
+    "ingredients": [
+      "occultism:otherrock_bricks",
+      "occultism:otherrock_bricks",
+      "occultism:otherrock_bricks",
+      "occultism:otherrock_bricks",
+      "occultism:otherrock_bricks",
+      "occultism:otherrock_bricks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "occultism:otherrock_button": {
+    "result": "occultism:otherrock_button",
+    "count": 1,
+    "ingredients": [
+      "occultism:otherrock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "occultism:otherrock_frame": {
+    "result": "occultism:otherrock_frame",
+    "count": 1,
+    "ingredients": [
+      "occultism:otherrock",
+      "occultism:otherrock",
+      "occultism:otherrock",
+      "occultism:otherrock",
+      "",
+      "occultism:otherrock",
+      "occultism:otherrock",
+      "occultism:otherrock",
+      "occultism:otherrock"
+    ]
+  },
+  "occultism:otherstone_pedestal_silver": {
+    "result": "occultism:otherstone_pedestal_silver",
+    "count": 1,
+    "ingredients": [
+      "occultism:otherrock_slab",
+      "",
+      "occultism:otherrock_slab",
+      "",
+      "occultism:otherrock",
+      "",
+      "occultism:otherrock_slab",
+      "occultism:otherrock_slab",
+      "occultism:otherrock_slab"
+    ]
+  },
+  "occultism:otherrock_pressure_plate": {
+    "result": "occultism:otherrock_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "occultism:otherrock",
+      "occultism:otherrock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "occultism:otherrock_slab": {
+    "result": "occultism:otherrock_slab",
+    "count": 6,
+    "ingredients": [
+      "occultism:otherrock",
+      "occultism:otherrock",
+      "occultism:otherrock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "occultism:otherrock_stairs": {
+    "result": "occultism:otherrock_stairs",
+    "count": 4,
+    "ingredients": [
+      "occultism:otherrock",
+      "",
+      "",
+      "occultism:otherrock",
+      "occultism:otherrock",
+      "",
+      "occultism:otherrock",
+      "occultism:otherrock",
+      "occultism:otherrock"
+    ]
+  },
+  "occultism:otherrock_wall": {
+    "result": "occultism:otherrock_wall",
+    "count": 6,
+    "ingredients": [
+      "occultism:otherrock",
+      "occultism:otherrock",
+      "occultism:otherrock",
+      "occultism:otherrock",
+      "occultism:otherrock",
+      "occultism:otherrock",
+      "",
+      "",
+      ""
+    ]
+  },
+  "occultism:otherstone_bricks": {
+    "result": "occultism:otherstone_bricks",
+    "count": 4,
+    "ingredients": [
+      "occultism:otherstone",
+      "occultism:otherstone",
+      "",
+      "occultism:otherstone",
+      "occultism:otherstone",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "occultism:otherstone_bricks_slab": {
+    "result": "occultism:otherstone_bricks_slab",
+    "count": 6,
+    "ingredients": [
+      "occultism:otherstone_bricks",
+      "occultism:otherstone_bricks",
+      "occultism:otherstone_bricks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "occultism:otherstone_bricks_stairs": {
+    "result": "occultism:otherstone_bricks_stairs",
+    "count": 4,
+    "ingredients": [
+      "occultism:otherstone_bricks",
+      "",
+      "",
+      "occultism:otherstone_bricks",
+      "occultism:otherstone_bricks",
+      "",
+      "occultism:otherstone_bricks",
+      "occultism:otherstone_bricks",
+      "occultism:otherstone_bricks"
+    ]
+  },
+  "occultism:otherstone_bricks_wall": {
+    "result": "occultism:otherstone_bricks_wall",
+    "count": 6,
+    "ingredients": [
+      "occultism:otherstone_bricks",
+      "occultism:otherstone_bricks",
+      "occultism:otherstone_bricks",
+      "occultism:otherstone_bricks",
+      "occultism:otherstone_bricks",
+      "occultism:otherstone_bricks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "occultism:otherstone_button": {
+    "result": "occultism:otherstone_button",
+    "count": 1,
+    "ingredients": [
+      "occultism:otherstone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "occultism:otherstone_frame": {
+    "result": "occultism:otherstone_frame",
+    "count": 1,
+    "ingredients": [
+      "occultism:otherstone",
+      "occultism:otherstone",
+      "occultism:otherstone",
+      "occultism:otherstone",
+      "",
+      "occultism:otherstone",
+      "occultism:otherstone",
+      "occultism:otherstone",
+      "occultism:otherstone"
+    ]
+  },
+  "occultism:otherstone_pedestal": {
+    "result": "occultism:otherstone_pedestal",
+    "count": 1,
+    "ingredients": [
+      "occultism:otherstone_slab",
+      "",
+      "occultism:otherstone_slab",
+      "",
+      "occultism:otherstone",
+      "",
+      "occultism:otherstone_slab",
+      "occultism:otherstone_slab",
+      "occultism:otherstone_slab"
+    ]
+  },
+  "occultism:otherstone_pressure_plate": {
+    "result": "occultism:otherstone_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "occultism:otherstone",
+      "occultism:otherstone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "occultism:otherstone_slab": {
+    "result": "occultism:otherstone_slab",
+    "count": 6,
+    "ingredients": [
+      "occultism:otherstone",
+      "occultism:otherstone",
+      "occultism:otherstone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "occultism:otherstone_stairs": {
+    "result": "occultism:otherstone_stairs",
+    "count": 4,
+    "ingredients": [
+      "occultism:otherstone",
+      "",
+      "",
+      "occultism:otherstone",
+      "occultism:otherstone",
+      "",
+      "occultism:otherstone",
+      "occultism:otherstone",
+      "occultism:otherstone"
+    ]
+  },
+  "occultism:otherstone_tablet": {
+    "result": "occultism:otherstone_tablet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:otherworld_wood",
+      "minecraft:gold_ingot",
+      "minecraft:otherworld_wood",
+      "minecraft:gold_ingot",
+      "occultism:otherrock",
+      "minecraft:gold_ingot",
+      "minecraft:otherworld_wood",
+      "minecraft:gold_ingot",
+      "minecraft:otherworld_wood"
+    ]
+  },
+  "occultism:otherstone_wall": {
+    "result": "occultism:otherstone_wall",
+    "count": 6,
+    "ingredients": [
+      "occultism:otherstone",
+      "occultism:otherstone",
+      "occultism:otherstone",
+      "occultism:otherstone",
+      "occultism:otherstone",
+      "occultism:otherstone",
+      "",
+      "",
+      ""
+    ]
+  },
+  "occultism:otherworld_wood": {
+    "result": "occultism:otherworld_wood",
+    "count": 3,
+    "ingredients": [
+      "occultism:otherworld_log",
+      "occultism:otherworld_log",
+      "",
+      "occultism:otherworld_log",
+      "occultism:otherworld_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "occultism:otherrock": {
+    "result": "occultism:otherrock",
+    "count": 1,
+    "ingredients": [
+      "occultism:gray_paste",
+      "minecraft:otherrock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "occultism:otherstone": {
+    "result": "occultism:otherstone",
+    "count": 1,
+    "ingredients": [
+      "occultism:gray_paste",
+      "minecraft:stone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

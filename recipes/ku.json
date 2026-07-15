@@ -1,0 +1,242 @@
+{
+  "pamhc2foodextended:kungpaochickenitem": {
+    "result": "pamhc2foodextended:kungpaochickenitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:rawchicken",
+      "minecraft:orange",
+      "minecraft:ginger",
+      "minecraft:garlic",
+      "minecraft:sugar",
+      "minecraft:cookingoil",
+      "minecraft:blackpepper",
+      "minecraft:peanut"
+    ]
+  },
+  "productivetrees:kumquat_bookshelf": {
+    "result": "productivetrees:kumquat_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:kumquat_planks",
+      "productivetrees:kumquat_planks",
+      "productivetrees:kumquat_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:kumquat_planks",
+      "productivetrees:kumquat_planks",
+      "productivetrees:kumquat_planks"
+    ]
+  },
+  "productivetrees:kumquat_button": {
+    "result": "productivetrees:kumquat_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:kumquat_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:kumquat_crate": {
+    "result": "productivetrees:kumquat_crate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:kumquat",
+      "minecraft:kumquat",
+      "minecraft:kumquat",
+      "minecraft:kumquat",
+      "productivetrees:kumquat",
+      "minecraft:kumquat",
+      "minecraft:kumquat",
+      "minecraft:kumquat",
+      "minecraft:kumquat"
+    ]
+  },
+  "productivetrees:kumquat": {
+    "result": "productivetrees:kumquat",
+    "count": 9,
+    "ingredients": [
+      "productivetrees:kumquat_crate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:kumquat_door": {
+    "result": "productivetrees:kumquat_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:kumquat_planks",
+      "productivetrees:kumquat_planks",
+      "",
+      "productivetrees:kumquat_planks",
+      "productivetrees:kumquat_planks",
+      "",
+      "productivetrees:kumquat_planks",
+      "productivetrees:kumquat_planks",
+      ""
+    ]
+  },
+  "productivetrees:kumquat_fence": {
+    "result": "productivetrees:kumquat_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:kumquat_planks",
+      "minecraft:stick",
+      "productivetrees:kumquat_planks",
+      "productivetrees:kumquat_planks",
+      "minecraft:stick",
+      "productivetrees:kumquat_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:kumquat_fence_gate": {
+    "result": "productivetrees:kumquat_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:kumquat_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:kumquat_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:kumquat_hanging_sign": {
+    "result": "productivetrees:kumquat_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:kumquat_planks",
+      "productivetrees:kumquat_planks",
+      "productivetrees:kumquat_planks",
+      "productivetrees:kumquat_planks",
+      "productivetrees:kumquat_planks",
+      "productivetrees:kumquat_planks"
+    ]
+  },
+  "productivetrees:kumquat_planks": {
+    "result": "productivetrees:kumquat_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:kumquat_pressure_plate": {
+    "result": "productivetrees:kumquat_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:kumquat_planks",
+      "productivetrees:kumquat_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:kumquat_sign": {
+    "result": "productivetrees:kumquat_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:kumquat_planks",
+      "productivetrees:kumquat_planks",
+      "productivetrees:kumquat_planks",
+      "productivetrees:kumquat_planks",
+      "productivetrees:kumquat_planks",
+      "productivetrees:kumquat_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:kumquat_slab": {
+    "result": "productivetrees:kumquat_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:kumquat_planks",
+      "productivetrees:kumquat_planks",
+      "productivetrees:kumquat_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:kumquat_stairs": {
+    "result": "productivetrees:kumquat_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:kumquat_planks",
+      "",
+      "",
+      "productivetrees:kumquat_planks",
+      "productivetrees:kumquat_planks",
+      "",
+      "productivetrees:kumquat_planks",
+      "productivetrees:kumquat_planks",
+      "productivetrees:kumquat_planks"
+    ]
+  },
+  "productivetrees:kumquat_trapdoor": {
+    "result": "productivetrees:kumquat_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:kumquat_planks",
+      "productivetrees:kumquat_planks",
+      "productivetrees:kumquat_planks",
+      "productivetrees:kumquat_planks",
+      "productivetrees:kumquat_planks",
+      "productivetrees:kumquat_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:kumquat_wood": {
+    "result": "productivetrees:kumquat_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:kumquat_log",
+      "productivetrees:kumquat_log",
+      "",
+      "productivetrees:kumquat_log",
+      "productivetrees:kumquat_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

@@ -1,0 +1,722 @@
+{
+  "allthecompressed:ruby_block_1x": {
+    "result": "allthecompressed:ruby_block_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:ruby_block_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:ruby_block_2x": {
+    "result": "allthecompressed:ruby_block_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:ruby_block_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:ruby_block_3x": {
+    "result": "allthecompressed:ruby_block_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:ruby_block_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:ruby_block_4x": {
+    "result": "allthecompressed:ruby_block_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:ruby_block_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:ruby_block_5x": {
+    "result": "allthecompressed:ruby_block_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:ruby_block_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:ruby_block_6x": {
+    "result": "allthecompressed:ruby_block_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:ruby_block_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:ruby_block_7x": {
+    "result": "allthecompressed:ruby_block_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:ruby_block_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:ruby_block_8x": {
+    "result": "allthecompressed:ruby_block_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:ruby_block_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:ruby_block_9x": {
+    "result": "allthecompressed:ruby_block_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:ruby_block_8x",
+      "allthecompressed:ruby_block_8x",
+      "allthecompressed:ruby_block_8x",
+      "allthecompressed:ruby_block_8x",
+      "allthecompressed:ruby_block_8x",
+      "allthecompressed:ruby_block_8x",
+      "allthecompressed:ruby_block_8x",
+      "allthecompressed:ruby_block_8x",
+      "allthecompressed:ruby_block_8x"
+    ]
+  },
+  "alltheores:ruby_block": {
+    "result": "alltheores:ruby_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:ruby",
+      "minecraft:ruby",
+      "minecraft:ruby",
+      "minecraft:ruby",
+      "minecraft:ruby",
+      "minecraft:ruby",
+      "minecraft:ruby",
+      "minecraft:ruby",
+      "minecraft:ruby"
+    ]
+  },
+  "alltheores:ruby_dust": {
+    "result": "alltheores:ruby_dust",
+    "count": 1,
+    "ingredients": [
+      "minecraft:ore_hammers",
+      "minecraft:ruby",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "alltheores:ruby": {
+    "result": "alltheores:ruby",
+    "count": 9,
+    "ingredients": [
+      "minecraft:ruby",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_nouveau:runic_chalk": {
+    "result": "ars_nouveau:runic_chalk",
+    "count": 1,
+    "ingredients": [
+      "ars_nouveau:manipulation_essence",
+      "minecraft:bone_meal",
+      "ars_nouveau:magebloom_fiber",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "forbidden_arcanus:rune_block": {
+    "result": "forbidden_arcanus:rune_block",
+    "count": 1,
+    "ingredients": [
+      "forbidden_arcanus:rune",
+      "forbidden_arcanus:rune",
+      "forbidden_arcanus:rune",
+      "forbidden_arcanus:rune",
+      "forbidden_arcanus:rune",
+      "forbidden_arcanus:rune",
+      "forbidden_arcanus:rune",
+      "forbidden_arcanus:rune",
+      "forbidden_arcanus:rune"
+    ]
+  },
+  "forbidden_arcanus:rune": {
+    "result": "forbidden_arcanus:rune",
+    "count": 9,
+    "ingredients": [
+      "forbidden_arcanus:rune_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "forbidden_arcanus:runic_glass": {
+    "result": "forbidden_arcanus:runic_glass",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "forbidden_arcanus:rune",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass"
+    ]
+  },
+  "forbidden_arcanus:runic_glass_pane": {
+    "result": "forbidden_arcanus:runic_glass_pane",
+    "count": 16,
+    "ingredients": [
+      "forbidden_arcanus:runic_glass",
+      "forbidden_arcanus:runic_glass",
+      "forbidden_arcanus:runic_glass",
+      "forbidden_arcanus:runic_glass",
+      "forbidden_arcanus:runic_glass",
+      "forbidden_arcanus:runic_glass",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwlights:rustic_torch": {
+    "result": "mcwlights:rustic_torch",
+    "count": 4,
+    "ingredients": [
+      "minecraft:coal",
+      "",
+      "",
+      "minecraft:iron_nugget",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:rugelach": {
+    "result": "merrymaking:rugelach",
+    "count": 1,
+    "ingredients": [
+      "minecraft:milk_bucket",
+      "minecraft:wheat",
+      "minecraft:sugar",
+      "minecraft:sweet_berries",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:rubber_boots": {
+    "result": "modern_industrialization:rubber_boots",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:rubber_sheet",
+      "",
+      "modern_industrialization:rubber_sheet",
+      "modern_industrialization:rubber_sheet",
+      "",
+      "modern_industrialization:rubber_sheet",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:rubber_helmet": {
+    "result": "modern_industrialization:rubber_helmet",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:rubber_sheet",
+      "modern_industrialization:rubber_sheet",
+      "modern_industrialization:rubber_sheet",
+      "modern_industrialization:rubber_sheet",
+      "",
+      "modern_industrialization:rubber_sheet",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:ruby_dust": {
+    "result": "modern_industrialization:ruby_dust",
+    "count": 1,
+    "ingredients": [
+      "minecraft:ruby",
+      "minecraft:ruby",
+      "minecraft:ruby",
+      "minecraft:ruby",
+      "modern_industrialization:ruby_tiny_dust",
+      "minecraft:ruby",
+      "minecraft:ruby",
+      "minecraft:ruby",
+      "minecraft:ruby"
+    ]
+  },
+  "modern_industrialization:ruby_tiny_dust": {
+    "result": "modern_industrialization:ruby_tiny_dust",
+    "count": 9,
+    "ingredients": [
+      "modern_industrialization:ruby_dust",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2crops:rutabagaseeditem": {
+    "result": "pamhc2crops:rutabagaseeditem",
+    "count": 1,
+    "ingredients": [
+      "pamhc2crops:rutabagaitem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:rubber_tree_bookshelf": {
+    "result": "productivetrees:rubber_tree_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:rubber_tree_planks",
+      "productivetrees:rubber_tree_planks",
+      "productivetrees:rubber_tree_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:rubber_tree_planks",
+      "productivetrees:rubber_tree_planks",
+      "productivetrees:rubber_tree_planks"
+    ]
+  },
+  "productivetrees:rubber_tree_button": {
+    "result": "productivetrees:rubber_tree_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:rubber_tree_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:rubber_tree_door": {
+    "result": "productivetrees:rubber_tree_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:rubber_tree_planks",
+      "productivetrees:rubber_tree_planks",
+      "",
+      "productivetrees:rubber_tree_planks",
+      "productivetrees:rubber_tree_planks",
+      "",
+      "productivetrees:rubber_tree_planks",
+      "productivetrees:rubber_tree_planks",
+      ""
+    ]
+  },
+  "productivetrees:rubber_tree_fence": {
+    "result": "productivetrees:rubber_tree_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:rubber_tree_planks",
+      "minecraft:stick",
+      "productivetrees:rubber_tree_planks",
+      "productivetrees:rubber_tree_planks",
+      "minecraft:stick",
+      "productivetrees:rubber_tree_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:rubber_tree_fence_gate": {
+    "result": "productivetrees:rubber_tree_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:rubber_tree_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:rubber_tree_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:rubber_tree_hanging_sign": {
+    "result": "productivetrees:rubber_tree_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:rubber_tree_planks",
+      "productivetrees:rubber_tree_planks",
+      "productivetrees:rubber_tree_planks",
+      "productivetrees:rubber_tree_planks",
+      "productivetrees:rubber_tree_planks",
+      "productivetrees:rubber_tree_planks"
+    ]
+  },
+  "productivetrees:rubber_tree_planks": {
+    "result": "productivetrees:rubber_tree_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:rubber_tree_pressure_plate": {
+    "result": "productivetrees:rubber_tree_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:rubber_tree_planks",
+      "productivetrees:rubber_tree_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:rubber_tree_sign": {
+    "result": "productivetrees:rubber_tree_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:rubber_tree_planks",
+      "productivetrees:rubber_tree_planks",
+      "productivetrees:rubber_tree_planks",
+      "productivetrees:rubber_tree_planks",
+      "productivetrees:rubber_tree_planks",
+      "productivetrees:rubber_tree_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:rubber_tree_slab": {
+    "result": "productivetrees:rubber_tree_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:rubber_tree_planks",
+      "productivetrees:rubber_tree_planks",
+      "productivetrees:rubber_tree_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:rubber_tree_stairs": {
+    "result": "productivetrees:rubber_tree_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:rubber_tree_planks",
+      "",
+      "",
+      "productivetrees:rubber_tree_planks",
+      "productivetrees:rubber_tree_planks",
+      "",
+      "productivetrees:rubber_tree_planks",
+      "productivetrees:rubber_tree_planks",
+      "productivetrees:rubber_tree_planks"
+    ]
+  },
+  "productivetrees:rubber_tree_trapdoor": {
+    "result": "productivetrees:rubber_tree_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:rubber_tree_planks",
+      "productivetrees:rubber_tree_planks",
+      "productivetrees:rubber_tree_planks",
+      "productivetrees:rubber_tree_planks",
+      "productivetrees:rubber_tree_planks",
+      "productivetrees:rubber_tree_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:rubber_tree_wood": {
+    "result": "productivetrees:rubber_tree_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:rubber_tree_log",
+      "productivetrees:rubber_tree_log",
+      "",
+      "productivetrees:rubber_tree_log",
+      "productivetrees:rubber_tree_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "rootsclassic:runic_tablet": {
+    "result": "rootsclassic:runic_tablet",
+    "count": 1,
+    "ingredients": [
+      "",
+      "rootsclassic:old_root",
+      "",
+      "minecraft:wheat",
+      "minecraft:stone",
+      "minecraft:wheat",
+      "",
+      "minecraft:wheat",
+      ""
+    ]
+  },
+  "silentgems:ruby": {
+    "result": "silentgems:ruby",
+    "count": 9,
+    "ingredients": [
+      "silentgems:ruby_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgems:ruby_bricks": {
+    "result": "silentgems:ruby_bricks",
+    "count": 12,
+    "ingredients": [
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:ruby",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks"
+    ]
+  },
+  "silentgems:ruby_block": {
+    "result": "silentgems:ruby_block",
+    "count": 1,
+    "ingredients": [
+      "silentgems:ruby",
+      "silentgems:ruby",
+      "silentgems:ruby",
+      "silentgems:ruby",
+      "silentgems:ruby",
+      "silentgems:ruby",
+      "silentgems:ruby",
+      "silentgems:ruby",
+      "silentgems:ruby"
+    ]
+  },
+  "silentgems:ruby_glass": {
+    "result": "silentgems:ruby_glass",
+    "count": 12,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:ruby",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass"
+    ]
+  },
+  "silentgems:ruby_lamp": {
+    "result": "silentgems:ruby_lamp",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:ruby",
+      "minecraft:stone",
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:redstone"
+    ]
+  },
+  "silentgems:ruby_lamp_inverted_on": {
+    "result": "silentgems:ruby_lamp_inverted_on",
+    "count": 1,
+    "ingredients": [
+      "silentgems:ruby_lamp",
+      "minecraft:redstone_torch",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgems:ruby_redstone_teleporter": {
+    "result": "silentgems:ruby_redstone_teleporter",
+    "count": 1,
+    "ingredients": [
+      "silentgems:ruby_teleporter",
+      "minecraft:redstone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgems:ruby_small_bricks": {
+    "result": "silentgems:ruby_small_bricks",
+    "count": 12,
+    "ingredients": [
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:ruby",
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:bricks"
+    ]
+  },
+  "silentgems:ruby_teleporter": {
+    "result": "silentgems:ruby_teleporter",
+    "count": 2,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "minecraft:ruby",
+      "minecraft:gold_ingot",
+      "minecraft:ruby",
+      "silentgems:chaos_essence_block",
+      "minecraft:ruby",
+      "",
+      "minecraft:ender_pearl",
+      ""
+    ]
+  },
+  "silentgems:ruby_tiles": {
+    "result": "silentgems:ruby_tiles",
+    "count": 12,
+    "ingredients": [
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:ruby",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles"
+    ]
+  }
+}

@@ -1,0 +1,1442 @@
+{
+  "actuallyadditions:ethetic_green_slab": {
+    "result": "actuallyadditions:ethetic_green_slab",
+    "count": 6,
+    "ingredients": [
+      "actuallyadditions:ethetic_green_block",
+      "actuallyadditions:ethetic_green_block",
+      "actuallyadditions:ethetic_green_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "actuallyadditions:ethetic_green_stairs": {
+    "result": "actuallyadditions:ethetic_green_stairs",
+    "count": 4,
+    "ingredients": [
+      "actuallyadditions:ethetic_green_block",
+      "",
+      "",
+      "actuallyadditions:ethetic_green_block",
+      "actuallyadditions:ethetic_green_block",
+      "",
+      "actuallyadditions:ethetic_green_block",
+      "actuallyadditions:ethetic_green_block",
+      "actuallyadditions:ethetic_green_block"
+    ]
+  },
+  "actuallyadditions:ethetic_green_wall": {
+    "result": "actuallyadditions:ethetic_green_wall",
+    "count": 6,
+    "ingredients": [
+      "actuallyadditions:ethetic_green_block",
+      "actuallyadditions:ethetic_green_block",
+      "actuallyadditions:ethetic_green_block",
+      "actuallyadditions:ethetic_green_block",
+      "actuallyadditions:ethetic_green_block",
+      "actuallyadditions:ethetic_green_block",
+      "",
+      "",
+      ""
+    ]
+  },
+  "actuallyadditions:ethetic_white_slab": {
+    "result": "actuallyadditions:ethetic_white_slab",
+    "count": 6,
+    "ingredients": [
+      "actuallyadditions:ethetic_white_block",
+      "actuallyadditions:ethetic_white_block",
+      "actuallyadditions:ethetic_white_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "actuallyadditions:ethetic_white_stairs": {
+    "result": "actuallyadditions:ethetic_white_stairs",
+    "count": 4,
+    "ingredients": [
+      "actuallyadditions:ethetic_white_block",
+      "",
+      "",
+      "actuallyadditions:ethetic_white_block",
+      "actuallyadditions:ethetic_white_block",
+      "",
+      "actuallyadditions:ethetic_white_block",
+      "actuallyadditions:ethetic_white_block",
+      "actuallyadditions:ethetic_white_block"
+    ]
+  },
+  "actuallyadditions:ethetic_white_wall": {
+    "result": "actuallyadditions:ethetic_white_wall",
+    "count": 6,
+    "ingredients": [
+      "actuallyadditions:ethetic_white_block",
+      "actuallyadditions:ethetic_white_block",
+      "actuallyadditions:ethetic_white_block",
+      "actuallyadditions:ethetic_white_block",
+      "actuallyadditions:ethetic_white_block",
+      "actuallyadditions:ethetic_white_block",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:eternal_starlight_banyin_bookcase": {
+    "result": "bibliocraft:eternal_starlight_banyin_bookcase",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:banyin_planks",
+      "eternal_starlight:banyin_slab",
+      "eternal_starlight:banyin_planks",
+      "eternal_starlight:banyin_planks",
+      "eternal_starlight:banyin_slab",
+      "eternal_starlight:banyin_planks",
+      "eternal_starlight:banyin_planks",
+      "eternal_starlight:banyin_slab",
+      "eternal_starlight:banyin_planks"
+    ]
+  },
+  "bibliocraft:eternal_starlight_banyin_fancy_armor_stand": {
+    "result": "bibliocraft:eternal_starlight_banyin_fancy_armor_stand",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "eternal_starlight:banyin_slab",
+      "eternal_starlight:banyin_slab",
+      "eternal_starlight:banyin_slab"
+    ]
+  },
+  "bibliocraft:eternal_starlight_banyin_fancy_clock": {
+    "result": "bibliocraft:eternal_starlight_banyin_fancy_clock",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:banyin_slab",
+      "minecraft:clock",
+      "eternal_starlight:banyin_slab",
+      "eternal_starlight:banyin_slab",
+      "minecraft:stick",
+      "eternal_starlight:banyin_slab",
+      "eternal_starlight:banyin_slab",
+      "minecraft:copper_ingot",
+      "eternal_starlight:banyin_slab"
+    ]
+  },
+  "bibliocraft:eternal_starlight_banyin_fancy_crafter": {
+    "result": "bibliocraft:eternal_starlight_banyin_fancy_crafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black",
+      "minecraft:crafting_tables",
+      "minecraft:feather",
+      "eternal_starlight:banyin_planks",
+      "minecraft:glass",
+      "eternal_starlight:banyin_planks",
+      "eternal_starlight:banyin_planks",
+      "minecraft:crafter",
+      "eternal_starlight:banyin_planks"
+    ]
+  },
+  "bibliocraft:eternal_starlight_banyin_fancy_sign": {
+    "result": "bibliocraft:eternal_starlight_banyin_fancy_sign",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:banyin_planks",
+      "minecraft:paper",
+      "eternal_starlight:banyin_planks",
+      "eternal_starlight:banyin_planks",
+      "minecraft:paper",
+      "eternal_starlight:banyin_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "bibliocraft:eternal_starlight_banyin_grandfather_clock": {
+    "result": "bibliocraft:eternal_starlight_banyin_grandfather_clock",
+    "count": 1,
+    "ingredients": [
+      "bibliocraft:eternal_starlight_banyin_fancy_clock",
+      "bibliocraft:eternal_starlight_banyin_fancy_clock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:eternal_starlight_banyin_label": {
+    "result": "bibliocraft:eternal_starlight_banyin_label",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:banyin_slab",
+      "eternal_starlight:banyin_slab",
+      "eternal_starlight:banyin_slab",
+      "eternal_starlight:banyin_slab",
+      "eternal_starlight:banyin_slab",
+      "eternal_starlight:banyin_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:eternal_starlight_banyin_potion_shelf": {
+    "result": "bibliocraft:eternal_starlight_banyin_potion_shelf",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:banyin_slab",
+      "eternal_starlight:banyin_slab",
+      "eternal_starlight:banyin_slab",
+      "eternal_starlight:banyin_planks",
+      "minecraft:glass_bottle",
+      "eternal_starlight:banyin_planks",
+      "eternal_starlight:banyin_slab",
+      "eternal_starlight:banyin_slab",
+      "eternal_starlight:banyin_slab"
+    ]
+  },
+  "bibliocraft:eternal_starlight_banyin_shelf": {
+    "result": "bibliocraft:eternal_starlight_banyin_shelf",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:banyin_slab",
+      "eternal_starlight:banyin_slab",
+      "eternal_starlight:banyin_slab",
+      "",
+      "eternal_starlight:banyin_planks",
+      "",
+      "eternal_starlight:banyin_slab",
+      "eternal_starlight:banyin_slab",
+      "eternal_starlight:banyin_slab"
+    ]
+  },
+  "bibliocraft:eternal_starlight_banyin_table": {
+    "result": "bibliocraft:eternal_starlight_banyin_table",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:banyin_slab",
+      "eternal_starlight:banyin_slab",
+      "eternal_starlight:banyin_slab",
+      "",
+      "eternal_starlight:banyin_planks",
+      "",
+      "",
+      "eternal_starlight:banyin_planks",
+      ""
+    ]
+  },
+  "bibliocraft:eternal_starlight_banyin_tool_rack": {
+    "result": "bibliocraft:eternal_starlight_banyin_tool_rack",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:banyin_slab",
+      "eternal_starlight:banyin_slab",
+      "eternal_starlight:banyin_slab",
+      "eternal_starlight:banyin_slab",
+      "minecraft:iron_ingot",
+      "eternal_starlight:banyin_slab",
+      "eternal_starlight:banyin_slab",
+      "eternal_starlight:banyin_slab",
+      "eternal_starlight:banyin_slab"
+    ]
+  },
+  "bibliocraft:eternal_starlight_cradlewood_bookcase": {
+    "result": "bibliocraft:eternal_starlight_cradlewood_bookcase",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:cradlewood_planks",
+      "eternal_starlight:cradlewood_slab",
+      "eternal_starlight:cradlewood_planks",
+      "eternal_starlight:cradlewood_planks",
+      "eternal_starlight:cradlewood_slab",
+      "eternal_starlight:cradlewood_planks",
+      "eternal_starlight:cradlewood_planks",
+      "eternal_starlight:cradlewood_slab",
+      "eternal_starlight:cradlewood_planks"
+    ]
+  },
+  "bibliocraft:eternal_starlight_cradlewood_fancy_armor_stand": {
+    "result": "bibliocraft:eternal_starlight_cradlewood_fancy_armor_stand",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "eternal_starlight:cradlewood_slab",
+      "eternal_starlight:cradlewood_slab",
+      "eternal_starlight:cradlewood_slab"
+    ]
+  },
+  "bibliocraft:eternal_starlight_cradlewood_fancy_clock": {
+    "result": "bibliocraft:eternal_starlight_cradlewood_fancy_clock",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:cradlewood_slab",
+      "minecraft:clock",
+      "eternal_starlight:cradlewood_slab",
+      "eternal_starlight:cradlewood_slab",
+      "minecraft:stick",
+      "eternal_starlight:cradlewood_slab",
+      "eternal_starlight:cradlewood_slab",
+      "minecraft:copper_ingot",
+      "eternal_starlight:cradlewood_slab"
+    ]
+  },
+  "bibliocraft:eternal_starlight_cradlewood_fancy_crafter": {
+    "result": "bibliocraft:eternal_starlight_cradlewood_fancy_crafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black",
+      "minecraft:crafting_tables",
+      "minecraft:feather",
+      "eternal_starlight:cradlewood_planks",
+      "minecraft:glass",
+      "eternal_starlight:cradlewood_planks",
+      "eternal_starlight:cradlewood_planks",
+      "minecraft:crafter",
+      "eternal_starlight:cradlewood_planks"
+    ]
+  },
+  "bibliocraft:eternal_starlight_cradlewood_fancy_sign": {
+    "result": "bibliocraft:eternal_starlight_cradlewood_fancy_sign",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:cradlewood_planks",
+      "minecraft:paper",
+      "eternal_starlight:cradlewood_planks",
+      "eternal_starlight:cradlewood_planks",
+      "minecraft:paper",
+      "eternal_starlight:cradlewood_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "bibliocraft:eternal_starlight_cradlewood_grandfather_clock": {
+    "result": "bibliocraft:eternal_starlight_cradlewood_grandfather_clock",
+    "count": 1,
+    "ingredients": [
+      "bibliocraft:eternal_starlight_cradlewood_fancy_clock",
+      "bibliocraft:eternal_starlight_cradlewood_fancy_clock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:eternal_starlight_cradlewood_label": {
+    "result": "bibliocraft:eternal_starlight_cradlewood_label",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:cradlewood_slab",
+      "eternal_starlight:cradlewood_slab",
+      "eternal_starlight:cradlewood_slab",
+      "eternal_starlight:cradlewood_slab",
+      "eternal_starlight:cradlewood_slab",
+      "eternal_starlight:cradlewood_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:eternal_starlight_cradlewood_potion_shelf": {
+    "result": "bibliocraft:eternal_starlight_cradlewood_potion_shelf",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:cradlewood_slab",
+      "eternal_starlight:cradlewood_slab",
+      "eternal_starlight:cradlewood_slab",
+      "eternal_starlight:cradlewood_planks",
+      "minecraft:glass_bottle",
+      "eternal_starlight:cradlewood_planks",
+      "eternal_starlight:cradlewood_slab",
+      "eternal_starlight:cradlewood_slab",
+      "eternal_starlight:cradlewood_slab"
+    ]
+  },
+  "bibliocraft:eternal_starlight_cradlewood_shelf": {
+    "result": "bibliocraft:eternal_starlight_cradlewood_shelf",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:cradlewood_slab",
+      "eternal_starlight:cradlewood_slab",
+      "eternal_starlight:cradlewood_slab",
+      "",
+      "eternal_starlight:cradlewood_planks",
+      "",
+      "eternal_starlight:cradlewood_slab",
+      "eternal_starlight:cradlewood_slab",
+      "eternal_starlight:cradlewood_slab"
+    ]
+  },
+  "bibliocraft:eternal_starlight_cradlewood_table": {
+    "result": "bibliocraft:eternal_starlight_cradlewood_table",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:cradlewood_slab",
+      "eternal_starlight:cradlewood_slab",
+      "eternal_starlight:cradlewood_slab",
+      "",
+      "eternal_starlight:cradlewood_planks",
+      "",
+      "",
+      "eternal_starlight:cradlewood_planks",
+      ""
+    ]
+  },
+  "bibliocraft:eternal_starlight_cradlewood_tool_rack": {
+    "result": "bibliocraft:eternal_starlight_cradlewood_tool_rack",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:cradlewood_slab",
+      "eternal_starlight:cradlewood_slab",
+      "eternal_starlight:cradlewood_slab",
+      "eternal_starlight:cradlewood_slab",
+      "minecraft:iron_ingot",
+      "eternal_starlight:cradlewood_slab",
+      "eternal_starlight:cradlewood_slab",
+      "eternal_starlight:cradlewood_slab",
+      "eternal_starlight:cradlewood_slab"
+    ]
+  },
+  "bibliocraft:eternal_starlight_jinglestem_bookcase": {
+    "result": "bibliocraft:eternal_starlight_jinglestem_bookcase",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:jinglestem_planks",
+      "eternal_starlight:jinglestem_slab",
+      "eternal_starlight:jinglestem_planks",
+      "eternal_starlight:jinglestem_planks",
+      "eternal_starlight:jinglestem_slab",
+      "eternal_starlight:jinglestem_planks",
+      "eternal_starlight:jinglestem_planks",
+      "eternal_starlight:jinglestem_slab",
+      "eternal_starlight:jinglestem_planks"
+    ]
+  },
+  "bibliocraft:eternal_starlight_jinglestem_fancy_armor_stand": {
+    "result": "bibliocraft:eternal_starlight_jinglestem_fancy_armor_stand",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "eternal_starlight:jinglestem_slab",
+      "eternal_starlight:jinglestem_slab",
+      "eternal_starlight:jinglestem_slab"
+    ]
+  },
+  "bibliocraft:eternal_starlight_jinglestem_fancy_clock": {
+    "result": "bibliocraft:eternal_starlight_jinglestem_fancy_clock",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:jinglestem_slab",
+      "minecraft:clock",
+      "eternal_starlight:jinglestem_slab",
+      "eternal_starlight:jinglestem_slab",
+      "minecraft:stick",
+      "eternal_starlight:jinglestem_slab",
+      "eternal_starlight:jinglestem_slab",
+      "minecraft:copper_ingot",
+      "eternal_starlight:jinglestem_slab"
+    ]
+  },
+  "bibliocraft:eternal_starlight_jinglestem_fancy_crafter": {
+    "result": "bibliocraft:eternal_starlight_jinglestem_fancy_crafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black",
+      "minecraft:crafting_tables",
+      "minecraft:feather",
+      "eternal_starlight:jinglestem_planks",
+      "minecraft:glass",
+      "eternal_starlight:jinglestem_planks",
+      "eternal_starlight:jinglestem_planks",
+      "minecraft:crafter",
+      "eternal_starlight:jinglestem_planks"
+    ]
+  },
+  "bibliocraft:eternal_starlight_jinglestem_fancy_sign": {
+    "result": "bibliocraft:eternal_starlight_jinglestem_fancy_sign",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:jinglestem_planks",
+      "minecraft:paper",
+      "eternal_starlight:jinglestem_planks",
+      "eternal_starlight:jinglestem_planks",
+      "minecraft:paper",
+      "eternal_starlight:jinglestem_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "bibliocraft:eternal_starlight_jinglestem_grandfather_clock": {
+    "result": "bibliocraft:eternal_starlight_jinglestem_grandfather_clock",
+    "count": 1,
+    "ingredients": [
+      "bibliocraft:eternal_starlight_jinglestem_fancy_clock",
+      "bibliocraft:eternal_starlight_jinglestem_fancy_clock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:eternal_starlight_jinglestem_label": {
+    "result": "bibliocraft:eternal_starlight_jinglestem_label",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:jinglestem_slab",
+      "eternal_starlight:jinglestem_slab",
+      "eternal_starlight:jinglestem_slab",
+      "eternal_starlight:jinglestem_slab",
+      "eternal_starlight:jinglestem_slab",
+      "eternal_starlight:jinglestem_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:eternal_starlight_jinglestem_potion_shelf": {
+    "result": "bibliocraft:eternal_starlight_jinglestem_potion_shelf",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:jinglestem_slab",
+      "eternal_starlight:jinglestem_slab",
+      "eternal_starlight:jinglestem_slab",
+      "eternal_starlight:jinglestem_planks",
+      "minecraft:glass_bottle",
+      "eternal_starlight:jinglestem_planks",
+      "eternal_starlight:jinglestem_slab",
+      "eternal_starlight:jinglestem_slab",
+      "eternal_starlight:jinglestem_slab"
+    ]
+  },
+  "bibliocraft:eternal_starlight_jinglestem_shelf": {
+    "result": "bibliocraft:eternal_starlight_jinglestem_shelf",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:jinglestem_slab",
+      "eternal_starlight:jinglestem_slab",
+      "eternal_starlight:jinglestem_slab",
+      "",
+      "eternal_starlight:jinglestem_planks",
+      "",
+      "eternal_starlight:jinglestem_slab",
+      "eternal_starlight:jinglestem_slab",
+      "eternal_starlight:jinglestem_slab"
+    ]
+  },
+  "bibliocraft:eternal_starlight_jinglestem_table": {
+    "result": "bibliocraft:eternal_starlight_jinglestem_table",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:jinglestem_slab",
+      "eternal_starlight:jinglestem_slab",
+      "eternal_starlight:jinglestem_slab",
+      "",
+      "eternal_starlight:jinglestem_planks",
+      "",
+      "",
+      "eternal_starlight:jinglestem_planks",
+      ""
+    ]
+  },
+  "bibliocraft:eternal_starlight_jinglestem_tool_rack": {
+    "result": "bibliocraft:eternal_starlight_jinglestem_tool_rack",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:jinglestem_slab",
+      "eternal_starlight:jinglestem_slab",
+      "eternal_starlight:jinglestem_slab",
+      "eternal_starlight:jinglestem_slab",
+      "minecraft:iron_ingot",
+      "eternal_starlight:jinglestem_slab",
+      "eternal_starlight:jinglestem_slab",
+      "eternal_starlight:jinglestem_slab",
+      "eternal_starlight:jinglestem_slab"
+    ]
+  },
+  "bibliocraft:eternal_starlight_lunar_bookcase": {
+    "result": "bibliocraft:eternal_starlight_lunar_bookcase",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:lunar_planks",
+      "eternal_starlight:lunar_slab",
+      "eternal_starlight:lunar_planks",
+      "eternal_starlight:lunar_planks",
+      "eternal_starlight:lunar_slab",
+      "eternal_starlight:lunar_planks",
+      "eternal_starlight:lunar_planks",
+      "eternal_starlight:lunar_slab",
+      "eternal_starlight:lunar_planks"
+    ]
+  },
+  "bibliocraft:eternal_starlight_lunar_fancy_armor_stand": {
+    "result": "bibliocraft:eternal_starlight_lunar_fancy_armor_stand",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "eternal_starlight:lunar_slab",
+      "eternal_starlight:lunar_slab",
+      "eternal_starlight:lunar_slab"
+    ]
+  },
+  "bibliocraft:eternal_starlight_lunar_fancy_clock": {
+    "result": "bibliocraft:eternal_starlight_lunar_fancy_clock",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:lunar_slab",
+      "minecraft:clock",
+      "eternal_starlight:lunar_slab",
+      "eternal_starlight:lunar_slab",
+      "minecraft:stick",
+      "eternal_starlight:lunar_slab",
+      "eternal_starlight:lunar_slab",
+      "minecraft:copper_ingot",
+      "eternal_starlight:lunar_slab"
+    ]
+  },
+  "bibliocraft:eternal_starlight_lunar_fancy_crafter": {
+    "result": "bibliocraft:eternal_starlight_lunar_fancy_crafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black",
+      "minecraft:crafting_tables",
+      "minecraft:feather",
+      "eternal_starlight:lunar_planks",
+      "minecraft:glass",
+      "eternal_starlight:lunar_planks",
+      "eternal_starlight:lunar_planks",
+      "minecraft:crafter",
+      "eternal_starlight:lunar_planks"
+    ]
+  },
+  "bibliocraft:eternal_starlight_lunar_fancy_sign": {
+    "result": "bibliocraft:eternal_starlight_lunar_fancy_sign",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:lunar_planks",
+      "minecraft:paper",
+      "eternal_starlight:lunar_planks",
+      "eternal_starlight:lunar_planks",
+      "minecraft:paper",
+      "eternal_starlight:lunar_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "bibliocraft:eternal_starlight_lunar_grandfather_clock": {
+    "result": "bibliocraft:eternal_starlight_lunar_grandfather_clock",
+    "count": 1,
+    "ingredients": [
+      "bibliocraft:eternal_starlight_lunar_fancy_clock",
+      "bibliocraft:eternal_starlight_lunar_fancy_clock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:eternal_starlight_lunar_label": {
+    "result": "bibliocraft:eternal_starlight_lunar_label",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:lunar_slab",
+      "eternal_starlight:lunar_slab",
+      "eternal_starlight:lunar_slab",
+      "eternal_starlight:lunar_slab",
+      "eternal_starlight:lunar_slab",
+      "eternal_starlight:lunar_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:eternal_starlight_lunar_potion_shelf": {
+    "result": "bibliocraft:eternal_starlight_lunar_potion_shelf",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:lunar_slab",
+      "eternal_starlight:lunar_slab",
+      "eternal_starlight:lunar_slab",
+      "eternal_starlight:lunar_planks",
+      "minecraft:glass_bottle",
+      "eternal_starlight:lunar_planks",
+      "eternal_starlight:lunar_slab",
+      "eternal_starlight:lunar_slab",
+      "eternal_starlight:lunar_slab"
+    ]
+  },
+  "bibliocraft:eternal_starlight_lunar_shelf": {
+    "result": "bibliocraft:eternal_starlight_lunar_shelf",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:lunar_slab",
+      "eternal_starlight:lunar_slab",
+      "eternal_starlight:lunar_slab",
+      "",
+      "eternal_starlight:lunar_planks",
+      "",
+      "eternal_starlight:lunar_slab",
+      "eternal_starlight:lunar_slab",
+      "eternal_starlight:lunar_slab"
+    ]
+  },
+  "bibliocraft:eternal_starlight_lunar_table": {
+    "result": "bibliocraft:eternal_starlight_lunar_table",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:lunar_slab",
+      "eternal_starlight:lunar_slab",
+      "eternal_starlight:lunar_slab",
+      "",
+      "eternal_starlight:lunar_planks",
+      "",
+      "",
+      "eternal_starlight:lunar_planks",
+      ""
+    ]
+  },
+  "bibliocraft:eternal_starlight_lunar_tool_rack": {
+    "result": "bibliocraft:eternal_starlight_lunar_tool_rack",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:lunar_slab",
+      "eternal_starlight:lunar_slab",
+      "eternal_starlight:lunar_slab",
+      "eternal_starlight:lunar_slab",
+      "minecraft:iron_ingot",
+      "eternal_starlight:lunar_slab",
+      "eternal_starlight:lunar_slab",
+      "eternal_starlight:lunar_slab",
+      "eternal_starlight:lunar_slab"
+    ]
+  },
+  "bibliocraft:eternal_starlight_northland_bookcase": {
+    "result": "bibliocraft:eternal_starlight_northland_bookcase",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:northland_planks",
+      "eternal_starlight:northland_slab",
+      "eternal_starlight:northland_planks",
+      "eternal_starlight:northland_planks",
+      "eternal_starlight:northland_slab",
+      "eternal_starlight:northland_planks",
+      "eternal_starlight:northland_planks",
+      "eternal_starlight:northland_slab",
+      "eternal_starlight:northland_planks"
+    ]
+  },
+  "bibliocraft:eternal_starlight_northland_fancy_armor_stand": {
+    "result": "bibliocraft:eternal_starlight_northland_fancy_armor_stand",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "eternal_starlight:northland_slab",
+      "eternal_starlight:northland_slab",
+      "eternal_starlight:northland_slab"
+    ]
+  },
+  "bibliocraft:eternal_starlight_northland_fancy_clock": {
+    "result": "bibliocraft:eternal_starlight_northland_fancy_clock",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:northland_slab",
+      "minecraft:clock",
+      "eternal_starlight:northland_slab",
+      "eternal_starlight:northland_slab",
+      "minecraft:stick",
+      "eternal_starlight:northland_slab",
+      "eternal_starlight:northland_slab",
+      "minecraft:copper_ingot",
+      "eternal_starlight:northland_slab"
+    ]
+  },
+  "bibliocraft:eternal_starlight_northland_fancy_crafter": {
+    "result": "bibliocraft:eternal_starlight_northland_fancy_crafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black",
+      "minecraft:crafting_tables",
+      "minecraft:feather",
+      "eternal_starlight:northland_planks",
+      "minecraft:glass",
+      "eternal_starlight:northland_planks",
+      "eternal_starlight:northland_planks",
+      "minecraft:crafter",
+      "eternal_starlight:northland_planks"
+    ]
+  },
+  "bibliocraft:eternal_starlight_northland_fancy_sign": {
+    "result": "bibliocraft:eternal_starlight_northland_fancy_sign",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:northland_planks",
+      "minecraft:paper",
+      "eternal_starlight:northland_planks",
+      "eternal_starlight:northland_planks",
+      "minecraft:paper",
+      "eternal_starlight:northland_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "bibliocraft:eternal_starlight_northland_grandfather_clock": {
+    "result": "bibliocraft:eternal_starlight_northland_grandfather_clock",
+    "count": 1,
+    "ingredients": [
+      "bibliocraft:eternal_starlight_northland_fancy_clock",
+      "bibliocraft:eternal_starlight_northland_fancy_clock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:eternal_starlight_northland_label": {
+    "result": "bibliocraft:eternal_starlight_northland_label",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:northland_slab",
+      "eternal_starlight:northland_slab",
+      "eternal_starlight:northland_slab",
+      "eternal_starlight:northland_slab",
+      "eternal_starlight:northland_slab",
+      "eternal_starlight:northland_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:eternal_starlight_northland_potion_shelf": {
+    "result": "bibliocraft:eternal_starlight_northland_potion_shelf",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:northland_slab",
+      "eternal_starlight:northland_slab",
+      "eternal_starlight:northland_slab",
+      "eternal_starlight:northland_planks",
+      "minecraft:glass_bottle",
+      "eternal_starlight:northland_planks",
+      "eternal_starlight:northland_slab",
+      "eternal_starlight:northland_slab",
+      "eternal_starlight:northland_slab"
+    ]
+  },
+  "bibliocraft:eternal_starlight_northland_shelf": {
+    "result": "bibliocraft:eternal_starlight_northland_shelf",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:northland_slab",
+      "eternal_starlight:northland_slab",
+      "eternal_starlight:northland_slab",
+      "",
+      "eternal_starlight:northland_planks",
+      "",
+      "eternal_starlight:northland_slab",
+      "eternal_starlight:northland_slab",
+      "eternal_starlight:northland_slab"
+    ]
+  },
+  "bibliocraft:eternal_starlight_northland_table": {
+    "result": "bibliocraft:eternal_starlight_northland_table",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:northland_slab",
+      "eternal_starlight:northland_slab",
+      "eternal_starlight:northland_slab",
+      "",
+      "eternal_starlight:northland_planks",
+      "",
+      "",
+      "eternal_starlight:northland_planks",
+      ""
+    ]
+  },
+  "bibliocraft:eternal_starlight_northland_tool_rack": {
+    "result": "bibliocraft:eternal_starlight_northland_tool_rack",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:northland_slab",
+      "eternal_starlight:northland_slab",
+      "eternal_starlight:northland_slab",
+      "eternal_starlight:northland_slab",
+      "minecraft:iron_ingot",
+      "eternal_starlight:northland_slab",
+      "eternal_starlight:northland_slab",
+      "eternal_starlight:northland_slab",
+      "eternal_starlight:northland_slab"
+    ]
+  },
+  "bibliocraft:eternal_starlight_scarlet_bookcase": {
+    "result": "bibliocraft:eternal_starlight_scarlet_bookcase",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:scarlet_planks",
+      "eternal_starlight:scarlet_slab",
+      "eternal_starlight:scarlet_planks",
+      "eternal_starlight:scarlet_planks",
+      "eternal_starlight:scarlet_slab",
+      "eternal_starlight:scarlet_planks",
+      "eternal_starlight:scarlet_planks",
+      "eternal_starlight:scarlet_slab",
+      "eternal_starlight:scarlet_planks"
+    ]
+  },
+  "bibliocraft:eternal_starlight_scarlet_fancy_armor_stand": {
+    "result": "bibliocraft:eternal_starlight_scarlet_fancy_armor_stand",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "eternal_starlight:scarlet_slab",
+      "eternal_starlight:scarlet_slab",
+      "eternal_starlight:scarlet_slab"
+    ]
+  },
+  "bibliocraft:eternal_starlight_scarlet_fancy_clock": {
+    "result": "bibliocraft:eternal_starlight_scarlet_fancy_clock",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:scarlet_slab",
+      "minecraft:clock",
+      "eternal_starlight:scarlet_slab",
+      "eternal_starlight:scarlet_slab",
+      "minecraft:stick",
+      "eternal_starlight:scarlet_slab",
+      "eternal_starlight:scarlet_slab",
+      "minecraft:copper_ingot",
+      "eternal_starlight:scarlet_slab"
+    ]
+  },
+  "bibliocraft:eternal_starlight_scarlet_fancy_crafter": {
+    "result": "bibliocraft:eternal_starlight_scarlet_fancy_crafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black",
+      "minecraft:crafting_tables",
+      "minecraft:feather",
+      "eternal_starlight:scarlet_planks",
+      "minecraft:glass",
+      "eternal_starlight:scarlet_planks",
+      "eternal_starlight:scarlet_planks",
+      "minecraft:crafter",
+      "eternal_starlight:scarlet_planks"
+    ]
+  },
+  "bibliocraft:eternal_starlight_scarlet_fancy_sign": {
+    "result": "bibliocraft:eternal_starlight_scarlet_fancy_sign",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:scarlet_planks",
+      "minecraft:paper",
+      "eternal_starlight:scarlet_planks",
+      "eternal_starlight:scarlet_planks",
+      "minecraft:paper",
+      "eternal_starlight:scarlet_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "bibliocraft:eternal_starlight_scarlet_grandfather_clock": {
+    "result": "bibliocraft:eternal_starlight_scarlet_grandfather_clock",
+    "count": 1,
+    "ingredients": [
+      "bibliocraft:eternal_starlight_scarlet_fancy_clock",
+      "bibliocraft:eternal_starlight_scarlet_fancy_clock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:eternal_starlight_scarlet_label": {
+    "result": "bibliocraft:eternal_starlight_scarlet_label",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:scarlet_slab",
+      "eternal_starlight:scarlet_slab",
+      "eternal_starlight:scarlet_slab",
+      "eternal_starlight:scarlet_slab",
+      "eternal_starlight:scarlet_slab",
+      "eternal_starlight:scarlet_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:eternal_starlight_scarlet_potion_shelf": {
+    "result": "bibliocraft:eternal_starlight_scarlet_potion_shelf",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:scarlet_slab",
+      "eternal_starlight:scarlet_slab",
+      "eternal_starlight:scarlet_slab",
+      "eternal_starlight:scarlet_planks",
+      "minecraft:glass_bottle",
+      "eternal_starlight:scarlet_planks",
+      "eternal_starlight:scarlet_slab",
+      "eternal_starlight:scarlet_slab",
+      "eternal_starlight:scarlet_slab"
+    ]
+  },
+  "bibliocraft:eternal_starlight_scarlet_shelf": {
+    "result": "bibliocraft:eternal_starlight_scarlet_shelf",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:scarlet_slab",
+      "eternal_starlight:scarlet_slab",
+      "eternal_starlight:scarlet_slab",
+      "",
+      "eternal_starlight:scarlet_planks",
+      "",
+      "eternal_starlight:scarlet_slab",
+      "eternal_starlight:scarlet_slab",
+      "eternal_starlight:scarlet_slab"
+    ]
+  },
+  "bibliocraft:eternal_starlight_scarlet_table": {
+    "result": "bibliocraft:eternal_starlight_scarlet_table",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:scarlet_slab",
+      "eternal_starlight:scarlet_slab",
+      "eternal_starlight:scarlet_slab",
+      "",
+      "eternal_starlight:scarlet_planks",
+      "",
+      "",
+      "eternal_starlight:scarlet_planks",
+      ""
+    ]
+  },
+  "bibliocraft:eternal_starlight_scarlet_tool_rack": {
+    "result": "bibliocraft:eternal_starlight_scarlet_tool_rack",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:scarlet_slab",
+      "eternal_starlight:scarlet_slab",
+      "eternal_starlight:scarlet_slab",
+      "eternal_starlight:scarlet_slab",
+      "minecraft:iron_ingot",
+      "eternal_starlight:scarlet_slab",
+      "eternal_starlight:scarlet_slab",
+      "eternal_starlight:scarlet_slab",
+      "eternal_starlight:scarlet_slab"
+    ]
+  },
+  "bibliocraft:eternal_starlight_torreya_bookcase": {
+    "result": "bibliocraft:eternal_starlight_torreya_bookcase",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:torreya_planks",
+      "eternal_starlight:torreya_slab",
+      "eternal_starlight:torreya_planks",
+      "eternal_starlight:torreya_planks",
+      "eternal_starlight:torreya_slab",
+      "eternal_starlight:torreya_planks",
+      "eternal_starlight:torreya_planks",
+      "eternal_starlight:torreya_slab",
+      "eternal_starlight:torreya_planks"
+    ]
+  },
+  "bibliocraft:eternal_starlight_torreya_fancy_armor_stand": {
+    "result": "bibliocraft:eternal_starlight_torreya_fancy_armor_stand",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "eternal_starlight:torreya_slab",
+      "eternal_starlight:torreya_slab",
+      "eternal_starlight:torreya_slab"
+    ]
+  },
+  "bibliocraft:eternal_starlight_torreya_fancy_clock": {
+    "result": "bibliocraft:eternal_starlight_torreya_fancy_clock",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:torreya_slab",
+      "minecraft:clock",
+      "eternal_starlight:torreya_slab",
+      "eternal_starlight:torreya_slab",
+      "minecraft:stick",
+      "eternal_starlight:torreya_slab",
+      "eternal_starlight:torreya_slab",
+      "minecraft:copper_ingot",
+      "eternal_starlight:torreya_slab"
+    ]
+  },
+  "bibliocraft:eternal_starlight_torreya_fancy_crafter": {
+    "result": "bibliocraft:eternal_starlight_torreya_fancy_crafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black",
+      "minecraft:crafting_tables",
+      "minecraft:feather",
+      "eternal_starlight:torreya_planks",
+      "minecraft:glass",
+      "eternal_starlight:torreya_planks",
+      "eternal_starlight:torreya_planks",
+      "minecraft:crafter",
+      "eternal_starlight:torreya_planks"
+    ]
+  },
+  "bibliocraft:eternal_starlight_torreya_fancy_sign": {
+    "result": "bibliocraft:eternal_starlight_torreya_fancy_sign",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:torreya_planks",
+      "minecraft:paper",
+      "eternal_starlight:torreya_planks",
+      "eternal_starlight:torreya_planks",
+      "minecraft:paper",
+      "eternal_starlight:torreya_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "bibliocraft:eternal_starlight_torreya_grandfather_clock": {
+    "result": "bibliocraft:eternal_starlight_torreya_grandfather_clock",
+    "count": 1,
+    "ingredients": [
+      "bibliocraft:eternal_starlight_torreya_fancy_clock",
+      "bibliocraft:eternal_starlight_torreya_fancy_clock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:eternal_starlight_torreya_label": {
+    "result": "bibliocraft:eternal_starlight_torreya_label",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:torreya_slab",
+      "eternal_starlight:torreya_slab",
+      "eternal_starlight:torreya_slab",
+      "eternal_starlight:torreya_slab",
+      "eternal_starlight:torreya_slab",
+      "eternal_starlight:torreya_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:eternal_starlight_torreya_potion_shelf": {
+    "result": "bibliocraft:eternal_starlight_torreya_potion_shelf",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:torreya_slab",
+      "eternal_starlight:torreya_slab",
+      "eternal_starlight:torreya_slab",
+      "eternal_starlight:torreya_planks",
+      "minecraft:glass_bottle",
+      "eternal_starlight:torreya_planks",
+      "eternal_starlight:torreya_slab",
+      "eternal_starlight:torreya_slab",
+      "eternal_starlight:torreya_slab"
+    ]
+  },
+  "bibliocraft:eternal_starlight_torreya_shelf": {
+    "result": "bibliocraft:eternal_starlight_torreya_shelf",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:torreya_slab",
+      "eternal_starlight:torreya_slab",
+      "eternal_starlight:torreya_slab",
+      "",
+      "eternal_starlight:torreya_planks",
+      "",
+      "eternal_starlight:torreya_slab",
+      "eternal_starlight:torreya_slab",
+      "eternal_starlight:torreya_slab"
+    ]
+  },
+  "bibliocraft:eternal_starlight_torreya_table": {
+    "result": "bibliocraft:eternal_starlight_torreya_table",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:torreya_slab",
+      "eternal_starlight:torreya_slab",
+      "eternal_starlight:torreya_slab",
+      "",
+      "eternal_starlight:torreya_planks",
+      "",
+      "",
+      "eternal_starlight:torreya_planks",
+      ""
+    ]
+  },
+  "bibliocraft:eternal_starlight_torreya_tool_rack": {
+    "result": "bibliocraft:eternal_starlight_torreya_tool_rack",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:torreya_slab",
+      "eternal_starlight:torreya_slab",
+      "eternal_starlight:torreya_slab",
+      "eternal_starlight:torreya_slab",
+      "minecraft:iron_ingot",
+      "eternal_starlight:torreya_slab",
+      "eternal_starlight:torreya_slab",
+      "eternal_starlight:torreya_slab",
+      "eternal_starlight:torreya_slab"
+    ]
+  },
+  "eternal_starlight:eternal_ice_bricks": {
+    "result": "eternal_starlight:eternal_ice_bricks",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:eternal_ice",
+      "eternal_starlight:eternal_ice",
+      "",
+      "eternal_starlight:eternal_ice",
+      "eternal_starlight:eternal_ice",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:eternal_ice_brick_slab": {
+    "result": "eternal_starlight:eternal_ice_brick_slab",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:eternal_ice_bricks",
+      "eternal_starlight:eternal_ice_bricks",
+      "eternal_starlight:eternal_ice_bricks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:eternal_ice_brick_stairs": {
+    "result": "eternal_starlight:eternal_ice_brick_stairs",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:eternal_ice_bricks",
+      "",
+      "",
+      "eternal_starlight:eternal_ice_bricks",
+      "eternal_starlight:eternal_ice_bricks",
+      "",
+      "eternal_starlight:eternal_ice_bricks",
+      "eternal_starlight:eternal_ice_bricks",
+      "eternal_starlight:eternal_ice_bricks"
+    ]
+  },
+  "eternal_starlight:eternal_ice_brick_wall": {
+    "result": "eternal_starlight:eternal_ice_brick_wall",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:eternal_ice_bricks",
+      "eternal_starlight:eternal_ice_bricks",
+      "eternal_starlight:eternal_ice_bricks",
+      "eternal_starlight:eternal_ice_bricks",
+      "eternal_starlight:eternal_ice_bricks",
+      "eternal_starlight:eternal_ice_bricks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:eternal_ice_lantern": {
+    "result": "eternal_starlight:eternal_ice_lantern",
+    "count": 1,
+    "ingredients": [
+      "",
+      "eternal_starlight:eternal_ice",
+      "",
+      "eternal_starlight:eternal_ice",
+      "minecraft:torch",
+      "eternal_starlight:eternal_ice",
+      "",
+      "eternal_starlight:eternal_ice",
+      ""
+    ]
+  },
+  "eternal_starlight:etheric_eye": {
+    "result": "eternal_starlight:etheric_eye",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:quartz",
+      "",
+      "minecraft:quartz",
+      "eternal_starlight:seeking_eye",
+      "minecraft:quartz",
+      "",
+      "minecraft:quartz",
+      ""
+    ]
+  },
+  "glassential:ethereal_door": {
+    "result": "glassential:ethereal_door",
+    "count": 3,
+    "ingredients": [
+      "glassential:glass_ethereal",
+      "glassential:glass_ethereal",
+      "",
+      "glassential:glass_ethereal",
+      "glassential:glass_ethereal",
+      "",
+      "glassential:glass_ethereal",
+      "glassential:glass_ethereal",
+      ""
+    ]
+  },
+  "glassential:ethereal_reverse_door": {
+    "result": "glassential:ethereal_reverse_door",
+    "count": 3,
+    "ingredients": [
+      "glassential:glass_ethereal_reverse",
+      "glassential:glass_ethereal_reverse",
+      "",
+      "glassential:glass_ethereal_reverse",
+      "glassential:glass_ethereal_reverse",
+      "",
+      "glassential:glass_ethereal_reverse",
+      "glassential:glass_ethereal_reverse",
+      ""
+    ]
+  },
+  "glassential:ethereal_reverse_trapdoor": {
+    "result": "glassential:ethereal_reverse_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "glassential:glass_ethereal_reverse",
+      "glassential:glass_ethereal_reverse",
+      "",
+      "glassential:glass_ethereal_reverse",
+      "glassential:glass_ethereal_reverse",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "glassential:ethereal_trapdoor": {
+    "result": "glassential:ethereal_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "glassential:glass_ethereal",
+      "glassential:glass_ethereal",
+      "",
+      "glassential:glass_ethereal",
+      "glassential:glass_ethereal",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:etonmessitem": {
+    "result": "pamhc2foodextended:etonmessitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:meringue",
+      "minecraft:strawberryjelly",
+      "minecraft:cream",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:etched_abyssal_stone": {
+    "result": "railcraft:etched_abyssal_stone",
+    "count": 8,
+    "ingredients": [
+      "railcraft:polished_abyssal_stone",
+      "railcraft:polished_abyssal_stone",
+      "railcraft:polished_abyssal_stone",
+      "railcraft:polished_abyssal_stone",
+      "minecraft:gunpowder",
+      "railcraft:polished_abyssal_stone",
+      "railcraft:polished_abyssal_stone",
+      "railcraft:polished_abyssal_stone",
+      "railcraft:polished_abyssal_stone"
+    ]
+  },
+  "railcraft:etched_quarried_stone": {
+    "result": "railcraft:etched_quarried_stone",
+    "count": 8,
+    "ingredients": [
+      "railcraft:polished_quarried_stone",
+      "railcraft:polished_quarried_stone",
+      "railcraft:polished_quarried_stone",
+      "railcraft:polished_quarried_stone",
+      "minecraft:gunpowder",
+      "railcraft:polished_quarried_stone",
+      "railcraft:polished_quarried_stone",
+      "railcraft:polished_quarried_stone",
+      "railcraft:polished_quarried_stone"
+    ]
+  }
+}

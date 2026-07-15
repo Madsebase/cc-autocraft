@@ -1,0 +1,62 @@
+{
+  "minecolonies:yogurt": {
+    "result": "minecolonies:yogurt",
+    "count": 1,
+    "ingredients": [
+      "minecolonies:large_milk_bottle",
+      "minecolonies:large_milk_bottle",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecolonies:yogurt_with_berries": {
+    "result": "minecolonies:yogurt_with_berries",
+    "count": 2,
+    "ingredients": [
+      "minecolonies:yogurt",
+      "minecraft:sweet_berries",
+      "minecraft:sweet_berries",
+      "minecraft:sweet_berries",
+      "minecraft:sweet_berries",
+      "minecraft:bowl",
+      "minecraft:bowl",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:yogurtitem": {
+    "result": "pamhc2foodcore:yogurtitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:milk",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:yorkshirepuddingitem": {
+    "result": "pamhc2foodextended:yorkshirepuddingitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:batter",
+      "minecraft:salt",
+      "minecraft:stock",
+      "minecraft:milk",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

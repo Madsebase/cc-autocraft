@@ -1,0 +1,5042 @@
+{
+  "ae2:export_bus": {
+    "result": "ae2:export_bus",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "ae2:formation_core",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:piston",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ae2importexportcard:export_card": {
+    "result": "ae2importexportcard:export_card",
+    "count": 1,
+    "ingredients": [
+      "ae2:engineering_processor",
+      "minecraft:redstone_block",
+      "ae2:engineering_processor",
+      "ae2:export_bus",
+      "minecraft:redstone_block",
+      "ae2:advanced_card",
+      "ae2:calculation_processor",
+      "minecraft:redstone_block",
+      "ae2:calculation_processor"
+    ]
+  },
+  "ars_nouveau:experience_gem": {
+    "result": "ars_nouveau:experience_gem",
+    "count": 4,
+    "ingredients": [
+      "ars_nouveau:greater_experience_gem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:expandeddelight_cinnamon_bookcase": {
+    "result": "bibliocraft:expandeddelight_cinnamon_bookcase",
+    "count": 1,
+    "ingredients": [
+      "expandeddelight:cinnamon_planks",
+      "expandeddelight:cinnamon_slab",
+      "expandeddelight:cinnamon_planks",
+      "expandeddelight:cinnamon_planks",
+      "expandeddelight:cinnamon_slab",
+      "expandeddelight:cinnamon_planks",
+      "expandeddelight:cinnamon_planks",
+      "expandeddelight:cinnamon_slab",
+      "expandeddelight:cinnamon_planks"
+    ]
+  },
+  "bibliocraft:expandeddelight_cinnamon_fancy_armor_stand": {
+    "result": "bibliocraft:expandeddelight_cinnamon_fancy_armor_stand",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "expandeddelight:cinnamon_slab",
+      "expandeddelight:cinnamon_slab",
+      "expandeddelight:cinnamon_slab"
+    ]
+  },
+  "bibliocraft:expandeddelight_cinnamon_fancy_clock": {
+    "result": "bibliocraft:expandeddelight_cinnamon_fancy_clock",
+    "count": 1,
+    "ingredients": [
+      "expandeddelight:cinnamon_slab",
+      "minecraft:clock",
+      "expandeddelight:cinnamon_slab",
+      "expandeddelight:cinnamon_slab",
+      "minecraft:stick",
+      "expandeddelight:cinnamon_slab",
+      "expandeddelight:cinnamon_slab",
+      "minecraft:copper_ingot",
+      "expandeddelight:cinnamon_slab"
+    ]
+  },
+  "bibliocraft:expandeddelight_cinnamon_fancy_crafter": {
+    "result": "bibliocraft:expandeddelight_cinnamon_fancy_crafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black",
+      "minecraft:crafting_tables",
+      "minecraft:feather",
+      "expandeddelight:cinnamon_planks",
+      "minecraft:glass",
+      "expandeddelight:cinnamon_planks",
+      "expandeddelight:cinnamon_planks",
+      "minecraft:crafter",
+      "expandeddelight:cinnamon_planks"
+    ]
+  },
+  "bibliocraft:expandeddelight_cinnamon_fancy_sign": {
+    "result": "bibliocraft:expandeddelight_cinnamon_fancy_sign",
+    "count": 1,
+    "ingredients": [
+      "expandeddelight:cinnamon_planks",
+      "minecraft:paper",
+      "expandeddelight:cinnamon_planks",
+      "expandeddelight:cinnamon_planks",
+      "minecraft:paper",
+      "expandeddelight:cinnamon_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "bibliocraft:expandeddelight_cinnamon_grandfather_clock": {
+    "result": "bibliocraft:expandeddelight_cinnamon_grandfather_clock",
+    "count": 1,
+    "ingredients": [
+      "bibliocraft:expandeddelight_cinnamon_fancy_clock",
+      "bibliocraft:expandeddelight_cinnamon_fancy_clock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:expandeddelight_cinnamon_label": {
+    "result": "bibliocraft:expandeddelight_cinnamon_label",
+    "count": 1,
+    "ingredients": [
+      "expandeddelight:cinnamon_slab",
+      "expandeddelight:cinnamon_slab",
+      "expandeddelight:cinnamon_slab",
+      "expandeddelight:cinnamon_slab",
+      "expandeddelight:cinnamon_slab",
+      "expandeddelight:cinnamon_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:expandeddelight_cinnamon_potion_shelf": {
+    "result": "bibliocraft:expandeddelight_cinnamon_potion_shelf",
+    "count": 1,
+    "ingredients": [
+      "expandeddelight:cinnamon_slab",
+      "expandeddelight:cinnamon_slab",
+      "expandeddelight:cinnamon_slab",
+      "expandeddelight:cinnamon_planks",
+      "minecraft:glass_bottle",
+      "expandeddelight:cinnamon_planks",
+      "expandeddelight:cinnamon_slab",
+      "expandeddelight:cinnamon_slab",
+      "expandeddelight:cinnamon_slab"
+    ]
+  },
+  "bibliocraft:expandeddelight_cinnamon_shelf": {
+    "result": "bibliocraft:expandeddelight_cinnamon_shelf",
+    "count": 1,
+    "ingredients": [
+      "expandeddelight:cinnamon_slab",
+      "expandeddelight:cinnamon_slab",
+      "expandeddelight:cinnamon_slab",
+      "",
+      "expandeddelight:cinnamon_planks",
+      "",
+      "expandeddelight:cinnamon_slab",
+      "expandeddelight:cinnamon_slab",
+      "expandeddelight:cinnamon_slab"
+    ]
+  },
+  "bibliocraft:expandeddelight_cinnamon_table": {
+    "result": "bibliocraft:expandeddelight_cinnamon_table",
+    "count": 1,
+    "ingredients": [
+      "expandeddelight:cinnamon_slab",
+      "expandeddelight:cinnamon_slab",
+      "expandeddelight:cinnamon_slab",
+      "",
+      "expandeddelight:cinnamon_planks",
+      "",
+      "",
+      "expandeddelight:cinnamon_planks",
+      ""
+    ]
+  },
+  "bibliocraft:expandeddelight_cinnamon_tool_rack": {
+    "result": "bibliocraft:expandeddelight_cinnamon_tool_rack",
+    "count": 1,
+    "ingredients": [
+      "expandeddelight:cinnamon_slab",
+      "expandeddelight:cinnamon_slab",
+      "expandeddelight:cinnamon_slab",
+      "expandeddelight:cinnamon_slab",
+      "minecraft:iron_ingot",
+      "expandeddelight:cinnamon_slab",
+      "expandeddelight:cinnamon_slab",
+      "expandeddelight:cinnamon_slab",
+      "expandeddelight:cinnamon_slab"
+    ]
+  },
+  "bibliocraft:extradelight_cinnamon_bookcase": {
+    "result": "bibliocraft:extradelight_cinnamon_bookcase",
+    "count": 1,
+    "ingredients": [
+      "extradelight:cinnamon_planks",
+      "extradelight:cinnamon_slab",
+      "extradelight:cinnamon_planks",
+      "extradelight:cinnamon_planks",
+      "extradelight:cinnamon_slab",
+      "extradelight:cinnamon_planks",
+      "extradelight:cinnamon_planks",
+      "extradelight:cinnamon_slab",
+      "extradelight:cinnamon_planks"
+    ]
+  },
+  "bibliocraft:extradelight_cinnamon_fancy_armor_stand": {
+    "result": "bibliocraft:extradelight_cinnamon_fancy_armor_stand",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "extradelight:cinnamon_slab",
+      "extradelight:cinnamon_slab",
+      "extradelight:cinnamon_slab"
+    ]
+  },
+  "bibliocraft:extradelight_cinnamon_fancy_clock": {
+    "result": "bibliocraft:extradelight_cinnamon_fancy_clock",
+    "count": 1,
+    "ingredients": [
+      "extradelight:cinnamon_slab",
+      "minecraft:clock",
+      "extradelight:cinnamon_slab",
+      "extradelight:cinnamon_slab",
+      "minecraft:stick",
+      "extradelight:cinnamon_slab",
+      "extradelight:cinnamon_slab",
+      "minecraft:copper_ingot",
+      "extradelight:cinnamon_slab"
+    ]
+  },
+  "bibliocraft:extradelight_cinnamon_fancy_crafter": {
+    "result": "bibliocraft:extradelight_cinnamon_fancy_crafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black",
+      "minecraft:crafting_tables",
+      "minecraft:feather",
+      "extradelight:cinnamon_planks",
+      "minecraft:glass",
+      "extradelight:cinnamon_planks",
+      "extradelight:cinnamon_planks",
+      "minecraft:crafter",
+      "extradelight:cinnamon_planks"
+    ]
+  },
+  "bibliocraft:extradelight_cinnamon_fancy_sign": {
+    "result": "bibliocraft:extradelight_cinnamon_fancy_sign",
+    "count": 1,
+    "ingredients": [
+      "extradelight:cinnamon_planks",
+      "minecraft:paper",
+      "extradelight:cinnamon_planks",
+      "extradelight:cinnamon_planks",
+      "minecraft:paper",
+      "extradelight:cinnamon_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "bibliocraft:extradelight_cinnamon_grandfather_clock": {
+    "result": "bibliocraft:extradelight_cinnamon_grandfather_clock",
+    "count": 1,
+    "ingredients": [
+      "bibliocraft:extradelight_cinnamon_fancy_clock",
+      "bibliocraft:extradelight_cinnamon_fancy_clock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:extradelight_cinnamon_label": {
+    "result": "bibliocraft:extradelight_cinnamon_label",
+    "count": 1,
+    "ingredients": [
+      "extradelight:cinnamon_slab",
+      "extradelight:cinnamon_slab",
+      "extradelight:cinnamon_slab",
+      "extradelight:cinnamon_slab",
+      "extradelight:cinnamon_slab",
+      "extradelight:cinnamon_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:extradelight_cinnamon_potion_shelf": {
+    "result": "bibliocraft:extradelight_cinnamon_potion_shelf",
+    "count": 1,
+    "ingredients": [
+      "extradelight:cinnamon_slab",
+      "extradelight:cinnamon_slab",
+      "extradelight:cinnamon_slab",
+      "extradelight:cinnamon_planks",
+      "minecraft:glass_bottle",
+      "extradelight:cinnamon_planks",
+      "extradelight:cinnamon_slab",
+      "extradelight:cinnamon_slab",
+      "extradelight:cinnamon_slab"
+    ]
+  },
+  "bibliocraft:extradelight_cinnamon_shelf": {
+    "result": "bibliocraft:extradelight_cinnamon_shelf",
+    "count": 1,
+    "ingredients": [
+      "extradelight:cinnamon_slab",
+      "extradelight:cinnamon_slab",
+      "extradelight:cinnamon_slab",
+      "",
+      "extradelight:cinnamon_planks",
+      "",
+      "extradelight:cinnamon_slab",
+      "extradelight:cinnamon_slab",
+      "extradelight:cinnamon_slab"
+    ]
+  },
+  "bibliocraft:extradelight_cinnamon_table": {
+    "result": "bibliocraft:extradelight_cinnamon_table",
+    "count": 1,
+    "ingredients": [
+      "extradelight:cinnamon_slab",
+      "extradelight:cinnamon_slab",
+      "extradelight:cinnamon_slab",
+      "",
+      "extradelight:cinnamon_planks",
+      "",
+      "",
+      "extradelight:cinnamon_planks",
+      ""
+    ]
+  },
+  "bibliocraft:extradelight_cinnamon_tool_rack": {
+    "result": "bibliocraft:extradelight_cinnamon_tool_rack",
+    "count": 1,
+    "ingredients": [
+      "extradelight:cinnamon_slab",
+      "extradelight:cinnamon_slab",
+      "extradelight:cinnamon_slab",
+      "extradelight:cinnamon_slab",
+      "minecraft:iron_ingot",
+      "extradelight:cinnamon_slab",
+      "extradelight:cinnamon_slab",
+      "extradelight:cinnamon_slab",
+      "extradelight:cinnamon_slab"
+    ]
+  },
+  "bibliocraft:extradelight_fruit_bookcase": {
+    "result": "bibliocraft:extradelight_fruit_bookcase",
+    "count": 1,
+    "ingredients": [
+      "extradelight:fruit_planks",
+      "extradelight:fruit_slab",
+      "extradelight:fruit_planks",
+      "extradelight:fruit_planks",
+      "extradelight:fruit_slab",
+      "extradelight:fruit_planks",
+      "extradelight:fruit_planks",
+      "extradelight:fruit_slab",
+      "extradelight:fruit_planks"
+    ]
+  },
+  "bibliocraft:extradelight_fruit_fancy_armor_stand": {
+    "result": "bibliocraft:extradelight_fruit_fancy_armor_stand",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "extradelight:fruit_slab",
+      "extradelight:fruit_slab",
+      "extradelight:fruit_slab"
+    ]
+  },
+  "bibliocraft:extradelight_fruit_fancy_clock": {
+    "result": "bibliocraft:extradelight_fruit_fancy_clock",
+    "count": 1,
+    "ingredients": [
+      "extradelight:fruit_slab",
+      "minecraft:clock",
+      "extradelight:fruit_slab",
+      "extradelight:fruit_slab",
+      "minecraft:stick",
+      "extradelight:fruit_slab",
+      "extradelight:fruit_slab",
+      "minecraft:copper_ingot",
+      "extradelight:fruit_slab"
+    ]
+  },
+  "bibliocraft:extradelight_fruit_fancy_crafter": {
+    "result": "bibliocraft:extradelight_fruit_fancy_crafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black",
+      "minecraft:crafting_tables",
+      "minecraft:feather",
+      "extradelight:fruit_planks",
+      "minecraft:glass",
+      "extradelight:fruit_planks",
+      "extradelight:fruit_planks",
+      "minecraft:crafter",
+      "extradelight:fruit_planks"
+    ]
+  },
+  "bibliocraft:extradelight_fruit_fancy_sign": {
+    "result": "bibliocraft:extradelight_fruit_fancy_sign",
+    "count": 1,
+    "ingredients": [
+      "extradelight:fruit_planks",
+      "minecraft:paper",
+      "extradelight:fruit_planks",
+      "extradelight:fruit_planks",
+      "minecraft:paper",
+      "extradelight:fruit_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "bibliocraft:extradelight_fruit_grandfather_clock": {
+    "result": "bibliocraft:extradelight_fruit_grandfather_clock",
+    "count": 1,
+    "ingredients": [
+      "bibliocraft:extradelight_fruit_fancy_clock",
+      "bibliocraft:extradelight_fruit_fancy_clock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:extradelight_fruit_label": {
+    "result": "bibliocraft:extradelight_fruit_label",
+    "count": 1,
+    "ingredients": [
+      "extradelight:fruit_slab",
+      "extradelight:fruit_slab",
+      "extradelight:fruit_slab",
+      "extradelight:fruit_slab",
+      "extradelight:fruit_slab",
+      "extradelight:fruit_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:extradelight_fruit_potion_shelf": {
+    "result": "bibliocraft:extradelight_fruit_potion_shelf",
+    "count": 1,
+    "ingredients": [
+      "extradelight:fruit_slab",
+      "extradelight:fruit_slab",
+      "extradelight:fruit_slab",
+      "extradelight:fruit_planks",
+      "minecraft:glass_bottle",
+      "extradelight:fruit_planks",
+      "extradelight:fruit_slab",
+      "extradelight:fruit_slab",
+      "extradelight:fruit_slab"
+    ]
+  },
+  "bibliocraft:extradelight_fruit_shelf": {
+    "result": "bibliocraft:extradelight_fruit_shelf",
+    "count": 1,
+    "ingredients": [
+      "extradelight:fruit_slab",
+      "extradelight:fruit_slab",
+      "extradelight:fruit_slab",
+      "",
+      "extradelight:fruit_planks",
+      "",
+      "extradelight:fruit_slab",
+      "extradelight:fruit_slab",
+      "extradelight:fruit_slab"
+    ]
+  },
+  "bibliocraft:extradelight_fruit_table": {
+    "result": "bibliocraft:extradelight_fruit_table",
+    "count": 1,
+    "ingredients": [
+      "extradelight:fruit_slab",
+      "extradelight:fruit_slab",
+      "extradelight:fruit_slab",
+      "",
+      "extradelight:fruit_planks",
+      "",
+      "",
+      "extradelight:fruit_planks",
+      ""
+    ]
+  },
+  "bibliocraft:extradelight_fruit_tool_rack": {
+    "result": "bibliocraft:extradelight_fruit_tool_rack",
+    "count": 1,
+    "ingredients": [
+      "extradelight:fruit_slab",
+      "extradelight:fruit_slab",
+      "extradelight:fruit_slab",
+      "extradelight:fruit_slab",
+      "minecraft:iron_ingot",
+      "extradelight:fruit_slab",
+      "extradelight:fruit_slab",
+      "extradelight:fruit_slab",
+      "extradelight:fruit_slab"
+    ]
+  },
+  "create:exposed_copper_shingle_slab": {
+    "result": "create:exposed_copper_shingle_slab",
+    "count": 6,
+    "ingredients": [
+      "create:exposed_copper_shingles",
+      "create:exposed_copper_shingles",
+      "create:exposed_copper_shingles",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:exposed_copper_shingle_stairs": {
+    "result": "create:exposed_copper_shingle_stairs",
+    "count": 4,
+    "ingredients": [
+      "create:exposed_copper_shingles",
+      "",
+      "",
+      "create:exposed_copper_shingles",
+      "create:exposed_copper_shingles",
+      "",
+      "create:exposed_copper_shingles",
+      "create:exposed_copper_shingles",
+      "create:exposed_copper_shingles"
+    ]
+  },
+  "create:exposed_copper_tile_slab": {
+    "result": "create:exposed_copper_tile_slab",
+    "count": 6,
+    "ingredients": [
+      "create:exposed_copper_tiles",
+      "create:exposed_copper_tiles",
+      "create:exposed_copper_tiles",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:exposed_copper_tile_stairs": {
+    "result": "create:exposed_copper_tile_stairs",
+    "count": 4,
+    "ingredients": [
+      "create:exposed_copper_tiles",
+      "",
+      "",
+      "create:exposed_copper_tiles",
+      "create:exposed_copper_tiles",
+      "",
+      "create:exposed_copper_tiles",
+      "create:exposed_copper_tiles",
+      "create:exposed_copper_tiles"
+    ]
+  },
+  "create:experience_block": {
+    "result": "create:experience_block",
+    "count": 1,
+    "ingredients": [
+      "create:experience_nugget",
+      "create:experience_nugget",
+      "create:experience_nugget",
+      "create:experience_nugget",
+      "create:experience_nugget",
+      "create:experience_nugget",
+      "create:experience_nugget",
+      "create:experience_nugget",
+      "create:experience_nugget"
+    ]
+  },
+  "create:experience_nugget": {
+    "result": "create:experience_nugget",
+    "count": 9,
+    "ingredients": [
+      "create:experience_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create_enchantment_industry:experience_lantern": {
+    "result": "create_enchantment_industry:experience_lantern",
+    "count": 1,
+    "ingredients": [
+      "create:experience_block",
+      "",
+      "",
+      "minecraft:sponge",
+      "",
+      "",
+      "create:copper_casing",
+      "",
+      ""
+    ]
+  },
+  "enderio:experience_rod": {
+    "result": "enderio:experience_rod",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "minecraft:soularium",
+      "enderio:suspicious_seed",
+      "minecraft:vibrant_alloy",
+      "",
+      "minecraft:soularium",
+      "enderio:suspicious_seed",
+      ""
+    ]
+  },
+  "evilcraft:exalted_crafter": {
+    "result": "evilcraft:exalted_crafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "minecraft:crafting_table",
+      "minecraft:gold_ingot",
+      "evilcraft:dark_gem_crushed",
+      "minecraft:chest",
+      "evilcraft:dark_gem_crushed",
+      "minecraft:gold_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:gold_ingot"
+    ]
+  },
+  "evilcraft:exalted_crafter_wooden": {
+    "result": "evilcraft:exalted_crafter_wooden",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "minecraft:crafting_table",
+      "minecraft:gold_ingot",
+      "evilcraft:dark_gem_crushed",
+      "minecraft:chest",
+      "evilcraft:dark_gem_crushed",
+      "minecraft:gold_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:gold_ingot"
+    ]
+  },
+  "expandedae:exp_crafting_accelerator_128": {
+    "result": "expandedae:exp_crafting_accelerator_128",
+    "count": 1,
+    "ingredients": [
+      "expandedae:exp_crafting_accelerator_64",
+      "expandedae:exp_crafting_accelerator_64",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "expandedae:exp_crafting_accelerator_128k": {
+    "result": "expandedae:exp_crafting_accelerator_128k",
+    "count": 1,
+    "ingredients": [
+      "expandedae:exp_crafting_accelerator_64k",
+      "expandedae:exp_crafting_accelerator_64k",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "expandedae:exp_crafting_accelerator_16": {
+    "result": "expandedae:exp_crafting_accelerator_16",
+    "count": 1,
+    "ingredients": [
+      "expandedae:exp_crafting_accelerator_8",
+      "expandedae:exp_crafting_accelerator_8",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "expandedae:exp_crafting_accelerator_16k": {
+    "result": "expandedae:exp_crafting_accelerator_16k",
+    "count": 1,
+    "ingredients": [
+      "expandedae:exp_crafting_accelerator_8k",
+      "expandedae:exp_crafting_accelerator_8k",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "expandedae:exp_crafting_accelerator_1k": {
+    "result": "expandedae:exp_crafting_accelerator_1k",
+    "count": 1,
+    "ingredients": [
+      "expandedae:exp_crafting_accelerator_512",
+      "expandedae:exp_crafting_accelerator_512",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "expandedae:exp_crafting_accelerator_1m": {
+    "result": "expandedae:exp_crafting_accelerator_1m",
+    "count": 1,
+    "ingredients": [
+      "expandedae:exp_crafting_accelerator_512k",
+      "expandedae:exp_crafting_accelerator_512k",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "expandedae:exp_crafting_accelerator_2": {
+    "result": "expandedae:exp_crafting_accelerator_2",
+    "count": 1,
+    "ingredients": [
+      "expandedae:exp_crafting_unit",
+      "ae2:engineering_processor",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "expandedae:exp_crafting_accelerator_256": {
+    "result": "expandedae:exp_crafting_accelerator_256",
+    "count": 1,
+    "ingredients": [
+      "expandedae:exp_crafting_accelerator_128",
+      "expandedae:exp_crafting_accelerator_128",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "expandedae:exp_crafting_accelerator_256k": {
+    "result": "expandedae:exp_crafting_accelerator_256k",
+    "count": 1,
+    "ingredients": [
+      "expandedae:exp_crafting_accelerator_128k",
+      "expandedae:exp_crafting_accelerator_128k",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "expandedae:exp_crafting_accelerator_2k": {
+    "result": "expandedae:exp_crafting_accelerator_2k",
+    "count": 1,
+    "ingredients": [
+      "expandedae:exp_crafting_accelerator_1k",
+      "expandedae:exp_crafting_accelerator_1k",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "expandedae:exp_crafting_accelerator_32": {
+    "result": "expandedae:exp_crafting_accelerator_32",
+    "count": 1,
+    "ingredients": [
+      "expandedae:exp_crafting_accelerator_16",
+      "expandedae:exp_crafting_accelerator_16",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "expandedae:exp_crafting_accelerator_32k": {
+    "result": "expandedae:exp_crafting_accelerator_32k",
+    "count": 1,
+    "ingredients": [
+      "expandedae:exp_crafting_accelerator_16k",
+      "expandedae:exp_crafting_accelerator_16k",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "expandedae:exp_crafting_accelerator_4": {
+    "result": "expandedae:exp_crafting_accelerator_4",
+    "count": 1,
+    "ingredients": [
+      "expandedae:exp_crafting_accelerator_2",
+      "expandedae:exp_crafting_accelerator_2",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "expandedae:exp_crafting_accelerator_4k": {
+    "result": "expandedae:exp_crafting_accelerator_4k",
+    "count": 1,
+    "ingredients": [
+      "expandedae:exp_crafting_accelerator_2k",
+      "expandedae:exp_crafting_accelerator_2k",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "expandedae:exp_crafting_accelerator_512": {
+    "result": "expandedae:exp_crafting_accelerator_512",
+    "count": 1,
+    "ingredients": [
+      "expandedae:exp_crafting_accelerator_256",
+      "expandedae:exp_crafting_accelerator_256",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "expandedae:exp_crafting_accelerator_512k": {
+    "result": "expandedae:exp_crafting_accelerator_512k",
+    "count": 1,
+    "ingredients": [
+      "expandedae:exp_crafting_accelerator_256k",
+      "expandedae:exp_crafting_accelerator_256k",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "expandedae:exp_crafting_accelerator_64": {
+    "result": "expandedae:exp_crafting_accelerator_64",
+    "count": 1,
+    "ingredients": [
+      "expandedae:exp_crafting_accelerator_32",
+      "expandedae:exp_crafting_accelerator_32",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "expandedae:exp_crafting_accelerator_64k": {
+    "result": "expandedae:exp_crafting_accelerator_64k",
+    "count": 1,
+    "ingredients": [
+      "expandedae:exp_crafting_accelerator_32k",
+      "expandedae:exp_crafting_accelerator_32k",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "expandedae:exp_crafting_accelerator_8": {
+    "result": "expandedae:exp_crafting_accelerator_8",
+    "count": 1,
+    "ingredients": [
+      "expandedae:exp_crafting_accelerator_4",
+      "expandedae:exp_crafting_accelerator_4",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "expandedae:exp_crafting_accelerator_8k": {
+    "result": "expandedae:exp_crafting_accelerator_8k",
+    "count": 1,
+    "ingredients": [
+      "expandedae:exp_crafting_accelerator_4k",
+      "expandedae:exp_crafting_accelerator_4k",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "expandedae:exp_crafting_unit": {
+    "result": "expandedae:exp_crafting_unit",
+    "count": 1,
+    "ingredients": [
+      "megacells:mega_crafting_unit",
+      "ae2:engineering_processor",
+      "megacells:mega_crafting_unit",
+      "ae2:fluix_smart_dense_cable",
+      "megacells:accumulation_processor",
+      "ae2:fluix_smart_dense_cable",
+      "megacells:mega_crafting_unit",
+      "ae2:engineering_processor",
+      "megacells:mega_crafting_unit"
+    ]
+  },
+  "expandedae:exp_encoding_terminal": {
+    "result": "expandedae:exp_encoding_terminal",
+    "count": 1,
+    "ingredients": [
+      "ae2:pattern_encoding_terminal",
+      "ae2:calculation_processor",
+      "",
+      "ae2:logic_processor",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "expandedae:exp_io_port": {
+    "result": "expandedae:exp_io_port",
+    "count": 1,
+    "ingredients": [
+      "expandedae:greater_accel_card",
+      "expandedae:greater_accel_card",
+      "expandedae:greater_accel_card",
+      "expandedae:greater_accel_card",
+      "extendedae:ex_io_port",
+      "expandedae:greater_accel_card",
+      "expandedae:greater_accel_card",
+      "expandedae:greater_accel_card",
+      "expandedae:greater_accel_card"
+    ]
+  },
+  "expandedae:exp_pattern_provider": {
+    "result": "expandedae:exp_pattern_provider",
+    "count": 1,
+    "ingredients": [
+      "extendedae:concurrent_processor",
+      "extendedae:ex_pattern_provider",
+      "",
+      "extendedae:ex_pattern_provider",
+      "extendedae:concurrent_processor",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "expandedae:exp_pattern_provider_part": {
+    "result": "expandedae:exp_pattern_provider_part",
+    "count": 1,
+    "ingredients": [
+      "expandedae:exp_pattern_provider",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "expandedae:exp_pattern_provider_upgrade": {
+    "result": "expandedae:exp_pattern_provider_upgrade",
+    "count": 1,
+    "ingredients": [
+      "extendedae:concurrent_processor",
+      "extendedae:ex_pattern_provider",
+      "",
+      "extendedae:ex_pattern_provider",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "explorerscompass:explorerscompass": {
+    "result": "explorerscompass:explorerscompass",
+    "count": 1,
+    "ingredients": [
+      "explorerscompass:explorerscompass",
+      "minecraft:compass",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "extendedae:ex_emc_interface": {
+    "result": "extendedae:ex_emc_interface",
+    "count": 1,
+    "ingredients": [
+      "extendedae:ex_emc_interface_part",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "extendedae:ex_emc_interface_part": {
+    "result": "extendedae:ex_emc_interface_part",
+    "count": 1,
+    "ingredients": [
+      "extendedae:ex_emc_interface",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "extendedae:ex_interface": {
+    "result": "extendedae:ex_interface",
+    "count": 1,
+    "ingredients": [
+      "extendedae:ex_interface_part",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "extendedae:ex_interface_part": {
+    "result": "extendedae:ex_interface_part",
+    "count": 1,
+    "ingredients": [
+      "extendedae:ex_interface",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "extendedae:ex_pattern_provider": {
+    "result": "extendedae:ex_pattern_provider",
+    "count": 1,
+    "ingredients": [
+      "extendedae:ex_pattern_provider_part",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "extendedae:ex_pattern_provider_part": {
+    "result": "extendedae:ex_pattern_provider_part",
+    "count": 1,
+    "ingredients": [
+      "extendedae:ex_pattern_provider",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "irons_spellbooks:expulsion_ring": {
+    "result": "irons_spellbooks:expulsion_ring",
+    "count": 1,
+    "ingredients": [
+      "minecraft:wind_charge",
+      "",
+      "",
+      "",
+      "irons_spellbooks:mithril_scrap",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "justdirethings:experienceholder": {
+    "result": "justdirethings:experienceholder",
+    "count": 1,
+    "ingredients": [
+      "justdirethings:experienceholder",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "megacells:experience_storage_cell_16m": {
+    "result": "megacells:experience_storage_cell_16m",
+    "count": 1,
+    "ingredients": [
+      "megacells:mega_experience_cell_housing",
+      "megacells:cell_component_16m",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "megacells:experience_storage_cell_1m": {
+    "result": "megacells:experience_storage_cell_1m",
+    "count": 1,
+    "ingredients": [
+      "megacells:mega_experience_cell_housing",
+      "megacells:cell_component_1m",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "megacells:experience_storage_cell_256m": {
+    "result": "megacells:experience_storage_cell_256m",
+    "count": 1,
+    "ingredients": [
+      "megacells:mega_experience_cell_housing",
+      "megacells:cell_component_256m",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "megacells:experience_storage_cell_4m": {
+    "result": "megacells:experience_storage_cell_4m",
+    "count": 1,
+    "ingredients": [
+      "megacells:mega_experience_cell_housing",
+      "megacells:cell_component_4m",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "megacells:experience_storage_cell_64m": {
+    "result": "megacells:experience_storage_cell_64m",
+    "count": 1,
+    "ingredients": [
+      "megacells:mega_experience_cell_housing",
+      "megacells:cell_component_64m",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:exposed_pine_mantel": {
+    "result": "merrymaking:exposed_pine_mantel",
+    "count": 1,
+    "ingredients": [
+      "happyhallows:exposed_pine_slab",
+      "happyhallows:exposed_pine_slab",
+      "happyhallows:exposed_pine_slab",
+      "happyhallows:exposed_pine_planks",
+      "",
+      "happyhallows:exposed_pine_planks",
+      "happyhallows:exposed_pine_planks",
+      "",
+      "happyhallows:exposed_pine_planks"
+    ]
+  },
+  "minecraft:exposed_chiseled_copper": {
+    "result": "minecraft:exposed_chiseled_copper",
+    "count": 1,
+    "ingredients": [
+      "minecraft:exposed_cut_copper_slab",
+      "",
+      "",
+      "minecraft:exposed_cut_copper_slab",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:exposed_copper_bulb": {
+    "result": "minecraft:exposed_copper_bulb",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:exposed_copper",
+      "",
+      "minecraft:exposed_copper",
+      "minecraft:blaze_rod",
+      "minecraft:exposed_copper",
+      "",
+      "minecraft:redstone",
+      ""
+    ]
+  },
+  "minecraft:exposed_copper_grate": {
+    "result": "minecraft:exposed_copper_grate",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:exposed_copper",
+      "",
+      "minecraft:exposed_copper",
+      "",
+      "minecraft:exposed_copper",
+      "",
+      "minecraft:exposed_copper",
+      ""
+    ]
+  },
+  "minecraft:exposed_cut_copper": {
+    "result": "minecraft:exposed_cut_copper",
+    "count": 4,
+    "ingredients": [
+      "minecraft:exposed_copper",
+      "minecraft:exposed_copper",
+      "",
+      "minecraft:exposed_copper",
+      "minecraft:exposed_copper",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:exposed_cut_copper_slab": {
+    "result": "minecraft:exposed_cut_copper_slab",
+    "count": 6,
+    "ingredients": [
+      "minecraft:exposed_cut_copper",
+      "minecraft:exposed_cut_copper",
+      "minecraft:exposed_cut_copper",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:exposed_cut_copper_stairs": {
+    "result": "minecraft:exposed_cut_copper_stairs",
+    "count": 4,
+    "ingredients": [
+      "minecraft:exposed_cut_copper",
+      "",
+      "",
+      "minecraft:exposed_cut_copper",
+      "minecraft:exposed_cut_copper",
+      "",
+      "minecraft:exposed_cut_copper",
+      "minecraft:exposed_cut_copper",
+      "minecraft:exposed_cut_copper"
+    ]
+  },
+  "moderndynamics:extractor": {
+    "result": "moderndynamics:extractor",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:hopper",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:redstone",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:paper",
+      ""
+    ]
+  },
+  "modularrouters:extruder_module_2": {
+    "result": "modularrouters:extruder_module_2",
+    "count": 1,
+    "ingredients": [
+      "modularrouters:blank_module",
+      "minecraft:chest",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:experience_bottle": {
+    "result": "minecraft:experience_bottle",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glass_bottle",
+      "mysticalagriculture:experience_droplet",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mysticalagriculture:experience_capsule": {
+    "result": "mysticalagriculture:experience_capsule",
+    "count": 1,
+    "ingredients": [
+      "",
+      "mysticalagriculture:soulium_ingot",
+      "",
+      "mysticalagriculture:soul_glass",
+      "",
+      "mysticalagriculture:soul_glass",
+      "",
+      "mysticalagriculture:soulium_ingot",
+      ""
+    ]
+  },
+  "mysticalagriculture:experience_droplet": {
+    "result": "mysticalagriculture:experience_droplet",
+    "count": 8,
+    "ingredients": [
+      "mysticalagriculture:experience_essence",
+      "mysticalagriculture:experience_essence",
+      "mysticalagriculture:experience_essence",
+      "mysticalagriculture:experience_essence",
+      "",
+      "mysticalagriculture:experience_essence",
+      "mysticalagriculture:experience_essence",
+      "mysticalagriculture:experience_essence",
+      "mysticalagriculture:experience_essence"
+    ]
+  },
+  "oritech:exo_boots": {
+    "result": "oritech:exo_boots",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "minecraft:plating",
+      "",
+      "minecraft:plating",
+      "minecraft:silicon",
+      "",
+      "minecraft:silicon"
+    ]
+  },
+  "oritech:exo_chestplate": {
+    "result": "oritech:exo_chestplate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:plating",
+      "",
+      "minecraft:plating",
+      "minecraft:plating",
+      "minecraft:plating",
+      "minecraft:plating",
+      "minecraft:plating",
+      "oritech:advanced_battery",
+      "minecraft:plating"
+    ]
+  },
+  "oritech:exo_helmet": {
+    "result": "oritech:exo_helmet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:plating",
+      "minecraft:plating",
+      "minecraft:plating",
+      "minecraft:plating",
+      "oritech:enderic_lens",
+      "minecraft:plating",
+      "",
+      "",
+      ""
+    ]
+  },
+  "oritech:exo_jetpack": {
+    "result": "oritech:exo_jetpack",
+    "count": 1,
+    "ingredients": [
+      "oritech:ion_thruster",
+      "oritech:ion_thruster",
+      "oritech:ion_thruster",
+      "oritech:ion_thruster",
+      "oritech:exo_chestplate",
+      "oritech:ion_thruster",
+      "oritech:small_tank_block",
+      "oritech:jetpack",
+      "oritech:small_tank_block"
+    ]
+  },
+  "oritech:exo_leggings": {
+    "result": "oritech:exo_leggings",
+    "count": 1,
+    "ingredients": [
+      "minecraft:plating",
+      "minecraft:plating",
+      "minecraft:plating",
+      "minecraft:plating",
+      "oritech:motor",
+      "minecraft:plating",
+      "minecraft:plating",
+      "",
+      "minecraft:plating"
+    ]
+  },
+  "productivebees:expansion_box_acacia": {
+    "result": "productivebees:expansion_box_acacia",
+    "count": 1,
+    "ingredients": [
+      "minecraft:acacia_planks",
+      "minecraft:acacia_planks",
+      "minecraft:acacia_planks",
+      "minecraft:acacia_planks",
+      "minecraft:honeycombs",
+      "minecraft:acacia_planks",
+      "minecraft:acacia_planks",
+      "minecraft:acacia_planks",
+      "minecraft:acacia_planks"
+    ]
+  },
+  "productivebees:expansion_box_acacia_canvas": {
+    "result": "productivebees:expansion_box_acacia_canvas",
+    "count": 1,
+    "ingredients": [
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "productivebees:expansion_box_acacia",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper"
+    ]
+  },
+  "productivebees:expansion_box_atmospheric_aspen": {
+    "result": "productivebees:expansion_box_atmospheric_aspen",
+    "count": 1,
+    "ingredients": [
+      "atmospheric:aspen_planks",
+      "atmospheric:aspen_planks",
+      "atmospheric:aspen_planks",
+      "atmospheric:aspen_planks",
+      "minecraft:honeycombs",
+      "atmospheric:aspen_planks",
+      "atmospheric:aspen_planks",
+      "atmospheric:aspen_planks",
+      "atmospheric:aspen_planks"
+    ]
+  },
+  "productivebees:expansion_box_atmospheric_grimwood": {
+    "result": "productivebees:expansion_box_atmospheric_grimwood",
+    "count": 1,
+    "ingredients": [
+      "atmospheric:grimwood_planks",
+      "atmospheric:grimwood_planks",
+      "atmospheric:grimwood_planks",
+      "atmospheric:grimwood_planks",
+      "minecraft:honeycombs",
+      "atmospheric:grimwood_planks",
+      "atmospheric:grimwood_planks",
+      "atmospheric:grimwood_planks",
+      "atmospheric:grimwood_planks"
+    ]
+  },
+  "productivebees:expansion_box_atmospheric_kousa": {
+    "result": "productivebees:expansion_box_atmospheric_kousa",
+    "count": 1,
+    "ingredients": [
+      "atmospheric:kousa_planks",
+      "atmospheric:kousa_planks",
+      "atmospheric:kousa_planks",
+      "atmospheric:kousa_planks",
+      "minecraft:honeycombs",
+      "atmospheric:kousa_planks",
+      "atmospheric:kousa_planks",
+      "atmospheric:kousa_planks",
+      "atmospheric:kousa_planks"
+    ]
+  },
+  "productivebees:expansion_box_atmospheric_morado": {
+    "result": "productivebees:expansion_box_atmospheric_morado",
+    "count": 1,
+    "ingredients": [
+      "atmospheric:morado_planks",
+      "atmospheric:morado_planks",
+      "atmospheric:morado_planks",
+      "atmospheric:morado_planks",
+      "minecraft:honeycombs",
+      "atmospheric:morado_planks",
+      "atmospheric:morado_planks",
+      "atmospheric:morado_planks",
+      "atmospheric:morado_planks"
+    ]
+  },
+  "productivebees:expansion_box_atmospheric_rosewood": {
+    "result": "productivebees:expansion_box_atmospheric_rosewood",
+    "count": 1,
+    "ingredients": [
+      "atmospheric:rosewood_planks",
+      "atmospheric:rosewood_planks",
+      "atmospheric:rosewood_planks",
+      "atmospheric:rosewood_planks",
+      "minecraft:honeycombs",
+      "atmospheric:rosewood_planks",
+      "atmospheric:rosewood_planks",
+      "atmospheric:rosewood_planks",
+      "atmospheric:rosewood_planks"
+    ]
+  },
+  "productivebees:expansion_box_atmospheric_yucca": {
+    "result": "productivebees:expansion_box_atmospheric_yucca",
+    "count": 1,
+    "ingredients": [
+      "atmospheric:yucca_planks",
+      "atmospheric:yucca_planks",
+      "atmospheric:yucca_planks",
+      "atmospheric:yucca_planks",
+      "minecraft:honeycombs",
+      "atmospheric:yucca_planks",
+      "atmospheric:yucca_planks",
+      "atmospheric:yucca_planks",
+      "atmospheric:yucca_planks"
+    ]
+  },
+  "productivebees:expansion_box_autumnity_maple": {
+    "result": "productivebees:expansion_box_autumnity_maple",
+    "count": 1,
+    "ingredients": [
+      "autumnity:maple_planks",
+      "autumnity:maple_planks",
+      "autumnity:maple_planks",
+      "autumnity:maple_planks",
+      "minecraft:honeycombs",
+      "autumnity:maple_planks",
+      "autumnity:maple_planks",
+      "autumnity:maple_planks",
+      "autumnity:maple_planks"
+    ]
+  },
+  "productivebees:expansion_box_bamboo": {
+    "result": "productivebees:expansion_box_bamboo",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bamboo_planks",
+      "minecraft:bamboo_planks",
+      "minecraft:bamboo_planks",
+      "minecraft:bamboo_planks",
+      "minecraft:honeycombs",
+      "minecraft:bamboo_planks",
+      "minecraft:bamboo_planks",
+      "minecraft:bamboo_planks",
+      "minecraft:bamboo_planks"
+    ]
+  },
+  "productivebees:expansion_box_bamboo_canvas": {
+    "result": "productivebees:expansion_box_bamboo_canvas",
+    "count": 1,
+    "ingredients": [
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "productivebees:expansion_box_bamboo",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper"
+    ]
+  },
+  "productivebees:expansion_box_biomesoplenty_dead": {
+    "result": "productivebees:expansion_box_biomesoplenty_dead",
+    "count": 1,
+    "ingredients": [
+      "biomesoplenty:dead_planks",
+      "biomesoplenty:dead_planks",
+      "biomesoplenty:dead_planks",
+      "biomesoplenty:dead_planks",
+      "minecraft:honeycombs",
+      "biomesoplenty:dead_planks",
+      "biomesoplenty:dead_planks",
+      "biomesoplenty:dead_planks",
+      "biomesoplenty:dead_planks"
+    ]
+  },
+  "productivebees:expansion_box_biomesoplenty_fir": {
+    "result": "productivebees:expansion_box_biomesoplenty_fir",
+    "count": 1,
+    "ingredients": [
+      "biomesoplenty:fir_planks",
+      "biomesoplenty:fir_planks",
+      "biomesoplenty:fir_planks",
+      "biomesoplenty:fir_planks",
+      "minecraft:honeycombs",
+      "biomesoplenty:fir_planks",
+      "biomesoplenty:fir_planks",
+      "biomesoplenty:fir_planks",
+      "biomesoplenty:fir_planks"
+    ]
+  },
+  "productivebees:expansion_box_biomesoplenty_hellbark": {
+    "result": "productivebees:expansion_box_biomesoplenty_hellbark",
+    "count": 1,
+    "ingredients": [
+      "biomesoplenty:hellbark_planks",
+      "biomesoplenty:hellbark_planks",
+      "biomesoplenty:hellbark_planks",
+      "biomesoplenty:hellbark_planks",
+      "minecraft:honeycombs",
+      "biomesoplenty:hellbark_planks",
+      "biomesoplenty:hellbark_planks",
+      "biomesoplenty:hellbark_planks",
+      "biomesoplenty:hellbark_planks"
+    ]
+  },
+  "productivebees:expansion_box_biomesoplenty_jacaranda": {
+    "result": "productivebees:expansion_box_biomesoplenty_jacaranda",
+    "count": 1,
+    "ingredients": [
+      "biomesoplenty:jacaranda_planks",
+      "biomesoplenty:jacaranda_planks",
+      "biomesoplenty:jacaranda_planks",
+      "biomesoplenty:jacaranda_planks",
+      "minecraft:honeycombs",
+      "biomesoplenty:jacaranda_planks",
+      "biomesoplenty:jacaranda_planks",
+      "biomesoplenty:jacaranda_planks",
+      "biomesoplenty:jacaranda_planks"
+    ]
+  },
+  "productivebees:expansion_box_biomesoplenty_magic": {
+    "result": "productivebees:expansion_box_biomesoplenty_magic",
+    "count": 1,
+    "ingredients": [
+      "biomesoplenty:magic_planks",
+      "biomesoplenty:magic_planks",
+      "biomesoplenty:magic_planks",
+      "biomesoplenty:magic_planks",
+      "minecraft:honeycombs",
+      "biomesoplenty:magic_planks",
+      "biomesoplenty:magic_planks",
+      "biomesoplenty:magic_planks",
+      "biomesoplenty:magic_planks"
+    ]
+  },
+  "productivebees:expansion_box_biomesoplenty_mahogany": {
+    "result": "productivebees:expansion_box_biomesoplenty_mahogany",
+    "count": 1,
+    "ingredients": [
+      "biomesoplenty:mahogany_planks",
+      "biomesoplenty:mahogany_planks",
+      "biomesoplenty:mahogany_planks",
+      "biomesoplenty:mahogany_planks",
+      "minecraft:honeycombs",
+      "biomesoplenty:mahogany_planks",
+      "biomesoplenty:mahogany_planks",
+      "biomesoplenty:mahogany_planks",
+      "biomesoplenty:mahogany_planks"
+    ]
+  },
+  "productivebees:expansion_box_biomesoplenty_palm": {
+    "result": "productivebees:expansion_box_biomesoplenty_palm",
+    "count": 1,
+    "ingredients": [
+      "biomesoplenty:palm_planks",
+      "biomesoplenty:palm_planks",
+      "biomesoplenty:palm_planks",
+      "biomesoplenty:palm_planks",
+      "minecraft:honeycombs",
+      "biomesoplenty:palm_planks",
+      "biomesoplenty:palm_planks",
+      "biomesoplenty:palm_planks",
+      "biomesoplenty:palm_planks"
+    ]
+  },
+  "productivebees:expansion_box_biomesoplenty_redwood": {
+    "result": "productivebees:expansion_box_biomesoplenty_redwood",
+    "count": 1,
+    "ingredients": [
+      "biomesoplenty:redwood_planks",
+      "biomesoplenty:redwood_planks",
+      "biomesoplenty:redwood_planks",
+      "biomesoplenty:redwood_planks",
+      "minecraft:honeycombs",
+      "biomesoplenty:redwood_planks",
+      "biomesoplenty:redwood_planks",
+      "biomesoplenty:redwood_planks",
+      "biomesoplenty:redwood_planks"
+    ]
+  },
+  "productivebees:expansion_box_biomesoplenty_umbran": {
+    "result": "productivebees:expansion_box_biomesoplenty_umbran",
+    "count": 1,
+    "ingredients": [
+      "biomesoplenty:umbran_planks",
+      "biomesoplenty:umbran_planks",
+      "biomesoplenty:umbran_planks",
+      "biomesoplenty:umbran_planks",
+      "minecraft:honeycombs",
+      "biomesoplenty:umbran_planks",
+      "biomesoplenty:umbran_planks",
+      "biomesoplenty:umbran_planks",
+      "biomesoplenty:umbran_planks"
+    ]
+  },
+  "productivebees:expansion_box_biomesoplenty_willow": {
+    "result": "productivebees:expansion_box_biomesoplenty_willow",
+    "count": 1,
+    "ingredients": [
+      "biomesoplenty:willow_planks",
+      "biomesoplenty:willow_planks",
+      "biomesoplenty:willow_planks",
+      "biomesoplenty:willow_planks",
+      "minecraft:honeycombs",
+      "biomesoplenty:willow_planks",
+      "biomesoplenty:willow_planks",
+      "biomesoplenty:willow_planks",
+      "biomesoplenty:willow_planks"
+    ]
+  },
+  "productivebees:expansion_box_birch": {
+    "result": "productivebees:expansion_box_birch",
+    "count": 1,
+    "ingredients": [
+      "minecraft:birch_planks",
+      "minecraft:birch_planks",
+      "minecraft:birch_planks",
+      "minecraft:birch_planks",
+      "minecraft:honeycombs",
+      "minecraft:birch_planks",
+      "minecraft:birch_planks",
+      "minecraft:birch_planks",
+      "minecraft:birch_planks"
+    ]
+  },
+  "productivebees:expansion_box_birch_canvas": {
+    "result": "productivebees:expansion_box_birch_canvas",
+    "count": 1,
+    "ingredients": [
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "productivebees:expansion_box_birch",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper"
+    ]
+  },
+  "productivebees:expansion_box_cherry": {
+    "result": "productivebees:expansion_box_cherry",
+    "count": 1,
+    "ingredients": [
+      "minecraft:cherry_planks",
+      "minecraft:cherry_planks",
+      "minecraft:cherry_planks",
+      "minecraft:cherry_planks",
+      "minecraft:honeycombs",
+      "minecraft:cherry_planks",
+      "minecraft:cherry_planks",
+      "minecraft:cherry_planks",
+      "minecraft:cherry_planks"
+    ]
+  },
+  "productivebees:expansion_box_cherry_canvas": {
+    "result": "productivebees:expansion_box_cherry_canvas",
+    "count": 1,
+    "ingredients": [
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "productivebees:expansion_box_cherry",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper"
+    ]
+  },
+  "productivebees:expansion_box_crimson": {
+    "result": "productivebees:expansion_box_crimson",
+    "count": 1,
+    "ingredients": [
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks",
+      "minecraft:honeycombs",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks"
+    ]
+  },
+  "productivebees:expansion_box_crimson_canvas": {
+    "result": "productivebees:expansion_box_crimson_canvas",
+    "count": 1,
+    "ingredients": [
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "productivebees:expansion_box_crimson",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper"
+    ]
+  },
+  "productivebees:expansion_box_dark_oak": {
+    "result": "productivebees:expansion_box_dark_oak",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      "minecraft:honeycombs",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks"
+    ]
+  },
+  "productivebees:expansion_box_dark_oak_canvas": {
+    "result": "productivebees:expansion_box_dark_oak_canvas",
+    "count": 1,
+    "ingredients": [
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "productivebees:expansion_box_dark_oak",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper"
+    ]
+  },
+  "productivebees:expansion_box_jungle": {
+    "result": "productivebees:expansion_box_jungle",
+    "count": 1,
+    "ingredients": [
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks",
+      "minecraft:honeycombs",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks"
+    ]
+  },
+  "productivebees:expansion_box_jungle_canvas": {
+    "result": "productivebees:expansion_box_jungle_canvas",
+    "count": 1,
+    "ingredients": [
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "productivebees:expansion_box_jungle",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper"
+    ]
+  },
+  "productivebees:expansion_box_mangrove": {
+    "result": "productivebees:expansion_box_mangrove",
+    "count": 1,
+    "ingredients": [
+      "minecraft:mangrove_planks",
+      "minecraft:mangrove_planks",
+      "minecraft:mangrove_planks",
+      "minecraft:mangrove_planks",
+      "minecraft:honeycombs",
+      "minecraft:mangrove_planks",
+      "minecraft:mangrove_planks",
+      "minecraft:mangrove_planks",
+      "minecraft:mangrove_planks"
+    ]
+  },
+  "productivebees:expansion_box_mangrove_canvas": {
+    "result": "productivebees:expansion_box_mangrove_canvas",
+    "count": 1,
+    "ingredients": [
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "productivebees:expansion_box_mangrove",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper"
+    ]
+  },
+  "productivebees:expansion_box_oak": {
+    "result": "productivebees:expansion_box_oak",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:honeycombs",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks"
+    ]
+  },
+  "productivebees:expansion_box_oak_canvas": {
+    "result": "productivebees:expansion_box_oak_canvas",
+    "count": 1,
+    "ingredients": [
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "productivebees:expansion_box_oak",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper"
+    ]
+  },
+  "productivebees:expansion_box_regions_unexplored_baobab": {
+    "result": "productivebees:expansion_box_regions_unexplored_baobab",
+    "count": 1,
+    "ingredients": [
+      "regions_unexplored:baobab_planks",
+      "regions_unexplored:baobab_planks",
+      "regions_unexplored:baobab_planks",
+      "regions_unexplored:baobab_planks",
+      "minecraft:honeycombs",
+      "regions_unexplored:baobab_planks",
+      "regions_unexplored:baobab_planks",
+      "regions_unexplored:baobab_planks",
+      "regions_unexplored:baobab_planks"
+    ]
+  },
+  "productivebees:expansion_box_regions_unexplored_blackwood": {
+    "result": "productivebees:expansion_box_regions_unexplored_blackwood",
+    "count": 1,
+    "ingredients": [
+      "regions_unexplored:blackwood_planks",
+      "regions_unexplored:blackwood_planks",
+      "regions_unexplored:blackwood_planks",
+      "regions_unexplored:blackwood_planks",
+      "minecraft:honeycombs",
+      "regions_unexplored:blackwood_planks",
+      "regions_unexplored:blackwood_planks",
+      "regions_unexplored:blackwood_planks",
+      "regions_unexplored:blackwood_planks"
+    ]
+  },
+  "productivebees:expansion_box_regions_unexplored_blue_bioshroom": {
+    "result": "productivebees:expansion_box_regions_unexplored_blue_bioshroom",
+    "count": 1,
+    "ingredients": [
+      "regions_unexplored:blue_bioshroom_planks",
+      "regions_unexplored:blue_bioshroom_planks",
+      "regions_unexplored:blue_bioshroom_planks",
+      "regions_unexplored:blue_bioshroom_planks",
+      "minecraft:honeycombs",
+      "regions_unexplored:blue_bioshroom_planks",
+      "regions_unexplored:blue_bioshroom_planks",
+      "regions_unexplored:blue_bioshroom_planks",
+      "regions_unexplored:blue_bioshroom_planks"
+    ]
+  },
+  "productivebees:expansion_box_regions_unexplored_cobalt": {
+    "result": "productivebees:expansion_box_regions_unexplored_cobalt",
+    "count": 1,
+    "ingredients": [
+      "regions_unexplored:cobalt_planks",
+      "regions_unexplored:cobalt_planks",
+      "regions_unexplored:cobalt_planks",
+      "regions_unexplored:cobalt_planks",
+      "minecraft:honeycombs",
+      "regions_unexplored:cobalt_planks",
+      "regions_unexplored:cobalt_planks",
+      "regions_unexplored:cobalt_planks",
+      "regions_unexplored:cobalt_planks"
+    ]
+  },
+  "productivebees:expansion_box_regions_unexplored_cypress": {
+    "result": "productivebees:expansion_box_regions_unexplored_cypress",
+    "count": 1,
+    "ingredients": [
+      "regions_unexplored:cypress_planks",
+      "regions_unexplored:cypress_planks",
+      "regions_unexplored:cypress_planks",
+      "regions_unexplored:cypress_planks",
+      "minecraft:honeycombs",
+      "regions_unexplored:cypress_planks",
+      "regions_unexplored:cypress_planks",
+      "regions_unexplored:cypress_planks",
+      "regions_unexplored:cypress_planks"
+    ]
+  },
+  "productivebees:expansion_box_regions_unexplored_dead": {
+    "result": "productivebees:expansion_box_regions_unexplored_dead",
+    "count": 1,
+    "ingredients": [
+      "regions_unexplored:dead_planks",
+      "regions_unexplored:dead_planks",
+      "regions_unexplored:dead_planks",
+      "regions_unexplored:dead_planks",
+      "minecraft:honeycombs",
+      "regions_unexplored:dead_planks",
+      "regions_unexplored:dead_planks",
+      "regions_unexplored:dead_planks",
+      "regions_unexplored:dead_planks"
+    ]
+  },
+  "productivebees:expansion_box_regions_unexplored_eucalyptus": {
+    "result": "productivebees:expansion_box_regions_unexplored_eucalyptus",
+    "count": 1,
+    "ingredients": [
+      "regions_unexplored:eucalyptus_planks",
+      "regions_unexplored:eucalyptus_planks",
+      "regions_unexplored:eucalyptus_planks",
+      "regions_unexplored:eucalyptus_planks",
+      "minecraft:honeycombs",
+      "regions_unexplored:eucalyptus_planks",
+      "regions_unexplored:eucalyptus_planks",
+      "regions_unexplored:eucalyptus_planks",
+      "regions_unexplored:eucalyptus_planks"
+    ]
+  },
+  "productivebees:expansion_box_regions_unexplored_green_bioshroom": {
+    "result": "productivebees:expansion_box_regions_unexplored_green_bioshroom",
+    "count": 1,
+    "ingredients": [
+      "regions_unexplored:green_bioshroom_planks",
+      "regions_unexplored:green_bioshroom_planks",
+      "regions_unexplored:green_bioshroom_planks",
+      "regions_unexplored:green_bioshroom_planks",
+      "minecraft:honeycombs",
+      "regions_unexplored:green_bioshroom_planks",
+      "regions_unexplored:green_bioshroom_planks",
+      "regions_unexplored:green_bioshroom_planks",
+      "regions_unexplored:green_bioshroom_planks"
+    ]
+  },
+  "productivebees:expansion_box_regions_unexplored_joshua": {
+    "result": "productivebees:expansion_box_regions_unexplored_joshua",
+    "count": 1,
+    "ingredients": [
+      "regions_unexplored:joshua_planks",
+      "regions_unexplored:joshua_planks",
+      "regions_unexplored:joshua_planks",
+      "regions_unexplored:joshua_planks",
+      "minecraft:honeycombs",
+      "regions_unexplored:joshua_planks",
+      "regions_unexplored:joshua_planks",
+      "regions_unexplored:joshua_planks",
+      "regions_unexplored:joshua_planks"
+    ]
+  },
+  "productivebees:expansion_box_regions_unexplored_kapok": {
+    "result": "productivebees:expansion_box_regions_unexplored_kapok",
+    "count": 1,
+    "ingredients": [
+      "regions_unexplored:kapok_planks",
+      "regions_unexplored:kapok_planks",
+      "regions_unexplored:kapok_planks",
+      "regions_unexplored:kapok_planks",
+      "minecraft:honeycombs",
+      "regions_unexplored:kapok_planks",
+      "regions_unexplored:kapok_planks",
+      "regions_unexplored:kapok_planks",
+      "regions_unexplored:kapok_planks"
+    ]
+  },
+  "productivebees:expansion_box_regions_unexplored_larch": {
+    "result": "productivebees:expansion_box_regions_unexplored_larch",
+    "count": 1,
+    "ingredients": [
+      "regions_unexplored:larch_planks",
+      "regions_unexplored:larch_planks",
+      "regions_unexplored:larch_planks",
+      "regions_unexplored:larch_planks",
+      "minecraft:honeycombs",
+      "regions_unexplored:larch_planks",
+      "regions_unexplored:larch_planks",
+      "regions_unexplored:larch_planks",
+      "regions_unexplored:larch_planks"
+    ]
+  },
+  "productivebees:expansion_box_regions_unexplored_magnolia": {
+    "result": "productivebees:expansion_box_regions_unexplored_magnolia",
+    "count": 1,
+    "ingredients": [
+      "regions_unexplored:magnolia_planks",
+      "regions_unexplored:magnolia_planks",
+      "regions_unexplored:magnolia_planks",
+      "regions_unexplored:magnolia_planks",
+      "minecraft:honeycombs",
+      "regions_unexplored:magnolia_planks",
+      "regions_unexplored:magnolia_planks",
+      "regions_unexplored:magnolia_planks",
+      "regions_unexplored:magnolia_planks"
+    ]
+  },
+  "productivebees:expansion_box_regions_unexplored_maple": {
+    "result": "productivebees:expansion_box_regions_unexplored_maple",
+    "count": 1,
+    "ingredients": [
+      "regions_unexplored:maple_planks",
+      "regions_unexplored:maple_planks",
+      "regions_unexplored:maple_planks",
+      "regions_unexplored:maple_planks",
+      "minecraft:honeycombs",
+      "regions_unexplored:maple_planks",
+      "regions_unexplored:maple_planks",
+      "regions_unexplored:maple_planks",
+      "regions_unexplored:maple_planks"
+    ]
+  },
+  "productivebees:expansion_box_regions_unexplored_mauve": {
+    "result": "productivebees:expansion_box_regions_unexplored_mauve",
+    "count": 1,
+    "ingredients": [
+      "regions_unexplored:mauve_planks",
+      "regions_unexplored:mauve_planks",
+      "regions_unexplored:mauve_planks",
+      "regions_unexplored:mauve_planks",
+      "minecraft:honeycombs",
+      "regions_unexplored:mauve_planks",
+      "regions_unexplored:mauve_planks",
+      "regions_unexplored:mauve_planks",
+      "regions_unexplored:mauve_planks"
+    ]
+  },
+  "productivebees:expansion_box_regions_unexplored_palm": {
+    "result": "productivebees:expansion_box_regions_unexplored_palm",
+    "count": 1,
+    "ingredients": [
+      "regions_unexplored:palm_planks",
+      "regions_unexplored:palm_planks",
+      "regions_unexplored:palm_planks",
+      "regions_unexplored:palm_planks",
+      "minecraft:honeycombs",
+      "regions_unexplored:palm_planks",
+      "regions_unexplored:palm_planks",
+      "regions_unexplored:palm_planks",
+      "regions_unexplored:palm_planks"
+    ]
+  },
+  "productivebees:expansion_box_regions_unexplored_pine": {
+    "result": "productivebees:expansion_box_regions_unexplored_pine",
+    "count": 1,
+    "ingredients": [
+      "regions_unexplored:pine_planks",
+      "regions_unexplored:pine_planks",
+      "regions_unexplored:pine_planks",
+      "regions_unexplored:pine_planks",
+      "minecraft:honeycombs",
+      "regions_unexplored:pine_planks",
+      "regions_unexplored:pine_planks",
+      "regions_unexplored:pine_planks",
+      "regions_unexplored:pine_planks"
+    ]
+  },
+  "productivebees:expansion_box_regions_unexplored_pink_bioshroom": {
+    "result": "productivebees:expansion_box_regions_unexplored_pink_bioshroom",
+    "count": 1,
+    "ingredients": [
+      "regions_unexplored:pink_bioshroom_planks",
+      "regions_unexplored:pink_bioshroom_planks",
+      "regions_unexplored:pink_bioshroom_planks",
+      "regions_unexplored:pink_bioshroom_planks",
+      "minecraft:honeycombs",
+      "regions_unexplored:pink_bioshroom_planks",
+      "regions_unexplored:pink_bioshroom_planks",
+      "regions_unexplored:pink_bioshroom_planks",
+      "regions_unexplored:pink_bioshroom_planks"
+    ]
+  },
+  "productivebees:expansion_box_regions_unexplored_redwood": {
+    "result": "productivebees:expansion_box_regions_unexplored_redwood",
+    "count": 1,
+    "ingredients": [
+      "regions_unexplored:redwood_planks",
+      "regions_unexplored:redwood_planks",
+      "regions_unexplored:redwood_planks",
+      "regions_unexplored:redwood_planks",
+      "minecraft:honeycombs",
+      "regions_unexplored:redwood_planks",
+      "regions_unexplored:redwood_planks",
+      "regions_unexplored:redwood_planks",
+      "regions_unexplored:redwood_planks"
+    ]
+  },
+  "productivebees:expansion_box_regions_unexplored_socotra": {
+    "result": "productivebees:expansion_box_regions_unexplored_socotra",
+    "count": 1,
+    "ingredients": [
+      "regions_unexplored:socotra_planks",
+      "regions_unexplored:socotra_planks",
+      "regions_unexplored:socotra_planks",
+      "regions_unexplored:socotra_planks",
+      "minecraft:honeycombs",
+      "regions_unexplored:socotra_planks",
+      "regions_unexplored:socotra_planks",
+      "regions_unexplored:socotra_planks",
+      "regions_unexplored:socotra_planks"
+    ]
+  },
+  "productivebees:expansion_box_regions_unexplored_willow": {
+    "result": "productivebees:expansion_box_regions_unexplored_willow",
+    "count": 1,
+    "ingredients": [
+      "regions_unexplored:willow_planks",
+      "regions_unexplored:willow_planks",
+      "regions_unexplored:willow_planks",
+      "regions_unexplored:willow_planks",
+      "minecraft:honeycombs",
+      "regions_unexplored:willow_planks",
+      "regions_unexplored:willow_planks",
+      "regions_unexplored:willow_planks",
+      "regions_unexplored:willow_planks"
+    ]
+  },
+  "productivebees:expansion_box_regions_unexplored_yellow_bioshroom": {
+    "result": "productivebees:expansion_box_regions_unexplored_yellow_bioshroom",
+    "count": 1,
+    "ingredients": [
+      "regions_unexplored:yellow_bioshroom_planks",
+      "regions_unexplored:yellow_bioshroom_planks",
+      "regions_unexplored:yellow_bioshroom_planks",
+      "regions_unexplored:yellow_bioshroom_planks",
+      "minecraft:honeycombs",
+      "regions_unexplored:yellow_bioshroom_planks",
+      "regions_unexplored:yellow_bioshroom_planks",
+      "regions_unexplored:yellow_bioshroom_planks",
+      "regions_unexplored:yellow_bioshroom_planks"
+    ]
+  },
+  "productivebees:expansion_box_snake_block": {
+    "result": "productivebees:expansion_box_snake_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:prismarine_shard",
+      "minecraft:prismarine_shard",
+      "minecraft:prismarine_shard",
+      "minecraft:prismarine_shard",
+      "minecraft:honeycombs",
+      "minecraft:prismarine_shard",
+      "minecraft:prismarine_shard",
+      "minecraft:prismarine_shard",
+      "minecraft:prismarine_shard"
+    ]
+  },
+  "productivebees:expansion_box_snake_block_canvas": {
+    "result": "productivebees:expansion_box_snake_block_canvas",
+    "count": 1,
+    "ingredients": [
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "productivebees:expansion_box_snake_block",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper"
+    ]
+  },
+  "productivebees:expansion_box_spruce": {
+    "result": "productivebees:expansion_box_spruce",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks",
+      "minecraft:honeycombs",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks"
+    ]
+  },
+  "productivebees:expansion_box_spruce_canvas": {
+    "result": "productivebees:expansion_box_spruce_canvas",
+    "count": 1,
+    "ingredients": [
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "productivebees:expansion_box_spruce",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper"
+    ]
+  },
+  "productivebees:expansion_box_upgrade_aquatic_driftwood": {
+    "result": "productivebees:expansion_box_upgrade_aquatic_driftwood",
+    "count": 1,
+    "ingredients": [
+      "upgrade_aquatic:driftwood_planks",
+      "upgrade_aquatic:driftwood_planks",
+      "upgrade_aquatic:driftwood_planks",
+      "upgrade_aquatic:driftwood_planks",
+      "minecraft:honeycombs",
+      "upgrade_aquatic:driftwood_planks",
+      "upgrade_aquatic:driftwood_planks",
+      "upgrade_aquatic:driftwood_planks",
+      "upgrade_aquatic:driftwood_planks"
+    ]
+  },
+  "productivebees:expansion_box_upgrade_aquatic_river": {
+    "result": "productivebees:expansion_box_upgrade_aquatic_river",
+    "count": 1,
+    "ingredients": [
+      "upgrade_aquatic:river_planks",
+      "upgrade_aquatic:river_planks",
+      "upgrade_aquatic:river_planks",
+      "upgrade_aquatic:river_planks",
+      "minecraft:honeycombs",
+      "upgrade_aquatic:river_planks",
+      "upgrade_aquatic:river_planks",
+      "upgrade_aquatic:river_planks",
+      "upgrade_aquatic:river_planks"
+    ]
+  },
+  "productivebees:expansion_box_warped": {
+    "result": "productivebees:expansion_box_warped",
+    "count": 1,
+    "ingredients": [
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      "minecraft:honeycombs",
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      "minecraft:warped_planks"
+    ]
+  },
+  "productivebees:expansion_box_warped_canvas": {
+    "result": "productivebees:expansion_box_warped_canvas",
+    "count": 1,
+    "ingredients": [
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "productivebees:expansion_box_warped",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper"
+    ]
+  },
+  "productivetrees:expansion_box_alder": {
+    "result": "productivetrees:expansion_box_alder",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:alder_planks",
+      "productivetrees:alder_planks",
+      "productivetrees:alder_planks",
+      "productivetrees:alder_planks",
+      "minecraft:honeycombs",
+      "productivetrees:alder_planks",
+      "productivetrees:alder_planks",
+      "productivetrees:alder_planks",
+      "productivetrees:alder_planks"
+    ]
+  },
+  "productivetrees:expansion_box_allspice": {
+    "result": "productivetrees:expansion_box_allspice",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:allspice_planks",
+      "productivetrees:allspice_planks",
+      "productivetrees:allspice_planks",
+      "productivetrees:allspice_planks",
+      "minecraft:honeycombs",
+      "productivetrees:allspice_planks",
+      "productivetrees:allspice_planks",
+      "productivetrees:allspice_planks",
+      "productivetrees:allspice_planks"
+    ]
+  },
+  "productivetrees:expansion_box_almond": {
+    "result": "productivetrees:expansion_box_almond",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:almond_planks",
+      "productivetrees:almond_planks",
+      "productivetrees:almond_planks",
+      "productivetrees:almond_planks",
+      "minecraft:honeycombs",
+      "productivetrees:almond_planks",
+      "productivetrees:almond_planks",
+      "productivetrees:almond_planks",
+      "productivetrees:almond_planks"
+    ]
+  },
+  "productivetrees:expansion_box_apricot": {
+    "result": "productivetrees:expansion_box_apricot",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:apricot_planks",
+      "productivetrees:apricot_planks",
+      "productivetrees:apricot_planks",
+      "productivetrees:apricot_planks",
+      "minecraft:honeycombs",
+      "productivetrees:apricot_planks",
+      "productivetrees:apricot_planks",
+      "productivetrees:apricot_planks",
+      "productivetrees:apricot_planks"
+    ]
+  },
+  "productivetrees:expansion_box_aquilaria": {
+    "result": "productivetrees:expansion_box_aquilaria",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:aquilaria_planks",
+      "productivetrees:aquilaria_planks",
+      "productivetrees:aquilaria_planks",
+      "productivetrees:aquilaria_planks",
+      "minecraft:honeycombs",
+      "productivetrees:aquilaria_planks",
+      "productivetrees:aquilaria_planks",
+      "productivetrees:aquilaria_planks",
+      "productivetrees:aquilaria_planks"
+    ]
+  },
+  "productivetrees:expansion_box_asai_palm": {
+    "result": "productivetrees:expansion_box_asai_palm",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:asai_palm_planks",
+      "productivetrees:asai_palm_planks",
+      "productivetrees:asai_palm_planks",
+      "productivetrees:asai_palm_planks",
+      "minecraft:honeycombs",
+      "productivetrees:asai_palm_planks",
+      "productivetrees:asai_palm_planks",
+      "productivetrees:asai_palm_planks",
+      "productivetrees:asai_palm_planks"
+    ]
+  },
+  "productivetrees:expansion_box_ash": {
+    "result": "productivetrees:expansion_box_ash",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:ash_planks",
+      "productivetrees:ash_planks",
+      "productivetrees:ash_planks",
+      "productivetrees:ash_planks",
+      "minecraft:honeycombs",
+      "productivetrees:ash_planks",
+      "productivetrees:ash_planks",
+      "productivetrees:ash_planks",
+      "productivetrees:ash_planks"
+    ]
+  },
+  "productivetrees:expansion_box_aspen": {
+    "result": "productivetrees:expansion_box_aspen",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:aspen_planks",
+      "productivetrees:aspen_planks",
+      "productivetrees:aspen_planks",
+      "productivetrees:aspen_planks",
+      "minecraft:honeycombs",
+      "productivetrees:aspen_planks",
+      "productivetrees:aspen_planks",
+      "productivetrees:aspen_planks",
+      "productivetrees:aspen_planks"
+    ]
+  },
+  "productivetrees:expansion_box_avocado": {
+    "result": "productivetrees:expansion_box_avocado",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:avocado_planks",
+      "productivetrees:avocado_planks",
+      "productivetrees:avocado_planks",
+      "productivetrees:avocado_planks",
+      "minecraft:honeycombs",
+      "productivetrees:avocado_planks",
+      "productivetrees:avocado_planks",
+      "productivetrees:avocado_planks",
+      "productivetrees:avocado_planks"
+    ]
+  },
+  "productivetrees:expansion_box_balsa": {
+    "result": "productivetrees:expansion_box_balsa",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:balsa_planks",
+      "productivetrees:balsa_planks",
+      "productivetrees:balsa_planks",
+      "productivetrees:balsa_planks",
+      "minecraft:honeycombs",
+      "productivetrees:balsa_planks",
+      "productivetrees:balsa_planks",
+      "productivetrees:balsa_planks",
+      "productivetrees:balsa_planks"
+    ]
+  },
+  "productivetrees:expansion_box_balsam_fir": {
+    "result": "productivetrees:expansion_box_balsam_fir",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:balsam_fir_planks",
+      "productivetrees:balsam_fir_planks",
+      "productivetrees:balsam_fir_planks",
+      "productivetrees:balsam_fir_planks",
+      "minecraft:honeycombs",
+      "productivetrees:balsam_fir_planks",
+      "productivetrees:balsam_fir_planks",
+      "productivetrees:balsam_fir_planks",
+      "productivetrees:balsam_fir_planks"
+    ]
+  },
+  "productivetrees:expansion_box_banana": {
+    "result": "productivetrees:expansion_box_banana",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:banana_planks",
+      "productivetrees:banana_planks",
+      "productivetrees:banana_planks",
+      "productivetrees:banana_planks",
+      "minecraft:honeycombs",
+      "productivetrees:banana_planks",
+      "productivetrees:banana_planks",
+      "productivetrees:banana_planks",
+      "productivetrees:banana_planks"
+    ]
+  },
+  "productivetrees:expansion_box_bay_leaf": {
+    "result": "productivetrees:expansion_box_bay_leaf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:bay_leaf_planks",
+      "productivetrees:bay_leaf_planks",
+      "productivetrees:bay_leaf_planks",
+      "productivetrees:bay_leaf_planks",
+      "minecraft:honeycombs",
+      "productivetrees:bay_leaf_planks",
+      "productivetrees:bay_leaf_planks",
+      "productivetrees:bay_leaf_planks",
+      "productivetrees:bay_leaf_planks"
+    ]
+  },
+  "productivetrees:expansion_box_beech": {
+    "result": "productivetrees:expansion_box_beech",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:beech_planks",
+      "productivetrees:beech_planks",
+      "productivetrees:beech_planks",
+      "productivetrees:beech_planks",
+      "minecraft:honeycombs",
+      "productivetrees:beech_planks",
+      "productivetrees:beech_planks",
+      "productivetrees:beech_planks",
+      "productivetrees:beech_planks"
+    ]
+  },
+  "productivetrees:expansion_box_beliy_naliv_apple": {
+    "result": "productivetrees:expansion_box_beliy_naliv_apple",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:beliy_naliv_apple_planks",
+      "productivetrees:beliy_naliv_apple_planks",
+      "productivetrees:beliy_naliv_apple_planks",
+      "productivetrees:beliy_naliv_apple_planks",
+      "minecraft:honeycombs",
+      "productivetrees:beliy_naliv_apple_planks",
+      "productivetrees:beliy_naliv_apple_planks",
+      "productivetrees:beliy_naliv_apple_planks",
+      "productivetrees:beliy_naliv_apple_planks"
+    ]
+  },
+  "productivetrees:expansion_box_blackthorn": {
+    "result": "productivetrees:expansion_box_blackthorn",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:blackthorn_planks",
+      "productivetrees:blackthorn_planks",
+      "productivetrees:blackthorn_planks",
+      "productivetrees:blackthorn_planks",
+      "minecraft:honeycombs",
+      "productivetrees:blackthorn_planks",
+      "productivetrees:blackthorn_planks",
+      "productivetrees:blackthorn_planks",
+      "productivetrees:blackthorn_planks"
+    ]
+  },
+  "productivetrees:expansion_box_black_cherry": {
+    "result": "productivetrees:expansion_box_black_cherry",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:black_cherry_planks",
+      "productivetrees:black_cherry_planks",
+      "productivetrees:black_cherry_planks",
+      "productivetrees:black_cherry_planks",
+      "minecraft:honeycombs",
+      "productivetrees:black_cherry_planks",
+      "productivetrees:black_cherry_planks",
+      "productivetrees:black_cherry_planks",
+      "productivetrees:black_cherry_planks"
+    ]
+  },
+  "productivetrees:expansion_box_black_ember": {
+    "result": "productivetrees:expansion_box_black_ember",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:black_ember_planks",
+      "productivetrees:black_ember_planks",
+      "productivetrees:black_ember_planks",
+      "productivetrees:black_ember_planks",
+      "minecraft:honeycombs",
+      "productivetrees:black_ember_planks",
+      "productivetrees:black_ember_planks",
+      "productivetrees:black_ember_planks",
+      "productivetrees:black_ember_planks"
+    ]
+  },
+  "productivetrees:expansion_box_black_locust": {
+    "result": "productivetrees:expansion_box_black_locust",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:black_locust_planks",
+      "productivetrees:black_locust_planks",
+      "productivetrees:black_locust_planks",
+      "productivetrees:black_locust_planks",
+      "minecraft:honeycombs",
+      "productivetrees:black_locust_planks",
+      "productivetrees:black_locust_planks",
+      "productivetrees:black_locust_planks",
+      "productivetrees:black_locust_planks"
+    ]
+  },
+  "productivetrees:expansion_box_blue_mahoe": {
+    "result": "productivetrees:expansion_box_blue_mahoe",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:blue_mahoe_planks",
+      "productivetrees:blue_mahoe_planks",
+      "productivetrees:blue_mahoe_planks",
+      "productivetrees:blue_mahoe_planks",
+      "minecraft:honeycombs",
+      "productivetrees:blue_mahoe_planks",
+      "productivetrees:blue_mahoe_planks",
+      "productivetrees:blue_mahoe_planks",
+      "productivetrees:blue_mahoe_planks"
+    ]
+  },
+  "productivetrees:expansion_box_blue_yonder": {
+    "result": "productivetrees:expansion_box_blue_yonder",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:blue_yonder_planks",
+      "productivetrees:blue_yonder_planks",
+      "productivetrees:blue_yonder_planks",
+      "productivetrees:blue_yonder_planks",
+      "minecraft:honeycombs",
+      "productivetrees:blue_yonder_planks",
+      "productivetrees:blue_yonder_planks",
+      "productivetrees:blue_yonder_planks",
+      "productivetrees:blue_yonder_planks"
+    ]
+  },
+  "productivetrees:expansion_box_boxwood": {
+    "result": "productivetrees:expansion_box_boxwood",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:boxwood_planks",
+      "productivetrees:boxwood_planks",
+      "productivetrees:boxwood_planks",
+      "productivetrees:boxwood_planks",
+      "minecraft:honeycombs",
+      "productivetrees:boxwood_planks",
+      "productivetrees:boxwood_planks",
+      "productivetrees:boxwood_planks",
+      "productivetrees:boxwood_planks"
+    ]
+  },
+  "productivetrees:expansion_box_brazilwood": {
+    "result": "productivetrees:expansion_box_brazilwood",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:brazilwood_planks",
+      "productivetrees:brazilwood_planks",
+      "productivetrees:brazilwood_planks",
+      "productivetrees:brazilwood_planks",
+      "minecraft:honeycombs",
+      "productivetrees:brazilwood_planks",
+      "productivetrees:brazilwood_planks",
+      "productivetrees:brazilwood_planks",
+      "productivetrees:brazilwood_planks"
+    ]
+  },
+  "productivetrees:expansion_box_brazil_nut": {
+    "result": "productivetrees:expansion_box_brazil_nut",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:brazil_nut_planks",
+      "productivetrees:brazil_nut_planks",
+      "productivetrees:brazil_nut_planks",
+      "productivetrees:brazil_nut_planks",
+      "minecraft:honeycombs",
+      "productivetrees:brazil_nut_planks",
+      "productivetrees:brazil_nut_planks",
+      "productivetrees:brazil_nut_planks",
+      "productivetrees:brazil_nut_planks"
+    ]
+  },
+  "productivetrees:expansion_box_breadfruit": {
+    "result": "productivetrees:expansion_box_breadfruit",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:breadfruit_planks",
+      "productivetrees:breadfruit_planks",
+      "productivetrees:breadfruit_planks",
+      "productivetrees:breadfruit_planks",
+      "minecraft:honeycombs",
+      "productivetrees:breadfruit_planks",
+      "productivetrees:breadfruit_planks",
+      "productivetrees:breadfruit_planks",
+      "productivetrees:breadfruit_planks"
+    ]
+  },
+  "productivetrees:expansion_box_brown_amber": {
+    "result": "productivetrees:expansion_box_brown_amber",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:brown_amber_planks",
+      "productivetrees:brown_amber_planks",
+      "productivetrees:brown_amber_planks",
+      "productivetrees:brown_amber_planks",
+      "minecraft:honeycombs",
+      "productivetrees:brown_amber_planks",
+      "productivetrees:brown_amber_planks",
+      "productivetrees:brown_amber_planks",
+      "productivetrees:brown_amber_planks"
+    ]
+  },
+  "productivetrees:expansion_box_buddhas_hand": {
+    "result": "productivetrees:expansion_box_buddhas_hand",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:buddhas_hand_planks",
+      "productivetrees:buddhas_hand_planks",
+      "productivetrees:buddhas_hand_planks",
+      "productivetrees:buddhas_hand_planks",
+      "minecraft:honeycombs",
+      "productivetrees:buddhas_hand_planks",
+      "productivetrees:buddhas_hand_planks",
+      "productivetrees:buddhas_hand_planks",
+      "productivetrees:buddhas_hand_planks"
+    ]
+  },
+  "productivetrees:expansion_box_bull_pine": {
+    "result": "productivetrees:expansion_box_bull_pine",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:bull_pine_planks",
+      "productivetrees:bull_pine_planks",
+      "productivetrees:bull_pine_planks",
+      "productivetrees:bull_pine_planks",
+      "minecraft:honeycombs",
+      "productivetrees:bull_pine_planks",
+      "productivetrees:bull_pine_planks",
+      "productivetrees:bull_pine_planks",
+      "productivetrees:bull_pine_planks"
+    ]
+  },
+  "productivetrees:expansion_box_butternut": {
+    "result": "productivetrees:expansion_box_butternut",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:butternut_planks",
+      "productivetrees:butternut_planks",
+      "productivetrees:butternut_planks",
+      "productivetrees:butternut_planks",
+      "minecraft:honeycombs",
+      "productivetrees:butternut_planks",
+      "productivetrees:butternut_planks",
+      "productivetrees:butternut_planks",
+      "productivetrees:butternut_planks"
+    ]
+  },
+  "productivetrees:expansion_box_cacao": {
+    "result": "productivetrees:expansion_box_cacao",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:cacao_planks",
+      "productivetrees:cacao_planks",
+      "productivetrees:cacao_planks",
+      "productivetrees:cacao_planks",
+      "minecraft:honeycombs",
+      "productivetrees:cacao_planks",
+      "productivetrees:cacao_planks",
+      "productivetrees:cacao_planks",
+      "productivetrees:cacao_planks"
+    ]
+  },
+  "productivetrees:expansion_box_candlenut": {
+    "result": "productivetrees:expansion_box_candlenut",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:candlenut_planks",
+      "productivetrees:candlenut_planks",
+      "productivetrees:candlenut_planks",
+      "productivetrees:candlenut_planks",
+      "minecraft:honeycombs",
+      "productivetrees:candlenut_planks",
+      "productivetrees:candlenut_planks",
+      "productivetrees:candlenut_planks",
+      "productivetrees:candlenut_planks"
+    ]
+  },
+  "productivetrees:expansion_box_carob": {
+    "result": "productivetrees:expansion_box_carob",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:carob_planks",
+      "productivetrees:carob_planks",
+      "productivetrees:carob_planks",
+      "productivetrees:carob_planks",
+      "minecraft:honeycombs",
+      "productivetrees:carob_planks",
+      "productivetrees:carob_planks",
+      "productivetrees:carob_planks",
+      "productivetrees:carob_planks"
+    ]
+  },
+  "productivetrees:expansion_box_cashew": {
+    "result": "productivetrees:expansion_box_cashew",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:cashew_planks",
+      "productivetrees:cashew_planks",
+      "productivetrees:cashew_planks",
+      "productivetrees:cashew_planks",
+      "minecraft:honeycombs",
+      "productivetrees:cashew_planks",
+      "productivetrees:cashew_planks",
+      "productivetrees:cashew_planks",
+      "productivetrees:cashew_planks"
+    ]
+  },
+  "productivetrees:expansion_box_cave_dweller": {
+    "result": "productivetrees:expansion_box_cave_dweller",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:cave_dweller_planks",
+      "productivetrees:cave_dweller_planks",
+      "productivetrees:cave_dweller_planks",
+      "productivetrees:cave_dweller_planks",
+      "minecraft:honeycombs",
+      "productivetrees:cave_dweller_planks",
+      "productivetrees:cave_dweller_planks",
+      "productivetrees:cave_dweller_planks",
+      "productivetrees:cave_dweller_planks"
+    ]
+  },
+  "productivetrees:expansion_box_cedar": {
+    "result": "productivetrees:expansion_box_cedar",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:cedar_planks",
+      "productivetrees:cedar_planks",
+      "productivetrees:cedar_planks",
+      "productivetrees:cedar_planks",
+      "minecraft:honeycombs",
+      "productivetrees:cedar_planks",
+      "productivetrees:cedar_planks",
+      "productivetrees:cedar_planks",
+      "productivetrees:cedar_planks"
+    ]
+  },
+  "productivetrees:expansion_box_cempedak": {
+    "result": "productivetrees:expansion_box_cempedak",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:cempedak_planks",
+      "productivetrees:cempedak_planks",
+      "productivetrees:cempedak_planks",
+      "productivetrees:cempedak_planks",
+      "minecraft:honeycombs",
+      "productivetrees:cempedak_planks",
+      "productivetrees:cempedak_planks",
+      "productivetrees:cempedak_planks",
+      "productivetrees:cempedak_planks"
+    ]
+  },
+  "productivetrees:expansion_box_ceylon_ebony": {
+    "result": "productivetrees:expansion_box_ceylon_ebony",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:ceylon_ebony_planks",
+      "productivetrees:ceylon_ebony_planks",
+      "productivetrees:ceylon_ebony_planks",
+      "productivetrees:ceylon_ebony_planks",
+      "minecraft:honeycombs",
+      "productivetrees:ceylon_ebony_planks",
+      "productivetrees:ceylon_ebony_planks",
+      "productivetrees:ceylon_ebony_planks",
+      "productivetrees:ceylon_ebony_planks"
+    ]
+  },
+  "productivetrees:expansion_box_cherry_plum": {
+    "result": "productivetrees:expansion_box_cherry_plum",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:cherry_plum_planks",
+      "productivetrees:cherry_plum_planks",
+      "productivetrees:cherry_plum_planks",
+      "productivetrees:cherry_plum_planks",
+      "minecraft:honeycombs",
+      "productivetrees:cherry_plum_planks",
+      "productivetrees:cherry_plum_planks",
+      "productivetrees:cherry_plum_planks",
+      "productivetrees:cherry_plum_planks"
+    ]
+  },
+  "productivetrees:expansion_box_cinnamon": {
+    "result": "productivetrees:expansion_box_cinnamon",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:cinnamon_planks",
+      "productivetrees:cinnamon_planks",
+      "productivetrees:cinnamon_planks",
+      "productivetrees:cinnamon_planks",
+      "minecraft:honeycombs",
+      "productivetrees:cinnamon_planks",
+      "productivetrees:cinnamon_planks",
+      "productivetrees:cinnamon_planks",
+      "productivetrees:cinnamon_planks"
+    ]
+  },
+  "productivetrees:expansion_box_citron": {
+    "result": "productivetrees:expansion_box_citron",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:citron_planks",
+      "productivetrees:citron_planks",
+      "productivetrees:citron_planks",
+      "productivetrees:citron_planks",
+      "minecraft:honeycombs",
+      "productivetrees:citron_planks",
+      "productivetrees:citron_planks",
+      "productivetrees:citron_planks",
+      "productivetrees:citron_planks"
+    ]
+  },
+  "productivetrees:expansion_box_clove": {
+    "result": "productivetrees:expansion_box_clove",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:clove_planks",
+      "productivetrees:clove_planks",
+      "productivetrees:clove_planks",
+      "productivetrees:clove_planks",
+      "minecraft:honeycombs",
+      "productivetrees:clove_planks",
+      "productivetrees:clove_planks",
+      "productivetrees:clove_planks",
+      "productivetrees:clove_planks"
+    ]
+  },
+  "productivetrees:expansion_box_cocobolo": {
+    "result": "productivetrees:expansion_box_cocobolo",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:cocobolo_planks",
+      "productivetrees:cocobolo_planks",
+      "productivetrees:cocobolo_planks",
+      "productivetrees:cocobolo_planks",
+      "minecraft:honeycombs",
+      "productivetrees:cocobolo_planks",
+      "productivetrees:cocobolo_planks",
+      "productivetrees:cocobolo_planks",
+      "productivetrees:cocobolo_planks"
+    ]
+  },
+  "productivetrees:expansion_box_coconut": {
+    "result": "productivetrees:expansion_box_coconut",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:coconut_planks",
+      "productivetrees:coconut_planks",
+      "productivetrees:coconut_planks",
+      "productivetrees:coconut_planks",
+      "minecraft:honeycombs",
+      "productivetrees:coconut_planks",
+      "productivetrees:coconut_planks",
+      "productivetrees:coconut_planks",
+      "productivetrees:coconut_planks"
+    ]
+  },
+  "productivetrees:expansion_box_coffea": {
+    "result": "productivetrees:expansion_box_coffea",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:coffea_planks",
+      "productivetrees:coffea_planks",
+      "productivetrees:coffea_planks",
+      "productivetrees:coffea_planks",
+      "minecraft:honeycombs",
+      "productivetrees:coffea_planks",
+      "productivetrees:coffea_planks",
+      "productivetrees:coffea_planks",
+      "productivetrees:coffea_planks"
+    ]
+  },
+  "productivetrees:expansion_box_copoazu": {
+    "result": "productivetrees:expansion_box_copoazu",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:copoazu_planks",
+      "productivetrees:copoazu_planks",
+      "productivetrees:copoazu_planks",
+      "productivetrees:copoazu_planks",
+      "minecraft:honeycombs",
+      "productivetrees:copoazu_planks",
+      "productivetrees:copoazu_planks",
+      "productivetrees:copoazu_planks",
+      "productivetrees:copoazu_planks"
+    ]
+  },
+  "productivetrees:expansion_box_copper_beech": {
+    "result": "productivetrees:expansion_box_copper_beech",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:copper_beech_planks",
+      "productivetrees:copper_beech_planks",
+      "productivetrees:copper_beech_planks",
+      "productivetrees:copper_beech_planks",
+      "minecraft:honeycombs",
+      "productivetrees:copper_beech_planks",
+      "productivetrees:copper_beech_planks",
+      "productivetrees:copper_beech_planks",
+      "productivetrees:copper_beech_planks"
+    ]
+  },
+  "productivetrees:expansion_box_cork_oak": {
+    "result": "productivetrees:expansion_box_cork_oak",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:cork_oak_planks",
+      "productivetrees:cork_oak_planks",
+      "productivetrees:cork_oak_planks",
+      "productivetrees:cork_oak_planks",
+      "minecraft:honeycombs",
+      "productivetrees:cork_oak_planks",
+      "productivetrees:cork_oak_planks",
+      "productivetrees:cork_oak_planks",
+      "productivetrees:cork_oak_planks"
+    ]
+  },
+  "productivetrees:expansion_box_cultivated_pear": {
+    "result": "productivetrees:expansion_box_cultivated_pear",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:cultivated_pear_planks",
+      "productivetrees:cultivated_pear_planks",
+      "productivetrees:cultivated_pear_planks",
+      "productivetrees:cultivated_pear_planks",
+      "minecraft:honeycombs",
+      "productivetrees:cultivated_pear_planks",
+      "productivetrees:cultivated_pear_planks",
+      "productivetrees:cultivated_pear_planks",
+      "productivetrees:cultivated_pear_planks"
+    ]
+  },
+  "productivetrees:expansion_box_date_palm": {
+    "result": "productivetrees:expansion_box_date_palm",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:date_palm_planks",
+      "productivetrees:date_palm_planks",
+      "productivetrees:date_palm_planks",
+      "productivetrees:date_palm_planks",
+      "minecraft:honeycombs",
+      "productivetrees:date_palm_planks",
+      "productivetrees:date_palm_planks",
+      "productivetrees:date_palm_planks",
+      "productivetrees:date_palm_planks"
+    ]
+  },
+  "productivetrees:expansion_box_dogwood": {
+    "result": "productivetrees:expansion_box_dogwood",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:dogwood_planks",
+      "productivetrees:dogwood_planks",
+      "productivetrees:dogwood_planks",
+      "productivetrees:dogwood_planks",
+      "minecraft:honeycombs",
+      "productivetrees:dogwood_planks",
+      "productivetrees:dogwood_planks",
+      "productivetrees:dogwood_planks",
+      "productivetrees:dogwood_planks"
+    ]
+  },
+  "productivetrees:expansion_box_douglas_fir": {
+    "result": "productivetrees:expansion_box_douglas_fir",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:douglas_fir_planks",
+      "productivetrees:douglas_fir_planks",
+      "productivetrees:douglas_fir_planks",
+      "productivetrees:douglas_fir_planks",
+      "minecraft:honeycombs",
+      "productivetrees:douglas_fir_planks",
+      "productivetrees:douglas_fir_planks",
+      "productivetrees:douglas_fir_planks",
+      "productivetrees:douglas_fir_planks"
+    ]
+  },
+  "productivetrees:expansion_box_elm": {
+    "result": "productivetrees:expansion_box_elm",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:elm_planks",
+      "productivetrees:elm_planks",
+      "productivetrees:elm_planks",
+      "productivetrees:elm_planks",
+      "minecraft:honeycombs",
+      "productivetrees:elm_planks",
+      "productivetrees:elm_planks",
+      "productivetrees:elm_planks",
+      "productivetrees:elm_planks"
+    ]
+  },
+  "productivetrees:expansion_box_european_larch": {
+    "result": "productivetrees:expansion_box_european_larch",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:european_larch_planks",
+      "productivetrees:european_larch_planks",
+      "productivetrees:european_larch_planks",
+      "productivetrees:european_larch_planks",
+      "minecraft:honeycombs",
+      "productivetrees:european_larch_planks",
+      "productivetrees:european_larch_planks",
+      "productivetrees:european_larch_planks",
+      "productivetrees:european_larch_planks"
+    ]
+  },
+  "productivetrees:expansion_box_finger_lime": {
+    "result": "productivetrees:expansion_box_finger_lime",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:finger_lime_planks",
+      "productivetrees:finger_lime_planks",
+      "productivetrees:finger_lime_planks",
+      "productivetrees:finger_lime_planks",
+      "minecraft:honeycombs",
+      "productivetrees:finger_lime_planks",
+      "productivetrees:finger_lime_planks",
+      "productivetrees:finger_lime_planks",
+      "productivetrees:finger_lime_planks"
+    ]
+  },
+  "productivetrees:expansion_box_firecracker": {
+    "result": "productivetrees:expansion_box_firecracker",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:firecracker_planks",
+      "productivetrees:firecracker_planks",
+      "productivetrees:firecracker_planks",
+      "productivetrees:firecracker_planks",
+      "minecraft:honeycombs",
+      "productivetrees:firecracker_planks",
+      "productivetrees:firecracker_planks",
+      "productivetrees:firecracker_planks",
+      "productivetrees:firecracker_planks"
+    ]
+  },
+  "productivetrees:expansion_box_flickering_sun": {
+    "result": "productivetrees:expansion_box_flickering_sun",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:flickering_sun_planks",
+      "productivetrees:flickering_sun_planks",
+      "productivetrees:flickering_sun_planks",
+      "productivetrees:flickering_sun_planks",
+      "minecraft:honeycombs",
+      "productivetrees:flickering_sun_planks",
+      "productivetrees:flickering_sun_planks",
+      "productivetrees:flickering_sun_planks",
+      "productivetrees:flickering_sun_planks"
+    ]
+  },
+  "productivetrees:expansion_box_flowering_crabapple": {
+    "result": "productivetrees:expansion_box_flowering_crabapple",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:flowering_crabapple_planks",
+      "productivetrees:flowering_crabapple_planks",
+      "productivetrees:flowering_crabapple_planks",
+      "productivetrees:flowering_crabapple_planks",
+      "minecraft:honeycombs",
+      "productivetrees:flowering_crabapple_planks",
+      "productivetrees:flowering_crabapple_planks",
+      "productivetrees:flowering_crabapple_planks",
+      "productivetrees:flowering_crabapple_planks"
+    ]
+  },
+  "productivetrees:expansion_box_foggy_blast": {
+    "result": "productivetrees:expansion_box_foggy_blast",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:foggy_blast_planks",
+      "productivetrees:foggy_blast_planks",
+      "productivetrees:foggy_blast_planks",
+      "productivetrees:foggy_blast_planks",
+      "minecraft:honeycombs",
+      "productivetrees:foggy_blast_planks",
+      "productivetrees:foggy_blast_planks",
+      "productivetrees:foggy_blast_planks",
+      "productivetrees:foggy_blast_planks"
+    ]
+  },
+  "productivetrees:expansion_box_ginkgo": {
+    "result": "productivetrees:expansion_box_ginkgo",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:ginkgo_planks",
+      "productivetrees:ginkgo_planks",
+      "productivetrees:ginkgo_planks",
+      "productivetrees:ginkgo_planks",
+      "minecraft:honeycombs",
+      "productivetrees:ginkgo_planks",
+      "productivetrees:ginkgo_planks",
+      "productivetrees:ginkgo_planks",
+      "productivetrees:ginkgo_planks"
+    ]
+  },
+  "productivetrees:expansion_box_golden_delicious_apple": {
+    "result": "productivetrees:expansion_box_golden_delicious_apple",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:golden_delicious_apple_planks",
+      "productivetrees:golden_delicious_apple_planks",
+      "productivetrees:golden_delicious_apple_planks",
+      "productivetrees:golden_delicious_apple_planks",
+      "minecraft:honeycombs",
+      "productivetrees:golden_delicious_apple_planks",
+      "productivetrees:golden_delicious_apple_planks",
+      "productivetrees:golden_delicious_apple_planks",
+      "productivetrees:golden_delicious_apple_planks"
+    ]
+  },
+  "productivetrees:expansion_box_grandidiers_baobab": {
+    "result": "productivetrees:expansion_box_grandidiers_baobab",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:grandidiers_baobab_planks",
+      "productivetrees:grandidiers_baobab_planks",
+      "productivetrees:grandidiers_baobab_planks",
+      "productivetrees:grandidiers_baobab_planks",
+      "minecraft:honeycombs",
+      "productivetrees:grandidiers_baobab_planks",
+      "productivetrees:grandidiers_baobab_planks",
+      "productivetrees:grandidiers_baobab_planks",
+      "productivetrees:grandidiers_baobab_planks"
+    ]
+  },
+  "productivetrees:expansion_box_granny_smith_apple": {
+    "result": "productivetrees:expansion_box_granny_smith_apple",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:granny_smith_apple_planks",
+      "productivetrees:granny_smith_apple_planks",
+      "productivetrees:granny_smith_apple_planks",
+      "productivetrees:granny_smith_apple_planks",
+      "minecraft:honeycombs",
+      "productivetrees:granny_smith_apple_planks",
+      "productivetrees:granny_smith_apple_planks",
+      "productivetrees:granny_smith_apple_planks",
+      "productivetrees:granny_smith_apple_planks"
+    ]
+  },
+  "productivetrees:expansion_box_grapefruit": {
+    "result": "productivetrees:expansion_box_grapefruit",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:grapefruit_planks",
+      "productivetrees:grapefruit_planks",
+      "productivetrees:grapefruit_planks",
+      "productivetrees:grapefruit_planks",
+      "minecraft:honeycombs",
+      "productivetrees:grapefruit_planks",
+      "productivetrees:grapefruit_planks",
+      "productivetrees:grapefruit_planks",
+      "productivetrees:grapefruit_planks"
+    ]
+  },
+  "productivetrees:expansion_box_great_sallow": {
+    "result": "productivetrees:expansion_box_great_sallow",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:great_sallow_planks",
+      "productivetrees:great_sallow_planks",
+      "productivetrees:great_sallow_planks",
+      "productivetrees:great_sallow_planks",
+      "minecraft:honeycombs",
+      "productivetrees:great_sallow_planks",
+      "productivetrees:great_sallow_planks",
+      "productivetrees:great_sallow_planks",
+      "productivetrees:great_sallow_planks"
+    ]
+  },
+  "productivetrees:expansion_box_greenheart": {
+    "result": "productivetrees:expansion_box_greenheart",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:greenheart_planks",
+      "productivetrees:greenheart_planks",
+      "productivetrees:greenheart_planks",
+      "productivetrees:greenheart_planks",
+      "minecraft:honeycombs",
+      "productivetrees:greenheart_planks",
+      "productivetrees:greenheart_planks",
+      "productivetrees:greenheart_planks",
+      "productivetrees:greenheart_planks"
+    ]
+  },
+  "productivetrees:expansion_box_hawthorn": {
+    "result": "productivetrees:expansion_box_hawthorn",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:hawthorn_planks",
+      "productivetrees:hawthorn_planks",
+      "productivetrees:hawthorn_planks",
+      "productivetrees:hawthorn_planks",
+      "minecraft:honeycombs",
+      "productivetrees:hawthorn_planks",
+      "productivetrees:hawthorn_planks",
+      "productivetrees:hawthorn_planks",
+      "productivetrees:hawthorn_planks"
+    ]
+  },
+  "productivetrees:expansion_box_hazel": {
+    "result": "productivetrees:expansion_box_hazel",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:hazel_planks",
+      "productivetrees:hazel_planks",
+      "productivetrees:hazel_planks",
+      "productivetrees:hazel_planks",
+      "minecraft:honeycombs",
+      "productivetrees:hazel_planks",
+      "productivetrees:hazel_planks",
+      "productivetrees:hazel_planks",
+      "productivetrees:hazel_planks"
+    ]
+  },
+  "productivetrees:expansion_box_holly": {
+    "result": "productivetrees:expansion_box_holly",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:holly_planks",
+      "productivetrees:holly_planks",
+      "productivetrees:holly_planks",
+      "productivetrees:holly_planks",
+      "minecraft:honeycombs",
+      "productivetrees:holly_planks",
+      "productivetrees:holly_planks",
+      "productivetrees:holly_planks",
+      "productivetrees:holly_planks"
+    ]
+  },
+  "productivetrees:expansion_box_hornbeam": {
+    "result": "productivetrees:expansion_box_hornbeam",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:hornbeam_planks",
+      "productivetrees:hornbeam_planks",
+      "productivetrees:hornbeam_planks",
+      "productivetrees:hornbeam_planks",
+      "minecraft:honeycombs",
+      "productivetrees:hornbeam_planks",
+      "productivetrees:hornbeam_planks",
+      "productivetrees:hornbeam_planks",
+      "productivetrees:hornbeam_planks"
+    ]
+  },
+  "productivetrees:expansion_box_ipe": {
+    "result": "productivetrees:expansion_box_ipe",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:ipe_planks",
+      "productivetrees:ipe_planks",
+      "productivetrees:ipe_planks",
+      "productivetrees:ipe_planks",
+      "minecraft:honeycombs",
+      "productivetrees:ipe_planks",
+      "productivetrees:ipe_planks",
+      "productivetrees:ipe_planks",
+      "productivetrees:ipe_planks"
+    ]
+  },
+  "productivetrees:expansion_box_iroko": {
+    "result": "productivetrees:expansion_box_iroko",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:iroko_planks",
+      "productivetrees:iroko_planks",
+      "productivetrees:iroko_planks",
+      "productivetrees:iroko_planks",
+      "minecraft:honeycombs",
+      "productivetrees:iroko_planks",
+      "productivetrees:iroko_planks",
+      "productivetrees:iroko_planks",
+      "productivetrees:iroko_planks"
+    ]
+  },
+  "productivetrees:expansion_box_jackfruit": {
+    "result": "productivetrees:expansion_box_jackfruit",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:jackfruit_planks",
+      "productivetrees:jackfruit_planks",
+      "productivetrees:jackfruit_planks",
+      "productivetrees:jackfruit_planks",
+      "minecraft:honeycombs",
+      "productivetrees:jackfruit_planks",
+      "productivetrees:jackfruit_planks",
+      "productivetrees:jackfruit_planks",
+      "productivetrees:jackfruit_planks"
+    ]
+  },
+  "productivetrees:expansion_box_juniper": {
+    "result": "productivetrees:expansion_box_juniper",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:juniper_planks",
+      "productivetrees:juniper_planks",
+      "productivetrees:juniper_planks",
+      "productivetrees:juniper_planks",
+      "minecraft:honeycombs",
+      "productivetrees:juniper_planks",
+      "productivetrees:juniper_planks",
+      "productivetrees:juniper_planks",
+      "productivetrees:juniper_planks"
+    ]
+  },
+  "productivetrees:expansion_box_kapok": {
+    "result": "productivetrees:expansion_box_kapok",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:kapok_planks",
+      "productivetrees:kapok_planks",
+      "productivetrees:kapok_planks",
+      "productivetrees:kapok_planks",
+      "minecraft:honeycombs",
+      "productivetrees:kapok_planks",
+      "productivetrees:kapok_planks",
+      "productivetrees:kapok_planks",
+      "productivetrees:kapok_planks"
+    ]
+  },
+  "productivetrees:expansion_box_key_lime": {
+    "result": "productivetrees:expansion_box_key_lime",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:key_lime_planks",
+      "productivetrees:key_lime_planks",
+      "productivetrees:key_lime_planks",
+      "productivetrees:key_lime_planks",
+      "minecraft:honeycombs",
+      "productivetrees:key_lime_planks",
+      "productivetrees:key_lime_planks",
+      "productivetrees:key_lime_planks",
+      "productivetrees:key_lime_planks"
+    ]
+  },
+  "productivetrees:expansion_box_kumquat": {
+    "result": "productivetrees:expansion_box_kumquat",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:kumquat_planks",
+      "productivetrees:kumquat_planks",
+      "productivetrees:kumquat_planks",
+      "productivetrees:kumquat_planks",
+      "minecraft:honeycombs",
+      "productivetrees:kumquat_planks",
+      "productivetrees:kumquat_planks",
+      "productivetrees:kumquat_planks",
+      "productivetrees:kumquat_planks"
+    ]
+  },
+  "productivetrees:expansion_box_lawson_cypress": {
+    "result": "productivetrees:expansion_box_lawson_cypress",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:lawson_cypress_planks",
+      "productivetrees:lawson_cypress_planks",
+      "productivetrees:lawson_cypress_planks",
+      "productivetrees:lawson_cypress_planks",
+      "minecraft:honeycombs",
+      "productivetrees:lawson_cypress_planks",
+      "productivetrees:lawson_cypress_planks",
+      "productivetrees:lawson_cypress_planks",
+      "productivetrees:lawson_cypress_planks"
+    ]
+  },
+  "productivetrees:expansion_box_lemon": {
+    "result": "productivetrees:expansion_box_lemon",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:lemon_planks",
+      "productivetrees:lemon_planks",
+      "productivetrees:lemon_planks",
+      "productivetrees:lemon_planks",
+      "minecraft:honeycombs",
+      "productivetrees:lemon_planks",
+      "productivetrees:lemon_planks",
+      "productivetrees:lemon_planks",
+      "productivetrees:lemon_planks"
+    ]
+  },
+  "productivetrees:expansion_box_lime": {
+    "result": "productivetrees:expansion_box_lime",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:lime_planks",
+      "productivetrees:lime_planks",
+      "productivetrees:lime_planks",
+      "productivetrees:lime_planks",
+      "minecraft:honeycombs",
+      "productivetrees:lime_planks",
+      "productivetrees:lime_planks",
+      "productivetrees:lime_planks",
+      "productivetrees:lime_planks"
+    ]
+  },
+  "productivetrees:expansion_box_loblolly_pine": {
+    "result": "productivetrees:expansion_box_loblolly_pine",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:loblolly_pine_planks",
+      "productivetrees:loblolly_pine_planks",
+      "productivetrees:loblolly_pine_planks",
+      "productivetrees:loblolly_pine_planks",
+      "minecraft:honeycombs",
+      "productivetrees:loblolly_pine_planks",
+      "productivetrees:loblolly_pine_planks",
+      "productivetrees:loblolly_pine_planks",
+      "productivetrees:loblolly_pine_planks"
+    ]
+  },
+  "productivetrees:expansion_box_logwood": {
+    "result": "productivetrees:expansion_box_logwood",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:logwood_planks",
+      "productivetrees:logwood_planks",
+      "productivetrees:logwood_planks",
+      "productivetrees:logwood_planks",
+      "minecraft:honeycombs",
+      "productivetrees:logwood_planks",
+      "productivetrees:logwood_planks",
+      "productivetrees:logwood_planks",
+      "productivetrees:logwood_planks"
+    ]
+  },
+  "productivetrees:expansion_box_mahogany": {
+    "result": "productivetrees:expansion_box_mahogany",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:mahogany_planks",
+      "productivetrees:mahogany_planks",
+      "productivetrees:mahogany_planks",
+      "productivetrees:mahogany_planks",
+      "minecraft:honeycombs",
+      "productivetrees:mahogany_planks",
+      "productivetrees:mahogany_planks",
+      "productivetrees:mahogany_planks",
+      "productivetrees:mahogany_planks"
+    ]
+  },
+  "productivetrees:expansion_box_mandarin": {
+    "result": "productivetrees:expansion_box_mandarin",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:mandarin_planks",
+      "productivetrees:mandarin_planks",
+      "productivetrees:mandarin_planks",
+      "productivetrees:mandarin_planks",
+      "minecraft:honeycombs",
+      "productivetrees:mandarin_planks",
+      "productivetrees:mandarin_planks",
+      "productivetrees:mandarin_planks",
+      "productivetrees:mandarin_planks"
+    ]
+  },
+  "productivetrees:expansion_box_mango": {
+    "result": "productivetrees:expansion_box_mango",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:mango_planks",
+      "productivetrees:mango_planks",
+      "productivetrees:mango_planks",
+      "productivetrees:mango_planks",
+      "minecraft:honeycombs",
+      "productivetrees:mango_planks",
+      "productivetrees:mango_planks",
+      "productivetrees:mango_planks",
+      "productivetrees:mango_planks"
+    ]
+  },
+  "productivetrees:expansion_box_monkey_puzzle": {
+    "result": "productivetrees:expansion_box_monkey_puzzle",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:monkey_puzzle_planks",
+      "productivetrees:monkey_puzzle_planks",
+      "productivetrees:monkey_puzzle_planks",
+      "productivetrees:monkey_puzzle_planks",
+      "minecraft:honeycombs",
+      "productivetrees:monkey_puzzle_planks",
+      "productivetrees:monkey_puzzle_planks",
+      "productivetrees:monkey_puzzle_planks",
+      "productivetrees:monkey_puzzle_planks"
+    ]
+  },
+  "productivetrees:expansion_box_moonlight_magic_crepe_myrtle": {
+    "result": "productivetrees:expansion_box_moonlight_magic_crepe_myrtle",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:moonlight_magic_crepe_myrtle_planks",
+      "productivetrees:moonlight_magic_crepe_myrtle_planks",
+      "productivetrees:moonlight_magic_crepe_myrtle_planks",
+      "productivetrees:moonlight_magic_crepe_myrtle_planks",
+      "minecraft:honeycombs",
+      "productivetrees:moonlight_magic_crepe_myrtle_planks",
+      "productivetrees:moonlight_magic_crepe_myrtle_planks",
+      "productivetrees:moonlight_magic_crepe_myrtle_planks",
+      "productivetrees:moonlight_magic_crepe_myrtle_planks"
+    ]
+  },
+  "productivetrees:expansion_box_myrtle_ebony": {
+    "result": "productivetrees:expansion_box_myrtle_ebony",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:myrtle_ebony_planks",
+      "productivetrees:myrtle_ebony_planks",
+      "productivetrees:myrtle_ebony_planks",
+      "productivetrees:myrtle_ebony_planks",
+      "minecraft:honeycombs",
+      "productivetrees:myrtle_ebony_planks",
+      "productivetrees:myrtle_ebony_planks",
+      "productivetrees:myrtle_ebony_planks",
+      "productivetrees:myrtle_ebony_planks"
+    ]
+  },
+  "productivetrees:expansion_box_nectarine": {
+    "result": "productivetrees:expansion_box_nectarine",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:nectarine_planks",
+      "productivetrees:nectarine_planks",
+      "productivetrees:nectarine_planks",
+      "productivetrees:nectarine_planks",
+      "minecraft:honeycombs",
+      "productivetrees:nectarine_planks",
+      "productivetrees:nectarine_planks",
+      "productivetrees:nectarine_planks",
+      "productivetrees:nectarine_planks"
+    ]
+  },
+  "productivetrees:expansion_box_night_fuchsia": {
+    "result": "productivetrees:expansion_box_night_fuchsia",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:night_fuchsia_planks",
+      "productivetrees:night_fuchsia_planks",
+      "productivetrees:night_fuchsia_planks",
+      "productivetrees:night_fuchsia_planks",
+      "minecraft:honeycombs",
+      "productivetrees:night_fuchsia_planks",
+      "productivetrees:night_fuchsia_planks",
+      "productivetrees:night_fuchsia_planks",
+      "productivetrees:night_fuchsia_planks"
+    ]
+  },
+  "productivetrees:expansion_box_nutmeg": {
+    "result": "productivetrees:expansion_box_nutmeg",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:nutmeg_planks",
+      "productivetrees:nutmeg_planks",
+      "productivetrees:nutmeg_planks",
+      "productivetrees:nutmeg_planks",
+      "minecraft:honeycombs",
+      "productivetrees:nutmeg_planks",
+      "productivetrees:nutmeg_planks",
+      "productivetrees:nutmeg_planks",
+      "productivetrees:nutmeg_planks"
+    ]
+  },
+  "productivetrees:expansion_box_old_fustic": {
+    "result": "productivetrees:expansion_box_old_fustic",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:old_fustic_planks",
+      "productivetrees:old_fustic_planks",
+      "productivetrees:old_fustic_planks",
+      "productivetrees:old_fustic_planks",
+      "minecraft:honeycombs",
+      "productivetrees:old_fustic_planks",
+      "productivetrees:old_fustic_planks",
+      "productivetrees:old_fustic_planks",
+      "productivetrees:old_fustic_planks"
+    ]
+  },
+  "productivetrees:expansion_box_olive": {
+    "result": "productivetrees:expansion_box_olive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:olive_planks",
+      "productivetrees:olive_planks",
+      "productivetrees:olive_planks",
+      "productivetrees:olive_planks",
+      "minecraft:honeycombs",
+      "productivetrees:olive_planks",
+      "productivetrees:olive_planks",
+      "productivetrees:olive_planks",
+      "productivetrees:olive_planks"
+    ]
+  },
+  "productivetrees:expansion_box_orange": {
+    "result": "productivetrees:expansion_box_orange",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:orange_planks",
+      "productivetrees:orange_planks",
+      "productivetrees:orange_planks",
+      "productivetrees:orange_planks",
+      "minecraft:honeycombs",
+      "productivetrees:orange_planks",
+      "productivetrees:orange_planks",
+      "productivetrees:orange_planks",
+      "productivetrees:orange_planks"
+    ]
+  },
+  "productivetrees:expansion_box_osage_orange": {
+    "result": "productivetrees:expansion_box_osage_orange",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:osage_orange_planks",
+      "productivetrees:osage_orange_planks",
+      "productivetrees:osage_orange_planks",
+      "productivetrees:osage_orange_planks",
+      "minecraft:honeycombs",
+      "productivetrees:osage_orange_planks",
+      "productivetrees:osage_orange_planks",
+      "productivetrees:osage_orange_planks",
+      "productivetrees:osage_orange_planks"
+    ]
+  },
+  "productivetrees:expansion_box_padauk": {
+    "result": "productivetrees:expansion_box_padauk",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:padauk_planks",
+      "productivetrees:padauk_planks",
+      "productivetrees:padauk_planks",
+      "productivetrees:padauk_planks",
+      "minecraft:honeycombs",
+      "productivetrees:padauk_planks",
+      "productivetrees:padauk_planks",
+      "productivetrees:padauk_planks",
+      "productivetrees:padauk_planks"
+    ]
+  },
+  "productivetrees:expansion_box_pandanus": {
+    "result": "productivetrees:expansion_box_pandanus",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:pandanus_planks",
+      "productivetrees:pandanus_planks",
+      "productivetrees:pandanus_planks",
+      "productivetrees:pandanus_planks",
+      "minecraft:honeycombs",
+      "productivetrees:pandanus_planks",
+      "productivetrees:pandanus_planks",
+      "productivetrees:pandanus_planks",
+      "productivetrees:pandanus_planks"
+    ]
+  },
+  "productivetrees:expansion_box_papaya": {
+    "result": "productivetrees:expansion_box_papaya",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:papaya_planks",
+      "productivetrees:papaya_planks",
+      "productivetrees:papaya_planks",
+      "productivetrees:papaya_planks",
+      "minecraft:honeycombs",
+      "productivetrees:papaya_planks",
+      "productivetrees:papaya_planks",
+      "productivetrees:papaya_planks",
+      "productivetrees:papaya_planks"
+    ]
+  },
+  "productivetrees:expansion_box_peach": {
+    "result": "productivetrees:expansion_box_peach",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:peach_planks",
+      "productivetrees:peach_planks",
+      "productivetrees:peach_planks",
+      "productivetrees:peach_planks",
+      "minecraft:honeycombs",
+      "productivetrees:peach_planks",
+      "productivetrees:peach_planks",
+      "productivetrees:peach_planks",
+      "productivetrees:peach_planks"
+    ]
+  },
+  "productivetrees:expansion_box_pecan": {
+    "result": "productivetrees:expansion_box_pecan",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:pecan_planks",
+      "productivetrees:pecan_planks",
+      "productivetrees:pecan_planks",
+      "productivetrees:pecan_planks",
+      "minecraft:honeycombs",
+      "productivetrees:pecan_planks",
+      "productivetrees:pecan_planks",
+      "productivetrees:pecan_planks",
+      "productivetrees:pecan_planks"
+    ]
+  },
+  "productivetrees:expansion_box_persimmon": {
+    "result": "productivetrees:expansion_box_persimmon",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:persimmon_planks",
+      "productivetrees:persimmon_planks",
+      "productivetrees:persimmon_planks",
+      "productivetrees:persimmon_planks",
+      "minecraft:honeycombs",
+      "productivetrees:persimmon_planks",
+      "productivetrees:persimmon_planks",
+      "productivetrees:persimmon_planks",
+      "productivetrees:persimmon_planks"
+    ]
+  },
+  "productivetrees:expansion_box_pink_ipe": {
+    "result": "productivetrees:expansion_box_pink_ipe",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:pink_ipe_planks",
+      "productivetrees:pink_ipe_planks",
+      "productivetrees:pink_ipe_planks",
+      "productivetrees:pink_ipe_planks",
+      "minecraft:honeycombs",
+      "productivetrees:pink_ipe_planks",
+      "productivetrees:pink_ipe_planks",
+      "productivetrees:pink_ipe_planks",
+      "productivetrees:pink_ipe_planks"
+    ]
+  },
+  "productivetrees:expansion_box_pink_ivory": {
+    "result": "productivetrees:expansion_box_pink_ivory",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:pink_ivory_planks",
+      "productivetrees:pink_ivory_planks",
+      "productivetrees:pink_ivory_planks",
+      "productivetrees:pink_ivory_planks",
+      "minecraft:honeycombs",
+      "productivetrees:pink_ivory_planks",
+      "productivetrees:pink_ivory_planks",
+      "productivetrees:pink_ivory_planks",
+      "productivetrees:pink_ivory_planks"
+    ]
+  },
+  "productivetrees:expansion_box_pistachio": {
+    "result": "productivetrees:expansion_box_pistachio",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:pistachio_planks",
+      "productivetrees:pistachio_planks",
+      "productivetrees:pistachio_planks",
+      "productivetrees:pistachio_planks",
+      "minecraft:honeycombs",
+      "productivetrees:pistachio_planks",
+      "productivetrees:pistachio_planks",
+      "productivetrees:pistachio_planks",
+      "productivetrees:pistachio_planks"
+    ]
+  },
+  "productivetrees:expansion_box_plantain": {
+    "result": "productivetrees:expansion_box_plantain",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:plantain_planks",
+      "productivetrees:plantain_planks",
+      "productivetrees:plantain_planks",
+      "productivetrees:plantain_planks",
+      "minecraft:honeycombs",
+      "productivetrees:plantain_planks",
+      "productivetrees:plantain_planks",
+      "productivetrees:plantain_planks",
+      "productivetrees:plantain_planks"
+    ]
+  },
+  "productivetrees:expansion_box_plum": {
+    "result": "productivetrees:expansion_box_plum",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:plum_planks",
+      "productivetrees:plum_planks",
+      "productivetrees:plum_planks",
+      "productivetrees:plum_planks",
+      "minecraft:honeycombs",
+      "productivetrees:plum_planks",
+      "productivetrees:plum_planks",
+      "productivetrees:plum_planks",
+      "productivetrees:plum_planks"
+    ]
+  },
+  "productivetrees:expansion_box_pomegranate": {
+    "result": "productivetrees:expansion_box_pomegranate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:pomegranate_planks",
+      "productivetrees:pomegranate_planks",
+      "productivetrees:pomegranate_planks",
+      "productivetrees:pomegranate_planks",
+      "minecraft:honeycombs",
+      "productivetrees:pomegranate_planks",
+      "productivetrees:pomegranate_planks",
+      "productivetrees:pomegranate_planks",
+      "productivetrees:pomegranate_planks"
+    ]
+  },
+  "productivetrees:expansion_box_pomelo": {
+    "result": "productivetrees:expansion_box_pomelo",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:pomelo_planks",
+      "productivetrees:pomelo_planks",
+      "productivetrees:pomelo_planks",
+      "productivetrees:pomelo_planks",
+      "minecraft:honeycombs",
+      "productivetrees:pomelo_planks",
+      "productivetrees:pomelo_planks",
+      "productivetrees:pomelo_planks",
+      "productivetrees:pomelo_planks"
+    ]
+  },
+  "productivetrees:expansion_box_prairie_crabapple": {
+    "result": "productivetrees:expansion_box_prairie_crabapple",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:prairie_crabapple_planks",
+      "productivetrees:prairie_crabapple_planks",
+      "productivetrees:prairie_crabapple_planks",
+      "productivetrees:prairie_crabapple_planks",
+      "minecraft:honeycombs",
+      "productivetrees:prairie_crabapple_planks",
+      "productivetrees:prairie_crabapple_planks",
+      "productivetrees:prairie_crabapple_planks",
+      "productivetrees:prairie_crabapple_planks"
+    ]
+  },
+  "productivetrees:expansion_box_purpleheart": {
+    "result": "productivetrees:expansion_box_purpleheart",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:purpleheart_planks",
+      "productivetrees:purpleheart_planks",
+      "productivetrees:purpleheart_planks",
+      "productivetrees:purpleheart_planks",
+      "minecraft:honeycombs",
+      "productivetrees:purpleheart_planks",
+      "productivetrees:purpleheart_planks",
+      "productivetrees:purpleheart_planks",
+      "productivetrees:purpleheart_planks"
+    ]
+  },
+  "productivetrees:expansion_box_purple_blackthorn": {
+    "result": "productivetrees:expansion_box_purple_blackthorn",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:purple_blackthorn_planks",
+      "productivetrees:purple_blackthorn_planks",
+      "productivetrees:purple_blackthorn_planks",
+      "productivetrees:purple_blackthorn_planks",
+      "minecraft:honeycombs",
+      "productivetrees:purple_blackthorn_planks",
+      "productivetrees:purple_blackthorn_planks",
+      "productivetrees:purple_blackthorn_planks",
+      "productivetrees:purple_blackthorn_planks"
+    ]
+  },
+  "productivetrees:expansion_box_purple_crepe_myrtle": {
+    "result": "productivetrees:expansion_box_purple_crepe_myrtle",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:purple_crepe_myrtle_planks",
+      "productivetrees:purple_crepe_myrtle_planks",
+      "productivetrees:purple_crepe_myrtle_planks",
+      "productivetrees:purple_crepe_myrtle_planks",
+      "minecraft:honeycombs",
+      "productivetrees:purple_crepe_myrtle_planks",
+      "productivetrees:purple_crepe_myrtle_planks",
+      "productivetrees:purple_crepe_myrtle_planks",
+      "productivetrees:purple_crepe_myrtle_planks"
+    ]
+  },
+  "productivetrees:expansion_box_purple_ipe": {
+    "result": "productivetrees:expansion_box_purple_ipe",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:purple_ipe_planks",
+      "productivetrees:purple_ipe_planks",
+      "productivetrees:purple_ipe_planks",
+      "productivetrees:purple_ipe_planks",
+      "minecraft:honeycombs",
+      "productivetrees:purple_ipe_planks",
+      "productivetrees:purple_ipe_planks",
+      "productivetrees:purple_ipe_planks",
+      "productivetrees:purple_ipe_planks"
+    ]
+  },
+  "productivetrees:expansion_box_purple_spiral": {
+    "result": "productivetrees:expansion_box_purple_spiral",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:purple_spiral_planks",
+      "productivetrees:purple_spiral_planks",
+      "productivetrees:purple_spiral_planks",
+      "productivetrees:purple_spiral_planks",
+      "minecraft:honeycombs",
+      "productivetrees:purple_spiral_planks",
+      "productivetrees:purple_spiral_planks",
+      "productivetrees:purple_spiral_planks",
+      "productivetrees:purple_spiral_planks"
+    ]
+  },
+  "productivetrees:expansion_box_rainbow_gum": {
+    "result": "productivetrees:expansion_box_rainbow_gum",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:rainbow_gum_planks",
+      "productivetrees:rainbow_gum_planks",
+      "productivetrees:rainbow_gum_planks",
+      "productivetrees:rainbow_gum_planks",
+      "minecraft:honeycombs",
+      "productivetrees:rainbow_gum_planks",
+      "productivetrees:rainbow_gum_planks",
+      "productivetrees:rainbow_gum_planks",
+      "productivetrees:rainbow_gum_planks"
+    ]
+  },
+  "productivetrees:expansion_box_red_banana": {
+    "result": "productivetrees:expansion_box_red_banana",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:red_banana_planks",
+      "productivetrees:red_banana_planks",
+      "productivetrees:red_banana_planks",
+      "productivetrees:red_banana_planks",
+      "minecraft:honeycombs",
+      "productivetrees:red_banana_planks",
+      "productivetrees:red_banana_planks",
+      "productivetrees:red_banana_planks",
+      "productivetrees:red_banana_planks"
+    ]
+  },
+  "productivetrees:expansion_box_red_crepe_myrtle": {
+    "result": "productivetrees:expansion_box_red_crepe_myrtle",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:red_crepe_myrtle_planks",
+      "productivetrees:red_crepe_myrtle_planks",
+      "productivetrees:red_crepe_myrtle_planks",
+      "productivetrees:red_crepe_myrtle_planks",
+      "minecraft:honeycombs",
+      "productivetrees:red_crepe_myrtle_planks",
+      "productivetrees:red_crepe_myrtle_planks",
+      "productivetrees:red_crepe_myrtle_planks",
+      "productivetrees:red_crepe_myrtle_planks"
+    ]
+  },
+  "productivetrees:expansion_box_red_delicious_apple": {
+    "result": "productivetrees:expansion_box_red_delicious_apple",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:red_delicious_apple_planks",
+      "productivetrees:red_delicious_apple_planks",
+      "productivetrees:red_delicious_apple_planks",
+      "productivetrees:red_delicious_apple_planks",
+      "minecraft:honeycombs",
+      "productivetrees:red_delicious_apple_planks",
+      "productivetrees:red_delicious_apple_planks",
+      "productivetrees:red_delicious_apple_planks",
+      "productivetrees:red_delicious_apple_planks"
+    ]
+  },
+  "productivetrees:expansion_box_red_maple": {
+    "result": "productivetrees:expansion_box_red_maple",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:red_maple_planks",
+      "productivetrees:red_maple_planks",
+      "productivetrees:red_maple_planks",
+      "productivetrees:red_maple_planks",
+      "minecraft:honeycombs",
+      "productivetrees:red_maple_planks",
+      "productivetrees:red_maple_planks",
+      "productivetrees:red_maple_planks",
+      "productivetrees:red_maple_planks"
+    ]
+  },
+  "productivetrees:expansion_box_rippling_willow": {
+    "result": "productivetrees:expansion_box_rippling_willow",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:rippling_willow_planks",
+      "productivetrees:rippling_willow_planks",
+      "productivetrees:rippling_willow_planks",
+      "productivetrees:rippling_willow_planks",
+      "minecraft:honeycombs",
+      "productivetrees:rippling_willow_planks",
+      "productivetrees:rippling_willow_planks",
+      "productivetrees:rippling_willow_planks",
+      "productivetrees:rippling_willow_planks"
+    ]
+  },
+  "productivetrees:expansion_box_rosewood": {
+    "result": "productivetrees:expansion_box_rosewood",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:rosewood_planks",
+      "productivetrees:rosewood_planks",
+      "productivetrees:rosewood_planks",
+      "productivetrees:rosewood_planks",
+      "minecraft:honeycombs",
+      "productivetrees:rosewood_planks",
+      "productivetrees:rosewood_planks",
+      "productivetrees:rosewood_planks",
+      "productivetrees:rosewood_planks"
+    ]
+  },
+  "productivetrees:expansion_box_rose_gum": {
+    "result": "productivetrees:expansion_box_rose_gum",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:rose_gum_planks",
+      "productivetrees:rose_gum_planks",
+      "productivetrees:rose_gum_planks",
+      "productivetrees:rose_gum_planks",
+      "minecraft:honeycombs",
+      "productivetrees:rose_gum_planks",
+      "productivetrees:rose_gum_planks",
+      "productivetrees:rose_gum_planks",
+      "productivetrees:rose_gum_planks"
+    ]
+  },
+  "productivetrees:expansion_box_rowan": {
+    "result": "productivetrees:expansion_box_rowan",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:rowan_planks",
+      "productivetrees:rowan_planks",
+      "productivetrees:rowan_planks",
+      "productivetrees:rowan_planks",
+      "minecraft:honeycombs",
+      "productivetrees:rowan_planks",
+      "productivetrees:rowan_planks",
+      "productivetrees:rowan_planks",
+      "productivetrees:rowan_planks"
+    ]
+  },
+  "productivetrees:expansion_box_rubber_tree": {
+    "result": "productivetrees:expansion_box_rubber_tree",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:rubber_tree_planks",
+      "productivetrees:rubber_tree_planks",
+      "productivetrees:rubber_tree_planks",
+      "productivetrees:rubber_tree_planks",
+      "minecraft:honeycombs",
+      "productivetrees:rubber_tree_planks",
+      "productivetrees:rubber_tree_planks",
+      "productivetrees:rubber_tree_planks",
+      "productivetrees:rubber_tree_planks"
+    ]
+  },
+  "productivetrees:expansion_box_salak": {
+    "result": "productivetrees:expansion_box_salak",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:salak_planks",
+      "productivetrees:salak_planks",
+      "productivetrees:salak_planks",
+      "productivetrees:salak_planks",
+      "minecraft:honeycombs",
+      "productivetrees:salak_planks",
+      "productivetrees:salak_planks",
+      "productivetrees:salak_planks",
+      "productivetrees:salak_planks"
+    ]
+  },
+  "productivetrees:expansion_box_sandalwood": {
+    "result": "productivetrees:expansion_box_sandalwood",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:sandalwood_planks",
+      "productivetrees:sandalwood_planks",
+      "productivetrees:sandalwood_planks",
+      "productivetrees:sandalwood_planks",
+      "minecraft:honeycombs",
+      "productivetrees:sandalwood_planks",
+      "productivetrees:sandalwood_planks",
+      "productivetrees:sandalwood_planks",
+      "productivetrees:sandalwood_planks"
+    ]
+  },
+  "productivetrees:expansion_box_sand_pear": {
+    "result": "productivetrees:expansion_box_sand_pear",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:sand_pear_planks",
+      "productivetrees:sand_pear_planks",
+      "productivetrees:sand_pear_planks",
+      "productivetrees:sand_pear_planks",
+      "minecraft:honeycombs",
+      "productivetrees:sand_pear_planks",
+      "productivetrees:sand_pear_planks",
+      "productivetrees:sand_pear_planks",
+      "productivetrees:sand_pear_planks"
+    ]
+  },
+  "productivetrees:expansion_box_satsuma": {
+    "result": "productivetrees:expansion_box_satsuma",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:satsuma_planks",
+      "productivetrees:satsuma_planks",
+      "productivetrees:satsuma_planks",
+      "productivetrees:satsuma_planks",
+      "minecraft:honeycombs",
+      "productivetrees:satsuma_planks",
+      "productivetrees:satsuma_planks",
+      "productivetrees:satsuma_planks",
+      "productivetrees:satsuma_planks"
+    ]
+  },
+  "productivetrees:expansion_box_sequoia": {
+    "result": "productivetrees:expansion_box_sequoia",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:sequoia_planks",
+      "productivetrees:sequoia_planks",
+      "productivetrees:sequoia_planks",
+      "productivetrees:sequoia_planks",
+      "minecraft:honeycombs",
+      "productivetrees:sequoia_planks",
+      "productivetrees:sequoia_planks",
+      "productivetrees:sequoia_planks",
+      "productivetrees:sequoia_planks"
+    ]
+  },
+  "productivetrees:expansion_box_silver_fir": {
+    "result": "productivetrees:expansion_box_silver_fir",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:silver_fir_planks",
+      "productivetrees:silver_fir_planks",
+      "productivetrees:silver_fir_planks",
+      "productivetrees:silver_fir_planks",
+      "minecraft:honeycombs",
+      "productivetrees:silver_fir_planks",
+      "productivetrees:silver_fir_planks",
+      "productivetrees:silver_fir_planks",
+      "productivetrees:silver_fir_planks"
+    ]
+  },
+  "productivetrees:expansion_box_silver_lime": {
+    "result": "productivetrees:expansion_box_silver_lime",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:silver_lime_planks",
+      "productivetrees:silver_lime_planks",
+      "productivetrees:silver_lime_planks",
+      "productivetrees:silver_lime_planks",
+      "minecraft:honeycombs",
+      "productivetrees:silver_lime_planks",
+      "productivetrees:silver_lime_planks",
+      "productivetrees:silver_lime_planks",
+      "productivetrees:silver_lime_planks"
+    ]
+  },
+  "productivetrees:expansion_box_slimy_delight": {
+    "result": "productivetrees:expansion_box_slimy_delight",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:slimy_delight_planks",
+      "productivetrees:slimy_delight_planks",
+      "productivetrees:slimy_delight_planks",
+      "productivetrees:slimy_delight_planks",
+      "minecraft:honeycombs",
+      "productivetrees:slimy_delight_planks",
+      "productivetrees:slimy_delight_planks",
+      "productivetrees:slimy_delight_planks",
+      "productivetrees:slimy_delight_planks"
+    ]
+  },
+  "productivetrees:expansion_box_socotra_dragon": {
+    "result": "productivetrees:expansion_box_socotra_dragon",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:socotra_dragon_planks",
+      "productivetrees:socotra_dragon_planks",
+      "productivetrees:socotra_dragon_planks",
+      "productivetrees:socotra_dragon_planks",
+      "minecraft:honeycombs",
+      "productivetrees:socotra_dragon_planks",
+      "productivetrees:socotra_dragon_planks",
+      "productivetrees:socotra_dragon_planks",
+      "productivetrees:socotra_dragon_planks"
+    ]
+  },
+  "productivetrees:expansion_box_soul_tree": {
+    "result": "productivetrees:expansion_box_soul_tree",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:soul_tree_planks",
+      "productivetrees:soul_tree_planks",
+      "productivetrees:soul_tree_planks",
+      "productivetrees:soul_tree_planks",
+      "minecraft:honeycombs",
+      "productivetrees:soul_tree_planks",
+      "productivetrees:soul_tree_planks",
+      "productivetrees:soul_tree_planks",
+      "productivetrees:soul_tree_planks"
+    ]
+  },
+  "productivetrees:expansion_box_soursop": {
+    "result": "productivetrees:expansion_box_soursop",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:soursop_planks",
+      "productivetrees:soursop_planks",
+      "productivetrees:soursop_planks",
+      "productivetrees:soursop_planks",
+      "minecraft:honeycombs",
+      "productivetrees:soursop_planks",
+      "productivetrees:soursop_planks",
+      "productivetrees:soursop_planks",
+      "productivetrees:soursop_planks"
+    ]
+  },
+  "productivetrees:expansion_box_sour_cherry": {
+    "result": "productivetrees:expansion_box_sour_cherry",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:sour_cherry_planks",
+      "productivetrees:sour_cherry_planks",
+      "productivetrees:sour_cherry_planks",
+      "productivetrees:sour_cherry_planks",
+      "minecraft:honeycombs",
+      "productivetrees:sour_cherry_planks",
+      "productivetrees:sour_cherry_planks",
+      "productivetrees:sour_cherry_planks",
+      "productivetrees:sour_cherry_planks"
+    ]
+  },
+  "productivetrees:expansion_box_sparkle_cherry": {
+    "result": "productivetrees:expansion_box_sparkle_cherry",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:sparkle_cherry_planks",
+      "productivetrees:sparkle_cherry_planks",
+      "productivetrees:sparkle_cherry_planks",
+      "productivetrees:sparkle_cherry_planks",
+      "minecraft:honeycombs",
+      "productivetrees:sparkle_cherry_planks",
+      "productivetrees:sparkle_cherry_planks",
+      "productivetrees:sparkle_cherry_planks",
+      "productivetrees:sparkle_cherry_planks"
+    ]
+  },
+  "productivetrees:expansion_box_star_anise": {
+    "result": "productivetrees:expansion_box_star_anise",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:star_anise_planks",
+      "productivetrees:star_anise_planks",
+      "productivetrees:star_anise_planks",
+      "productivetrees:star_anise_planks",
+      "minecraft:honeycombs",
+      "productivetrees:star_anise_planks",
+      "productivetrees:star_anise_planks",
+      "productivetrees:star_anise_planks",
+      "productivetrees:star_anise_planks"
+    ]
+  },
+  "productivetrees:expansion_box_star_fruit": {
+    "result": "productivetrees:expansion_box_star_fruit",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:star_fruit_planks",
+      "productivetrees:star_fruit_planks",
+      "productivetrees:star_fruit_planks",
+      "productivetrees:star_fruit_planks",
+      "minecraft:honeycombs",
+      "productivetrees:star_fruit_planks",
+      "productivetrees:star_fruit_planks",
+      "productivetrees:star_fruit_planks",
+      "productivetrees:star_fruit_planks"
+    ]
+  },
+  "productivetrees:expansion_box_sugar_apple": {
+    "result": "productivetrees:expansion_box_sugar_apple",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:sugar_apple_planks",
+      "productivetrees:sugar_apple_planks",
+      "productivetrees:sugar_apple_planks",
+      "productivetrees:sugar_apple_planks",
+      "minecraft:honeycombs",
+      "productivetrees:sugar_apple_planks",
+      "productivetrees:sugar_apple_planks",
+      "productivetrees:sugar_apple_planks",
+      "productivetrees:sugar_apple_planks"
+    ]
+  },
+  "productivetrees:expansion_box_sugar_maple": {
+    "result": "productivetrees:expansion_box_sugar_maple",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:sugar_maple_planks",
+      "productivetrees:sugar_maple_planks",
+      "productivetrees:sugar_maple_planks",
+      "productivetrees:sugar_maple_planks",
+      "minecraft:honeycombs",
+      "productivetrees:sugar_maple_planks",
+      "productivetrees:sugar_maple_planks",
+      "productivetrees:sugar_maple_planks",
+      "productivetrees:sugar_maple_planks"
+    ]
+  },
+  "productivetrees:expansion_box_swamp_gum": {
+    "result": "productivetrees:expansion_box_swamp_gum",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:swamp_gum_planks",
+      "productivetrees:swamp_gum_planks",
+      "productivetrees:swamp_gum_planks",
+      "productivetrees:swamp_gum_planks",
+      "minecraft:honeycombs",
+      "productivetrees:swamp_gum_planks",
+      "productivetrees:swamp_gum_planks",
+      "productivetrees:swamp_gum_planks",
+      "productivetrees:swamp_gum_planks"
+    ]
+  },
+  "productivetrees:expansion_box_sweetgum": {
+    "result": "productivetrees:expansion_box_sweetgum",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:sweetgum_planks",
+      "productivetrees:sweetgum_planks",
+      "productivetrees:sweetgum_planks",
+      "productivetrees:sweetgum_planks",
+      "minecraft:honeycombs",
+      "productivetrees:sweetgum_planks",
+      "productivetrees:sweetgum_planks",
+      "productivetrees:sweetgum_planks",
+      "productivetrees:sweetgum_planks"
+    ]
+  },
+  "productivetrees:expansion_box_sweet_chestnut": {
+    "result": "productivetrees:expansion_box_sweet_chestnut",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:sweet_chestnut_planks",
+      "productivetrees:sweet_chestnut_planks",
+      "productivetrees:sweet_chestnut_planks",
+      "productivetrees:sweet_chestnut_planks",
+      "minecraft:honeycombs",
+      "productivetrees:sweet_chestnut_planks",
+      "productivetrees:sweet_chestnut_planks",
+      "productivetrees:sweet_chestnut_planks",
+      "productivetrees:sweet_chestnut_planks"
+    ]
+  },
+  "productivetrees:expansion_box_sweet_crabapple": {
+    "result": "productivetrees:expansion_box_sweet_crabapple",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:sweet_crabapple_planks",
+      "productivetrees:sweet_crabapple_planks",
+      "productivetrees:sweet_crabapple_planks",
+      "productivetrees:sweet_crabapple_planks",
+      "minecraft:honeycombs",
+      "productivetrees:sweet_crabapple_planks",
+      "productivetrees:sweet_crabapple_planks",
+      "productivetrees:sweet_crabapple_planks",
+      "productivetrees:sweet_crabapple_planks"
+    ]
+  },
+  "productivetrees:expansion_box_sycamore_fig": {
+    "result": "productivetrees:expansion_box_sycamore_fig",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:sycamore_fig_planks",
+      "productivetrees:sycamore_fig_planks",
+      "productivetrees:sycamore_fig_planks",
+      "productivetrees:sycamore_fig_planks",
+      "minecraft:honeycombs",
+      "productivetrees:sycamore_fig_planks",
+      "productivetrees:sycamore_fig_planks",
+      "productivetrees:sycamore_fig_planks",
+      "productivetrees:sycamore_fig_planks"
+    ]
+  },
+  "productivetrees:expansion_box_tangerine": {
+    "result": "productivetrees:expansion_box_tangerine",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:tangerine_planks",
+      "productivetrees:tangerine_planks",
+      "productivetrees:tangerine_planks",
+      "productivetrees:tangerine_planks",
+      "minecraft:honeycombs",
+      "productivetrees:tangerine_planks",
+      "productivetrees:tangerine_planks",
+      "productivetrees:tangerine_planks",
+      "productivetrees:tangerine_planks"
+    ]
+  },
+  "productivetrees:expansion_box_teak": {
+    "result": "productivetrees:expansion_box_teak",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:teak_planks",
+      "productivetrees:teak_planks",
+      "productivetrees:teak_planks",
+      "productivetrees:teak_planks",
+      "minecraft:honeycombs",
+      "productivetrees:teak_planks",
+      "productivetrees:teak_planks",
+      "productivetrees:teak_planks",
+      "productivetrees:teak_planks"
+    ]
+  },
+  "productivetrees:expansion_box_thunder_bolt": {
+    "result": "productivetrees:expansion_box_thunder_bolt",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:thunder_bolt_planks",
+      "productivetrees:thunder_bolt_planks",
+      "productivetrees:thunder_bolt_planks",
+      "productivetrees:thunder_bolt_planks",
+      "minecraft:honeycombs",
+      "productivetrees:thunder_bolt_planks",
+      "productivetrees:thunder_bolt_planks",
+      "productivetrees:thunder_bolt_planks",
+      "productivetrees:thunder_bolt_planks"
+    ]
+  },
+  "productivetrees:expansion_box_time_traveller": {
+    "result": "productivetrees:expansion_box_time_traveller",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:time_traveller_planks",
+      "productivetrees:time_traveller_planks",
+      "productivetrees:time_traveller_planks",
+      "productivetrees:time_traveller_planks",
+      "minecraft:honeycombs",
+      "productivetrees:time_traveller_planks",
+      "productivetrees:time_traveller_planks",
+      "productivetrees:time_traveller_planks",
+      "productivetrees:time_traveller_planks"
+    ]
+  },
+  "productivetrees:expansion_box_tuscarora_crepe_myrtle": {
+    "result": "productivetrees:expansion_box_tuscarora_crepe_myrtle",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:tuscarora_crepe_myrtle_planks",
+      "productivetrees:tuscarora_crepe_myrtle_planks",
+      "productivetrees:tuscarora_crepe_myrtle_planks",
+      "productivetrees:tuscarora_crepe_myrtle_planks",
+      "minecraft:honeycombs",
+      "productivetrees:tuscarora_crepe_myrtle_planks",
+      "productivetrees:tuscarora_crepe_myrtle_planks",
+      "productivetrees:tuscarora_crepe_myrtle_planks",
+      "productivetrees:tuscarora_crepe_myrtle_planks"
+    ]
+  },
+  "productivetrees:expansion_box_walnut": {
+    "result": "productivetrees:expansion_box_walnut",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:walnut_planks",
+      "productivetrees:walnut_planks",
+      "productivetrees:walnut_planks",
+      "productivetrees:walnut_planks",
+      "minecraft:honeycombs",
+      "productivetrees:walnut_planks",
+      "productivetrees:walnut_planks",
+      "productivetrees:walnut_planks",
+      "productivetrees:walnut_planks"
+    ]
+  },
+  "productivetrees:expansion_box_water_wonder": {
+    "result": "productivetrees:expansion_box_water_wonder",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:water_wonder_planks",
+      "productivetrees:water_wonder_planks",
+      "productivetrees:water_wonder_planks",
+      "productivetrees:water_wonder_planks",
+      "minecraft:honeycombs",
+      "productivetrees:water_wonder_planks",
+      "productivetrees:water_wonder_planks",
+      "productivetrees:water_wonder_planks",
+      "productivetrees:water_wonder_planks"
+    ]
+  },
+  "productivetrees:expansion_box_wenge": {
+    "result": "productivetrees:expansion_box_wenge",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:wenge_planks",
+      "productivetrees:wenge_planks",
+      "productivetrees:wenge_planks",
+      "productivetrees:wenge_planks",
+      "minecraft:honeycombs",
+      "productivetrees:wenge_planks",
+      "productivetrees:wenge_planks",
+      "productivetrees:wenge_planks",
+      "productivetrees:wenge_planks"
+    ]
+  },
+  "productivetrees:expansion_box_western_hemlock": {
+    "result": "productivetrees:expansion_box_western_hemlock",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:western_hemlock_planks",
+      "productivetrees:western_hemlock_planks",
+      "productivetrees:western_hemlock_planks",
+      "productivetrees:western_hemlock_planks",
+      "minecraft:honeycombs",
+      "productivetrees:western_hemlock_planks",
+      "productivetrees:western_hemlock_planks",
+      "productivetrees:western_hemlock_planks",
+      "productivetrees:western_hemlock_planks"
+    ]
+  },
+  "productivetrees:expansion_box_whitebeam": {
+    "result": "productivetrees:expansion_box_whitebeam",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:whitebeam_planks",
+      "productivetrees:whitebeam_planks",
+      "productivetrees:whitebeam_planks",
+      "productivetrees:whitebeam_planks",
+      "minecraft:honeycombs",
+      "productivetrees:whitebeam_planks",
+      "productivetrees:whitebeam_planks",
+      "productivetrees:whitebeam_planks",
+      "productivetrees:whitebeam_planks"
+    ]
+  },
+  "productivetrees:expansion_box_white_ipe": {
+    "result": "productivetrees:expansion_box_white_ipe",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:white_ipe_planks",
+      "productivetrees:white_ipe_planks",
+      "productivetrees:white_ipe_planks",
+      "productivetrees:white_ipe_planks",
+      "minecraft:honeycombs",
+      "productivetrees:white_ipe_planks",
+      "productivetrees:white_ipe_planks",
+      "productivetrees:white_ipe_planks",
+      "productivetrees:white_ipe_planks"
+    ]
+  },
+  "productivetrees:expansion_box_white_poplar": {
+    "result": "productivetrees:expansion_box_white_poplar",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:white_poplar_planks",
+      "productivetrees:white_poplar_planks",
+      "productivetrees:white_poplar_planks",
+      "productivetrees:white_poplar_planks",
+      "minecraft:honeycombs",
+      "productivetrees:white_poplar_planks",
+      "productivetrees:white_poplar_planks",
+      "productivetrees:white_poplar_planks",
+      "productivetrees:white_poplar_planks"
+    ]
+  },
+  "productivetrees:expansion_box_white_willow": {
+    "result": "productivetrees:expansion_box_white_willow",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:white_willow_planks",
+      "productivetrees:white_willow_planks",
+      "productivetrees:white_willow_planks",
+      "productivetrees:white_willow_planks",
+      "minecraft:honeycombs",
+      "productivetrees:white_willow_planks",
+      "productivetrees:white_willow_planks",
+      "productivetrees:white_willow_planks",
+      "productivetrees:white_willow_planks"
+    ]
+  },
+  "productivetrees:expansion_box_wild_cherry": {
+    "result": "productivetrees:expansion_box_wild_cherry",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:wild_cherry_planks",
+      "productivetrees:wild_cherry_planks",
+      "productivetrees:wild_cherry_planks",
+      "productivetrees:wild_cherry_planks",
+      "minecraft:honeycombs",
+      "productivetrees:wild_cherry_planks",
+      "productivetrees:wild_cherry_planks",
+      "productivetrees:wild_cherry_planks",
+      "productivetrees:wild_cherry_planks"
+    ]
+  },
+  "productivetrees:expansion_box_yellow_meranti": {
+    "result": "productivetrees:expansion_box_yellow_meranti",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:yellow_meranti_planks",
+      "productivetrees:yellow_meranti_planks",
+      "productivetrees:yellow_meranti_planks",
+      "productivetrees:yellow_meranti_planks",
+      "minecraft:honeycombs",
+      "productivetrees:yellow_meranti_planks",
+      "productivetrees:yellow_meranti_planks",
+      "productivetrees:yellow_meranti_planks",
+      "productivetrees:yellow_meranti_planks"
+    ]
+  },
+  "productivetrees:expansion_box_yew": {
+    "result": "productivetrees:expansion_box_yew",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:yew_planks",
+      "productivetrees:yew_planks",
+      "productivetrees:yew_planks",
+      "productivetrees:yew_planks",
+      "minecraft:honeycombs",
+      "productivetrees:yew_planks",
+      "productivetrees:yew_planks",
+      "productivetrees:yew_planks",
+      "productivetrees:yew_planks"
+    ]
+  },
+  "productivetrees:expansion_box_zebrano": {
+    "result": "productivetrees:expansion_box_zebrano",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:zebrano_planks",
+      "productivetrees:zebrano_planks",
+      "productivetrees:zebrano_planks",
+      "productivetrees:zebrano_planks",
+      "minecraft:honeycombs",
+      "productivetrees:zebrano_planks",
+      "productivetrees:zebrano_planks",
+      "productivetrees:zebrano_planks",
+      "productivetrees:zebrano_planks"
+    ]
+  },
+  "pylons:expulsion_pylon": {
+    "result": "pylons:expulsion_pylon",
+    "count": 1,
+    "ingredients": [
+      "minecraft:quartz_slab",
+      "minecraft:quartz_slab",
+      "minecraft:quartz_slab",
+      "minecraft:iron_bars",
+      "minecraft:diamond_block",
+      "minecraft:iron_bars",
+      "minecraft:polished_blackstone",
+      "minecraft:polished_blackstone",
+      "minecraft:polished_blackstone"
+    ]
+  },
+  "quarryplus:exp_module": {
+    "result": "quarryplus:exp_module",
+    "count": 1,
+    "ingredients": [
+      "minecraft:ender_pearl",
+      "minecraft:glass_bottle",
+      "minecraft:ender_pearl",
+      "minecraft:markers",
+      "minecraft:hay_block",
+      "minecraft:glass_bottle",
+      "minecraft:gold",
+      "minecraft:hay_block",
+      "minecraft:diamond"
+    ]
+  },
+  "refinedstorage:exporter": {
+    "result": "refinedstorage:exporter",
+    "count": 1,
+    "ingredients": [
+      "refinedstorage:cable",
+      "refinedstorage:construction_core",
+      "refinedstorage:improved_processor",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "refinedstorage:external_storage": {
+    "result": "refinedstorage:external_storage",
+    "count": 1,
+    "ingredients": [
+      "refinedstorage:construction_core",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:destruction_core",
+      "minecraft:chest",
+      "refinedstorage:cable",
+      "minecraft:chest",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:improved_processor",
+      "refinedstorage:quartz_enriched_iron"
+    ]
+  },
+  "silentgear:excavator_blueprint": {
+    "result": "silentgear:excavator_blueprint",
+    "count": 1,
+    "ingredients": [
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "silentgear:excavator_template": {
+    "result": "silentgear:excavator_template",
+    "count": 1,
+    "ingredients": [
+      "minecraft:template_boards",
+      "",
+      "minecraft:template_boards",
+      "minecraft:template_boards",
+      "minecraft:template_boards",
+      "minecraft:template_boards",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "xycraft_machines:extractor": {
+    "result": "xycraft_machines:extractor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:kivi",
+      "minecraft:ports",
+      "minecraft:kivi",
+      "minecraft:aluminum",
+      "minecraft:piston",
+      "minecraft:aluminum",
+      "minecraft:aluminum",
+      "minecraft:pointed_dripstone",
+      "minecraft:aluminum"
+    ]
+  }
+}

@@ -1,0 +1,452 @@
+{
+  "cabletiers:ultra_autocrafter": {
+    "result": "cabletiers:ultra_autocrafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:ultra_autocrafters",
+      "minecraft:light_blue",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "cabletiers:ultra_constructor": {
+    "result": "cabletiers:ultra_constructor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:ultra_constructors",
+      "minecraft:gray",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "cabletiers:ultra_destructor": {
+    "result": "cabletiers:ultra_destructor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:ultra_destructors",
+      "minecraft:gray",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "cabletiers:ultra_disk_interface": {
+    "result": "cabletiers:ultra_disk_interface",
+    "count": 1,
+    "ingredients": [
+      "minecraft:ultra_disk_interfaces",
+      "minecraft:light_blue",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "cabletiers:ultra_exporter": {
+    "result": "cabletiers:ultra_exporter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:ultra_exporters",
+      "minecraft:gray",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "cabletiers:ultra_importer": {
+    "result": "cabletiers:ultra_importer",
+    "count": 1,
+    "ingredients": [
+      "minecraft:ultra_importers",
+      "minecraft:gray",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "cabletiers:ultra_interface": {
+    "result": "cabletiers:ultra_interface",
+    "count": 1,
+    "ingredients": [
+      "minecraft:diamond_block",
+      "cabletiers:elite_interface",
+      "minecraft:diamond_block",
+      "cabletiers:elite_interface",
+      "refinedstorage:advanced_processor",
+      "cabletiers:elite_interface",
+      "minecraft:diamond_block",
+      "cabletiers:elite_interface",
+      "minecraft:diamond_block"
+    ]
+  },
+  "dyenamics:ultramarine_carpet": {
+    "result": "dyenamics:ultramarine_carpet",
+    "count": 3,
+    "ingredients": [
+      "dyenamics:ultramarine_wool",
+      "dyenamics:ultramarine_wool",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:ultramarine_candle": {
+    "result": "dyenamics:ultramarine_candle",
+    "count": 1,
+    "ingredients": [
+      "minecraft:candle",
+      "minecraft:ultramarine",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:ultramarine_concrete_powder": {
+    "result": "dyenamics:ultramarine_concrete_powder",
+    "count": 8,
+    "ingredients": [
+      "minecraft:ultramarine",
+      "minecraft:sand",
+      "minecraft:sand",
+      "minecraft:sand",
+      "minecraft:sand",
+      "minecraft:gravel",
+      "minecraft:gravel",
+      "minecraft:gravel",
+      "minecraft:gravel"
+    ]
+  },
+  "dyenamics:ultramarine_stained_glass": {
+    "result": "dyenamics:ultramarine_stained_glass",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:ultramarine",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass"
+    ]
+  },
+  "dyenamics:ultramarine_stained_glass_pane": {
+    "result": "dyenamics:ultramarine_stained_glass_pane",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:ultramarine",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane"
+    ]
+  },
+  "dyenamics:ultramarine_terracotta": {
+    "result": "dyenamics:ultramarine_terracotta",
+    "count": 8,
+    "ingredients": [
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:ultramarine",
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:terracotta"
+    ]
+  },
+  "dyenamics:ultramarine_wool": {
+    "result": "dyenamics:ultramarine_wool",
+    "count": 1,
+    "ingredients": [
+      "minecraft:ultramarine",
+      "minecraft:white_wool",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:ultramarine_banner": {
+    "result": "dyenamics:ultramarine_banner",
+    "count": 1,
+    "ingredients": [
+      "dyenamics:ultramarine_wool",
+      "dyenamics:ultramarine_wool",
+      "dyenamics:ultramarine_wool",
+      "dyenamics:ultramarine_wool",
+      "dyenamics:ultramarine_wool",
+      "dyenamics:ultramarine_wool",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "dyenamics:ultramarine_bed": {
+    "result": "dyenamics:ultramarine_bed",
+    "count": 1,
+    "ingredients": [
+      "minecraft:beds",
+      "minecraft:ultramarine",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:ultramarine_rockwool": {
+    "result": "dyenamics:ultramarine_rockwool",
+    "count": 1,
+    "ingredients": [
+      "thermal:white_rockwool",
+      "minecraft:ultramarine",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "extended_industrialization:ultimate_laser_drill": {
+    "result": "extended_industrialization:ultimate_laser_drill",
+    "count": 1,
+    "ingredients": [
+      "extended_industrialization:electric_mining_drill",
+      "extended_industrialization:netherite_rotary_blade",
+      "extended_industrialization:electric_chainsaw",
+      "modern_industrialization:cooling_cell",
+      "modern_industrialization:superconductor_coil",
+      "modern_industrialization:cooling_cell",
+      "modern_industrialization:highly_advanced_upgrade",
+      "modern_industrialization:superconductor_cable",
+      "modern_industrialization:highly_advanced_upgrade"
+    ]
+  },
+  "ironjetpacks:ultimate_coil": {
+    "result": "ironjetpacks:ultimate_coil",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:emerald",
+      "minecraft:redstone",
+      "minecraft:emerald",
+      "minecraft:stick",
+      "minecraft:emerald",
+      "minecraft:redstone",
+      "minecraft:emerald",
+      ""
+    ]
+  },
+  "mekanism:ultimate_control_circuit": {
+    "result": "mekanism:ultimate_control_circuit",
+    "count": 1,
+    "ingredients": [
+      "minecraft:atomic",
+      "minecraft:elite",
+      "minecraft:atomic",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mekanism:ultimate_induction_provider": {
+    "result": "mekanism:ultimate_induction_provider",
+    "count": 1,
+    "ingredients": [
+      "minecraft:ultimate",
+      "mekanism:elite_induction_provider",
+      "minecraft:ultimate",
+      "mekanism:elite_induction_provider",
+      "mekanism:ultimate_energy_cube",
+      "mekanism:elite_induction_provider",
+      "minecraft:ultimate",
+      "mekanism:elite_induction_provider",
+      "minecraft:ultimate"
+    ]
+  },
+  "mekanism:ultimate_tier_installer": {
+    "result": "mekanism:ultimate_tier_installer",
+    "count": 1,
+    "ingredients": [
+      "minecraft:atomic",
+      "minecraft:ultimate",
+      "minecraft:atomic",
+      "minecraft:diamond",
+      "minecraft:oak_planks",
+      "minecraft:diamond",
+      "minecraft:atomic",
+      "minecraft:ultimate",
+      "minecraft:atomic"
+    ]
+  },
+  "mekanism:ultimate_logistical_transporter": {
+    "result": "mekanism:ultimate_logistical_transporter",
+    "count": 8,
+    "ingredients": [
+      "mekanism:elite_logistical_transporter",
+      "mekanism:elite_logistical_transporter",
+      "mekanism:elite_logistical_transporter",
+      "mekanism:elite_logistical_transporter",
+      "minecraft:atomic",
+      "mekanism:elite_logistical_transporter",
+      "mekanism:elite_logistical_transporter",
+      "mekanism:elite_logistical_transporter",
+      "mekanism:elite_logistical_transporter"
+    ]
+  },
+  "mekanism:ultimate_mechanical_pipe": {
+    "result": "mekanism:ultimate_mechanical_pipe",
+    "count": 8,
+    "ingredients": [
+      "mekanism:elite_mechanical_pipe",
+      "mekanism:elite_mechanical_pipe",
+      "mekanism:elite_mechanical_pipe",
+      "mekanism:elite_mechanical_pipe",
+      "minecraft:atomic",
+      "mekanism:elite_mechanical_pipe",
+      "mekanism:elite_mechanical_pipe",
+      "mekanism:elite_mechanical_pipe",
+      "mekanism:elite_mechanical_pipe"
+    ]
+  },
+  "mekanism:ultimate_pressurized_tube": {
+    "result": "mekanism:ultimate_pressurized_tube",
+    "count": 8,
+    "ingredients": [
+      "mekanism:elite_pressurized_tube",
+      "mekanism:elite_pressurized_tube",
+      "mekanism:elite_pressurized_tube",
+      "mekanism:elite_pressurized_tube",
+      "minecraft:atomic",
+      "mekanism:elite_pressurized_tube",
+      "mekanism:elite_pressurized_tube",
+      "mekanism:elite_pressurized_tube",
+      "mekanism:elite_pressurized_tube"
+    ]
+  },
+  "mekanism:ultimate_thermodynamic_conductor": {
+    "result": "mekanism:ultimate_thermodynamic_conductor",
+    "count": 8,
+    "ingredients": [
+      "mekanism:elite_thermodynamic_conductor",
+      "mekanism:elite_thermodynamic_conductor",
+      "mekanism:elite_thermodynamic_conductor",
+      "mekanism:elite_thermodynamic_conductor",
+      "minecraft:atomic",
+      "mekanism:elite_thermodynamic_conductor",
+      "mekanism:elite_thermodynamic_conductor",
+      "mekanism:elite_thermodynamic_conductor",
+      "mekanism:elite_thermodynamic_conductor"
+    ]
+  },
+  "mekanism:ultimate_universal_cable": {
+    "result": "mekanism:ultimate_universal_cable",
+    "count": 8,
+    "ingredients": [
+      "mekanism:elite_universal_cable",
+      "mekanism:elite_universal_cable",
+      "mekanism:elite_universal_cable",
+      "mekanism:elite_universal_cable",
+      "minecraft:atomic",
+      "mekanism:elite_universal_cable",
+      "mekanism:elite_universal_cable",
+      "mekanism:elite_universal_cable",
+      "mekanism:elite_universal_cable"
+    ]
+  },
+  "modern_industrialization:ultradense_metal_ball": {
+    "result": "modern_industrialization:ultradense_metal_ball",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:tungsten_large_plate",
+      "minecraft:lead",
+      "modern_industrialization:tungsten_large_plate",
+      "minecraft:lead",
+      "minecraft:iridium",
+      "minecraft:lead",
+      "modern_industrialization:tungsten_large_plate",
+      "minecraft:lead",
+      "modern_industrialization:tungsten_large_plate"
+    ]
+  },
+  "pipez:ultimate_upgrade": {
+    "result": "pipez:ultimate_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:netherite",
+      "minecraft:redstone",
+      "minecraft:netherite",
+      "minecraft:redstone",
+      "pipez:advanced_upgrade",
+      "minecraft:redstone",
+      "minecraft:netherite",
+      "minecraft:redstone",
+      "minecraft:netherite"
+    ]
+  },
+  "trashcans:ultimate_trash_can": {
+    "result": "trashcans:ultimate_trash_can",
+    "count": 1,
+    "ingredients": [
+      "trashcans:item_trash_can",
+      "trashcans:liquid_trash_can",
+      "trashcans:energy_trash_can",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

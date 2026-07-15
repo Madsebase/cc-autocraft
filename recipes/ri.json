@@ -1,0 +1,1127 @@
+{
+  "actuallyadditions:rice_dough": {
+    "result": "actuallyadditions:rice_dough",
+    "count": 2,
+    "ingredients": [
+      "actuallyadditions:rice",
+      "actuallyadditions:rice",
+      "actuallyadditions:rice",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "actuallyadditions:rice_seeds": {
+    "result": "actuallyadditions:rice_seeds",
+    "count": 1,
+    "ingredients": [
+      "actuallyadditions:rice",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "actuallyadditions:rice_slimeball": {
+    "result": "actuallyadditions:rice_slimeball",
+    "count": 1,
+    "ingredients": [
+      "",
+      "actuallyadditions:rice_dough",
+      "",
+      "actuallyadditions:rice_dough",
+      "minecraft:potion",
+      "actuallyadditions:rice_dough",
+      "",
+      "actuallyadditions:rice_dough",
+      ""
+    ]
+  },
+  "actuallyadditions:ring": {
+    "result": "actuallyadditions:ring",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:stone",
+      "minecraft:gold_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "actuallyadditions:ring_of_growth": {
+    "result": "actuallyadditions:ring_of_growth",
+    "count": 1,
+    "ingredients": [
+      "minecraft:seeds",
+      "actuallyadditions:empowered_enori_crystal",
+      "minecraft:seeds",
+      "actuallyadditions:empowered_enori_crystal",
+      "actuallyadditions:ring",
+      "actuallyadditions:empowered_enori_crystal",
+      "minecraft:seeds",
+      "actuallyadditions:empowered_enori_crystal",
+      "minecraft:seeds"
+    ]
+  },
+  "actuallyadditions:ring_of_magnetizing": {
+    "result": "actuallyadditions:ring_of_magnetizing",
+    "count": 1,
+    "ingredients": [
+      "actuallyadditions:restonia_crystal",
+      "actuallyadditions:enori_crystal",
+      "minecraft:lapis_lazuli",
+      "actuallyadditions:enori_crystal",
+      "actuallyadditions:ring",
+      "actuallyadditions:enori_crystal",
+      "minecraft:lapis_lazuli",
+      "actuallyadditions:enori_crystal",
+      "actuallyadditions:restonia_crystal"
+    ]
+  },
+  "ars_additions:ritual_chunk_loading": {
+    "result": "ars_additions:ritual_chunk_loading",
+    "count": 1,
+    "ingredients": [
+      "ars_nouveau:blue_archwood_log",
+      "minecraft:nether_star",
+      "ars_nouveau:source_gem",
+      "ars_nouveau:earth_essence",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_additions:ritual_locate_structure": {
+    "result": "ars_additions:ritual_locate_structure",
+    "count": 1,
+    "ingredients": [
+      "ars_nouveau:purple_archwood_log",
+      "minecraft:compass",
+      "minecraft:source",
+      "ars_additions:wayfinder",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_nouveau:ritual_flight": {
+    "result": "ars_nouveau:ritual_flight",
+    "count": 1,
+    "ingredients": [
+      "ars_nouveau:purple_archwood_log",
+      "ars_nouveau:wilden_wing",
+      "ars_nouveau:wilden_wing",
+      "ars_nouveau:wilden_wing",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:ender_pearl",
+      "",
+      ""
+    ]
+  },
+  "ars_elemental:ritual_archwood_forest": {
+    "result": "ars_elemental:ritual_archwood_forest",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_log",
+      "ars_nouveau:abjuration_essence",
+      "ars_nouveau:conjuration_essence",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_elemental:ritual_archwood_forestation": {
+    "result": "ars_elemental:ritual_archwood_forestation",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_log",
+      "ars_nouveau:ritual_forestation",
+      "ars_nouveau:air_essence",
+      "ars_nouveau:earth_essence",
+      "ars_nouveau:water_essence",
+      "ars_nouveau:fire_essence",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_elemental:ritual_attraction": {
+    "result": "ars_elemental:ritual_attraction",
+    "count": 1,
+    "ingredients": [
+      "ars_nouveau:green_archwood_log",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "ars_nouveau:earth_essence",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_elemental:ritual_detection": {
+    "result": "ars_elemental:ritual_detection",
+    "count": 1,
+    "ingredients": [
+      "ars_elemental:yellow_archwood_log",
+      "minecraft:spider_eye",
+      "minecraft:spider_eye",
+      "minecraft:glowstone_dust",
+      "minecraft:source",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_elemental:ritual_pollination": {
+    "result": "ars_elemental:ritual_pollination",
+    "count": 1,
+    "ingredients": [
+      "ars_nouveau:green_archwood_log",
+      "minecraft:honeycomb",
+      "minecraft:honeycomb",
+      "minecraft:flowers",
+      "minecraft:flowers",
+      "ars_nouveau:earth_essence",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_elemental:ritual_repulsion": {
+    "result": "ars_elemental:ritual_repulsion",
+    "count": 1,
+    "ingredients": [
+      "ars_elemental:yellow_archwood_log",
+      "ars_nouveau:air_essence",
+      "ars_nouveau:air_essence",
+      "minecraft:piston",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_elemental:ritual_squirrels": {
+    "result": "ars_elemental:ritual_squirrels",
+    "count": 1,
+    "ingredients": [
+      "ars_elemental:yellow_archwood_log",
+      "ars_nouveau:starbuncle_shards",
+      "minecraft:sugar",
+      "minecraft:rabbit_foot",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_elemental:ritual_tesla_coil": {
+    "result": "ars_elemental:ritual_tesla_coil",
+    "count": 1,
+    "ingredients": [
+      "ars_elemental:yellow_archwood_log",
+      "ars_nouveau:air_essence",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:lightning_rod",
+      "minecraft:source",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_nouveau:ritual_challenge": {
+    "result": "ars_nouveau:ritual_challenge",
+    "count": 1,
+    "ingredients": [
+      "ars_nouveau:purple_archwood_log",
+      "minecraft:emerald_block",
+      "minecraft:ink_sac",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_nouveau:ritual_moonfall": {
+    "result": "ars_nouveau:ritual_moonfall",
+    "count": 1,
+    "ingredients": [
+      "ars_nouveau:blue_archwood_log",
+      "minecraft:ink_sac",
+      "minecraft:coal",
+      "minecraft:clock",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_nouveau:ring_of_potential": {
+    "result": "ars_nouveau:ring_of_potential",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron",
+      "minecraft:iron",
+      "minecraft:iron",
+      "minecraft:iron",
+      "minecraft:source",
+      "minecraft:iron",
+      "minecraft:iron",
+      "minecraft:iron",
+      "minecraft:iron"
+    ]
+  },
+  "ars_nouveau:ritual_animal_summon": {
+    "result": "ars_nouveau:ritual_animal_summon",
+    "count": 1,
+    "ingredients": [
+      "ars_nouveau:purple_archwood_log",
+      "minecraft:magic_shards",
+      "minecraft:magic_shards",
+      "minecraft:magic_shards",
+      "minecraft:lapis_block",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_nouveau:ritual_awakening": {
+    "result": "ars_nouveau:ritual_awakening",
+    "count": 1,
+    "ingredients": [
+      "ars_nouveau:green_archwood_log",
+      "ars_nouveau:red_archwood_sapling",
+      "ars_nouveau:blue_archwood_sapling",
+      "ars_nouveau:green_archwood_sapling",
+      "ars_nouveau:purple_archwood_sapling",
+      "minecraft:source",
+      "minecraft:source",
+      "minecraft:source",
+      "minecraft:source"
+    ]
+  },
+  "ars_nouveau:ritual_binding": {
+    "result": "ars_nouveau:ritual_binding",
+    "count": 1,
+    "ingredients": [
+      "ars_nouveau:purple_archwood_log",
+      "ars_nouveau:blank_parchment",
+      "minecraft:ender_pearl",
+      "minecraft:source",
+      "minecraft:source",
+      "minecraft:source",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_nouveau:ritual_brazier": {
+    "result": "ars_nouveau:ritual_brazier",
+    "count": 1,
+    "ingredients": [
+      "ars_nouveau:arcane_pedestal",
+      "minecraft:source",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_nouveau:ritual_burrowing": {
+    "result": "ars_nouveau:ritual_burrowing",
+    "count": 1,
+    "ingredients": [
+      "ars_nouveau:green_archwood_log",
+      "minecraft:iron_pickaxe",
+      "minecraft:coal",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_nouveau:ritual_cloudshaping": {
+    "result": "ars_nouveau:ritual_cloudshaping",
+    "count": 1,
+    "ingredients": [
+      "ars_nouveau:blue_archwood_log",
+      "minecraft:feather",
+      "minecraft:source",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_nouveau:ritual_conjure_island_desert": {
+    "result": "ars_nouveau:ritual_conjure_island_desert",
+    "count": 1,
+    "ingredients": [
+      "ars_nouveau:red_archwood_log",
+      "minecraft:sand",
+      "ars_nouveau:earth_essence",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_nouveau:ritual_conjure_island_plains": {
+    "result": "ars_nouveau:ritual_conjure_island_plains",
+    "count": 1,
+    "ingredients": [
+      "ars_nouveau:green_archwood_log",
+      "minecraft:grass_block",
+      "ars_nouveau:earth_essence",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_nouveau:ritual_containment": {
+    "result": "ars_nouveau:ritual_containment",
+    "count": 1,
+    "ingredients": [
+      "ars_nouveau:purple_archwood_log",
+      "ars_nouveau:manipulation_essence",
+      "minecraft:glass_bottle",
+      "minecraft:glass_bottle",
+      "minecraft:glass_bottle",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_nouveau:ritual_disintegration": {
+    "result": "ars_nouveau:ritual_disintegration",
+    "count": 1,
+    "ingredients": [
+      "ars_nouveau:red_archwood_log",
+      "minecraft:golden_sword",
+      "minecraft:golden_sword",
+      "minecraft:golden_sword",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "",
+      ""
+    ]
+  },
+  "ars_nouveau:ritual_fertility": {
+    "result": "ars_nouveau:ritual_fertility",
+    "count": 1,
+    "ingredients": [
+      "ars_nouveau:green_archwood_log",
+      "minecraft:wheat",
+      "minecraft:wheat",
+      "minecraft:wheat",
+      "minecraft:golden_apple",
+      "minecraft:blaze_powder",
+      "minecraft:blaze_powder",
+      "",
+      ""
+    ]
+  },
+  "ars_nouveau:ritual_flowering": {
+    "result": "ars_nouveau:ritual_flowering",
+    "count": 1,
+    "ingredients": [
+      "ars_nouveau:green_archwood_log",
+      "minecraft:poppy",
+      "minecraft:poppy",
+      "minecraft:poppy",
+      "minecraft:dandelion",
+      "minecraft:dandelion",
+      "minecraft:dandelion",
+      "ars_nouveau:earth_essence",
+      ""
+    ]
+  },
+  "ars_nouveau:ritual_forestation": {
+    "result": "ars_nouveau:ritual_forestation",
+    "count": 1,
+    "ingredients": [
+      "ars_nouveau:green_archwood_log",
+      "ars_nouveau:mendosteen_pod",
+      "ars_nouveau:earth_essence",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_nouveau:ritual_gravity": {
+    "result": "ars_nouveau:ritual_gravity",
+    "count": 1,
+    "ingredients": [
+      "ars_nouveau:green_archwood_log",
+      "ars_nouveau:air_essence",
+      "ars_nouveau:earth_essence",
+      "minecraft:feather",
+      "minecraft:anvil",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_nouveau:ritual_harvest": {
+    "result": "ars_nouveau:ritual_harvest",
+    "count": 1,
+    "ingredients": [
+      "ars_nouveau:green_archwood_log",
+      "ars_nouveau:earth_essence",
+      "minecraft:iron_hoe",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_nouveau:ritual_overgrowth": {
+    "result": "ars_nouveau:ritual_overgrowth",
+    "count": 1,
+    "ingredients": [
+      "ars_nouveau:green_archwood_log",
+      "ars_nouveau:magebloom",
+      "ars_nouveau:magebloom",
+      "ars_nouveau:magebloom",
+      "ars_nouveau:earth_essence",
+      "ars_nouveau:earth_essence",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_nouveau:ritual_restoration": {
+    "result": "ars_nouveau:ritual_restoration",
+    "count": 1,
+    "ingredients": [
+      "ars_nouveau:green_archwood_log",
+      "minecraft:golden_apple",
+      "ars_nouveau:abjuration_essence",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_nouveau:ritual_sanctuary": {
+    "result": "ars_nouveau:ritual_sanctuary",
+    "count": 1,
+    "ingredients": [
+      "ars_nouveau:blue_archwood_log",
+      "ars_nouveau:water_essence",
+      "minecraft:sea_lantern",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_nouveau:ritual_scrying": {
+    "result": "ars_nouveau:ritual_scrying",
+    "count": 1,
+    "ingredients": [
+      "ars_nouveau:purple_archwood_log",
+      "minecraft:spider_eye",
+      "minecraft:spider_eye",
+      "minecraft:spider_eye",
+      "minecraft:glowstone",
+      "minecraft:source",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_nouveau:ritual_sunrise": {
+    "result": "ars_nouveau:ritual_sunrise",
+    "count": 1,
+    "ingredients": [
+      "ars_nouveau:red_archwood_log",
+      "minecraft:sunflower",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_nouveau:ritual_warping": {
+    "result": "ars_nouveau:ritual_warping",
+    "count": 1,
+    "ingredients": [
+      "ars_nouveau:purple_archwood_log",
+      "ars_nouveau:warp_scroll",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_nouveau:ritual_wilden_summon": {
+    "result": "ars_nouveau:ritual_wilden_summon",
+    "count": 1,
+    "ingredients": [
+      "ars_nouveau:purple_archwood_log",
+      "minecraft:emerald_block",
+      "minecraft:iron_sword",
+      "minecraft:bow",
+      "minecraft:lapis_block",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bigreactors:ridiculite_block": {
+    "result": "bigreactors:ridiculite_block",
+    "count": 1,
+    "ingredients": [
+      "bigreactors:ridiculite_ingot",
+      "bigreactors:ridiculite_ingot",
+      "bigreactors:ridiculite_ingot",
+      "bigreactors:ridiculite_ingot",
+      "minecraft:nether_star",
+      "bigreactors:ridiculite_ingot",
+      "bigreactors:ridiculite_ingot",
+      "bigreactors:ridiculite_ingot",
+      "bigreactors:ridiculite_ingot"
+    ]
+  },
+  "farmersdelight:rice": {
+    "result": "farmersdelight:rice",
+    "count": 9,
+    "ingredients": [
+      "farmersdelight:rice_bag",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "farmersdelight:rice_bag": {
+    "result": "farmersdelight:rice_bag",
+    "count": 1,
+    "ingredients": [
+      "farmersdelight:rice",
+      "farmersdelight:rice",
+      "farmersdelight:rice",
+      "farmersdelight:rice",
+      "farmersdelight:rice",
+      "farmersdelight:rice",
+      "farmersdelight:rice",
+      "farmersdelight:rice",
+      "farmersdelight:rice"
+    ]
+  },
+  "farmersdelight:rice_bale": {
+    "result": "farmersdelight:rice_bale",
+    "count": 1,
+    "ingredients": [
+      "farmersdelight:rice_panicle",
+      "farmersdelight:rice_panicle",
+      "farmersdelight:rice_panicle",
+      "farmersdelight:rice_panicle",
+      "farmersdelight:rice_panicle",
+      "farmersdelight:rice_panicle",
+      "farmersdelight:rice_panicle",
+      "farmersdelight:rice_panicle",
+      "farmersdelight:rice_panicle"
+    ]
+  },
+  "farmersdelight:rice_panicle": {
+    "result": "farmersdelight:rice_panicle",
+    "count": 9,
+    "ingredients": [
+      "farmersdelight:rice_bale",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "farmersdelight:rice_roll_medley_block": {
+    "result": "farmersdelight:rice_roll_medley_block",
+    "count": 1,
+    "ingredients": [
+      "farmersdelight:kelp_roll_slice",
+      "farmersdelight:kelp_roll_slice",
+      "farmersdelight:kelp_roll_slice",
+      "farmersdelight:salmon_roll",
+      "farmersdelight:salmon_roll",
+      "farmersdelight:salmon_roll",
+      "farmersdelight:cod_roll",
+      "minecraft:bowl",
+      "farmersdelight:cod_roll"
+    ]
+  },
+  "herbsandharvest:rice": {
+    "result": "herbsandharvest:rice",
+    "count": 1,
+    "ingredients": [
+      "herbsandharvest:rice_item",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:right_corner_template": {
+    "result": "merrymaking:right_corner_template",
+    "count": 1,
+    "ingredients": [
+      "minecraft:green_dye",
+      "minecraft:green_dye",
+      "minecraft:green_dye",
+      "",
+      "",
+      "minecraft:green_dye",
+      "",
+      "",
+      "minecraft:paper"
+    ]
+  },
+  "merrymaking:right_diag_template": {
+    "result": "merrymaking:right_diag_template",
+    "count": 1,
+    "ingredients": [
+      "minecraft:green_dye",
+      "minecraft:paper",
+      "",
+      "",
+      "minecraft:green_dye",
+      "",
+      "minecraft:green_dye",
+      "",
+      "minecraft:green_dye"
+    ]
+  },
+  "merrymaking:right_vert_template": {
+    "result": "merrymaking:right_vert_template",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "minecraft:green_dye",
+      "",
+      "",
+      "minecraft:green_dye",
+      "",
+      "minecraft:green_dye",
+      "minecraft:paper"
+    ]
+  },
+  "minecolonies:rice_ball": {
+    "result": "minecolonies:rice_ball",
+    "count": 1,
+    "ingredients": [
+      "minecolonies:tofu",
+      "minecolonies:cooked_rice",
+      "minecolonies:cooked_rice",
+      "minecraft:dried_kelp",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:rib_armor_trim_smithing_template": {
+    "result": "minecraft:rib_armor_trim_smithing_template",
+    "count": 2,
+    "ingredients": [
+      "minecraft:diamond",
+      "minecraft:rib_armor_trim_smithing_template",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:netherrack",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond"
+    ]
+  },
+  "pamhc2crops:riceseeditem": {
+    "result": "pamhc2crops:riceseeditem",
+    "count": 1,
+    "ingredients": [
+      "pamhc2crops:riceitem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:ricecakeitem": {
+    "result": "pamhc2foodextended:ricecakeitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:rice",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:ricepuddingitem": {
+    "result": "pamhc2foodextended:ricepuddingitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:rice",
+      "minecraft:milk",
+      "minecraft:sugar",
+      "minecraft:groundcinnamon",
+      "minecraft:vanilla",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:rivermudcakeitem": {
+    "result": "pamhc2foodextended:rivermudcakeitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:cocoapowder",
+      "minecraft:coconut",
+      "minecraft:marshmellows",
+      "minecraft:flour",
+      "minecraft:egg",
+      "minecraft:butter",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:rippling_willow_bookshelf": {
+    "result": "productivetrees:rippling_willow_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:rippling_willow_planks",
+      "productivetrees:rippling_willow_planks",
+      "productivetrees:rippling_willow_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:rippling_willow_planks",
+      "productivetrees:rippling_willow_planks",
+      "productivetrees:rippling_willow_planks"
+    ]
+  },
+  "productivetrees:rippling_willow_button": {
+    "result": "productivetrees:rippling_willow_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:rippling_willow_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:rippling_willow_door": {
+    "result": "productivetrees:rippling_willow_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:rippling_willow_planks",
+      "productivetrees:rippling_willow_planks",
+      "",
+      "productivetrees:rippling_willow_planks",
+      "productivetrees:rippling_willow_planks",
+      "",
+      "productivetrees:rippling_willow_planks",
+      "productivetrees:rippling_willow_planks",
+      ""
+    ]
+  },
+  "productivetrees:rippling_willow_fence": {
+    "result": "productivetrees:rippling_willow_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:rippling_willow_planks",
+      "minecraft:stick",
+      "productivetrees:rippling_willow_planks",
+      "productivetrees:rippling_willow_planks",
+      "minecraft:stick",
+      "productivetrees:rippling_willow_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:rippling_willow_fence_gate": {
+    "result": "productivetrees:rippling_willow_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:rippling_willow_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:rippling_willow_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:rippling_willow_hanging_sign": {
+    "result": "productivetrees:rippling_willow_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:rippling_willow_planks",
+      "productivetrees:rippling_willow_planks",
+      "productivetrees:rippling_willow_planks",
+      "productivetrees:rippling_willow_planks",
+      "productivetrees:rippling_willow_planks",
+      "productivetrees:rippling_willow_planks"
+    ]
+  },
+  "productivetrees:rippling_willow_planks": {
+    "result": "productivetrees:rippling_willow_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:rippling_willow_pressure_plate": {
+    "result": "productivetrees:rippling_willow_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:rippling_willow_planks",
+      "productivetrees:rippling_willow_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:rippling_willow_sign": {
+    "result": "productivetrees:rippling_willow_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:rippling_willow_planks",
+      "productivetrees:rippling_willow_planks",
+      "productivetrees:rippling_willow_planks",
+      "productivetrees:rippling_willow_planks",
+      "productivetrees:rippling_willow_planks",
+      "productivetrees:rippling_willow_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:rippling_willow_slab": {
+    "result": "productivetrees:rippling_willow_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:rippling_willow_planks",
+      "productivetrees:rippling_willow_planks",
+      "productivetrees:rippling_willow_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:rippling_willow_stairs": {
+    "result": "productivetrees:rippling_willow_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:rippling_willow_planks",
+      "",
+      "",
+      "productivetrees:rippling_willow_planks",
+      "productivetrees:rippling_willow_planks",
+      "",
+      "productivetrees:rippling_willow_planks",
+      "productivetrees:rippling_willow_planks",
+      "productivetrees:rippling_willow_planks"
+    ]
+  },
+  "productivetrees:rippling_willow_trapdoor": {
+    "result": "productivetrees:rippling_willow_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:rippling_willow_planks",
+      "productivetrees:rippling_willow_planks",
+      "productivetrees:rippling_willow_planks",
+      "productivetrees:rippling_willow_planks",
+      "productivetrees:rippling_willow_planks",
+      "productivetrees:rippling_willow_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:rippling_willow_wood": {
+    "result": "productivetrees:rippling_willow_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:rippling_willow_log",
+      "productivetrees:rippling_willow_log",
+      "",
+      "productivetrees:rippling_willow_log",
+      "productivetrees:rippling_willow_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "reliquary:rib_bone": {
+    "result": "reliquary:rib_bone",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:bone",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "securitycraft:rift_stabilizer": {
+    "result": "securitycraft:rift_stabilizer",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "minecraft:ender_eye",
+      "minecraft:gold_ingot",
+      "minecraft:chorus_fruit",
+      "securitycraft:reinforced_diamond_block",
+      "minecraft:chorus_fruit",
+      "securitycraft:reinforced_iron_block",
+      "securitycraft:reinforced_iron_block",
+      "securitycraft:reinforced_iron_block"
+    ]
+  },
+  "silentgear:ring_blueprint": {
+    "result": "silentgear:ring_blueprint",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:paper",
+      "minecraft:gold_ingot",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      "minecraft:gold_ingot",
+      "minecraft:paper",
+      ""
+    ]
+  },
+  "sushigocrafting:rice_cooker": {
+    "result": "sushigocrafting:rice_cooker",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:light_weighted_pressure_plate",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:furnace",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:redstone",
+      "minecraft:iron_ingot"
+    ]
+  }
+}

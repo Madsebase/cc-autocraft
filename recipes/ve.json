@@ -1,0 +1,482 @@
+{
+  "actuallyadditions:vertical_digger": {
+    "result": "actuallyadditions:vertical_digger",
+    "count": 1,
+    "ingredients": [
+      "actuallyadditions:iron_casing",
+      "minecraft:redstone",
+      "actuallyadditions:iron_casing",
+      "minecraft:redstone",
+      "actuallyadditions:empowered_void_crystal",
+      "minecraft:redstone",
+      "actuallyadditions:iron_casing",
+      "minecraft:drills",
+      "actuallyadditions:iron_casing"
+    ]
+  },
+  "create:vertical_framed_glass_pane": {
+    "result": "create:vertical_framed_glass_pane",
+    "count": 16,
+    "ingredients": [
+      "create:vertical_framed_glass",
+      "create:vertical_framed_glass",
+      "create:vertical_framed_glass",
+      "create:vertical_framed_glass",
+      "create:vertical_framed_glass",
+      "create:vertical_framed_glass",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:vertical_gearbox": {
+    "result": "create:vertical_gearbox",
+    "count": 1,
+    "ingredients": [
+      "create:gearbox",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "evilcraft:vein_sword": {
+    "result": "evilcraft:vein_sword",
+    "count": 1,
+    "ingredients": [
+      "",
+      "evilcraft:dark_power_gem",
+      "",
+      "",
+      "evilcraft:dark_power_gem",
+      "",
+      "evilcraft:dark_spike",
+      "evilcraft:dark_stick",
+      "evilcraft:dark_spike"
+    ]
+  },
+  "evilcraft:vengeance_essence_materialized": {
+    "result": "evilcraft:vengeance_essence_materialized",
+    "count": 1,
+    "ingredients": [
+      "evilcraft:dark_gem_crushed",
+      "evilcraft:dark_gem_crushed",
+      "evilcraft:dark_gem_crushed",
+      "evilcraft:dark_gem_crushed",
+      "evilcraft:vengeance_essence",
+      "evilcraft:dark_gem_crushed",
+      "evilcraft:dark_gem_crushed",
+      "evilcraft:dark_gem_crushed",
+      "evilcraft:dark_gem_crushed"
+    ]
+  },
+  "evilcraft:vengeance_focus": {
+    "result": "evilcraft:vengeance_focus",
+    "count": 1,
+    "ingredients": [
+      "evilcraft:dark_gem_crushed",
+      "minecraft:iron_ingot",
+      "evilcraft:dark_gem_crushed",
+      "minecraft:iron_ingot",
+      "evilcraft:vengeance_ring",
+      "minecraft:iron_ingot",
+      "evilcraft:dark_gem_crushed",
+      "minecraft:iron_ingot",
+      "evilcraft:dark_gem_crushed"
+    ]
+  },
+  "evilcraft:vengeance_pickaxe": {
+    "result": "evilcraft:vengeance_pickaxe",
+    "count": 1,
+    "ingredients": [
+      "evilcraft:hardened_blood_shard",
+      "minecraft:diamond",
+      "evilcraft:hardened_blood_shard",
+      "minecraft:diamond",
+      "evilcraft:dark_stick",
+      "minecraft:diamond",
+      "",
+      "evilcraft:dark_stick",
+      ""
+    ]
+  },
+  "evilcraft:vengeance_ring": {
+    "result": "evilcraft:vengeance_ring",
+    "count": 1,
+    "ingredients": [
+      "evilcraft:dark_gem_crushed",
+      "minecraft:iron_ingot",
+      "evilcraft:dark_gem_crushed",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "evilcraft:dark_gem_crushed",
+      "minecraft:iron_ingot",
+      "evilcraft:dark_gem_crushed"
+    ]
+  },
+  "herbsandharvest:vegetable_medley": {
+    "result": "herbsandharvest:vegetable_medley",
+    "count": 1,
+    "ingredients": [
+      "minecraft:squash",
+      "herbsandharvest:zucchini",
+      "herbsandharvest:turnip",
+      "minecraft:carrot",
+      "minecraft:bowl",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "herbsandharvest:vegetable_soup_pot": {
+    "result": "herbsandharvest:vegetable_soup_pot",
+    "count": 1,
+    "ingredients": [
+      "herbsandharvest:empty_pot",
+      "minecraft:potato",
+      "minecraft:carrot",
+      "minecraft:onion",
+      "minecraft:green_bean",
+      "minecraft:celery",
+      "minecraft:peas",
+      "herbsandharvest:chopped_thyme",
+      "herbsandharvest:chopped_parsley"
+    ]
+  },
+  "mcwholidays:vertical_garland_wall_deco": {
+    "result": "mcwholidays:vertical_garland_wall_deco",
+    "count": 1,
+    "ingredients": [
+      "mcwholidays:horizontal_garland_wall_deco",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecolonies:veggie_quiche": {
+    "result": "minecolonies:veggie_quiche",
+    "count": 2,
+    "ingredients": [
+      "minecolonies:garlic",
+      "minecolonies:durum",
+      "minecolonies:onion",
+      "minecolonies:butternut_squash",
+      "minecolonies:butternut_squash",
+      "minecolonies:large_water_bottle",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecolonies:veggie_ravioli": {
+    "result": "minecolonies:veggie_ravioli",
+    "count": 2,
+    "ingredients": [
+      "minecolonies:durum",
+      "minecolonies:durum",
+      "minecraft:beetroot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecolonies:veggie_soup": {
+    "result": "minecolonies:veggie_soup",
+    "count": 1,
+    "ingredients": [
+      "minecolonies:garlic",
+      "minecolonies:garlic",
+      "minecolonies:onion",
+      "minecolonies:eggplant",
+      "minecraft:carrot",
+      "minecraft:bowl",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:vex_armor_trim_smithing_template": {
+    "result": "minecraft:vex_armor_trim_smithing_template",
+    "count": 2,
+    "ingredients": [
+      "minecraft:diamond",
+      "minecraft:vex_armor_trim_smithing_template",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:cobblestone",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond"
+    ]
+  },
+  "create:veridium": {
+    "result": "create:veridium",
+    "count": 16,
+    "ingredients": [
+      "mysticalagriculture:stone_essence",
+      "mysticalagriculture:stone_essence",
+      "mysticalagriculture:stone_essence",
+      "mysticalagriculture:stone_essence",
+      "mysticalagriculture:copper_essence",
+      "mysticalagriculture:stone_essence",
+      "mysticalagriculture:stone_essence",
+      "mysticalagriculture:stone_essence",
+      "mysticalagriculture:stone_essence"
+    ]
+  },
+  "pamhc2foodcore:vegetablenoodlesoupitem": {
+    "result": "pamhc2foodcore:vegetablenoodlesoupitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:pasta",
+      "minecraft:stock",
+      "minecraft:vegetables",
+      "minecraft:vegetables",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:veggiepotpieitem": {
+    "result": "pamhc2foodcore:veggiepotpieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:vegetables",
+      "minecraft:vegetables",
+      "minecraft:potato",
+      "minecraft:carrot",
+      "minecraft:dough",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:vegemiteitem": {
+    "result": "pamhc2foodextended:vegemiteitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:sugar",
+      "minecraft:barley",
+      "minecraft:water",
+      "minecraft:spiceleaf",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:vegemiteontoastitem": {
+    "result": "pamhc2foodextended:vegemiteontoastitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "pamhc2foodextended:vegemiteitem",
+      "minecraft:toast",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:vegetablesoupitem": {
+    "result": "pamhc2foodextended:vegetablesoupitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:potato",
+      "minecraft:carrot",
+      "minecraft:mushrooms",
+      "minecraft:stock",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:vegetarianlettucewrapitem": {
+    "result": "pamhc2foodextended:vegetarianlettucewrapitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:cucumber",
+      "minecraft:lettuce",
+      "minecraft:tomato",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:veggiestirfryitem": {
+    "result": "pamhc2foodextended:veggiestirfryitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_skillet",
+      "minecraft:bellpepper",
+      "minecraft:carrot",
+      "minecraft:rice",
+      "minecraft:onion",
+      "minecraft:vegetables",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:veggiestripsitem": {
+    "result": "pamhc2foodextended:veggiestripsitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:vegetables",
+      "minecraft:vegetables",
+      "minecraft:vegetables",
+      "minecraft:salt",
+      "minecraft:spiceleaf",
+      "",
+      "",
+      ""
+    ]
+  },
+  "rftoolsbuilder:vehicle_builder": {
+    "result": "rftoolsbuilder:vehicle_builder",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:minecart",
+      "minecraft:iron_ingot",
+      "minecraft:redstone",
+      "rftoolsbase:machine_frame",
+      "minecraft:redstone",
+      "minecraft:iron_ingot",
+      "minecraft:redstone_torch",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "rftoolsbuilder:vehicle_card": {
+    "result": "rftoolsbuilder:vehicle_card",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:minecart",
+      "",
+      "minecraft:redstone",
+      "minecraft:paper",
+      "minecraft:redstone",
+      "",
+      "minecraft:redstone",
+      ""
+    ]
+  },
+  "rftoolsbuilder:vehicle_control_module": {
+    "result": "rftoolsbuilder:vehicle_control_module",
+    "count": 1,
+    "ingredients": [
+      "",
+      "rftoolsbuilder:vehicle_card",
+      "",
+      "minecraft:redstone",
+      "minecraft:paper",
+      "minecraft:redstone",
+      "",
+      "minecraft:redstone",
+      ""
+    ]
+  },
+  "rftoolsbuilder:vehicle_status_module": {
+    "result": "rftoolsbuilder:vehicle_status_module",
+    "count": 1,
+    "ingredients": [
+      "",
+      "rftoolsbuilder:vehicle_card",
+      "",
+      "minecraft:redstone",
+      "minecraft:paper",
+      "minecraft:redstone",
+      "",
+      "minecraft:comparator",
+      ""
+    ]
+  },
+  "silentgear:very_crude_repair_kit": {
+    "result": "silentgear:very_crude_repair_kit",
+    "count": 1,
+    "ingredients": [
+      "silentgear:very_crude_repair_kit",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:veiled_stew": {
+    "result": "undergarden:veiled_stew",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bowl",
+      "undergarden:veil_mushroom",
+      "undergarden:veil_mushroom",
+      "undergarden:veil_mushroom",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xtonesreworked:vect_block_0": {
+    "result": "xtonesreworked:vect_block_0",
+    "count": 8,
+    "ingredients": [
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile",
+      "minecraft:black",
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile"
+    ]
+  },
+  "xtonesreworked:vena_block_0": {
+    "result": "xtonesreworked:vena_block_0",
+    "count": 8,
+    "ingredients": [
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile",
+      "minecraft:cobbled_deepslate",
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "advancedperipherals:rs_bridge": {
+    "result": "advancedperipherals:rs_bridge",
+    "count": 1,
+    "ingredients": [
+      "refinedstorage:advanced_processor",
+      "minecraft:external_storages",
+      "refinedstorage:advanced_processor",
+      "minecraft:exporters",
+      "advancedperipherals:peripheral_casing",
+      "minecraft:importers",
+      "refinedstorage:advanced_processor",
+      "refinedstorage:interface",
+      "refinedstorage:advanced_processor"
+    ]
+  },
+  "little_big_redstone:rs_nor_latch": {
+    "result": "little_big_redstone:rs_nor_latch",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "little_big_redstone:nor_gate",
+      "",
+      "",
+      "little_big_redstone:redstone_bit",
+      "minecraft:redstone",
+      "minecraft:redstone",
+      "little_big_redstone:nor_gate",
+      ""
+    ]
+  }
+}

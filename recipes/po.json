@@ -1,0 +1,6872 @@
+{
+  "actuallyadditions:powered_furnace": {
+    "result": "actuallyadditions:powered_furnace",
+    "count": 1,
+    "ingredients": [
+      "actuallyadditions:powered_furnace",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "advanced_ae:portable_workbench_card": {
+    "result": "advanced_ae:portable_workbench_card",
+    "count": 1,
+    "ingredients": [
+      "",
+      "ae2:wireless_access_point",
+      "",
+      "advanced_ae:quantum_processor",
+      "advanced_ae:quantum_upgrade_base",
+      "advanced_ae:quantum_processor",
+      "advanced_ae:quantum_alloy",
+      "ae2:cell_workbench",
+      "advanced_ae:quantum_alloy"
+    ]
+  },
+  "ae2:portable_fluid_cell_16k": {
+    "result": "ae2:portable_fluid_cell_16k",
+    "count": 1,
+    "ingredients": [
+      "ae2:chest",
+      "ae2:cell_component_16k",
+      "ae2:energy_cell",
+      "ae2:fluid_cell_housing",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ae2:portable_fluid_cell_1k": {
+    "result": "ae2:portable_fluid_cell_1k",
+    "count": 1,
+    "ingredients": [
+      "ae2:chest",
+      "ae2:cell_component_1k",
+      "ae2:energy_cell",
+      "ae2:fluid_cell_housing",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ae2:portable_fluid_cell_256k": {
+    "result": "ae2:portable_fluid_cell_256k",
+    "count": 1,
+    "ingredients": [
+      "ae2:chest",
+      "ae2:cell_component_256k",
+      "ae2:energy_cell",
+      "ae2:fluid_cell_housing",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ae2:portable_fluid_cell_4k": {
+    "result": "ae2:portable_fluid_cell_4k",
+    "count": 1,
+    "ingredients": [
+      "ae2:chest",
+      "ae2:cell_component_4k",
+      "ae2:energy_cell",
+      "ae2:fluid_cell_housing",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ae2:portable_fluid_cell_64k": {
+    "result": "ae2:portable_fluid_cell_64k",
+    "count": 1,
+    "ingredients": [
+      "ae2:chest",
+      "ae2:cell_component_64k",
+      "ae2:energy_cell",
+      "ae2:fluid_cell_housing",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ae2:portable_item_cell_16k": {
+    "result": "ae2:portable_item_cell_16k",
+    "count": 1,
+    "ingredients": [
+      "ae2:chest",
+      "ae2:cell_component_16k",
+      "ae2:energy_cell",
+      "ae2:item_cell_housing",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ae2:portable_item_cell_1k": {
+    "result": "ae2:portable_item_cell_1k",
+    "count": 1,
+    "ingredients": [
+      "ae2:chest",
+      "ae2:cell_component_1k",
+      "ae2:energy_cell",
+      "ae2:item_cell_housing",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ae2:portable_item_cell_256k": {
+    "result": "ae2:portable_item_cell_256k",
+    "count": 1,
+    "ingredients": [
+      "ae2:chest",
+      "ae2:cell_component_256k",
+      "ae2:energy_cell",
+      "ae2:item_cell_housing",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ae2:portable_item_cell_4k": {
+    "result": "ae2:portable_item_cell_4k",
+    "count": 1,
+    "ingredients": [
+      "ae2:chest",
+      "ae2:cell_component_4k",
+      "ae2:energy_cell",
+      "ae2:item_cell_housing",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ae2:portable_item_cell_64k": {
+    "result": "ae2:portable_item_cell_64k",
+    "count": 1,
+    "ingredients": [
+      "ae2:chest",
+      "ae2:cell_component_64k",
+      "ae2:energy_cell",
+      "ae2:item_cell_housing",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "aether:poison_dart": {
+    "result": "aether:poison_dart",
+    "count": 8,
+    "ingredients": [
+      "aether:golden_dart",
+      "aether:golden_dart",
+      "aether:golden_dart",
+      "aether:golden_dart",
+      "aether:skyroot_poison_bucket",
+      "aether:golden_dart",
+      "aether:golden_dart",
+      "aether:golden_dart",
+      "aether:golden_dart"
+    ]
+  },
+  "aether:poison_dart_shooter": {
+    "result": "aether:poison_dart_shooter",
+    "count": 1,
+    "ingredients": [
+      "aether:golden_dart_shooter",
+      "aether:aechor_petal",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:podzol_1x": {
+    "result": "allthecompressed:podzol_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:podzol_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:podzol_2x": {
+    "result": "allthecompressed:podzol_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:podzol_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:podzol_3x": {
+    "result": "allthecompressed:podzol_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:podzol_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:podzol_4x": {
+    "result": "allthecompressed:podzol_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:podzol_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:podzol_5x": {
+    "result": "allthecompressed:podzol_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:podzol_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:podzol_6x": {
+    "result": "allthecompressed:podzol_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:podzol_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:podzol_7x": {
+    "result": "allthecompressed:podzol_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:podzol_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:podzol_8x": {
+    "result": "allthecompressed:podzol_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:podzol_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:podzol_9x": {
+    "result": "allthecompressed:podzol_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:podzol_8x",
+      "allthecompressed:podzol_8x",
+      "allthecompressed:podzol_8x",
+      "allthecompressed:podzol_8x",
+      "allthecompressed:podzol_8x",
+      "allthecompressed:podzol_8x",
+      "allthecompressed:podzol_8x",
+      "allthecompressed:podzol_8x",
+      "allthecompressed:podzol_8x"
+    ]
+  },
+  "minecraft:podzol": {
+    "result": "minecraft:podzol",
+    "count": 12,
+    "ingredients": [
+      "",
+      "mysticalagriculture:dirt_essence",
+      "",
+      "mysticalagriculture:dirt_essence",
+      "mysticalagriculture:nature_essence",
+      "mysticalagriculture:dirt_essence",
+      "",
+      "mysticalagriculture:dirt_essence",
+      ""
+    ]
+  },
+  "appmek:portable_chemical_cell_16k": {
+    "result": "appmek:portable_chemical_cell_16k",
+    "count": 1,
+    "ingredients": [
+      "ae2:chest",
+      "ae2:cell_component_16k",
+      "ae2:energy_cell",
+      "appmek:chemical_cell_housing",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "appmek:portable_chemical_cell_1k": {
+    "result": "appmek:portable_chemical_cell_1k",
+    "count": 1,
+    "ingredients": [
+      "ae2:chest",
+      "ae2:cell_component_1k",
+      "ae2:energy_cell",
+      "appmek:chemical_cell_housing",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "appmek:portable_chemical_cell_256k": {
+    "result": "appmek:portable_chemical_cell_256k",
+    "count": 1,
+    "ingredients": [
+      "ae2:chest",
+      "ae2:cell_component_256k",
+      "ae2:energy_cell",
+      "appmek:chemical_cell_housing",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "appmek:portable_chemical_cell_4k": {
+    "result": "appmek:portable_chemical_cell_4k",
+    "count": 1,
+    "ingredients": [
+      "ae2:chest",
+      "ae2:cell_component_4k",
+      "ae2:energy_cell",
+      "appmek:chemical_cell_housing",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "appmek:portable_chemical_cell_64k": {
+    "result": "appmek:portable_chemical_cell_64k",
+    "count": 1,
+    "ingredients": [
+      "ae2:chest",
+      "ae2:cell_component_64k",
+      "ae2:energy_cell",
+      "appmek:chemical_cell_housing",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "arseng:portable_source_cell_16k": {
+    "result": "arseng:portable_source_cell_16k",
+    "count": 1,
+    "ingredients": [
+      "ae2:chest",
+      "ae2:cell_component_16k",
+      "ae2:energy_cell",
+      "arseng:source_cell_housing",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "arseng:portable_source_cell_1k": {
+    "result": "arseng:portable_source_cell_1k",
+    "count": 1,
+    "ingredients": [
+      "ae2:chest",
+      "ae2:cell_component_1k",
+      "ae2:energy_cell",
+      "arseng:source_cell_housing",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "arseng:portable_source_cell_256k": {
+    "result": "arseng:portable_source_cell_256k",
+    "count": 1,
+    "ingredients": [
+      "ae2:chest",
+      "ae2:cell_component_256k",
+      "ae2:energy_cell",
+      "arseng:source_cell_housing",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "arseng:portable_source_cell_4k": {
+    "result": "arseng:portable_source_cell_4k",
+    "count": 1,
+    "ingredients": [
+      "ae2:chest",
+      "ae2:cell_component_4k",
+      "ae2:energy_cell",
+      "arseng:source_cell_housing",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "arseng:portable_source_cell_64k": {
+    "result": "arseng:portable_source_cell_64k",
+    "count": 1,
+    "ingredients": [
+      "ae2:chest",
+      "ae2:cell_component_64k",
+      "ae2:energy_cell",
+      "arseng:source_cell_housing",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_additions:polished_sourcestone_button": {
+    "result": "ars_additions:polished_sourcestone_button",
+    "count": 1,
+    "ingredients": [
+      "ars_nouveau:smooth_sourcestone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_additions:polished_sourcestone_chain": {
+    "result": "ars_additions:polished_sourcestone_chain",
+    "count": 1,
+    "ingredients": [
+      "ars_additions:sourcestone_chain",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_additions:polished_sourcestone_door": {
+    "result": "ars_additions:polished_sourcestone_door",
+    "count": 1,
+    "ingredients": [
+      "ars_nouveau:smooth_sourcestone",
+      "ars_nouveau:smooth_sourcestone",
+      "",
+      "ars_nouveau:smooth_sourcestone",
+      "ars_nouveau:smooth_sourcestone",
+      "",
+      "ars_nouveau:smooth_sourcestone",
+      "ars_nouveau:smooth_sourcestone",
+      ""
+    ]
+  },
+  "ars_additions:polished_sourcestone_lantern": {
+    "result": "ars_additions:polished_sourcestone_lantern",
+    "count": 1,
+    "ingredients": [
+      "ars_additions:sourcestone_lantern",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_additions:polished_sourcestone_magelight_lantern": {
+    "result": "ars_additions:polished_sourcestone_magelight_lantern",
+    "count": 1,
+    "ingredients": [
+      "ars_additions:sourcestone_magelight_lantern",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_additions:polished_sourcestone_trapdoor": {
+    "result": "ars_additions:polished_sourcestone_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "ars_nouveau:smooth_sourcestone",
+      "ars_nouveau:smooth_sourcestone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_additions:polished_sourcestone_wall": {
+    "result": "ars_additions:polished_sourcestone_wall",
+    "count": 6,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "ars_nouveau:smooth_sourcestone",
+      "ars_nouveau:smooth_sourcestone",
+      "ars_nouveau:smooth_sourcestone",
+      "ars_nouveau:smooth_sourcestone",
+      "ars_nouveau:smooth_sourcestone",
+      "ars_nouveau:smooth_sourcestone"
+    ]
+  },
+  "minecraft:powder_snow_bucket": {
+    "result": "minecraft:powder_snow_bucket",
+    "count": 1,
+    "ingredients": [
+      "ars_nouveau:air_essence",
+      "minecraft:bucket",
+      "minecraft:snow_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_nouveau:polished_sconce": {
+    "result": "ars_nouveau:polished_sconce",
+    "count": 1,
+    "ingredients": [
+      "ars_nouveau:sourcestone_sconce",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_nouveau:potion_jar": {
+    "result": "ars_nouveau:potion_jar",
+    "count": 1,
+    "ingredients": [
+      "ars_nouveau:potion_jar",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_technica:pocket_factory": {
+    "result": "ars_technica:pocket_factory",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:brass",
+      "",
+      "ars_nouveau:source_gem",
+      "minecraft:blank_music_disc",
+      "ars_nouveau:source_gem",
+      "",
+      "minecraft:brass",
+      ""
+    ]
+  },
+  "bellsandwhistles:polished_andesite_pilot": {
+    "result": "bellsandwhistles:polished_andesite_pilot",
+    "count": 1,
+    "ingredients": [
+      "",
+      "create:polished_cut_andesite_stairs",
+      "",
+      "create:polished_cut_andesite",
+      "",
+      "create:polished_cut_andesite",
+      "create:polished_cut_andesite",
+      "create:polished_cut_andesite_stairs",
+      "create:polished_cut_andesite"
+    ]
+  },
+  "bellsandwhistles:polished_asurine_pilot": {
+    "result": "bellsandwhistles:polished_asurine_pilot",
+    "count": 1,
+    "ingredients": [
+      "",
+      "create:polished_cut_asurine_stairs",
+      "",
+      "create:polished_cut_asurine",
+      "",
+      "create:polished_cut_asurine",
+      "create:polished_cut_asurine",
+      "create:polished_cut_asurine_stairs",
+      "create:polished_cut_asurine"
+    ]
+  },
+  "bellsandwhistles:polished_calcite_pilot": {
+    "result": "bellsandwhistles:polished_calcite_pilot",
+    "count": 1,
+    "ingredients": [
+      "",
+      "create:polished_cut_calcite_stairs",
+      "",
+      "create:polished_cut_calcite",
+      "",
+      "create:polished_cut_calcite",
+      "create:polished_cut_calcite",
+      "create:polished_cut_calcite_stairs",
+      "create:polished_cut_calcite"
+    ]
+  },
+  "bellsandwhistles:polished_crimsite_pilot": {
+    "result": "bellsandwhistles:polished_crimsite_pilot",
+    "count": 1,
+    "ingredients": [
+      "",
+      "create:polished_cut_crimsite_stairs",
+      "",
+      "create:polished_cut_crimsite",
+      "",
+      "create:polished_cut_crimsite",
+      "create:polished_cut_crimsite",
+      "create:polished_cut_crimsite_stairs",
+      "create:polished_cut_crimsite"
+    ]
+  },
+  "bellsandwhistles:polished_deepslate_pilot": {
+    "result": "bellsandwhistles:polished_deepslate_pilot",
+    "count": 1,
+    "ingredients": [
+      "",
+      "create:polished_cut_deepslate_stairs",
+      "",
+      "create:polished_cut_deepslate",
+      "",
+      "create:polished_cut_deepslate",
+      "create:polished_cut_deepslate",
+      "create:polished_cut_deepslate_stairs",
+      "create:polished_cut_deepslate"
+    ]
+  },
+  "bellsandwhistles:polished_diorite_pilot": {
+    "result": "bellsandwhistles:polished_diorite_pilot",
+    "count": 1,
+    "ingredients": [
+      "",
+      "create:polished_cut_diorite_stairs",
+      "",
+      "create:polished_cut_diorite",
+      "",
+      "create:polished_cut_diorite",
+      "create:polished_cut_diorite",
+      "create:polished_cut_diorite_stairs",
+      "create:polished_cut_diorite"
+    ]
+  },
+  "bellsandwhistles:polished_dripstone_pilot": {
+    "result": "bellsandwhistles:polished_dripstone_pilot",
+    "count": 1,
+    "ingredients": [
+      "",
+      "create:polished_cut_dripstone_stairs",
+      "",
+      "create:polished_cut_dripstone",
+      "",
+      "create:polished_cut_dripstone",
+      "create:polished_cut_dripstone",
+      "create:polished_cut_dripstone_stairs",
+      "create:polished_cut_dripstone"
+    ]
+  },
+  "bellsandwhistles:polished_granite_pilot": {
+    "result": "bellsandwhistles:polished_granite_pilot",
+    "count": 1,
+    "ingredients": [
+      "",
+      "create:polished_cut_granite_stairs",
+      "",
+      "create:polished_cut_granite",
+      "",
+      "create:polished_cut_granite",
+      "create:polished_cut_granite",
+      "create:polished_cut_granite_stairs",
+      "create:polished_cut_granite"
+    ]
+  },
+  "bellsandwhistles:polished_limestone_pilot": {
+    "result": "bellsandwhistles:polished_limestone_pilot",
+    "count": 1,
+    "ingredients": [
+      "",
+      "create:polished_cut_limestone_stairs",
+      "",
+      "create:polished_cut_limestone",
+      "",
+      "create:polished_cut_limestone",
+      "create:polished_cut_limestone",
+      "create:polished_cut_limestone_stairs",
+      "create:polished_cut_limestone"
+    ]
+  },
+  "bellsandwhistles:polished_ochrum_pilot": {
+    "result": "bellsandwhistles:polished_ochrum_pilot",
+    "count": 1,
+    "ingredients": [
+      "",
+      "create:polished_cut_ochrum_stairs",
+      "",
+      "create:polished_cut_ochrum",
+      "",
+      "create:polished_cut_ochrum",
+      "create:polished_cut_ochrum",
+      "create:polished_cut_ochrum_stairs",
+      "create:polished_cut_ochrum"
+    ]
+  },
+  "bellsandwhistles:polished_scorchia_pilot": {
+    "result": "bellsandwhistles:polished_scorchia_pilot",
+    "count": 1,
+    "ingredients": [
+      "",
+      "create:polished_cut_scorchia_stairs",
+      "",
+      "create:polished_cut_scorchia",
+      "",
+      "create:polished_cut_scorchia",
+      "create:polished_cut_scorchia",
+      "create:polished_cut_scorchia_stairs",
+      "create:polished_cut_scorchia"
+    ]
+  },
+  "bellsandwhistles:polished_scoria_pilot": {
+    "result": "bellsandwhistles:polished_scoria_pilot",
+    "count": 1,
+    "ingredients": [
+      "",
+      "create:polished_cut_scoria_stairs",
+      "",
+      "create:polished_cut_scoria",
+      "",
+      "create:polished_cut_scoria",
+      "create:polished_cut_scoria",
+      "create:polished_cut_scoria_stairs",
+      "create:polished_cut_scoria"
+    ]
+  },
+  "bellsandwhistles:polished_tuff_pilot": {
+    "result": "bellsandwhistles:polished_tuff_pilot",
+    "count": 1,
+    "ingredients": [
+      "",
+      "create:polished_cut_tuff_stairs",
+      "",
+      "create:polished_cut_tuff",
+      "",
+      "create:polished_cut_tuff",
+      "create:polished_cut_tuff",
+      "create:polished_cut_tuff_stairs",
+      "create:polished_cut_tuff"
+    ]
+  },
+  "bellsandwhistles:polished_veridium_pilot": {
+    "result": "bellsandwhistles:polished_veridium_pilot",
+    "count": 1,
+    "ingredients": [
+      "",
+      "create:polished_cut_veridium_stairs",
+      "",
+      "create:polished_cut_veridium",
+      "",
+      "create:polished_cut_veridium",
+      "create:polished_cut_veridium",
+      "create:polished_cut_veridium_stairs",
+      "create:polished_cut_veridium"
+    ]
+  },
+  "biomeswevegone:polished_red_rock_slab": {
+    "result": "biomeswevegone:polished_red_rock_slab",
+    "count": 6,
+    "ingredients": [
+      "biomeswevegone:polished_red_rock",
+      "biomeswevegone:polished_red_rock",
+      "biomeswevegone:polished_red_rock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:polished_red_rock_stairs": {
+    "result": "biomeswevegone:polished_red_rock_stairs",
+    "count": 4,
+    "ingredients": [
+      "biomeswevegone:polished_red_rock",
+      "",
+      "",
+      "biomeswevegone:polished_red_rock",
+      "biomeswevegone:polished_red_rock",
+      "",
+      "biomeswevegone:polished_red_rock",
+      "biomeswevegone:polished_red_rock",
+      "biomeswevegone:polished_red_rock"
+    ]
+  },
+  "biomeswevegone:polished_red_rock_wall": {
+    "result": "biomeswevegone:polished_red_rock_wall",
+    "count": 6,
+    "ingredients": [
+      "biomeswevegone:polished_red_rock",
+      "biomeswevegone:polished_red_rock",
+      "biomeswevegone:polished_red_rock",
+      "biomeswevegone:polished_red_rock",
+      "biomeswevegone:polished_red_rock",
+      "biomeswevegone:polished_red_rock",
+      "",
+      "",
+      ""
+    ]
+  },
+  "botanypots:polished_blackstone_bricks_botany_pot": {
+    "result": "botanypots:polished_blackstone_bricks_botany_pot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:polished_blackstone_bricks",
+      "",
+      "minecraft:polished_blackstone_bricks",
+      "minecraft:polished_blackstone_bricks",
+      "minecraft:flower_pot",
+      "minecraft:polished_blackstone_bricks",
+      "",
+      "minecraft:polished_blackstone_bricks",
+      ""
+    ]
+  },
+  "botanypots:polished_blackstone_bricks_hopper_botany_pot": {
+    "result": "botanypots:polished_blackstone_bricks_hopper_botany_pot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:polished_blackstone_bricks",
+      "minecraft:hopper",
+      "minecraft:polished_blackstone_bricks",
+      "minecraft:polished_blackstone_bricks",
+      "minecraft:flower_pot",
+      "minecraft:polished_blackstone_bricks",
+      "",
+      "minecraft:polished_blackstone_bricks",
+      ""
+    ]
+  },
+  "botanypots:polished_blackstone_bricks_waxed_botany_pot": {
+    "result": "botanypots:polished_blackstone_bricks_waxed_botany_pot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:honeycomb",
+      "botanypots:polished_blackstone_bricks_botany_pot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "cataclysm:polished_azure_seastone": {
+    "result": "cataclysm:polished_azure_seastone",
+    "count": 4,
+    "ingredients": [
+      "cataclysm:azure_seastone",
+      "cataclysm:azure_seastone",
+      "",
+      "cataclysm:azure_seastone",
+      "cataclysm:azure_seastone",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "cataclysm:polished_azure_seastone_slab": {
+    "result": "cataclysm:polished_azure_seastone_slab",
+    "count": 6,
+    "ingredients": [
+      "cataclysm:polished_azure_seastone",
+      "cataclysm:polished_azure_seastone",
+      "cataclysm:polished_azure_seastone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "cataclysm:polished_azure_seastone_stairs": {
+    "result": "cataclysm:polished_azure_seastone_stairs",
+    "count": 4,
+    "ingredients": [
+      "cataclysm:polished_azure_seastone",
+      "",
+      "",
+      "cataclysm:polished_azure_seastone",
+      "cataclysm:polished_azure_seastone",
+      "",
+      "cataclysm:polished_azure_seastone",
+      "cataclysm:polished_azure_seastone",
+      "cataclysm:polished_azure_seastone"
+    ]
+  },
+  "cataclysm:polished_azure_seastone_wall": {
+    "result": "cataclysm:polished_azure_seastone_wall",
+    "count": 6,
+    "ingredients": [
+      "cataclysm:polished_azure_seastone",
+      "cataclysm:polished_azure_seastone",
+      "cataclysm:polished_azure_seastone",
+      "cataclysm:polished_azure_seastone",
+      "cataclysm:polished_azure_seastone",
+      "cataclysm:polished_azure_seastone",
+      "",
+      "",
+      ""
+    ]
+  },
+  "cataclysm:polished_obsidian_slab": {
+    "result": "cataclysm:polished_obsidian_slab",
+    "count": 6,
+    "ingredients": [
+      "cataclysm:polished_obsidian",
+      "cataclysm:polished_obsidian",
+      "cataclysm:polished_obsidian",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "cataclysm:polished_obsidian_stairs": {
+    "result": "cataclysm:polished_obsidian_stairs",
+    "count": 4,
+    "ingredients": [
+      "cataclysm:polished_obsidian",
+      "",
+      "",
+      "cataclysm:polished_obsidian",
+      "cataclysm:polished_obsidian",
+      "",
+      "cataclysm:polished_obsidian",
+      "cataclysm:polished_obsidian",
+      "cataclysm:polished_obsidian"
+    ]
+  },
+  "cataclysm:polished_obsidian_wall": {
+    "result": "cataclysm:polished_obsidian_wall",
+    "count": 6,
+    "ingredients": [
+      "cataclysm:polished_obsidian",
+      "cataclysm:polished_obsidian",
+      "cataclysm:polished_obsidian",
+      "cataclysm:polished_obsidian",
+      "cataclysm:polished_obsidian",
+      "cataclysm:polished_obsidian",
+      "",
+      "",
+      ""
+    ]
+  },
+  "computercraft:pocket_computer_advanced": {
+    "result": "computercraft:pocket_computer_advanced",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:golden_apple",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:glass",
+      "minecraft:gold_ingot"
+    ]
+  },
+  "computercraft:pocket_computer_normal": {
+    "result": "computercraft:pocket_computer_normal",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:golden_apple",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:glass",
+      "minecraft:stone"
+    ]
+  },
+  "create:polished_cut_andesite_slab": {
+    "result": "create:polished_cut_andesite_slab",
+    "count": 6,
+    "ingredients": [
+      "create:polished_cut_andesite",
+      "create:polished_cut_andesite",
+      "create:polished_cut_andesite",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:polished_cut_andesite": {
+    "result": "create:polished_cut_andesite",
+    "count": 1,
+    "ingredients": [
+      "create:polished_cut_andesite_slab",
+      "create:polished_cut_andesite_slab",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:polished_cut_andesite_stairs": {
+    "result": "create:polished_cut_andesite_stairs",
+    "count": 4,
+    "ingredients": [
+      "create:polished_cut_andesite",
+      "",
+      "",
+      "create:polished_cut_andesite",
+      "create:polished_cut_andesite",
+      "",
+      "create:polished_cut_andesite",
+      "create:polished_cut_andesite",
+      "create:polished_cut_andesite"
+    ]
+  },
+  "create:polished_cut_andesite_wall": {
+    "result": "create:polished_cut_andesite_wall",
+    "count": 6,
+    "ingredients": [
+      "create:polished_cut_andesite",
+      "create:polished_cut_andesite",
+      "create:polished_cut_andesite",
+      "create:polished_cut_andesite",
+      "create:polished_cut_andesite",
+      "create:polished_cut_andesite",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:polished_cut_asurine_slab": {
+    "result": "create:polished_cut_asurine_slab",
+    "count": 6,
+    "ingredients": [
+      "create:polished_cut_asurine",
+      "create:polished_cut_asurine",
+      "create:polished_cut_asurine",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:polished_cut_asurine": {
+    "result": "create:polished_cut_asurine",
+    "count": 1,
+    "ingredients": [
+      "create:polished_cut_asurine_slab",
+      "create:polished_cut_asurine_slab",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:polished_cut_asurine_stairs": {
+    "result": "create:polished_cut_asurine_stairs",
+    "count": 4,
+    "ingredients": [
+      "create:polished_cut_asurine",
+      "",
+      "",
+      "create:polished_cut_asurine",
+      "create:polished_cut_asurine",
+      "",
+      "create:polished_cut_asurine",
+      "create:polished_cut_asurine",
+      "create:polished_cut_asurine"
+    ]
+  },
+  "create:polished_cut_asurine_wall": {
+    "result": "create:polished_cut_asurine_wall",
+    "count": 6,
+    "ingredients": [
+      "create:polished_cut_asurine",
+      "create:polished_cut_asurine",
+      "create:polished_cut_asurine",
+      "create:polished_cut_asurine",
+      "create:polished_cut_asurine",
+      "create:polished_cut_asurine",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:polished_cut_calcite_slab": {
+    "result": "create:polished_cut_calcite_slab",
+    "count": 6,
+    "ingredients": [
+      "create:polished_cut_calcite",
+      "create:polished_cut_calcite",
+      "create:polished_cut_calcite",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:polished_cut_calcite": {
+    "result": "create:polished_cut_calcite",
+    "count": 1,
+    "ingredients": [
+      "create:polished_cut_calcite_slab",
+      "create:polished_cut_calcite_slab",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:polished_cut_calcite_stairs": {
+    "result": "create:polished_cut_calcite_stairs",
+    "count": 4,
+    "ingredients": [
+      "create:polished_cut_calcite",
+      "",
+      "",
+      "create:polished_cut_calcite",
+      "create:polished_cut_calcite",
+      "",
+      "create:polished_cut_calcite",
+      "create:polished_cut_calcite",
+      "create:polished_cut_calcite"
+    ]
+  },
+  "create:polished_cut_calcite_wall": {
+    "result": "create:polished_cut_calcite_wall",
+    "count": 6,
+    "ingredients": [
+      "create:polished_cut_calcite",
+      "create:polished_cut_calcite",
+      "create:polished_cut_calcite",
+      "create:polished_cut_calcite",
+      "create:polished_cut_calcite",
+      "create:polished_cut_calcite",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:polished_cut_crimsite_slab": {
+    "result": "create:polished_cut_crimsite_slab",
+    "count": 6,
+    "ingredients": [
+      "create:polished_cut_crimsite",
+      "create:polished_cut_crimsite",
+      "create:polished_cut_crimsite",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:polished_cut_crimsite": {
+    "result": "create:polished_cut_crimsite",
+    "count": 1,
+    "ingredients": [
+      "create:polished_cut_crimsite_slab",
+      "create:polished_cut_crimsite_slab",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:polished_cut_crimsite_stairs": {
+    "result": "create:polished_cut_crimsite_stairs",
+    "count": 4,
+    "ingredients": [
+      "create:polished_cut_crimsite",
+      "",
+      "",
+      "create:polished_cut_crimsite",
+      "create:polished_cut_crimsite",
+      "",
+      "create:polished_cut_crimsite",
+      "create:polished_cut_crimsite",
+      "create:polished_cut_crimsite"
+    ]
+  },
+  "create:polished_cut_crimsite_wall": {
+    "result": "create:polished_cut_crimsite_wall",
+    "count": 6,
+    "ingredients": [
+      "create:polished_cut_crimsite",
+      "create:polished_cut_crimsite",
+      "create:polished_cut_crimsite",
+      "create:polished_cut_crimsite",
+      "create:polished_cut_crimsite",
+      "create:polished_cut_crimsite",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:polished_cut_deepslate_slab": {
+    "result": "create:polished_cut_deepslate_slab",
+    "count": 6,
+    "ingredients": [
+      "create:polished_cut_deepslate",
+      "create:polished_cut_deepslate",
+      "create:polished_cut_deepslate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:polished_cut_deepslate": {
+    "result": "create:polished_cut_deepslate",
+    "count": 1,
+    "ingredients": [
+      "create:polished_cut_deepslate_slab",
+      "create:polished_cut_deepslate_slab",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:polished_cut_deepslate_stairs": {
+    "result": "create:polished_cut_deepslate_stairs",
+    "count": 4,
+    "ingredients": [
+      "create:polished_cut_deepslate",
+      "",
+      "",
+      "create:polished_cut_deepslate",
+      "create:polished_cut_deepslate",
+      "",
+      "create:polished_cut_deepslate",
+      "create:polished_cut_deepslate",
+      "create:polished_cut_deepslate"
+    ]
+  },
+  "create:polished_cut_deepslate_wall": {
+    "result": "create:polished_cut_deepslate_wall",
+    "count": 6,
+    "ingredients": [
+      "create:polished_cut_deepslate",
+      "create:polished_cut_deepslate",
+      "create:polished_cut_deepslate",
+      "create:polished_cut_deepslate",
+      "create:polished_cut_deepslate",
+      "create:polished_cut_deepslate",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:polished_cut_diorite_slab": {
+    "result": "create:polished_cut_diorite_slab",
+    "count": 6,
+    "ingredients": [
+      "create:polished_cut_diorite",
+      "create:polished_cut_diorite",
+      "create:polished_cut_diorite",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:polished_cut_diorite": {
+    "result": "create:polished_cut_diorite",
+    "count": 1,
+    "ingredients": [
+      "create:polished_cut_diorite_slab",
+      "create:polished_cut_diorite_slab",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:polished_cut_diorite_stairs": {
+    "result": "create:polished_cut_diorite_stairs",
+    "count": 4,
+    "ingredients": [
+      "create:polished_cut_diorite",
+      "",
+      "",
+      "create:polished_cut_diorite",
+      "create:polished_cut_diorite",
+      "",
+      "create:polished_cut_diorite",
+      "create:polished_cut_diorite",
+      "create:polished_cut_diorite"
+    ]
+  },
+  "create:polished_cut_diorite_wall": {
+    "result": "create:polished_cut_diorite_wall",
+    "count": 6,
+    "ingredients": [
+      "create:polished_cut_diorite",
+      "create:polished_cut_diorite",
+      "create:polished_cut_diorite",
+      "create:polished_cut_diorite",
+      "create:polished_cut_diorite",
+      "create:polished_cut_diorite",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:polished_cut_dripstone_slab": {
+    "result": "create:polished_cut_dripstone_slab",
+    "count": 6,
+    "ingredients": [
+      "create:polished_cut_dripstone",
+      "create:polished_cut_dripstone",
+      "create:polished_cut_dripstone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:polished_cut_dripstone": {
+    "result": "create:polished_cut_dripstone",
+    "count": 1,
+    "ingredients": [
+      "create:polished_cut_dripstone_slab",
+      "create:polished_cut_dripstone_slab",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:polished_cut_dripstone_stairs": {
+    "result": "create:polished_cut_dripstone_stairs",
+    "count": 4,
+    "ingredients": [
+      "create:polished_cut_dripstone",
+      "",
+      "",
+      "create:polished_cut_dripstone",
+      "create:polished_cut_dripstone",
+      "",
+      "create:polished_cut_dripstone",
+      "create:polished_cut_dripstone",
+      "create:polished_cut_dripstone"
+    ]
+  },
+  "create:polished_cut_dripstone_wall": {
+    "result": "create:polished_cut_dripstone_wall",
+    "count": 6,
+    "ingredients": [
+      "create:polished_cut_dripstone",
+      "create:polished_cut_dripstone",
+      "create:polished_cut_dripstone",
+      "create:polished_cut_dripstone",
+      "create:polished_cut_dripstone",
+      "create:polished_cut_dripstone",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:polished_cut_granite_slab": {
+    "result": "create:polished_cut_granite_slab",
+    "count": 6,
+    "ingredients": [
+      "create:polished_cut_granite",
+      "create:polished_cut_granite",
+      "create:polished_cut_granite",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:polished_cut_granite": {
+    "result": "create:polished_cut_granite",
+    "count": 1,
+    "ingredients": [
+      "create:polished_cut_granite_slab",
+      "create:polished_cut_granite_slab",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:polished_cut_granite_stairs": {
+    "result": "create:polished_cut_granite_stairs",
+    "count": 4,
+    "ingredients": [
+      "create:polished_cut_granite",
+      "",
+      "",
+      "create:polished_cut_granite",
+      "create:polished_cut_granite",
+      "",
+      "create:polished_cut_granite",
+      "create:polished_cut_granite",
+      "create:polished_cut_granite"
+    ]
+  },
+  "create:polished_cut_granite_wall": {
+    "result": "create:polished_cut_granite_wall",
+    "count": 6,
+    "ingredients": [
+      "create:polished_cut_granite",
+      "create:polished_cut_granite",
+      "create:polished_cut_granite",
+      "create:polished_cut_granite",
+      "create:polished_cut_granite",
+      "create:polished_cut_granite",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:polished_cut_limestone_slab": {
+    "result": "create:polished_cut_limestone_slab",
+    "count": 6,
+    "ingredients": [
+      "create:polished_cut_limestone",
+      "create:polished_cut_limestone",
+      "create:polished_cut_limestone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:polished_cut_limestone": {
+    "result": "create:polished_cut_limestone",
+    "count": 1,
+    "ingredients": [
+      "create:polished_cut_limestone_slab",
+      "create:polished_cut_limestone_slab",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:polished_cut_limestone_stairs": {
+    "result": "create:polished_cut_limestone_stairs",
+    "count": 4,
+    "ingredients": [
+      "create:polished_cut_limestone",
+      "",
+      "",
+      "create:polished_cut_limestone",
+      "create:polished_cut_limestone",
+      "",
+      "create:polished_cut_limestone",
+      "create:polished_cut_limestone",
+      "create:polished_cut_limestone"
+    ]
+  },
+  "create:polished_cut_limestone_wall": {
+    "result": "create:polished_cut_limestone_wall",
+    "count": 6,
+    "ingredients": [
+      "create:polished_cut_limestone",
+      "create:polished_cut_limestone",
+      "create:polished_cut_limestone",
+      "create:polished_cut_limestone",
+      "create:polished_cut_limestone",
+      "create:polished_cut_limestone",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:polished_cut_ochrum_slab": {
+    "result": "create:polished_cut_ochrum_slab",
+    "count": 6,
+    "ingredients": [
+      "create:polished_cut_ochrum",
+      "create:polished_cut_ochrum",
+      "create:polished_cut_ochrum",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:polished_cut_ochrum": {
+    "result": "create:polished_cut_ochrum",
+    "count": 1,
+    "ingredients": [
+      "create:polished_cut_ochrum_slab",
+      "create:polished_cut_ochrum_slab",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:polished_cut_ochrum_stairs": {
+    "result": "create:polished_cut_ochrum_stairs",
+    "count": 4,
+    "ingredients": [
+      "create:polished_cut_ochrum",
+      "",
+      "",
+      "create:polished_cut_ochrum",
+      "create:polished_cut_ochrum",
+      "",
+      "create:polished_cut_ochrum",
+      "create:polished_cut_ochrum",
+      "create:polished_cut_ochrum"
+    ]
+  },
+  "create:polished_cut_ochrum_wall": {
+    "result": "create:polished_cut_ochrum_wall",
+    "count": 6,
+    "ingredients": [
+      "create:polished_cut_ochrum",
+      "create:polished_cut_ochrum",
+      "create:polished_cut_ochrum",
+      "create:polished_cut_ochrum",
+      "create:polished_cut_ochrum",
+      "create:polished_cut_ochrum",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:polished_cut_scorchia_slab": {
+    "result": "create:polished_cut_scorchia_slab",
+    "count": 6,
+    "ingredients": [
+      "create:polished_cut_scorchia",
+      "create:polished_cut_scorchia",
+      "create:polished_cut_scorchia",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:polished_cut_scorchia": {
+    "result": "create:polished_cut_scorchia",
+    "count": 1,
+    "ingredients": [
+      "create:polished_cut_scorchia_slab",
+      "create:polished_cut_scorchia_slab",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:polished_cut_scorchia_stairs": {
+    "result": "create:polished_cut_scorchia_stairs",
+    "count": 4,
+    "ingredients": [
+      "create:polished_cut_scorchia",
+      "",
+      "",
+      "create:polished_cut_scorchia",
+      "create:polished_cut_scorchia",
+      "",
+      "create:polished_cut_scorchia",
+      "create:polished_cut_scorchia",
+      "create:polished_cut_scorchia"
+    ]
+  },
+  "create:polished_cut_scorchia_wall": {
+    "result": "create:polished_cut_scorchia_wall",
+    "count": 6,
+    "ingredients": [
+      "create:polished_cut_scorchia",
+      "create:polished_cut_scorchia",
+      "create:polished_cut_scorchia",
+      "create:polished_cut_scorchia",
+      "create:polished_cut_scorchia",
+      "create:polished_cut_scorchia",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:polished_cut_scoria_slab": {
+    "result": "create:polished_cut_scoria_slab",
+    "count": 6,
+    "ingredients": [
+      "create:polished_cut_scoria",
+      "create:polished_cut_scoria",
+      "create:polished_cut_scoria",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:polished_cut_scoria": {
+    "result": "create:polished_cut_scoria",
+    "count": 1,
+    "ingredients": [
+      "create:polished_cut_scoria_slab",
+      "create:polished_cut_scoria_slab",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:polished_cut_scoria_stairs": {
+    "result": "create:polished_cut_scoria_stairs",
+    "count": 4,
+    "ingredients": [
+      "create:polished_cut_scoria",
+      "",
+      "",
+      "create:polished_cut_scoria",
+      "create:polished_cut_scoria",
+      "",
+      "create:polished_cut_scoria",
+      "create:polished_cut_scoria",
+      "create:polished_cut_scoria"
+    ]
+  },
+  "create:polished_cut_scoria_wall": {
+    "result": "create:polished_cut_scoria_wall",
+    "count": 6,
+    "ingredients": [
+      "create:polished_cut_scoria",
+      "create:polished_cut_scoria",
+      "create:polished_cut_scoria",
+      "create:polished_cut_scoria",
+      "create:polished_cut_scoria",
+      "create:polished_cut_scoria",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:polished_cut_tuff_slab": {
+    "result": "create:polished_cut_tuff_slab",
+    "count": 6,
+    "ingredients": [
+      "create:polished_cut_tuff",
+      "create:polished_cut_tuff",
+      "create:polished_cut_tuff",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:polished_cut_tuff": {
+    "result": "create:polished_cut_tuff",
+    "count": 1,
+    "ingredients": [
+      "create:polished_cut_tuff_slab",
+      "create:polished_cut_tuff_slab",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:polished_cut_tuff_stairs": {
+    "result": "create:polished_cut_tuff_stairs",
+    "count": 4,
+    "ingredients": [
+      "create:polished_cut_tuff",
+      "",
+      "",
+      "create:polished_cut_tuff",
+      "create:polished_cut_tuff",
+      "",
+      "create:polished_cut_tuff",
+      "create:polished_cut_tuff",
+      "create:polished_cut_tuff"
+    ]
+  },
+  "create:polished_cut_tuff_wall": {
+    "result": "create:polished_cut_tuff_wall",
+    "count": 6,
+    "ingredients": [
+      "create:polished_cut_tuff",
+      "create:polished_cut_tuff",
+      "create:polished_cut_tuff",
+      "create:polished_cut_tuff",
+      "create:polished_cut_tuff",
+      "create:polished_cut_tuff",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:polished_cut_veridium_slab": {
+    "result": "create:polished_cut_veridium_slab",
+    "count": 6,
+    "ingredients": [
+      "create:polished_cut_veridium",
+      "create:polished_cut_veridium",
+      "create:polished_cut_veridium",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:polished_cut_veridium": {
+    "result": "create:polished_cut_veridium",
+    "count": 1,
+    "ingredients": [
+      "create:polished_cut_veridium_slab",
+      "create:polished_cut_veridium_slab",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:polished_cut_veridium_stairs": {
+    "result": "create:polished_cut_veridium_stairs",
+    "count": 4,
+    "ingredients": [
+      "create:polished_cut_veridium",
+      "",
+      "",
+      "create:polished_cut_veridium",
+      "create:polished_cut_veridium",
+      "",
+      "create:polished_cut_veridium",
+      "create:polished_cut_veridium",
+      "create:polished_cut_veridium"
+    ]
+  },
+  "create:polished_cut_veridium_wall": {
+    "result": "create:polished_cut_veridium_wall",
+    "count": 6,
+    "ingredients": [
+      "create:polished_cut_veridium",
+      "create:polished_cut_veridium",
+      "create:polished_cut_veridium",
+      "create:polished_cut_veridium",
+      "create:polished_cut_veridium",
+      "create:polished_cut_veridium",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:portable_fluid_interface": {
+    "result": "create:portable_fluid_interface",
+    "count": 1,
+    "ingredients": [
+      "create:copper_casing",
+      "create:chute",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:portable_storage_interface": {
+    "result": "create:portable_storage_interface",
+    "count": 1,
+    "ingredients": [
+      "create:andesite_casing",
+      "create:chute",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:powered_latch": {
+    "result": "create:powered_latch",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:redstone_torch",
+      "",
+      "minecraft:redstone",
+      "minecraft:lever",
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone"
+    ]
+  },
+  "create:powered_toggle_latch": {
+    "result": "create:powered_toggle_latch",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:redstone_torch",
+      "",
+      "",
+      "minecraft:lever",
+      "",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone"
+    ]
+  },
+  "createaddition:portable_energy_interface": {
+    "result": "createaddition:portable_energy_interface",
+    "count": 1,
+    "ingredients": [
+      "create:brass_casing",
+      "create:chute",
+      "createaddition:copper_spool",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "deeperdarker:polished_gloomslate": {
+    "result": "deeperdarker:polished_gloomslate",
+    "count": 4,
+    "ingredients": [
+      "deeperdarker:cobbled_gloomslate",
+      "deeperdarker:cobbled_gloomslate",
+      "",
+      "deeperdarker:cobbled_gloomslate",
+      "deeperdarker:cobbled_gloomslate",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "deeperdarker:polished_gloomslate_slab": {
+    "result": "deeperdarker:polished_gloomslate_slab",
+    "count": 6,
+    "ingredients": [
+      "deeperdarker:polished_gloomslate",
+      "deeperdarker:polished_gloomslate",
+      "deeperdarker:polished_gloomslate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "deeperdarker:polished_gloomslate_stairs": {
+    "result": "deeperdarker:polished_gloomslate_stairs",
+    "count": 4,
+    "ingredients": [
+      "deeperdarker:polished_gloomslate",
+      "",
+      "",
+      "deeperdarker:polished_gloomslate",
+      "deeperdarker:polished_gloomslate",
+      "",
+      "deeperdarker:polished_gloomslate",
+      "deeperdarker:polished_gloomslate",
+      "deeperdarker:polished_gloomslate"
+    ]
+  },
+  "deeperdarker:polished_gloomslate_wall": {
+    "result": "deeperdarker:polished_gloomslate_wall",
+    "count": 6,
+    "ingredients": [
+      "deeperdarker:polished_gloomslate",
+      "deeperdarker:polished_gloomslate",
+      "deeperdarker:polished_gloomslate",
+      "deeperdarker:polished_gloomslate",
+      "deeperdarker:polished_gloomslate",
+      "deeperdarker:polished_gloomslate",
+      "",
+      "",
+      ""
+    ]
+  },
+  "deeperdarker:polished_sculk_stone": {
+    "result": "deeperdarker:polished_sculk_stone",
+    "count": 4,
+    "ingredients": [
+      "deeperdarker:cobbled_sculk_stone",
+      "deeperdarker:cobbled_sculk_stone",
+      "",
+      "deeperdarker:cobbled_sculk_stone",
+      "deeperdarker:cobbled_sculk_stone",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "deeperdarker:polished_sculk_stone_slab": {
+    "result": "deeperdarker:polished_sculk_stone_slab",
+    "count": 6,
+    "ingredients": [
+      "deeperdarker:polished_sculk_stone",
+      "deeperdarker:polished_sculk_stone",
+      "deeperdarker:polished_sculk_stone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "deeperdarker:polished_sculk_stone_stairs": {
+    "result": "deeperdarker:polished_sculk_stone_stairs",
+    "count": 4,
+    "ingredients": [
+      "deeperdarker:polished_sculk_stone",
+      "",
+      "",
+      "deeperdarker:polished_sculk_stone",
+      "deeperdarker:polished_sculk_stone",
+      "",
+      "deeperdarker:polished_sculk_stone",
+      "deeperdarker:polished_sculk_stone",
+      "deeperdarker:polished_sculk_stone"
+    ]
+  },
+  "deeperdarker:polished_sculk_stone_wall": {
+    "result": "deeperdarker:polished_sculk_stone_wall",
+    "count": 6,
+    "ingredients": [
+      "deeperdarker:polished_sculk_stone",
+      "deeperdarker:polished_sculk_stone",
+      "deeperdarker:polished_sculk_stone",
+      "deeperdarker:polished_sculk_stone",
+      "deeperdarker:polished_sculk_stone",
+      "deeperdarker:polished_sculk_stone",
+      "",
+      "",
+      ""
+    ]
+  },
+  "draconicevolution:potentiometer": {
+    "result": "draconicevolution:potentiometer",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:oak_planks",
+      "",
+      "minecraft:redstone",
+      "minecraft:draconium",
+      "minecraft:redstone",
+      "minecraft:stone_slab",
+      "minecraft:stone_slab",
+      "minecraft:stone_slab"
+    ]
+  },
+  "enderio:powered_spawner": {
+    "result": "enderio:powered_spawner",
+    "count": 1,
+    "ingredients": [
+      "enderio:powered_spawner",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:polished_abysslate": {
+    "result": "eternal_starlight:polished_abysslate",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:abysslate",
+      "eternal_starlight:abysslate",
+      "",
+      "eternal_starlight:abysslate",
+      "eternal_starlight:abysslate",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:polished_abysslate_bricks": {
+    "result": "eternal_starlight:polished_abysslate_bricks",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:polished_abysslate",
+      "eternal_starlight:polished_abysslate",
+      "",
+      "eternal_starlight:polished_abysslate",
+      "eternal_starlight:polished_abysslate",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:polished_abysslate_brick_slab": {
+    "result": "eternal_starlight:polished_abysslate_brick_slab",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:polished_abysslate_bricks",
+      "eternal_starlight:polished_abysslate_bricks",
+      "eternal_starlight:polished_abysslate_bricks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:polished_abysslate_brick_stairs": {
+    "result": "eternal_starlight:polished_abysslate_brick_stairs",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:polished_abysslate_bricks",
+      "",
+      "",
+      "eternal_starlight:polished_abysslate_bricks",
+      "eternal_starlight:polished_abysslate_bricks",
+      "",
+      "eternal_starlight:polished_abysslate_bricks",
+      "eternal_starlight:polished_abysslate_bricks",
+      "eternal_starlight:polished_abysslate_bricks"
+    ]
+  },
+  "eternal_starlight:polished_abysslate_brick_wall": {
+    "result": "eternal_starlight:polished_abysslate_brick_wall",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:polished_abysslate_bricks",
+      "eternal_starlight:polished_abysslate_bricks",
+      "eternal_starlight:polished_abysslate_bricks",
+      "eternal_starlight:polished_abysslate_bricks",
+      "eternal_starlight:polished_abysslate_bricks",
+      "eternal_starlight:polished_abysslate_bricks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:polished_abysslate_slab": {
+    "result": "eternal_starlight:polished_abysslate_slab",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:polished_abysslate",
+      "eternal_starlight:polished_abysslate",
+      "eternal_starlight:polished_abysslate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:polished_abysslate_stairs": {
+    "result": "eternal_starlight:polished_abysslate_stairs",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:polished_abysslate",
+      "",
+      "",
+      "eternal_starlight:polished_abysslate",
+      "eternal_starlight:polished_abysslate",
+      "",
+      "eternal_starlight:polished_abysslate",
+      "eternal_starlight:polished_abysslate",
+      "eternal_starlight:polished_abysslate"
+    ]
+  },
+  "eternal_starlight:polished_abysslate_wall": {
+    "result": "eternal_starlight:polished_abysslate_wall",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:polished_abysslate",
+      "eternal_starlight:polished_abysslate",
+      "eternal_starlight:polished_abysslate",
+      "eternal_starlight:polished_abysslate",
+      "eternal_starlight:polished_abysslate",
+      "eternal_starlight:polished_abysslate",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:polished_cryobysslate": {
+    "result": "eternal_starlight:polished_cryobysslate",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:cryobysslate",
+      "eternal_starlight:cryobysslate",
+      "",
+      "eternal_starlight:cryobysslate",
+      "eternal_starlight:cryobysslate",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:polished_cryobysslate_bricks": {
+    "result": "eternal_starlight:polished_cryobysslate_bricks",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:polished_cryobysslate",
+      "eternal_starlight:polished_cryobysslate",
+      "",
+      "eternal_starlight:polished_cryobysslate",
+      "eternal_starlight:polished_cryobysslate",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:polished_cryobysslate_brick_slab": {
+    "result": "eternal_starlight:polished_cryobysslate_brick_slab",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:polished_cryobysslate_bricks",
+      "eternal_starlight:polished_cryobysslate_bricks",
+      "eternal_starlight:polished_cryobysslate_bricks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:polished_cryobysslate_brick_stairs": {
+    "result": "eternal_starlight:polished_cryobysslate_brick_stairs",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:polished_cryobysslate_bricks",
+      "",
+      "",
+      "eternal_starlight:polished_cryobysslate_bricks",
+      "eternal_starlight:polished_cryobysslate_bricks",
+      "",
+      "eternal_starlight:polished_cryobysslate_bricks",
+      "eternal_starlight:polished_cryobysslate_bricks",
+      "eternal_starlight:polished_cryobysslate_bricks"
+    ]
+  },
+  "eternal_starlight:polished_cryobysslate_brick_wall": {
+    "result": "eternal_starlight:polished_cryobysslate_brick_wall",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:polished_cryobysslate_bricks",
+      "eternal_starlight:polished_cryobysslate_bricks",
+      "eternal_starlight:polished_cryobysslate_bricks",
+      "eternal_starlight:polished_cryobysslate_bricks",
+      "eternal_starlight:polished_cryobysslate_bricks",
+      "eternal_starlight:polished_cryobysslate_bricks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:polished_cryobysslate_slab": {
+    "result": "eternal_starlight:polished_cryobysslate_slab",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:polished_cryobysslate",
+      "eternal_starlight:polished_cryobysslate",
+      "eternal_starlight:polished_cryobysslate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:polished_cryobysslate_stairs": {
+    "result": "eternal_starlight:polished_cryobysslate_stairs",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:polished_cryobysslate",
+      "",
+      "",
+      "eternal_starlight:polished_cryobysslate",
+      "eternal_starlight:polished_cryobysslate",
+      "",
+      "eternal_starlight:polished_cryobysslate",
+      "eternal_starlight:polished_cryobysslate",
+      "eternal_starlight:polished_cryobysslate"
+    ]
+  },
+  "eternal_starlight:polished_cryobysslate_wall": {
+    "result": "eternal_starlight:polished_cryobysslate_wall",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:polished_cryobysslate",
+      "eternal_starlight:polished_cryobysslate",
+      "eternal_starlight:polished_cryobysslate",
+      "eternal_starlight:polished_cryobysslate",
+      "eternal_starlight:polished_cryobysslate",
+      "eternal_starlight:polished_cryobysslate",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:polished_doomeden_bricks": {
+    "result": "eternal_starlight:polished_doomeden_bricks",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:doomeden_bricks",
+      "eternal_starlight:doomeden_bricks",
+      "",
+      "eternal_starlight:doomeden_bricks",
+      "eternal_starlight:doomeden_bricks",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:polished_doomeden_brick_slab": {
+    "result": "eternal_starlight:polished_doomeden_brick_slab",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:polished_doomeden_bricks",
+      "eternal_starlight:polished_doomeden_bricks",
+      "eternal_starlight:polished_doomeden_bricks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:polished_doomeden_brick_stairs": {
+    "result": "eternal_starlight:polished_doomeden_brick_stairs",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:polished_doomeden_bricks",
+      "",
+      "",
+      "eternal_starlight:polished_doomeden_bricks",
+      "eternal_starlight:polished_doomeden_bricks",
+      "",
+      "eternal_starlight:polished_doomeden_bricks",
+      "eternal_starlight:polished_doomeden_bricks",
+      "eternal_starlight:polished_doomeden_bricks"
+    ]
+  },
+  "eternal_starlight:polished_doomeden_brick_wall": {
+    "result": "eternal_starlight:polished_doomeden_brick_wall",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:polished_doomeden_bricks",
+      "eternal_starlight:polished_doomeden_bricks",
+      "eternal_starlight:polished_doomeden_bricks",
+      "eternal_starlight:polished_doomeden_bricks",
+      "eternal_starlight:polished_doomeden_bricks",
+      "eternal_starlight:polished_doomeden_bricks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:polished_grimstone": {
+    "result": "eternal_starlight:polished_grimstone",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:grimstone",
+      "eternal_starlight:grimstone",
+      "",
+      "eternal_starlight:grimstone",
+      "eternal_starlight:grimstone",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:polished_grimstone_slab": {
+    "result": "eternal_starlight:polished_grimstone_slab",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:polished_grimstone",
+      "eternal_starlight:polished_grimstone",
+      "eternal_starlight:polished_grimstone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:polished_grimstone_stairs": {
+    "result": "eternal_starlight:polished_grimstone_stairs",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:polished_grimstone",
+      "",
+      "",
+      "eternal_starlight:polished_grimstone",
+      "eternal_starlight:polished_grimstone",
+      "",
+      "eternal_starlight:polished_grimstone",
+      "eternal_starlight:polished_grimstone",
+      "eternal_starlight:polished_grimstone"
+    ]
+  },
+  "eternal_starlight:polished_grimstone_tile_slab": {
+    "result": "eternal_starlight:polished_grimstone_tile_slab",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:polished_grimstone_tiles",
+      "eternal_starlight:polished_grimstone_tiles",
+      "eternal_starlight:polished_grimstone_tiles",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:polished_grimstone_tile_stairs": {
+    "result": "eternal_starlight:polished_grimstone_tile_stairs",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:polished_grimstone_tiles",
+      "",
+      "",
+      "eternal_starlight:polished_grimstone_tiles",
+      "eternal_starlight:polished_grimstone_tiles",
+      "",
+      "eternal_starlight:polished_grimstone_tiles",
+      "eternal_starlight:polished_grimstone_tiles",
+      "eternal_starlight:polished_grimstone_tiles"
+    ]
+  },
+  "eternal_starlight:polished_grimstone_tile_wall": {
+    "result": "eternal_starlight:polished_grimstone_tile_wall",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:polished_grimstone_tiles",
+      "eternal_starlight:polished_grimstone_tiles",
+      "eternal_starlight:polished_grimstone_tiles",
+      "eternal_starlight:polished_grimstone_tiles",
+      "eternal_starlight:polished_grimstone_tiles",
+      "eternal_starlight:polished_grimstone_tiles",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:polished_grimstone_wall": {
+    "result": "eternal_starlight:polished_grimstone_wall",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:polished_grimstone",
+      "eternal_starlight:polished_grimstone",
+      "eternal_starlight:polished_grimstone",
+      "eternal_starlight:polished_grimstone",
+      "eternal_starlight:polished_grimstone",
+      "eternal_starlight:polished_grimstone",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:polished_radianite": {
+    "result": "eternal_starlight:polished_radianite",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:radianite",
+      "eternal_starlight:radianite",
+      "",
+      "eternal_starlight:radianite",
+      "eternal_starlight:radianite",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:polished_radianite_slab": {
+    "result": "eternal_starlight:polished_radianite_slab",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:polished_radianite",
+      "eternal_starlight:polished_radianite",
+      "eternal_starlight:polished_radianite",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:polished_radianite_stairs": {
+    "result": "eternal_starlight:polished_radianite_stairs",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:polished_radianite",
+      "",
+      "",
+      "eternal_starlight:polished_radianite",
+      "eternal_starlight:polished_radianite",
+      "",
+      "eternal_starlight:polished_radianite",
+      "eternal_starlight:polished_radianite",
+      "eternal_starlight:polished_radianite"
+    ]
+  },
+  "eternal_starlight:polished_radianite_wall": {
+    "result": "eternal_starlight:polished_radianite_wall",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:polished_radianite",
+      "eternal_starlight:polished_radianite",
+      "eternal_starlight:polished_radianite",
+      "eternal_starlight:polished_radianite",
+      "eternal_starlight:polished_radianite",
+      "eternal_starlight:polished_radianite",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:polished_springstone": {
+    "result": "eternal_starlight:polished_springstone",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:springstone",
+      "eternal_starlight:springstone",
+      "",
+      "eternal_starlight:springstone",
+      "eternal_starlight:springstone",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:polished_springstone_slab": {
+    "result": "eternal_starlight:polished_springstone_slab",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:polished_springstone",
+      "eternal_starlight:polished_springstone",
+      "eternal_starlight:polished_springstone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:polished_springstone_stairs": {
+    "result": "eternal_starlight:polished_springstone_stairs",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:polished_springstone",
+      "",
+      "",
+      "eternal_starlight:polished_springstone",
+      "eternal_starlight:polished_springstone",
+      "",
+      "eternal_starlight:polished_springstone",
+      "eternal_starlight:polished_springstone",
+      "eternal_starlight:polished_springstone"
+    ]
+  },
+  "eternal_starlight:polished_springstone_wall": {
+    "result": "eternal_starlight:polished_springstone_wall",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:polished_springstone",
+      "eternal_starlight:polished_springstone",
+      "eternal_starlight:polished_springstone",
+      "eternal_starlight:polished_springstone",
+      "eternal_starlight:polished_springstone",
+      "eternal_starlight:polished_springstone",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:polished_stellagmite": {
+    "result": "eternal_starlight:polished_stellagmite",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:stellagmite",
+      "eternal_starlight:stellagmite",
+      "",
+      "eternal_starlight:stellagmite",
+      "eternal_starlight:stellagmite",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:polished_stellagmite_slab": {
+    "result": "eternal_starlight:polished_stellagmite_slab",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:polished_stellagmite",
+      "eternal_starlight:polished_stellagmite",
+      "eternal_starlight:polished_stellagmite",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:polished_stellagmite_stairs": {
+    "result": "eternal_starlight:polished_stellagmite_stairs",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:polished_stellagmite",
+      "",
+      "",
+      "eternal_starlight:polished_stellagmite",
+      "eternal_starlight:polished_stellagmite",
+      "",
+      "eternal_starlight:polished_stellagmite",
+      "eternal_starlight:polished_stellagmite",
+      "eternal_starlight:polished_stellagmite"
+    ]
+  },
+  "eternal_starlight:polished_stellagmite_wall": {
+    "result": "eternal_starlight:polished_stellagmite_wall",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:polished_stellagmite",
+      "eternal_starlight:polished_stellagmite",
+      "eternal_starlight:polished_stellagmite",
+      "eternal_starlight:polished_stellagmite",
+      "eternal_starlight:polished_stellagmite",
+      "eternal_starlight:polished_stellagmite",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:polished_thermabysslate": {
+    "result": "eternal_starlight:polished_thermabysslate",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:thermabysslate",
+      "eternal_starlight:thermabysslate",
+      "",
+      "eternal_starlight:thermabysslate",
+      "eternal_starlight:thermabysslate",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:polished_thermabysslate_bricks": {
+    "result": "eternal_starlight:polished_thermabysslate_bricks",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:polished_thermabysslate",
+      "eternal_starlight:polished_thermabysslate",
+      "",
+      "eternal_starlight:polished_thermabysslate",
+      "eternal_starlight:polished_thermabysslate",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:polished_thermabysslate_brick_slab": {
+    "result": "eternal_starlight:polished_thermabysslate_brick_slab",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:polished_thermabysslate_bricks",
+      "eternal_starlight:polished_thermabysslate_bricks",
+      "eternal_starlight:polished_thermabysslate_bricks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:polished_thermabysslate_brick_stairs": {
+    "result": "eternal_starlight:polished_thermabysslate_brick_stairs",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:polished_thermabysslate_bricks",
+      "",
+      "",
+      "eternal_starlight:polished_thermabysslate_bricks",
+      "eternal_starlight:polished_thermabysslate_bricks",
+      "",
+      "eternal_starlight:polished_thermabysslate_bricks",
+      "eternal_starlight:polished_thermabysslate_bricks",
+      "eternal_starlight:polished_thermabysslate_bricks"
+    ]
+  },
+  "eternal_starlight:polished_thermabysslate_brick_wall": {
+    "result": "eternal_starlight:polished_thermabysslate_brick_wall",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:polished_thermabysslate_bricks",
+      "eternal_starlight:polished_thermabysslate_bricks",
+      "eternal_starlight:polished_thermabysslate_bricks",
+      "eternal_starlight:polished_thermabysslate_bricks",
+      "eternal_starlight:polished_thermabysslate_bricks",
+      "eternal_starlight:polished_thermabysslate_bricks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:polished_thermabysslate_slab": {
+    "result": "eternal_starlight:polished_thermabysslate_slab",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:polished_thermabysslate",
+      "eternal_starlight:polished_thermabysslate",
+      "eternal_starlight:polished_thermabysslate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:polished_thermabysslate_stairs": {
+    "result": "eternal_starlight:polished_thermabysslate_stairs",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:polished_thermabysslate",
+      "",
+      "",
+      "eternal_starlight:polished_thermabysslate",
+      "eternal_starlight:polished_thermabysslate",
+      "",
+      "eternal_starlight:polished_thermabysslate",
+      "eternal_starlight:polished_thermabysslate",
+      "eternal_starlight:polished_thermabysslate"
+    ]
+  },
+  "eternal_starlight:polished_thermabysslate_wall": {
+    "result": "eternal_starlight:polished_thermabysslate_wall",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:polished_thermabysslate",
+      "eternal_starlight:polished_thermabysslate",
+      "eternal_starlight:polished_thermabysslate",
+      "eternal_starlight:polished_thermabysslate",
+      "eternal_starlight:polished_thermabysslate",
+      "eternal_starlight:polished_thermabysslate",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:polished_toxite": {
+    "result": "eternal_starlight:polished_toxite",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:toxite",
+      "eternal_starlight:toxite",
+      "",
+      "eternal_starlight:toxite",
+      "eternal_starlight:toxite",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:polished_toxite_slab": {
+    "result": "eternal_starlight:polished_toxite_slab",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:polished_toxite",
+      "eternal_starlight:polished_toxite",
+      "eternal_starlight:polished_toxite",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:polished_toxite_stairs": {
+    "result": "eternal_starlight:polished_toxite_stairs",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:polished_toxite",
+      "",
+      "",
+      "eternal_starlight:polished_toxite",
+      "eternal_starlight:polished_toxite",
+      "",
+      "eternal_starlight:polished_toxite",
+      "eternal_starlight:polished_toxite",
+      "eternal_starlight:polished_toxite"
+    ]
+  },
+  "eternal_starlight:polished_toxite_wall": {
+    "result": "eternal_starlight:polished_toxite_wall",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:polished_toxite",
+      "eternal_starlight:polished_toxite",
+      "eternal_starlight:polished_toxite",
+      "eternal_starlight:polished_toxite",
+      "eternal_starlight:polished_toxite",
+      "eternal_starlight:polished_toxite",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:polished_voidstone": {
+    "result": "eternal_starlight:polished_voidstone",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:voidstone",
+      "eternal_starlight:voidstone",
+      "",
+      "eternal_starlight:voidstone",
+      "eternal_starlight:voidstone",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:polished_voidstone_slab": {
+    "result": "eternal_starlight:polished_voidstone_slab",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:polished_voidstone",
+      "eternal_starlight:polished_voidstone",
+      "eternal_starlight:polished_voidstone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:polished_voidstone_stairs": {
+    "result": "eternal_starlight:polished_voidstone_stairs",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:polished_voidstone",
+      "",
+      "",
+      "eternal_starlight:polished_voidstone",
+      "eternal_starlight:polished_voidstone",
+      "",
+      "eternal_starlight:polished_voidstone",
+      "eternal_starlight:polished_voidstone",
+      "eternal_starlight:polished_voidstone"
+    ]
+  },
+  "eternal_starlight:polished_voidstone_wall": {
+    "result": "eternal_starlight:polished_voidstone_wall",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:polished_voidstone",
+      "eternal_starlight:polished_voidstone",
+      "eternal_starlight:polished_voidstone",
+      "eternal_starlight:polished_voidstone",
+      "eternal_starlight:polished_voidstone",
+      "eternal_starlight:polished_voidstone",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:popped_nocturnal_millet_bucket": {
+    "result": "eternal_starlight:popped_nocturnal_millet_bucket",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:starcore",
+      "eternal_starlight:nocturnal_millet",
+      "eternal_starlight:nocturnal_millet",
+      "eternal_starlight:nocturnal_millet",
+      "minecraft:bucket",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:poisonous_potato": {
+    "result": "minecraft:poisonous_potato",
+    "count": 1,
+    "ingredients": [
+      "minecraft:potato",
+      "mysticalagriculture:nature_essence",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:potion": {
+    "result": "minecraft:potion",
+    "count": 1,
+    "ingredients": [
+      "evilcraft:bucket_poison",
+      "minecraft:glass_bottle",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "evilcraft:potentia_sphere": {
+    "result": "evilcraft:potentia_sphere",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:slime_ball",
+      "minecraft:stone",
+      "minecraft:lapis_lazuli",
+      "minecraft:stone",
+      "minecraft:lapis_lazuli"
+    ]
+  },
+  "extended_industrialization:polished_silver_machine_casing": {
+    "result": "extended_industrialization:polished_silver_machine_casing",
+    "count": 1,
+    "ingredients": [
+      "extended_industrialization:silver_curved_plate",
+      "minecraft:silver",
+      "extended_industrialization:silver_curved_plate",
+      "extended_industrialization:silver_curved_plate",
+      "minecraft:silver",
+      "extended_industrialization:silver_curved_plate",
+      "extended_industrialization:silver_curved_plate",
+      "minecraft:silver",
+      "extended_industrialization:silver_curved_plate"
+    ]
+  },
+  "farmersdelight:potato_crate": {
+    "result": "farmersdelight:potato_crate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:potato",
+      "minecraft:potato",
+      "minecraft:potato",
+      "minecraft:potato",
+      "minecraft:potato",
+      "minecraft:potato",
+      "minecraft:potato",
+      "minecraft:potato",
+      "minecraft:potato"
+    ]
+  },
+  "minecraft:potato": {
+    "result": "minecraft:potato",
+    "count": 8,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "mysticalagriculture:nature_essence",
+      "mysticalagriculture:nature_essence",
+      "mysticalagriculture:nature_essence",
+      "",
+      "",
+      ""
+    ]
+  },
+  "forbidden_arcanus:polished_darkstone": {
+    "result": "forbidden_arcanus:polished_darkstone",
+    "count": 4,
+    "ingredients": [
+      "forbidden_arcanus:darkstone",
+      "forbidden_arcanus:darkstone",
+      "",
+      "forbidden_arcanus:darkstone",
+      "forbidden_arcanus:darkstone",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "forbidden_arcanus:polished_darkstone_bricks": {
+    "result": "forbidden_arcanus:polished_darkstone_bricks",
+    "count": 4,
+    "ingredients": [
+      "forbidden_arcanus:polished_darkstone",
+      "forbidden_arcanus:polished_darkstone",
+      "",
+      "forbidden_arcanus:polished_darkstone",
+      "forbidden_arcanus:polished_darkstone",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "forbidden_arcanus:polished_darkstone_brick_slab": {
+    "result": "forbidden_arcanus:polished_darkstone_brick_slab",
+    "count": 6,
+    "ingredients": [
+      "forbidden_arcanus:polished_darkstone_bricks",
+      "forbidden_arcanus:polished_darkstone_bricks",
+      "forbidden_arcanus:polished_darkstone_bricks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "forbidden_arcanus:polished_darkstone_brick_stairs": {
+    "result": "forbidden_arcanus:polished_darkstone_brick_stairs",
+    "count": 4,
+    "ingredients": [
+      "forbidden_arcanus:polished_darkstone_bricks",
+      "",
+      "",
+      "forbidden_arcanus:polished_darkstone_bricks",
+      "forbidden_arcanus:polished_darkstone_bricks",
+      "",
+      "forbidden_arcanus:polished_darkstone_bricks",
+      "forbidden_arcanus:polished_darkstone_bricks",
+      "forbidden_arcanus:polished_darkstone_bricks"
+    ]
+  },
+  "forbidden_arcanus:polished_darkstone_brick_wall": {
+    "result": "forbidden_arcanus:polished_darkstone_brick_wall",
+    "count": 6,
+    "ingredients": [
+      "forbidden_arcanus:polished_darkstone_bricks",
+      "forbidden_arcanus:polished_darkstone_bricks",
+      "forbidden_arcanus:polished_darkstone_bricks",
+      "forbidden_arcanus:polished_darkstone_bricks",
+      "forbidden_arcanus:polished_darkstone_bricks",
+      "forbidden_arcanus:polished_darkstone_bricks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "forbidden_arcanus:polished_darkstone_button": {
+    "result": "forbidden_arcanus:polished_darkstone_button",
+    "count": 1,
+    "ingredients": [
+      "forbidden_arcanus:polished_darkstone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "forbidden_arcanus:polished_darkstone_pressure_plate": {
+    "result": "forbidden_arcanus:polished_darkstone_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "forbidden_arcanus:polished_darkstone",
+      "forbidden_arcanus:polished_darkstone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "forbidden_arcanus:polished_darkstone_slab": {
+    "result": "forbidden_arcanus:polished_darkstone_slab",
+    "count": 6,
+    "ingredients": [
+      "forbidden_arcanus:polished_darkstone",
+      "forbidden_arcanus:polished_darkstone",
+      "forbidden_arcanus:polished_darkstone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "forbidden_arcanus:polished_darkstone_stairs": {
+    "result": "forbidden_arcanus:polished_darkstone_stairs",
+    "count": 4,
+    "ingredients": [
+      "forbidden_arcanus:polished_darkstone",
+      "",
+      "",
+      "forbidden_arcanus:polished_darkstone",
+      "forbidden_arcanus:polished_darkstone",
+      "",
+      "forbidden_arcanus:polished_darkstone",
+      "forbidden_arcanus:polished_darkstone",
+      "forbidden_arcanus:polished_darkstone"
+    ]
+  },
+  "forbidden_arcanus:polished_darkstone_wall": {
+    "result": "forbidden_arcanus:polished_darkstone_wall",
+    "count": 6,
+    "ingredients": [
+      "forbidden_arcanus:polished_darkstone",
+      "forbidden_arcanus:polished_darkstone",
+      "forbidden_arcanus:polished_darkstone",
+      "forbidden_arcanus:polished_darkstone",
+      "forbidden_arcanus:polished_darkstone",
+      "forbidden_arcanus:polished_darkstone",
+      "",
+      "",
+      ""
+    ]
+  },
+  "forbidden_arcanus:polished_soulless_sandstone": {
+    "result": "forbidden_arcanus:polished_soulless_sandstone",
+    "count": 4,
+    "ingredients": [
+      "forbidden_arcanus:soulless_sandstone",
+      "forbidden_arcanus:soulless_sandstone",
+      "",
+      "forbidden_arcanus:soulless_sandstone",
+      "forbidden_arcanus:soulless_sandstone",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "forbidden_arcanus:polished_soulless_sandstone_slab": {
+    "result": "forbidden_arcanus:polished_soulless_sandstone_slab",
+    "count": 6,
+    "ingredients": [
+      "forbidden_arcanus:polished_soulless_sandstone",
+      "forbidden_arcanus:polished_soulless_sandstone",
+      "forbidden_arcanus:polished_soulless_sandstone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "forbidden_arcanus:polished_soulless_sandstone_stairs": {
+    "result": "forbidden_arcanus:polished_soulless_sandstone_stairs",
+    "count": 4,
+    "ingredients": [
+      "forbidden_arcanus:polished_soulless_sandstone",
+      "",
+      "",
+      "forbidden_arcanus:polished_soulless_sandstone",
+      "forbidden_arcanus:polished_soulless_sandstone",
+      "",
+      "forbidden_arcanus:polished_soulless_sandstone",
+      "forbidden_arcanus:polished_soulless_sandstone",
+      "forbidden_arcanus:polished_soulless_sandstone"
+    ]
+  },
+  "framedblocks:powered_framing_saw": {
+    "result": "framedblocks:powered_framing_saw",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "minecraft:iron_ingot",
+      "minecraft:redstone",
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube",
+      "framedblocks:framed_cube",
+      "",
+      "",
+      ""
+    ]
+  },
+  "generatorgalore:potion_generator_64x": {
+    "result": "generatorgalore:potion_generator_64x",
+    "count": 1,
+    "ingredients": [
+      "generatorgalore:potion_generator_8x",
+      "generatorgalore:potion_generator_8x",
+      "generatorgalore:potion_generator_8x",
+      "generatorgalore:potion_generator_8x",
+      "minecraft:conduit",
+      "generatorgalore:potion_generator_8x",
+      "generatorgalore:potion_generator_8x",
+      "generatorgalore:potion_generator_8x",
+      "generatorgalore:potion_generator_8x"
+    ]
+  },
+  "generatorgalore:potion_generator_8x": {
+    "result": "generatorgalore:potion_generator_8x",
+    "count": 1,
+    "ingredients": [
+      "generatorgalore:potion_generator",
+      "generatorgalore:potion_generator",
+      "generatorgalore:potion_generator",
+      "generatorgalore:potion_generator",
+      "minecraft:echo_shard",
+      "generatorgalore:potion_generator",
+      "generatorgalore:potion_generator",
+      "generatorgalore:potion_generator",
+      "generatorgalore:potion_generator"
+    ]
+  },
+  "generatorgalore:potion_generator": {
+    "result": "generatorgalore:potion_generator",
+    "count": 1,
+    "ingredients": [
+      "minecraft:pink",
+      "minecraft:pink",
+      "minecraft:pink",
+      "minecraft:pink",
+      "generatorgalore:culinary_generator",
+      "minecraft:pink",
+      "minecraft:brewing_stand",
+      "minecraft:redstone",
+      "minecraft:brewing_stand"
+    ]
+  },
+  "herbsandharvest:pork_pie": {
+    "result": "herbsandharvest:pork_pie",
+    "count": 1,
+    "ingredients": [
+      "minecraft:cooked_pork",
+      "minecraft:wheat",
+      "minecraft:onion",
+      "minecraft:potato",
+      "minecraft:minced_garlic",
+      "herbsandharvest:chopped_sage",
+      "herbsandharvest:chopped_thyme",
+      "minecraft:salt",
+      "minecraft:pepper"
+    ]
+  },
+  "herbsandharvest:potato_soup_pot": {
+    "result": "herbsandharvest:potato_soup_pot",
+    "count": 1,
+    "ingredients": [
+      "herbsandharvest:empty_pot",
+      "minecraft:potato",
+      "minecraft:onion",
+      "minecraft:minced_garlic",
+      "minecraft:celery",
+      "minecraft:cream",
+      "herbsandharvest:chopped_chive",
+      "minecraft:cheddar",
+      "minecraft:pepper"
+    ]
+  },
+  "iceandfire:podium_oak": {
+    "result": "iceandfire:podium_oak",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_slab",
+      "minecraft:oak_planks",
+      "minecraft:oak_slab",
+      "",
+      "minecraft:oak_planks",
+      "",
+      "minecraft:oak_slab",
+      "minecraft:oak_planks",
+      "minecraft:oak_slab"
+    ]
+  },
+  "iceandfire:podium_birch": {
+    "result": "iceandfire:podium_birch",
+    "count": 1,
+    "ingredients": [
+      "minecraft:birch_slab",
+      "minecraft:birch_planks",
+      "minecraft:birch_slab",
+      "",
+      "minecraft:birch_planks",
+      "",
+      "minecraft:birch_slab",
+      "minecraft:birch_planks",
+      "minecraft:birch_slab"
+    ]
+  },
+  "iceandfire:podium_spruce": {
+    "result": "iceandfire:podium_spruce",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spruce_slab",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_slab",
+      "",
+      "minecraft:spruce_planks",
+      "",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_slab"
+    ]
+  },
+  "iceandfire:podium_jungle": {
+    "result": "iceandfire:podium_jungle",
+    "count": 1,
+    "ingredients": [
+      "minecraft:jungle_slab",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_slab",
+      "",
+      "minecraft:jungle_planks",
+      "",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_slab"
+    ]
+  },
+  "iceandfire:podium_acacia": {
+    "result": "iceandfire:podium_acacia",
+    "count": 1,
+    "ingredients": [
+      "minecraft:acacia_slab",
+      "minecraft:acacia_planks",
+      "minecraft:acacia_slab",
+      "",
+      "minecraft:acacia_planks",
+      "",
+      "minecraft:acacia_slab",
+      "minecraft:acacia_planks",
+      "minecraft:acacia_slab"
+    ]
+  },
+  "iceandfire:podium_dark_oak": {
+    "result": "iceandfire:podium_dark_oak",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_slab",
+      "",
+      "minecraft:dark_oak_planks",
+      "",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_slab"
+    ]
+  },
+  "immersiveengineering:powerpack": {
+    "result": "immersiveengineering:powerpack",
+    "count": 1,
+    "ingredients": [
+      "minecraft:treated_wood",
+      "minecraft:steel",
+      "minecraft:treated_wood",
+      "immersiveengineering:connector_lv",
+      "minecraft:leather",
+      "immersiveengineering:connector_lv",
+      "immersiveengineering:wirecoil_copper_ins",
+      "minecraft:steel",
+      "immersiveengineering:wirecoil_copper_ins"
+    ]
+  },
+  "industrialforegoing:potion_brewer": {
+    "result": "industrialforegoing:potion_brewer",
+    "count": 1,
+    "ingredients": [
+      "minecraft:plastics",
+      "minecraft:brewing_stand",
+      "minecraft:plastics",
+      "minecraft:gold",
+      "minecraft:advanced",
+      "minecraft:gold",
+      "minecraft:repeater",
+      "minecraft:gold",
+      "minecraft:repeater"
+    ]
+  },
+  "integrateddynamics:portable_logic_programmer": {
+    "result": "integrateddynamics:portable_logic_programmer",
+    "count": 1,
+    "ingredients": [
+      "integrateddynamics:logic_programmer",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "irons_spellbooks:poisonward_ring": {
+    "result": "irons_spellbooks:poisonward_ring",
+    "count": 1,
+    "ingredients": [
+      "irons_spellbooks:nature_rune",
+      "",
+      "",
+      "",
+      "irons_spellbooks:mithril_scrap",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "irons_spellbooks:portal_frame": {
+    "result": "irons_spellbooks:portal_frame",
+    "count": 2,
+    "ingredients": [
+      "minecraft:mithril",
+      "minecraft:ender_pearl",
+      "minecraft:mithril",
+      "irons_spellbooks:arcane_ingot",
+      "",
+      "irons_spellbooks:arcane_ingot",
+      "irons_spellbooks:arcane_ingot",
+      "",
+      "irons_spellbooks:arcane_ingot"
+    ]
+  },
+  "justdirethings:pocket_generator": {
+    "result": "justdirethings:pocket_generator",
+    "count": 1,
+    "ingredients": [
+      "justdirethings:ferricore_ingot",
+      "minecraft:redstone_block",
+      "justdirethings:ferricore_ingot",
+      "minecraft:coal",
+      "minecraft:furnace",
+      "minecraft:coal",
+      "justdirethings:ferricore_ingot",
+      "minecraft:redstone_block",
+      "justdirethings:ferricore_ingot"
+    ]
+  },
+  "justdirethings:polymorphic_catalyst": {
+    "result": "justdirethings:polymorphic_catalyst",
+    "count": 4,
+    "ingredients": [
+      "justdirethings:blazegold_ingot",
+      "minecraft:nether_wart",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "justdirethings:polymorphic_wand": {
+    "result": "justdirethings:polymorphic_wand",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "justdirethings:fluid_canister",
+      "",
+      "justdirethings:polymorphic_catalyst",
+      "",
+      "justdirethings:blazegold_ingot",
+      "",
+      ""
+    ]
+  },
+  "justdirethings:polymorphic_wand_v2": {
+    "result": "justdirethings:polymorphic_wand_v2",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "justdirethings:eclipsealloy_ingot",
+      "",
+      "justdirethings:polymorphic_wand",
+      "",
+      "justdirethings:celestigem",
+      "",
+      ""
+    ]
+  },
+  "justdirethings:portalgun": {
+    "result": "justdirethings:portalgun",
+    "count": 1,
+    "ingredients": [
+      "",
+      "justdirethings:blazegold_ingot",
+      "justdirethings:blazegold_ingot",
+      "justdirethings:blazegold_ingot",
+      "minecraft:ender_eye",
+      "justdirethings:blazegold_ingot",
+      "justdirethings:blazegold_ingot",
+      "",
+      ""
+    ]
+  },
+  "justdirethings:portalgun_v2": {
+    "result": "justdirethings:portalgun_v2",
+    "count": 1,
+    "ingredients": [
+      "",
+      "justdirethings:blazegold_ingot",
+      "justdirethings:celestigem",
+      "justdirethings:blazegold_ingot",
+      "justdirethings:portal_fluid_catalyst",
+      "justdirethings:blazegold_ingot",
+      "justdirethings:blazegold_ingot",
+      "justdirethings:fluid_canister",
+      ""
+    ]
+  },
+  "justdirethings:portal_fluid_catalyst": {
+    "result": "justdirethings:portal_fluid_catalyst",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:chorus_fruit",
+      "",
+      "minecraft:chorus_fruit",
+      "minecraft:lapis_lazuli",
+      "minecraft:chorus_fruit",
+      "",
+      "minecraft:chorus_fruit",
+      ""
+    ]
+  },
+  "justdirethings:potion_canister": {
+    "result": "justdirethings:potion_canister",
+    "count": 1,
+    "ingredients": [
+      "",
+      "justdirethings:ferricore_ingot",
+      "",
+      "justdirethings:ferricore_ingot",
+      "minecraft:glass_bottle",
+      "justdirethings:ferricore_ingot",
+      "",
+      "justdirethings:ferricore_ingot",
+      ""
+    ]
+  },
+  "mahoutsukai:powdered_diamond": {
+    "result": "mahoutsukai:powdered_diamond",
+    "count": 2,
+    "ingredients": [
+      "minecraft:diamond",
+      "mahoutsukai:mortar_and_pestle",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mahoutsukai:powdered_emerald": {
+    "result": "mahoutsukai:powdered_emerald",
+    "count": 2,
+    "ingredients": [
+      "minecraft:emerald",
+      "mahoutsukai:mortar_and_pestle",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mahoutsukai:powdered_ender": {
+    "result": "mahoutsukai:powdered_ender",
+    "count": 2,
+    "ingredients": [
+      "minecraft:ender_pearl",
+      "mahoutsukai:mortar_and_pestle",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mahoutsukai:powdered_eye": {
+    "result": "mahoutsukai:powdered_eye",
+    "count": 2,
+    "ingredients": [
+      "minecraft:ender_eye",
+      "mahoutsukai:mortar_and_pestle",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mahoutsukai:powdered_gold": {
+    "result": "mahoutsukai:powdered_gold",
+    "count": 2,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "mahoutsukai:mortar_and_pestle",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mahoutsukai:powdered_iron": {
+    "result": "mahoutsukai:powdered_iron",
+    "count": 2,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "mahoutsukai:mortar_and_pestle",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mahoutsukai:powdered_quartz": {
+    "result": "mahoutsukai:powdered_quartz",
+    "count": 2,
+    "ingredients": [
+      "minecraft:quartz",
+      "mahoutsukai:mortar_and_pestle",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "megacells:portable_chemical_cell_16m": {
+    "result": "megacells:portable_chemical_cell_16m",
+    "count": 1,
+    "ingredients": [
+      "ae2:chest",
+      "megacells:cell_component_16m",
+      "ae2:dense_energy_cell",
+      "megacells:mega_chemical_cell_housing",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "megacells:portable_chemical_cell_1m": {
+    "result": "megacells:portable_chemical_cell_1m",
+    "count": 1,
+    "ingredients": [
+      "ae2:chest",
+      "megacells:cell_component_1m",
+      "ae2:dense_energy_cell",
+      "megacells:mega_chemical_cell_housing",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "megacells:portable_chemical_cell_256m": {
+    "result": "megacells:portable_chemical_cell_256m",
+    "count": 1,
+    "ingredients": [
+      "ae2:chest",
+      "megacells:cell_component_256m",
+      "ae2:dense_energy_cell",
+      "megacells:mega_chemical_cell_housing",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "megacells:portable_chemical_cell_4m": {
+    "result": "megacells:portable_chemical_cell_4m",
+    "count": 1,
+    "ingredients": [
+      "ae2:chest",
+      "megacells:cell_component_4m",
+      "ae2:dense_energy_cell",
+      "megacells:mega_chemical_cell_housing",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "megacells:portable_chemical_cell_64m": {
+    "result": "megacells:portable_chemical_cell_64m",
+    "count": 1,
+    "ingredients": [
+      "ae2:chest",
+      "megacells:cell_component_64m",
+      "ae2:dense_energy_cell",
+      "megacells:mega_chemical_cell_housing",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "megacells:portable_experience_cell_16m": {
+    "result": "megacells:portable_experience_cell_16m",
+    "count": 1,
+    "ingredients": [
+      "ae2:chest",
+      "megacells:cell_component_16m",
+      "ae2:dense_energy_cell",
+      "megacells:mega_experience_cell_housing",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "megacells:portable_experience_cell_1m": {
+    "result": "megacells:portable_experience_cell_1m",
+    "count": 1,
+    "ingredients": [
+      "ae2:chest",
+      "megacells:cell_component_1m",
+      "ae2:dense_energy_cell",
+      "megacells:mega_experience_cell_housing",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "megacells:portable_experience_cell_256m": {
+    "result": "megacells:portable_experience_cell_256m",
+    "count": 1,
+    "ingredients": [
+      "ae2:chest",
+      "megacells:cell_component_256m",
+      "ae2:dense_energy_cell",
+      "megacells:mega_experience_cell_housing",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "megacells:portable_experience_cell_4m": {
+    "result": "megacells:portable_experience_cell_4m",
+    "count": 1,
+    "ingredients": [
+      "ae2:chest",
+      "megacells:cell_component_4m",
+      "ae2:dense_energy_cell",
+      "megacells:mega_experience_cell_housing",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "megacells:portable_experience_cell_64m": {
+    "result": "megacells:portable_experience_cell_64m",
+    "count": 1,
+    "ingredients": [
+      "ae2:chest",
+      "megacells:cell_component_64m",
+      "ae2:dense_energy_cell",
+      "megacells:mega_experience_cell_housing",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "megacells:portable_fluid_cell_16m": {
+    "result": "megacells:portable_fluid_cell_16m",
+    "count": 1,
+    "ingredients": [
+      "ae2:chest",
+      "megacells:cell_component_16m",
+      "ae2:dense_energy_cell",
+      "megacells:mega_fluid_cell_housing",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "megacells:portable_fluid_cell_1m": {
+    "result": "megacells:portable_fluid_cell_1m",
+    "count": 1,
+    "ingredients": [
+      "ae2:chest",
+      "megacells:cell_component_1m",
+      "ae2:dense_energy_cell",
+      "megacells:mega_fluid_cell_housing",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "megacells:portable_fluid_cell_256m": {
+    "result": "megacells:portable_fluid_cell_256m",
+    "count": 1,
+    "ingredients": [
+      "ae2:chest",
+      "megacells:cell_component_256m",
+      "ae2:dense_energy_cell",
+      "megacells:mega_fluid_cell_housing",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "megacells:portable_fluid_cell_4m": {
+    "result": "megacells:portable_fluid_cell_4m",
+    "count": 1,
+    "ingredients": [
+      "ae2:chest",
+      "megacells:cell_component_4m",
+      "ae2:dense_energy_cell",
+      "megacells:mega_fluid_cell_housing",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "megacells:portable_fluid_cell_64m": {
+    "result": "megacells:portable_fluid_cell_64m",
+    "count": 1,
+    "ingredients": [
+      "ae2:chest",
+      "megacells:cell_component_64m",
+      "ae2:dense_energy_cell",
+      "megacells:mega_fluid_cell_housing",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "megacells:portable_item_cell_16m": {
+    "result": "megacells:portable_item_cell_16m",
+    "count": 1,
+    "ingredients": [
+      "ae2:chest",
+      "megacells:cell_component_16m",
+      "ae2:dense_energy_cell",
+      "megacells:mega_item_cell_housing",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "megacells:portable_item_cell_1m": {
+    "result": "megacells:portable_item_cell_1m",
+    "count": 1,
+    "ingredients": [
+      "ae2:chest",
+      "megacells:cell_component_1m",
+      "ae2:dense_energy_cell",
+      "megacells:mega_item_cell_housing",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "megacells:portable_item_cell_256m": {
+    "result": "megacells:portable_item_cell_256m",
+    "count": 1,
+    "ingredients": [
+      "ae2:chest",
+      "megacells:cell_component_256m",
+      "ae2:dense_energy_cell",
+      "megacells:mega_item_cell_housing",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "megacells:portable_item_cell_4m": {
+    "result": "megacells:portable_item_cell_4m",
+    "count": 1,
+    "ingredients": [
+      "ae2:chest",
+      "megacells:cell_component_4m",
+      "ae2:dense_energy_cell",
+      "megacells:mega_item_cell_housing",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "megacells:portable_item_cell_64m": {
+    "result": "megacells:portable_item_cell_64m",
+    "count": 1,
+    "ingredients": [
+      "ae2:chest",
+      "megacells:cell_component_64m",
+      "ae2:dense_energy_cell",
+      "megacells:mega_item_cell_housing",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "megacells:portable_mana_cell_16m": {
+    "result": "megacells:portable_mana_cell_16m",
+    "count": 1,
+    "ingredients": [
+      "ae2:chest",
+      "megacells:cell_component_16m",
+      "ae2:dense_energy_cell",
+      "megacells:mega_mana_cell_housing",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "megacells:portable_mana_cell_1m": {
+    "result": "megacells:portable_mana_cell_1m",
+    "count": 1,
+    "ingredients": [
+      "ae2:chest",
+      "megacells:cell_component_1m",
+      "ae2:dense_energy_cell",
+      "megacells:mega_mana_cell_housing",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "megacells:portable_mana_cell_256m": {
+    "result": "megacells:portable_mana_cell_256m",
+    "count": 1,
+    "ingredients": [
+      "ae2:chest",
+      "megacells:cell_component_256m",
+      "ae2:dense_energy_cell",
+      "megacells:mega_mana_cell_housing",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "megacells:portable_mana_cell_4m": {
+    "result": "megacells:portable_mana_cell_4m",
+    "count": 1,
+    "ingredients": [
+      "ae2:chest",
+      "megacells:cell_component_4m",
+      "ae2:dense_energy_cell",
+      "megacells:mega_mana_cell_housing",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "megacells:portable_mana_cell_64m": {
+    "result": "megacells:portable_mana_cell_64m",
+    "count": 1,
+    "ingredients": [
+      "ae2:chest",
+      "megacells:cell_component_64m",
+      "ae2:dense_energy_cell",
+      "megacells:mega_mana_cell_housing",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "megacells:portable_source_cell_16m": {
+    "result": "megacells:portable_source_cell_16m",
+    "count": 1,
+    "ingredients": [
+      "ae2:chest",
+      "megacells:cell_component_16m",
+      "ae2:dense_energy_cell",
+      "megacells:mega_source_cell_housing",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "megacells:portable_source_cell_1m": {
+    "result": "megacells:portable_source_cell_1m",
+    "count": 1,
+    "ingredients": [
+      "ae2:chest",
+      "megacells:cell_component_1m",
+      "ae2:dense_energy_cell",
+      "megacells:mega_source_cell_housing",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "megacells:portable_source_cell_256m": {
+    "result": "megacells:portable_source_cell_256m",
+    "count": 1,
+    "ingredients": [
+      "ae2:chest",
+      "megacells:cell_component_256m",
+      "ae2:dense_energy_cell",
+      "megacells:mega_source_cell_housing",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "megacells:portable_source_cell_4m": {
+    "result": "megacells:portable_source_cell_4m",
+    "count": 1,
+    "ingredients": [
+      "ae2:chest",
+      "megacells:cell_component_4m",
+      "ae2:dense_energy_cell",
+      "megacells:mega_source_cell_housing",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "megacells:portable_source_cell_64m": {
+    "result": "megacells:portable_source_cell_64m",
+    "count": 1,
+    "ingredients": [
+      "ae2:chest",
+      "megacells:cell_component_64m",
+      "ae2:dense_energy_cell",
+      "megacells:mega_source_cell_housing",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "megacells:portable_cell_workbench": {
+    "result": "megacells:portable_cell_workbench",
+    "count": 1,
+    "ingredients": [
+      "ae2:cell_workbench",
+      "",
+      "",
+      "ae2:singularity",
+      "",
+      "",
+      "megacells:mega_item_cell_housing",
+      "",
+      ""
+    ]
+  },
+  "mekanism:portable_qio_dashboard": {
+    "result": "mekanism:portable_qio_dashboard",
+    "count": 1,
+    "ingredients": [
+      "minecraft:polonium",
+      "minecraft:polonium",
+      "minecraft:polonium",
+      "minecraft:polonium",
+      "mekanism:qio_dashboard",
+      "minecraft:polonium",
+      "minecraft:polonium",
+      "mekanism:teleportation_core",
+      "minecraft:polonium"
+    ]
+  },
+  "merrymaking:polished_blackstone_brick_garland_wall": {
+    "result": "merrymaking:polished_blackstone_brick_garland_wall",
+    "count": 1,
+    "ingredients": [
+      "minecraft:polished_blackstone_brick_wall",
+      "merrymaking:garland_horizontal",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:polished_blackstone_brick_garland_multi_wall": {
+    "result": "merrymaking:polished_blackstone_brick_garland_multi_wall",
+    "count": 1,
+    "ingredients": [
+      "minecraft:polished_blackstone_brick_wall",
+      "merrymaking:garland_horizontal_multi",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:polished_blackstone_brick_garland_lights_wall": {
+    "result": "merrymaking:polished_blackstone_brick_garland_lights_wall",
+    "count": 1,
+    "ingredients": [
+      "minecraft:polished_blackstone_brick_wall",
+      "merrymaking:garland_horizontal_lights",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:polished_blackstone_garland_wall": {
+    "result": "merrymaking:polished_blackstone_garland_wall",
+    "count": 1,
+    "ingredients": [
+      "minecraft:polished_blackstone_wall",
+      "merrymaking:garland_horizontal",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:polished_blackstone_garland_multi_wall": {
+    "result": "merrymaking:polished_blackstone_garland_multi_wall",
+    "count": 1,
+    "ingredients": [
+      "minecraft:polished_blackstone_wall",
+      "merrymaking:garland_horizontal_multi",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:polished_blackstone_garland_lights_wall": {
+    "result": "merrymaking:polished_blackstone_garland_lights_wall",
+    "count": 1,
+    "ingredients": [
+      "minecraft:polished_blackstone_wall",
+      "merrymaking:garland_horizontal_lights",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:polished_deepslate_garland_wall": {
+    "result": "merrymaking:polished_deepslate_garland_wall",
+    "count": 1,
+    "ingredients": [
+      "minecraft:polished_deepslate_wall",
+      "merrymaking:garland_horizontal",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:polished_deepslate_garland_multi_wall": {
+    "result": "merrymaking:polished_deepslate_garland_multi_wall",
+    "count": 1,
+    "ingredients": [
+      "minecraft:polished_deepslate_wall",
+      "merrymaking:garland_horizontal_multi",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:polished_deepslate_garland_lights_wall": {
+    "result": "merrymaking:polished_deepslate_garland_lights_wall",
+    "count": 1,
+    "ingredients": [
+      "minecraft:polished_deepslate_wall",
+      "merrymaking:garland_horizontal_lights",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:polished_blackstone_brick_roof_slab": {
+    "result": "merrymaking:polished_blackstone_brick_roof_slab",
+    "count": 4,
+    "ingredients": [
+      "minecraft:polished_blackstone_brick_slab",
+      "minecraft:polished_blackstone_brick_slab",
+      "minecraft:polished_blackstone_brick_slab",
+      "minecraft:polished_blackstone_brick_slab",
+      "merrymaking:roof_tiles",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecolonies:polenta": {
+    "result": "minecolonies:polenta",
+    "count": 2,
+    "ingredients": [
+      "minecolonies:cornmeal",
+      "minecolonies:cornmeal",
+      "minecolonies:large_water_bottle",
+      "minecraft:bowl",
+      "minecraft:bowl",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecolonies:potato_soup": {
+    "result": "minecolonies:potato_soup",
+    "count": 2,
+    "ingredients": [
+      "minecolonies:garlic",
+      "minecolonies:onion",
+      "minecraft:potato",
+      "minecraft:bowl",
+      "minecraft:bowl",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecolonies:pottage": {
+    "result": "minecolonies:pottage",
+    "count": 1,
+    "ingredients": [
+      "minecolonies:durum",
+      "minecolonies:onion",
+      "minecolonies:garlic",
+      "minecraft:bowl",
+      "minecraft:potato",
+      "minecraft:carrot",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:polished_andesite": {
+    "result": "minecraft:polished_andesite",
+    "count": 4,
+    "ingredients": [
+      "minecraft:andesite",
+      "minecraft:andesite",
+      "",
+      "minecraft:andesite",
+      "minecraft:andesite",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:polished_andesite_slab": {
+    "result": "minecraft:polished_andesite_slab",
+    "count": 6,
+    "ingredients": [
+      "minecraft:polished_andesite",
+      "minecraft:polished_andesite",
+      "minecraft:polished_andesite",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:polished_andesite_stairs": {
+    "result": "minecraft:polished_andesite_stairs",
+    "count": 4,
+    "ingredients": [
+      "minecraft:polished_andesite",
+      "",
+      "",
+      "minecraft:polished_andesite",
+      "minecraft:polished_andesite",
+      "",
+      "minecraft:polished_andesite",
+      "minecraft:polished_andesite",
+      "minecraft:polished_andesite"
+    ]
+  },
+  "minecraft:polished_basalt": {
+    "result": "minecraft:polished_basalt",
+    "count": 4,
+    "ingredients": [
+      "minecraft:basalt",
+      "minecraft:basalt",
+      "",
+      "minecraft:basalt",
+      "minecraft:basalt",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:polished_blackstone": {
+    "result": "minecraft:polished_blackstone",
+    "count": 4,
+    "ingredients": [
+      "minecraft:blackstone",
+      "minecraft:blackstone",
+      "",
+      "minecraft:blackstone",
+      "minecraft:blackstone",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:polished_blackstone_bricks": {
+    "result": "minecraft:polished_blackstone_bricks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:polished_blackstone",
+      "minecraft:polished_blackstone",
+      "",
+      "minecraft:polished_blackstone",
+      "minecraft:polished_blackstone",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:polished_blackstone_brick_slab": {
+    "result": "minecraft:polished_blackstone_brick_slab",
+    "count": 6,
+    "ingredients": [
+      "minecraft:polished_blackstone_bricks",
+      "minecraft:polished_blackstone_bricks",
+      "minecraft:polished_blackstone_bricks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:polished_blackstone_brick_stairs": {
+    "result": "minecraft:polished_blackstone_brick_stairs",
+    "count": 4,
+    "ingredients": [
+      "minecraft:polished_blackstone_bricks",
+      "",
+      "",
+      "minecraft:polished_blackstone_bricks",
+      "minecraft:polished_blackstone_bricks",
+      "",
+      "minecraft:polished_blackstone_bricks",
+      "minecraft:polished_blackstone_bricks",
+      "minecraft:polished_blackstone_bricks"
+    ]
+  },
+  "minecraft:polished_blackstone_brick_wall": {
+    "result": "minecraft:polished_blackstone_brick_wall",
+    "count": 6,
+    "ingredients": [
+      "minecraft:polished_blackstone_bricks",
+      "minecraft:polished_blackstone_bricks",
+      "minecraft:polished_blackstone_bricks",
+      "minecraft:polished_blackstone_bricks",
+      "minecraft:polished_blackstone_bricks",
+      "minecraft:polished_blackstone_bricks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:polished_blackstone_button": {
+    "result": "minecraft:polished_blackstone_button",
+    "count": 1,
+    "ingredients": [
+      "minecraft:polished_blackstone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:polished_blackstone_pressure_plate": {
+    "result": "minecraft:polished_blackstone_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:polished_blackstone",
+      "minecraft:polished_blackstone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:polished_blackstone_slab": {
+    "result": "minecraft:polished_blackstone_slab",
+    "count": 6,
+    "ingredients": [
+      "minecraft:polished_blackstone",
+      "minecraft:polished_blackstone",
+      "minecraft:polished_blackstone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:polished_blackstone_stairs": {
+    "result": "minecraft:polished_blackstone_stairs",
+    "count": 4,
+    "ingredients": [
+      "minecraft:polished_blackstone",
+      "",
+      "",
+      "minecraft:polished_blackstone",
+      "minecraft:polished_blackstone",
+      "",
+      "minecraft:polished_blackstone",
+      "minecraft:polished_blackstone",
+      "minecraft:polished_blackstone"
+    ]
+  },
+  "minecraft:polished_blackstone_wall": {
+    "result": "minecraft:polished_blackstone_wall",
+    "count": 6,
+    "ingredients": [
+      "minecraft:polished_blackstone",
+      "minecraft:polished_blackstone",
+      "minecraft:polished_blackstone",
+      "minecraft:polished_blackstone",
+      "minecraft:polished_blackstone",
+      "minecraft:polished_blackstone",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:polished_deepslate": {
+    "result": "minecraft:polished_deepslate",
+    "count": 4,
+    "ingredients": [
+      "minecraft:cobbled_deepslate",
+      "minecraft:cobbled_deepslate",
+      "",
+      "minecraft:cobbled_deepslate",
+      "minecraft:cobbled_deepslate",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:polished_deepslate_slab": {
+    "result": "minecraft:polished_deepslate_slab",
+    "count": 6,
+    "ingredients": [
+      "minecraft:polished_deepslate",
+      "minecraft:polished_deepslate",
+      "minecraft:polished_deepslate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:polished_deepslate_stairs": {
+    "result": "minecraft:polished_deepslate_stairs",
+    "count": 4,
+    "ingredients": [
+      "minecraft:polished_deepslate",
+      "",
+      "",
+      "minecraft:polished_deepslate",
+      "minecraft:polished_deepslate",
+      "",
+      "minecraft:polished_deepslate",
+      "minecraft:polished_deepslate",
+      "minecraft:polished_deepslate"
+    ]
+  },
+  "minecraft:polished_deepslate_wall": {
+    "result": "minecraft:polished_deepslate_wall",
+    "count": 6,
+    "ingredients": [
+      "minecraft:polished_deepslate",
+      "minecraft:polished_deepslate",
+      "minecraft:polished_deepslate",
+      "minecraft:polished_deepslate",
+      "minecraft:polished_deepslate",
+      "minecraft:polished_deepslate",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:polished_diorite": {
+    "result": "minecraft:polished_diorite",
+    "count": 4,
+    "ingredients": [
+      "minecraft:diorite",
+      "minecraft:diorite",
+      "",
+      "minecraft:diorite",
+      "minecraft:diorite",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:polished_diorite_slab": {
+    "result": "minecraft:polished_diorite_slab",
+    "count": 6,
+    "ingredients": [
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:polished_diorite_stairs": {
+    "result": "minecraft:polished_diorite_stairs",
+    "count": 4,
+    "ingredients": [
+      "minecraft:polished_diorite",
+      "",
+      "",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite"
+    ]
+  },
+  "minecraft:polished_granite": {
+    "result": "minecraft:polished_granite",
+    "count": 4,
+    "ingredients": [
+      "minecraft:granite",
+      "minecraft:granite",
+      "",
+      "minecraft:granite",
+      "minecraft:granite",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:polished_granite_slab": {
+    "result": "minecraft:polished_granite_slab",
+    "count": 6,
+    "ingredients": [
+      "minecraft:polished_granite",
+      "minecraft:polished_granite",
+      "minecraft:polished_granite",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:polished_granite_stairs": {
+    "result": "minecraft:polished_granite_stairs",
+    "count": 4,
+    "ingredients": [
+      "minecraft:polished_granite",
+      "",
+      "",
+      "minecraft:polished_granite",
+      "minecraft:polished_granite",
+      "",
+      "minecraft:polished_granite",
+      "minecraft:polished_granite",
+      "minecraft:polished_granite"
+    ]
+  },
+  "minecraft:polished_tuff": {
+    "result": "minecraft:polished_tuff",
+    "count": 4,
+    "ingredients": [
+      "minecraft:tuff",
+      "minecraft:tuff",
+      "",
+      "minecraft:tuff",
+      "minecraft:tuff",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:polished_tuff_slab": {
+    "result": "minecraft:polished_tuff_slab",
+    "count": 6,
+    "ingredients": [
+      "minecraft:polished_tuff",
+      "minecraft:polished_tuff",
+      "minecraft:polished_tuff",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:polished_tuff_stairs": {
+    "result": "minecraft:polished_tuff_stairs",
+    "count": 4,
+    "ingredients": [
+      "minecraft:polished_tuff",
+      "",
+      "",
+      "minecraft:polished_tuff",
+      "minecraft:polished_tuff",
+      "",
+      "minecraft:polished_tuff",
+      "minecraft:polished_tuff",
+      "minecraft:polished_tuff"
+    ]
+  },
+  "minecraft:polished_tuff_wall": {
+    "result": "minecraft:polished_tuff_wall",
+    "count": 6,
+    "ingredients": [
+      "minecraft:polished_tuff",
+      "minecraft:polished_tuff",
+      "minecraft:polished_tuff",
+      "minecraft:polished_tuff",
+      "minecraft:polished_tuff",
+      "minecraft:polished_tuff",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:powered_rail": {
+    "result": "minecraft:powered_rail",
+    "count": 6,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:stick",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:redstone",
+      "minecraft:gold_ingot"
+    ]
+  },
+  "modern_industrialization:portable_storage_unit": {
+    "result": "modern_industrialization:portable_storage_unit",
+    "count": 1,
+    "ingredients": [
+      "minecraft:battery_alloy",
+      "modern_industrialization:tin_cable",
+      "minecraft:battery_alloy",
+      "modern_industrialization:battery_alloy_curved_plate",
+      "modern_industrialization:analog_circuit",
+      "modern_industrialization:battery_alloy_curved_plate",
+      "minecraft:battery_alloy",
+      "modern_industrialization:tin_cable",
+      "minecraft:battery_alloy"
+    ]
+  },
+  "modern_industrialization:polarizer": {
+    "result": "modern_industrialization:polarizer",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:tin_wire",
+      "modern_industrialization:inductor",
+      "modern_industrialization:tin_wire",
+      "modern_industrialization:tin_cable",
+      "modern_industrialization:basic_machine_hull",
+      "modern_industrialization:tin_cable",
+      "modern_industrialization:tin_wire",
+      "modern_industrialization:inductor",
+      "modern_industrialization:tin_wire"
+    ]
+  },
+  "minecraft:pointed_dripstone": {
+    "result": "minecraft:pointed_dripstone",
+    "count": 16,
+    "ingredients": [
+      "mysticalagriculture:stone_essence",
+      "mysticalagriculture:stone_essence",
+      "mysticalagriculture:stone_essence",
+      "",
+      "mysticalagriculture:water_essence",
+      "",
+      "",
+      "mysticalagriculture:stone_essence",
+      ""
+    ]
+  },
+  "minecraft:porkchop": {
+    "result": "minecraft:porkchop",
+    "count": 6,
+    "ingredients": [
+      "mysticalagriculture:pig_essence",
+      "mysticalagriculture:pig_essence",
+      "mysticalagriculture:pig_essence",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "naturesaura:potion_generator": {
+    "result": "naturesaura:potion_generator",
+    "count": 1,
+    "ingredients": [
+      "minecraft:nether_brick",
+      "minecraft:blaze_rod",
+      "minecraft:nether_brick",
+      "naturesaura:sky_ingot",
+      "naturesaura:token_fear",
+      "naturesaura:sky_ingot",
+      "minecraft:nether_brick",
+      "minecraft:blaze_rod",
+      "minecraft:nether_brick"
+    ]
+  },
+  "naturesaura:powder_placer": {
+    "result": "naturesaura:powder_placer",
+    "count": 1,
+    "ingredients": [
+      "",
+      "naturesaura:token_anger",
+      "",
+      "naturesaura:gold_powder",
+      "naturesaura:infused_stone",
+      "naturesaura:gold_powder",
+      "",
+      "naturesaura:token_joy",
+      ""
+    ]
+  },
+  "occultism:polished_otherrock_slab": {
+    "result": "occultism:polished_otherrock_slab",
+    "count": 6,
+    "ingredients": [
+      "occultism:polished_otherrock",
+      "occultism:polished_otherrock",
+      "occultism:polished_otherrock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "occultism:polished_otherrock_stairs": {
+    "result": "occultism:polished_otherrock_stairs",
+    "count": 4,
+    "ingredients": [
+      "occultism:polished_otherrock",
+      "",
+      "",
+      "occultism:polished_otherrock",
+      "occultism:polished_otherrock",
+      "",
+      "occultism:polished_otherrock",
+      "occultism:polished_otherrock",
+      "occultism:polished_otherrock"
+    ]
+  },
+  "occultism:polished_otherrock_wall": {
+    "result": "occultism:polished_otherrock_wall",
+    "count": 6,
+    "ingredients": [
+      "occultism:polished_otherrock",
+      "occultism:polished_otherrock",
+      "occultism:polished_otherrock",
+      "occultism:polished_otherrock",
+      "occultism:polished_otherrock",
+      "occultism:polished_otherrock",
+      "",
+      "",
+      ""
+    ]
+  },
+  "occultism:polished_otherstone_slab": {
+    "result": "occultism:polished_otherstone_slab",
+    "count": 6,
+    "ingredients": [
+      "occultism:polished_otherstone",
+      "occultism:polished_otherstone",
+      "occultism:polished_otherstone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "occultism:polished_otherstone_stairs": {
+    "result": "occultism:polished_otherstone_stairs",
+    "count": 4,
+    "ingredients": [
+      "occultism:polished_otherstone",
+      "",
+      "",
+      "occultism:polished_otherstone",
+      "occultism:polished_otherstone",
+      "",
+      "occultism:polished_otherstone",
+      "occultism:polished_otherstone",
+      "occultism:polished_otherstone"
+    ]
+  },
+  "occultism:polished_otherstone_wall": {
+    "result": "occultism:polished_otherstone_wall",
+    "count": 6,
+    "ingredients": [
+      "occultism:polished_otherstone",
+      "occultism:polished_otherstone",
+      "occultism:polished_otherstone",
+      "occultism:polished_otherstone",
+      "occultism:polished_otherstone",
+      "occultism:polished_otherstone",
+      "",
+      "",
+      ""
+    ]
+  },
+  "oritech:powered_furnace_block": {
+    "result": "oritech:powered_furnace_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "modern_industrialization:tin_ingot",
+      "minecraft:electrum",
+      "modern_industrialization:tin_ingot",
+      "oritech:magnetic_coil",
+      "minecraft:furnaces",
+      "oritech:magnetic_coil"
+    ]
+  },
+  "oritech:polymer_resin": {
+    "result": "oritech:polymer_resin",
+    "count": 1,
+    "ingredients": [
+      "minecraft:sand",
+      "minecraft:sand",
+      "",
+      "minecraft:sand",
+      "oritech:still_naphtha_bucket",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "oritech:portable_laser": {
+    "result": "oritech:portable_laser",
+    "count": 1,
+    "ingredients": [
+      "oritech:adamant_ingot",
+      "oritech:adamant_ingot",
+      "",
+      "oritech:adamant_ingot",
+      "oritech:laser_arm_block",
+      "",
+      "oritech:accelerator_motor",
+      "oritech:advanced_battery",
+      "oritech:advanced_battery"
+    ]
+  },
+  "oritech:power_pole_block": {
+    "result": "oritech:power_pole_block",
+    "count": 1,
+    "ingredients": [
+      "oritech:magnetic_coil",
+      "",
+      "oritech:magnetic_coil",
+      "minecraft:electrum",
+      "oritech:small_storage_block",
+      "minecraft:electrum",
+      "oritech:carbon_fibre_strands",
+      "oritech:carbon_fibre_strands",
+      "oritech:carbon_fibre_strands"
+    ]
+  },
+  "pamhc2foodcore:porkjerkyitem": {
+    "result": "pamhc2foodcore:porkjerkyitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:rawpork",
+      "minecraft:salt",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:porknoodlesoupitem": {
+    "result": "pamhc2foodcore:porknoodlesoupitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:pasta",
+      "minecraft:stock",
+      "minecraft:vegetables",
+      "minecraft:rawpork",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:porkpotpieitem": {
+    "result": "pamhc2foodcore:porkpotpieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:rawpork",
+      "minecraft:potato",
+      "minecraft:carrot",
+      "minecraft:dough",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:potatochipsitem": {
+    "result": "pamhc2foodcore:potatochipsitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:potato",
+      "minecraft:cookingoil",
+      "minecraft:salt",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:potatosoupitem": {
+    "result": "pamhc2foodcore:potatosoupitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:potato",
+      "minecraft:stock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:potroastitem": {
+    "result": "pamhc2foodcore:potroastitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:rawbeef",
+      "minecraft:potato",
+      "minecraft:carrot",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:powdereddonutitem": {
+    "result": "pamhc2foodcore:powdereddonutitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:cookingoil",
+      "minecraft:batter",
+      "minecraft:sugar",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:potitem": {
+    "result": "pamhc2foodcore:potitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "",
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:poachedpearitem": {
+    "result": "pamhc2foodextended:poachedpearitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:pear",
+      "minecraft:vanilla",
+      "minecraft:sugar",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:pokebowlitem": {
+    "result": "pamhc2foodextended:pokebowlitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:rawfish",
+      "minecraft:rice",
+      "minecraft:soybean",
+      "minecraft:ginger",
+      "minecraft:scallion",
+      "minecraft:soysauce",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:pomegranatejellyitem": {
+    "result": "pamhc2foodextended:pomegranatejellyitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:pomegranate",
+      "minecraft:sugar",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:pomegranatejellysandwichitem": {
+    "result": "pamhc2foodextended:pomegranatejellysandwichitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:pomegranatejelly",
+      "minecraft:bread",
+      "minecraft:nutbutters",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:pomegranatejellytoastitem": {
+    "result": "pamhc2foodextended:pomegranatejellytoastitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:pomegranatejelly",
+      "minecraft:toast",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:pomegranatejuiceitem": {
+    "result": "pamhc2foodextended:pomegranatejuiceitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_juicer",
+      "minecraft:pomegranate",
+      "minecraft:pomegranate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:pomegranatepieitem": {
+    "result": "pamhc2foodextended:pomegranatepieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:pomegranate",
+      "minecraft:sugar",
+      "minecraft:dough",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:pomegranatesmoothieitem": {
+    "result": "pamhc2foodextended:pomegranatesmoothieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:pomegranate",
+      "minecraft:ices",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:pomegranateyogurtitem": {
+    "result": "pamhc2foodextended:pomegranateyogurtitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:pomegranate",
+      "minecraft:yogurt",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:popcornitem": {
+    "result": "pamhc2foodextended:popcornitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:butter",
+      "minecraft:salt",
+      "minecraft:corn",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:porklettucewrapitem": {
+    "result": "pamhc2foodextended:porklettucewrapitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:lettuce",
+      "minecraft:rawpork",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:porklomeinitem": {
+    "result": "pamhc2foodextended:porklomeinitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:rawpork",
+      "minecraft:pasta",
+      "minecraft:onion",
+      "minecraft:carrot",
+      "minecraft:cabbage",
+      "minecraft:garlic",
+      "minecraft:soysauce",
+      ""
+    ]
+  },
+  "pamhc2foodextended:porkrindsitem": {
+    "result": "pamhc2foodextended:porkrindsitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:rawpork",
+      "minecraft:cookingoil",
+      "minecraft:saltandpepper",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:potatoandcheesepirogiitem": {
+    "result": "pamhc2foodextended:potatoandcheesepirogiitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_skillet",
+      "minecraft:dough",
+      "minecraft:potato",
+      "minecraft:cheese",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:potatoandleeksoupitem": {
+    "result": "pamhc2foodextended:potatoandleeksoupitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:potato",
+      "minecraft:leek",
+      "minecraft:stock",
+      "minecraft:cream",
+      "minecraft:spiceleaf",
+      "minecraft:blackpepper",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:potatocakesitem": {
+    "result": "pamhc2foodextended:potatocakesitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_skillet",
+      "minecraft:onion",
+      "minecraft:potato",
+      "minecraft:butter",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:potatoesobrienitem": {
+    "result": "pamhc2foodextended:potatoesobrienitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_skillet",
+      "minecraft:potato",
+      "minecraft:onion",
+      "minecraft:bellpepper",
+      "minecraft:cookingoil",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:potatosaladitem": {
+    "result": "pamhc2foodextended:potatosaladitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:potato",
+      "minecraft:mayonaise",
+      "minecraft:mustard",
+      "minecraft:spiceleaf",
+      "minecraft:egg",
+      "minecraft:onions",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:potatoskinsitem": {
+    "result": "pamhc2foodextended:potatoskinsitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:baked_potato",
+      "minecraft:cheese",
+      "minecraft:cream",
+      "minecraft:onions",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:potstickersitem": {
+    "result": "pamhc2foodextended:potstickersitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_skillet",
+      "minecraft:rawpork",
+      "minecraft:cabbage",
+      "minecraft:scallion",
+      "minecraft:cookingoil",
+      "minecraft:soysauce",
+      "minecraft:garlic",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:poutineitem": {
+    "result": "pamhc2foodextended:poutineitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "pamhc2foodcore:friesitem",
+      "minecraft:cheese",
+      "pamhc2foodextended:gravyitem",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:powdereddonutitem": {
+    "result": "pamhc2foodextended:powdereddonutitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:cookingoil",
+      "minecraft:batter",
+      "minecraft:sugar",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2trees:pomegranate_sapling": {
+    "result": "pamhc2trees:pomegranate_sapling",
+    "count": 1,
+    "ingredients": [
+      "pamhc2trees:pomegranateitem",
+      "pamhc2trees:pomegranateitem",
+      "pamhc2trees:pomegranateitem",
+      "pamhc2trees:pomegranateitem",
+      "pamhc2trees:pomegranateitem",
+      "pamhc2trees:pomegranateitem",
+      "pamhc2trees:pomegranateitem",
+      "pamhc2trees:pomegranateitem",
+      "minecraft:saplings"
+    ]
+  },
+  "productivebees:powered_centrifuge": {
+    "result": "productivebees:powered_centrifuge",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "productivebees:centrifuge",
+      "minecraft:redstone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivemetalworks:powered_heating_coil": {
+    "result": "productivemetalworks:powered_heating_coil",
+    "count": 1,
+    "ingredients": [
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "minecraft:amethyst_block",
+      "minecraft:copper_ingot",
+      "productivemetalworks:fire_brick",
+      "productivemetalworks:fire_brick",
+      "productivemetalworks:fire_brick"
+    ]
+  },
+  "productivetrees:pollen_sifter": {
+    "result": "productivetrees:pollen_sifter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "minecraft:sticky_piston",
+      "minecraft:oak_planks",
+      "minecraft:iron_ingot",
+      "minecraft:brush",
+      "minecraft:iron_ingot",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks"
+    ]
+  },
+  "productivetrees:pomegranate_bookshelf": {
+    "result": "productivetrees:pomegranate_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:pomegranate_planks",
+      "productivetrees:pomegranate_planks",
+      "productivetrees:pomegranate_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:pomegranate_planks",
+      "productivetrees:pomegranate_planks",
+      "productivetrees:pomegranate_planks"
+    ]
+  },
+  "productivetrees:pomelo_bookshelf": {
+    "result": "productivetrees:pomelo_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:pomelo_planks",
+      "productivetrees:pomelo_planks",
+      "productivetrees:pomelo_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:pomelo_planks",
+      "productivetrees:pomelo_planks",
+      "productivetrees:pomelo_planks"
+    ]
+  },
+  "productivetrees:pomegranate_button": {
+    "result": "productivetrees:pomegranate_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:pomegranate_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:pomelo_button": {
+    "result": "productivetrees:pomelo_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:pomelo_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:pomegranate_crate": {
+    "result": "productivetrees:pomegranate_crate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:pomegranate",
+      "minecraft:pomegranate",
+      "minecraft:pomegranate",
+      "minecraft:pomegranate",
+      "productivetrees:pomegranate",
+      "minecraft:pomegranate",
+      "minecraft:pomegranate",
+      "minecraft:pomegranate",
+      "minecraft:pomegranate"
+    ]
+  },
+  "productivetrees:pomegranate": {
+    "result": "productivetrees:pomegranate",
+    "count": 9,
+    "ingredients": [
+      "productivetrees:pomegranate_crate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:pomelo_crate": {
+    "result": "productivetrees:pomelo_crate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:pomelo",
+      "minecraft:pomelo",
+      "minecraft:pomelo",
+      "minecraft:pomelo",
+      "productivetrees:pomelo",
+      "minecraft:pomelo",
+      "minecraft:pomelo",
+      "minecraft:pomelo",
+      "minecraft:pomelo"
+    ]
+  },
+  "productivetrees:pomelo": {
+    "result": "productivetrees:pomelo",
+    "count": 9,
+    "ingredients": [
+      "productivetrees:pomelo_crate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:pomegranate_door": {
+    "result": "productivetrees:pomegranate_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:pomegranate_planks",
+      "productivetrees:pomegranate_planks",
+      "",
+      "productivetrees:pomegranate_planks",
+      "productivetrees:pomegranate_planks",
+      "",
+      "productivetrees:pomegranate_planks",
+      "productivetrees:pomegranate_planks",
+      ""
+    ]
+  },
+  "productivetrees:pomelo_door": {
+    "result": "productivetrees:pomelo_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:pomelo_planks",
+      "productivetrees:pomelo_planks",
+      "",
+      "productivetrees:pomelo_planks",
+      "productivetrees:pomelo_planks",
+      "",
+      "productivetrees:pomelo_planks",
+      "productivetrees:pomelo_planks",
+      ""
+    ]
+  },
+  "productivetrees:pomegranate_fence": {
+    "result": "productivetrees:pomegranate_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:pomegranate_planks",
+      "minecraft:stick",
+      "productivetrees:pomegranate_planks",
+      "productivetrees:pomegranate_planks",
+      "minecraft:stick",
+      "productivetrees:pomegranate_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:pomelo_fence": {
+    "result": "productivetrees:pomelo_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:pomelo_planks",
+      "minecraft:stick",
+      "productivetrees:pomelo_planks",
+      "productivetrees:pomelo_planks",
+      "minecraft:stick",
+      "productivetrees:pomelo_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:pomegranate_fence_gate": {
+    "result": "productivetrees:pomegranate_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:pomegranate_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:pomegranate_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:pomelo_fence_gate": {
+    "result": "productivetrees:pomelo_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:pomelo_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:pomelo_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:pomegranate_hanging_sign": {
+    "result": "productivetrees:pomegranate_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:pomegranate_planks",
+      "productivetrees:pomegranate_planks",
+      "productivetrees:pomegranate_planks",
+      "productivetrees:pomegranate_planks",
+      "productivetrees:pomegranate_planks",
+      "productivetrees:pomegranate_planks"
+    ]
+  },
+  "productivetrees:pomelo_hanging_sign": {
+    "result": "productivetrees:pomelo_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:pomelo_planks",
+      "productivetrees:pomelo_planks",
+      "productivetrees:pomelo_planks",
+      "productivetrees:pomelo_planks",
+      "productivetrees:pomelo_planks",
+      "productivetrees:pomelo_planks"
+    ]
+  },
+  "productivetrees:pomegranate_planks": {
+    "result": "productivetrees:pomegranate_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:pomelo_planks": {
+    "result": "productivetrees:pomelo_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:pomegranate_pressure_plate": {
+    "result": "productivetrees:pomegranate_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:pomegranate_planks",
+      "productivetrees:pomegranate_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:pomelo_pressure_plate": {
+    "result": "productivetrees:pomelo_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:pomelo_planks",
+      "productivetrees:pomelo_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:pomegranate_sign": {
+    "result": "productivetrees:pomegranate_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:pomegranate_planks",
+      "productivetrees:pomegranate_planks",
+      "productivetrees:pomegranate_planks",
+      "productivetrees:pomegranate_planks",
+      "productivetrees:pomegranate_planks",
+      "productivetrees:pomegranate_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:pomelo_sign": {
+    "result": "productivetrees:pomelo_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:pomelo_planks",
+      "productivetrees:pomelo_planks",
+      "productivetrees:pomelo_planks",
+      "productivetrees:pomelo_planks",
+      "productivetrees:pomelo_planks",
+      "productivetrees:pomelo_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:pomegranate_slab": {
+    "result": "productivetrees:pomegranate_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:pomegranate_planks",
+      "productivetrees:pomegranate_planks",
+      "productivetrees:pomegranate_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:pomelo_slab": {
+    "result": "productivetrees:pomelo_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:pomelo_planks",
+      "productivetrees:pomelo_planks",
+      "productivetrees:pomelo_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:pomegranate_stairs": {
+    "result": "productivetrees:pomegranate_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:pomegranate_planks",
+      "",
+      "",
+      "productivetrees:pomegranate_planks",
+      "productivetrees:pomegranate_planks",
+      "",
+      "productivetrees:pomegranate_planks",
+      "productivetrees:pomegranate_planks",
+      "productivetrees:pomegranate_planks"
+    ]
+  },
+  "productivetrees:pomelo_stairs": {
+    "result": "productivetrees:pomelo_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:pomelo_planks",
+      "",
+      "",
+      "productivetrees:pomelo_planks",
+      "productivetrees:pomelo_planks",
+      "",
+      "productivetrees:pomelo_planks",
+      "productivetrees:pomelo_planks",
+      "productivetrees:pomelo_planks"
+    ]
+  },
+  "productivetrees:pomegranate_trapdoor": {
+    "result": "productivetrees:pomegranate_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:pomegranate_planks",
+      "productivetrees:pomegranate_planks",
+      "productivetrees:pomegranate_planks",
+      "productivetrees:pomegranate_planks",
+      "productivetrees:pomegranate_planks",
+      "productivetrees:pomegranate_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:pomelo_trapdoor": {
+    "result": "productivetrees:pomelo_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:pomelo_planks",
+      "productivetrees:pomelo_planks",
+      "productivetrees:pomelo_planks",
+      "productivetrees:pomelo_planks",
+      "productivetrees:pomelo_planks",
+      "productivetrees:pomelo_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:pomegranate_wood": {
+    "result": "productivetrees:pomegranate_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:pomegranate_log",
+      "productivetrees:pomegranate_log",
+      "",
+      "productivetrees:pomegranate_log",
+      "productivetrees:pomegranate_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:pomelo_wood": {
+    "result": "productivetrees:pomelo_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:pomelo_log",
+      "productivetrees:pomelo_log",
+      "",
+      "productivetrees:pomelo_log",
+      "productivetrees:pomelo_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pylons:potion_filter": {
+    "result": "pylons:potion_filter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:cyan_terracotta",
+      "minecraft:green",
+      "minecraft:cyan_terracotta",
+      "minecraft:glass",
+      "minecraft:emerald",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass"
+    ]
+  },
+  "railcraft:polished_abyssal_stone": {
+    "result": "railcraft:polished_abyssal_stone",
+    "count": 4,
+    "ingredients": [
+      "railcraft:abyssal_stone",
+      "railcraft:abyssal_stone",
+      "",
+      "railcraft:abyssal_stone",
+      "railcraft:abyssal_stone",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:polished_quarried_stone": {
+    "result": "railcraft:polished_quarried_stone",
+    "count": 4,
+    "ingredients": [
+      "railcraft:quarried_stone",
+      "railcraft:quarried_stone",
+      "",
+      "railcraft:quarried_stone",
+      "railcraft:quarried_stone",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:powered_rolling_machine": {
+    "result": "railcraft:powered_rolling_machine",
+    "count": 1,
+    "ingredients": [
+      "minecraft:steel",
+      "minecraft:piston",
+      "minecraft:steel",
+      "minecraft:piston",
+      "minecraft:crafting_table",
+      "minecraft:piston",
+      "minecraft:steel",
+      "railcraft:charge_motor",
+      "minecraft:steel"
+    ]
+  },
+  "refinedstorage:portable_grid": {
+    "result": "refinedstorage:portable_grid",
+    "count": 1,
+    "ingredients": [
+      "refinedstorage:quartz_enriched_iron",
+      "minecraft:grids",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:quartz_enriched_iron",
+      "minecraft:controllers",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:quartz_enriched_iron",
+      "minecraft:grids",
+      "refinedstorage:quartz_enriched_iron"
+    ]
+  },
+  "regions_unexplored:polished_chalk": {
+    "result": "regions_unexplored:polished_chalk",
+    "count": 4,
+    "ingredients": [
+      "regions_unexplored:chalk",
+      "regions_unexplored:chalk",
+      "",
+      "regions_unexplored:chalk",
+      "regions_unexplored:chalk",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:polished_chalk_slab": {
+    "result": "regions_unexplored:polished_chalk_slab",
+    "count": 6,
+    "ingredients": [
+      "regions_unexplored:polished_chalk",
+      "regions_unexplored:polished_chalk",
+      "regions_unexplored:polished_chalk",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:polished_chalk_stairs": {
+    "result": "regions_unexplored:polished_chalk_stairs",
+    "count": 4,
+    "ingredients": [
+      "regions_unexplored:polished_chalk",
+      "",
+      "",
+      "regions_unexplored:polished_chalk",
+      "regions_unexplored:polished_chalk",
+      "",
+      "regions_unexplored:polished_chalk",
+      "regions_unexplored:polished_chalk",
+      "regions_unexplored:polished_chalk"
+    ]
+  },
+  "rftoolspower:powercell_card": {
+    "result": "rftoolspower:powercell_card",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "minecraft:gold_nugget",
+      "minecraft:redstone",
+      "minecraft:gold_nugget",
+      "minecraft:paper",
+      "minecraft:gold_nugget",
+      "minecraft:redstone",
+      "minecraft:gold_nugget",
+      "minecraft:redstone"
+    ]
+  },
+  "rftoolspower:power_core1": {
+    "result": "rftoolspower:power_core1",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:diamond",
+      "",
+      "minecraft:redstone",
+      "minecraft:redstone_block",
+      "minecraft:redstone",
+      "",
+      "minecraft:redstone",
+      ""
+    ]
+  },
+  "rftoolspower:power_core2": {
+    "result": "rftoolspower:power_core2",
+    "count": 1,
+    "ingredients": [
+      "rftoolsbase:dimensionalshard",
+      "minecraft:emerald",
+      "rftoolsbase:dimensionalshard",
+      "minecraft:redstone",
+      "minecraft:redstone_block",
+      "minecraft:redstone",
+      "rftoolsbase:dimensionalshard",
+      "minecraft:redstone",
+      "rftoolsbase:dimensionalshard"
+    ]
+  },
+  "rftoolspower:power_core3": {
+    "result": "rftoolspower:power_core3",
+    "count": 1,
+    "ingredients": [
+      "rftoolsbase:dimensionalshard",
+      "minecraft:diamond",
+      "rftoolsbase:dimensionalshard",
+      "minecraft:redstone",
+      "minecraft:redstone_block",
+      "minecraft:redstone",
+      "rftoolsbase:dimensionalshard",
+      "minecraft:emerald",
+      "rftoolsbase:dimensionalshard"
+    ]
+  },
+  "rftoolspower:power_level": {
+    "result": "rftoolspower:power_level",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:glass",
+      "",
+      "minecraft:redstone",
+      "rftoolsbase:machine_base",
+      "minecraft:redstone",
+      "",
+      "minecraft:redstone_block",
+      ""
+    ]
+  },
+  "rftoolspower:power_monitor": {
+    "result": "rftoolspower:power_monitor",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:comparator",
+      "",
+      "minecraft:redstone",
+      "rftoolsbase:machine_base",
+      "minecraft:redstone",
+      "",
+      "minecraft:redstone_block",
+      ""
+    ]
+  },
+  "securitycraft:portable_radar": {
+    "result": "securitycraft:portable_radar",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:redstone_torch",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:redstone",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "securitycraft:portable_tune_player": {
+    "result": "securitycraft:portable_tune_player",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:redstone",
+      "minecraft:note_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgems:polished_alexandrite": {
+    "result": "silentgems:polished_alexandrite",
+    "count": 12,
+    "ingredients": [
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:alexandrite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite"
+    ]
+  },
+  "silentgems:polished_ammolite": {
+    "result": "silentgems:polished_ammolite",
+    "count": 12,
+    "ingredients": [
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:ammolite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite"
+    ]
+  },
+  "silentgems:polished_aquamarine": {
+    "result": "silentgems:polished_aquamarine",
+    "count": 12,
+    "ingredients": [
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:aquamarine",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite"
+    ]
+  },
+  "silentgems:polished_black_diamond": {
+    "result": "silentgems:polished_black_diamond",
+    "count": 12,
+    "ingredients": [
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:diamond",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite"
+    ]
+  },
+  "silentgems:polished_carnelian": {
+    "result": "silentgems:polished_carnelian",
+    "count": 12,
+    "ingredients": [
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:carnelian",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite"
+    ]
+  },
+  "silentgems:polished_citrine": {
+    "result": "silentgems:polished_citrine",
+    "count": 12,
+    "ingredients": [
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:citrine",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite"
+    ]
+  },
+  "silentgems:polished_garnet": {
+    "result": "silentgems:polished_garnet",
+    "count": 12,
+    "ingredients": [
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:garnet",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite"
+    ]
+  },
+  "silentgems:polished_heliodor": {
+    "result": "silentgems:polished_heliodor",
+    "count": 12,
+    "ingredients": [
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:heliodor",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite"
+    ]
+  },
+  "silentgems:polished_iolite": {
+    "result": "silentgems:polished_iolite",
+    "count": 12,
+    "ingredients": [
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:iolite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite"
+    ]
+  },
+  "silentgems:polished_kyanite": {
+    "result": "silentgems:polished_kyanite",
+    "count": 12,
+    "ingredients": [
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:kyanite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite"
+    ]
+  },
+  "silentgems:polished_moldavite": {
+    "result": "silentgems:polished_moldavite",
+    "count": 12,
+    "ingredients": [
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:moldavite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite"
+    ]
+  },
+  "silentgems:polished_opal": {
+    "result": "silentgems:polished_opal",
+    "count": 12,
+    "ingredients": [
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:opal",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite"
+    ]
+  },
+  "silentgems:polished_pearl": {
+    "result": "silentgems:polished_pearl",
+    "count": 12,
+    "ingredients": [
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:pearl",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite"
+    ]
+  },
+  "silentgems:polished_peridot": {
+    "result": "silentgems:polished_peridot",
+    "count": 12,
+    "ingredients": [
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:peridot",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite"
+    ]
+  },
+  "silentgems:polished_rose_quartz": {
+    "result": "silentgems:polished_rose_quartz",
+    "count": 12,
+    "ingredients": [
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:quartz",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite"
+    ]
+  },
+  "silentgems:polished_ruby": {
+    "result": "silentgems:polished_ruby",
+    "count": 12,
+    "ingredients": [
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:ruby",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite"
+    ]
+  },
+  "silentgems:polished_sapphire": {
+    "result": "silentgems:polished_sapphire",
+    "count": 12,
+    "ingredients": [
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:sapphire",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite"
+    ]
+  },
+  "silentgems:polished_tanzanite": {
+    "result": "silentgems:polished_tanzanite",
+    "count": 12,
+    "ingredients": [
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:tanzanite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite"
+    ]
+  },
+  "silentgems:polished_topaz": {
+    "result": "silentgems:polished_topaz",
+    "count": 12,
+    "ingredients": [
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:topaz",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite"
+    ]
+  },
+  "silentgems:polished_turquoise": {
+    "result": "silentgems:polished_turquoise",
+    "count": 12,
+    "ingredients": [
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:turquoise",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite"
+    ]
+  },
+  "silentgems:polished_white_diamond": {
+    "result": "silentgems:polished_white_diamond",
+    "count": 12,
+    "ingredients": [
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:diamond",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite"
+    ]
+  },
+  "silentgems:potato_on_a_stick": {
+    "result": "silentgems:potato_on_a_stick",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:baked_potato",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "toolbelt:pouch": {
+    "result": "toolbelt:pouch",
+    "count": 1,
+    "ingredients": [
+      "minecraft:string",
+      "minecraft:gold_ingot",
+      "minecraft:string",
+      "minecraft:leather",
+      "",
+      "minecraft:leather",
+      "minecraft:string",
+      "minecraft:leather",
+      "minecraft:string"
+    ]
+  },
+  "undergarden:polished_depthrock": {
+    "result": "undergarden:polished_depthrock",
+    "count": 4,
+    "ingredients": [
+      "undergarden:depthrock",
+      "undergarden:depthrock",
+      "",
+      "undergarden:depthrock",
+      "undergarden:depthrock",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:polished_depthrock_slab": {
+    "result": "undergarden:polished_depthrock_slab",
+    "count": 6,
+    "ingredients": [
+      "undergarden:polished_depthrock",
+      "undergarden:polished_depthrock",
+      "undergarden:polished_depthrock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:polished_depthrock_stairs": {
+    "result": "undergarden:polished_depthrock_stairs",
+    "count": 4,
+    "ingredients": [
+      "undergarden:polished_depthrock",
+      "",
+      "",
+      "undergarden:polished_depthrock",
+      "undergarden:polished_depthrock",
+      "",
+      "undergarden:polished_depthrock",
+      "undergarden:polished_depthrock",
+      "undergarden:polished_depthrock"
+    ]
+  },
+  "undergarden:polished_depthrock_wall": {
+    "result": "undergarden:polished_depthrock_wall",
+    "count": 6,
+    "ingredients": [
+      "undergarden:polished_depthrock",
+      "undergarden:polished_depthrock",
+      "undergarden:polished_depthrock",
+      "undergarden:polished_depthrock",
+      "undergarden:polished_depthrock",
+      "undergarden:polished_depthrock",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xycraft_machines:port_chemical": {
+    "result": "xycraft_machines:port_chemical",
+    "count": 4,
+    "ingredients": [
+      "minecraft:steel",
+      "minecraft:steel",
+      "minecraft:basic",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xycraft_machines:port_energy": {
+    "result": "xycraft_machines:port_energy",
+    "count": 4,
+    "ingredients": [
+      "minecraft:copper",
+      "minecraft:copper",
+      "minecraft:xychorium",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xycraft_machines:port_fluid": {
+    "result": "xycraft_machines:port_fluid",
+    "count": 4,
+    "ingredients": [
+      "minecraft:aluminum",
+      "minecraft:aluminum",
+      "minecraft:bucket",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xycraft_machines:port_item": {
+    "result": "xycraft_machines:port_item",
+    "count": 4,
+    "ingredients": [
+      "minecraft:brass_like",
+      "minecraft:brass_like",
+      "minecraft:chest",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xycraft_override:polished_blackstone_bricks_blue": {
+    "result": "xycraft_override:polished_blackstone_bricks_blue",
+    "count": 2,
+    "ingredients": [
+      "xycraft_world:xychorium_gem_blue",
+      "minecraft:polished_blackstone",
+      "",
+      "minecraft:polished_blackstone",
+      "xycraft_world:xychorium_gem_blue",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xycraft_override:polished_blackstone_bricks_dark": {
+    "result": "xycraft_override:polished_blackstone_bricks_dark",
+    "count": 2,
+    "ingredients": [
+      "xycraft_world:xychorium_gem_dark",
+      "minecraft:polished_blackstone",
+      "",
+      "minecraft:polished_blackstone",
+      "xycraft_world:xychorium_gem_dark",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xycraft_override:polished_blackstone_bricks_green": {
+    "result": "xycraft_override:polished_blackstone_bricks_green",
+    "count": 2,
+    "ingredients": [
+      "xycraft_world:xychorium_gem_green",
+      "minecraft:polished_blackstone",
+      "",
+      "minecraft:polished_blackstone",
+      "xycraft_world:xychorium_gem_green",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xycraft_override:polished_blackstone_bricks_light": {
+    "result": "xycraft_override:polished_blackstone_bricks_light",
+    "count": 2,
+    "ingredients": [
+      "xycraft_world:xychorium_gem_light",
+      "minecraft:polished_blackstone",
+      "",
+      "minecraft:polished_blackstone",
+      "xycraft_world:xychorium_gem_light",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xycraft_override:polished_blackstone_bricks_red": {
+    "result": "xycraft_override:polished_blackstone_bricks_red",
+    "count": 2,
+    "ingredients": [
+      "xycraft_world:xychorium_gem_red",
+      "minecraft:polished_blackstone",
+      "",
+      "minecraft:polished_blackstone",
+      "xycraft_world:xychorium_gem_red",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

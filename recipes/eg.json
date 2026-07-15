@@ -1,0 +1,182 @@
+{
+  "farmersdelight:egg_sandwich": {
+    "result": "farmersdelight:egg_sandwich",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bread",
+      "minecraft:cooked_egg",
+      "minecraft:cooked_egg",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "herbsandharvest:eggplant_seeds": {
+    "result": "herbsandharvest:eggplant_seeds",
+    "count": 1,
+    "ingredients": [
+      "herbsandharvest:eggplant",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:egg_nog": {
+    "result": "merrymaking:egg_nog",
+    "count": 1,
+    "ingredients": [
+      "minecraft:sugar",
+      "minecraft:milk_bucket",
+      "minecraft:egg",
+      "merrymaking:mug",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecolonies:eggdrop_soup": {
+    "result": "minecolonies:eggdrop_soup",
+    "count": 1,
+    "ingredients": [
+      "minecolonies:onion",
+      "minecolonies:onion",
+      "minecolonies:garlic",
+      "minecraft:egg",
+      "minecraft:egg",
+      "minecraft:chicken",
+      "minecraft:bowl",
+      "",
+      ""
+    ]
+  },
+  "minecraft:egg": {
+    "result": "minecraft:egg",
+    "count": 8,
+    "ingredients": [
+      "mysticalagriculture:chicken_essence",
+      "",
+      "mysticalagriculture:chicken_essence",
+      "",
+      "mysticalagriculture:chicken_essence",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2crops:eggplantseeditem": {
+    "result": "pamhc2crops:eggplantseeditem",
+    "count": 1,
+    "ingredients": [
+      "pamhc2crops:eggplantitem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:eggnogitem": {
+    "result": "pamhc2foodextended:eggnogitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:egg",
+      "minecraft:groundnutmeg",
+      "minecraft:groundcinnamon",
+      "minecraft:cream",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:eggplantparmitem": {
+    "result": "pamhc2foodextended:eggplantparmitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:eggplant",
+      "minecraft:tomato",
+      "minecraft:pasta",
+      "minecraft:cheese",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:eggrollitem": {
+    "result": "pamhc2foodextended:eggrollitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:dough",
+      "minecraft:cabbage",
+      "minecraft:rawmeats",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:eggsaladitem": {
+    "result": "pamhc2foodextended:eggsaladitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:egg",
+      "minecraft:mayonaise",
+      "minecraft:mustard",
+      "minecraft:spiceleaf",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:eggsbenedictitem": {
+    "result": "pamhc2foodextended:eggsbenedictitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:egg",
+      "pamhc2foodextended:biscuititem",
+      "minecraft:rawpork",
+      "minecraft:butter",
+      "minecraft:lemon",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:eggtartitem": {
+    "result": "pamhc2foodextended:eggtartitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:dough",
+      "minecraft:egg",
+      "minecraft:sugar",
+      "minecraft:water",
+      "minecraft:milk",
+      "",
+      "",
+      ""
+    ]
+  }
+}

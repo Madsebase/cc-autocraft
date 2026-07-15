@@ -1,0 +1,1757 @@
+{
+  "apothic_enchanting:scrap_tome": {
+    "result": "apothic_enchanting:scrap_tome",
+    "count": 8,
+    "ingredients": [
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:anvil",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book"
+    ]
+  },
+  "ars_controle:scroll_holder": {
+    "result": "ars_controle:scroll_holder",
+    "count": 1,
+    "ingredients": [
+      "ars_nouveau:sourcestone_slab",
+      "ars_nouveau:sourcestone_slab",
+      "ars_nouveau:sourcestone_slab",
+      "ars_nouveau:sourcestone_slab",
+      "",
+      "ars_nouveau:sourcestone_slab",
+      "ars_nouveau:sourcestone_slab",
+      "ars_nouveau:sourcestone_slab",
+      "ars_nouveau:sourcestone_slab"
+    ]
+  },
+  "ars_nouveau:sconce": {
+    "result": "ars_nouveau:sconce",
+    "count": 1,
+    "ingredients": [
+      "minecraft:source",
+      "minecraft:gold",
+      "minecraft:gold",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_nouveau:scribes_table": {
+    "result": "ars_nouveau:scribes_table",
+    "count": 1,
+    "ingredients": [
+      "ars_nouveau:archwood_slab",
+      "ars_nouveau:archwood_slab",
+      "ars_nouveau:archwood_slab",
+      "minecraft:gold",
+      "",
+      "minecraft:gold",
+      "minecraft:oak_log",
+      "",
+      "minecraft:oak_log"
+    ]
+  },
+  "ars_nouveau:scryers_crystal": {
+    "result": "ars_nouveau:scryers_crystal",
+    "count": 1,
+    "ingredients": [
+      "minecraft:ender_eye",
+      "minecraft:source",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "connectedglass:scratched_glass": {
+    "result": "connectedglass:scratched_glass",
+    "count": 4,
+    "ingredients": [
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "connectedglass:scratched_glass_black": {
+    "result": "connectedglass:scratched_glass_black",
+    "count": 8,
+    "ingredients": [
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "minecraft:black",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass"
+    ]
+  },
+  "connectedglass:scratched_glass_black_pane": {
+    "result": "connectedglass:scratched_glass_black_pane",
+    "count": 16,
+    "ingredients": [
+      "connectedglass:scratched_glass_black",
+      "connectedglass:scratched_glass_black",
+      "connectedglass:scratched_glass_black",
+      "connectedglass:scratched_glass_black",
+      "connectedglass:scratched_glass_black",
+      "connectedglass:scratched_glass_black",
+      "",
+      "",
+      ""
+    ]
+  },
+  "connectedglass:scratched_glass_blue": {
+    "result": "connectedglass:scratched_glass_blue",
+    "count": 8,
+    "ingredients": [
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "minecraft:blue",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass"
+    ]
+  },
+  "connectedglass:scratched_glass_blue_pane": {
+    "result": "connectedglass:scratched_glass_blue_pane",
+    "count": 16,
+    "ingredients": [
+      "connectedglass:scratched_glass_blue",
+      "connectedglass:scratched_glass_blue",
+      "connectedglass:scratched_glass_blue",
+      "connectedglass:scratched_glass_blue",
+      "connectedglass:scratched_glass_blue",
+      "connectedglass:scratched_glass_blue",
+      "",
+      "",
+      ""
+    ]
+  },
+  "connectedglass:scratched_glass_brown": {
+    "result": "connectedglass:scratched_glass_brown",
+    "count": 8,
+    "ingredients": [
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "minecraft:brown",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass"
+    ]
+  },
+  "connectedglass:scratched_glass_brown_pane": {
+    "result": "connectedglass:scratched_glass_brown_pane",
+    "count": 16,
+    "ingredients": [
+      "connectedglass:scratched_glass_brown",
+      "connectedglass:scratched_glass_brown",
+      "connectedglass:scratched_glass_brown",
+      "connectedglass:scratched_glass_brown",
+      "connectedglass:scratched_glass_brown",
+      "connectedglass:scratched_glass_brown",
+      "",
+      "",
+      ""
+    ]
+  },
+  "connectedglass:scratched_glass_cyan": {
+    "result": "connectedglass:scratched_glass_cyan",
+    "count": 8,
+    "ingredients": [
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "minecraft:cyan",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass"
+    ]
+  },
+  "connectedglass:scratched_glass_cyan_pane": {
+    "result": "connectedglass:scratched_glass_cyan_pane",
+    "count": 16,
+    "ingredients": [
+      "connectedglass:scratched_glass_cyan",
+      "connectedglass:scratched_glass_cyan",
+      "connectedglass:scratched_glass_cyan",
+      "connectedglass:scratched_glass_cyan",
+      "connectedglass:scratched_glass_cyan",
+      "connectedglass:scratched_glass_cyan",
+      "",
+      "",
+      ""
+    ]
+  },
+  "connectedglass:scratched_glass_gray": {
+    "result": "connectedglass:scratched_glass_gray",
+    "count": 8,
+    "ingredients": [
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "minecraft:gray",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass"
+    ]
+  },
+  "connectedglass:scratched_glass_gray_pane": {
+    "result": "connectedglass:scratched_glass_gray_pane",
+    "count": 16,
+    "ingredients": [
+      "connectedglass:scratched_glass_gray",
+      "connectedglass:scratched_glass_gray",
+      "connectedglass:scratched_glass_gray",
+      "connectedglass:scratched_glass_gray",
+      "connectedglass:scratched_glass_gray",
+      "connectedglass:scratched_glass_gray",
+      "",
+      "",
+      ""
+    ]
+  },
+  "connectedglass:scratched_glass_green": {
+    "result": "connectedglass:scratched_glass_green",
+    "count": 8,
+    "ingredients": [
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "minecraft:green",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass"
+    ]
+  },
+  "connectedglass:scratched_glass_green_pane": {
+    "result": "connectedglass:scratched_glass_green_pane",
+    "count": 16,
+    "ingredients": [
+      "connectedglass:scratched_glass_green",
+      "connectedglass:scratched_glass_green",
+      "connectedglass:scratched_glass_green",
+      "connectedglass:scratched_glass_green",
+      "connectedglass:scratched_glass_green",
+      "connectedglass:scratched_glass_green",
+      "",
+      "",
+      ""
+    ]
+  },
+  "connectedglass:scratched_glass_light_blue": {
+    "result": "connectedglass:scratched_glass_light_blue",
+    "count": 8,
+    "ingredients": [
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "minecraft:light_blue",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass"
+    ]
+  },
+  "connectedglass:scratched_glass_light_blue_pane": {
+    "result": "connectedglass:scratched_glass_light_blue_pane",
+    "count": 16,
+    "ingredients": [
+      "connectedglass:scratched_glass_light_blue",
+      "connectedglass:scratched_glass_light_blue",
+      "connectedglass:scratched_glass_light_blue",
+      "connectedglass:scratched_glass_light_blue",
+      "connectedglass:scratched_glass_light_blue",
+      "connectedglass:scratched_glass_light_blue",
+      "",
+      "",
+      ""
+    ]
+  },
+  "connectedglass:scratched_glass_light_gray": {
+    "result": "connectedglass:scratched_glass_light_gray",
+    "count": 8,
+    "ingredients": [
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "minecraft:light_gray",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass"
+    ]
+  },
+  "connectedglass:scratched_glass_light_gray_pane": {
+    "result": "connectedglass:scratched_glass_light_gray_pane",
+    "count": 16,
+    "ingredients": [
+      "connectedglass:scratched_glass_light_gray",
+      "connectedglass:scratched_glass_light_gray",
+      "connectedglass:scratched_glass_light_gray",
+      "connectedglass:scratched_glass_light_gray",
+      "connectedglass:scratched_glass_light_gray",
+      "connectedglass:scratched_glass_light_gray",
+      "",
+      "",
+      ""
+    ]
+  },
+  "connectedglass:scratched_glass_lime": {
+    "result": "connectedglass:scratched_glass_lime",
+    "count": 8,
+    "ingredients": [
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "minecraft:lime",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass"
+    ]
+  },
+  "connectedglass:scratched_glass_lime_pane": {
+    "result": "connectedglass:scratched_glass_lime_pane",
+    "count": 16,
+    "ingredients": [
+      "connectedglass:scratched_glass_lime",
+      "connectedglass:scratched_glass_lime",
+      "connectedglass:scratched_glass_lime",
+      "connectedglass:scratched_glass_lime",
+      "connectedglass:scratched_glass_lime",
+      "connectedglass:scratched_glass_lime",
+      "",
+      "",
+      ""
+    ]
+  },
+  "connectedglass:scratched_glass_magenta": {
+    "result": "connectedglass:scratched_glass_magenta",
+    "count": 8,
+    "ingredients": [
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "minecraft:magenta",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass"
+    ]
+  },
+  "connectedglass:scratched_glass_magenta_pane": {
+    "result": "connectedglass:scratched_glass_magenta_pane",
+    "count": 16,
+    "ingredients": [
+      "connectedglass:scratched_glass_magenta",
+      "connectedglass:scratched_glass_magenta",
+      "connectedglass:scratched_glass_magenta",
+      "connectedglass:scratched_glass_magenta",
+      "connectedglass:scratched_glass_magenta",
+      "connectedglass:scratched_glass_magenta",
+      "",
+      "",
+      ""
+    ]
+  },
+  "connectedglass:scratched_glass_orange": {
+    "result": "connectedglass:scratched_glass_orange",
+    "count": 8,
+    "ingredients": [
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "minecraft:orange",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass"
+    ]
+  },
+  "connectedglass:scratched_glass_orange_pane": {
+    "result": "connectedglass:scratched_glass_orange_pane",
+    "count": 16,
+    "ingredients": [
+      "connectedglass:scratched_glass_orange",
+      "connectedglass:scratched_glass_orange",
+      "connectedglass:scratched_glass_orange",
+      "connectedglass:scratched_glass_orange",
+      "connectedglass:scratched_glass_orange",
+      "connectedglass:scratched_glass_orange",
+      "",
+      "",
+      ""
+    ]
+  },
+  "connectedglass:scratched_glass_pane": {
+    "result": "connectedglass:scratched_glass_pane",
+    "count": 16,
+    "ingredients": [
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "",
+      "",
+      ""
+    ]
+  },
+  "connectedglass:scratched_glass_pink": {
+    "result": "connectedglass:scratched_glass_pink",
+    "count": 8,
+    "ingredients": [
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "minecraft:pink",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass"
+    ]
+  },
+  "connectedglass:scratched_glass_pink_pane": {
+    "result": "connectedglass:scratched_glass_pink_pane",
+    "count": 16,
+    "ingredients": [
+      "connectedglass:scratched_glass_pink",
+      "connectedglass:scratched_glass_pink",
+      "connectedglass:scratched_glass_pink",
+      "connectedglass:scratched_glass_pink",
+      "connectedglass:scratched_glass_pink",
+      "connectedglass:scratched_glass_pink",
+      "",
+      "",
+      ""
+    ]
+  },
+  "connectedglass:scratched_glass_purple": {
+    "result": "connectedglass:scratched_glass_purple",
+    "count": 8,
+    "ingredients": [
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "minecraft:purple",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass"
+    ]
+  },
+  "connectedglass:scratched_glass_purple_pane": {
+    "result": "connectedglass:scratched_glass_purple_pane",
+    "count": 16,
+    "ingredients": [
+      "connectedglass:scratched_glass_purple",
+      "connectedglass:scratched_glass_purple",
+      "connectedglass:scratched_glass_purple",
+      "connectedglass:scratched_glass_purple",
+      "connectedglass:scratched_glass_purple",
+      "connectedglass:scratched_glass_purple",
+      "",
+      "",
+      ""
+    ]
+  },
+  "connectedglass:scratched_glass_red": {
+    "result": "connectedglass:scratched_glass_red",
+    "count": 8,
+    "ingredients": [
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "minecraft:red",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass"
+    ]
+  },
+  "connectedglass:scratched_glass_red_pane": {
+    "result": "connectedglass:scratched_glass_red_pane",
+    "count": 16,
+    "ingredients": [
+      "connectedglass:scratched_glass_red",
+      "connectedglass:scratched_glass_red",
+      "connectedglass:scratched_glass_red",
+      "connectedglass:scratched_glass_red",
+      "connectedglass:scratched_glass_red",
+      "connectedglass:scratched_glass_red",
+      "",
+      "",
+      ""
+    ]
+  },
+  "connectedglass:scratched_glass_white": {
+    "result": "connectedglass:scratched_glass_white",
+    "count": 8,
+    "ingredients": [
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "minecraft:white",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass"
+    ]
+  },
+  "connectedglass:scratched_glass_white_pane": {
+    "result": "connectedglass:scratched_glass_white_pane",
+    "count": 16,
+    "ingredients": [
+      "connectedglass:scratched_glass_white",
+      "connectedglass:scratched_glass_white",
+      "connectedglass:scratched_glass_white",
+      "connectedglass:scratched_glass_white",
+      "connectedglass:scratched_glass_white",
+      "connectedglass:scratched_glass_white",
+      "",
+      "",
+      ""
+    ]
+  },
+  "connectedglass:scratched_glass_yellow": {
+    "result": "connectedglass:scratched_glass_yellow",
+    "count": 8,
+    "ingredients": [
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "minecraft:yellow",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass",
+      "connectedglass:scratched_glass"
+    ]
+  },
+  "connectedglass:scratched_glass_yellow_pane": {
+    "result": "connectedglass:scratched_glass_yellow_pane",
+    "count": 16,
+    "ingredients": [
+      "connectedglass:scratched_glass_yellow",
+      "connectedglass:scratched_glass_yellow",
+      "connectedglass:scratched_glass_yellow",
+      "connectedglass:scratched_glass_yellow",
+      "connectedglass:scratched_glass_yellow",
+      "connectedglass:scratched_glass_yellow",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:schedule": {
+    "result": "create:schedule",
+    "count": 4,
+    "ingredients": [
+      "minecraft:obsidian",
+      "minecraft:paper",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:scorchia": {
+    "result": "create:scorchia",
+    "count": 8,
+    "ingredients": [
+      "create:scoria",
+      "create:scoria",
+      "create:scoria",
+      "create:scoria",
+      "minecraft:black",
+      "create:scoria",
+      "create:scoria",
+      "create:scoria",
+      "create:scoria"
+    ]
+  },
+  "create:schematicannon": {
+    "result": "create:schematicannon",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:iron_block",
+      "",
+      "minecraft:oak_log",
+      "minecraft:iron_block",
+      "minecraft:oak_log",
+      "minecraft:smooth_stone",
+      "minecraft:dispenser",
+      "minecraft:smooth_stone"
+    ]
+  },
+  "create:schematic_and_quill": {
+    "result": "create:schematic_and_quill",
+    "count": 1,
+    "ingredients": [
+      "create:empty_schematic",
+      "minecraft:feather",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:schematic_table": {
+    "result": "create:schematic_table",
+    "count": 1,
+    "ingredients": [
+      "minecraft:wooden_slabs",
+      "minecraft:wooden_slabs",
+      "minecraft:wooden_slabs",
+      "",
+      "minecraft:smooth_stone",
+      "",
+      "",
+      "minecraft:smooth_stone",
+      ""
+    ]
+  },
+  "deeperdarker:sculk_grime": {
+    "result": "deeperdarker:sculk_grime",
+    "count": 1,
+    "ingredients": [
+      "deeperdarker:grime_ball",
+      "deeperdarker:grime_ball",
+      "",
+      "deeperdarker:grime_ball",
+      "deeperdarker:grime_ball",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "deeperdarker:sculk_grime_bricks": {
+    "result": "deeperdarker:sculk_grime_bricks",
+    "count": 1,
+    "ingredients": [
+      "deeperdarker:grime_brick",
+      "deeperdarker:grime_brick",
+      "",
+      "deeperdarker:grime_brick",
+      "deeperdarker:grime_brick",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "deeperdarker:sculk_grime_brick_slab": {
+    "result": "deeperdarker:sculk_grime_brick_slab",
+    "count": 6,
+    "ingredients": [
+      "deeperdarker:sculk_grime_bricks",
+      "deeperdarker:sculk_grime_bricks",
+      "deeperdarker:sculk_grime_bricks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "deeperdarker:sculk_grime_brick_stairs": {
+    "result": "deeperdarker:sculk_grime_brick_stairs",
+    "count": 4,
+    "ingredients": [
+      "deeperdarker:sculk_grime_bricks",
+      "",
+      "",
+      "deeperdarker:sculk_grime_bricks",
+      "deeperdarker:sculk_grime_bricks",
+      "",
+      "deeperdarker:sculk_grime_bricks",
+      "deeperdarker:sculk_grime_bricks",
+      "deeperdarker:sculk_grime_bricks"
+    ]
+  },
+  "deeperdarker:sculk_grime_brick_wall": {
+    "result": "deeperdarker:sculk_grime_brick_wall",
+    "count": 6,
+    "ingredients": [
+      "deeperdarker:sculk_grime_bricks",
+      "deeperdarker:sculk_grime_bricks",
+      "deeperdarker:sculk_grime_bricks",
+      "deeperdarker:sculk_grime_bricks",
+      "deeperdarker:sculk_grime_bricks",
+      "deeperdarker:sculk_grime_bricks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "deeperdarker:sculk_stone_bricks": {
+    "result": "deeperdarker:sculk_stone_bricks",
+    "count": 4,
+    "ingredients": [
+      "deeperdarker:polished_sculk_stone",
+      "deeperdarker:polished_sculk_stone",
+      "",
+      "deeperdarker:polished_sculk_stone",
+      "deeperdarker:polished_sculk_stone",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "deeperdarker:sculk_stone_brick_slab": {
+    "result": "deeperdarker:sculk_stone_brick_slab",
+    "count": 6,
+    "ingredients": [
+      "deeperdarker:sculk_stone_bricks",
+      "deeperdarker:sculk_stone_bricks",
+      "deeperdarker:sculk_stone_bricks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "deeperdarker:sculk_stone_brick_stairs": {
+    "result": "deeperdarker:sculk_stone_brick_stairs",
+    "count": 4,
+    "ingredients": [
+      "deeperdarker:sculk_stone_bricks",
+      "",
+      "",
+      "deeperdarker:sculk_stone_bricks",
+      "deeperdarker:sculk_stone_bricks",
+      "",
+      "deeperdarker:sculk_stone_bricks",
+      "deeperdarker:sculk_stone_bricks",
+      "deeperdarker:sculk_stone_bricks"
+    ]
+  },
+  "deeperdarker:sculk_stone_brick_wall": {
+    "result": "deeperdarker:sculk_stone_brick_wall",
+    "count": 6,
+    "ingredients": [
+      "deeperdarker:sculk_stone_bricks",
+      "deeperdarker:sculk_stone_bricks",
+      "deeperdarker:sculk_stone_bricks",
+      "deeperdarker:sculk_stone_bricks",
+      "deeperdarker:sculk_stone_bricks",
+      "deeperdarker:sculk_stone_bricks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "deeperdarker:sculk_stone_slab": {
+    "result": "deeperdarker:sculk_stone_slab",
+    "count": 6,
+    "ingredients": [
+      "deeperdarker:sculk_stone",
+      "deeperdarker:sculk_stone",
+      "deeperdarker:sculk_stone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "deeperdarker:sculk_stone_stairs": {
+    "result": "deeperdarker:sculk_stone_stairs",
+    "count": 4,
+    "ingredients": [
+      "deeperdarker:sculk_stone",
+      "",
+      "",
+      "deeperdarker:sculk_stone",
+      "deeperdarker:sculk_stone",
+      "",
+      "deeperdarker:sculk_stone",
+      "deeperdarker:sculk_stone",
+      "deeperdarker:sculk_stone"
+    ]
+  },
+  "deeperdarker:sculk_stone_tiles": {
+    "result": "deeperdarker:sculk_stone_tiles",
+    "count": 4,
+    "ingredients": [
+      "deeperdarker:sculk_stone_bricks",
+      "deeperdarker:sculk_stone_bricks",
+      "",
+      "deeperdarker:sculk_stone_bricks",
+      "deeperdarker:sculk_stone_bricks",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "deeperdarker:sculk_stone_tile_slab": {
+    "result": "deeperdarker:sculk_stone_tile_slab",
+    "count": 6,
+    "ingredients": [
+      "deeperdarker:sculk_stone_tiles",
+      "deeperdarker:sculk_stone_tiles",
+      "deeperdarker:sculk_stone_tiles",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "deeperdarker:sculk_stone_tile_stairs": {
+    "result": "deeperdarker:sculk_stone_tile_stairs",
+    "count": 4,
+    "ingredients": [
+      "deeperdarker:sculk_stone_tiles",
+      "",
+      "",
+      "deeperdarker:sculk_stone_tiles",
+      "deeperdarker:sculk_stone_tiles",
+      "",
+      "deeperdarker:sculk_stone_tiles",
+      "deeperdarker:sculk_stone_tiles",
+      "deeperdarker:sculk_stone_tiles"
+    ]
+  },
+  "deeperdarker:sculk_stone_tile_wall": {
+    "result": "deeperdarker:sculk_stone_tile_wall",
+    "count": 6,
+    "ingredients": [
+      "deeperdarker:sculk_stone_tiles",
+      "deeperdarker:sculk_stone_tiles",
+      "deeperdarker:sculk_stone_tiles",
+      "deeperdarker:sculk_stone_tiles",
+      "deeperdarker:sculk_stone_tiles",
+      "deeperdarker:sculk_stone_tiles",
+      "",
+      "",
+      ""
+    ]
+  },
+  "deeperdarker:sculk_stone_wall": {
+    "result": "deeperdarker:sculk_stone_wall",
+    "count": 6,
+    "ingredients": [
+      "deeperdarker:sculk_stone",
+      "deeperdarker:sculk_stone",
+      "deeperdarker:sculk_stone",
+      "deeperdarker:sculk_stone",
+      "deeperdarker:sculk_stone",
+      "deeperdarker:sculk_stone",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:scarlet_boat": {
+    "result": "eternal_starlight:scarlet_boat",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:scarlet_planks",
+      "",
+      "eternal_starlight:scarlet_planks",
+      "eternal_starlight:scarlet_planks",
+      "eternal_starlight:scarlet_planks",
+      "eternal_starlight:scarlet_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:scarlet_button": {
+    "result": "eternal_starlight:scarlet_button",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:scarlet_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:scarlet_chest_boat": {
+    "result": "eternal_starlight:scarlet_chest_boat",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:scarlet_boat",
+      "minecraft:chest",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:scarlet_door": {
+    "result": "eternal_starlight:scarlet_door",
+    "count": 3,
+    "ingredients": [
+      "eternal_starlight:scarlet_planks",
+      "eternal_starlight:scarlet_planks",
+      "",
+      "eternal_starlight:scarlet_planks",
+      "eternal_starlight:scarlet_planks",
+      "",
+      "eternal_starlight:scarlet_planks",
+      "eternal_starlight:scarlet_planks",
+      ""
+    ]
+  },
+  "eternal_starlight:scarlet_fence": {
+    "result": "eternal_starlight:scarlet_fence",
+    "count": 3,
+    "ingredients": [
+      "eternal_starlight:scarlet_planks",
+      "minecraft:stick",
+      "eternal_starlight:scarlet_planks",
+      "eternal_starlight:scarlet_planks",
+      "minecraft:stick",
+      "eternal_starlight:scarlet_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:scarlet_fence_gate": {
+    "result": "eternal_starlight:scarlet_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "eternal_starlight:scarlet_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "eternal_starlight:scarlet_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:scarlet_hanging_sign": {
+    "result": "eternal_starlight:scarlet_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "eternal_starlight:stripped_scarlet_log",
+      "eternal_starlight:stripped_scarlet_log",
+      "eternal_starlight:stripped_scarlet_log",
+      "eternal_starlight:stripped_scarlet_log",
+      "eternal_starlight:stripped_scarlet_log",
+      "eternal_starlight:stripped_scarlet_log"
+    ]
+  },
+  "eternal_starlight:scarlet_planks": {
+    "result": "eternal_starlight:scarlet_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:scarlet_pressure_plate": {
+    "result": "eternal_starlight:scarlet_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:scarlet_planks",
+      "eternal_starlight:scarlet_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:scarlet_sign": {
+    "result": "eternal_starlight:scarlet_sign",
+    "count": 3,
+    "ingredients": [
+      "eternal_starlight:scarlet_planks",
+      "eternal_starlight:scarlet_planks",
+      "eternal_starlight:scarlet_planks",
+      "eternal_starlight:scarlet_planks",
+      "eternal_starlight:scarlet_planks",
+      "eternal_starlight:scarlet_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "eternal_starlight:scarlet_slab": {
+    "result": "eternal_starlight:scarlet_slab",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:scarlet_planks",
+      "eternal_starlight:scarlet_planks",
+      "eternal_starlight:scarlet_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:scarlet_stairs": {
+    "result": "eternal_starlight:scarlet_stairs",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:scarlet_planks",
+      "",
+      "",
+      "eternal_starlight:scarlet_planks",
+      "eternal_starlight:scarlet_planks",
+      "",
+      "eternal_starlight:scarlet_planks",
+      "eternal_starlight:scarlet_planks",
+      "eternal_starlight:scarlet_planks"
+    ]
+  },
+  "eternal_starlight:scarlet_starfire_bird_aviary": {
+    "result": "eternal_starlight:scarlet_starfire_bird_aviary",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:scarlet_planks",
+      "eternal_starlight:scarlet_planks",
+      "eternal_starlight:scarlet_planks",
+      "eternal_starlight:starfire",
+      "eternal_starlight:starfire",
+      "eternal_starlight:starfire",
+      "eternal_starlight:scarlet_planks",
+      "eternal_starlight:scarlet_planks",
+      "eternal_starlight:scarlet_planks"
+    ]
+  },
+  "eternal_starlight:scarlet_trapdoor": {
+    "result": "eternal_starlight:scarlet_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "eternal_starlight:scarlet_planks",
+      "eternal_starlight:scarlet_planks",
+      "eternal_starlight:scarlet_planks",
+      "eternal_starlight:scarlet_planks",
+      "eternal_starlight:scarlet_planks",
+      "eternal_starlight:scarlet_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:scarlet_wood": {
+    "result": "eternal_starlight:scarlet_wood",
+    "count": 3,
+    "ingredients": [
+      "eternal_starlight:scarlet_log",
+      "eternal_starlight:scarlet_log",
+      "",
+      "eternal_starlight:scarlet_log",
+      "eternal_starlight:scarlet_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "evilcraft:sceptre_of_thunder": {
+    "result": "evilcraft:sceptre_of_thunder",
+    "count": 1,
+    "ingredients": [
+      "",
+      "evilcraft:dark_gem",
+      "evilcraft:blood_orb_filled",
+      "",
+      "minecraft:blaze_rod",
+      "evilcraft:dark_gem",
+      "minecraft:blaze_rod",
+      "",
+      ""
+    ]
+  },
+  "minecraft:scaffolding": {
+    "result": "minecraft:scaffolding",
+    "count": 6,
+    "ingredients": [
+      "minecraft:stick",
+      "undergarden:twistytwig",
+      "minecraft:stick",
+      "minecraft:stick",
+      "",
+      "minecraft:stick",
+      "minecraft:stick",
+      "",
+      "minecraft:stick"
+    ]
+  },
+  "ftbquests:screen_1": {
+    "result": "ftbquests:screen_1",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "book",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone"
+    ]
+  },
+  "ftbquests:screen_3": {
+    "result": "ftbquests:screen_3",
+    "count": 1,
+    "ingredients": [
+      "ftbquests:screen_1",
+      "ftbquests:screen_1",
+      "ftbquests:screen_1",
+      "ftbquests:screen_1",
+      "ftbquests:screen_1",
+      "ftbquests:screen_1",
+      "ftbquests:screen_1",
+      "ftbquests:screen_1",
+      "ftbquests:screen_1"
+    ]
+  },
+  "ftbquests:screen_5": {
+    "result": "ftbquests:screen_5",
+    "count": 1,
+    "ingredients": [
+      "ftbquests:screen_3",
+      "ftbquests:screen_1",
+      "ftbquests:screen_3",
+      "ftbquests:screen_1",
+      "ftbquests:screen_1",
+      "ftbquests:screen_1",
+      "ftbquests:screen_1",
+      "ftbquests:screen_1",
+      "ftbquests:screen_1"
+    ]
+  },
+  "ftbquests:screen_7": {
+    "result": "ftbquests:screen_7",
+    "count": 1,
+    "ingredients": [
+      "ftbquests:screen_3",
+      "ftbquests:screen_5",
+      "ftbquests:screen_3",
+      "ftbquests:screen_1",
+      "ftbquests:screen_1",
+      "ftbquests:screen_1",
+      "ftbquests:screen_1",
+      "ftbquests:screen_1",
+      "ftbquests:screen_1"
+    ]
+  },
+  "immersiveengineering:screwdriver": {
+    "result": "immersiveengineering:screwdriver",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:iron",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "integratedscripting:scripting_disk": {
+    "result": "integratedscripting:scripting_disk",
+    "count": 8,
+    "ingredients": [
+      "",
+      "integrateddynamics:variable",
+      "",
+      "integrateddynamics:variable",
+      "integratedscripting:mendesite",
+      "integrateddynamics:variable",
+      "",
+      "integrateddynamics:variable",
+      ""
+    ]
+  },
+  "integratedscripting:scripting_drive": {
+    "result": "integratedscripting:scripting_drive",
+    "count": 1,
+    "ingredients": [
+      "",
+      "integratedscripting:scripting_disk",
+      "",
+      "integratedscripting:scripting_disk",
+      "integrateddynamics:variablestore",
+      "integratedscripting:scripting_disk",
+      "",
+      "minecraft:jukebox",
+      ""
+    ]
+  },
+  "irons_spellbooks:scroll_forge": {
+    "result": "irons_spellbooks:scroll_forge",
+    "count": 1,
+    "ingredients": [
+      "minecraft:polished_deepslate",
+      "minecraft:polished_deepslate",
+      "minecraft:polished_deepslate",
+      "",
+      "minecraft:crying_obsidian",
+      "",
+      "minecraft:crying_obsidian",
+      "minecraft:crying_obsidian",
+      "minecraft:crying_obsidian"
+    ]
+  },
+  "mcwholidays:scarecrow": {
+    "result": "mcwholidays:scarecrow",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:carved_pumpkin",
+      "",
+      "minecraft:wheat",
+      "minecraft:hay_block",
+      "minecraft:wheat",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mekanism:scuba_mask": {
+    "result": "mekanism:scuba_mask",
+    "count": 1,
+    "ingredients": [
+      "",
+      "modern_industrialization:steel_ingot",
+      "",
+      "minecraft:glass",
+      "minecraft:basic",
+      "minecraft:glass",
+      "modern_industrialization:steel_ingot",
+      "",
+      "modern_industrialization:steel_ingot"
+    ]
+  },
+  "mffs:scale_module": {
+    "result": "mffs:scale_module",
+    "count": 2,
+    "ingredients": [
+      "mffs:focus_matrix",
+      "",
+      "mffs:focus_matrix",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modularbees:scented_plank": {
+    "result": "modularbees:scented_plank",
+    "count": 3,
+    "ingredients": [
+      "productivebees:wax",
+      "modularbees:honey_jelly",
+      "productivebees:wax",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "productivebees:wax",
+      "modularbees:honey_jelly",
+      "productivebees:wax"
+    ]
+  },
+  "minecraft:sculk": {
+    "result": "minecraft:sculk",
+    "count": 16,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "mysticalagriculture:sculk_essence",
+      "mysticalagriculture:sculk_essence",
+      "mysticalagriculture:sculk_essence",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:sculk_catalyst": {
+    "result": "minecraft:sculk_catalyst",
+    "count": 3,
+    "ingredients": [
+      "mysticalagriculture:sculk_essence",
+      "mysticalagriculture:sculk_essence",
+      "mysticalagriculture:sculk_essence",
+      "mysticalagriculture:sculk_essence",
+      "",
+      "mysticalagriculture:sculk_essence",
+      "mysticalagriculture:sculk_essence",
+      "mysticalagriculture:sculk_essence",
+      "mysticalagriculture:sculk_essence"
+    ]
+  },
+  "minecraft:sculk_sensor": {
+    "result": "minecraft:sculk_sensor",
+    "count": 2,
+    "ingredients": [
+      "mysticalagriculture:sculk_essence",
+      "mysticalagriculture:sculk_essence",
+      "mysticalagriculture:sculk_essence",
+      "",
+      "mysticalagriculture:sculk_essence",
+      "",
+      "mysticalagriculture:sculk_essence",
+      "mysticalagriculture:sculk_essence",
+      "mysticalagriculture:sculk_essence"
+    ]
+  },
+  "minecraft:sculk_shrieker": {
+    "result": "minecraft:sculk_shrieker",
+    "count": 2,
+    "ingredients": [
+      "mysticalagriculture:sculk_essence",
+      "",
+      "mysticalagriculture:sculk_essence",
+      "mysticalagriculture:sculk_essence",
+      "mysticalagriculture:sculk_essence",
+      "mysticalagriculture:sculk_essence",
+      "mysticalagriculture:sculk_essence",
+      "",
+      "mysticalagriculture:sculk_essence"
+    ]
+  },
+  "minecraft:sculk_vein": {
+    "result": "minecraft:sculk_vein",
+    "count": 12,
+    "ingredients": [
+      "",
+      "mysticalagriculture:sculk_essence",
+      "",
+      "",
+      "mysticalagriculture:sculk_essence",
+      "",
+      "",
+      "mysticalagriculture:sculk_essence",
+      ""
+    ]
+  },
+  "oritech:sculk_paint": {
+    "result": "oritech:sculk_paint",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:sculk",
+      "",
+      "minecraft:plastic",
+      "oritech:enderic_compound",
+      "minecraft:plastic",
+      "",
+      "minecraft:sculk",
+      ""
+    ]
+  },
+  "pamhc2crops:scallionseeditem": {
+    "result": "pamhc2crops:scallionseeditem",
+    "count": 1,
+    "ingredients": [
+      "pamhc2crops:scallionitem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:scrambledeggitem": {
+    "result": "pamhc2foodcore:scrambledeggitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_skillet",
+      "minecraft:egg",
+      "minecraft:milk",
+      "minecraft:salt",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:scallionbakedpotatoitem": {
+    "result": "pamhc2foodextended:scallionbakedpotatoitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:baked_potato",
+      "minecraft:scallion",
+      "minecraft:cream",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:schnitzelitem": {
+    "result": "pamhc2foodextended:schnitzelitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_skillet",
+      "minecraft:rawpork",
+      "minecraft:flour",
+      "minecraft:lemon",
+      "minecraft:cookingoil",
+      "minecraft:blackpepper",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pneumaticcraft:scuba_upgrade": {
+    "result": "pneumaticcraft:scuba_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:upgrade_components",
+      "pneumaticcraft:advanced_pressure_tube",
+      "minecraft:upgrade_components",
+      "minecraft:plastic_sheets",
+      "pneumaticcraft:regulator_tube_module",
+      "minecraft:plastic_sheets",
+      "minecraft:upgrade_components",
+      "minecraft:plastic_sheets",
+      "minecraft:upgrade_components"
+    ]
+  },
+  "rftoolsbuilder:scanner": {
+    "result": "rftoolsbuilder:scanner",
+    "count": 1,
+    "ingredients": [
+      "rftoolsbase:infused_diamond",
+      "minecraft:ender_pearl",
+      "rftoolsbase:infused_diamond",
+      "minecraft:quartz",
+      "rftoolsbase:machine_frame",
+      "minecraft:quartz",
+      "rftoolsbase:infused_diamond",
+      "minecraft:redstone",
+      "rftoolsbase:infused_diamond"
+    ]
+  },
+  "rftoolsutility:screen": {
+    "result": "rftoolsutility:screen",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "rftoolsbase:machine_base",
+      "minecraft:glass",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "rftoolsutility:screen_controller": {
+    "result": "rftoolsutility:screen_controller",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "minecraft:ender_pearl",
+      "minecraft:redstone",
+      "minecraft:glass",
+      "rftoolsbase:machine_frame",
+      "minecraft:glass",
+      "minecraft:redstone",
+      "minecraft:glass",
+      "minecraft:redstone"
+    ]
+  },
+  "rftoolsutility:screen_link": {
+    "result": "rftoolsutility:screen_link",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "minecraft:ender_pearl",
+      "minecraft:redstone",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:redstone",
+      "minecraft:redstone",
+      "minecraft:redstone"
+    ]
+  },
+  "securitycraft:scanner_door_item": {
+    "result": "securitycraft:scanner_door_item",
+    "count": 1,
+    "ingredients": [
+      "securitycraft:door_indestructible_iron_item",
+      "securitycraft:retinal_scanner",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "securitycraft:scanner_trapdoor": {
+    "result": "securitycraft:scanner_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "securitycraft:reinforced_iron_trapdoor",
+      "securitycraft:retinal_scanner",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "securitycraft:sc_manual": {
+    "result": "securitycraft:sc_manual",
+    "count": 1,
+    "ingredients": [
+      "minecraft:book",
+      "minecraft:iron_bars",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "structurize:sceptergold": {
+    "result": "structurize:sceptergold",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "minecraft:stone",
+      "",
+      "minecraft:stick",
+      "",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "structurize:sceptersteel": {
+    "result": "structurize:sceptersteel",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:stick",
+      "",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "supplementaries:sconce": {
+    "result": "supplementaries:sconce",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "minecraft:iron",
+      "minecraft:torch",
+      "minecraft:iron",
+      "",
+      "minecraft:iron",
+      ""
+    ]
+  },
+  "supplementaries:sconce_ender": {
+    "result": "supplementaries:sconce_ender",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "minecraft:iron",
+      "endergetic:ender_torch",
+      "minecraft:iron",
+      "",
+      "minecraft:iron",
+      ""
+    ]
+  },
+  "supplementaries:sconce_glow": {
+    "result": "supplementaries:sconce_glow",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "minecraft:iron",
+      "infernalexp:glowlight_torch",
+      "minecraft:iron",
+      "",
+      "minecraft:iron",
+      ""
+    ]
+  },
+  "supplementaries:sconce_green": {
+    "result": "supplementaries:sconce_green",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "minecraft:iron",
+      "caverns_and_chasms:cupric_torch",
+      "minecraft:iron",
+      "",
+      "minecraft:iron",
+      ""
+    ]
+  },
+  "supplementaries:sconce_lever": {
+    "result": "supplementaries:sconce_lever",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "",
+      "supplementaries:sconce",
+      "",
+      "",
+      "minecraft:redstone",
+      ""
+    ]
+  },
+  "supplementaries:sconce_nether_brass": {
+    "result": "supplementaries:sconce_nether_brass",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "architects_palette:nether_brass_nugget",
+      "architects_palette:nether_brass_torch",
+      "architects_palette:nether_brass_nugget",
+      "",
+      "architects_palette:nether_brass_nugget",
+      ""
+    ]
+  },
+  "supplementaries:sconce_soul": {
+    "result": "supplementaries:sconce_soul",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "minecraft:iron",
+      "minecraft:soul_torch",
+      "minecraft:iron",
+      "",
+      "minecraft:iron",
+      ""
+    ]
+  },
+  "tempad:screening_device": {
+    "result": "tempad:screening_device",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:glass",
+      "",
+      "minecraft:emerald",
+      "minecraft:compass",
+      "minecraft:redstone",
+      "",
+      "tempad:time_steel",
+      ""
+    ]
+  }
+}

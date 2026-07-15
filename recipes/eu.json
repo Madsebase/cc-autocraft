@@ -1,0 +1,452 @@
+{
+  "productivetrees:european_larch_bookshelf": {
+    "result": "productivetrees:european_larch_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:european_larch_planks",
+      "productivetrees:european_larch_planks",
+      "productivetrees:european_larch_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:european_larch_planks",
+      "productivetrees:european_larch_planks",
+      "productivetrees:european_larch_planks"
+    ]
+  },
+  "productivetrees:european_larch_button": {
+    "result": "productivetrees:european_larch_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:european_larch_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:european_larch_door": {
+    "result": "productivetrees:european_larch_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:european_larch_planks",
+      "productivetrees:european_larch_planks",
+      "",
+      "productivetrees:european_larch_planks",
+      "productivetrees:european_larch_planks",
+      "",
+      "productivetrees:european_larch_planks",
+      "productivetrees:european_larch_planks",
+      ""
+    ]
+  },
+  "productivetrees:european_larch_fence": {
+    "result": "productivetrees:european_larch_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:european_larch_planks",
+      "minecraft:stick",
+      "productivetrees:european_larch_planks",
+      "productivetrees:european_larch_planks",
+      "minecraft:stick",
+      "productivetrees:european_larch_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:european_larch_fence_gate": {
+    "result": "productivetrees:european_larch_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:european_larch_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:european_larch_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:european_larch_hanging_sign": {
+    "result": "productivetrees:european_larch_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:european_larch_planks",
+      "productivetrees:european_larch_planks",
+      "productivetrees:european_larch_planks",
+      "productivetrees:european_larch_planks",
+      "productivetrees:european_larch_planks",
+      "productivetrees:european_larch_planks"
+    ]
+  },
+  "productivetrees:european_larch_planks": {
+    "result": "productivetrees:european_larch_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:european_larch_pressure_plate": {
+    "result": "productivetrees:european_larch_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:european_larch_planks",
+      "productivetrees:european_larch_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:european_larch_sign": {
+    "result": "productivetrees:european_larch_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:european_larch_planks",
+      "productivetrees:european_larch_planks",
+      "productivetrees:european_larch_planks",
+      "productivetrees:european_larch_planks",
+      "productivetrees:european_larch_planks",
+      "productivetrees:european_larch_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:european_larch_slab": {
+    "result": "productivetrees:european_larch_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:european_larch_planks",
+      "productivetrees:european_larch_planks",
+      "productivetrees:european_larch_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:european_larch_stairs": {
+    "result": "productivetrees:european_larch_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:european_larch_planks",
+      "",
+      "",
+      "productivetrees:european_larch_planks",
+      "productivetrees:european_larch_planks",
+      "",
+      "productivetrees:european_larch_planks",
+      "productivetrees:european_larch_planks",
+      "productivetrees:european_larch_planks"
+    ]
+  },
+  "productivetrees:european_larch_trapdoor": {
+    "result": "productivetrees:european_larch_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:european_larch_planks",
+      "productivetrees:european_larch_planks",
+      "productivetrees:european_larch_planks",
+      "productivetrees:european_larch_planks",
+      "productivetrees:european_larch_planks",
+      "productivetrees:european_larch_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:european_larch_wood": {
+    "result": "productivetrees:european_larch_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:european_larch_log",
+      "productivetrees:european_larch_log",
+      "",
+      "productivetrees:european_larch_log",
+      "productivetrees:european_larch_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:eucalyptus_boat": {
+    "result": "regions_unexplored:eucalyptus_boat",
+    "count": 1,
+    "ingredients": [
+      "regions_unexplored:eucalyptus_planks",
+      "",
+      "regions_unexplored:eucalyptus_planks",
+      "regions_unexplored:eucalyptus_planks",
+      "regions_unexplored:eucalyptus_planks",
+      "regions_unexplored:eucalyptus_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:eucalyptus_branch": {
+    "result": "regions_unexplored:eucalyptus_branch",
+    "count": 2,
+    "ingredients": [
+      "regions_unexplored:eucalyptus_log",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:eucalyptus_button": {
+    "result": "regions_unexplored:eucalyptus_button",
+    "count": 1,
+    "ingredients": [
+      "regions_unexplored:eucalyptus_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:eucalyptus_chest_boat": {
+    "result": "regions_unexplored:eucalyptus_chest_boat",
+    "count": 1,
+    "ingredients": [
+      "minecraft:chest",
+      "regions_unexplored:eucalyptus_boat",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:eucalyptus_door": {
+    "result": "regions_unexplored:eucalyptus_door",
+    "count": 3,
+    "ingredients": [
+      "regions_unexplored:eucalyptus_planks",
+      "regions_unexplored:eucalyptus_planks",
+      "",
+      "regions_unexplored:eucalyptus_planks",
+      "regions_unexplored:eucalyptus_planks",
+      "",
+      "regions_unexplored:eucalyptus_planks",
+      "regions_unexplored:eucalyptus_planks",
+      ""
+    ]
+  },
+  "regions_unexplored:eucalyptus_fence": {
+    "result": "regions_unexplored:eucalyptus_fence",
+    "count": 3,
+    "ingredients": [
+      "regions_unexplored:eucalyptus_planks",
+      "minecraft:stick",
+      "regions_unexplored:eucalyptus_planks",
+      "regions_unexplored:eucalyptus_planks",
+      "minecraft:stick",
+      "regions_unexplored:eucalyptus_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:eucalyptus_fence_gate": {
+    "result": "regions_unexplored:eucalyptus_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "regions_unexplored:eucalyptus_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "regions_unexplored:eucalyptus_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:eucalyptus_hanging_sign": {
+    "result": "regions_unexplored:eucalyptus_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "regions_unexplored:stripped_eucalyptus_log",
+      "regions_unexplored:stripped_eucalyptus_log",
+      "regions_unexplored:stripped_eucalyptus_log",
+      "regions_unexplored:stripped_eucalyptus_log",
+      "regions_unexplored:stripped_eucalyptus_log",
+      "regions_unexplored:stripped_eucalyptus_log"
+    ]
+  },
+  "regions_unexplored:eucalyptus_planks": {
+    "result": "regions_unexplored:eucalyptus_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:eucalyptus_pressure_plate": {
+    "result": "regions_unexplored:eucalyptus_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "regions_unexplored:eucalyptus_planks",
+      "regions_unexplored:eucalyptus_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:eucalyptus_sapling": {
+    "result": "regions_unexplored:eucalyptus_sapling",
+    "count": 2,
+    "ingredients": [
+      "regions_unexplored:eucalyptus_shrub",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:eucalyptus_shrub": {
+    "result": "regions_unexplored:eucalyptus_shrub",
+    "count": 1,
+    "ingredients": [
+      "regions_unexplored:eucalyptus_sapling",
+      "",
+      "",
+      "regions_unexplored:eucalyptus_sapling",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:eucalyptus_sign": {
+    "result": "regions_unexplored:eucalyptus_sign",
+    "count": 3,
+    "ingredients": [
+      "regions_unexplored:eucalyptus_planks",
+      "regions_unexplored:eucalyptus_planks",
+      "regions_unexplored:eucalyptus_planks",
+      "regions_unexplored:eucalyptus_planks",
+      "regions_unexplored:eucalyptus_planks",
+      "regions_unexplored:eucalyptus_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "regions_unexplored:eucalyptus_slab": {
+    "result": "regions_unexplored:eucalyptus_slab",
+    "count": 6,
+    "ingredients": [
+      "regions_unexplored:eucalyptus_planks",
+      "regions_unexplored:eucalyptus_planks",
+      "regions_unexplored:eucalyptus_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:eucalyptus_stairs": {
+    "result": "regions_unexplored:eucalyptus_stairs",
+    "count": 4,
+    "ingredients": [
+      "regions_unexplored:eucalyptus_planks",
+      "",
+      "",
+      "regions_unexplored:eucalyptus_planks",
+      "regions_unexplored:eucalyptus_planks",
+      "",
+      "regions_unexplored:eucalyptus_planks",
+      "regions_unexplored:eucalyptus_planks",
+      "regions_unexplored:eucalyptus_planks"
+    ]
+  },
+  "regions_unexplored:eucalyptus_trapdoor": {
+    "result": "regions_unexplored:eucalyptus_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "regions_unexplored:eucalyptus_planks",
+      "regions_unexplored:eucalyptus_planks",
+      "regions_unexplored:eucalyptus_planks",
+      "regions_unexplored:eucalyptus_planks",
+      "regions_unexplored:eucalyptus_planks",
+      "regions_unexplored:eucalyptus_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:eucalyptus_wood": {
+    "result": "regions_unexplored:eucalyptus_wood",
+    "count": 3,
+    "ingredients": [
+      "regions_unexplored:eucalyptus_log",
+      "regions_unexplored:eucalyptus_log",
+      "",
+      "regions_unexplored:eucalyptus_log",
+      "regions_unexplored:eucalyptus_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

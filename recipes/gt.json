@@ -1,0 +1,332 @@
+{
+  "bibliocraft:gtceu_rubber_bookcase": {
+    "result": "bibliocraft:gtceu_rubber_bookcase",
+    "count": 1,
+    "ingredients": [
+      "gtceu:rubber_planks",
+      "gtceu:rubber_slab",
+      "gtceu:rubber_planks",
+      "gtceu:rubber_planks",
+      "gtceu:rubber_slab",
+      "gtceu:rubber_planks",
+      "gtceu:rubber_planks",
+      "gtceu:rubber_slab",
+      "gtceu:rubber_planks"
+    ]
+  },
+  "bibliocraft:gtceu_rubber_fancy_armor_stand": {
+    "result": "bibliocraft:gtceu_rubber_fancy_armor_stand",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "gtceu:rubber_slab",
+      "gtceu:rubber_slab",
+      "gtceu:rubber_slab"
+    ]
+  },
+  "bibliocraft:gtceu_rubber_fancy_clock": {
+    "result": "bibliocraft:gtceu_rubber_fancy_clock",
+    "count": 1,
+    "ingredients": [
+      "gtceu:rubber_slab",
+      "minecraft:clock",
+      "gtceu:rubber_slab",
+      "gtceu:rubber_slab",
+      "minecraft:stick",
+      "gtceu:rubber_slab",
+      "gtceu:rubber_slab",
+      "minecraft:copper_ingot",
+      "gtceu:rubber_slab"
+    ]
+  },
+  "bibliocraft:gtceu_rubber_fancy_crafter": {
+    "result": "bibliocraft:gtceu_rubber_fancy_crafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black",
+      "minecraft:crafting_tables",
+      "minecraft:feather",
+      "gtceu:rubber_planks",
+      "minecraft:glass",
+      "gtceu:rubber_planks",
+      "gtceu:rubber_planks",
+      "minecraft:crafter",
+      "gtceu:rubber_planks"
+    ]
+  },
+  "bibliocraft:gtceu_rubber_fancy_sign": {
+    "result": "bibliocraft:gtceu_rubber_fancy_sign",
+    "count": 1,
+    "ingredients": [
+      "gtceu:rubber_planks",
+      "minecraft:paper",
+      "gtceu:rubber_planks",
+      "gtceu:rubber_planks",
+      "minecraft:paper",
+      "gtceu:rubber_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "bibliocraft:gtceu_rubber_grandfather_clock": {
+    "result": "bibliocraft:gtceu_rubber_grandfather_clock",
+    "count": 1,
+    "ingredients": [
+      "bibliocraft:gtceu_rubber_fancy_clock",
+      "bibliocraft:gtceu_rubber_fancy_clock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:gtceu_rubber_label": {
+    "result": "bibliocraft:gtceu_rubber_label",
+    "count": 1,
+    "ingredients": [
+      "gtceu:rubber_slab",
+      "gtceu:rubber_slab",
+      "gtceu:rubber_slab",
+      "gtceu:rubber_slab",
+      "gtceu:rubber_slab",
+      "gtceu:rubber_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:gtceu_rubber_potion_shelf": {
+    "result": "bibliocraft:gtceu_rubber_potion_shelf",
+    "count": 1,
+    "ingredients": [
+      "gtceu:rubber_slab",
+      "gtceu:rubber_slab",
+      "gtceu:rubber_slab",
+      "gtceu:rubber_planks",
+      "minecraft:glass_bottle",
+      "gtceu:rubber_planks",
+      "gtceu:rubber_slab",
+      "gtceu:rubber_slab",
+      "gtceu:rubber_slab"
+    ]
+  },
+  "bibliocraft:gtceu_rubber_shelf": {
+    "result": "bibliocraft:gtceu_rubber_shelf",
+    "count": 1,
+    "ingredients": [
+      "gtceu:rubber_slab",
+      "gtceu:rubber_slab",
+      "gtceu:rubber_slab",
+      "",
+      "gtceu:rubber_planks",
+      "",
+      "gtceu:rubber_slab",
+      "gtceu:rubber_slab",
+      "gtceu:rubber_slab"
+    ]
+  },
+  "bibliocraft:gtceu_rubber_table": {
+    "result": "bibliocraft:gtceu_rubber_table",
+    "count": 1,
+    "ingredients": [
+      "gtceu:rubber_slab",
+      "gtceu:rubber_slab",
+      "gtceu:rubber_slab",
+      "",
+      "gtceu:rubber_planks",
+      "",
+      "",
+      "gtceu:rubber_planks",
+      ""
+    ]
+  },
+  "bibliocraft:gtceu_rubber_tool_rack": {
+    "result": "bibliocraft:gtceu_rubber_tool_rack",
+    "count": 1,
+    "ingredients": [
+      "gtceu:rubber_slab",
+      "gtceu:rubber_slab",
+      "gtceu:rubber_slab",
+      "gtceu:rubber_slab",
+      "minecraft:iron_ingot",
+      "gtceu:rubber_slab",
+      "gtceu:rubber_slab",
+      "gtceu:rubber_slab",
+      "gtceu:rubber_slab"
+    ]
+  },
+  "bibliocraft:gtceu_treated_wood_bookcase": {
+    "result": "bibliocraft:gtceu_treated_wood_bookcase",
+    "count": 1,
+    "ingredients": [
+      "gtceu:treated_wood_planks",
+      "gtceu:treated_wood_slab",
+      "gtceu:treated_wood_planks",
+      "gtceu:treated_wood_planks",
+      "gtceu:treated_wood_slab",
+      "gtceu:treated_wood_planks",
+      "gtceu:treated_wood_planks",
+      "gtceu:treated_wood_slab",
+      "gtceu:treated_wood_planks"
+    ]
+  },
+  "bibliocraft:gtceu_treated_wood_fancy_armor_stand": {
+    "result": "bibliocraft:gtceu_treated_wood_fancy_armor_stand",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "gtceu:treated_wood_slab",
+      "gtceu:treated_wood_slab",
+      "gtceu:treated_wood_slab"
+    ]
+  },
+  "bibliocraft:gtceu_treated_wood_fancy_clock": {
+    "result": "bibliocraft:gtceu_treated_wood_fancy_clock",
+    "count": 1,
+    "ingredients": [
+      "gtceu:treated_wood_slab",
+      "minecraft:clock",
+      "gtceu:treated_wood_slab",
+      "gtceu:treated_wood_slab",
+      "minecraft:stick",
+      "gtceu:treated_wood_slab",
+      "gtceu:treated_wood_slab",
+      "minecraft:copper_ingot",
+      "gtceu:treated_wood_slab"
+    ]
+  },
+  "bibliocraft:gtceu_treated_wood_fancy_crafter": {
+    "result": "bibliocraft:gtceu_treated_wood_fancy_crafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black",
+      "minecraft:crafting_tables",
+      "minecraft:feather",
+      "gtceu:treated_wood_planks",
+      "minecraft:glass",
+      "gtceu:treated_wood_planks",
+      "gtceu:treated_wood_planks",
+      "minecraft:crafter",
+      "gtceu:treated_wood_planks"
+    ]
+  },
+  "bibliocraft:gtceu_treated_wood_fancy_sign": {
+    "result": "bibliocraft:gtceu_treated_wood_fancy_sign",
+    "count": 1,
+    "ingredients": [
+      "gtceu:treated_wood_planks",
+      "minecraft:paper",
+      "gtceu:treated_wood_planks",
+      "gtceu:treated_wood_planks",
+      "minecraft:paper",
+      "gtceu:treated_wood_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "bibliocraft:gtceu_treated_wood_grandfather_clock": {
+    "result": "bibliocraft:gtceu_treated_wood_grandfather_clock",
+    "count": 1,
+    "ingredients": [
+      "bibliocraft:gtceu_treated_wood_fancy_clock",
+      "bibliocraft:gtceu_treated_wood_fancy_clock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:gtceu_treated_wood_label": {
+    "result": "bibliocraft:gtceu_treated_wood_label",
+    "count": 1,
+    "ingredients": [
+      "gtceu:treated_wood_slab",
+      "gtceu:treated_wood_slab",
+      "gtceu:treated_wood_slab",
+      "gtceu:treated_wood_slab",
+      "gtceu:treated_wood_slab",
+      "gtceu:treated_wood_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:gtceu_treated_wood_potion_shelf": {
+    "result": "bibliocraft:gtceu_treated_wood_potion_shelf",
+    "count": 1,
+    "ingredients": [
+      "gtceu:treated_wood_slab",
+      "gtceu:treated_wood_slab",
+      "gtceu:treated_wood_slab",
+      "gtceu:treated_wood_planks",
+      "minecraft:glass_bottle",
+      "gtceu:treated_wood_planks",
+      "gtceu:treated_wood_slab",
+      "gtceu:treated_wood_slab",
+      "gtceu:treated_wood_slab"
+    ]
+  },
+  "bibliocraft:gtceu_treated_wood_shelf": {
+    "result": "bibliocraft:gtceu_treated_wood_shelf",
+    "count": 1,
+    "ingredients": [
+      "gtceu:treated_wood_slab",
+      "gtceu:treated_wood_slab",
+      "gtceu:treated_wood_slab",
+      "",
+      "gtceu:treated_wood_planks",
+      "",
+      "gtceu:treated_wood_slab",
+      "gtceu:treated_wood_slab",
+      "gtceu:treated_wood_slab"
+    ]
+  },
+  "bibliocraft:gtceu_treated_wood_table": {
+    "result": "bibliocraft:gtceu_treated_wood_table",
+    "count": 1,
+    "ingredients": [
+      "gtceu:treated_wood_slab",
+      "gtceu:treated_wood_slab",
+      "gtceu:treated_wood_slab",
+      "",
+      "gtceu:treated_wood_planks",
+      "",
+      "",
+      "gtceu:treated_wood_planks",
+      ""
+    ]
+  },
+  "bibliocraft:gtceu_treated_wood_tool_rack": {
+    "result": "bibliocraft:gtceu_treated_wood_tool_rack",
+    "count": 1,
+    "ingredients": [
+      "gtceu:treated_wood_slab",
+      "gtceu:treated_wood_slab",
+      "gtceu:treated_wood_slab",
+      "gtceu:treated_wood_slab",
+      "minecraft:iron_ingot",
+      "gtceu:treated_wood_slab",
+      "gtceu:treated_wood_slab",
+      "gtceu:treated_wood_slab",
+      "gtceu:treated_wood_slab"
+    ]
+  }
+}

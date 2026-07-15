@@ -1,0 +1,5042 @@
+{
+  "actuallyadditions:canola_press": {
+    "result": "actuallyadditions:canola_press",
+    "count": 1,
+    "ingredients": [
+      "actuallyadditions:canola_press",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "actuallyadditions:canola_seeds": {
+    "result": "actuallyadditions:canola_seeds",
+    "count": 1,
+    "ingredients": [
+      "actuallyadditions:canola",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "advanced_ae:camo_card": {
+    "result": "advanced_ae:camo_card",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:golden_carrot",
+      "",
+      "minecraft:fermented_spider_eye",
+      "advanced_ae:quantum_upgrade_base",
+      "minecraft:fermented_spider_eye",
+      "minecraft:nether_wart",
+      "minecraft:nether_wart",
+      "minecraft:nether_wart"
+    ]
+  },
+  "ae2:capacity_card": {
+    "result": "ae2:capacity_card",
+    "count": 1,
+    "ingredients": [
+      "minecraft:quartz",
+      "ae2:basic_card",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ae2:cable_interface": {
+    "result": "ae2:cable_interface",
+    "count": 1,
+    "ingredients": [
+      "ae2:interface",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ae2:cable_pattern_provider": {
+    "result": "ae2:cable_pattern_provider",
+    "count": 1,
+    "ingredients": [
+      "ae2:pattern_provider",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ae2:cable_energy_acceptor": {
+    "result": "ae2:cable_energy_acceptor",
+    "count": 1,
+    "ingredients": [
+      "ae2:energy_acceptor",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "aether:carved_slab": {
+    "result": "aether:carved_slab",
+    "count": 6,
+    "ingredients": [
+      "aether:carved_stone",
+      "aether:carved_stone",
+      "aether:carved_stone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "aether:carved_stairs": {
+    "result": "aether:carved_stairs",
+    "count": 4,
+    "ingredients": [
+      "aether:carved_stone",
+      "",
+      "",
+      "aether:carved_stone",
+      "aether:carved_stone",
+      "",
+      "aether:carved_stone",
+      "aether:carved_stone",
+      "aether:carved_stone"
+    ]
+  },
+  "aether:carved_wall": {
+    "result": "aether:carved_wall",
+    "count": 6,
+    "ingredients": [
+      "aether:carved_stone",
+      "aether:carved_stone",
+      "aether:carved_stone",
+      "aether:carved_stone",
+      "aether:carved_stone",
+      "aether:carved_stone",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:cake": {
+    "result": "minecraft:cake",
+    "count": 1,
+    "ingredients": [
+      "minecraft:milk_bucket",
+      "minecraft:milk_bucket",
+      "minecraft:milk_bucket",
+      "minecraft:sugar",
+      "minecraft:egg",
+      "minecraft:sugar",
+      "minecraft:wheat",
+      "minecraft:wheat",
+      "minecraft:wheat"
+    ]
+  },
+  "minecraft:cartography_table": {
+    "result": "minecraft:cartography_table",
+    "count": 1,
+    "ingredients": [
+      "minecraft:paper",
+      "minecraft:paper",
+      "",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      ""
+    ]
+  },
+  "allthecompressed:calcite_1x": {
+    "result": "allthecompressed:calcite_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:calcite_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:calcite_2x": {
+    "result": "allthecompressed:calcite_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:calcite_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:calcite_3x": {
+    "result": "allthecompressed:calcite_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:calcite_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:calcite_4x": {
+    "result": "allthecompressed:calcite_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:calcite_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:calcite_5x": {
+    "result": "allthecompressed:calcite_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:calcite_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:calcite_6x": {
+    "result": "allthecompressed:calcite_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:calcite_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:calcite_7x": {
+    "result": "allthecompressed:calcite_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:calcite_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:calcite_8x": {
+    "result": "allthecompressed:calcite_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:calcite_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:calcite_9x": {
+    "result": "allthecompressed:calcite_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:calcite_8x",
+      "allthecompressed:calcite_8x",
+      "allthecompressed:calcite_8x",
+      "allthecompressed:calcite_8x",
+      "allthecompressed:calcite_8x",
+      "allthecompressed:calcite_8x",
+      "allthecompressed:calcite_8x",
+      "allthecompressed:calcite_8x",
+      "allthecompressed:calcite_8x"
+    ]
+  },
+  "minecraft:calcite": {
+    "result": "minecraft:calcite",
+    "count": 1,
+    "ingredients": [
+      "occultism:gray_paste",
+      "minecraft:calcite",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "arseng:cable_source_acceptor": {
+    "result": "arseng:cable_source_acceptor",
+    "count": 1,
+    "ingredients": [
+      "arseng:source_acceptor",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bhc:canister": {
+    "result": "bhc:canister",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:bone",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      ""
+    ]
+  },
+  "biomeswevegone:cattail_thatch": {
+    "result": "biomeswevegone:cattail_thatch",
+    "count": 4,
+    "ingredients": [
+      "biomeswevegone:cattail_sprout",
+      "biomeswevegone:cattail_sprout",
+      "",
+      "biomeswevegone:cattail_sprout",
+      "biomeswevegone:cattail_sprout",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:cattail_thatch_carpet": {
+    "result": "biomeswevegone:cattail_thatch_carpet",
+    "count": 3,
+    "ingredients": [
+      "biomeswevegone:cattail_thatch",
+      "biomeswevegone:cattail_thatch",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:cattail_thatch_slab": {
+    "result": "biomeswevegone:cattail_thatch_slab",
+    "count": 6,
+    "ingredients": [
+      "biomeswevegone:cattail_thatch",
+      "biomeswevegone:cattail_thatch",
+      "biomeswevegone:cattail_thatch",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:cattail_thatch_stairs": {
+    "result": "biomeswevegone:cattail_thatch_stairs",
+    "count": 4,
+    "ingredients": [
+      "biomeswevegone:cattail_thatch",
+      "",
+      "",
+      "biomeswevegone:cattail_thatch",
+      "biomeswevegone:cattail_thatch",
+      "",
+      "biomeswevegone:cattail_thatch",
+      "biomeswevegone:cattail_thatch",
+      "biomeswevegone:cattail_thatch"
+    ]
+  },
+  "camol:camo_item": {
+    "result": "camol:camo_item",
+    "count": 4,
+    "ingredients": [
+      "minecraft:red",
+      "",
+      "minecraft:green",
+      "",
+      "minecraft:blue",
+      "",
+      "minecraft:black",
+      "",
+      "minecraft:white"
+    ]
+  },
+  "computercraft:cable": {
+    "result": "computercraft:cable",
+    "count": 6,
+    "ingredients": [
+      "",
+      "minecraft:stone",
+      "",
+      "minecraft:stone",
+      "minecraft:redstone",
+      "minecraft:stone",
+      "",
+      "minecraft:stone",
+      ""
+    ]
+  },
+  "cookingforblockheads:cabinet": {
+    "result": "cookingforblockheads:cabinet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dyed_cabinets",
+      "minecraft:bone_meal",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "crafting_on_a_stick:cartography_table": {
+    "result": "crafting_on_a_stick:cartography_table",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:cartography_table",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cardboard_boots": {
+    "result": "create:cardboard_boots",
+    "count": 1,
+    "ingredients": [
+      "create:cardboard",
+      "",
+      "create:cardboard",
+      "create:cardboard",
+      "",
+      "create:cardboard",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cardboard_chestplate": {
+    "result": "create:cardboard_chestplate",
+    "count": 1,
+    "ingredients": [
+      "create:cardboard",
+      "",
+      "create:cardboard",
+      "create:cardboard",
+      "create:cardboard",
+      "create:cardboard",
+      "create:cardboard",
+      "create:cardboard",
+      "create:cardboard"
+    ]
+  },
+  "create:cardboard_helmet": {
+    "result": "create:cardboard_helmet",
+    "count": 1,
+    "ingredients": [
+      "create:cardboard",
+      "create:cardboard",
+      "create:cardboard",
+      "create:cardboard",
+      "",
+      "create:cardboard",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cardboard_leggings": {
+    "result": "create:cardboard_leggings",
+    "count": 1,
+    "ingredients": [
+      "create:cardboard",
+      "create:cardboard",
+      "create:cardboard",
+      "create:cardboard",
+      "",
+      "create:cardboard",
+      "create:cardboard",
+      "",
+      "create:cardboard"
+    ]
+  },
+  "create:cardboard_sword": {
+    "result": "create:cardboard_sword",
+    "count": 1,
+    "ingredients": [
+      "create:cardboard",
+      "",
+      "",
+      "create:cardboard",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "create:cart_assembler": {
+    "result": "create:cart_assembler",
+    "count": 1,
+    "ingredients": [
+      "create:andesite_alloy",
+      "minecraft:redstone",
+      "create:andesite_alloy",
+      "minecraft:oak_log",
+      "",
+      "minecraft:oak_log",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cardboard_block": {
+    "result": "create:cardboard_block",
+    "count": 1,
+    "ingredients": [
+      "create:cardboard",
+      "create:cardboard",
+      "",
+      "create:cardboard",
+      "create:cardboard",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cardboard": {
+    "result": "create:cardboard",
+    "count": 4,
+    "ingredients": [
+      "create:bound_cardboard_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "createaddition:capacitor": {
+    "result": "createaddition:capacitor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:copper",
+      "",
+      "",
+      "minecraft:zinc",
+      "",
+      "",
+      "minecraft:redstone_torch",
+      "",
+      ""
+    ]
+  },
+  "domum_ornamentum:cactus_extra": {
+    "result": "domum_ornamentum:cactus_extra",
+    "count": 4,
+    "ingredients": [
+      "minecraft:cactus",
+      "",
+      "minecraft:cactus",
+      "",
+      "minecraft:cactus",
+      "",
+      "minecraft:cactus",
+      "",
+      "minecraft:cactus"
+    ]
+  },
+  "eternal_starlight:candlash": {
+    "result": "eternal_starlight:candlash",
+    "count": 1,
+    "ingredients": [
+      "minecraft:amaramber",
+      "minecraft:amaramber",
+      "minecraft:amaramber",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:cauldron": {
+    "result": "minecraft:cauldron",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "eternal_starlight:cave_moss_carpet": {
+    "result": "eternal_starlight:cave_moss_carpet",
+    "count": 3,
+    "ingredients": [
+      "eternal_starlight:cave_moss_block",
+      "eternal_starlight:cave_moss_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "farmersdelight:cabbage": {
+    "result": "farmersdelight:cabbage",
+    "count": 1,
+    "ingredients": [
+      "farmersdelight:cabbage_leaf",
+      "farmersdelight:cabbage_leaf",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "farmersdelight:cabbage_crate": {
+    "result": "farmersdelight:cabbage_crate",
+    "count": 1,
+    "ingredients": [
+      "farmersdelight:cabbage",
+      "farmersdelight:cabbage",
+      "farmersdelight:cabbage",
+      "farmersdelight:cabbage",
+      "farmersdelight:cabbage",
+      "farmersdelight:cabbage",
+      "farmersdelight:cabbage",
+      "farmersdelight:cabbage",
+      "farmersdelight:cabbage"
+    ]
+  },
+  "farmersdelight:canvas": {
+    "result": "farmersdelight:canvas",
+    "count": 1,
+    "ingredients": [
+      "farmersdelight:canvas_rug",
+      "farmersdelight:canvas_rug",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "farmersdelight:canvas_rug": {
+    "result": "farmersdelight:canvas_rug",
+    "count": 2,
+    "ingredients": [
+      "farmersdelight:canvas",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "farmersdelight:canvas_sign": {
+    "result": "farmersdelight:canvas_sign",
+    "count": 3,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "farmersdelight:canvas",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "farmersdelight:canvas",
+      "minecraft:oak_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "farmersdelight:carrot_crate": {
+    "result": "farmersdelight:carrot_crate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:carrot",
+      "minecraft:carrot",
+      "minecraft:carrot",
+      "minecraft:carrot",
+      "minecraft:carrot",
+      "minecraft:carrot",
+      "minecraft:carrot",
+      "minecraft:carrot",
+      "minecraft:carrot"
+    ]
+  },
+  "minecraft:carrot": {
+    "result": "minecraft:carrot",
+    "count": 8,
+    "ingredients": [
+      "",
+      "",
+      "mysticalagriculture:nature_essence",
+      "mysticalagriculture:nature_essence",
+      "mysticalagriculture:nature_essence",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "handcrafted:calcite_corner_trim": {
+    "result": "handcrafted:calcite_corner_trim",
+    "count": 4,
+    "ingredients": [
+      "minecraft:calcite",
+      "",
+      "",
+      "minecraft:calcite",
+      "",
+      "",
+      "minecraft:calcite",
+      "minecraft:calcite",
+      "minecraft:calcite"
+    ]
+  },
+  "handcrafted:calcite_pillar_trim": {
+    "result": "handcrafted:calcite_pillar_trim",
+    "count": 4,
+    "ingredients": [
+      "minecraft:calcite",
+      "",
+      "",
+      "minecraft:calcite",
+      "",
+      "",
+      "minecraft:calcite",
+      "",
+      ""
+    ]
+  },
+  "herbsandharvest:cabbage_seeds": {
+    "result": "herbsandharvest:cabbage_seeds",
+    "count": 1,
+    "ingredients": [
+      "herbsandharvest:cabbage",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "herbsandharvest:caesar_salad": {
+    "result": "herbsandharvest:caesar_salad",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bowl",
+      "minecraft:parmesan",
+      "minecraft:lettuce",
+      "minecraft:onion",
+      "minecraft:minced_garlic",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "herbsandharvest:cake_stand": {
+    "result": "herbsandharvest:cake_stand",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "herbsandharvest:carrot_cake": {
+    "result": "herbsandharvest:carrot_cake",
+    "count": 1,
+    "ingredients": [
+      "minecraft:wheat",
+      "minecraft:egg",
+      "minecraft:milk",
+      "minecraft:sugar",
+      "herbsandharvest:oil",
+      "minecraft:carrot",
+      "minecraft:carrot",
+      "herbsandharvest:ground_cinnamon",
+      "herbsandharvest:cream_cheese"
+    ]
+  },
+  "herbsandharvest:carrot_cupcake": {
+    "result": "herbsandharvest:carrot_cupcake",
+    "count": 8,
+    "ingredients": [
+      "minecraft:wheat",
+      "minecraft:egg",
+      "minecraft:milk",
+      "minecraft:sugar",
+      "herbsandharvest:oil",
+      "minecraft:carrot",
+      "herbsandharvest:ground_cinnamon",
+      "herbsandharvest:cream_cheese",
+      "minecraft:paper"
+    ]
+  },
+  "herbsandharvest:cauliflower_seeds": {
+    "result": "herbsandharvest:cauliflower_seeds",
+    "count": 1,
+    "ingredients": [
+      "herbsandharvest:cauliflower",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:capacitor_hv": {
+    "result": "immersiveengineering:capacitor_hv",
+    "count": 1,
+    "ingredients": [
+      "minecraft:aluminum",
+      "minecraft:redstone",
+      "minecraft:aluminum",
+      "minecraft:aluminum",
+      "immersiveengineering:basic_engineering",
+      "minecraft:hop_graphite",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:capacitor_lv": {
+    "result": "immersiveengineering:capacitor_lv",
+    "count": 1,
+    "ingredients": [
+      "minecraft:copper_ingot",
+      "minecraft:redstone",
+      "minecraft:copper_ingot",
+      "minecraft:lead",
+      "immersiveengineering:basic_engineering",
+      "minecraft:lead",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:capacitor_mv": {
+    "result": "immersiveengineering:capacitor_mv",
+    "count": 1,
+    "ingredients": [
+      "minecraft:electrum",
+      "minecraft:redstone",
+      "minecraft:electrum",
+      "minecraft:nickel",
+      "immersiveengineering:basic_engineering",
+      "minecraft:iron",
+      "",
+      "",
+      ""
+    ]
+  },
+  "integrateddynamics:cable": {
+    "result": "integrateddynamics:cable",
+    "count": 3,
+    "ingredients": [
+      "integrateddynamics:crystalized_menril_chunk",
+      "integrateddynamics:crystalized_menril_chunk",
+      "integrateddynamics:crystalized_menril_chunk",
+      "minecraft:stick",
+      "minecraft:redstone",
+      "minecraft:stick",
+      "integrateddynamics:crystalized_menril_chunk",
+      "integrateddynamics:crystalized_menril_chunk",
+      "integrateddynamics:crystalized_menril_chunk"
+    ]
+  },
+  "irons_spellbooks:cast_time_ring": {
+    "result": "irons_spellbooks:cast_time_ring",
+    "count": 1,
+    "ingredients": [
+      "minecraft:amethyst_shard",
+      "",
+      "",
+      "",
+      "irons_spellbooks:mithril_scrap",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "laserio:card_chemical": {
+    "result": "laserio:card_chemical",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "minecraft:basic",
+      "minecraft:redstone",
+      "minecraft:quartz",
+      "laserio:logic_chip",
+      "minecraft:quartz",
+      "minecraft:gold",
+      "minecraft:gold",
+      "minecraft:gold"
+    ]
+  },
+  "laserio:card_cloner": {
+    "result": "laserio:card_cloner",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:paper",
+      "laserio:logic_chip",
+      "minecraft:paper",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "laserio:card_energy": {
+    "result": "laserio:card_energy",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "minecraft:redstone",
+      "minecraft:redstone",
+      "minecraft:quartz",
+      "laserio:logic_chip",
+      "minecraft:quartz",
+      "minecraft:gold",
+      "minecraft:gold",
+      "minecraft:gold"
+    ]
+  },
+  "laserio:card_fluid": {
+    "result": "laserio:card_fluid",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "minecraft:bucket",
+      "minecraft:redstone",
+      "minecraft:quartz",
+      "laserio:logic_chip",
+      "minecraft:quartz",
+      "minecraft:gold",
+      "minecraft:gold",
+      "minecraft:gold"
+    ]
+  },
+  "laserio:card_holder": {
+    "result": "laserio:card_holder",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:chest",
+      "laserio:logic_chip",
+      "minecraft:chest",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "laserio:card_item": {
+    "result": "laserio:card_item",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "minecraft:lapis_lazuli",
+      "minecraft:redstone",
+      "minecraft:quartz",
+      "laserio:logic_chip",
+      "minecraft:quartz",
+      "minecraft:gold",
+      "minecraft:gold",
+      "minecraft:gold"
+    ]
+  },
+  "laserio:card_redstone": {
+    "result": "laserio:card_redstone",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "minecraft:redstone",
+      "minecraft:redstone",
+      "minecraft:quartz",
+      "laserio:logic_chip",
+      "minecraft:quartz",
+      "minecraft:gold",
+      "minecraft:gold",
+      "minecraft:gold"
+    ]
+  },
+  "little_big_redstone:calculator": {
+    "result": "little_big_redstone:calculator",
+    "count": 1,
+    "ingredients": [
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:redstone",
+      "little_big_redstone:redstone_bit",
+      "minecraft:quartz",
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "minecraft:gold_ingot"
+    ]
+  },
+  "mcwfurnitures:cabinet_door": {
+    "result": "mcwfurnitures:cabinet_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:iron_nugget",
+      "minecraft:chest",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick"
+    ]
+  },
+  "mcwfurnitures:cabinet_drawer": {
+    "result": "mcwfurnitures:cabinet_drawer",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:chest",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:iron_nugget",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwholidays:candy_cane": {
+    "result": "mcwholidays:candy_cane",
+    "count": 4,
+    "ingredients": [
+      "minecraft:sugar",
+      "minecraft:sugar",
+      "",
+      "",
+      "minecraft:sugar",
+      "",
+      "",
+      "minecraft:sugar",
+      ""
+    ]
+  },
+  "mcwholidays:candy_cane_balloon": {
+    "result": "mcwholidays:candy_cane_balloon",
+    "count": 1,
+    "ingredients": [
+      "minecraft:red_dye",
+      "",
+      "",
+      "minecraft:white_wool",
+      "",
+      "",
+      "minecraft:string",
+      "",
+      ""
+    ]
+  },
+  "mcwholidays:carved_evil_pumpkin": {
+    "result": "mcwholidays:carved_evil_pumpkin",
+    "count": 8,
+    "ingredients": [
+      "minecraft:pumpkin",
+      "minecraft:pumpkin",
+      "minecraft:pumpkin",
+      "minecraft:pumpkin",
+      "minecraft:wooden_sword",
+      "minecraft:pumpkin",
+      "minecraft:pumpkin",
+      "minecraft:pumpkin",
+      "minecraft:pumpkin"
+    ]
+  },
+  "mcwholidays:carved_friendly_pumpkin": {
+    "result": "mcwholidays:carved_friendly_pumpkin",
+    "count": 8,
+    "ingredients": [
+      "minecraft:pumpkin",
+      "minecraft:pumpkin",
+      "minecraft:pumpkin",
+      "minecraft:pumpkin",
+      "minecraft:wooden_pickaxe",
+      "minecraft:pumpkin",
+      "minecraft:pumpkin",
+      "minecraft:pumpkin",
+      "minecraft:pumpkin"
+    ]
+  },
+  "mcwholidays:carved_screaming_pumpkin": {
+    "result": "mcwholidays:carved_screaming_pumpkin",
+    "count": 8,
+    "ingredients": [
+      "minecraft:pumpkin",
+      "minecraft:pumpkin",
+      "minecraft:pumpkin",
+      "minecraft:pumpkin",
+      "minecraft:wooden_axe",
+      "minecraft:pumpkin",
+      "minecraft:pumpkin",
+      "minecraft:pumpkin",
+      "minecraft:pumpkin"
+    ]
+  },
+  "mcwholidays:carved_shocked_pumpkin": {
+    "result": "mcwholidays:carved_shocked_pumpkin",
+    "count": 8,
+    "ingredients": [
+      "minecraft:pumpkin",
+      "minecraft:pumpkin",
+      "minecraft:pumpkin",
+      "minecraft:pumpkin",
+      "minecraft:wooden_shovel",
+      "minecraft:pumpkin",
+      "minecraft:pumpkin",
+      "minecraft:pumpkin",
+      "minecraft:pumpkin"
+    ]
+  },
+  "mcwholidays:carved_smile_pumpkin": {
+    "result": "mcwholidays:carved_smile_pumpkin",
+    "count": 8,
+    "ingredients": [
+      "minecraft:pumpkin",
+      "minecraft:pumpkin",
+      "minecraft:pumpkin",
+      "minecraft:pumpkin",
+      "minecraft:wooden_hoe",
+      "minecraft:pumpkin",
+      "minecraft:pumpkin",
+      "minecraft:pumpkin",
+      "minecraft:pumpkin"
+    ]
+  },
+  "mcwholidays:cat_wall_deco_1": {
+    "result": "mcwholidays:cat_wall_deco_1",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:black_dye",
+      "",
+      "minecraft:black_dye",
+      "minecraft:paper",
+      "minecraft:black_dye",
+      "minecraft:black_dye",
+      "",
+      "minecraft:black_dye"
+    ]
+  },
+  "megacells:cable_mega_emc_interface": {
+    "result": "megacells:cable_mega_emc_interface",
+    "count": 1,
+    "ingredients": [
+      "megacells:mega_emc_interface",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "megacells:cable_mega_interface": {
+    "result": "megacells:cable_mega_interface",
+    "count": 1,
+    "ingredients": [
+      "megacells:mega_interface",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "megacells:cable_mega_pattern_provider": {
+    "result": "megacells:cable_mega_pattern_provider",
+    "count": 1,
+    "ingredients": [
+      "megacells:mega_pattern_provider",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mekanism:canteen": {
+    "result": "mekanism:canteen",
+    "count": 1,
+    "ingredients": [
+      "",
+      "modern_industrialization:tin_ingot",
+      "",
+      "modern_industrialization:tin_ingot",
+      "minecraft:bowl",
+      "modern_industrialization:tin_ingot",
+      "",
+      "modern_industrialization:tin_ingot",
+      ""
+    ]
+  },
+  "mekanism:cardboard_box": {
+    "result": "mekanism:cardboard_box",
+    "count": 1,
+    "ingredients": [
+      "minecraft:wood",
+      "minecraft:wood",
+      "",
+      "minecraft:wood",
+      "minecraft:wood",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:candy_cane": {
+    "result": "merrymaking:candy_cane",
+    "count": 8,
+    "ingredients": [
+      "minecraft:sugar",
+      "merrymaking:peppermint_extract",
+      "minecraft:white_dye",
+      "minecraft:red_dye",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mffs:camouflage_module": {
+    "result": "mffs:camouflage_module",
+    "count": 1,
+    "ingredients": [
+      "minecraft:white_wool",
+      "mffs:focus_matrix",
+      "minecraft:white_wool",
+      "mffs:focus_matrix",
+      "minecraft:white_wool",
+      "mffs:focus_matrix",
+      "minecraft:white_wool",
+      "mffs:focus_matrix",
+      "minecraft:white_wool"
+    ]
+  },
+  "mffs:capacity_module": {
+    "result": "mffs:capacity_module",
+    "count": 2,
+    "ingredients": [
+      "mffs:focus_matrix",
+      "mffs:battery",
+      "mffs:focus_matrix",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecolonies:cabochis": {
+    "result": "minecolonies:cabochis",
+    "count": 1,
+    "ingredients": [
+      "minecolonies:onion",
+      "minecolonies:cabbage",
+      "minecraft:bowl",
+      "minecolonies:manchet_bread",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:calibrated_sculk_sensor": {
+    "result": "minecraft:calibrated_sculk_sensor",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:amethyst_shard",
+      "",
+      "minecraft:amethyst_shard",
+      "minecraft:sculk_sensor",
+      "minecraft:amethyst_shard",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:campfire": {
+    "result": "minecraft:campfire",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "minecraft:stick",
+      "minecraft:coal",
+      "minecraft:stick",
+      "minecraft:oak_log",
+      "minecraft:oak_log",
+      "minecraft:oak_log"
+    ]
+  },
+  "minecraft:candle": {
+    "result": "minecraft:candle",
+    "count": 1,
+    "ingredients": [
+      "minecraft:string",
+      "",
+      "",
+      "minecraft:waxes",
+      "",
+      "",
+      "minecraft:waxes",
+      "",
+      ""
+    ]
+  },
+  "minecraft:carrot_on_a_stick": {
+    "result": "minecraft:carrot_on_a_stick",
+    "count": 1,
+    "ingredients": [
+      "minecraft:fishing_rod",
+      "",
+      "",
+      "",
+      "minecraft:carrot",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "chipped:carpenters_table": {
+    "result": "chipped:carpenters_table",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_axe",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:oak_planks",
+      "minecraft:crafting_table",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks"
+    ]
+  },
+  "modern_industrialization:cadmium_battery": {
+    "result": "modern_industrialization:cadmium_battery",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:annealed_copper_cable",
+      "minecraft:battery_alloy",
+      "modern_industrialization:annealed_copper_cable",
+      "modern_industrialization:battery_alloy_curved_plate",
+      "minecraft:cadmium",
+      "modern_industrialization:battery_alloy_curved_plate",
+      "modern_industrialization:battery_alloy_curved_plate",
+      "minecraft:cadmium",
+      "modern_industrialization:battery_alloy_curved_plate"
+    ]
+  },
+  "modern_industrialization:capacitor": {
+    "result": "modern_industrialization:capacitor",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:gold",
+      "",
+      "modern_industrialization:copper_wire",
+      "modern_industrialization:rubber_sheet",
+      "modern_industrialization:copper_wire",
+      "",
+      "minecraft:gold",
+      ""
+    ]
+  },
+  "modern_industrialization:cadmium_dust": {
+    "result": "modern_industrialization:cadmium_dust",
+    "count": 1,
+    "ingredients": [
+      "minecraft:cadmium",
+      "minecraft:cadmium",
+      "minecraft:cadmium",
+      "minecraft:cadmium",
+      "modern_industrialization:cadmium_tiny_dust",
+      "minecraft:cadmium",
+      "minecraft:cadmium",
+      "minecraft:cadmium",
+      "minecraft:cadmium"
+    ]
+  },
+  "modern_industrialization:cadmium_tiny_dust": {
+    "result": "modern_industrialization:cadmium_tiny_dust",
+    "count": 9,
+    "ingredients": [
+      "modern_industrialization:cadmium_dust",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:carbon_dust": {
+    "result": "modern_industrialization:carbon_dust",
+    "count": 1,
+    "ingredients": [
+      "minecraft:carbon",
+      "minecraft:carbon",
+      "minecraft:carbon",
+      "minecraft:carbon",
+      "modern_industrialization:carbon_tiny_dust",
+      "minecraft:carbon",
+      "minecraft:carbon",
+      "minecraft:carbon",
+      "minecraft:carbon"
+    ]
+  },
+  "modern_industrialization:carbon_large_plate": {
+    "result": "modern_industrialization:carbon_large_plate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:carbon",
+      "minecraft:carbon",
+      "",
+      "minecraft:carbon",
+      "minecraft:carbon",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:carbon_tiny_dust": {
+    "result": "modern_industrialization:carbon_tiny_dust",
+    "count": 9,
+    "ingredients": [
+      "modern_industrialization:carbon_dust",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modularrouters:camouflage_upgrade": {
+    "result": "modularrouters:camouflage_upgrade",
+    "count": 1,
+    "ingredients": [
+      "modularrouters:blank_upgrade",
+      "minecraft:red",
+      "minecraft:green",
+      "minecraft:blue",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ae2:calculation_processor_press": {
+    "result": "ae2:calculation_processor_press",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:certus_quartz_essence",
+      "mysticalagriculture:certus_quartz_essence",
+      "mysticalagriculture:certus_quartz_essence",
+      "mysticalagriculture:certus_quartz_essence",
+      "ae2:certus_quartz_crystal",
+      "mysticalagriculture:certus_quartz_essence",
+      "mysticalagriculture:certus_quartz_essence",
+      "mysticalagriculture:certus_quartz_essence",
+      "mysticalagriculture:certus_quartz_essence"
+    ]
+  },
+  "minecraft:cactus": {
+    "result": "minecraft:cactus",
+    "count": 2,
+    "ingredients": [
+      "minecraft:cactus_plants",
+      "minecraft:cactus_plants",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "naturesaura:cave_finder": {
+    "result": "naturesaura:cave_finder",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stone",
+      "naturesaura:token_terror",
+      "minecraft:stone",
+      "naturesaura:ancient_stick",
+      "minecraft:stone",
+      "naturesaura:ancient_stick",
+      "minecraft:stone",
+      ""
+    ]
+  },
+  "oritech:carbon_plating_block": {
+    "result": "oritech:carbon_plating_block",
+    "count": 2,
+    "ingredients": [
+      "minecraft:stone",
+      "modern_industrialization:steel_ingot",
+      "minecraft:stone",
+      "modern_industrialization:steel_ingot",
+      "oritech:reinforced_carbon_sheet",
+      "modern_industrialization:steel_ingot",
+      "minecraft:stone",
+      "modern_industrialization:steel_ingot",
+      "minecraft:stone"
+    ]
+  },
+  "oritech:camo_paint": {
+    "result": "oritech:camo_paint",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:green_dye",
+      "",
+      "minecraft:plastic",
+      "minecraft:bio",
+      "minecraft:plastic",
+      "",
+      "minecraft:green_dye",
+      ""
+    ]
+  },
+  "oritech:capacitor_addon_extender": {
+    "result": "oritech:capacitor_addon_extender",
+    "count": 1,
+    "ingredients": [
+      "oritech:machine_extender",
+      "oritech:machine_capacitor_addon",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "oritech:carbon_plating_pressure_plate": {
+    "result": "oritech:carbon_plating_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "oritech:carbon_plating_block",
+      "oritech:carbon_plating_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "oritech:carbon_plating_slab": {
+    "result": "oritech:carbon_plating_slab",
+    "count": 6,
+    "ingredients": [
+      "oritech:carbon_plating_block",
+      "oritech:carbon_plating_block",
+      "oritech:carbon_plating_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "oritech:carbon_plating_stairs": {
+    "result": "oritech:carbon_plating_stairs",
+    "count": 4,
+    "ingredients": [
+      "oritech:carbon_plating_block",
+      "",
+      "",
+      "oritech:carbon_plating_block",
+      "oritech:carbon_plating_block",
+      "",
+      "oritech:carbon_plating_block",
+      "oritech:carbon_plating_block",
+      "oritech:carbon_plating_block"
+    ]
+  },
+  "pamhc2crops:cabbageseeditem": {
+    "result": "pamhc2crops:cabbageseeditem",
+    "count": 1,
+    "ingredients": [
+      "pamhc2crops:cabbageitem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2crops:cactusfruitseeditem": {
+    "result": "pamhc2crops:cactusfruitseeditem",
+    "count": 1,
+    "ingredients": [
+      "pamhc2crops:cactusfruititem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2crops:calabashseeditem": {
+    "result": "pamhc2crops:calabashseeditem",
+    "count": 1,
+    "ingredients": [
+      "pamhc2crops:calabashitem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2crops:candleberryseeditem": {
+    "result": "pamhc2crops:candleberryseeditem",
+    "count": 1,
+    "ingredients": [
+      "pamhc2crops:candleberryitem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2crops:canolaseeditem": {
+    "result": "pamhc2crops:canolaseeditem",
+    "count": 1,
+    "ingredients": [
+      "pamhc2crops:canolaitem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2crops:cantaloupeseeditem": {
+    "result": "pamhc2crops:cantaloupeseeditem",
+    "count": 1,
+    "ingredients": [
+      "pamhc2crops:cantaloupeitem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2crops:cassavaseeditem": {
+    "result": "pamhc2crops:cassavaseeditem",
+    "count": 1,
+    "ingredients": [
+      "pamhc2crops:cassavaitem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2crops:cattailseeditem": {
+    "result": "pamhc2crops:cattailseeditem",
+    "count": 1,
+    "ingredients": [
+      "pamhc2crops:cattailitem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2crops:cauliflowerseeditem": {
+    "result": "pamhc2crops:cauliflowerseeditem",
+    "count": 1,
+    "ingredients": [
+      "pamhc2crops:caulifloweritem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:caramelappleitem": {
+    "result": "pamhc2foodcore:caramelappleitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:caramel",
+      "minecraft:apple",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:carameldonutitem": {
+    "result": "pamhc2foodcore:carameldonutitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:cookingoil",
+      "minecraft:batter",
+      "minecraft:caramel",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:caramelicecreamitem": {
+    "result": "pamhc2foodcore:caramelicecreamitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:icecream",
+      "minecraft:caramel",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:caramelitem": {
+    "result": "pamhc2foodcore:caramelitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:sugar",
+      "minecraft:milk",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:caramelmuffinitem": {
+    "result": "pamhc2foodcore:caramelmuffinitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:caramel",
+      "minecraft:batter",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:caramelpieitem": {
+    "result": "pamhc2foodcore:caramelpieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:sugar",
+      "minecraft:caramel",
+      "minecraft:dough",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:caramelyogurtitem": {
+    "result": "pamhc2foodcore:caramelyogurtitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:yogurt",
+      "minecraft:caramel",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:carrotbreaditem": {
+    "result": "pamhc2foodcore:carrotbreaditem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:carrot",
+      "minecraft:dough",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:carrotcakeitem": {
+    "result": "pamhc2foodcore:carrotcakeitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:sugar",
+      "minecraft:carrot",
+      "minecraft:batter",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:carrotdonutitem": {
+    "result": "pamhc2foodcore:carrotdonutitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:cookingoil",
+      "minecraft:batter",
+      "minecraft:carrot",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:carrotjuiceitem": {
+    "result": "pamhc2foodcore:carrotjuiceitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_juicer",
+      "minecraft:carrot",
+      "minecraft:carrot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:carrotmuffinitem": {
+    "result": "pamhc2foodcore:carrotmuffinitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:carrot",
+      "minecraft:batter",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:carrotpieitem": {
+    "result": "pamhc2foodcore:carrotpieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:sugar",
+      "minecraft:carrot",
+      "minecraft:dough",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:carrotsoupitem": {
+    "result": "pamhc2foodcore:carrotsoupitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:carrot",
+      "minecraft:stock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:cactusfruitjellyitem": {
+    "result": "pamhc2foodextended:cactusfruitjellyitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:cactus_fruit",
+      "minecraft:sugar",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:cactusfruitjellysandwichitem": {
+    "result": "pamhc2foodextended:cactusfruitjellysandwichitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:cactusfruitjelly",
+      "minecraft:bread",
+      "minecraft:nutbutters",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:cactusfruitjellytoastitem": {
+    "result": "pamhc2foodextended:cactusfruitjellytoastitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:cactusfruitjelly",
+      "minecraft:toast",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:cactusfruitjuiceitem": {
+    "result": "pamhc2foodextended:cactusfruitjuiceitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_juicer",
+      "minecraft:cactus_fruit",
+      "minecraft:cactus_fruit",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:cactusfruitpieitem": {
+    "result": "pamhc2foodextended:cactusfruitpieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:cactus_fruit",
+      "minecraft:sugar",
+      "minecraft:dough",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:cactusfruitsmoothieitem": {
+    "result": "pamhc2foodextended:cactusfruitsmoothieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:cactus_fruit",
+      "minecraft:ices",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:cactusfruityogurtitem": {
+    "result": "pamhc2foodextended:cactusfruityogurtitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:cactus_fruit",
+      "minecraft:yogurt",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:cactussoupitem": {
+    "result": "pamhc2foodextended:cactussoupitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:cactus",
+      "minecraft:stock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:californiarollitem": {
+    "result": "pamhc2foodextended:californiarollitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:rawfish",
+      "minecraft:avocado",
+      "minecraft:cucumber",
+      "minecraft:kelp",
+      "minecraft:rice",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:candiedgingeritem": {
+    "result": "pamhc2foodextended:candiedgingeritem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:sugar",
+      "minecraft:ginger",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:candiedlemonitem": {
+    "result": "pamhc2foodextended:candiedlemonitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:sugar",
+      "minecraft:lemon",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:candiedpecansitem": {
+    "result": "pamhc2foodextended:candiedpecansitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:sugar",
+      "minecraft:pecan",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:candiedsweetpotatoesitem": {
+    "result": "pamhc2foodextended:candiedsweetpotatoesitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:sugar",
+      "minecraft:sweet_potato",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:candiedwalnutsitem": {
+    "result": "pamhc2foodextended:candiedwalnutsitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:sugar",
+      "minecraft:walnut",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:candleberryjellyitem": {
+    "result": "pamhc2foodextended:candleberryjellyitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:candleberry",
+      "minecraft:sugar",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:candleberryjellysandwichitem": {
+    "result": "pamhc2foodextended:candleberryjellysandwichitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:candleberryjelly",
+      "minecraft:bread",
+      "minecraft:nutbutters",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:candleberryjellytoastitem": {
+    "result": "pamhc2foodextended:candleberryjellytoastitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:candleberryjelly",
+      "minecraft:toast",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:candleberryjuiceitem": {
+    "result": "pamhc2foodextended:candleberryjuiceitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_juicer",
+      "minecraft:candleberry",
+      "minecraft:candleberry",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:candleberrypieitem": {
+    "result": "pamhc2foodextended:candleberrypieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:candleberry",
+      "minecraft:sugar",
+      "minecraft:dough",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:candleberrysmoothieitem": {
+    "result": "pamhc2foodextended:candleberrysmoothieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:candleberry",
+      "minecraft:ices",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:candleberryyogurtitem": {
+    "result": "pamhc2foodextended:candleberryyogurtitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:candleberry",
+      "minecraft:yogurt",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:candycornitem": {
+    "result": "pamhc2foodextended:candycornitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:sugar",
+      "minecraft:milk",
+      "minecraft:butter",
+      "minecraft:yellow",
+      "minecraft:orange",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:cantaloupejellyitem": {
+    "result": "pamhc2foodextended:cantaloupejellyitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:cantaloupe",
+      "minecraft:sugar",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:cantaloupejellysandwichitem": {
+    "result": "pamhc2foodextended:cantaloupejellysandwichitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:cantaloupejelly",
+      "minecraft:bread",
+      "minecraft:nutbutters",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:cantaloupejellytoastitem": {
+    "result": "pamhc2foodextended:cantaloupejellytoastitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:cantaloupejelly",
+      "minecraft:toast",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:cantaloupejuiceitem": {
+    "result": "pamhc2foodextended:cantaloupejuiceitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_juicer",
+      "minecraft:cantaloupe",
+      "minecraft:cantaloupe",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:cantaloupepieitem": {
+    "result": "pamhc2foodextended:cantaloupepieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:cantaloupe",
+      "minecraft:sugar",
+      "minecraft:dough",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:cantaloupesmoothieitem": {
+    "result": "pamhc2foodextended:cantaloupesmoothieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:cantaloupe",
+      "minecraft:ices",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:cantaloupeyogurtitem": {
+    "result": "pamhc2foodextended:cantaloupeyogurtitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:cantaloupe",
+      "minecraft:yogurt",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:cantonesegreensitem": {
+    "result": "pamhc2foodextended:cantonesegreensitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:cabbage",
+      "minecraft:oystersauce",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:cantonesenoodlesitem": {
+    "result": "pamhc2foodextended:cantonesenoodlesitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_skillet",
+      "minecraft:pasta",
+      "minecraft:rawbeef",
+      "minecraft:boiledegg",
+      "minecraft:corn",
+      "minecraft:carrot",
+      "minecraft:cabbage",
+      "minecraft:mushrooms",
+      "minecraft:oystersauce"
+    ]
+  },
+  "pamhc2foodextended:capresesaladitem": {
+    "result": "pamhc2foodextended:capresesaladitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:cheese",
+      "minecraft:tomato",
+      "minecraft:spiceleaf",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:carrotjuiceitem": {
+    "result": "pamhc2foodextended:carrotjuiceitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_juicer",
+      "minecraft:carrot",
+      "minecraft:carrot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:cashewbutteritem": {
+    "result": "pamhc2foodextended:cashewbutteritem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_grinder",
+      "minecraft:cashew",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:cashewchickenitem": {
+    "result": "pamhc2foodextended:cashewchickenitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:rawchicken",
+      "minecraft:cashew",
+      "minecraft:rice",
+      "minecraft:peppers",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2trees:candlenut_sapling": {
+    "result": "pamhc2trees:candlenut_sapling",
+    "count": 1,
+    "ingredients": [
+      "pamhc2trees:candlenutitem",
+      "pamhc2trees:candlenutitem",
+      "pamhc2trees:candlenutitem",
+      "pamhc2trees:candlenutitem",
+      "pamhc2trees:candlenutitem",
+      "pamhc2trees:candlenutitem",
+      "pamhc2trees:candlenutitem",
+      "pamhc2trees:candlenutitem",
+      "minecraft:saplings"
+    ]
+  },
+  "pamhc2trees:cashew_sapling": {
+    "result": "pamhc2trees:cashew_sapling",
+    "count": 1,
+    "ingredients": [
+      "pamhc2trees:cashewitem",
+      "pamhc2trees:cashewitem",
+      "pamhc2trees:cashewitem",
+      "pamhc2trees:cashewitem",
+      "pamhc2trees:cashewitem",
+      "pamhc2trees:cashewitem",
+      "pamhc2trees:cashewitem",
+      "pamhc2trees:cashewitem",
+      "minecraft:saplings"
+    ]
+  },
+  "pneumaticcraft:camo_applicator": {
+    "result": "pneumaticcraft:camo_applicator",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:blue",
+      "minecraft:iron_ingot",
+      "pneumaticcraft:air_canister",
+      "",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:lever",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "pneumaticcraft:cannon_barrel": {
+    "result": "pneumaticcraft:cannon_barrel",
+    "count": 1,
+    "ingredients": [
+      "pneumaticcraft:reinforced_brick_wall",
+      "",
+      "pneumaticcraft:reinforced_brick_wall",
+      "pneumaticcraft:reinforced_brick_wall",
+      "",
+      "pneumaticcraft:reinforced_brick_wall",
+      "pneumaticcraft:reinforced_brick_wall",
+      "pneumaticcraft:pressure_tube",
+      "pneumaticcraft:reinforced_brick_wall"
+    ]
+  },
+  "powah:capacitor_basic": {
+    "result": "powah:capacitor_basic",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:iron_ingot",
+      "powah:dielectric_paste",
+      "minecraft:iron_ingot",
+      "minecraft:redstone_block",
+      "minecraft:iron_ingot",
+      "powah:dielectric_paste",
+      "minecraft:iron_ingot",
+      ""
+    ]
+  },
+  "powah:capacitor_basic_large": {
+    "result": "powah:capacitor_basic_large",
+    "count": 1,
+    "ingredients": [
+      "powah:capacitor_basic",
+      "powah:capacitor_basic",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "powah:capacitor_basic_tiny": {
+    "result": "powah:capacitor_basic_tiny",
+    "count": 2,
+    "ingredients": [
+      "powah:capacitor_basic",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "powah:capacitor_blazing": {
+    "result": "powah:capacitor_blazing",
+    "count": 2,
+    "ingredients": [
+      "powah:dielectric_paste",
+      "powah:crystal_blazing",
+      "powah:dielectric_paste",
+      "powah:crystal_blazing",
+      "powah:capacitor_basic_large",
+      "powah:crystal_blazing",
+      "powah:dielectric_paste",
+      "powah:crystal_blazing",
+      "powah:dielectric_paste"
+    ]
+  },
+  "powah:capacitor_hardened": {
+    "result": "powah:capacitor_hardened",
+    "count": 2,
+    "ingredients": [
+      "powah:dielectric_paste",
+      "powah:steel_energized",
+      "powah:dielectric_paste",
+      "powah:steel_energized",
+      "powah:capacitor_basic_large",
+      "powah:steel_energized",
+      "powah:dielectric_paste",
+      "powah:steel_energized",
+      "powah:dielectric_paste"
+    ]
+  },
+  "powah:capacitor_niotic": {
+    "result": "powah:capacitor_niotic",
+    "count": 1,
+    "ingredients": [
+      "powah:dielectric_paste",
+      "powah:crystal_niotic",
+      "powah:dielectric_paste",
+      "powah:crystal_niotic",
+      "powah:capacitor_basic_large",
+      "powah:crystal_niotic",
+      "powah:dielectric_paste",
+      "powah:crystal_niotic",
+      "powah:dielectric_paste"
+    ]
+  },
+  "powah:capacitor_nitro": {
+    "result": "powah:capacitor_nitro",
+    "count": 1,
+    "ingredients": [
+      "powah:dielectric_paste",
+      "powah:crystal_nitro",
+      "powah:dielectric_paste",
+      "powah:crystal_nitro",
+      "powah:capacitor_basic_large",
+      "powah:crystal_nitro",
+      "powah:dielectric_paste",
+      "powah:crystal_nitro",
+      "powah:dielectric_paste"
+    ]
+  },
+  "powah:capacitor_spirited": {
+    "result": "powah:capacitor_spirited",
+    "count": 1,
+    "ingredients": [
+      "powah:dielectric_paste",
+      "powah:crystal_spirited",
+      "powah:dielectric_paste",
+      "powah:crystal_spirited",
+      "powah:capacitor_basic_large",
+      "powah:crystal_spirited",
+      "powah:dielectric_paste",
+      "powah:crystal_spirited",
+      "powah:dielectric_paste"
+    ]
+  },
+  "productivebees:catcher": {
+    "result": "productivebees:catcher",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:dirt",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:dispenser",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "productivemetalworks:casting_basin": {
+    "result": "productivemetalworks:casting_basin",
+    "count": 1,
+    "ingredients": [
+      "productivemetalworks:fire_brick",
+      "",
+      "productivemetalworks:fire_brick",
+      "productivemetalworks:fire_brick",
+      "",
+      "productivemetalworks:fire_brick",
+      "productivemetalworks:fire_brick",
+      "productivemetalworks:fire_brick",
+      "productivemetalworks:fire_brick"
+    ]
+  },
+  "productivemetalworks:casting_table": {
+    "result": "productivemetalworks:casting_table",
+    "count": 1,
+    "ingredients": [
+      "productivemetalworks:fire_brick",
+      "productivemetalworks:fire_brick",
+      "productivemetalworks:fire_brick",
+      "productivemetalworks:fire_brick",
+      "",
+      "productivemetalworks:fire_brick",
+      "productivemetalworks:fire_brick",
+      "",
+      "productivemetalworks:fire_brick"
+    ]
+  },
+  "productivetrees:cacao_bookshelf": {
+    "result": "productivetrees:cacao_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:cacao_planks",
+      "productivetrees:cacao_planks",
+      "productivetrees:cacao_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:cacao_planks",
+      "productivetrees:cacao_planks",
+      "productivetrees:cacao_planks"
+    ]
+  },
+  "productivetrees:candlenut_bookshelf": {
+    "result": "productivetrees:candlenut_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:candlenut_planks",
+      "productivetrees:candlenut_planks",
+      "productivetrees:candlenut_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:candlenut_planks",
+      "productivetrees:candlenut_planks",
+      "productivetrees:candlenut_planks"
+    ]
+  },
+  "productivetrees:carob_bookshelf": {
+    "result": "productivetrees:carob_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:carob_planks",
+      "productivetrees:carob_planks",
+      "productivetrees:carob_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:carob_planks",
+      "productivetrees:carob_planks",
+      "productivetrees:carob_planks"
+    ]
+  },
+  "productivetrees:cashew_bookshelf": {
+    "result": "productivetrees:cashew_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:cashew_planks",
+      "productivetrees:cashew_planks",
+      "productivetrees:cashew_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:cashew_planks",
+      "productivetrees:cashew_planks",
+      "productivetrees:cashew_planks"
+    ]
+  },
+  "productivetrees:cave_dweller_bookshelf": {
+    "result": "productivetrees:cave_dweller_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:cave_dweller_planks",
+      "productivetrees:cave_dweller_planks",
+      "productivetrees:cave_dweller_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:cave_dweller_planks",
+      "productivetrees:cave_dweller_planks",
+      "productivetrees:cave_dweller_planks"
+    ]
+  },
+  "productivetrees:cacao_button": {
+    "result": "productivetrees:cacao_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:cacao_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:candlenut_button": {
+    "result": "productivetrees:candlenut_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:candlenut_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:carob_button": {
+    "result": "productivetrees:carob_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:carob_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:cashew_button": {
+    "result": "productivetrees:cashew_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:cashew_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:cave_dweller_button": {
+    "result": "productivetrees:cave_dweller_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:cave_dweller_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:candlenut_crate": {
+    "result": "productivetrees:candlenut_crate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:candlenut",
+      "minecraft:candlenut",
+      "minecraft:candlenut",
+      "minecraft:candlenut",
+      "productivetrees:candlenut",
+      "minecraft:candlenut",
+      "minecraft:candlenut",
+      "minecraft:candlenut",
+      "minecraft:candlenut"
+    ]
+  },
+  "productivetrees:candlenut": {
+    "result": "productivetrees:candlenut",
+    "count": 9,
+    "ingredients": [
+      "productivetrees:candlenut_crate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:cashew_crate": {
+    "result": "productivetrees:cashew_crate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:cashew",
+      "minecraft:cashew",
+      "minecraft:cashew",
+      "minecraft:cashew",
+      "productivetrees:cashew",
+      "minecraft:cashew",
+      "minecraft:cashew",
+      "minecraft:cashew",
+      "minecraft:cashew"
+    ]
+  },
+  "productivetrees:cashew": {
+    "result": "productivetrees:cashew",
+    "count": 9,
+    "ingredients": [
+      "productivetrees:cashew_crate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:cacao_door": {
+    "result": "productivetrees:cacao_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:cacao_planks",
+      "productivetrees:cacao_planks",
+      "",
+      "productivetrees:cacao_planks",
+      "productivetrees:cacao_planks",
+      "",
+      "productivetrees:cacao_planks",
+      "productivetrees:cacao_planks",
+      ""
+    ]
+  },
+  "productivetrees:candlenut_door": {
+    "result": "productivetrees:candlenut_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:candlenut_planks",
+      "productivetrees:candlenut_planks",
+      "",
+      "productivetrees:candlenut_planks",
+      "productivetrees:candlenut_planks",
+      "",
+      "productivetrees:candlenut_planks",
+      "productivetrees:candlenut_planks",
+      ""
+    ]
+  },
+  "productivetrees:carob_door": {
+    "result": "productivetrees:carob_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:carob_planks",
+      "productivetrees:carob_planks",
+      "",
+      "productivetrees:carob_planks",
+      "productivetrees:carob_planks",
+      "",
+      "productivetrees:carob_planks",
+      "productivetrees:carob_planks",
+      ""
+    ]
+  },
+  "productivetrees:cashew_door": {
+    "result": "productivetrees:cashew_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:cashew_planks",
+      "productivetrees:cashew_planks",
+      "",
+      "productivetrees:cashew_planks",
+      "productivetrees:cashew_planks",
+      "",
+      "productivetrees:cashew_planks",
+      "productivetrees:cashew_planks",
+      ""
+    ]
+  },
+  "productivetrees:cave_dweller_door": {
+    "result": "productivetrees:cave_dweller_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:cave_dweller_planks",
+      "productivetrees:cave_dweller_planks",
+      "",
+      "productivetrees:cave_dweller_planks",
+      "productivetrees:cave_dweller_planks",
+      "",
+      "productivetrees:cave_dweller_planks",
+      "productivetrees:cave_dweller_planks",
+      ""
+    ]
+  },
+  "productivetrees:cacao_fence": {
+    "result": "productivetrees:cacao_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:cacao_planks",
+      "minecraft:stick",
+      "productivetrees:cacao_planks",
+      "productivetrees:cacao_planks",
+      "minecraft:stick",
+      "productivetrees:cacao_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:candlenut_fence": {
+    "result": "productivetrees:candlenut_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:candlenut_planks",
+      "minecraft:stick",
+      "productivetrees:candlenut_planks",
+      "productivetrees:candlenut_planks",
+      "minecraft:stick",
+      "productivetrees:candlenut_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:carob_fence": {
+    "result": "productivetrees:carob_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:carob_planks",
+      "minecraft:stick",
+      "productivetrees:carob_planks",
+      "productivetrees:carob_planks",
+      "minecraft:stick",
+      "productivetrees:carob_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:cashew_fence": {
+    "result": "productivetrees:cashew_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:cashew_planks",
+      "minecraft:stick",
+      "productivetrees:cashew_planks",
+      "productivetrees:cashew_planks",
+      "minecraft:stick",
+      "productivetrees:cashew_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:cave_dweller_fence": {
+    "result": "productivetrees:cave_dweller_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:cave_dweller_planks",
+      "minecraft:stick",
+      "productivetrees:cave_dweller_planks",
+      "productivetrees:cave_dweller_planks",
+      "minecraft:stick",
+      "productivetrees:cave_dweller_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:cacao_fence_gate": {
+    "result": "productivetrees:cacao_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:cacao_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:cacao_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:candlenut_fence_gate": {
+    "result": "productivetrees:candlenut_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:candlenut_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:candlenut_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:carob_fence_gate": {
+    "result": "productivetrees:carob_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:carob_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:carob_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:cashew_fence_gate": {
+    "result": "productivetrees:cashew_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:cashew_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:cashew_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:cave_dweller_fence_gate": {
+    "result": "productivetrees:cave_dweller_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:cave_dweller_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:cave_dweller_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:cacao_hanging_sign": {
+    "result": "productivetrees:cacao_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:cacao_planks",
+      "productivetrees:cacao_planks",
+      "productivetrees:cacao_planks",
+      "productivetrees:cacao_planks",
+      "productivetrees:cacao_planks",
+      "productivetrees:cacao_planks"
+    ]
+  },
+  "productivetrees:candlenut_hanging_sign": {
+    "result": "productivetrees:candlenut_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:candlenut_planks",
+      "productivetrees:candlenut_planks",
+      "productivetrees:candlenut_planks",
+      "productivetrees:candlenut_planks",
+      "productivetrees:candlenut_planks",
+      "productivetrees:candlenut_planks"
+    ]
+  },
+  "productivetrees:carob_hanging_sign": {
+    "result": "productivetrees:carob_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:carob_planks",
+      "productivetrees:carob_planks",
+      "productivetrees:carob_planks",
+      "productivetrees:carob_planks",
+      "productivetrees:carob_planks",
+      "productivetrees:carob_planks"
+    ]
+  },
+  "productivetrees:cashew_hanging_sign": {
+    "result": "productivetrees:cashew_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:cashew_planks",
+      "productivetrees:cashew_planks",
+      "productivetrees:cashew_planks",
+      "productivetrees:cashew_planks",
+      "productivetrees:cashew_planks",
+      "productivetrees:cashew_planks"
+    ]
+  },
+  "productivetrees:cave_dweller_hanging_sign": {
+    "result": "productivetrees:cave_dweller_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:cave_dweller_planks",
+      "productivetrees:cave_dweller_planks",
+      "productivetrees:cave_dweller_planks",
+      "productivetrees:cave_dweller_planks",
+      "productivetrees:cave_dweller_planks",
+      "productivetrees:cave_dweller_planks"
+    ]
+  },
+  "productivetrees:cacao_planks": {
+    "result": "productivetrees:cacao_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:candlenut_planks": {
+    "result": "productivetrees:candlenut_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:carob_planks": {
+    "result": "productivetrees:carob_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:cashew_planks": {
+    "result": "productivetrees:cashew_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:cave_dweller_planks": {
+    "result": "productivetrees:cave_dweller_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:cacao_pressure_plate": {
+    "result": "productivetrees:cacao_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:cacao_planks",
+      "productivetrees:cacao_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:candlenut_pressure_plate": {
+    "result": "productivetrees:candlenut_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:candlenut_planks",
+      "productivetrees:candlenut_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:carob_pressure_plate": {
+    "result": "productivetrees:carob_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:carob_planks",
+      "productivetrees:carob_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:cashew_pressure_plate": {
+    "result": "productivetrees:cashew_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:cashew_planks",
+      "productivetrees:cashew_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:cave_dweller_pressure_plate": {
+    "result": "productivetrees:cave_dweller_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:cave_dweller_planks",
+      "productivetrees:cave_dweller_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:cacao_sign": {
+    "result": "productivetrees:cacao_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:cacao_planks",
+      "productivetrees:cacao_planks",
+      "productivetrees:cacao_planks",
+      "productivetrees:cacao_planks",
+      "productivetrees:cacao_planks",
+      "productivetrees:cacao_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:candlenut_sign": {
+    "result": "productivetrees:candlenut_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:candlenut_planks",
+      "productivetrees:candlenut_planks",
+      "productivetrees:candlenut_planks",
+      "productivetrees:candlenut_planks",
+      "productivetrees:candlenut_planks",
+      "productivetrees:candlenut_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:carob_sign": {
+    "result": "productivetrees:carob_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:carob_planks",
+      "productivetrees:carob_planks",
+      "productivetrees:carob_planks",
+      "productivetrees:carob_planks",
+      "productivetrees:carob_planks",
+      "productivetrees:carob_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:cashew_sign": {
+    "result": "productivetrees:cashew_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:cashew_planks",
+      "productivetrees:cashew_planks",
+      "productivetrees:cashew_planks",
+      "productivetrees:cashew_planks",
+      "productivetrees:cashew_planks",
+      "productivetrees:cashew_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:cave_dweller_sign": {
+    "result": "productivetrees:cave_dweller_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:cave_dweller_planks",
+      "productivetrees:cave_dweller_planks",
+      "productivetrees:cave_dweller_planks",
+      "productivetrees:cave_dweller_planks",
+      "productivetrees:cave_dweller_planks",
+      "productivetrees:cave_dweller_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:cacao_slab": {
+    "result": "productivetrees:cacao_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:cacao_planks",
+      "productivetrees:cacao_planks",
+      "productivetrees:cacao_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:candlenut_slab": {
+    "result": "productivetrees:candlenut_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:candlenut_planks",
+      "productivetrees:candlenut_planks",
+      "productivetrees:candlenut_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:carob_slab": {
+    "result": "productivetrees:carob_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:carob_planks",
+      "productivetrees:carob_planks",
+      "productivetrees:carob_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:cashew_slab": {
+    "result": "productivetrees:cashew_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:cashew_planks",
+      "productivetrees:cashew_planks",
+      "productivetrees:cashew_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:cave_dweller_slab": {
+    "result": "productivetrees:cave_dweller_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:cave_dweller_planks",
+      "productivetrees:cave_dweller_planks",
+      "productivetrees:cave_dweller_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:cacao_stairs": {
+    "result": "productivetrees:cacao_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:cacao_planks",
+      "",
+      "",
+      "productivetrees:cacao_planks",
+      "productivetrees:cacao_planks",
+      "",
+      "productivetrees:cacao_planks",
+      "productivetrees:cacao_planks",
+      "productivetrees:cacao_planks"
+    ]
+  },
+  "productivetrees:candlenut_stairs": {
+    "result": "productivetrees:candlenut_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:candlenut_planks",
+      "",
+      "",
+      "productivetrees:candlenut_planks",
+      "productivetrees:candlenut_planks",
+      "",
+      "productivetrees:candlenut_planks",
+      "productivetrees:candlenut_planks",
+      "productivetrees:candlenut_planks"
+    ]
+  },
+  "productivetrees:carob_stairs": {
+    "result": "productivetrees:carob_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:carob_planks",
+      "",
+      "",
+      "productivetrees:carob_planks",
+      "productivetrees:carob_planks",
+      "",
+      "productivetrees:carob_planks",
+      "productivetrees:carob_planks",
+      "productivetrees:carob_planks"
+    ]
+  },
+  "productivetrees:cashew_stairs": {
+    "result": "productivetrees:cashew_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:cashew_planks",
+      "",
+      "",
+      "productivetrees:cashew_planks",
+      "productivetrees:cashew_planks",
+      "",
+      "productivetrees:cashew_planks",
+      "productivetrees:cashew_planks",
+      "productivetrees:cashew_planks"
+    ]
+  },
+  "productivetrees:cave_dweller_stairs": {
+    "result": "productivetrees:cave_dweller_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:cave_dweller_planks",
+      "",
+      "",
+      "productivetrees:cave_dweller_planks",
+      "productivetrees:cave_dweller_planks",
+      "",
+      "productivetrees:cave_dweller_planks",
+      "productivetrees:cave_dweller_planks",
+      "productivetrees:cave_dweller_planks"
+    ]
+  },
+  "productivetrees:cacao_trapdoor": {
+    "result": "productivetrees:cacao_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:cacao_planks",
+      "productivetrees:cacao_planks",
+      "productivetrees:cacao_planks",
+      "productivetrees:cacao_planks",
+      "productivetrees:cacao_planks",
+      "productivetrees:cacao_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:candlenut_trapdoor": {
+    "result": "productivetrees:candlenut_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:candlenut_planks",
+      "productivetrees:candlenut_planks",
+      "productivetrees:candlenut_planks",
+      "productivetrees:candlenut_planks",
+      "productivetrees:candlenut_planks",
+      "productivetrees:candlenut_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:carob_trapdoor": {
+    "result": "productivetrees:carob_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:carob_planks",
+      "productivetrees:carob_planks",
+      "productivetrees:carob_planks",
+      "productivetrees:carob_planks",
+      "productivetrees:carob_planks",
+      "productivetrees:carob_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:cashew_trapdoor": {
+    "result": "productivetrees:cashew_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:cashew_planks",
+      "productivetrees:cashew_planks",
+      "productivetrees:cashew_planks",
+      "productivetrees:cashew_planks",
+      "productivetrees:cashew_planks",
+      "productivetrees:cashew_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:cave_dweller_trapdoor": {
+    "result": "productivetrees:cave_dweller_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:cave_dweller_planks",
+      "productivetrees:cave_dweller_planks",
+      "productivetrees:cave_dweller_planks",
+      "productivetrees:cave_dweller_planks",
+      "productivetrees:cave_dweller_planks",
+      "productivetrees:cave_dweller_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:cacao_wood": {
+    "result": "productivetrees:cacao_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:cacao_log",
+      "productivetrees:cacao_log",
+      "",
+      "productivetrees:cacao_log",
+      "productivetrees:cacao_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:candlenut_wood": {
+    "result": "productivetrees:candlenut_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:candlenut_log",
+      "productivetrees:candlenut_log",
+      "",
+      "productivetrees:candlenut_log",
+      "productivetrees:candlenut_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:carob_wood": {
+    "result": "productivetrees:carob_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:carob_log",
+      "productivetrees:carob_log",
+      "",
+      "productivetrees:carob_log",
+      "productivetrees:carob_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:cashew_wood": {
+    "result": "productivetrees:cashew_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:cashew_log",
+      "productivetrees:cashew_log",
+      "",
+      "productivetrees:cashew_log",
+      "productivetrees:cashew_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:cave_dweller_wood": {
+    "result": "productivetrees:cave_dweller_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:cave_dweller_log",
+      "productivetrees:cave_dweller_log",
+      "",
+      "productivetrees:cave_dweller_log",
+      "productivetrees:cave_dweller_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:cargo_minecart": {
+    "result": "railcraft:cargo_minecart",
+    "count": 1,
+    "ingredients": [
+      "minecraft:barrel",
+      "",
+      "",
+      "minecraft:minecart",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:cart_dispenser": {
+    "result": "railcraft:cart_dispenser",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dispenser",
+      "minecraft:minecart",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "refinedstorage:cable": {
+    "result": "refinedstorage:cable",
+    "count": 12,
+    "ingredients": [
+      "refinedstorage:quartz_enriched_copper",
+      "refinedstorage:quartz_enriched_copper",
+      "refinedstorage:quartz_enriched_copper",
+      "minecraft:glass",
+      "minecraft:redstone",
+      "minecraft:glass",
+      "refinedstorage:quartz_enriched_copper",
+      "refinedstorage:quartz_enriched_copper",
+      "refinedstorage:quartz_enriched_copper"
+    ]
+  },
+  "reliquary:catalyzing_gland": {
+    "result": "reliquary:catalyzing_gland",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gunpowder",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot"
+    ]
+  },
+  "securitycraft:cage_trap": {
+    "result": "securitycraft:cage_trap",
+    "count": 1,
+    "ingredients": [
+      "securitycraft:reinforced_iron_bars",
+      "securitycraft:reinforced_iron_bars",
+      "securitycraft:reinforced_iron_bars",
+      "minecraft:gold_ingot",
+      "minecraft:redstone",
+      "minecraft:gold_ingot",
+      "securitycraft:reinforced_iron_block",
+      "securitycraft:reinforced_iron_block",
+      "securitycraft:reinforced_iron_block"
+    ]
+  },
+  "securitycraft:camera_monitor": {
+    "result": "securitycraft:camera_monitor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "securitycraft:reinforced_glass_pane",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "sfm:cable": {
+    "result": "sfm:cable",
+    "count": 1,
+    "ingredients": [
+      "sfm:tough_cable",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgems:carnelian": {
+    "result": "silentgems:carnelian",
+    "count": 9,
+    "ingredients": [
+      "silentgems:carnelian_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgems:carnelian_bricks": {
+    "result": "silentgems:carnelian_bricks",
+    "count": 12,
+    "ingredients": [
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:carnelian",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks"
+    ]
+  },
+  "silentgems:carnelian_block": {
+    "result": "silentgems:carnelian_block",
+    "count": 1,
+    "ingredients": [
+      "silentgems:carnelian",
+      "silentgems:carnelian",
+      "silentgems:carnelian",
+      "silentgems:carnelian",
+      "silentgems:carnelian",
+      "silentgems:carnelian",
+      "silentgems:carnelian",
+      "silentgems:carnelian",
+      "silentgems:carnelian"
+    ]
+  },
+  "silentgems:carnelian_glass": {
+    "result": "silentgems:carnelian_glass",
+    "count": 12,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:carnelian",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass"
+    ]
+  },
+  "silentgems:carnelian_lamp": {
+    "result": "silentgems:carnelian_lamp",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:carnelian",
+      "minecraft:stone",
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:redstone"
+    ]
+  },
+  "silentgems:carnelian_lamp_inverted_on": {
+    "result": "silentgems:carnelian_lamp_inverted_on",
+    "count": 1,
+    "ingredients": [
+      "silentgems:carnelian_lamp",
+      "minecraft:redstone_torch",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgems:carnelian_redstone_teleporter": {
+    "result": "silentgems:carnelian_redstone_teleporter",
+    "count": 1,
+    "ingredients": [
+      "silentgems:carnelian_teleporter",
+      "minecraft:redstone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgems:carnelian_small_bricks": {
+    "result": "silentgems:carnelian_small_bricks",
+    "count": 12,
+    "ingredients": [
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:carnelian",
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:bricks"
+    ]
+  },
+  "silentgems:carnelian_teleporter": {
+    "result": "silentgems:carnelian_teleporter",
+    "count": 2,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "minecraft:carnelian",
+      "minecraft:gold_ingot",
+      "minecraft:carnelian",
+      "silentgems:chaos_essence_block",
+      "minecraft:carnelian",
+      "",
+      "minecraft:ender_pearl",
+      ""
+    ]
+  },
+  "silentgems:carnelian_tiles": {
+    "result": "silentgems:carnelian_tiles",
+    "count": 12,
+    "ingredients": [
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:carnelian",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles"
+    ]
+  },
+  "structurize:caliper": {
+    "result": "structurize:caliper",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:coal",
+      "",
+      "minecraft:iron"
+    ]
+  },
+  "supplementaries:cage": {
+    "result": "supplementaries:cage",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_bars",
+      "",
+      "minecraft:iron_bars",
+      "minecraft:wooden_slabs",
+      "minecraft:wooden_slabs",
+      "minecraft:wooden_slabs"
+    ]
+  },
+  "supplementaries:candy": {
+    "result": "supplementaries:candy",
+    "count": 8,
+    "ingredients": [
+      "minecraft:sugar",
+      "minecraft:paper",
+      "minecraft:honey_bottle",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "supplementaries:cannon": {
+    "result": "supplementaries:cannon",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "supplementaries:slingshot",
+      "minecraft:iron_ingot",
+      "minecraft:oak_planks",
+      "minecraft:redstone",
+      "minecraft:oak_planks"
+    ]
+  },
+  "supplementaries:cannonball": {
+    "result": "supplementaries:cannonball",
+    "count": 10,
+    "ingredients": [
+      "",
+      "minecraft:lead",
+      "",
+      "minecraft:lead",
+      "minecraft:lead",
+      "minecraft:lead",
+      "",
+      "minecraft:lead",
+      ""
+    ]
+  },
+  "supplementaries:cannon_boat_bamboo": {
+    "result": "supplementaries:cannon_boat_bamboo",
+    "count": 1,
+    "ingredients": [
+      "supplementaries:cannon",
+      "minecraft:bamboo_raft",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "supplementaries:cannon_boat_oak": {
+    "result": "supplementaries:cannon_boat_oak",
+    "count": 1,
+    "ingredients": [
+      "supplementaries:cannon",
+      "minecraft:oak_boat",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "supplementaries:candle_holder": {
+    "result": "supplementaries:candle_holder",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:candle",
+      "",
+      "",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "supplementaries:candle_holder_black": {
+    "result": "supplementaries:candle_holder_black",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black",
+      "supplementaries:candle_holder",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "supplementaries:candle_holder_blue": {
+    "result": "supplementaries:candle_holder_blue",
+    "count": 1,
+    "ingredients": [
+      "minecraft:blue",
+      "supplementaries:candle_holder",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "supplementaries:candle_holder_brown": {
+    "result": "supplementaries:candle_holder_brown",
+    "count": 1,
+    "ingredients": [
+      "minecraft:brown",
+      "supplementaries:candle_holder",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "supplementaries:candle_holder_cyan": {
+    "result": "supplementaries:candle_holder_cyan",
+    "count": 1,
+    "ingredients": [
+      "minecraft:cyan",
+      "supplementaries:candle_holder",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "supplementaries:candle_holder_ender": {
+    "result": "supplementaries:candle_holder_ender",
+    "count": 1,
+    "ingredients": [
+      "buzzier_bees:ender_candle",
+      "",
+      "",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "supplementaries:candle_holder_gray": {
+    "result": "supplementaries:candle_holder_gray",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gray",
+      "supplementaries:candle_holder",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "supplementaries:candle_holder_green": {
+    "result": "supplementaries:candle_holder_green",
+    "count": 1,
+    "ingredients": [
+      "minecraft:green",
+      "supplementaries:candle_holder",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "supplementaries:candle_holder_light_blue": {
+    "result": "supplementaries:candle_holder_light_blue",
+    "count": 1,
+    "ingredients": [
+      "minecraft:light_blue",
+      "supplementaries:candle_holder",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "supplementaries:candle_holder_light_gray": {
+    "result": "supplementaries:candle_holder_light_gray",
+    "count": 1,
+    "ingredients": [
+      "minecraft:light_gray",
+      "supplementaries:candle_holder",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "supplementaries:candle_holder_lime": {
+    "result": "supplementaries:candle_holder_lime",
+    "count": 1,
+    "ingredients": [
+      "minecraft:lime",
+      "supplementaries:candle_holder",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "supplementaries:candle_holder_magenta": {
+    "result": "supplementaries:candle_holder_magenta",
+    "count": 1,
+    "ingredients": [
+      "minecraft:magenta",
+      "supplementaries:candle_holder",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "supplementaries:candle_holder_orange": {
+    "result": "supplementaries:candle_holder_orange",
+    "count": 1,
+    "ingredients": [
+      "minecraft:orange",
+      "supplementaries:candle_holder",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "supplementaries:candle_holder_pink": {
+    "result": "supplementaries:candle_holder_pink",
+    "count": 1,
+    "ingredients": [
+      "minecraft:pink",
+      "supplementaries:candle_holder",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "supplementaries:candle_holder_purple": {
+    "result": "supplementaries:candle_holder_purple",
+    "count": 1,
+    "ingredients": [
+      "minecraft:purple",
+      "supplementaries:candle_holder",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "supplementaries:candle_holder_red": {
+    "result": "supplementaries:candle_holder_red",
+    "count": 1,
+    "ingredients": [
+      "minecraft:red",
+      "supplementaries:candle_holder",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "supplementaries:candle_holder_soul": {
+    "result": "supplementaries:candle_holder_soul",
+    "count": 1,
+    "ingredients": [
+      "buzzier_bees:soul_candle",
+      "",
+      "",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "supplementaries:candle_holder_spectacle": {
+    "result": "supplementaries:candle_holder_spectacle",
+    "count": 1,
+    "ingredients": [
+      "cave_enhancements:spectacle_candle",
+      "",
+      "",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "supplementaries:candle_holder_white": {
+    "result": "supplementaries:candle_holder_white",
+    "count": 1,
+    "ingredients": [
+      "minecraft:white",
+      "supplementaries:candle_holder",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "supplementaries:candle_holder_yellow": {
+    "result": "supplementaries:candle_holder_yellow",
+    "count": 1,
+    "ingredients": [
+      "minecraft:yellow",
+      "supplementaries:candle_holder",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "tempad:card_wallet": {
+    "result": "tempad:card_wallet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:copper_ingot",
+      "",
+      "minecraft:copper_ingot",
+      "minecraft:leather",
+      "tempad:location_card",
+      "minecraft:leather",
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot"
+    ]
+  },
+  "theurgy:calcination_oven": {
+    "result": "theurgy:calcination_oven",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:copper",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      ""
+    ]
+  },
+  "theurgy:caloric_flux_emitter": {
+    "result": "theurgy:caloric_flux_emitter",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:lava_bucket",
+      "",
+      "minecraft:gold_ingot",
+      "minecraft:alchemical_mercuries",
+      "minecraft:gold_ingot",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone"
+    ]
+  },
+  "the_bumblezone:carvable_wax": {
+    "result": "the_bumblezone:carvable_wax",
+    "count": 1,
+    "ingredients": [
+      "minecraft:honeycomb",
+      "minecraft:honeycomb",
+      "minecraft:honeycomb",
+      "minecraft:honeycomb",
+      "minecraft:honeycomb",
+      "minecraft:honeycomb",
+      "minecraft:honeycomb",
+      "minecraft:honeycomb",
+      "minecraft:honeycomb"
+    ]
+  },
+  "tombstone:carmin_marble": {
+    "result": "tombstone:carmin_marble",
+    "count": 1,
+    "ingredients": [
+      "tombstone:grave_dust",
+      "minecraft:stone",
+      "minecraft:red_sand",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "tombstone:carmin_marble_slab": {
+    "result": "tombstone:carmin_marble_slab",
+    "count": 2,
+    "ingredients": [
+      "tombstone:carmin_marble",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "tombstone:carmin_marble_stairs": {
+    "result": "tombstone:carmin_marble_stairs",
+    "count": 4,
+    "ingredients": [
+      "tombstone:carmin_marble",
+      "",
+      "",
+      "tombstone:carmin_marble",
+      "tombstone:carmin_marble",
+      "",
+      "tombstone:carmin_marble",
+      "tombstone:carmin_marble",
+      "tombstone:carmin_marble"
+    ]
+  },
+  "tombstone:carmin_marble_wall": {
+    "result": "tombstone:carmin_marble_wall",
+    "count": 6,
+    "ingredients": [
+      "tombstone:carmin_marble",
+      "tombstone:carmin_marble",
+      "tombstone:carmin_marble",
+      "tombstone:carmin_marble",
+      "tombstone:carmin_marble",
+      "tombstone:carmin_marble",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:candelabra": {
+    "result": "twilightforest:candelabra",
+    "count": 2,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:canopy_boat": {
+    "result": "twilightforest:canopy_boat",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:canopy_planks",
+      "",
+      "twilightforest:canopy_planks",
+      "twilightforest:canopy_planks",
+      "twilightforest:canopy_planks",
+      "twilightforest:canopy_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:canopy_bookshelf": {
+    "result": "twilightforest:canopy_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:canopy_planks",
+      "twilightforest:canopy_planks",
+      "twilightforest:canopy_planks",
+      "minecraft:book",
+      "",
+      "minecraft:book",
+      "twilightforest:canopy_planks",
+      "twilightforest:canopy_planks",
+      "twilightforest:canopy_planks"
+    ]
+  },
+  "twilightforest:canopy_chest_boat": {
+    "result": "twilightforest:canopy_chest_boat",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:canopy_boat",
+      "minecraft:chest",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:canopy_window": {
+    "result": "twilightforest:canopy_window",
+    "count": 4,
+    "ingredients": [
+      "minecraft:glass",
+      "twilightforest:canopy_planks",
+      "minecraft:glass",
+      "twilightforest:canopy_planks",
+      "twilightforest:canopy_planks",
+      "twilightforest:canopy_planks",
+      "minecraft:glass",
+      "twilightforest:canopy_planks",
+      "minecraft:glass"
+    ]
+  },
+  "twilightforest:canopy_window_pane": {
+    "result": "twilightforest:canopy_window_pane",
+    "count": 16,
+    "ingredients": [
+      "twilightforest:canopy_window",
+      "twilightforest:canopy_window",
+      "twilightforest:canopy_window",
+      "twilightforest:canopy_window",
+      "twilightforest:canopy_window",
+      "twilightforest:canopy_window",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:carminite_builder": {
+    "result": "twilightforest:carminite_builder",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:encased_towerwood",
+      "minecraft:carminite",
+      "twilightforest:encased_towerwood",
+      "minecraft:carminite",
+      "minecraft:dispenser",
+      "minecraft:carminite",
+      "twilightforest:encased_towerwood",
+      "minecraft:carminite",
+      "twilightforest:encased_towerwood"
+    ]
+  },
+  "twilightforest:carminite_reactor": {
+    "result": "twilightforest:carminite_reactor",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:encased_towerwood",
+      "minecraft:carminite",
+      "twilightforest:encased_towerwood",
+      "minecraft:carminite",
+      "minecraft:redstone",
+      "minecraft:carminite",
+      "twilightforest:encased_towerwood",
+      "minecraft:carminite",
+      "twilightforest:encased_towerwood"
+    ]
+  },
+  "twilightforest:castle_brick_stairs": {
+    "result": "twilightforest:castle_brick_stairs",
+    "count": 8,
+    "ingredients": [
+      "twilightforest:castle_brick",
+      "",
+      "",
+      "twilightforest:castle_brick",
+      "twilightforest:castle_brick",
+      "",
+      "twilightforest:castle_brick",
+      "twilightforest:castle_brick",
+      "twilightforest:castle_brick"
+    ]
+  },
+  "twilightforest:carminite_block": {
+    "result": "twilightforest:carminite_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:carminite",
+      "minecraft:carminite",
+      "minecraft:carminite",
+      "minecraft:carminite",
+      "twilightforest:carminite",
+      "minecraft:carminite",
+      "minecraft:carminite",
+      "minecraft:carminite",
+      "minecraft:carminite"
+    ]
+  },
+  "twilightforest:carminite": {
+    "result": "twilightforest:carminite",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:borer_essence",
+      "minecraft:redstone",
+      "twilightforest:borer_essence",
+      "minecraft:redstone",
+      "minecraft:ghast_tear",
+      "minecraft:redstone",
+      "twilightforest:borer_essence",
+      "minecraft:redstone",
+      "twilightforest:borer_essence"
+    ]
+  },
+  "twilightforest:canopy_banister": {
+    "result": "twilightforest:canopy_banister",
+    "count": 3,
+    "ingredients": [
+      "twilightforest:canopy_slab",
+      "twilightforest:canopy_slab",
+      "twilightforest:canopy_slab",
+      "minecraft:stick",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:canopy_button": {
+    "result": "twilightforest:canopy_button",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:canopy_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:canopy_chest": {
+    "result": "twilightforest:canopy_chest",
+    "count": 2,
+    "ingredients": [
+      "twilightforest:canopy_planks",
+      "twilightforest:canopy_planks",
+      "twilightforest:canopy_planks",
+      "twilightforest:canopy_planks",
+      "minecraft:chest",
+      "twilightforest:canopy_planks",
+      "twilightforest:canopy_planks",
+      "twilightforest:canopy_planks",
+      "twilightforest:canopy_planks"
+    ]
+  },
+  "twilightforest:canopy_door": {
+    "result": "twilightforest:canopy_door",
+    "count": 3,
+    "ingredients": [
+      "twilightforest:canopy_planks",
+      "twilightforest:canopy_planks",
+      "",
+      "twilightforest:canopy_planks",
+      "twilightforest:canopy_planks",
+      "",
+      "twilightforest:canopy_planks",
+      "twilightforest:canopy_planks",
+      ""
+    ]
+  },
+  "twilightforest:canopy_drying_rack": {
+    "result": "twilightforest:canopy_drying_rack",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:canopy_slab",
+      "twilightforest:canopy_slab",
+      "twilightforest:canopy_slab",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:canopy_fence": {
+    "result": "twilightforest:canopy_fence",
+    "count": 3,
+    "ingredients": [
+      "twilightforest:canopy_planks",
+      "minecraft:stick",
+      "twilightforest:canopy_planks",
+      "twilightforest:canopy_planks",
+      "minecraft:stick",
+      "twilightforest:canopy_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:canopy_fence_gate": {
+    "result": "twilightforest:canopy_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "twilightforest:canopy_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "twilightforest:canopy_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:canopy_hanging_sign": {
+    "result": "twilightforest:canopy_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "twilightforest:stripped_canopy_log",
+      "twilightforest:stripped_canopy_log",
+      "twilightforest:stripped_canopy_log",
+      "twilightforest:stripped_canopy_log",
+      "twilightforest:stripped_canopy_log",
+      "twilightforest:stripped_canopy_log"
+    ]
+  },
+  "twilightforest:canopy_planks": {
+    "result": "twilightforest:canopy_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:canopy_pressure_plate": {
+    "result": "twilightforest:canopy_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:canopy_planks",
+      "twilightforest:canopy_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:canopy_sign": {
+    "result": "twilightforest:canopy_sign",
+    "count": 3,
+    "ingredients": [
+      "twilightforest:canopy_planks",
+      "twilightforest:canopy_planks",
+      "twilightforest:canopy_planks",
+      "twilightforest:canopy_planks",
+      "twilightforest:canopy_planks",
+      "twilightforest:canopy_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "twilightforest:canopy_slab": {
+    "result": "twilightforest:canopy_slab",
+    "count": 6,
+    "ingredients": [
+      "twilightforest:canopy_planks",
+      "twilightforest:canopy_planks",
+      "twilightforest:canopy_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:canopy_stairs": {
+    "result": "twilightforest:canopy_stairs",
+    "count": 8,
+    "ingredients": [
+      "twilightforest:canopy_planks",
+      "",
+      "",
+      "twilightforest:canopy_planks",
+      "twilightforest:canopy_planks",
+      "",
+      "twilightforest:canopy_planks",
+      "twilightforest:canopy_planks",
+      "twilightforest:canopy_planks"
+    ]
+  },
+  "twilightforest:canopy_trapdoor": {
+    "result": "twilightforest:canopy_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "twilightforest:canopy_planks",
+      "twilightforest:canopy_planks",
+      "twilightforest:canopy_planks",
+      "twilightforest:canopy_planks",
+      "twilightforest:canopy_planks",
+      "twilightforest:canopy_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:canopy_trapped_chest": {
+    "result": "twilightforest:canopy_trapped_chest",
+    "count": 2,
+    "ingredients": [
+      "twilightforest:canopy_planks",
+      "twilightforest:canopy_planks",
+      "twilightforest:canopy_planks",
+      "twilightforest:canopy_planks",
+      "minecraft:trapped_chest",
+      "twilightforest:canopy_planks",
+      "twilightforest:canopy_planks",
+      "twilightforest:canopy_planks",
+      "twilightforest:canopy_planks"
+    ]
+  },
+  "twilightforest:canopy_wood": {
+    "result": "twilightforest:canopy_wood",
+    "count": 3,
+    "ingredients": [
+      "twilightforest:canopy_log",
+      "twilightforest:canopy_log",
+      "",
+      "twilightforest:canopy_log",
+      "twilightforest:canopy_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:catalyst": {
+    "result": "undergarden:catalyst",
+    "count": 1,
+    "ingredients": [
+      "minecraft:copper_ingot",
+      "minecraft:stone",
+      "minecraft:copper_ingot",
+      "minecraft:stone",
+      "minecraft:ender_pearl",
+      "minecraft:stone",
+      "minecraft:copper_ingot",
+      "minecraft:stone",
+      "minecraft:copper_ingot"
+    ]
+  }
+}

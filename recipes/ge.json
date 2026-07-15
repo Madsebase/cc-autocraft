@@ -1,0 +1,272 @@
+{
+  "advancedperipherals:geo_scanner": {
+    "result": "advancedperipherals:geo_scanner",
+    "count": 1,
+    "ingredients": [
+      "minecraft:diamond",
+      "computercraft:wired_modem_full",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "advancedperipherals:peripheral_casing",
+      "minecraft:diamond",
+      "minecraft:redstone",
+      "minecraft:observer",
+      "minecraft:redstone"
+    ]
+  },
+  "apotheosis:gem_case": {
+    "result": "apotheosis:gem_case",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:basalt",
+      "apotheosis:gem_cutting_table",
+      "minecraft:basalt",
+      "minecraft:basalt",
+      "minecraft:ender_chest",
+      "minecraft:basalt"
+    ]
+  },
+  "apotheosis:gem_cutting_table": {
+    "result": "apotheosis:gem_cutting_table",
+    "count": 1,
+    "ingredients": [
+      "minecraft:smooth_stone",
+      "minecraft:shears",
+      "minecraft:smooth_stone",
+      "minecraft:oak_planks",
+      "apotheosis:gem_dust",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "",
+      "minecraft:oak_planks"
+    ]
+  },
+  "apotheosis:gem_fused_slate": {
+    "result": "apotheosis:gem_fused_slate",
+    "count": 8,
+    "ingredients": [
+      "minecraft:deepslate",
+      "minecraft:deepslate",
+      "minecraft:deepslate",
+      "minecraft:deepslate",
+      "apotheosis:gem_dust",
+      "minecraft:deepslate",
+      "minecraft:deepslate",
+      "minecraft:deepslate",
+      "minecraft:deepslate"
+    ]
+  },
+  "apothic_enchanting:geode_shelf": {
+    "result": "apothic_enchanting:geode_shelf",
+    "count": 1,
+    "ingredients": [
+      "minecraft:calcite",
+      "minecraft:calcite",
+      "minecraft:calcite",
+      "minecraft:calcite",
+      "minecraft:bookshelves",
+      "minecraft:calcite",
+      "minecraft:calcite",
+      "minecraft:budding_amethyst",
+      "minecraft:calcite"
+    ]
+  },
+  "create:gearbox": {
+    "result": "create:gearbox",
+    "count": 1,
+    "ingredients": [
+      "create:vertical_gearbox",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:gearshift": {
+    "result": "create:gearshift",
+    "count": 1,
+    "ingredients": [
+      "create:andesite_casing",
+      "create:cogwheel",
+      "minecraft:redstone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create_enchantment_industry:gem_cutter": {
+    "result": "create_enchantment_industry:gem_cutter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:amethyst_shard",
+      "minecraft:amethyst_shard",
+      "minecraft:amethyst_shard",
+      "create:brass_ingot",
+      "apotheosis:gem_dust",
+      "create:brass_ingot",
+      "minecraft:amethyst_shard",
+      "minecraft:amethyst_shard",
+      "minecraft:amethyst_shard"
+    ]
+  },
+  "draconicevolution:generator": {
+    "result": "draconicevolution:generator",
+    "count": 1,
+    "ingredients": [
+      "minecraft:nether",
+      "minecraft:iron_ingot",
+      "minecraft:nether",
+      "minecraft:iron_ingot",
+      "minecraft:furnace",
+      "minecraft:iron_ingot",
+      "minecraft:nether",
+      "draconicevolution:draconium_core",
+      "minecraft:nether"
+    ]
+  },
+  "evilcraft:gem_stone_torch": {
+    "result": "evilcraft:gem_stone_torch",
+    "count": 4,
+    "ingredients": [
+      "evilcraft:burning_gem_stone",
+      "evilcraft:dark_stick",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:generator": {
+    "result": "immersiveengineering:generator",
+    "count": 4,
+    "ingredients": [
+      "minecraft:steel",
+      "immersiveengineering:coil_mv",
+      "minecraft:steel",
+      "immersiveengineering:coil_mv",
+      "immersiveengineering:component_iron",
+      "immersiveengineering:coil_mv",
+      "minecraft:steel",
+      "immersiveengineering:coil_mv",
+      "minecraft:steel"
+    ]
+  },
+  "justdirethings:generatorfluidt1": {
+    "result": "justdirethings:generatorfluidt1",
+    "count": 1,
+    "ingredients": [
+      "justdirethings:generatorfluidt1",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "justdirethings:generatort1": {
+    "result": "justdirethings:generatort1",
+    "count": 1,
+    "ingredients": [
+      "justdirethings:generatort1",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mekanism:geiger_counter": {
+    "result": "mekanism:geiger_counter",
+    "count": 1,
+    "ingredients": [
+      "",
+      "modern_industrialization:lead_ingot",
+      "",
+      "modern_industrialization:lead_ingot",
+      "minecraft:basic",
+      "modern_industrialization:lead_ingot",
+      "",
+      "modern_industrialization:lead_ingot",
+      ""
+    ]
+  },
+  "merrymaking:gelt": {
+    "result": "merrymaking:gelt",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_nugget",
+      "minecraft:cocoa_beans",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "naturesaura:generator_limit_remover": {
+    "result": "naturesaura:generator_limit_remover",
+    "count": 1,
+    "ingredients": [
+      "naturesaura:infused_stone",
+      "naturesaura:token_euphoria",
+      "naturesaura:infused_stone",
+      "naturesaura:token_terror",
+      "naturesaura:tainted_gold",
+      "naturesaura:token_rage",
+      "naturesaura:infused_stone",
+      "naturesaura:token_grief",
+      "naturesaura:infused_stone"
+    ]
+  },
+  "pamhc2foodextended:generaltsochickenitem": {
+    "result": "pamhc2foodextended:generaltsochickenitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_skillet",
+      "minecraft:rawchicken",
+      "minecraft:broccoli",
+      "minecraft:sugar",
+      "minecraft:flour",
+      "minecraft:chilipepper",
+      "minecraft:rice",
+      "",
+      ""
+    ]
+  },
+  "productivebees:gene_indexer": {
+    "result": "productivebees:gene_indexer",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:comparator",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:workbenches",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot"
+    ]
+  }
+}

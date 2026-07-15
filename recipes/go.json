@@ -1,0 +1,2327 @@
+{
+  "actuallyadditions:gold_aiot": {
+    "result": "actuallyadditions:gold_aiot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:golden_axe",
+      "minecraft:golden_pickaxe",
+      "minecraft:golden_sword",
+      "minecraft:golden_shovel",
+      "minecraft:golden_hoe",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "aether:golden_dart": {
+    "result": "aether:golden_dart",
+    "count": 4,
+    "ingredients": [
+      "minecraft:feather",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "aether:golden_amber",
+      "",
+      ""
+    ]
+  },
+  "aether:golden_dart_shooter": {
+    "result": "aether:golden_dart_shooter",
+    "count": 1,
+    "ingredients": [
+      "aether:skyroot_planks",
+      "",
+      "",
+      "aether:skyroot_planks",
+      "",
+      "",
+      "aether:golden_amber",
+      "",
+      ""
+    ]
+  },
+  "aether:golden_gloves": {
+    "result": "aether:golden_gloves",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "",
+      "minecraft:gold_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "aether:golden_oak_wood": {
+    "result": "aether:golden_oak_wood",
+    "count": 3,
+    "ingredients": [
+      "aether:golden_oak_log",
+      "aether:golden_oak_log",
+      "",
+      "aether:golden_oak_log",
+      "aether:golden_oak_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "aether:golden_parachute": {
+    "result": "aether:golden_parachute",
+    "count": 1,
+    "ingredients": [
+      "aether:golden_aercloud",
+      "aether:golden_aercloud",
+      "",
+      "aether:golden_aercloud",
+      "aether:golden_aercloud",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "aether:golden_pendant": {
+    "result": "aether:golden_pendant",
+    "count": 1,
+    "ingredients": [
+      "minecraft:string",
+      "minecraft:string",
+      "minecraft:string",
+      "minecraft:string",
+      "",
+      "minecraft:string",
+      "",
+      "minecraft:gold_ingot",
+      ""
+    ]
+  },
+  "aether:golden_ring": {
+    "result": "aether:golden_ring",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:gold_ingot",
+      "",
+      "minecraft:gold_ingot",
+      "",
+      "minecraft:gold_ingot",
+      "",
+      "minecraft:gold_ingot",
+      ""
+    ]
+  },
+  "allthecompressed:gold_block_1x": {
+    "result": "allthecompressed:gold_block_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:gold_block_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:gold_block_2x": {
+    "result": "allthecompressed:gold_block_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:gold_block_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:gold_block_3x": {
+    "result": "allthecompressed:gold_block_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:gold_block_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:gold_block_4x": {
+    "result": "allthecompressed:gold_block_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:gold_block_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:gold_block_5x": {
+    "result": "allthecompressed:gold_block_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:gold_block_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:gold_block_6x": {
+    "result": "allthecompressed:gold_block_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:gold_block_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:gold_block_7x": {
+    "result": "allthecompressed:gold_block_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:gold_block_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:gold_block_8x": {
+    "result": "allthecompressed:gold_block_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:gold_block_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:gold_block_9x": {
+    "result": "allthecompressed:gold_block_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:gold_block_8x",
+      "allthecompressed:gold_block_8x",
+      "allthecompressed:gold_block_8x",
+      "allthecompressed:gold_block_8x",
+      "allthecompressed:gold_block_8x",
+      "allthecompressed:gold_block_8x",
+      "allthecompressed:gold_block_8x",
+      "allthecompressed:gold_block_8x",
+      "allthecompressed:gold_block_8x"
+    ]
+  },
+  "minecraft:gold_block": {
+    "result": "minecraft:gold_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot"
+    ]
+  },
+  "alltheores:gold_gear": {
+    "result": "alltheores:gold_gear",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:gold_ingot",
+      "",
+      "minecraft:gold_ingot",
+      "minecraft:iron",
+      "minecraft:gold_ingot",
+      "",
+      "minecraft:gold_ingot",
+      ""
+    ]
+  },
+  "alltheores:gold_plate": {
+    "result": "alltheores:gold_plate",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "minecraft:ore_hammers",
+      "minecraft:gold_ingot",
+      "",
+      "minecraft:gold_ingot",
+      "",
+      ""
+    ]
+  },
+  "alltheores:gold_rod": {
+    "result": "alltheores:gold_rod",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "minecraft:gold_ingot",
+      "minecraft:ore_hammers",
+      "minecraft:gold_ingot",
+      ""
+    ]
+  },
+  "alltheores:gold_dust": {
+    "result": "alltheores:gold_dust",
+    "count": 2,
+    "ingredients": [
+      "minecraft:ore_hammers",
+      "minecraft:gold",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "apotheosis:gold_upgrade_smithing_template": {
+    "result": "apotheosis:gold_upgrade_smithing_template",
+    "count": 2,
+    "ingredients": [
+      "",
+      "apotheosis:uncommon_material",
+      "",
+      "minecraft:stone",
+      "apotheosis:gem_fused_slate",
+      "minecraft:stone",
+      "minecraft:stone",
+      "apotheosis:gem_fused_slate",
+      "minecraft:stone"
+    ]
+  },
+  "aquaculture:gold_fishing_rod": {
+    "result": "aquaculture:gold_fishing_rod",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "minecraft:gold_ingot",
+      "",
+      "minecraft:gold_ingot",
+      "minecraft:string",
+      "minecraft:stick",
+      "",
+      "minecraft:string"
+    ]
+  },
+  "aquaculture:gold_fillet_knife": {
+    "result": "aquaculture:gold_fillet_knife",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "minecraft:gold_ingot",
+      "",
+      "minecraft:gold_ingot",
+      "",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "aquaculture:gold_hook": {
+    "result": "aquaculture:gold_hook",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:gold",
+      "",
+      "minecraft:gold",
+      "aquaculture:iron_hook",
+      "minecraft:gold",
+      "",
+      "minecraft:gold",
+      ""
+    ]
+  },
+  "minecraft:gold_nugget": {
+    "result": "minecraft:gold_nugget",
+    "count": 6,
+    "ingredients": [
+      "reliquary:zombie_heart",
+      "reliquary:zombie_heart",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_additions:golden_chain": {
+    "result": "ars_additions:golden_chain",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_nugget",
+      "",
+      "",
+      "minecraft:gold_ingot",
+      "",
+      "",
+      "minecraft:iron_nugget",
+      "",
+      ""
+    ]
+  },
+  "ars_additions:golden_lantern": {
+    "result": "ars_additions:golden_lantern",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_nugget",
+      "minecraft:gold_nugget",
+      "minecraft:iron_nugget",
+      "minecraft:gold_nugget",
+      "minecraft:torch",
+      "minecraft:gold_nugget",
+      "minecraft:iron_nugget",
+      "minecraft:gold_nugget",
+      "minecraft:iron_nugget"
+    ]
+  },
+  "ars_additions:golden_magelight_lantern": {
+    "result": "ars_additions:golden_magelight_lantern",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_nugget",
+      "minecraft:gold_nugget",
+      "minecraft:iron_nugget",
+      "minecraft:gold_nugget",
+      "ars_nouveau:source_gem",
+      "minecraft:gold_nugget",
+      "minecraft:iron_nugget",
+      "minecraft:gold_nugget",
+      "minecraft:iron_nugget"
+    ]
+  },
+  "ars_nouveau:gold_grate": {
+    "result": "ars_nouveau:gold_grate",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:iron_bars",
+      "",
+      "minecraft:iron_bars",
+      "minecraft:gold_ingot",
+      "minecraft:iron_bars",
+      "",
+      "minecraft:iron_bars",
+      ""
+    ]
+  },
+  "bibliocraft:gold_chain": {
+    "result": "bibliocraft:gold_chain",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold",
+      "",
+      "",
+      "minecraft:gold_ingot",
+      "",
+      "",
+      "minecraft:gold",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:gold_lantern": {
+    "result": "bibliocraft:gold_lantern",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold",
+      "minecraft:gold",
+      "minecraft:gold",
+      "minecraft:gold",
+      "minecraft:torch",
+      "minecraft:gold",
+      "minecraft:gold",
+      "minecraft:gold",
+      "minecraft:gold"
+    ]
+  },
+  "bibliocraft:gold_soul_lantern": {
+    "result": "bibliocraft:gold_soul_lantern",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold",
+      "minecraft:gold",
+      "minecraft:gold",
+      "minecraft:gold",
+      "minecraft:soul_torch",
+      "minecraft:gold",
+      "minecraft:gold",
+      "minecraft:gold",
+      "minecraft:gold"
+    ]
+  },
+  "minecraft:golden_apple": {
+    "result": "minecraft:golden_apple",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:apple",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot"
+    ]
+  },
+  "create:goggles": {
+    "result": "create:goggles",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:string",
+      "",
+      "minecraft:glass",
+      "minecraft:gold",
+      "minecraft:glass",
+      "",
+      "",
+      ""
+    ]
+  },
+  "createaddition:gold_spool": {
+    "result": "createaddition:gold_spool",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:gold",
+      "",
+      "minecraft:gold",
+      "createaddition:spool",
+      "minecraft:gold",
+      "",
+      "minecraft:gold",
+      ""
+    ]
+  },
+  "eternal_starlight:golem_steel_bars": {
+    "result": "eternal_starlight:golem_steel_bars",
+    "count": 16,
+    "ingredients": [
+      "eternal_starlight:golem_steel_ingot",
+      "eternal_starlight:golem_steel_ingot",
+      "eternal_starlight:golem_steel_ingot",
+      "eternal_starlight:golem_steel_ingot",
+      "eternal_starlight:golem_steel_ingot",
+      "eternal_starlight:golem_steel_ingot",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:golem_steel_block": {
+    "result": "eternal_starlight:golem_steel_block",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:golem_steel_ingot",
+      "eternal_starlight:golem_steel_ingot",
+      "eternal_starlight:golem_steel_ingot",
+      "eternal_starlight:golem_steel_ingot",
+      "eternal_starlight:golem_steel_ingot",
+      "eternal_starlight:golem_steel_ingot",
+      "eternal_starlight:golem_steel_ingot",
+      "eternal_starlight:golem_steel_ingot",
+      "eternal_starlight:golem_steel_ingot"
+    ]
+  },
+  "eternal_starlight:golem_steel_crate": {
+    "result": "eternal_starlight:golem_steel_crate",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:deepsilver_ingot",
+      "eternal_starlight:oxidized_golem_steel_ingot",
+      "eternal_starlight:deepsilver_ingot",
+      "eternal_starlight:deepsilver_ingot",
+      "minecraft:chest",
+      "eternal_starlight:deepsilver_ingot",
+      "eternal_starlight:deepsilver_ingot",
+      "eternal_starlight:oxidized_golem_steel_ingot",
+      "eternal_starlight:deepsilver_ingot"
+    ]
+  },
+  "eternal_starlight:golem_steel_grate": {
+    "result": "eternal_starlight:golem_steel_grate",
+    "count": 4,
+    "ingredients": [
+      "",
+      "eternal_starlight:golem_steel_block",
+      "",
+      "eternal_starlight:golem_steel_block",
+      "",
+      "eternal_starlight:golem_steel_block",
+      "",
+      "eternal_starlight:golem_steel_block",
+      ""
+    ]
+  },
+  "eternal_starlight:golem_steel_greatsword": {
+    "result": "eternal_starlight:golem_steel_greatsword",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "modern_industrialization:steel_ingot",
+      "",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "minecraft:stick",
+      "modern_industrialization:steel_ingot",
+      ""
+    ]
+  },
+  "eternal_starlight:golem_steel_ingot": {
+    "result": "eternal_starlight:golem_steel_ingot",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:golem_steel_nugget",
+      "eternal_starlight:golem_steel_nugget",
+      "eternal_starlight:golem_steel_nugget",
+      "eternal_starlight:golem_steel_nugget",
+      "eternal_starlight:golem_steel_nugget",
+      "eternal_starlight:golem_steel_nugget",
+      "eternal_starlight:golem_steel_nugget",
+      "eternal_starlight:golem_steel_nugget",
+      "eternal_starlight:golem_steel_nugget"
+    ]
+  },
+  "eternal_starlight:golem_steel_nugget": {
+    "result": "eternal_starlight:golem_steel_nugget",
+    "count": 9,
+    "ingredients": [
+      "eternal_starlight:golem_steel_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:golem_steel_pillar": {
+    "result": "eternal_starlight:golem_steel_pillar",
+    "count": 2,
+    "ingredients": [
+      "eternal_starlight:golem_steel_block",
+      "",
+      "",
+      "eternal_starlight:golem_steel_block",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:golem_steel_slab": {
+    "result": "eternal_starlight:golem_steel_slab",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:golem_steel_block",
+      "eternal_starlight:golem_steel_block",
+      "eternal_starlight:golem_steel_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:golem_steel_stairs": {
+    "result": "eternal_starlight:golem_steel_stairs",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:golem_steel_block",
+      "",
+      "",
+      "eternal_starlight:golem_steel_block",
+      "eternal_starlight:golem_steel_block",
+      "",
+      "eternal_starlight:golem_steel_block",
+      "eternal_starlight:golem_steel_block",
+      "eternal_starlight:golem_steel_block"
+    ]
+  },
+  "eternal_starlight:golem_steel_tiles": {
+    "result": "eternal_starlight:golem_steel_tiles",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:golem_steel_block",
+      "eternal_starlight:golem_steel_block",
+      "",
+      "eternal_starlight:golem_steel_block",
+      "eternal_starlight:golem_steel_block",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:golem_steel_tile_slab": {
+    "result": "eternal_starlight:golem_steel_tile_slab",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:golem_steel_tiles",
+      "eternal_starlight:golem_steel_tiles",
+      "eternal_starlight:golem_steel_tiles",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:golem_steel_tile_stairs": {
+    "result": "eternal_starlight:golem_steel_tile_stairs",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:golem_steel_tiles",
+      "",
+      "",
+      "eternal_starlight:golem_steel_tiles",
+      "eternal_starlight:golem_steel_tiles",
+      "",
+      "eternal_starlight:golem_steel_tiles",
+      "eternal_starlight:golem_steel_tiles",
+      "eternal_starlight:golem_steel_tiles"
+    ]
+  },
+  "evilcraft:golden_string": {
+    "result": "evilcraft:golden_string",
+    "count": 1,
+    "ingredients": [
+      "minecraft:string",
+      "minecraft:gold",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "extrastorage:gold_crafter": {
+    "result": "extrastorage:gold_crafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold",
+      "minecraft:chest",
+      "minecraft:gold",
+      "extrastorage:neural_processor",
+      "extrastorage:iron_crafter",
+      "extrastorage:neural_processor",
+      "minecraft:gold",
+      "",
+      "minecraft:gold"
+    ]
+  },
+  "farmersdelight:golden_knife": {
+    "result": "farmersdelight:golden_knife",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "forbidden_arcanus:golden_blacksmith_gavel": {
+    "result": "forbidden_arcanus:golden_blacksmith_gavel",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "forbidden_arcanus:blacksmith_gavel_head",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:stick",
+      "minecraft:gold_ingot",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "forbidden_arcanus:golden_dragon_scale": {
+    "result": "forbidden_arcanus:golden_dragon_scale",
+    "count": 1,
+    "ingredients": [
+      "",
+      "forbidden_arcanus:deorum_ingot",
+      "",
+      "forbidden_arcanus:deorum_ingot",
+      "forbidden_arcanus:dragon_scale",
+      "forbidden_arcanus:deorum_ingot",
+      "",
+      "forbidden_arcanus:deorum_ingot",
+      ""
+    ]
+  },
+  "functionalstorage:gold_upgrade": {
+    "result": "functionalstorage:gold_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "minecraft:gold",
+      "minecraft:gold_ingot",
+      "minecraft:chest",
+      "functionalstorage:copper_upgrade",
+      "minecraft:chest",
+      "minecraft:gold",
+      "minecraft:gold_ingot",
+      "minecraft:gold"
+    ]
+  },
+  "generatorgalore:gold_generator_64x": {
+    "result": "generatorgalore:gold_generator_64x",
+    "count": 1,
+    "ingredients": [
+      "generatorgalore:gold_generator_8x",
+      "generatorgalore:gold_generator_8x",
+      "generatorgalore:gold_generator_8x",
+      "generatorgalore:gold_generator_8x",
+      "minecraft:conduit",
+      "generatorgalore:gold_generator_8x",
+      "generatorgalore:gold_generator_8x",
+      "generatorgalore:gold_generator_8x",
+      "generatorgalore:gold_generator_8x"
+    ]
+  },
+  "generatorgalore:gold_generator_8x": {
+    "result": "generatorgalore:gold_generator_8x",
+    "count": 1,
+    "ingredients": [
+      "generatorgalore:gold_generator",
+      "generatorgalore:gold_generator",
+      "generatorgalore:gold_generator",
+      "generatorgalore:gold_generator",
+      "minecraft:echo_shard",
+      "generatorgalore:gold_generator",
+      "generatorgalore:gold_generator",
+      "generatorgalore:gold_generator",
+      "generatorgalore:gold_generator"
+    ]
+  },
+  "generatorgalore:gold_generator": {
+    "result": "generatorgalore:gold_generator",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "generatorgalore:iron_generator",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:redstone",
+      "minecraft:gold_ingot"
+    ]
+  },
+  "generatorgalore:gold_to_culinary_upgrade": {
+    "result": "generatorgalore:gold_to_culinary_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:crops",
+      "minecraft:cake",
+      "minecraft:crops",
+      "minecraft:crops",
+      "minecraft:item_frame",
+      "minecraft:crops",
+      "minecraft:eggs",
+      "minecraft:redstone",
+      "minecraft:eggs"
+    ]
+  },
+  "generatorgalore:gold_to_diamond_upgrade": {
+    "result": "generatorgalore:gold_to_diamond_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:item_frame",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:redstone",
+      "minecraft:diamond"
+    ]
+  },
+  "handcrafted:goat_trophy": {
+    "result": "handcrafted:goat_trophy",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:goat_horn",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks"
+    ]
+  },
+  "handcrafted:golden_medium_pot": {
+    "result": "handcrafted:golden_medium_pot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_block",
+      "handcrafted:terracotta_medium_pot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "handcrafted:golden_thick_pot": {
+    "result": "handcrafted:golden_thick_pot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_block",
+      "handcrafted:terracotta_thick_pot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "handcrafted:golden_thin_pot": {
+    "result": "handcrafted:golden_thin_pot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_block",
+      "handcrafted:terracotta_thin_pot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "handcrafted:golden_wide_pot": {
+    "result": "handcrafted:golden_wide_pot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_block",
+      "handcrafted:terracotta_wide_pot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:gold_ingot": {
+    "result": "minecraft:gold_ingot",
+    "count": 1,
+    "ingredients": [
+      "relics:golden_tooth",
+      "relics:golden_tooth",
+      "relics:golden_tooth",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:gold_hippogryph_armor": {
+    "result": "iceandfire:gold_hippogryph_armor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:feather",
+      "minecraft:golden_horse_armor",
+      "minecraft:feather",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:gold_pile": {
+    "result": "iceandfire:gold_pile",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold",
+      "minecraft:gold",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "industrialforegoing:gold_gear": {
+    "result": "industrialforegoing:gold_gear",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:gold_ingot",
+      "",
+      "minecraft:gold_ingot",
+      "",
+      "minecraft:gold_ingot",
+      "",
+      "minecraft:gold_ingot",
+      ""
+    ]
+  },
+  "ironfurnaces:gold_furnace": {
+    "result": "ironfurnaces:gold_furnace",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:silver",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:gold",
+      "minecraft:glass"
+    ]
+  },
+  "irons_spellbooks:gold_spell_book": {
+    "result": "irons_spellbooks:gold_spell_book",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "irons_spellbooks:arcane_essence",
+      "irons_spellbooks:arcane_essence",
+      "minecraft:gold_ingot",
+      "irons_spellbooks:hogskin",
+      "irons_spellbooks:hogskin",
+      "minecraft:gold_ingot",
+      "irons_spellbooks:arcane_essence",
+      "irons_spellbooks:arcane_essence"
+    ]
+  },
+  "justdirethings:gooblock_tier1": {
+    "result": "justdirethings:gooblock_tier1",
+    "count": 1,
+    "ingredients": [
+      "minecraft:clay_ball",
+      "minecraft:sugar",
+      "minecraft:clay_ball",
+      "minecraft:rotten_flesh",
+      "minecraft:dirt",
+      "minecraft:rotten_flesh",
+      "minecraft:clay_ball",
+      "minecraft:sugar",
+      "minecraft:clay_ball"
+    ]
+  },
+  "justdirethings:gooblock_tier2": {
+    "result": "justdirethings:gooblock_tier2",
+    "count": 1,
+    "ingredients": [
+      "minecraft:blaze_powder",
+      "minecraft:redstone",
+      "minecraft:blaze_powder",
+      "minecraft:nether_wart",
+      "justdirethings:gooblock_tier1",
+      "minecraft:nether_wart",
+      "minecraft:blaze_powder",
+      "minecraft:redstone",
+      "minecraft:blaze_powder"
+    ]
+  },
+  "justdirethings:gooblock_tier3": {
+    "result": "justdirethings:gooblock_tier3",
+    "count": 1,
+    "ingredients": [
+      "minecraft:ender_pearl",
+      "minecraft:end_stone",
+      "minecraft:ender_pearl",
+      "minecraft:dragon_breath",
+      "justdirethings:gooblock_tier2",
+      "minecraft:dragon_breath",
+      "minecraft:ender_pearl",
+      "minecraft:end_stone",
+      "minecraft:ender_pearl"
+    ]
+  },
+  "justdirethings:gooblock_tier4": {
+    "result": "justdirethings:gooblock_tier4",
+    "count": 1,
+    "ingredients": [
+      "minecraft:sculk",
+      "minecraft:sculk_shrieker",
+      "minecraft:sculk",
+      "minecraft:echo_shard",
+      "justdirethings:gooblock_tier3",
+      "minecraft:echo_shard",
+      "minecraft:sculk",
+      "minecraft:sculk_shrieker",
+      "minecraft:sculk"
+    ]
+  },
+  "mcwholidays:golden_balloon": {
+    "result": "mcwholidays:golden_balloon",
+    "count": 1,
+    "ingredients": [
+      "minecraft:yellow_wool",
+      "",
+      "",
+      "minecraft:string",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwlights:golden_candle_holder": {
+    "result": "mcwlights:golden_candle_holder",
+    "count": 2,
+    "ingredients": [
+      "",
+      "minecraft:string",
+      "",
+      "minecraft:gold_ingot",
+      "minecraft:honeycomb",
+      "minecraft:gold_ingot",
+      "",
+      "minecraft:gold_ingot",
+      ""
+    ]
+  },
+  "mcwlights:golden_chain": {
+    "result": "mcwlights:golden_chain",
+    "count": 3,
+    "ingredients": [
+      "",
+      "minecraft:gold_ingot",
+      "",
+      "",
+      "",
+      "minecraft:gold_ingot",
+      "",
+      "minecraft:gold_ingot",
+      ""
+    ]
+  },
+  "mcwlights:golden_chandelier": {
+    "result": "mcwlights:golden_chandelier",
+    "count": 1,
+    "ingredients": [
+      "minecraft:string",
+      "minecraft:gold_ingot",
+      "minecraft:string",
+      "minecraft:honeycomb",
+      "minecraft:gold_ingot",
+      "minecraft:honeycomb",
+      "minecraft:gold_ingot",
+      "",
+      "minecraft:gold_ingot"
+    ]
+  },
+  "mcwlights:golden_double_candle_holder": {
+    "result": "mcwlights:golden_double_candle_holder",
+    "count": 1,
+    "ingredients": [
+      "minecraft:string",
+      "",
+      "minecraft:string",
+      "minecraft:honeycomb",
+      "minecraft:gold_ingot",
+      "minecraft:honeycomb",
+      "",
+      "minecraft:gold_ingot",
+      ""
+    ]
+  },
+  "mcwlights:golden_low_candle_holder": {
+    "result": "mcwlights:golden_low_candle_holder",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:string",
+      "",
+      "",
+      "minecraft:honeycomb",
+      "",
+      "",
+      "minecraft:gold_ingot",
+      ""
+    ]
+  },
+  "mcwlights:golden_small_chandelier": {
+    "result": "mcwlights:golden_small_chandelier",
+    "count": 1,
+    "ingredients": [
+      "minecraft:string",
+      "minecraft:gold_ingot",
+      "minecraft:string",
+      "minecraft:honeycomb",
+      "minecraft:gold_ingot",
+      "minecraft:honeycomb",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwlights:golden_triple_candle_holder": {
+    "result": "mcwlights:golden_triple_candle_holder",
+    "count": 1,
+    "ingredients": [
+      "minecraft:string",
+      "minecraft:string",
+      "minecraft:string",
+      "minecraft:honeycomb",
+      "minecraft:honeycomb",
+      "minecraft:honeycomb",
+      "",
+      "minecraft:gold_ingot",
+      ""
+    ]
+  },
+  "mcwlights:golden_wall_candle_holder": {
+    "result": "mcwlights:golden_wall_candle_holder",
+    "count": 1,
+    "ingredients": [
+      "minecraft:string",
+      "",
+      "",
+      "minecraft:honeycomb",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwwindows:golden_curtain_rod": {
+    "result": "mcwwindows:golden_curtain_rod",
+    "count": 3,
+    "ingredients": [
+      "minecraft:gold_nugget",
+      "minecraft:gold_ingot",
+      "minecraft:gold_nugget",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:golden_axe": {
+    "result": "minecraft:golden_axe",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "",
+      "minecraft:gold_ingot",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "minecraft:golden_boots": {
+    "result": "minecraft:golden_boots",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "",
+      "minecraft:gold_ingot",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:golden_carrot": {
+    "result": "minecraft:golden_carrot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_nugget",
+      "minecraft:gold_nugget",
+      "minecraft:gold_nugget",
+      "minecraft:gold_nugget",
+      "minecraft:carrot",
+      "minecraft:gold_nugget",
+      "minecraft:gold_nugget",
+      "minecraft:gold_nugget",
+      "minecraft:gold_nugget"
+    ]
+  },
+  "minecraft:golden_chestplate": {
+    "result": "minecraft:golden_chestplate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot"
+    ]
+  },
+  "minecraft:golden_helmet": {
+    "result": "minecraft:golden_helmet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "",
+      "minecraft:gold_ingot",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:golden_hoe": {
+    "result": "minecraft:golden_hoe",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "minecraft:golden_leggings": {
+    "result": "minecraft:golden_leggings",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "",
+      "minecraft:gold_ingot"
+    ]
+  },
+  "minecraft:golden_pickaxe": {
+    "result": "minecraft:golden_pickaxe",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "minecraft:golden_shovel": {
+    "result": "minecraft:golden_shovel",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "minecraft:golden_sword": {
+    "result": "minecraft:golden_sword",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "",
+      "",
+      "minecraft:gold_ingot",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "minecraft:gold_ore": {
+    "result": "minecraft:gold_ore",
+    "count": 1,
+    "ingredients": [
+      "minecraft:deepslate_gold_ore",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:gold_drill_head": {
+    "result": "modern_industrialization:gold_drill_head",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:gold_bolt",
+      "modern_industrialization:gold_curved_plate",
+      "minecraft:gold",
+      "minecraft:gold",
+      "minecraft:gold",
+      "modern_industrialization:gold_curved_plate",
+      "modern_industrialization:gold_bolt",
+      "minecraft:gold",
+      "modern_industrialization:gold_bolt"
+    ]
+  },
+  "modern_industrialization:gold_dust": {
+    "result": "modern_industrialization:gold_dust",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold",
+      "minecraft:gold",
+      "minecraft:gold",
+      "minecraft:gold",
+      "modern_industrialization:gold_tiny_dust",
+      "minecraft:gold",
+      "minecraft:gold",
+      "minecraft:gold",
+      "minecraft:gold"
+    ]
+  },
+  "modern_industrialization:gold_gear": {
+    "result": "modern_industrialization:gold_gear",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold",
+      "modern_industrialization:gold_bolt",
+      "minecraft:gold",
+      "modern_industrialization:gold_bolt",
+      "modern_industrialization:gold_ring",
+      "modern_industrialization:gold_bolt",
+      "minecraft:gold",
+      "modern_industrialization:gold_bolt",
+      "minecraft:gold"
+    ]
+  },
+  "modern_industrialization:gold_ring": {
+    "result": "modern_industrialization:gold_ring",
+    "count": 2,
+    "ingredients": [
+      "modern_industrialization:gold_bolt",
+      "minecraft:gold",
+      "modern_industrialization:gold_bolt",
+      "minecraft:gold",
+      "",
+      "minecraft:gold",
+      "modern_industrialization:gold_bolt",
+      "minecraft:gold",
+      "modern_industrialization:gold_bolt"
+    ]
+  },
+  "modern_industrialization:gold_tiny_dust": {
+    "result": "modern_industrialization:gold_tiny_dust",
+    "count": 9,
+    "ingredients": [
+      "modern_industrialization:gold_dust",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:gold_drill": {
+    "result": "modern_industrialization:gold_drill",
+    "count": 4,
+    "ingredients": [
+      "minecraft:iron",
+      "minecraft:item_pipes",
+      "modern_industrialization:gold_drill_head",
+      "modern_industrialization:motor",
+      "modern_industrialization:analog_circuit",
+      "minecraft:item_pipes",
+      "modern_industrialization:tin_cable",
+      "modern_industrialization:motor",
+      "minecraft:iron"
+    ]
+  },
+  "naturesaura:gold_brick": {
+    "result": "naturesaura:gold_brick",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone_bricks",
+      "naturesaura:gold_fiber",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "naturesaura:gold_fiber": {
+    "result": "naturesaura:gold_fiber",
+    "count": 4,
+    "ingredients": [
+      "minecraft:leaves",
+      "minecraft:gold",
+      "minecraft:leaves",
+      "minecraft:gold",
+      "minecraft:short_grass",
+      "minecraft:gold",
+      "minecraft:leaves",
+      "minecraft:gold",
+      "minecraft:leaves"
+    ]
+  },
+  "naturesaura:gold_nether_brick": {
+    "result": "naturesaura:gold_nether_brick",
+    "count": 1,
+    "ingredients": [
+      "minecraft:nether_bricks",
+      "naturesaura:gold_fiber",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "naturesaura:gold_powder": {
+    "result": "naturesaura:gold_powder",
+    "count": 2,
+    "ingredients": [
+      "naturesaura:gold_leaf",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "occultism:golden_sacrificial_bowl": {
+    "result": "occultism:golden_sacrificial_bowl",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "occultism:sacrificial_bowl",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot"
+    ]
+  },
+  "oritech:gold_clump": {
+    "result": "oritech:gold_clump",
+    "count": 1,
+    "ingredients": [
+      "oritech:small_gold_clump",
+      "oritech:small_gold_clump",
+      "oritech:small_gold_clump",
+      "oritech:small_gold_clump",
+      "oritech:small_gold_clump",
+      "oritech:small_gold_clump",
+      "oritech:small_gold_clump",
+      "oritech:small_gold_clump",
+      "oritech:small_gold_clump"
+    ]
+  },
+  "oritech:gold_dust": {
+    "result": "oritech:gold_dust",
+    "count": 1,
+    "ingredients": [
+      "oritech:small_gold_dust",
+      "oritech:small_gold_dust",
+      "oritech:small_gold_dust",
+      "oritech:small_gold_dust",
+      "oritech:small_gold_dust",
+      "oritech:small_gold_dust",
+      "oritech:small_gold_dust",
+      "oritech:small_gold_dust",
+      "oritech:small_gold_dust"
+    ]
+  },
+  "pamhc2foodextended:gooseberryjellyitem": {
+    "result": "pamhc2foodextended:gooseberryjellyitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:gooseberry",
+      "minecraft:sugar",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:gooseberryjellysandwichitem": {
+    "result": "pamhc2foodextended:gooseberryjellysandwichitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:gooseberryjelly",
+      "minecraft:bread",
+      "minecraft:nutbutters",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:gooseberryjellytoastitem": {
+    "result": "pamhc2foodextended:gooseberryjellytoastitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:gooseberryjelly",
+      "minecraft:toast",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:gooseberryjuiceitem": {
+    "result": "pamhc2foodextended:gooseberryjuiceitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_juicer",
+      "minecraft:gooseberry",
+      "minecraft:gooseberry",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:gooseberrypieitem": {
+    "result": "pamhc2foodextended:gooseberrypieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:gooseberry",
+      "minecraft:sugar",
+      "minecraft:dough",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:gooseberrysmoothieitem": {
+    "result": "pamhc2foodextended:gooseberrysmoothieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:gooseberry",
+      "minecraft:ices",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:gooseberryyogurtitem": {
+    "result": "pamhc2foodextended:gooseberryyogurtitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:gooseberry",
+      "minecraft:yogurt",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:gourmetbeefburgeritem": {
+    "result": "pamhc2foodextended:gourmetbeefburgeritem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_skillet",
+      "pamhc2foodextended:gourmetbeefpattyitem",
+      "pamhc2foodextended:briochebunitem",
+      "minecraft:cheese",
+      "minecraft:leafyvegetables",
+      "minecraft:relish",
+      "minecraft:chilipepper",
+      "minecraft:tomato",
+      ""
+    ]
+  },
+  "pamhc2foodextended:gourmetbeefpattyitem": {
+    "result": "pamhc2foodextended:gourmetbeefpattyitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:groundbeef",
+      "minecraft:saltandpepper",
+      "minecraft:spiceleaf",
+      "minecraft:mustardseeds",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:gourmetmuttonburgeritem": {
+    "result": "pamhc2foodextended:gourmetmuttonburgeritem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_skillet",
+      "pamhc2foodextended:gourmetmuttonpattyitem",
+      "pamhc2foodextended:briochebunitem",
+      "minecraft:spiceleaf",
+      "minecraft:cheese",
+      "minecraft:tomato",
+      "minecraft:spinach",
+      "pamhc2crops:roastedmushroomitem",
+      ""
+    ]
+  },
+  "pamhc2foodextended:gourmetmuttonpattyitem": {
+    "result": "pamhc2foodextended:gourmetmuttonpattyitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:groundmutton",
+      "minecraft:saltandpepper",
+      "minecraft:spiceleaf",
+      "minecraft:mustardseeds",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:gourmetporkburgeritem": {
+    "result": "pamhc2foodextended:gourmetporkburgeritem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_skillet",
+      "pamhc2foodextended:gourmetporkpattyitem",
+      "pamhc2foodextended:briochebunitem",
+      "minecraft:tomato",
+      "minecraft:leafyvegetables",
+      "minecraft:avocado",
+      "pamhc2foodextended:friedonionsitem",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:gourmetporkpattyitem": {
+    "result": "pamhc2foodextended:gourmetporkpattyitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:groundpork",
+      "minecraft:saltandpepper",
+      "minecraft:spiceleaf",
+      "minecraft:mustardseeds",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2trees:gooseberry_sapling": {
+    "result": "pamhc2trees:gooseberry_sapling",
+    "count": 1,
+    "ingredients": [
+      "pamhc2trees:gooseberryitem",
+      "pamhc2trees:gooseberryitem",
+      "pamhc2trees:gooseberryitem",
+      "pamhc2trees:gooseberryitem",
+      "pamhc2trees:gooseberryitem",
+      "pamhc2trees:gooseberryitem",
+      "pamhc2trees:gooseberryitem",
+      "pamhc2trees:gooseberryitem",
+      "minecraft:saplings"
+    ]
+  },
+  "productivetrees:golden_delicious_apple_bookshelf": {
+    "result": "productivetrees:golden_delicious_apple_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:golden_delicious_apple_planks",
+      "productivetrees:golden_delicious_apple_planks",
+      "productivetrees:golden_delicious_apple_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:golden_delicious_apple_planks",
+      "productivetrees:golden_delicious_apple_planks",
+      "productivetrees:golden_delicious_apple_planks"
+    ]
+  },
+  "productivetrees:golden_delicious_apple_button": {
+    "result": "productivetrees:golden_delicious_apple_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:golden_delicious_apple_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:golden_delicious_apple_crate": {
+    "result": "productivetrees:golden_delicious_apple_crate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:golden_delicious_apple",
+      "minecraft:golden_delicious_apple",
+      "minecraft:golden_delicious_apple",
+      "minecraft:golden_delicious_apple",
+      "productivetrees:golden_delicious_apple",
+      "minecraft:golden_delicious_apple",
+      "minecraft:golden_delicious_apple",
+      "minecraft:golden_delicious_apple",
+      "minecraft:golden_delicious_apple"
+    ]
+  },
+  "productivetrees:golden_delicious_apple": {
+    "result": "productivetrees:golden_delicious_apple",
+    "count": 9,
+    "ingredients": [
+      "productivetrees:golden_delicious_apple_crate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:golden_delicious_apple_door": {
+    "result": "productivetrees:golden_delicious_apple_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:golden_delicious_apple_planks",
+      "productivetrees:golden_delicious_apple_planks",
+      "",
+      "productivetrees:golden_delicious_apple_planks",
+      "productivetrees:golden_delicious_apple_planks",
+      "",
+      "productivetrees:golden_delicious_apple_planks",
+      "productivetrees:golden_delicious_apple_planks",
+      ""
+    ]
+  },
+  "productivetrees:golden_delicious_apple_fence": {
+    "result": "productivetrees:golden_delicious_apple_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:golden_delicious_apple_planks",
+      "minecraft:stick",
+      "productivetrees:golden_delicious_apple_planks",
+      "productivetrees:golden_delicious_apple_planks",
+      "minecraft:stick",
+      "productivetrees:golden_delicious_apple_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:golden_delicious_apple_fence_gate": {
+    "result": "productivetrees:golden_delicious_apple_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:golden_delicious_apple_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:golden_delicious_apple_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:golden_delicious_apple_hanging_sign": {
+    "result": "productivetrees:golden_delicious_apple_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:golden_delicious_apple_planks",
+      "productivetrees:golden_delicious_apple_planks",
+      "productivetrees:golden_delicious_apple_planks",
+      "productivetrees:golden_delicious_apple_planks",
+      "productivetrees:golden_delicious_apple_planks",
+      "productivetrees:golden_delicious_apple_planks"
+    ]
+  },
+  "productivetrees:golden_delicious_apple_planks": {
+    "result": "productivetrees:golden_delicious_apple_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:golden_delicious_apple_pressure_plate": {
+    "result": "productivetrees:golden_delicious_apple_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:golden_delicious_apple_planks",
+      "productivetrees:golden_delicious_apple_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:golden_delicious_apple_sign": {
+    "result": "productivetrees:golden_delicious_apple_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:golden_delicious_apple_planks",
+      "productivetrees:golden_delicious_apple_planks",
+      "productivetrees:golden_delicious_apple_planks",
+      "productivetrees:golden_delicious_apple_planks",
+      "productivetrees:golden_delicious_apple_planks",
+      "productivetrees:golden_delicious_apple_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:golden_delicious_apple_slab": {
+    "result": "productivetrees:golden_delicious_apple_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:golden_delicious_apple_planks",
+      "productivetrees:golden_delicious_apple_planks",
+      "productivetrees:golden_delicious_apple_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:golden_delicious_apple_stairs": {
+    "result": "productivetrees:golden_delicious_apple_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:golden_delicious_apple_planks",
+      "",
+      "",
+      "productivetrees:golden_delicious_apple_planks",
+      "productivetrees:golden_delicious_apple_planks",
+      "",
+      "productivetrees:golden_delicious_apple_planks",
+      "productivetrees:golden_delicious_apple_planks",
+      "productivetrees:golden_delicious_apple_planks"
+    ]
+  },
+  "productivetrees:golden_delicious_apple_trapdoor": {
+    "result": "productivetrees:golden_delicious_apple_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:golden_delicious_apple_planks",
+      "productivetrees:golden_delicious_apple_planks",
+      "productivetrees:golden_delicious_apple_planks",
+      "productivetrees:golden_delicious_apple_planks",
+      "productivetrees:golden_delicious_apple_planks",
+      "productivetrees:golden_delicious_apple_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:golden_delicious_apple_wood": {
+    "result": "productivetrees:golden_delicious_apple_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:golden_delicious_apple_log",
+      "productivetrees:golden_delicious_apple_log",
+      "",
+      "productivetrees:golden_delicious_apple_log",
+      "productivetrees:golden_delicious_apple_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:goggles": {
+    "result": "railcraft:goggles",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glass",
+      "railcraft:receiver_circuit",
+      "minecraft:glass",
+      "modern_industrialization:steel_ingot",
+      "",
+      "modern_industrialization:steel_ingot",
+      "minecraft:leather",
+      "minecraft:leather",
+      "minecraft:leather"
+    ]
+  },
+  "railcraft:golden_ticket": {
+    "result": "railcraft:golden_ticket",
+    "count": 1,
+    "ingredients": [
+      "minecraft:paper",
+      "minecraft:gold",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:gold_gear": {
+    "result": "railcraft:gold_gear",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:gold_ingot",
+      "",
+      "minecraft:gold_ingot",
+      "railcraft:bushing_gear",
+      "minecraft:gold_ingot",
+      "",
+      "minecraft:gold_ingot",
+      ""
+    ]
+  },
+  "regions_unexplored:golden_larch_sapling": {
+    "result": "regions_unexplored:golden_larch_sapling",
+    "count": 2,
+    "ingredients": [
+      "regions_unexplored:golden_larch_shrub",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:golden_larch_shrub": {
+    "result": "regions_unexplored:golden_larch_shrub",
+    "count": 1,
+    "ingredients": [
+      "regions_unexplored:golden_larch_sapling",
+      "",
+      "",
+      "regions_unexplored:golden_larch_sapling",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "securitycraft:gold_mine": {
+    "result": "securitycraft:gold_mine",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_ore",
+      "securitycraft:mine",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgear:golden_nether_banana": {
+    "result": "silentgear:golden_nether_banana",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "silentgear:nether_banana",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot"
+    ]
+  },
+  "sophisticatedstorage:gold_to_diamond_tier_upgrade": {
+    "result": "sophisticatedstorage:gold_to_diamond_tier_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:lever",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond"
+    ]
+  },
+  "sophisticatedstorage:gold_to_netherite_tier_upgrade": {
+    "result": "sophisticatedstorage:gold_to_netherite_tier_upgrade",
+    "count": 1,
+    "ingredients": [
+      "sophisticatedstorage:gold_to_diamond_tier_upgrade",
+      "minecraft:netherite",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "supplementaries:goblet": {
+    "result": "supplementaries:goblet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron",
+      "",
+      "minecraft:iron",
+      "minecraft:iron",
+      "minecraft:iron_ingot",
+      "minecraft:iron",
+      "",
+      "minecraft:iron",
+      ""
+    ]
+  },
+  "supplementaries:gold_bars": {
+    "result": "supplementaries:gold_bars",
+    "count": 16,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot"
+    ]
+  },
+  "supplementaries:gold_door": {
+    "result": "supplementaries:gold_door",
+    "count": 3,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      ""
+    ]
+  },
+  "supplementaries:gold_gate": {
+    "result": "supplementaries:gold_gate",
+    "count": 2,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "minecraft:gold",
+      "minecraft:gold_ingot",
+      "minecraft:gold",
+      "minecraft:gold",
+      "minecraft:gold_ingot",
+      "minecraft:gold"
+    ]
+  },
+  "supplementaries:gold_trapdoor": {
+    "result": "supplementaries:gold_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      ""
+    ]
+  },
+  "undergarden:goo_block": {
+    "result": "undergarden:goo_block",
+    "count": 1,
+    "ingredients": [
+      "undergarden:goo_ball",
+      "undergarden:goo_ball",
+      "undergarden:goo_ball",
+      "undergarden:goo_ball",
+      "undergarden:goo_ball",
+      "undergarden:goo_ball",
+      "undergarden:goo_ball",
+      "undergarden:goo_ball",
+      "undergarden:goo_ball"
+    ]
+  },
+  "undergarden:goo_ball": {
+    "result": "undergarden:goo_ball",
+    "count": 9,
+    "ingredients": [
+      "undergarden:goo_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

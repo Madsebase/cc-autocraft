@@ -1,0 +1,662 @@
+{
+  "advanced_ae:auto_feeding_card": {
+    "result": "advanced_ae:auto_feeding_card",
+    "count": 1,
+    "ingredients": [
+      "",
+      "ae2:wireless_access_point",
+      "",
+      "minecraft:golden_carrot",
+      "advanced_ae:quantum_upgrade_base",
+      "minecraft:glistering_melon_slice",
+      "",
+      "minecraft:enchanted_golden_apple",
+      ""
+    ]
+  },
+  "advanced_ae:auto_stock_card": {
+    "result": "advanced_ae:auto_stock_card",
+    "count": 1,
+    "ingredients": [
+      "",
+      "ae2:wireless_access_point",
+      "",
+      "minecraft:shulker_box",
+      "advanced_ae:quantum_upgrade_base",
+      "minecraft:shulker_box",
+      "",
+      "ae2:controller",
+      ""
+    ]
+  },
+  "apotheosis:augmenting_table": {
+    "result": "apotheosis:augmenting_table",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:nether_star",
+      "",
+      "apotheosis:mythic_material",
+      "minecraft:enchanting_table",
+      "apotheosis:mythic_material",
+      "minecraft:polished_blackstone",
+      "minecraft:polished_blackstone",
+      "minecraft:polished_blackstone"
+    ]
+  },
+  "easy_villagers:auto_trader": {
+    "result": "easy_villagers:auto_trader",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:redstone",
+      "minecraft:glass",
+      "minecraft:iron_ingot",
+      "minecraft:netherite",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "expandedae:auto_complete_card": {
+    "result": "expandedae:auto_complete_card",
+    "count": 1,
+    "ingredients": [
+      "ae2:advanced_card",
+      "ae2:crafting_card",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "forbidden_arcanus:aurum_boat": {
+    "result": "forbidden_arcanus:aurum_boat",
+    "count": 1,
+    "ingredients": [
+      "forbidden_arcanus:aurum_planks",
+      "",
+      "forbidden_arcanus:aurum_planks",
+      "forbidden_arcanus:aurum_planks",
+      "forbidden_arcanus:aurum_planks",
+      "forbidden_arcanus:aurum_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "forbidden_arcanus:aurum_button": {
+    "result": "forbidden_arcanus:aurum_button",
+    "count": 1,
+    "ingredients": [
+      "forbidden_arcanus:aurum_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "forbidden_arcanus:aurum_chest_boat": {
+    "result": "forbidden_arcanus:aurum_chest_boat",
+    "count": 1,
+    "ingredients": [
+      "forbidden_arcanus:aurum_boat",
+      "minecraft:chest",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "forbidden_arcanus:aurum_door": {
+    "result": "forbidden_arcanus:aurum_door",
+    "count": 3,
+    "ingredients": [
+      "forbidden_arcanus:aurum_planks",
+      "forbidden_arcanus:aurum_planks",
+      "",
+      "forbidden_arcanus:aurum_planks",
+      "forbidden_arcanus:aurum_planks",
+      "",
+      "forbidden_arcanus:aurum_planks",
+      "forbidden_arcanus:aurum_planks",
+      ""
+    ]
+  },
+  "forbidden_arcanus:aurum_fence": {
+    "result": "forbidden_arcanus:aurum_fence",
+    "count": 3,
+    "ingredients": [
+      "forbidden_arcanus:aurum_planks",
+      "minecraft:stick",
+      "forbidden_arcanus:aurum_planks",
+      "forbidden_arcanus:aurum_planks",
+      "minecraft:stick",
+      "forbidden_arcanus:aurum_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "forbidden_arcanus:aurum_fence_gate": {
+    "result": "forbidden_arcanus:aurum_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "forbidden_arcanus:aurum_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "forbidden_arcanus:aurum_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "forbidden_arcanus:aurum_planks": {
+    "result": "forbidden_arcanus:aurum_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "forbidden_arcanus:aurum_pressure_plate": {
+    "result": "forbidden_arcanus:aurum_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "forbidden_arcanus:aurum_planks",
+      "forbidden_arcanus:aurum_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "forbidden_arcanus:aurum_slab": {
+    "result": "forbidden_arcanus:aurum_slab",
+    "count": 6,
+    "ingredients": [
+      "forbidden_arcanus:aurum_planks",
+      "forbidden_arcanus:aurum_planks",
+      "forbidden_arcanus:aurum_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "forbidden_arcanus:aurum_stairs": {
+    "result": "forbidden_arcanus:aurum_stairs",
+    "count": 4,
+    "ingredients": [
+      "forbidden_arcanus:aurum_planks",
+      "",
+      "",
+      "forbidden_arcanus:aurum_planks",
+      "forbidden_arcanus:aurum_planks",
+      "",
+      "forbidden_arcanus:aurum_planks",
+      "forbidden_arcanus:aurum_planks",
+      "forbidden_arcanus:aurum_planks"
+    ]
+  },
+  "forbidden_arcanus:aurum_trapdoor": {
+    "result": "forbidden_arcanus:aurum_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "forbidden_arcanus:aurum_planks",
+      "forbidden_arcanus:aurum_planks",
+      "forbidden_arcanus:aurum_planks",
+      "forbidden_arcanus:aurum_planks",
+      "forbidden_arcanus:aurum_planks",
+      "forbidden_arcanus:aurum_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "forbidden_arcanus:aurum_wood": {
+    "result": "forbidden_arcanus:aurum_wood",
+    "count": 3,
+    "ingredients": [
+      "forbidden_arcanus:aurum_log",
+      "forbidden_arcanus:aurum_log",
+      "",
+      "forbidden_arcanus:aurum_log",
+      "forbidden_arcanus:aurum_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ironfurnaces:augment_blasting": {
+    "result": "ironfurnaces:augment_blasting",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone",
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:paper",
+      "minecraft:blast_furnace",
+      "minecraft:paper",
+      "minecraft:stone",
+      "minecraft:redstone",
+      "minecraft:stone"
+    ]
+  },
+  "ironfurnaces:augment_factory": {
+    "result": "ironfurnaces:augment_factory",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone",
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:paper",
+      "minecraft:piston",
+      "minecraft:paper",
+      "minecraft:stone",
+      "minecraft:redstone",
+      "minecraft:stone"
+    ]
+  },
+  "ironfurnaces:augment_fuel": {
+    "result": "ironfurnaces:augment_fuel",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone",
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:paper",
+      "minecraft:coal",
+      "minecraft:paper",
+      "minecraft:stone",
+      "minecraft:redstone",
+      "minecraft:stone"
+    ]
+  },
+  "ironfurnaces:augment_generator": {
+    "result": "ironfurnaces:augment_generator",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone",
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:paper",
+      "minecraft:repeater",
+      "minecraft:paper",
+      "minecraft:stone",
+      "minecraft:redstone",
+      "minecraft:stone"
+    ]
+  },
+  "ironfurnaces:augment_smoking": {
+    "result": "ironfurnaces:augment_smoking",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone",
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:paper",
+      "minecraft:smoker",
+      "minecraft:paper",
+      "minecraft:stone",
+      "minecraft:redstone",
+      "minecraft:stone"
+    ]
+  },
+  "ironfurnaces:augment_speed": {
+    "result": "ironfurnaces:augment_speed",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone",
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:paper",
+      "minecraft:sugar",
+      "minecraft:paper",
+      "minecraft:stone",
+      "minecraft:redstone",
+      "minecraft:stone"
+    ]
+  },
+  "modularrouters:augment_core": {
+    "result": "modularrouters:augment_core",
+    "count": 4,
+    "ingredients": [
+      "modularrouters:blank_module",
+      "modularrouters:blank_upgrade",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "naturesaura:aura_cache": {
+    "result": "naturesaura:aura_cache",
+    "count": 1,
+    "ingredients": [
+      "naturesaura:infused_stone",
+      "naturesaura:infused_iron",
+      "naturesaura:infused_stone",
+      "naturesaura:infused_iron",
+      "minecraft:bucket",
+      "naturesaura:infused_iron",
+      "naturesaura:infused_stone",
+      "naturesaura:infused_iron",
+      "naturesaura:infused_stone"
+    ]
+  },
+  "naturesaura:aura_detector": {
+    "result": "naturesaura:aura_detector",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "naturesaura:infused_stone",
+      "minecraft:redstone",
+      "naturesaura:infused_stone",
+      "naturesaura:eye",
+      "naturesaura:infused_stone",
+      "minecraft:redstone",
+      "naturesaura:infused_stone",
+      "minecraft:redstone"
+    ]
+  },
+  "naturesaura:aura_timer": {
+    "result": "naturesaura:aura_timer",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "naturesaura:infused_iron",
+      "minecraft:glass_pane",
+      "minecraft:smooth_stone",
+      "minecraft:smooth_stone",
+      "minecraft:smooth_stone"
+    ]
+  },
+  "naturesaura:aura_trove": {
+    "result": "naturesaura:aura_trove",
+    "count": 1,
+    "ingredients": [
+      "naturesaura:infused_stone",
+      "naturesaura:sky_ingot",
+      "naturesaura:infused_stone",
+      "naturesaura:sky_ingot",
+      "naturesaura:aura_cache",
+      "naturesaura:sky_ingot",
+      "naturesaura:infused_stone",
+      "naturesaura:sky_ingot",
+      "naturesaura:infused_stone"
+    ]
+  },
+  "naturesaura:auto_crafter": {
+    "result": "naturesaura:auto_crafter",
+    "count": 1,
+    "ingredients": [
+      "naturesaura:ancient_planks",
+      "naturesaura:token_joy",
+      "naturesaura:ancient_planks",
+      "naturesaura:ancient_planks",
+      "minecraft:crafting_table",
+      "naturesaura:ancient_planks",
+      "naturesaura:ancient_planks",
+      "naturesaura:sky_ingot",
+      "naturesaura:ancient_planks"
+    ]
+  },
+  "oritech:augment_application_block": {
+    "result": "oritech:augment_application_block",
+    "count": 1,
+    "ingredients": [
+      "oritech:dubios_container",
+      "minecraft:carbon_fibre",
+      "oritech:dubios_container",
+      "oritech:motor",
+      "minecraft:chest",
+      "oritech:motor",
+      "minecraft:plating",
+      "minecraft:plating",
+      "minecraft:plating"
+    ]
+  },
+  "refinedstorage:autocrafter": {
+    "result": "refinedstorage:autocrafter",
+    "count": 1,
+    "ingredients": [
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:construction_core",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:advanced_processor",
+      "refinedstorage:machine_casing",
+      "refinedstorage:advanced_processor",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:destruction_core",
+      "refinedstorage:quartz_enriched_iron"
+    ]
+  },
+  "refinedstorage:autocrafter_manager": {
+    "result": "refinedstorage:autocrafter_manager",
+    "count": 1,
+    "ingredients": [
+      "refinedstorage:advanced_processor",
+      "minecraft:autocrafters",
+      "minecraft:glass",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:machine_casing",
+      "minecraft:glass",
+      "refinedstorage:advanced_processor",
+      "minecraft:autocrafters",
+      "minecraft:glass"
+    ]
+  },
+  "refinedstorage:autocrafting_monitor": {
+    "result": "refinedstorage:autocrafting_monitor",
+    "count": 1,
+    "ingredients": [
+      "refinedstorage:improved_processor",
+      "refinedstorage:pattern",
+      "minecraft:glass",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:machine_casing",
+      "minecraft:glass",
+      "refinedstorage:improved_processor",
+      "refinedstorage:pattern",
+      "minecraft:glass"
+    ]
+  },
+  "refinedstorage:autocrafting_upgrade": {
+    "result": "refinedstorage:autocrafting_upgrade",
+    "count": 1,
+    "ingredients": [
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:construction_core",
+      "refinedstorage:quartz_enriched_iron",
+      "minecraft:crafting_tables",
+      "refinedstorage:upgrade",
+      "minecraft:crafting_tables",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:quartz_enriched_iron"
+    ]
+  },
+  "sophisticatedbackpacks:auto_blasting_upgrade": {
+    "result": "sophisticatedbackpacks:auto_blasting_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:string",
+      "sophisticatedstorage:auto_blasting_upgrade",
+      "minecraft:string",
+      "",
+      "minecraft:leather",
+      "",
+      "minecraft:string",
+      "",
+      "minecraft:string"
+    ]
+  },
+  "sophisticatedbackpacks:auto_smoking_upgrade": {
+    "result": "sophisticatedbackpacks:auto_smoking_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:string",
+      "sophisticatedstorage:auto_smoking_upgrade",
+      "minecraft:string",
+      "",
+      "minecraft:leather",
+      "",
+      "minecraft:string",
+      "",
+      "minecraft:string"
+    ]
+  },
+  "sophisticatedstorage:auto_blasting_upgrade": {
+    "result": "sophisticatedstorage:auto_blasting_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "sophisticatedbackpacks:auto_blasting_upgrade",
+      "minecraft:oak_planks",
+      "",
+      "minecraft:oak_planks",
+      "",
+      "minecraft:oak_planks",
+      "",
+      "minecraft:oak_planks"
+    ]
+  },
+  "sophisticatedstorage:auto_smoking_upgrade": {
+    "result": "sophisticatedstorage:auto_smoking_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "sophisticatedbackpacks:auto_smoking_upgrade",
+      "minecraft:oak_planks",
+      "",
+      "minecraft:oak_planks",
+      "",
+      "minecraft:oak_planks",
+      "",
+      "minecraft:oak_planks"
+    ]
+  },
+  "sophisticatedbackpacks:auto_smelting_upgrade": {
+    "result": "sophisticatedbackpacks:auto_smelting_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:string",
+      "sophisticatedstorage:auto_smelting_upgrade",
+      "minecraft:string",
+      "",
+      "minecraft:leather",
+      "",
+      "minecraft:string",
+      "",
+      "minecraft:string"
+    ]
+  },
+  "sophisticatedstorage:auto_smelting_upgrade": {
+    "result": "sophisticatedstorage:auto_smelting_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "sophisticatedbackpacks:auto_smelting_upgrade",
+      "minecraft:oak_planks",
+      "",
+      "minecraft:oak_planks",
+      "",
+      "minecraft:oak_planks",
+      "",
+      "minecraft:oak_planks"
+    ]
+  },
+  "twilightforest:aurora_pillar": {
+    "result": "twilightforest:aurora_pillar",
+    "count": 2,
+    "ingredients": [
+      "twilightforest:aurora_block",
+      "",
+      "",
+      "twilightforest:aurora_block",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:aurora_slab": {
+    "result": "twilightforest:aurora_slab",
+    "count": 6,
+    "ingredients": [
+      "twilightforest:aurora_block",
+      "twilightforest:aurora_block",
+      "twilightforest:aurora_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xycraft_world:aurey_block_matte_pink": {
+    "result": "xycraft_world:aurey_block_matte_pink",
+    "count": 4,
+    "ingredients": [
+      "minecraft:aluminum",
+      "minecraft:aluminum",
+      "minecraft:aluminum",
+      "minecraft:aluminum",
+      "minecraft:dyes",
+      "minecraft:aluminum",
+      "minecraft:aluminum",
+      "minecraft:aluminum",
+      "minecraft:aluminum"
+    ]
+  },
+  "xycraft_world:aurey_block_matte_glowing_pink": {
+    "result": "xycraft_world:aurey_block_matte_glowing_pink",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glow_ink_sac",
+      "xycraft_world:aurey_block_matte_pink",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "actuallyadditions:xp_solidifier": {
+    "result": "actuallyadditions:xp_solidifier",
+    "count": 1,
+    "ingredients": [
+      "minecraft:experience_bottle",
+      "minecraft:experience_bottle",
+      "minecraft:experience_bottle",
+      "actuallyadditions:empowered_diamatine_crystal_block",
+      "actuallyadditions:advanced_coil",
+      "actuallyadditions:empowered_diamatine_crystal_block",
+      "minecraft:experience_bottle",
+      "minecraft:experience_bottle",
+      "minecraft:experience_bottle"
+    ]
+  },
+  "ars_additions:xp_jar": {
+    "result": "ars_additions:xp_jar",
+    "count": 1,
+    "ingredients": [
+      "ars_additions:xp_jar",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "enderio:xp_obelisk": {
+    "result": "enderio:xp_obelisk",
+    "count": 1,
+    "ingredients": [
+      "",
+      "enderio:experience_rod",
+      "",
+      "",
+      "minecraft:soularium",
+      "",
+      "minecraft:soularium",
+      "enderio:ensouled_chassis",
+      "minecraft:soularium"
+    ]
+  },
+  "enderio:xp_vacuum": {
+    "result": "enderio:xp_vacuum",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "enderio:void_vial",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:pulsating_crystal",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "mob_grinding_utils:xpsolidifier": {
+    "result": "mob_grinding_utils:xpsolidifier",
+    "count": 1,
+    "ingredients": [
+      "mob_grinding_utils:xpsolidifier",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mob_grinding_utils:xp_tap": {
+    "result": "mob_grinding_utils:xp_tap",
+    "count": 1,
+    "ingredients": [
+      "minecraft:obsidians",
+      "",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "",
+      ""
+    ]
+  },
+  "modularrouters:xp_vacuum_augment": {
+    "result": "modularrouters:xp_vacuum_augment",
+    "count": 1,
+    "ingredients": [
+      "modularrouters:augment_core",
+      "minecraft:soul_sand",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "sfm:xp_goop": {
+    "result": "sfm:xp_goop",
+    "count": 1,
+    "ingredients": [
+      "sfm:xp_shard",
+      "sfm:xp_shard",
+      "sfm:xp_shard",
+      "sfm:xp_shard",
+      "sfm:xp_shard",
+      "sfm:xp_shard",
+      "sfm:xp_shard",
+      "sfm:xp_shard",
+      "sfm:xp_shard"
+    ]
+  },
+  "sophisticatedbackpacks:xp_pump_upgrade": {
+    "result": "sophisticatedbackpacks:xp_pump_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "minecraft:ender_eye",
+      "minecraft:redstone",
+      "minecraft:experience_bottle",
+      "sophisticatedbackpacks:advanced_pump_upgrade",
+      "minecraft:experience_bottle",
+      "minecraft:redstone",
+      "minecraft:ender_eye",
+      "minecraft:redstone"
+    ]
+  }
+}

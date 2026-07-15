@@ -1,0 +1,122 @@
+{
+  "pamhc2foodextended:lycheejellyitem": {
+    "result": "pamhc2foodextended:lycheejellyitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:lychee",
+      "minecraft:sugar",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:lycheejellysandwichitem": {
+    "result": "pamhc2foodextended:lycheejellysandwichitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:lycheejelly",
+      "minecraft:bread",
+      "minecraft:nutbutters",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:lycheejellytoastitem": {
+    "result": "pamhc2foodextended:lycheejellytoastitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:lycheejelly",
+      "minecraft:toast",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:lycheejuiceitem": {
+    "result": "pamhc2foodextended:lycheejuiceitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_juicer",
+      "minecraft:lychee",
+      "minecraft:lychee",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:lycheepieitem": {
+    "result": "pamhc2foodextended:lycheepieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:lychee",
+      "minecraft:sugar",
+      "minecraft:dough",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:lycheesmoothieitem": {
+    "result": "pamhc2foodextended:lycheesmoothieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:lychee",
+      "minecraft:ices",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:lycheeyogurtitem": {
+    "result": "pamhc2foodextended:lycheeyogurtitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:lychee",
+      "minecraft:yogurt",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2trees:lychee_sapling": {
+    "result": "pamhc2trees:lychee_sapling",
+    "count": 1,
+    "ingredients": [
+      "pamhc2trees:lycheeitem",
+      "pamhc2trees:lycheeitem",
+      "pamhc2trees:lycheeitem",
+      "pamhc2trees:lycheeitem",
+      "pamhc2trees:lycheeitem",
+      "pamhc2trees:lycheeitem",
+      "pamhc2trees:lycheeitem",
+      "pamhc2trees:lycheeitem",
+      "minecraft:saplings"
+    ]
+  }
+}

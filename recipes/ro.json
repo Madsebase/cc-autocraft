@@ -1,0 +1,3002 @@
+{
+  "ars_nouveau:rotating_spell_turret": {
+    "result": "ars_nouveau:rotating_spell_turret",
+    "count": 1,
+    "ingredients": [
+      "ars_nouveau:basic_spell_turret",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:roots_wildwood_bookcase": {
+    "result": "bibliocraft:roots_wildwood_bookcase",
+    "count": 1,
+    "ingredients": [
+      "roots:wildwood_planks",
+      "roots:wildwood_slab",
+      "roots:wildwood_planks",
+      "roots:wildwood_planks",
+      "roots:wildwood_slab",
+      "roots:wildwood_planks",
+      "roots:wildwood_planks",
+      "roots:wildwood_slab",
+      "roots:wildwood_planks"
+    ]
+  },
+  "bibliocraft:roots_wildwood_fancy_armor_stand": {
+    "result": "bibliocraft:roots_wildwood_fancy_armor_stand",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "roots:wildwood_slab",
+      "roots:wildwood_slab",
+      "roots:wildwood_slab"
+    ]
+  },
+  "bibliocraft:roots_wildwood_fancy_clock": {
+    "result": "bibliocraft:roots_wildwood_fancy_clock",
+    "count": 1,
+    "ingredients": [
+      "roots:wildwood_slab",
+      "minecraft:clock",
+      "roots:wildwood_slab",
+      "roots:wildwood_slab",
+      "minecraft:stick",
+      "roots:wildwood_slab",
+      "roots:wildwood_slab",
+      "minecraft:copper_ingot",
+      "roots:wildwood_slab"
+    ]
+  },
+  "bibliocraft:roots_wildwood_fancy_crafter": {
+    "result": "bibliocraft:roots_wildwood_fancy_crafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black",
+      "minecraft:crafting_tables",
+      "minecraft:feather",
+      "roots:wildwood_planks",
+      "minecraft:glass",
+      "roots:wildwood_planks",
+      "roots:wildwood_planks",
+      "minecraft:crafter",
+      "roots:wildwood_planks"
+    ]
+  },
+  "bibliocraft:roots_wildwood_fancy_sign": {
+    "result": "bibliocraft:roots_wildwood_fancy_sign",
+    "count": 1,
+    "ingredients": [
+      "roots:wildwood_planks",
+      "minecraft:paper",
+      "roots:wildwood_planks",
+      "roots:wildwood_planks",
+      "minecraft:paper",
+      "roots:wildwood_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "bibliocraft:roots_wildwood_grandfather_clock": {
+    "result": "bibliocraft:roots_wildwood_grandfather_clock",
+    "count": 1,
+    "ingredients": [
+      "bibliocraft:roots_wildwood_fancy_clock",
+      "bibliocraft:roots_wildwood_fancy_clock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:roots_wildwood_label": {
+    "result": "bibliocraft:roots_wildwood_label",
+    "count": 1,
+    "ingredients": [
+      "roots:wildwood_slab",
+      "roots:wildwood_slab",
+      "roots:wildwood_slab",
+      "roots:wildwood_slab",
+      "roots:wildwood_slab",
+      "roots:wildwood_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:roots_wildwood_potion_shelf": {
+    "result": "bibliocraft:roots_wildwood_potion_shelf",
+    "count": 1,
+    "ingredients": [
+      "roots:wildwood_slab",
+      "roots:wildwood_slab",
+      "roots:wildwood_slab",
+      "roots:wildwood_planks",
+      "minecraft:glass_bottle",
+      "roots:wildwood_planks",
+      "roots:wildwood_slab",
+      "roots:wildwood_slab",
+      "roots:wildwood_slab"
+    ]
+  },
+  "bibliocraft:roots_wildwood_shelf": {
+    "result": "bibliocraft:roots_wildwood_shelf",
+    "count": 1,
+    "ingredients": [
+      "roots:wildwood_slab",
+      "roots:wildwood_slab",
+      "roots:wildwood_slab",
+      "",
+      "roots:wildwood_planks",
+      "",
+      "roots:wildwood_slab",
+      "roots:wildwood_slab",
+      "roots:wildwood_slab"
+    ]
+  },
+  "bibliocraft:roots_wildwood_table": {
+    "result": "bibliocraft:roots_wildwood_table",
+    "count": 1,
+    "ingredients": [
+      "roots:wildwood_slab",
+      "roots:wildwood_slab",
+      "roots:wildwood_slab",
+      "",
+      "roots:wildwood_planks",
+      "",
+      "",
+      "roots:wildwood_planks",
+      ""
+    ]
+  },
+  "bibliocraft:roots_wildwood_tool_rack": {
+    "result": "bibliocraft:roots_wildwood_tool_rack",
+    "count": 1,
+    "ingredients": [
+      "roots:wildwood_slab",
+      "roots:wildwood_slab",
+      "roots:wildwood_slab",
+      "roots:wildwood_slab",
+      "minecraft:iron_ingot",
+      "roots:wildwood_slab",
+      "roots:wildwood_slab",
+      "roots:wildwood_slab",
+      "roots:wildwood_slab"
+    ]
+  },
+  "biomeswevegone:rocky_stone": {
+    "result": "biomeswevegone:rocky_stone",
+    "count": 2,
+    "ingredients": [
+      "minecraft:cobblestone",
+      "minecraft:stone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:rocky_stone_slab": {
+    "result": "biomeswevegone:rocky_stone_slab",
+    "count": 6,
+    "ingredients": [
+      "biomeswevegone:rocky_stone",
+      "biomeswevegone:rocky_stone",
+      "biomeswevegone:rocky_stone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:rocky_stone_stairs": {
+    "result": "biomeswevegone:rocky_stone_stairs",
+    "count": 4,
+    "ingredients": [
+      "biomeswevegone:rocky_stone",
+      "",
+      "",
+      "biomeswevegone:rocky_stone",
+      "biomeswevegone:rocky_stone",
+      "",
+      "biomeswevegone:rocky_stone",
+      "biomeswevegone:rocky_stone",
+      "biomeswevegone:rocky_stone"
+    ]
+  },
+  "biomeswevegone:rocky_stone_wall": {
+    "result": "biomeswevegone:rocky_stone_wall",
+    "count": 6,
+    "ingredients": [
+      "biomeswevegone:rocky_stone",
+      "biomeswevegone:rocky_stone",
+      "biomeswevegone:rocky_stone",
+      "biomeswevegone:rocky_stone",
+      "biomeswevegone:rocky_stone",
+      "biomeswevegone:rocky_stone",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:rosy_wreath": {
+    "result": "biomeswevegone:rosy_wreath",
+    "count": 1,
+    "ingredients": [
+      "",
+      "biomeswevegone:rose",
+      "",
+      "biomeswevegone:osiria_rose",
+      "biomeswevegone:wreath",
+      "biomeswevegone:osiria_rose",
+      "",
+      "biomeswevegone:rose",
+      ""
+    ]
+  },
+  "comforts:rope_and_nail": {
+    "result": "comforts:rope_and_nail",
+    "count": 2,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:ropes",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:rope_pulley": {
+    "result": "create:rope_pulley",
+    "count": 1,
+    "ingredients": [
+      "create:andesite_casing",
+      "",
+      "",
+      "minecraft:white_wool",
+      "",
+      "",
+      "minecraft:iron",
+      "",
+      ""
+    ]
+  },
+  "create:rose_quartz_lamp": {
+    "result": "create:rose_quartz_lamp",
+    "count": 1,
+    "ingredients": [
+      "create:polished_rose_quartz",
+      "minecraft:redstone",
+      "minecraft:zinc",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:rotation_speed_controller": {
+    "result": "create:rotation_speed_controller",
+    "count": 1,
+    "ingredients": [
+      "create:precision_mechanism",
+      "",
+      "",
+      "create:brass_casing",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:rose_quartz": {
+    "result": "create:rose_quartz",
+    "count": 1,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:redstone",
+      "minecraft:redstone",
+      "minecraft:redstone",
+      "minecraft:redstone",
+      "minecraft:redstone",
+      "minecraft:redstone",
+      "minecraft:redstone",
+      "minecraft:redstone"
+    ]
+  },
+  "create:rose_quartz_tiles": {
+    "result": "create:rose_quartz_tiles",
+    "count": 1,
+    "ingredients": [
+      "create:small_rose_quartz_tiles",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "createaddition:rolling_mill": {
+    "result": "createaddition:rolling_mill",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron",
+      "create:shaft",
+      "minecraft:iron",
+      "create:andesite_alloy",
+      "create:shaft",
+      "create:andesite_alloy",
+      "create:andesite_alloy",
+      "create:andesite_casing",
+      "create:andesite_alloy"
+    ]
+  },
+  "domum_ornamentum:roan_bricks": {
+    "result": "domum_ornamentum:roan_bricks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:white_concrete_powder",
+      "minecraft:white_concrete_powder",
+      "minecraft:brick",
+      "minecraft:brick",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "domum_ornamentum:roan_stone_bricks": {
+    "result": "domum_ornamentum:roan_stone_bricks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:brick",
+      "minecraft:brick",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:rose_carpet": {
+    "result": "dyenamics:rose_carpet",
+    "count": 3,
+    "ingredients": [
+      "dyenamics:rose_wool",
+      "dyenamics:rose_wool",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:rose_candle": {
+    "result": "dyenamics:rose_candle",
+    "count": 1,
+    "ingredients": [
+      "minecraft:candle",
+      "minecraft:rose",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:rose_concrete_powder": {
+    "result": "dyenamics:rose_concrete_powder",
+    "count": 8,
+    "ingredients": [
+      "minecraft:rose",
+      "minecraft:sand",
+      "minecraft:sand",
+      "minecraft:sand",
+      "minecraft:sand",
+      "minecraft:gravel",
+      "minecraft:gravel",
+      "minecraft:gravel",
+      "minecraft:gravel"
+    ]
+  },
+  "dyenamics:rose_dye": {
+    "result": "dyenamics:rose_dye",
+    "count": 3,
+    "ingredients": [
+      "minecraft:bubblegum",
+      "minecraft:maroon",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:rose_stained_glass": {
+    "result": "dyenamics:rose_stained_glass",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:rose",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass"
+    ]
+  },
+  "dyenamics:rose_stained_glass_pane": {
+    "result": "dyenamics:rose_stained_glass_pane",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:rose",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane"
+    ]
+  },
+  "dyenamics:rose_terracotta": {
+    "result": "dyenamics:rose_terracotta",
+    "count": 8,
+    "ingredients": [
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:rose",
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:terracotta"
+    ]
+  },
+  "dyenamics:rose_wool": {
+    "result": "dyenamics:rose_wool",
+    "count": 1,
+    "ingredients": [
+      "minecraft:rose",
+      "minecraft:white_wool",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:rose_banner": {
+    "result": "dyenamics:rose_banner",
+    "count": 1,
+    "ingredients": [
+      "dyenamics:rose_wool",
+      "dyenamics:rose_wool",
+      "dyenamics:rose_wool",
+      "dyenamics:rose_wool",
+      "dyenamics:rose_wool",
+      "dyenamics:rose_wool",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "dyenamics:rose_bed": {
+    "result": "dyenamics:rose_bed",
+    "count": 1,
+    "ingredients": [
+      "minecraft:beds",
+      "minecraft:rose",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:rose_rockwool": {
+    "result": "dyenamics:rose_rockwool",
+    "count": 1,
+    "ingredients": [
+      "thermal:white_rockwool",
+      "minecraft:rose",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:rookfish_skewer": {
+    "result": "eternal_starlight:rookfish_skewer",
+    "count": 3,
+    "ingredients": [
+      "eternal_starlight:cooked_rookfish",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "extended_industrialization:robot_auto_feeder": {
+    "result": "extended_industrialization:robot_auto_feeder",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:motor",
+      "modern_industrialization:bronze_curved_plate",
+      "modern_industrialization:motor",
+      "modern_industrialization:bronze_curved_plate",
+      "modern_industrialization:robot_arm",
+      "modern_industrialization:bronze_curved_plate",
+      "modern_industrialization:redstone_battery",
+      "modern_industrialization:electronic_circuit",
+      "modern_industrialization:redstone_battery"
+    ]
+  },
+  "farmersdelight:roasted_mutton_chops": {
+    "result": "farmersdelight:roasted_mutton_chops",
+    "count": 1,
+    "ingredients": [
+      "farmersdelight:cooked_mutton_chops",
+      "minecraft:beetroot",
+      "minecraft:bowl",
+      "farmersdelight:cooked_rice",
+      "minecraft:tomato",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "farmersdelight:roast_chicken_block": {
+    "result": "farmersdelight:roast_chicken_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:onion",
+      "minecraft:eggs",
+      "minecraft:bread",
+      "minecraft:carrot",
+      "minecraft:cooked_chicken",
+      "minecraft:baked_potato",
+      "minecraft:carrot",
+      "minecraft:bowl",
+      "minecraft:baked_potato"
+    ]
+  },
+  "farmersdelight:rope": {
+    "result": "farmersdelight:rope",
+    "count": 4,
+    "ingredients": [
+      "farmersdelight:safety_net",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "farmersdelight:rope_fence": {
+    "result": "farmersdelight:rope_fence",
+    "count": 3,
+    "ingredients": [
+      "farmersdelight:rope",
+      "minecraft:stick",
+      "farmersdelight:rope",
+      "farmersdelight:rope",
+      "minecraft:stick",
+      "farmersdelight:rope",
+      "",
+      "",
+      ""
+    ]
+  },
+  "farmersdelight:rope_fence_gate": {
+    "result": "farmersdelight:rope_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "farmersdelight:rope",
+      "minecraft:stick",
+      "minecraft:stick",
+      "farmersdelight:rope",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:rotten_flesh": {
+    "result": "minecraft:rotten_flesh",
+    "count": 6,
+    "ingredients": [
+      "reliquary:zombie_heart",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:rockcutter": {
+    "result": "immersiveengineering:rockcutter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:diamond",
+      "minecraft:steel",
+      "minecraft:diamond",
+      "minecraft:steel",
+      "",
+      "minecraft:steel",
+      "minecraft:diamond",
+      "minecraft:steel",
+      "minecraft:diamond"
+    ]
+  },
+  "mcwbridges:rope_acacia_bridge": {
+    "result": "mcwbridges:rope_acacia_bridge",
+    "count": 4,
+    "ingredients": [
+      "minecraft:string",
+      "",
+      "minecraft:string",
+      "minecraft:acacia_slab",
+      "minecraft:acacia_slab",
+      "minecraft:acacia_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:rope_birch_bridge": {
+    "result": "mcwbridges:rope_birch_bridge",
+    "count": 4,
+    "ingredients": [
+      "minecraft:string",
+      "",
+      "minecraft:string",
+      "minecraft:birch_slab",
+      "minecraft:birch_slab",
+      "minecraft:birch_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:rope_cherry_bridge": {
+    "result": "mcwbridges:rope_cherry_bridge",
+    "count": 4,
+    "ingredients": [
+      "minecraft:string",
+      "",
+      "minecraft:string",
+      "minecraft:cherry_slab",
+      "minecraft:cherry_slab",
+      "minecraft:cherry_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:rope_crimson_bridge": {
+    "result": "mcwbridges:rope_crimson_bridge",
+    "count": 4,
+    "ingredients": [
+      "minecraft:string",
+      "",
+      "minecraft:string",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:rope_dark_oak_bridge": {
+    "result": "mcwbridges:rope_dark_oak_bridge",
+    "count": 4,
+    "ingredients": [
+      "minecraft:string",
+      "",
+      "minecraft:string",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:rope_jungle_bridge": {
+    "result": "mcwbridges:rope_jungle_bridge",
+    "count": 4,
+    "ingredients": [
+      "minecraft:string",
+      "",
+      "minecraft:string",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:rope_mangrove_bridge": {
+    "result": "mcwbridges:rope_mangrove_bridge",
+    "count": 4,
+    "ingredients": [
+      "minecraft:string",
+      "",
+      "minecraft:string",
+      "minecraft:mangrove_slab",
+      "minecraft:mangrove_slab",
+      "minecraft:mangrove_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:rope_oak_bridge": {
+    "result": "mcwbridges:rope_oak_bridge",
+    "count": 4,
+    "ingredients": [
+      "minecraft:string",
+      "",
+      "minecraft:string",
+      "minecraft:oak_slab",
+      "minecraft:oak_slab",
+      "minecraft:oak_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:rope_spruce_bridge": {
+    "result": "mcwbridges:rope_spruce_bridge",
+    "count": 1,
+    "ingredients": [
+      "mcwbridges:spruce_rope_bridge_stair",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:rope_warped_bridge": {
+    "result": "mcwbridges:rope_warped_bridge",
+    "count": 1,
+    "ingredients": [
+      "mcwbridges:warped_rope_bridge_stair",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwlights:round_garden_light": {
+    "result": "mcwlights:round_garden_light",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:glowstone_dust",
+      "",
+      "minecraft:glowstone_dust",
+      "minecraft:glowstone_dust",
+      "minecraft:glowstone_dust",
+      "",
+      "minecraft:iron_ingot",
+      ""
+    ]
+  },
+  "mcwroofs:roofing_hammer": {
+    "result": "mcwroofs:roofing_hammer",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      "minecraft:iron_nugget",
+      "minecraft:iron_nugget",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "mekanismgenerators:rotational_complex": {
+    "result": "mekanismgenerators:rotational_complex",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:steel_ingot",
+      "minecraft:infused",
+      "modern_industrialization:steel_ingot",
+      "minecraft:advanced",
+      "minecraft:infused",
+      "minecraft:advanced",
+      "modern_industrialization:steel_ingot",
+      "minecraft:infused",
+      "modern_industrialization:steel_ingot"
+    ]
+  },
+  "merrymaking:roof_acacia_stairs": {
+    "result": "merrymaking:roof_acacia_stairs",
+    "count": 4,
+    "ingredients": [
+      "minecraft:acacia_stairs",
+      "minecraft:acacia_stairs",
+      "minecraft:acacia_stairs",
+      "minecraft:acacia_stairs",
+      "merrymaking:roof_tiles",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:roof_bamboo_stairs": {
+    "result": "merrymaking:roof_bamboo_stairs",
+    "count": 4,
+    "ingredients": [
+      "minecraft:bamboo_stairs",
+      "minecraft:bamboo_stairs",
+      "minecraft:bamboo_stairs",
+      "minecraft:bamboo_stairs",
+      "merrymaking:roof_tiles",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:roof_birch_stairs": {
+    "result": "merrymaking:roof_birch_stairs",
+    "count": 4,
+    "ingredients": [
+      "minecraft:birch_stairs",
+      "minecraft:birch_stairs",
+      "minecraft:birch_stairs",
+      "minecraft:birch_stairs",
+      "merrymaking:roof_tiles",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:roof_cherry_stairs": {
+    "result": "merrymaking:roof_cherry_stairs",
+    "count": 4,
+    "ingredients": [
+      "minecraft:cherry_stairs",
+      "minecraft:cherry_stairs",
+      "minecraft:cherry_stairs",
+      "minecraft:cherry_stairs",
+      "merrymaking:roof_tiles",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:roof_crimson_stairs": {
+    "result": "merrymaking:roof_crimson_stairs",
+    "count": 4,
+    "ingredients": [
+      "minecraft:crimson_stairs",
+      "minecraft:crimson_stairs",
+      "minecraft:crimson_stairs",
+      "minecraft:crimson_stairs",
+      "merrymaking:roof_tiles",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:roof_dark_oak_stairs": {
+    "result": "merrymaking:roof_dark_oak_stairs",
+    "count": 4,
+    "ingredients": [
+      "minecraft:dark_oak_stairs",
+      "minecraft:dark_oak_stairs",
+      "minecraft:dark_oak_stairs",
+      "minecraft:dark_oak_stairs",
+      "merrymaking:roof_tiles",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:roof_deepslate_brick_stairs": {
+    "result": "merrymaking:roof_deepslate_brick_stairs",
+    "count": 4,
+    "ingredients": [
+      "minecraft:deepslate_brick_stairs",
+      "minecraft:deepslate_brick_stairs",
+      "minecraft:deepslate_brick_stairs",
+      "minecraft:deepslate_brick_stairs",
+      "merrymaking:roof_tiles",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:roof_jungle_stairs": {
+    "result": "merrymaking:roof_jungle_stairs",
+    "count": 4,
+    "ingredients": [
+      "minecraft:jungle_stairs",
+      "minecraft:jungle_stairs",
+      "minecraft:jungle_stairs",
+      "minecraft:jungle_stairs",
+      "merrymaking:roof_tiles",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:roof_mangrove_stairs": {
+    "result": "merrymaking:roof_mangrove_stairs",
+    "count": 4,
+    "ingredients": [
+      "minecraft:mangrove_stairs",
+      "minecraft:mangrove_stairs",
+      "minecraft:mangrove_stairs",
+      "minecraft:mangrove_stairs",
+      "merrymaking:roof_tiles",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:roof_oak_stairs": {
+    "result": "merrymaking:roof_oak_stairs",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_stairs",
+      "minecraft:oak_stairs",
+      "minecraft:oak_stairs",
+      "minecraft:oak_stairs",
+      "merrymaking:roof_tiles",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:roof_polished_blackstone_brick_stairs": {
+    "result": "merrymaking:roof_polished_blackstone_brick_stairs",
+    "count": 4,
+    "ingredients": [
+      "minecraft:polished_blackstone_brick_stairs",
+      "minecraft:polished_blackstone_brick_stairs",
+      "minecraft:polished_blackstone_brick_stairs",
+      "minecraft:polished_blackstone_brick_stairs",
+      "merrymaking:roof_tiles",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:roof_spruce_stairs": {
+    "result": "merrymaking:roof_spruce_stairs",
+    "count": 4,
+    "ingredients": [
+      "minecraft:spruce_stairs",
+      "minecraft:spruce_stairs",
+      "minecraft:spruce_stairs",
+      "minecraft:spruce_stairs",
+      "merrymaking:roof_tiles",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:roof_stone_brick_stairs": {
+    "result": "merrymaking:roof_stone_brick_stairs",
+    "count": 4,
+    "ingredients": [
+      "minecraft:stone_brick_stairs",
+      "minecraft:stone_brick_stairs",
+      "minecraft:stone_brick_stairs",
+      "minecraft:stone_brick_stairs",
+      "merrymaking:roof_tiles",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:roof_tiles": {
+    "result": "merrymaking:roof_tiles",
+    "count": 4,
+    "ingredients": [
+      "minecraft:gravel",
+      "minecraft:coal",
+      "minecraft:clay_ball",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:roof_warped_stairs": {
+    "result": "merrymaking:roof_warped_stairs",
+    "count": 4,
+    "ingredients": [
+      "minecraft:warped_stairs",
+      "minecraft:warped_stairs",
+      "minecraft:warped_stairs",
+      "minecraft:warped_stairs",
+      "merrymaking:roof_tiles",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mffs:rotation_module": {
+    "result": "mffs:rotation_module",
+    "count": 4,
+    "ingredients": [
+      "mffs:focus_matrix",
+      "",
+      "",
+      "",
+      "mffs:focus_matrix",
+      "",
+      "",
+      "",
+      "mffs:focus_matrix"
+    ]
+  },
+  "biomeswevegone:rose": {
+    "result": "biomeswevegone:rose",
+    "count": 9,
+    "ingredients": [
+      "biomeswevegone:rose_petal_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:rose_petal_block": {
+    "result": "biomeswevegone:rose_petal_block",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:rose",
+      "biomeswevegone:rose",
+      "biomeswevegone:rose",
+      "biomeswevegone:rose",
+      "biomeswevegone:rose",
+      "biomeswevegone:rose",
+      "biomeswevegone:rose",
+      "biomeswevegone:rose",
+      "biomeswevegone:rose"
+    ]
+  },
+  "modern_industrialization:robot_arm": {
+    "result": "modern_industrialization:robot_arm",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:tin_cable",
+      "modern_industrialization:tin_cable",
+      "modern_industrialization:tin_cable",
+      "modern_industrialization:motor",
+      "minecraft:steel",
+      "modern_industrialization:motor",
+      "modern_industrialization:piston",
+      "modern_industrialization:analog_circuit",
+      "minecraft:steel"
+    ]
+  },
+  "astralsorcery:rock_crystal": {
+    "result": "astralsorcery:rock_crystal",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:rock_crystal_essence",
+      "mysticalagriculture:rock_crystal_essence",
+      "mysticalagriculture:rock_crystal_essence",
+      "mysticalagriculture:rock_crystal_essence",
+      "",
+      "mysticalagriculture:rock_crystal_essence",
+      "mysticalagriculture:rock_crystal_essence",
+      "mysticalagriculture:rock_crystal_essence",
+      "mysticalagriculture:rock_crystal_essence"
+    ]
+  },
+  "tconstruct:rose_gold_ingot": {
+    "result": "tconstruct:rose_gold_ingot",
+    "count": 3,
+    "ingredients": [
+      "mysticalagriculture:rose_gold_essence",
+      "mysticalagriculture:rose_gold_essence",
+      "mysticalagriculture:rose_gold_essence",
+      "mysticalagriculture:rose_gold_essence",
+      "",
+      "mysticalagriculture:rose_gold_essence",
+      "mysticalagriculture:rose_gold_essence",
+      "mysticalagriculture:rose_gold_essence",
+      "mysticalagriculture:rose_gold_essence"
+    ]
+  },
+  "pamhc2foodcore:rolleritem": {
+    "result": "pamhc2foodcore:rolleritem",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "minecraft:stick",
+      "minecraft:oak_log",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:roastchickenitem": {
+    "result": "pamhc2foodextended:roastchickenitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:rawchicken",
+      "minecraft:saltandpepper",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:roastedrootveggiemedleyitem": {
+    "result": "pamhc2foodextended:roastedrootveggiemedleyitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:parsnip",
+      "minecraft:carrot",
+      "minecraft:onion",
+      "minecraft:spiceleaf",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:roastpotatoesitem": {
+    "result": "pamhc2foodextended:roastpotatoesitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:potato",
+      "minecraft:saltandpepper",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:rootbeerfloatitem": {
+    "result": "pamhc2foodextended:rootbeerfloatitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "pamhc2foodextended:rootbeersodaitem",
+      "minecraft:icecreams",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:rootbeersodaitem": {
+    "result": "pamhc2foodextended:rootbeersodaitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:water",
+      "minecraft:sugar",
+      "pamhc2foodextended:ediblerootitem",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:rosepetalteaitem": {
+    "result": "pamhc2foodextended:rosepetalteaitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:tealeaf",
+      "minecraft:rose_bush",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:rouxitem": {
+    "result": "pamhc2foodextended:rouxitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:butter",
+      "minecraft:flour",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:rosewood_bookshelf": {
+    "result": "productivetrees:rosewood_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:rosewood_planks",
+      "productivetrees:rosewood_planks",
+      "productivetrees:rosewood_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:rosewood_planks",
+      "productivetrees:rosewood_planks",
+      "productivetrees:rosewood_planks"
+    ]
+  },
+  "productivetrees:rose_gum_bookshelf": {
+    "result": "productivetrees:rose_gum_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:rose_gum_planks",
+      "productivetrees:rose_gum_planks",
+      "productivetrees:rose_gum_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:rose_gum_planks",
+      "productivetrees:rose_gum_planks",
+      "productivetrees:rose_gum_planks"
+    ]
+  },
+  "productivetrees:rowan_bookshelf": {
+    "result": "productivetrees:rowan_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:rowan_planks",
+      "productivetrees:rowan_planks",
+      "productivetrees:rowan_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:rowan_planks",
+      "productivetrees:rowan_planks",
+      "productivetrees:rowan_planks"
+    ]
+  },
+  "productivetrees:rosewood_button": {
+    "result": "productivetrees:rosewood_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:rosewood_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:rose_gum_button": {
+    "result": "productivetrees:rose_gum_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:rose_gum_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:rowan_button": {
+    "result": "productivetrees:rowan_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:rowan_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:roasted_almond_crate": {
+    "result": "productivetrees:roasted_almond_crate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:roasted_almond",
+      "minecraft:roasted_almond",
+      "minecraft:roasted_almond",
+      "minecraft:roasted_almond",
+      "productivetrees:roasted_almond",
+      "minecraft:roasted_almond",
+      "minecraft:roasted_almond",
+      "minecraft:roasted_almond",
+      "minecraft:roasted_almond"
+    ]
+  },
+  "productivetrees:roasted_almond": {
+    "result": "productivetrees:roasted_almond",
+    "count": 9,
+    "ingredients": [
+      "productivetrees:roasted_almond_crate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:roasted_beechnut_crate": {
+    "result": "productivetrees:roasted_beechnut_crate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:roasted_beechnut",
+      "minecraft:roasted_beechnut",
+      "minecraft:roasted_beechnut",
+      "minecraft:roasted_beechnut",
+      "productivetrees:roasted_beechnut",
+      "minecraft:roasted_beechnut",
+      "minecraft:roasted_beechnut",
+      "minecraft:roasted_beechnut",
+      "minecraft:roasted_beechnut"
+    ]
+  },
+  "productivetrees:roasted_beechnut": {
+    "result": "productivetrees:roasted_beechnut",
+    "count": 9,
+    "ingredients": [
+      "productivetrees:roasted_beechnut_crate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:roasted_brazil_nut_crate": {
+    "result": "productivetrees:roasted_brazil_nut_crate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:roasted_brazil_nut",
+      "minecraft:roasted_brazil_nut",
+      "minecraft:roasted_brazil_nut",
+      "minecraft:roasted_brazil_nut",
+      "productivetrees:roasted_brazil_nut",
+      "minecraft:roasted_brazil_nut",
+      "minecraft:roasted_brazil_nut",
+      "minecraft:roasted_brazil_nut",
+      "minecraft:roasted_brazil_nut"
+    ]
+  },
+  "productivetrees:roasted_brazil_nut": {
+    "result": "productivetrees:roasted_brazil_nut",
+    "count": 9,
+    "ingredients": [
+      "productivetrees:roasted_brazil_nut_crate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:roasted_butternut_crate": {
+    "result": "productivetrees:roasted_butternut_crate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:roasted_butternut",
+      "minecraft:roasted_butternut",
+      "minecraft:roasted_butternut",
+      "minecraft:roasted_butternut",
+      "productivetrees:roasted_butternut",
+      "minecraft:roasted_butternut",
+      "minecraft:roasted_butternut",
+      "minecraft:roasted_butternut",
+      "minecraft:roasted_butternut"
+    ]
+  },
+  "productivetrees:roasted_butternut": {
+    "result": "productivetrees:roasted_butternut",
+    "count": 9,
+    "ingredients": [
+      "productivetrees:roasted_butternut_crate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:roasted_candlenut_crate": {
+    "result": "productivetrees:roasted_candlenut_crate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:roasted_candlenut",
+      "minecraft:roasted_candlenut",
+      "minecraft:roasted_candlenut",
+      "minecraft:roasted_candlenut",
+      "productivetrees:roasted_candlenut",
+      "minecraft:roasted_candlenut",
+      "minecraft:roasted_candlenut",
+      "minecraft:roasted_candlenut",
+      "minecraft:roasted_candlenut"
+    ]
+  },
+  "productivetrees:roasted_candlenut": {
+    "result": "productivetrees:roasted_candlenut",
+    "count": 9,
+    "ingredients": [
+      "productivetrees:roasted_candlenut_crate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:roasted_cashew_crate": {
+    "result": "productivetrees:roasted_cashew_crate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:roasted_cashew",
+      "minecraft:roasted_cashew",
+      "minecraft:roasted_cashew",
+      "minecraft:roasted_cashew",
+      "productivetrees:roasted_cashew",
+      "minecraft:roasted_cashew",
+      "minecraft:roasted_cashew",
+      "minecraft:roasted_cashew",
+      "minecraft:roasted_cashew"
+    ]
+  },
+  "productivetrees:roasted_cashew": {
+    "result": "productivetrees:roasted_cashew",
+    "count": 9,
+    "ingredients": [
+      "productivetrees:roasted_cashew_crate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:roasted_chestnut_crate": {
+    "result": "productivetrees:roasted_chestnut_crate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:chest",
+      "minecraft:chest",
+      "minecraft:chest",
+      "minecraft:chest",
+      "productivetrees:roasted_chestnut",
+      "minecraft:chest",
+      "minecraft:chest",
+      "minecraft:chest",
+      "minecraft:chest"
+    ]
+  },
+  "productivetrees:roasted_chestnut": {
+    "result": "productivetrees:roasted_chestnut",
+    "count": 9,
+    "ingredients": [
+      "productivetrees:roasted_chestnut_crate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:roasted_coffee_bean_crate": {
+    "result": "productivetrees:roasted_coffee_bean_crate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:roasted_coffee_bean",
+      "minecraft:roasted_coffee_bean",
+      "minecraft:roasted_coffee_bean",
+      "minecraft:roasted_coffee_bean",
+      "productivetrees:roasted_coffee_bean",
+      "minecraft:roasted_coffee_bean",
+      "minecraft:roasted_coffee_bean",
+      "minecraft:roasted_coffee_bean",
+      "minecraft:roasted_coffee_bean"
+    ]
+  },
+  "productivetrees:roasted_coffee_bean": {
+    "result": "productivetrees:roasted_coffee_bean",
+    "count": 9,
+    "ingredients": [
+      "productivetrees:roasted_coffee_bean_crate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:roasted_ginkgo_nut_crate": {
+    "result": "productivetrees:roasted_ginkgo_nut_crate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:roasted_ginkgo_nut",
+      "minecraft:roasted_ginkgo_nut",
+      "minecraft:roasted_ginkgo_nut",
+      "minecraft:roasted_ginkgo_nut",
+      "productivetrees:roasted_ginkgo_nut",
+      "minecraft:roasted_ginkgo_nut",
+      "minecraft:roasted_ginkgo_nut",
+      "minecraft:roasted_ginkgo_nut",
+      "minecraft:roasted_ginkgo_nut"
+    ]
+  },
+  "productivetrees:roasted_ginkgo_nut": {
+    "result": "productivetrees:roasted_ginkgo_nut",
+    "count": 9,
+    "ingredients": [
+      "productivetrees:roasted_ginkgo_nut_crate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:roasted_hazelnut_crate": {
+    "result": "productivetrees:roasted_hazelnut_crate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:roasted_hazelnut",
+      "minecraft:roasted_hazelnut",
+      "minecraft:roasted_hazelnut",
+      "minecraft:roasted_hazelnut",
+      "productivetrees:roasted_hazelnut",
+      "minecraft:roasted_hazelnut",
+      "minecraft:roasted_hazelnut",
+      "minecraft:roasted_hazelnut",
+      "minecraft:roasted_hazelnut"
+    ]
+  },
+  "productivetrees:roasted_hazelnut": {
+    "result": "productivetrees:roasted_hazelnut",
+    "count": 9,
+    "ingredients": [
+      "productivetrees:roasted_hazelnut_crate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:roasted_pecan_crate": {
+    "result": "productivetrees:roasted_pecan_crate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:roasted_pecan",
+      "minecraft:roasted_pecan",
+      "minecraft:roasted_pecan",
+      "minecraft:roasted_pecan",
+      "productivetrees:roasted_pecan",
+      "minecraft:roasted_pecan",
+      "minecraft:roasted_pecan",
+      "minecraft:roasted_pecan",
+      "minecraft:roasted_pecan"
+    ]
+  },
+  "productivetrees:roasted_pecan": {
+    "result": "productivetrees:roasted_pecan",
+    "count": 9,
+    "ingredients": [
+      "productivetrees:roasted_pecan_crate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:roasted_pistachio_crate": {
+    "result": "productivetrees:roasted_pistachio_crate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:roasted_pistachio",
+      "minecraft:roasted_pistachio",
+      "minecraft:roasted_pistachio",
+      "minecraft:roasted_pistachio",
+      "productivetrees:roasted_pistachio",
+      "minecraft:roasted_pistachio",
+      "minecraft:roasted_pistachio",
+      "minecraft:roasted_pistachio",
+      "minecraft:roasted_pistachio"
+    ]
+  },
+  "productivetrees:roasted_pistachio": {
+    "result": "productivetrees:roasted_pistachio",
+    "count": 9,
+    "ingredients": [
+      "productivetrees:roasted_pistachio_crate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:roasted_walnut_crate": {
+    "result": "productivetrees:roasted_walnut_crate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:roasted_walnut",
+      "minecraft:roasted_walnut",
+      "minecraft:roasted_walnut",
+      "minecraft:roasted_walnut",
+      "productivetrees:roasted_walnut",
+      "minecraft:roasted_walnut",
+      "minecraft:roasted_walnut",
+      "minecraft:roasted_walnut",
+      "minecraft:roasted_walnut"
+    ]
+  },
+  "productivetrees:roasted_walnut": {
+    "result": "productivetrees:roasted_walnut",
+    "count": 9,
+    "ingredients": [
+      "productivetrees:roasted_walnut_crate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:rowan_crate": {
+    "result": "productivetrees:rowan_crate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:rowan",
+      "minecraft:rowan",
+      "minecraft:rowan",
+      "minecraft:rowan",
+      "productivetrees:rowan",
+      "minecraft:rowan",
+      "minecraft:rowan",
+      "minecraft:rowan",
+      "minecraft:rowan"
+    ]
+  },
+  "productivetrees:rowan": {
+    "result": "productivetrees:rowan",
+    "count": 9,
+    "ingredients": [
+      "productivetrees:rowan_crate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:rosewood_door": {
+    "result": "productivetrees:rosewood_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:rosewood_planks",
+      "productivetrees:rosewood_planks",
+      "",
+      "productivetrees:rosewood_planks",
+      "productivetrees:rosewood_planks",
+      "",
+      "productivetrees:rosewood_planks",
+      "productivetrees:rosewood_planks",
+      ""
+    ]
+  },
+  "productivetrees:rose_gum_door": {
+    "result": "productivetrees:rose_gum_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:rose_gum_planks",
+      "productivetrees:rose_gum_planks",
+      "",
+      "productivetrees:rose_gum_planks",
+      "productivetrees:rose_gum_planks",
+      "",
+      "productivetrees:rose_gum_planks",
+      "productivetrees:rose_gum_planks",
+      ""
+    ]
+  },
+  "productivetrees:rowan_door": {
+    "result": "productivetrees:rowan_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:rowan_planks",
+      "productivetrees:rowan_planks",
+      "",
+      "productivetrees:rowan_planks",
+      "productivetrees:rowan_planks",
+      "",
+      "productivetrees:rowan_planks",
+      "productivetrees:rowan_planks",
+      ""
+    ]
+  },
+  "productivetrees:rosewood_fence": {
+    "result": "productivetrees:rosewood_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:rosewood_planks",
+      "minecraft:stick",
+      "productivetrees:rosewood_planks",
+      "productivetrees:rosewood_planks",
+      "minecraft:stick",
+      "productivetrees:rosewood_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:rose_gum_fence": {
+    "result": "productivetrees:rose_gum_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:rose_gum_planks",
+      "minecraft:stick",
+      "productivetrees:rose_gum_planks",
+      "productivetrees:rose_gum_planks",
+      "minecraft:stick",
+      "productivetrees:rose_gum_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:rowan_fence": {
+    "result": "productivetrees:rowan_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:rowan_planks",
+      "minecraft:stick",
+      "productivetrees:rowan_planks",
+      "productivetrees:rowan_planks",
+      "minecraft:stick",
+      "productivetrees:rowan_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:rosewood_fence_gate": {
+    "result": "productivetrees:rosewood_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:rosewood_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:rosewood_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:rose_gum_fence_gate": {
+    "result": "productivetrees:rose_gum_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:rose_gum_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:rose_gum_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:rowan_fence_gate": {
+    "result": "productivetrees:rowan_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:rowan_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:rowan_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:rosewood_hanging_sign": {
+    "result": "productivetrees:rosewood_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:rosewood_planks",
+      "productivetrees:rosewood_planks",
+      "productivetrees:rosewood_planks",
+      "productivetrees:rosewood_planks",
+      "productivetrees:rosewood_planks",
+      "productivetrees:rosewood_planks"
+    ]
+  },
+  "productivetrees:rose_gum_hanging_sign": {
+    "result": "productivetrees:rose_gum_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:rose_gum_planks",
+      "productivetrees:rose_gum_planks",
+      "productivetrees:rose_gum_planks",
+      "productivetrees:rose_gum_planks",
+      "productivetrees:rose_gum_planks",
+      "productivetrees:rose_gum_planks"
+    ]
+  },
+  "productivetrees:rowan_hanging_sign": {
+    "result": "productivetrees:rowan_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:rowan_planks",
+      "productivetrees:rowan_planks",
+      "productivetrees:rowan_planks",
+      "productivetrees:rowan_planks",
+      "productivetrees:rowan_planks",
+      "productivetrees:rowan_planks"
+    ]
+  },
+  "productivetrees:rosewood_planks": {
+    "result": "productivetrees:rosewood_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:rose_gum_planks": {
+    "result": "productivetrees:rose_gum_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:rowan_planks": {
+    "result": "productivetrees:rowan_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:rosewood_pressure_plate": {
+    "result": "productivetrees:rosewood_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:rosewood_planks",
+      "productivetrees:rosewood_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:rose_gum_pressure_plate": {
+    "result": "productivetrees:rose_gum_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:rose_gum_planks",
+      "productivetrees:rose_gum_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:rowan_pressure_plate": {
+    "result": "productivetrees:rowan_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:rowan_planks",
+      "productivetrees:rowan_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:rosewood_sign": {
+    "result": "productivetrees:rosewood_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:rosewood_planks",
+      "productivetrees:rosewood_planks",
+      "productivetrees:rosewood_planks",
+      "productivetrees:rosewood_planks",
+      "productivetrees:rosewood_planks",
+      "productivetrees:rosewood_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:rose_gum_sign": {
+    "result": "productivetrees:rose_gum_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:rose_gum_planks",
+      "productivetrees:rose_gum_planks",
+      "productivetrees:rose_gum_planks",
+      "productivetrees:rose_gum_planks",
+      "productivetrees:rose_gum_planks",
+      "productivetrees:rose_gum_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:rowan_sign": {
+    "result": "productivetrees:rowan_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:rowan_planks",
+      "productivetrees:rowan_planks",
+      "productivetrees:rowan_planks",
+      "productivetrees:rowan_planks",
+      "productivetrees:rowan_planks",
+      "productivetrees:rowan_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:rosewood_slab": {
+    "result": "productivetrees:rosewood_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:rosewood_planks",
+      "productivetrees:rosewood_planks",
+      "productivetrees:rosewood_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:rose_gum_slab": {
+    "result": "productivetrees:rose_gum_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:rose_gum_planks",
+      "productivetrees:rose_gum_planks",
+      "productivetrees:rose_gum_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:rowan_slab": {
+    "result": "productivetrees:rowan_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:rowan_planks",
+      "productivetrees:rowan_planks",
+      "productivetrees:rowan_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:rosewood_stairs": {
+    "result": "productivetrees:rosewood_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:rosewood_planks",
+      "",
+      "",
+      "productivetrees:rosewood_planks",
+      "productivetrees:rosewood_planks",
+      "",
+      "productivetrees:rosewood_planks",
+      "productivetrees:rosewood_planks",
+      "productivetrees:rosewood_planks"
+    ]
+  },
+  "productivetrees:rose_gum_stairs": {
+    "result": "productivetrees:rose_gum_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:rose_gum_planks",
+      "",
+      "",
+      "productivetrees:rose_gum_planks",
+      "productivetrees:rose_gum_planks",
+      "",
+      "productivetrees:rose_gum_planks",
+      "productivetrees:rose_gum_planks",
+      "productivetrees:rose_gum_planks"
+    ]
+  },
+  "productivetrees:rowan_stairs": {
+    "result": "productivetrees:rowan_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:rowan_planks",
+      "",
+      "",
+      "productivetrees:rowan_planks",
+      "productivetrees:rowan_planks",
+      "",
+      "productivetrees:rowan_planks",
+      "productivetrees:rowan_planks",
+      "productivetrees:rowan_planks"
+    ]
+  },
+  "productivetrees:rosewood_trapdoor": {
+    "result": "productivetrees:rosewood_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:rosewood_planks",
+      "productivetrees:rosewood_planks",
+      "productivetrees:rosewood_planks",
+      "productivetrees:rosewood_planks",
+      "productivetrees:rosewood_planks",
+      "productivetrees:rosewood_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:rose_gum_trapdoor": {
+    "result": "productivetrees:rose_gum_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:rose_gum_planks",
+      "productivetrees:rose_gum_planks",
+      "productivetrees:rose_gum_planks",
+      "productivetrees:rose_gum_planks",
+      "productivetrees:rose_gum_planks",
+      "productivetrees:rose_gum_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:rowan_trapdoor": {
+    "result": "productivetrees:rowan_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:rowan_planks",
+      "productivetrees:rowan_planks",
+      "productivetrees:rowan_planks",
+      "productivetrees:rowan_planks",
+      "productivetrees:rowan_planks",
+      "productivetrees:rowan_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:rosewood_wood": {
+    "result": "productivetrees:rosewood_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:rosewood_log",
+      "productivetrees:rosewood_log",
+      "",
+      "productivetrees:rosewood_log",
+      "productivetrees:rosewood_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:rose_gum_wood": {
+    "result": "productivetrees:rose_gum_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:rose_gum_log",
+      "productivetrees:rose_gum_log",
+      "",
+      "productivetrees:rose_gum_log",
+      "productivetrees:rose_gum_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:rowan_wood": {
+    "result": "productivetrees:rowan_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:rowan_log",
+      "productivetrees:rowan_log",
+      "",
+      "productivetrees:rowan_log",
+      "productivetrees:rowan_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:routing_detector": {
+    "result": "railcraft:routing_detector",
+    "count": 1,
+    "ingredients": [
+      "minecraft:chiseled_quartz_block",
+      "minecraft:chiseled_quartz_block",
+      "minecraft:chiseled_quartz_block",
+      "minecraft:chiseled_quartz_block",
+      "minecraft:stone_pressure_plate",
+      "minecraft:chiseled_quartz_block",
+      "minecraft:chiseled_quartz_block",
+      "minecraft:chiseled_quartz_block",
+      "minecraft:chiseled_quartz_block"
+    ]
+  },
+  "railcraft:routing_table_book": {
+    "result": "railcraft:routing_table_book",
+    "count": 1,
+    "ingredients": [
+      "minecraft:writable_book",
+      "minecraft:blue",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:routing_track_kit": {
+    "result": "railcraft:routing_track_kit",
+    "count": 8,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "railcraft:track_parts",
+      "railcraft:ticket",
+      "minecraft:redstone",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "reliquary:rod_of_lyssa": {
+    "result": "reliquary:rod_of_lyssa",
+    "count": 1,
+    "ingredients": [
+      "reliquary:infernal_claw",
+      "reliquary:bat_wing",
+      "reliquary:nebulous_heart",
+      "minecraft:fishing_rod",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "rootsclassic:rooty_stew": {
+    "result": "rootsclassic:rooty_stew",
+    "count": 1,
+    "ingredients": [
+      "minecraft:wheat",
+      "minecraft:bowl",
+      "rootsclassic:old_root",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgear:road_maker_upgrade": {
+    "result": "silentgear:road_maker_upgrade",
+    "count": 1,
+    "ingredients": [
+      "silentgear:advanced_upgrade_base",
+      "minecraft:iron_shovel",
+      "minecraft:orange",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgear:rod_blueprint": {
+    "result": "silentgear:rod_blueprint",
+    "count": 1,
+    "ingredients": [
+      "minecraft:paper",
+      "minecraft:stick",
+      "",
+      "minecraft:paper",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgear:rod_template": {
+    "result": "silentgear:rod_template",
+    "count": 1,
+    "ingredients": [
+      "minecraft:template_boards",
+      "minecraft:stick",
+      "",
+      "minecraft:template_boards",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgems:rose_quartz": {
+    "result": "silentgems:rose_quartz",
+    "count": 9,
+    "ingredients": [
+      "silentgems:rose_quartz_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgems:rose_quartz_bricks": {
+    "result": "silentgems:rose_quartz_bricks",
+    "count": 12,
+    "ingredients": [
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:quartz",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks"
+    ]
+  },
+  "silentgems:rose_quartz_block": {
+    "result": "silentgems:rose_quartz_block",
+    "count": 1,
+    "ingredients": [
+      "silentgems:rose_quartz",
+      "silentgems:rose_quartz",
+      "silentgems:rose_quartz",
+      "silentgems:rose_quartz",
+      "silentgems:rose_quartz",
+      "silentgems:rose_quartz",
+      "silentgems:rose_quartz",
+      "silentgems:rose_quartz",
+      "silentgems:rose_quartz"
+    ]
+  },
+  "silentgems:rose_quartz_glass": {
+    "result": "silentgems:rose_quartz_glass",
+    "count": 12,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:quartz",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass"
+    ]
+  },
+  "silentgems:rose_quartz_lamp": {
+    "result": "silentgems:rose_quartz_lamp",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:quartz",
+      "minecraft:stone",
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:redstone"
+    ]
+  },
+  "silentgems:rose_quartz_lamp_inverted_on": {
+    "result": "silentgems:rose_quartz_lamp_inverted_on",
+    "count": 1,
+    "ingredients": [
+      "silentgems:rose_quartz_lamp",
+      "minecraft:redstone_torch",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgems:rose_quartz_redstone_teleporter": {
+    "result": "silentgems:rose_quartz_redstone_teleporter",
+    "count": 1,
+    "ingredients": [
+      "silentgems:rose_quartz_teleporter",
+      "minecraft:redstone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgems:rose_quartz_small_bricks": {
+    "result": "silentgems:rose_quartz_small_bricks",
+    "count": 12,
+    "ingredients": [
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:quartz",
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:bricks"
+    ]
+  },
+  "silentgems:rose_quartz_teleporter": {
+    "result": "silentgems:rose_quartz_teleporter",
+    "count": 2,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "minecraft:quartz",
+      "minecraft:gold_ingot",
+      "minecraft:quartz",
+      "silentgems:chaos_essence_block",
+      "minecraft:quartz",
+      "",
+      "minecraft:ender_pearl",
+      ""
+    ]
+  },
+  "silentgems:rose_quartz_tiles": {
+    "result": "silentgems:rose_quartz_tiles",
+    "count": 12,
+    "ingredients": [
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:quartz",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles"
+    ]
+  },
+  "simplylight:rodlamp": {
+    "result": "simplylight:rodlamp",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:white_dye",
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:any_rod"
+    ]
+  },
+  "simplylight:rodlamp_black": {
+    "result": "simplylight:rodlamp_black",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:black_dye",
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:any_rod"
+    ]
+  },
+  "simplylight:rodlamp_blue": {
+    "result": "simplylight:rodlamp_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:blue_dye",
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:any_rod"
+    ]
+  },
+  "simplylight:rodlamp_brown": {
+    "result": "simplylight:rodlamp_brown",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:brown_dye",
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:any_rod"
+    ]
+  },
+  "simplylight:rodlamp_cyan": {
+    "result": "simplylight:rodlamp_cyan",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:cyan_dye",
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:any_rod"
+    ]
+  },
+  "simplylight:rodlamp_gray": {
+    "result": "simplylight:rodlamp_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:gray_dye",
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:any_rod"
+    ]
+  },
+  "simplylight:rodlamp_green": {
+    "result": "simplylight:rodlamp_green",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:green_dye",
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:any_rod"
+    ]
+  },
+  "simplylight:rodlamp_light_blue": {
+    "result": "simplylight:rodlamp_light_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:light_blue_dye",
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:any_rod"
+    ]
+  },
+  "simplylight:rodlamp_light_gray": {
+    "result": "simplylight:rodlamp_light_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:light_gray_dye",
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:any_rod"
+    ]
+  },
+  "simplylight:rodlamp_lime": {
+    "result": "simplylight:rodlamp_lime",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:lime_dye",
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:any_rod"
+    ]
+  },
+  "simplylight:rodlamp_magenta": {
+    "result": "simplylight:rodlamp_magenta",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:magenta_dye",
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:any_rod"
+    ]
+  },
+  "simplylight:rodlamp_orange": {
+    "result": "simplylight:rodlamp_orange",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:orange_dye",
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:any_rod"
+    ]
+  },
+  "simplylight:rodlamp_pink": {
+    "result": "simplylight:rodlamp_pink",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:pink_dye",
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:any_rod"
+    ]
+  },
+  "simplylight:rodlamp_purple": {
+    "result": "simplylight:rodlamp_purple",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:purple_dye",
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:any_rod"
+    ]
+  },
+  "simplylight:rodlamp_red": {
+    "result": "simplylight:rodlamp_red",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:red_dye",
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:any_rod"
+    ]
+  },
+  "simplylight:rodlamp_yellow": {
+    "result": "simplylight:rodlamp_yellow",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:yellow_dye",
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:any_rod",
+      "minecraft:any_rod"
+    ]
+  },
+  "starbunclemania:robin_mask": {
+    "result": "starbunclemania:robin_mask",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:green_wool",
+      "",
+      "minecraft:green_wool",
+      "ars_nouveau:starbuncle_shades",
+      "minecraft:green_wool",
+      "",
+      "minecraft:green_wool",
+      ""
+    ]
+  },
+  "supplementaries:rope": {
+    "result": "supplementaries:rope",
+    "count": 3,
+    "ingredients": [
+      "",
+      "",
+      "minecraft:string",
+      "",
+      "minecraft:string",
+      "",
+      "minecraft:string",
+      "",
+      ""
+    ]
+  },
+  "sushigocrafting:roller": {
+    "result": "sushigocrafting:roller",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "minecraft:string",
+      "minecraft:string",
+      "minecraft:string",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "minecraft:bamboo"
+    ]
+  },
+  "the_bumblezone:royal_jelly_block": {
+    "result": "the_bumblezone:royal_jelly_block",
+    "count": 1,
+    "ingredients": [
+      "the_bumblezone:royal_jelly_bottle",
+      "the_bumblezone:royal_jelly_bottle",
+      "",
+      "the_bumblezone:royal_jelly_bottle",
+      "the_bumblezone:royal_jelly_bottle",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "the_bumblezone:royal_jelly_bottle": {
+    "result": "the_bumblezone:royal_jelly_bottle",
+    "count": 4,
+    "ingredients": [
+      "the_bumblezone:royal_jelly_bucket",
+      "minecraft:glass_bottle",
+      "minecraft:glass_bottle",
+      "minecraft:glass_bottle",
+      "minecraft:glass_bottle",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:rope": {
+    "result": "twilightforest:rope",
+    "count": 8,
+    "ingredients": [
+      "twilightforest:root_strand",
+      "",
+      "",
+      "twilightforest:root_strand",
+      "",
+      "",
+      "twilightforest:root_strand",
+      "",
+      ""
+    ]
+  },
+  "undergarden:rogdorium_block": {
+    "result": "undergarden:rogdorium_block",
+    "count": 1,
+    "ingredients": [
+      "undergarden:rogdorium",
+      "undergarden:rogdorium",
+      "undergarden:rogdorium",
+      "undergarden:rogdorium",
+      "undergarden:rogdorium",
+      "undergarden:rogdorium",
+      "undergarden:rogdorium",
+      "undergarden:rogdorium",
+      "undergarden:rogdorium"
+    ]
+  },
+  "undergarden:rogdorium": {
+    "result": "undergarden:rogdorium",
+    "count": 1,
+    "ingredients": [
+      "undergarden:rogdorium_nugget",
+      "undergarden:rogdorium_nugget",
+      "undergarden:rogdorium_nugget",
+      "undergarden:rogdorium_nugget",
+      "undergarden:rogdorium_nugget",
+      "undergarden:rogdorium_nugget",
+      "undergarden:rogdorium_nugget",
+      "undergarden:rogdorium_nugget",
+      "undergarden:rogdorium_nugget"
+    ]
+  },
+  "undergarden:rogdorium_nugget": {
+    "result": "undergarden:rogdorium_nugget",
+    "count": 9,
+    "ingredients": [
+      "undergarden:rogdorium",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xnet:router": {
+    "result": "xnet:router",
+    "count": 1,
+    "ingredients": [
+      "minecraft:powered_rail",
+      "minecraft:comparator",
+      "minecraft:powered_rail",
+      "minecraft:redstone",
+      "rftoolsbase:machine_frame",
+      "minecraft:redstone",
+      "minecraft:iron_ingot",
+      "minecraft:ender_pearl",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "xtonesreworked:roen_block_0": {
+    "result": "xtonesreworked:roen_block_0",
+    "count": 8,
+    "ingredients": [
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile",
+      "minecraft:sand",
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile"
+    ]
+  }
+}

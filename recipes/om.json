@@ -1,0 +1,47 @@
+{
+  "pamhc2foodextended:omeletitem": {
+    "result": "pamhc2foodextended:omeletitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_skillet",
+      "minecraft:egg",
+      "minecraft:bellpepper",
+      "minecraft:onion",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:omuriceitem": {
+    "result": "pamhc2foodextended:omuriceitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_skillet",
+      "minecraft:rawbeef",
+      "minecraft:rice",
+      "minecraft:scallion",
+      "minecraft:carrot",
+      "minecraft:onion",
+      "minecraft:egg",
+      "",
+      ""
+    ]
+  },
+  "pneumaticcraft:omnidirectional_hopper": {
+    "result": "pneumaticcraft:omnidirectional_hopper",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:chest",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      ""
+    ]
+  }
+}

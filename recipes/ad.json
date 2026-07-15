@@ -1,0 +1,4502 @@
+{
+  "actuallyadditions:advanced_coil": {
+    "result": "actuallyadditions:advanced_coil",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_nugget",
+      "minecraft:gold_nugget",
+      "minecraft:gold_nugget",
+      "minecraft:gold_nugget",
+      "actuallyadditions:basic_coil",
+      "minecraft:gold_nugget",
+      "minecraft:gold_nugget",
+      "minecraft:gold_nugget",
+      "minecraft:gold_nugget"
+    ]
+  },
+  "actuallyadditions:advanced_leaf_blower": {
+    "result": "actuallyadditions:advanced_leaf_blower",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:flint",
+      "",
+      "actuallyadditions:diamatine_crystal",
+      "minecraft:piston",
+      "",
+      "actuallyadditions:diamatine_crystal",
+      "actuallyadditions:advanced_coil",
+      ""
+    ]
+  },
+  "advanced_ae:advanced_io_bus_part": {
+    "result": "advanced_ae:advanced_io_bus_part",
+    "count": 1,
+    "ingredients": [
+      "ae2:speed_card",
+      "advanced_ae:quantum_processor",
+      "ae2:speed_card",
+      "advanced_ae:import_export_bus_part",
+      "advanced_ae:quantum_processor",
+      "advanced_ae:stock_export_bus_part",
+      "ae2:speed_card",
+      "advanced_ae:quantum_processor",
+      "ae2:speed_card"
+    ]
+  },
+  "advanced_ae:adv_pattern_encoder": {
+    "result": "advanced_ae:adv_pattern_encoder",
+    "count": 1,
+    "ingredients": [
+      "ae2:charged_certus_quartz_crystal",
+      "minecraft:redstone",
+      "ae2:charged_certus_quartz_crystal",
+      "minecraft:redstone",
+      "ae2:engineering_processor",
+      "minecraft:redstone",
+      "ae2:charged_certus_quartz_crystal",
+      "minecraft:redstone",
+      "ae2:charged_certus_quartz_crystal"
+    ]
+  },
+  "advanced_ae:adv_pattern_provider": {
+    "result": "advanced_ae:adv_pattern_provider",
+    "count": 1,
+    "ingredients": [
+      "extendedae:ex_pattern_provider",
+      "minecraft:redstone",
+      "",
+      "minecraft:ender_pearl",
+      "ae2:logic_processor",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "advanced_ae:adv_pattern_provider_part": {
+    "result": "advanced_ae:adv_pattern_provider_part",
+    "count": 1,
+    "ingredients": [
+      "advanced_ae:adv_pattern_provider",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "advanced_ae:adv_pattern_provider_capacity_upgrade": {
+    "result": "advanced_ae:adv_pattern_provider_capacity_upgrade",
+    "count": 1,
+    "ingredients": [
+      "advanced_ae:shattered_singularity",
+      "minecraft:crafting_table",
+      "advanced_ae:shattered_singularity",
+      "minecraft:glass",
+      "minecraft:ingots",
+      "minecraft:glass",
+      "ae2:capacity_card",
+      "ae2:capacity_card",
+      "ae2:capacity_card"
+    ]
+  },
+  "advanced_ae:adv_pattern_provider_upgrade": {
+    "result": "advanced_ae:adv_pattern_provider_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:ingots",
+      "minecraft:redstone",
+      "",
+      "minecraft:ender_pearl",
+      "ae2:logic_processor",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ae2:advanced_card": {
+    "result": "ae2:advanced_card",
+    "count": 2,
+    "ingredients": [
+      "minecraft:diamond",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:redstone",
+      "ae2:calculation_processor",
+      "minecraft:iron_ingot",
+      "minecraft:diamond",
+      "minecraft:iron_ingot",
+      ""
+    ]
+  },
+  "ars_additions:advanced_dominion_wand": {
+    "result": "ars_additions:advanced_dominion_wand",
+    "count": 1,
+    "ingredients": [
+      "ars_additions:advanced_dominion_wand",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_elemental:advanced_prism": {
+    "result": "ars_elemental:advanced_prism",
+    "count": 1,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:source",
+      "minecraft:quartz",
+      "minecraft:source",
+      "ars_nouveau:spell_prism",
+      "minecraft:source",
+      "minecraft:quartz",
+      "minecraft:source",
+      "minecraft:quartz"
+    ]
+  },
+  "create:adjustable_chain_gearshift": {
+    "result": "create:adjustable_chain_gearshift",
+    "count": 1,
+    "ingredients": [
+      "create:encased_chain_drive",
+      "create:electron_tube",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "draconicevolution:advanced_magnet": {
+    "result": "draconicevolution:advanced_magnet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:draconium",
+      "",
+      "minecraft:draconium",
+      "minecraft:redstone",
+      "",
+      "minecraft:redstone",
+      "minecraft:draconium_awakened",
+      "draconicevolution:magnet",
+      "minecraft:draconium_awakened"
+    ]
+  },
+  "enderio:advanced_capacitor_bank": {
+    "result": "enderio:advanced_capacitor_bank",
+    "count": 1,
+    "ingredients": [
+      "enderio:advanced_capacitor_bank",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "enderio:advanced_item_filter": {
+    "result": "enderio:advanced_item_filter",
+    "count": 1,
+    "ingredients": [
+      "enderio:advanced_item_filter",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "extradisks:advanced_machine_casing": {
+    "result": "extradisks:advanced_machine_casing",
+    "count": 1,
+    "ingredients": [
+      "refinedstorage:advanced_processor",
+      "refinedstorage:construction_core",
+      "refinedstorage:advanced_processor",
+      "refinedstorage:improved_processor",
+      "refinedstorage:machine_casing",
+      "refinedstorage:improved_processor",
+      "refinedstorage:advanced_processor",
+      "refinedstorage:destruction_core",
+      "refinedstorage:advanced_processor"
+    ]
+  },
+  "extradisks:advanced_storage_housing": {
+    "result": "extradisks:advanced_storage_housing",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glass",
+      "refinedstorage:quartz_enriched_iron",
+      "minecraft:glass",
+      "refinedstorage:quartz_enriched_iron",
+      "",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:improved_processor",
+      "refinedstorage:advanced_processor",
+      "refinedstorage:improved_processor"
+    ]
+  },
+  "extrastorage:advanced_exporter": {
+    "result": "extrastorage:advanced_exporter",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:redstone_torch",
+      "",
+      "refinedstorage:improved_processor",
+      "refinedstorage:exporter",
+      "refinedstorage:improved_processor",
+      "",
+      "minecraft:redstone_torch",
+      ""
+    ]
+  },
+  "extrastorage:advanced_importer": {
+    "result": "extrastorage:advanced_importer",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:redstone_torch",
+      "",
+      "refinedstorage:improved_processor",
+      "refinedstorage:importer",
+      "refinedstorage:improved_processor",
+      "",
+      "minecraft:redstone_torch",
+      ""
+    ]
+  },
+  "ironjetpacks:advanced_coil": {
+    "result": "ironjetpacks:advanced_coil",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:gold_ingot",
+      "minecraft:redstone",
+      "minecraft:gold_ingot",
+      "minecraft:stick",
+      "minecraft:gold_ingot",
+      "minecraft:redstone",
+      "minecraft:gold_ingot",
+      ""
+    ]
+  },
+  "itemcollectors:advanced_collector": {
+    "result": "itemcollectors:advanced_collector",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:ender_eye",
+      "",
+      "",
+      "itemcollectors:basic_collector",
+      "",
+      "minecraft:obsidians",
+      "minecraft:obsidians",
+      "minecraft:obsidians"
+    ]
+  },
+  "mekanism:advanced_control_circuit": {
+    "result": "mekanism:advanced_control_circuit",
+    "count": 1,
+    "ingredients": [
+      "minecraft:infused",
+      "minecraft:basic",
+      "minecraft:infused",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mekanism:advanced_induction_provider": {
+    "result": "mekanism:advanced_induction_provider",
+    "count": 1,
+    "ingredients": [
+      "minecraft:advanced",
+      "mekanism:basic_induction_provider",
+      "minecraft:advanced",
+      "mekanism:basic_induction_provider",
+      "mekanism:advanced_energy_cube",
+      "mekanism:basic_induction_provider",
+      "minecraft:advanced",
+      "mekanism:basic_induction_provider",
+      "minecraft:advanced"
+    ]
+  },
+  "mekanism:advanced_tier_installer": {
+    "result": "mekanism:advanced_tier_installer",
+    "count": 1,
+    "ingredients": [
+      "minecraft:infused",
+      "minecraft:advanced",
+      "minecraft:infused",
+      "minecraft:osmium",
+      "minecraft:oak_planks",
+      "minecraft:osmium",
+      "minecraft:infused",
+      "minecraft:advanced",
+      "minecraft:infused"
+    ]
+  },
+  "mekanism:advanced_logistical_transporter": {
+    "result": "mekanism:advanced_logistical_transporter",
+    "count": 8,
+    "ingredients": [
+      "mekanism:basic_logistical_transporter",
+      "mekanism:basic_logistical_transporter",
+      "mekanism:basic_logistical_transporter",
+      "mekanism:basic_logistical_transporter",
+      "minecraft:infused",
+      "mekanism:basic_logistical_transporter",
+      "mekanism:basic_logistical_transporter",
+      "mekanism:basic_logistical_transporter",
+      "mekanism:basic_logistical_transporter"
+    ]
+  },
+  "mekanism:advanced_mechanical_pipe": {
+    "result": "mekanism:advanced_mechanical_pipe",
+    "count": 8,
+    "ingredients": [
+      "mekanism:basic_mechanical_pipe",
+      "mekanism:basic_mechanical_pipe",
+      "mekanism:basic_mechanical_pipe",
+      "mekanism:basic_mechanical_pipe",
+      "minecraft:infused",
+      "mekanism:basic_mechanical_pipe",
+      "mekanism:basic_mechanical_pipe",
+      "mekanism:basic_mechanical_pipe",
+      "mekanism:basic_mechanical_pipe"
+    ]
+  },
+  "mekanism:advanced_pressurized_tube": {
+    "result": "mekanism:advanced_pressurized_tube",
+    "count": 8,
+    "ingredients": [
+      "mekanism:basic_pressurized_tube",
+      "mekanism:basic_pressurized_tube",
+      "mekanism:basic_pressurized_tube",
+      "mekanism:basic_pressurized_tube",
+      "minecraft:infused",
+      "mekanism:basic_pressurized_tube",
+      "mekanism:basic_pressurized_tube",
+      "mekanism:basic_pressurized_tube",
+      "mekanism:basic_pressurized_tube"
+    ]
+  },
+  "mekanism:advanced_thermodynamic_conductor": {
+    "result": "mekanism:advanced_thermodynamic_conductor",
+    "count": 8,
+    "ingredients": [
+      "mekanism:basic_thermodynamic_conductor",
+      "mekanism:basic_thermodynamic_conductor",
+      "mekanism:basic_thermodynamic_conductor",
+      "mekanism:basic_thermodynamic_conductor",
+      "minecraft:infused",
+      "mekanism:basic_thermodynamic_conductor",
+      "mekanism:basic_thermodynamic_conductor",
+      "mekanism:basic_thermodynamic_conductor",
+      "mekanism:basic_thermodynamic_conductor"
+    ]
+  },
+  "mekanism:advanced_universal_cable": {
+    "result": "mekanism:advanced_universal_cable",
+    "count": 8,
+    "ingredients": [
+      "mekanism:basic_universal_cable",
+      "mekanism:basic_universal_cable",
+      "mekanism:basic_universal_cable",
+      "mekanism:basic_universal_cable",
+      "minecraft:infused",
+      "mekanism:basic_universal_cable",
+      "mekanism:basic_universal_cable",
+      "mekanism:basic_universal_cable",
+      "mekanism:basic_universal_cable"
+    ]
+  },
+  "mekanismgenerators:advanced_solar_generator": {
+    "result": "mekanismgenerators:advanced_solar_generator",
+    "count": 1,
+    "ingredients": [
+      "mekanismgenerators:solar_generator",
+      "minecraft:infused",
+      "mekanismgenerators:solar_generator",
+      "mekanismgenerators:solar_generator",
+      "minecraft:infused",
+      "mekanismgenerators:solar_generator",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "modern_industrialization:advanced_machine_casing": {
+    "result": "modern_industrialization:advanced_machine_casing",
+    "count": 1,
+    "ingredients": [
+      "minecraft:aluminum",
+      "minecraft:aluminum",
+      "minecraft:aluminum",
+      "minecraft:aluminum",
+      "modern_industrialization:basic_machine_hull",
+      "minecraft:aluminum",
+      "minecraft:aluminum",
+      "minecraft:aluminum",
+      "minecraft:aluminum"
+    ]
+  },
+  "modern_industrialization:advanced_motor": {
+    "result": "modern_industrialization:advanced_motor",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:aluminum_cable",
+      "modern_industrialization:annealed_copper_wire",
+      "minecraft:stainless_steel",
+      "modern_industrialization:annealed_copper_wire",
+      "modern_industrialization:stainless_steel_rod_magnetic",
+      "modern_industrialization:annealed_copper_wire",
+      "minecraft:stainless_steel",
+      "modern_industrialization:annealed_copper_wire",
+      "modern_industrialization:aluminum_cable"
+    ]
+  },
+  "modern_industrialization:advanced_pump": {
+    "result": "modern_industrialization:advanced_pump",
+    "count": 1,
+    "ingredients": [
+      "minecraft:fluid_pipes",
+      "minecraft:fluid_pipes",
+      "minecraft:fluid_pipes",
+      "modern_industrialization:stainless_steel_rotor",
+      "modern_industrialization:advanced_motor",
+      "modern_industrialization:stainless_steel_rotor",
+      "modern_industrialization:stainless_steel_bolt",
+      "modern_industrialization:stainless_steel_rotor",
+      "modern_industrialization:stainless_steel_bolt"
+    ]
+  },
+  "modern_industrialization:advanced_machine_hull": {
+    "result": "modern_industrialization:advanced_machine_hull",
+    "count": 1,
+    "ingredients": [
+      "",
+      "modern_industrialization:electronic_circuit",
+      "",
+      "modern_industrialization:silicon_battery",
+      "modern_industrialization:advanced_machine_casing",
+      "modern_industrialization:silicon_battery",
+      "modern_industrialization:electrum_cable",
+      "modern_industrialization:electrum_cable",
+      "modern_industrialization:electrum_cable"
+    ]
+  },
+  "modern_industrialization:advanced_large_steam_boiler": {
+    "result": "modern_industrialization:advanced_large_steam_boiler",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:pump",
+      "modern_industrialization:electronic_circuit",
+      "modern_industrialization:pump",
+      "modern_industrialization:large_pump",
+      "modern_industrialization:large_steam_boiler",
+      "modern_industrialization:large_pump",
+      "modern_industrialization:pump",
+      "modern_industrialization:electronic_circuit",
+      "modern_industrialization:pump"
+    ]
+  },
+  "modern_industrialization:advanced_fluid_input_hatch": {
+    "result": "modern_industrialization:advanced_fluid_input_hatch",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:aluminum_tank",
+      "",
+      "",
+      "modern_industrialization:advanced_machine_hull",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:advanced_fluid_output_hatch": {
+    "result": "modern_industrialization:advanced_fluid_output_hatch",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:advanced_machine_hull",
+      "",
+      "",
+      "modern_industrialization:aluminum_tank",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:advanced_item_input_hatch": {
+    "result": "modern_industrialization:advanced_item_input_hatch",
+    "count": 1,
+    "ingredients": [
+      "minecraft:hopper",
+      "",
+      "",
+      "modern_industrialization:advanced_machine_hull",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:advanced_item_output_hatch": {
+    "result": "modern_industrialization:advanced_item_output_hatch",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:advanced_machine_hull",
+      "",
+      "",
+      "minecraft:hopper",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "oritech:adamant_block": {
+    "result": "oritech:adamant_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:adamant",
+      "minecraft:adamant",
+      "minecraft:adamant",
+      "minecraft:adamant",
+      "minecraft:adamant",
+      "minecraft:adamant",
+      "minecraft:adamant",
+      "minecraft:adamant",
+      "minecraft:adamant"
+    ]
+  },
+  "oritech:adamant_ingot": {
+    "result": "oritech:adamant_ingot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:nickel",
+      "minecraft:nickel",
+      "",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "oritech:advanced_augment_station": {
+    "result": "oritech:advanced_augment_station",
+    "count": 1,
+    "ingredients": [
+      "oritech:duratium_ingot",
+      "oritech:duratium_ingot",
+      "oritech:duratium_ingot",
+      "oritech:duratium_ingot",
+      "oritech:flux_gate",
+      "oritech:duratium_ingot",
+      "minecraft:plating",
+      "oritech:centrifuge_block",
+      "minecraft:plating"
+    ]
+  },
+  "oritech:advanced_battery": {
+    "result": "oritech:advanced_battery",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:electrum",
+      "",
+      "modern_industrialization:steel_ingot",
+      "oritech:energite_ingot",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "oritech:energite_ingot",
+      "modern_industrialization:steel_ingot"
+    ]
+  },
+  "pipez:advanced_upgrade": {
+    "result": "pipez:advanced_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:diamond",
+      "minecraft:redstone",
+      "minecraft:diamond",
+      "minecraft:redstone",
+      "pipez:improved_upgrade",
+      "minecraft:redstone",
+      "minecraft:diamond",
+      "minecraft:redstone",
+      "minecraft:diamond"
+    ]
+  },
+  "productivebees:advanced_acacia_beehive": {
+    "result": "productivebees:advanced_acacia_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivebees:advanced_acacia_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivebees:advanced_acacia_canvas_beehive": {
+    "result": "productivebees:advanced_acacia_canvas_beehive",
+    "count": 1,
+    "ingredients": [
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "productivebees:advanced_acacia_beehive",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper"
+    ]
+  },
+  "productivebees:advanced_atmospheric_aspen_beehive": {
+    "result": "productivebees:advanced_atmospheric_aspen_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivebees:advanced_atmospheric_aspen_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivebees:advanced_atmospheric_grimwood_beehive": {
+    "result": "productivebees:advanced_atmospheric_grimwood_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivebees:advanced_atmospheric_grimwood_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivebees:advanced_atmospheric_kousa_beehive": {
+    "result": "productivebees:advanced_atmospheric_kousa_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivebees:advanced_atmospheric_kousa_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivebees:advanced_atmospheric_morado_beehive": {
+    "result": "productivebees:advanced_atmospheric_morado_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivebees:advanced_atmospheric_morado_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivebees:advanced_atmospheric_rosewood_beehive": {
+    "result": "productivebees:advanced_atmospheric_rosewood_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivebees:advanced_atmospheric_rosewood_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivebees:advanced_atmospheric_yucca_beehive": {
+    "result": "productivebees:advanced_atmospheric_yucca_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivebees:advanced_atmospheric_yucca_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivebees:advanced_autumnity_maple_beehive": {
+    "result": "productivebees:advanced_autumnity_maple_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivebees:advanced_autumnity_maple_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivebees:advanced_bamboo_beehive": {
+    "result": "productivebees:advanced_bamboo_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivebees:advanced_bamboo_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivebees:advanced_bamboo_canvas_beehive": {
+    "result": "productivebees:advanced_bamboo_canvas_beehive",
+    "count": 1,
+    "ingredients": [
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "productivebees:advanced_bamboo_beehive",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper"
+    ]
+  },
+  "productivebees:advanced_biomesoplenty_dead_beehive": {
+    "result": "productivebees:advanced_biomesoplenty_dead_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivebees:advanced_biomesoplenty_dead_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivebees:advanced_biomesoplenty_fir_beehive": {
+    "result": "productivebees:advanced_biomesoplenty_fir_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivebees:advanced_biomesoplenty_fir_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivebees:advanced_biomesoplenty_hellbark_beehive": {
+    "result": "productivebees:advanced_biomesoplenty_hellbark_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivebees:advanced_biomesoplenty_hellbark_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivebees:advanced_biomesoplenty_jacaranda_beehive": {
+    "result": "productivebees:advanced_biomesoplenty_jacaranda_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivebees:advanced_biomesoplenty_jacaranda_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivebees:advanced_biomesoplenty_magic_beehive": {
+    "result": "productivebees:advanced_biomesoplenty_magic_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivebees:advanced_biomesoplenty_magic_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivebees:advanced_biomesoplenty_mahogany_beehive": {
+    "result": "productivebees:advanced_biomesoplenty_mahogany_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivebees:advanced_biomesoplenty_mahogany_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivebees:advanced_biomesoplenty_palm_beehive": {
+    "result": "productivebees:advanced_biomesoplenty_palm_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivebees:advanced_biomesoplenty_palm_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivebees:advanced_biomesoplenty_redwood_beehive": {
+    "result": "productivebees:advanced_biomesoplenty_redwood_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivebees:advanced_biomesoplenty_redwood_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivebees:advanced_biomesoplenty_umbran_beehive": {
+    "result": "productivebees:advanced_biomesoplenty_umbran_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivebees:advanced_biomesoplenty_umbran_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivebees:advanced_biomesoplenty_willow_beehive": {
+    "result": "productivebees:advanced_biomesoplenty_willow_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivebees:advanced_biomesoplenty_willow_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivebees:advanced_birch_beehive": {
+    "result": "productivebees:advanced_birch_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivebees:advanced_birch_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivebees:advanced_birch_canvas_beehive": {
+    "result": "productivebees:advanced_birch_canvas_beehive",
+    "count": 1,
+    "ingredients": [
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "productivebees:advanced_birch_beehive",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper"
+    ]
+  },
+  "productivebees:advanced_cherry_beehive": {
+    "result": "productivebees:advanced_cherry_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivebees:advanced_cherry_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivebees:advanced_cherry_canvas_beehive": {
+    "result": "productivebees:advanced_cherry_canvas_beehive",
+    "count": 1,
+    "ingredients": [
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "productivebees:advanced_cherry_beehive",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper"
+    ]
+  },
+  "productivebees:advanced_crimson_beehive": {
+    "result": "productivebees:advanced_crimson_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivebees:advanced_crimson_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivebees:advanced_crimson_canvas_beehive": {
+    "result": "productivebees:advanced_crimson_canvas_beehive",
+    "count": 1,
+    "ingredients": [
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "productivebees:advanced_crimson_beehive",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper"
+    ]
+  },
+  "productivebees:advanced_dark_oak_beehive": {
+    "result": "productivebees:advanced_dark_oak_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivebees:advanced_dark_oak_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivebees:advanced_dark_oak_canvas_beehive": {
+    "result": "productivebees:advanced_dark_oak_canvas_beehive",
+    "count": 1,
+    "ingredients": [
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "productivebees:advanced_dark_oak_beehive",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper"
+    ]
+  },
+  "productivebees:advanced_jungle_beehive": {
+    "result": "productivebees:advanced_jungle_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivebees:advanced_jungle_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivebees:advanced_jungle_canvas_beehive": {
+    "result": "productivebees:advanced_jungle_canvas_beehive",
+    "count": 1,
+    "ingredients": [
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "productivebees:advanced_jungle_beehive",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper"
+    ]
+  },
+  "productivebees:advanced_mangrove_beehive": {
+    "result": "productivebees:advanced_mangrove_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivebees:advanced_mangrove_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivebees:advanced_mangrove_canvas_beehive": {
+    "result": "productivebees:advanced_mangrove_canvas_beehive",
+    "count": 1,
+    "ingredients": [
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "productivebees:advanced_mangrove_beehive",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper"
+    ]
+  },
+  "productivebees:advanced_oak_beehive": {
+    "result": "productivebees:advanced_oak_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivebees:advanced_oak_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivebees:advanced_oak_canvas_beehive": {
+    "result": "productivebees:advanced_oak_canvas_beehive",
+    "count": 1,
+    "ingredients": [
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "productivebees:advanced_oak_beehive",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper"
+    ]
+  },
+  "productivebees:advanced_regions_unexplored_baobab_beehive": {
+    "result": "productivebees:advanced_regions_unexplored_baobab_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivebees:advanced_regions_unexplored_baobab_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivebees:advanced_regions_unexplored_blackwood_beehive": {
+    "result": "productivebees:advanced_regions_unexplored_blackwood_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivebees:advanced_regions_unexplored_blackwood_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivebees:advanced_regions_unexplored_blue_bioshroom_beehive": {
+    "result": "productivebees:advanced_regions_unexplored_blue_bioshroom_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivebees:advanced_regions_unexplored_blue_bioshroom_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivebees:advanced_regions_unexplored_cobalt_beehive": {
+    "result": "productivebees:advanced_regions_unexplored_cobalt_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivebees:advanced_regions_unexplored_cobalt_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivebees:advanced_regions_unexplored_cypress_beehive": {
+    "result": "productivebees:advanced_regions_unexplored_cypress_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivebees:advanced_regions_unexplored_cypress_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivebees:advanced_regions_unexplored_dead_beehive": {
+    "result": "productivebees:advanced_regions_unexplored_dead_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivebees:advanced_regions_unexplored_dead_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivebees:advanced_regions_unexplored_eucalyptus_beehive": {
+    "result": "productivebees:advanced_regions_unexplored_eucalyptus_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivebees:advanced_regions_unexplored_eucalyptus_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivebees:advanced_regions_unexplored_green_bioshroom_beehive": {
+    "result": "productivebees:advanced_regions_unexplored_green_bioshroom_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivebees:advanced_regions_unexplored_green_bioshroom_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivebees:advanced_regions_unexplored_joshua_beehive": {
+    "result": "productivebees:advanced_regions_unexplored_joshua_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivebees:advanced_regions_unexplored_joshua_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivebees:advanced_regions_unexplored_kapok_beehive": {
+    "result": "productivebees:advanced_regions_unexplored_kapok_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivebees:advanced_regions_unexplored_kapok_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivebees:advanced_regions_unexplored_larch_beehive": {
+    "result": "productivebees:advanced_regions_unexplored_larch_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivebees:advanced_regions_unexplored_larch_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivebees:advanced_regions_unexplored_magnolia_beehive": {
+    "result": "productivebees:advanced_regions_unexplored_magnolia_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivebees:advanced_regions_unexplored_magnolia_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivebees:advanced_regions_unexplored_maple_beehive": {
+    "result": "productivebees:advanced_regions_unexplored_maple_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivebees:advanced_regions_unexplored_maple_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivebees:advanced_regions_unexplored_mauve_beehive": {
+    "result": "productivebees:advanced_regions_unexplored_mauve_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivebees:advanced_regions_unexplored_mauve_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivebees:advanced_regions_unexplored_palm_beehive": {
+    "result": "productivebees:advanced_regions_unexplored_palm_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivebees:advanced_regions_unexplored_palm_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivebees:advanced_regions_unexplored_pine_beehive": {
+    "result": "productivebees:advanced_regions_unexplored_pine_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivebees:advanced_regions_unexplored_pine_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivebees:advanced_regions_unexplored_pink_bioshroom_beehive": {
+    "result": "productivebees:advanced_regions_unexplored_pink_bioshroom_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivebees:advanced_regions_unexplored_pink_bioshroom_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivebees:advanced_regions_unexplored_redwood_beehive": {
+    "result": "productivebees:advanced_regions_unexplored_redwood_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivebees:advanced_regions_unexplored_redwood_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivebees:advanced_regions_unexplored_socotra_beehive": {
+    "result": "productivebees:advanced_regions_unexplored_socotra_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivebees:advanced_regions_unexplored_socotra_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivebees:advanced_regions_unexplored_willow_beehive": {
+    "result": "productivebees:advanced_regions_unexplored_willow_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivebees:advanced_regions_unexplored_willow_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivebees:advanced_regions_unexplored_yellow_bioshroom_beehive": {
+    "result": "productivebees:advanced_regions_unexplored_yellow_bioshroom_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivebees:advanced_regions_unexplored_yellow_bioshroom_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivebees:advanced_snake_block_beehive": {
+    "result": "productivebees:advanced_snake_block_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivebees:advanced_snake_block_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivebees:advanced_snake_block_canvas_beehive": {
+    "result": "productivebees:advanced_snake_block_canvas_beehive",
+    "count": 1,
+    "ingredients": [
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "productivebees:advanced_snake_block_beehive",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper"
+    ]
+  },
+  "productivebees:advanced_spruce_beehive": {
+    "result": "productivebees:advanced_spruce_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivebees:advanced_spruce_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivebees:advanced_spruce_canvas_beehive": {
+    "result": "productivebees:advanced_spruce_canvas_beehive",
+    "count": 1,
+    "ingredients": [
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "productivebees:advanced_spruce_beehive",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper"
+    ]
+  },
+  "productivebees:advanced_upgrade_aquatic_driftwood_beehive": {
+    "result": "productivebees:advanced_upgrade_aquatic_driftwood_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivebees:advanced_upgrade_aquatic_driftwood_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivebees:advanced_upgrade_aquatic_river_beehive": {
+    "result": "productivebees:advanced_upgrade_aquatic_river_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivebees:advanced_upgrade_aquatic_river_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivebees:advanced_warped_beehive": {
+    "result": "productivebees:advanced_warped_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivebees:advanced_warped_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivebees:advanced_warped_canvas_beehive": {
+    "result": "productivebees:advanced_warped_canvas_beehive",
+    "count": 1,
+    "ingredients": [
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "productivebees:advanced_warped_beehive",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper"
+    ]
+  },
+  "productivetrees:advanced_alder_beehive": {
+    "result": "productivetrees:advanced_alder_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_alder_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_allspice_beehive": {
+    "result": "productivetrees:advanced_allspice_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_allspice_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_almond_beehive": {
+    "result": "productivetrees:advanced_almond_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_almond_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_apricot_beehive": {
+    "result": "productivetrees:advanced_apricot_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_apricot_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_aquilaria_beehive": {
+    "result": "productivetrees:advanced_aquilaria_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_aquilaria_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_asai_palm_beehive": {
+    "result": "productivetrees:advanced_asai_palm_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_asai_palm_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_ash_beehive": {
+    "result": "productivetrees:advanced_ash_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_ash_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_aspen_beehive": {
+    "result": "productivetrees:advanced_aspen_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_aspen_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_avocado_beehive": {
+    "result": "productivetrees:advanced_avocado_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_avocado_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_balsam_fir_beehive": {
+    "result": "productivetrees:advanced_balsam_fir_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_balsam_fir_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_balsa_beehive": {
+    "result": "productivetrees:advanced_balsa_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_balsa_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_banana_beehive": {
+    "result": "productivetrees:advanced_banana_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_banana_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_bay_leaf_beehive": {
+    "result": "productivetrees:advanced_bay_leaf_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_bay_leaf_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_beech_beehive": {
+    "result": "productivetrees:advanced_beech_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_beech_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_beliy_naliv_apple_beehive": {
+    "result": "productivetrees:advanced_beliy_naliv_apple_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_beliy_naliv_apple_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_blackthorn_beehive": {
+    "result": "productivetrees:advanced_blackthorn_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_blackthorn_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_black_cherry_beehive": {
+    "result": "productivetrees:advanced_black_cherry_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_black_cherry_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_black_ember_beehive": {
+    "result": "productivetrees:advanced_black_ember_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_black_ember_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_black_locust_beehive": {
+    "result": "productivetrees:advanced_black_locust_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_black_locust_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_blue_mahoe_beehive": {
+    "result": "productivetrees:advanced_blue_mahoe_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_blue_mahoe_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_blue_yonder_beehive": {
+    "result": "productivetrees:advanced_blue_yonder_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_blue_yonder_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_boxwood_beehive": {
+    "result": "productivetrees:advanced_boxwood_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_boxwood_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_brazilwood_beehive": {
+    "result": "productivetrees:advanced_brazilwood_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_brazilwood_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_brazil_nut_beehive": {
+    "result": "productivetrees:advanced_brazil_nut_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_brazil_nut_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_breadfruit_beehive": {
+    "result": "productivetrees:advanced_breadfruit_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_breadfruit_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_brown_amber_beehive": {
+    "result": "productivetrees:advanced_brown_amber_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_brown_amber_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_buddhas_hand_beehive": {
+    "result": "productivetrees:advanced_buddhas_hand_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_buddhas_hand_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_bull_pine_beehive": {
+    "result": "productivetrees:advanced_bull_pine_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_bull_pine_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_butternut_beehive": {
+    "result": "productivetrees:advanced_butternut_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_butternut_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_cacao_beehive": {
+    "result": "productivetrees:advanced_cacao_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_cacao_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_candlenut_beehive": {
+    "result": "productivetrees:advanced_candlenut_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_candlenut_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_carob_beehive": {
+    "result": "productivetrees:advanced_carob_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_carob_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_cashew_beehive": {
+    "result": "productivetrees:advanced_cashew_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_cashew_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_cave_dweller_beehive": {
+    "result": "productivetrees:advanced_cave_dweller_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_cave_dweller_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_cedar_beehive": {
+    "result": "productivetrees:advanced_cedar_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_cedar_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_cempedak_beehive": {
+    "result": "productivetrees:advanced_cempedak_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_cempedak_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_ceylon_ebony_beehive": {
+    "result": "productivetrees:advanced_ceylon_ebony_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_ceylon_ebony_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_cherry_plum_beehive": {
+    "result": "productivetrees:advanced_cherry_plum_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_cherry_plum_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_cinnamon_beehive": {
+    "result": "productivetrees:advanced_cinnamon_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_cinnamon_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_citron_beehive": {
+    "result": "productivetrees:advanced_citron_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_citron_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_clove_beehive": {
+    "result": "productivetrees:advanced_clove_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_clove_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_cocobolo_beehive": {
+    "result": "productivetrees:advanced_cocobolo_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_cocobolo_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_coconut_beehive": {
+    "result": "productivetrees:advanced_coconut_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_coconut_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_coffea_beehive": {
+    "result": "productivetrees:advanced_coffea_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_coffea_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_copoazu_beehive": {
+    "result": "productivetrees:advanced_copoazu_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_copoazu_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_copper_beech_beehive": {
+    "result": "productivetrees:advanced_copper_beech_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_copper_beech_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_cork_oak_beehive": {
+    "result": "productivetrees:advanced_cork_oak_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_cork_oak_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_cultivated_pear_beehive": {
+    "result": "productivetrees:advanced_cultivated_pear_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_cultivated_pear_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_date_palm_beehive": {
+    "result": "productivetrees:advanced_date_palm_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_date_palm_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_dogwood_beehive": {
+    "result": "productivetrees:advanced_dogwood_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_dogwood_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_douglas_fir_beehive": {
+    "result": "productivetrees:advanced_douglas_fir_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_douglas_fir_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_elm_beehive": {
+    "result": "productivetrees:advanced_elm_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_elm_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_european_larch_beehive": {
+    "result": "productivetrees:advanced_european_larch_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_european_larch_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_finger_lime_beehive": {
+    "result": "productivetrees:advanced_finger_lime_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_finger_lime_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_firecracker_beehive": {
+    "result": "productivetrees:advanced_firecracker_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_firecracker_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_flickering_sun_beehive": {
+    "result": "productivetrees:advanced_flickering_sun_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_flickering_sun_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_flowering_crabapple_beehive": {
+    "result": "productivetrees:advanced_flowering_crabapple_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_flowering_crabapple_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_foggy_blast_beehive": {
+    "result": "productivetrees:advanced_foggy_blast_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_foggy_blast_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_ginkgo_beehive": {
+    "result": "productivetrees:advanced_ginkgo_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_ginkgo_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_golden_delicious_apple_beehive": {
+    "result": "productivetrees:advanced_golden_delicious_apple_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_golden_delicious_apple_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_grandidiers_baobab_beehive": {
+    "result": "productivetrees:advanced_grandidiers_baobab_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_grandidiers_baobab_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_granny_smith_apple_beehive": {
+    "result": "productivetrees:advanced_granny_smith_apple_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_granny_smith_apple_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_grapefruit_beehive": {
+    "result": "productivetrees:advanced_grapefruit_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_grapefruit_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_great_sallow_beehive": {
+    "result": "productivetrees:advanced_great_sallow_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_great_sallow_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_greenheart_beehive": {
+    "result": "productivetrees:advanced_greenheart_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_greenheart_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_hawthorn_beehive": {
+    "result": "productivetrees:advanced_hawthorn_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_hawthorn_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_hazel_beehive": {
+    "result": "productivetrees:advanced_hazel_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_hazel_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_holly_beehive": {
+    "result": "productivetrees:advanced_holly_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_holly_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_hornbeam_beehive": {
+    "result": "productivetrees:advanced_hornbeam_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_hornbeam_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_ipe_beehive": {
+    "result": "productivetrees:advanced_ipe_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_ipe_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_iroko_beehive": {
+    "result": "productivetrees:advanced_iroko_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_iroko_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_jackfruit_beehive": {
+    "result": "productivetrees:advanced_jackfruit_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_jackfruit_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_juniper_beehive": {
+    "result": "productivetrees:advanced_juniper_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_juniper_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_kapok_beehive": {
+    "result": "productivetrees:advanced_kapok_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_kapok_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_key_lime_beehive": {
+    "result": "productivetrees:advanced_key_lime_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_key_lime_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_kumquat_beehive": {
+    "result": "productivetrees:advanced_kumquat_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_kumquat_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_lawson_cypress_beehive": {
+    "result": "productivetrees:advanced_lawson_cypress_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_lawson_cypress_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_lemon_beehive": {
+    "result": "productivetrees:advanced_lemon_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_lemon_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_lime_beehive": {
+    "result": "productivetrees:advanced_lime_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_lime_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_loblolly_pine_beehive": {
+    "result": "productivetrees:advanced_loblolly_pine_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_loblolly_pine_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_logwood_beehive": {
+    "result": "productivetrees:advanced_logwood_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_logwood_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_mahogany_beehive": {
+    "result": "productivetrees:advanced_mahogany_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_mahogany_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_mandarin_beehive": {
+    "result": "productivetrees:advanced_mandarin_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_mandarin_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_mango_beehive": {
+    "result": "productivetrees:advanced_mango_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_mango_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_monkey_puzzle_beehive": {
+    "result": "productivetrees:advanced_monkey_puzzle_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_monkey_puzzle_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_moonlight_magic_crepe_myrtle_beehive": {
+    "result": "productivetrees:advanced_moonlight_magic_crepe_myrtle_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_moonlight_magic_crepe_myrtle_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_myrtle_ebony_beehive": {
+    "result": "productivetrees:advanced_myrtle_ebony_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_myrtle_ebony_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_nectarine_beehive": {
+    "result": "productivetrees:advanced_nectarine_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_nectarine_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_night_fuchsia_beehive": {
+    "result": "productivetrees:advanced_night_fuchsia_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_night_fuchsia_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_nutmeg_beehive": {
+    "result": "productivetrees:advanced_nutmeg_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_nutmeg_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_old_fustic_beehive": {
+    "result": "productivetrees:advanced_old_fustic_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_old_fustic_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_olive_beehive": {
+    "result": "productivetrees:advanced_olive_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_olive_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_orange_beehive": {
+    "result": "productivetrees:advanced_orange_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_orange_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_osage_orange_beehive": {
+    "result": "productivetrees:advanced_osage_orange_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_osage_orange_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_padauk_beehive": {
+    "result": "productivetrees:advanced_padauk_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_padauk_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_pandanus_beehive": {
+    "result": "productivetrees:advanced_pandanus_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_pandanus_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_papaya_beehive": {
+    "result": "productivetrees:advanced_papaya_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_papaya_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_peach_beehive": {
+    "result": "productivetrees:advanced_peach_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_peach_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_pecan_beehive": {
+    "result": "productivetrees:advanced_pecan_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_pecan_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_persimmon_beehive": {
+    "result": "productivetrees:advanced_persimmon_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_persimmon_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_pink_ipe_beehive": {
+    "result": "productivetrees:advanced_pink_ipe_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_pink_ipe_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_pink_ivory_beehive": {
+    "result": "productivetrees:advanced_pink_ivory_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_pink_ivory_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_pistachio_beehive": {
+    "result": "productivetrees:advanced_pistachio_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_pistachio_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_plantain_beehive": {
+    "result": "productivetrees:advanced_plantain_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_plantain_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_plum_beehive": {
+    "result": "productivetrees:advanced_plum_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_plum_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_pomegranate_beehive": {
+    "result": "productivetrees:advanced_pomegranate_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_pomegranate_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_pomelo_beehive": {
+    "result": "productivetrees:advanced_pomelo_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_pomelo_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_prairie_crabapple_beehive": {
+    "result": "productivetrees:advanced_prairie_crabapple_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_prairie_crabapple_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_purpleheart_beehive": {
+    "result": "productivetrees:advanced_purpleheart_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_purpleheart_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_purple_blackthorn_beehive": {
+    "result": "productivetrees:advanced_purple_blackthorn_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_purple_blackthorn_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_purple_crepe_myrtle_beehive": {
+    "result": "productivetrees:advanced_purple_crepe_myrtle_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_purple_crepe_myrtle_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_purple_ipe_beehive": {
+    "result": "productivetrees:advanced_purple_ipe_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_purple_ipe_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_purple_spiral_beehive": {
+    "result": "productivetrees:advanced_purple_spiral_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_purple_spiral_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_rainbow_gum_beehive": {
+    "result": "productivetrees:advanced_rainbow_gum_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_rainbow_gum_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_red_banana_beehive": {
+    "result": "productivetrees:advanced_red_banana_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_red_banana_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_red_crepe_myrtle_beehive": {
+    "result": "productivetrees:advanced_red_crepe_myrtle_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_red_crepe_myrtle_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_red_delicious_apple_beehive": {
+    "result": "productivetrees:advanced_red_delicious_apple_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_red_delicious_apple_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_red_maple_beehive": {
+    "result": "productivetrees:advanced_red_maple_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_red_maple_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_rippling_willow_beehive": {
+    "result": "productivetrees:advanced_rippling_willow_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_rippling_willow_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_rosewood_beehive": {
+    "result": "productivetrees:advanced_rosewood_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_rosewood_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_rose_gum_beehive": {
+    "result": "productivetrees:advanced_rose_gum_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_rose_gum_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_rowan_beehive": {
+    "result": "productivetrees:advanced_rowan_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_rowan_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_rubber_tree_beehive": {
+    "result": "productivetrees:advanced_rubber_tree_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_rubber_tree_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_salak_beehive": {
+    "result": "productivetrees:advanced_salak_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_salak_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_sandalwood_beehive": {
+    "result": "productivetrees:advanced_sandalwood_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_sandalwood_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_sand_pear_beehive": {
+    "result": "productivetrees:advanced_sand_pear_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_sand_pear_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_satsuma_beehive": {
+    "result": "productivetrees:advanced_satsuma_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_satsuma_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_sequoia_beehive": {
+    "result": "productivetrees:advanced_sequoia_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_sequoia_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_silver_fir_beehive": {
+    "result": "productivetrees:advanced_silver_fir_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_silver_fir_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_silver_lime_beehive": {
+    "result": "productivetrees:advanced_silver_lime_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_silver_lime_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_slimy_delight_beehive": {
+    "result": "productivetrees:advanced_slimy_delight_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_slimy_delight_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_socotra_dragon_beehive": {
+    "result": "productivetrees:advanced_socotra_dragon_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_socotra_dragon_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_soul_tree_beehive": {
+    "result": "productivetrees:advanced_soul_tree_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_soul_tree_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_soursop_beehive": {
+    "result": "productivetrees:advanced_soursop_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_soursop_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_sour_cherry_beehive": {
+    "result": "productivetrees:advanced_sour_cherry_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_sour_cherry_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_sparkle_cherry_beehive": {
+    "result": "productivetrees:advanced_sparkle_cherry_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_sparkle_cherry_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_star_anise_beehive": {
+    "result": "productivetrees:advanced_star_anise_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_star_anise_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_star_fruit_beehive": {
+    "result": "productivetrees:advanced_star_fruit_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_star_fruit_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_sugar_apple_beehive": {
+    "result": "productivetrees:advanced_sugar_apple_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_sugar_apple_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_sugar_maple_beehive": {
+    "result": "productivetrees:advanced_sugar_maple_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_sugar_maple_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_swamp_gum_beehive": {
+    "result": "productivetrees:advanced_swamp_gum_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_swamp_gum_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_sweetgum_beehive": {
+    "result": "productivetrees:advanced_sweetgum_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_sweetgum_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_sweet_chestnut_beehive": {
+    "result": "productivetrees:advanced_sweet_chestnut_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_sweet_chestnut_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_sweet_crabapple_beehive": {
+    "result": "productivetrees:advanced_sweet_crabapple_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_sweet_crabapple_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_sycamore_fig_beehive": {
+    "result": "productivetrees:advanced_sycamore_fig_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_sycamore_fig_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_tangerine_beehive": {
+    "result": "productivetrees:advanced_tangerine_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_tangerine_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_teak_beehive": {
+    "result": "productivetrees:advanced_teak_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_teak_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_thunder_bolt_beehive": {
+    "result": "productivetrees:advanced_thunder_bolt_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_thunder_bolt_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_time_traveller_beehive": {
+    "result": "productivetrees:advanced_time_traveller_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_time_traveller_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_tuscarora_crepe_myrtle_beehive": {
+    "result": "productivetrees:advanced_tuscarora_crepe_myrtle_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_tuscarora_crepe_myrtle_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_walnut_beehive": {
+    "result": "productivetrees:advanced_walnut_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_walnut_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_water_wonder_beehive": {
+    "result": "productivetrees:advanced_water_wonder_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_water_wonder_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_wenge_beehive": {
+    "result": "productivetrees:advanced_wenge_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_wenge_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_western_hemlock_beehive": {
+    "result": "productivetrees:advanced_western_hemlock_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_western_hemlock_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_whitebeam_beehive": {
+    "result": "productivetrees:advanced_whitebeam_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_whitebeam_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_white_ipe_beehive": {
+    "result": "productivetrees:advanced_white_ipe_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_white_ipe_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_white_poplar_beehive": {
+    "result": "productivetrees:advanced_white_poplar_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_white_poplar_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_white_willow_beehive": {
+    "result": "productivetrees:advanced_white_willow_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_white_willow_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_wild_cherry_beehive": {
+    "result": "productivetrees:advanced_wild_cherry_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_wild_cherry_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_yellow_meranti_beehive": {
+    "result": "productivetrees:advanced_yellow_meranti_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_yellow_meranti_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_yew_beehive": {
+    "result": "productivetrees:advanced_yew_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_yew_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:advanced_zebrano_beehive": {
+    "result": "productivetrees:advanced_zebrano_beehive",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:advanced_zebrano_beehive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "quarryplus:adv_quarry": {
+    "result": "quarryplus:adv_quarry",
+    "count": 1,
+    "ingredients": [
+      "minecraft:diamond",
+      "minecraft:dragon_head",
+      "minecraft:diamond",
+      "quarryplus:quarry",
+      "minecraft:nether_stars",
+      "quarryplus:quarry",
+      "minecraft:emerald",
+      "minecraft:ender_eye",
+      "minecraft:emerald"
+    ]
+  },
+  "railcraft:advanced_detector": {
+    "result": "railcraft:advanced_detector",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "minecraft:stone_pressure_plate",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot"
+    ]
+  },
+  "railcraft:advanced_item_loader": {
+    "result": "railcraft:advanced_item_loader",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:steel_ingot",
+      "minecraft:redstone",
+      "modern_industrialization:steel_ingot",
+      "minecraft:redstone",
+      "railcraft:item_loader",
+      "minecraft:redstone",
+      "modern_industrialization:steel_ingot",
+      "railcraft:steel_shovel",
+      "modern_industrialization:steel_ingot"
+    ]
+  },
+  "railcraft:advanced_item_unloader": {
+    "result": "railcraft:advanced_item_unloader",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:steel_ingot",
+      "minecraft:redstone",
+      "modern_industrialization:steel_ingot",
+      "minecraft:redstone",
+      "railcraft:item_unloader",
+      "minecraft:redstone",
+      "modern_industrialization:steel_ingot",
+      "railcraft:steel_shovel",
+      "modern_industrialization:steel_ingot"
+    ]
+  },
+  "silentgear:advanced_upgrade_base": {
+    "result": "silentgear:advanced_upgrade_base",
+    "count": 1,
+    "ingredients": [
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:blue",
+      "silentgear:upgrade_base",
+      "minecraft:blue",
+      "minecraft:gold",
+      "minecraft:gold",
+      "minecraft:gold"
+    ]
+  },
+  "simplemagnets:advancedmagnet": {
+    "result": "simplemagnets:advancedmagnet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:lapis_lazuli",
+      "simplemagnets:basicmagnet",
+      "minecraft:ender_eye",
+      "minecraft:diamond",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:redstone"
+    ]
+  },
+  "simplemagnets:advanced_demagnetization_coil": {
+    "result": "simplemagnets:advanced_demagnetization_coil",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stone",
+      "",
+      "minecraft:redstone",
+      "minecraft:gold_ingot",
+      "minecraft:redstone",
+      "minecraft:gold_ingot",
+      "simplemagnets:basic_demagnetization_coil",
+      "minecraft:gold_ingot"
+    ]
+  },
+  "sophisticatedbackpacks:advanced_alchemy_upgrade": {
+    "result": "sophisticatedbackpacks:advanced_alchemy_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:string",
+      "sophisticatedstorage:advanced_alchemy_upgrade",
+      "minecraft:string",
+      "",
+      "minecraft:leather",
+      "",
+      "minecraft:string",
+      "",
+      "minecraft:string"
+    ]
+  },
+  "sophisticatedbackpacks:advanced_compacting_upgrade": {
+    "result": "sophisticatedbackpacks:advanced_compacting_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:string",
+      "sophisticatedstorage:advanced_compacting_upgrade",
+      "minecraft:string",
+      "",
+      "minecraft:leather",
+      "",
+      "minecraft:string",
+      "",
+      "minecraft:string"
+    ]
+  },
+  "sophisticatedbackpacks:advanced_feeding_upgrade": {
+    "result": "sophisticatedbackpacks:advanced_feeding_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:string",
+      "sophisticatedstorage:advanced_feeding_upgrade",
+      "minecraft:string",
+      "",
+      "minecraft:leather",
+      "",
+      "minecraft:string",
+      "",
+      "minecraft:string"
+    ]
+  },
+  "sophisticatedbackpacks:advanced_filter_upgrade": {
+    "result": "sophisticatedbackpacks:advanced_filter_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:string",
+      "sophisticatedstorage:advanced_filter_upgrade",
+      "minecraft:string",
+      "",
+      "minecraft:leather",
+      "",
+      "minecraft:string",
+      "",
+      "minecraft:string"
+    ]
+  },
+  "sophisticatedbackpacks:advanced_jukebox_upgrade": {
+    "result": "sophisticatedbackpacks:advanced_jukebox_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:string",
+      "sophisticatedstorage:advanced_jukebox_upgrade",
+      "minecraft:string",
+      "",
+      "minecraft:leather",
+      "",
+      "minecraft:string",
+      "",
+      "minecraft:string"
+    ]
+  },
+  "sophisticatedbackpacks:advanced_magnet_upgrade": {
+    "result": "sophisticatedbackpacks:advanced_magnet_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:string",
+      "sophisticatedstorage:advanced_magnet_upgrade",
+      "minecraft:string",
+      "",
+      "minecraft:leather",
+      "",
+      "minecraft:string",
+      "",
+      "minecraft:string"
+    ]
+  },
+  "sophisticatedbackpacks:advanced_pickup_upgrade": {
+    "result": "sophisticatedbackpacks:advanced_pickup_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:string",
+      "sophisticatedstorage:advanced_pickup_upgrade",
+      "minecraft:string",
+      "",
+      "minecraft:leather",
+      "",
+      "minecraft:string",
+      "",
+      "minecraft:string"
+    ]
+  },
+  "sophisticatedbackpacks:advanced_void_upgrade": {
+    "result": "sophisticatedbackpacks:advanced_void_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:string",
+      "sophisticatedstorage:advanced_void_upgrade",
+      "minecraft:string",
+      "",
+      "minecraft:leather",
+      "",
+      "minecraft:string",
+      "",
+      "minecraft:string"
+    ]
+  },
+  "sophisticatedstorage:advanced_alchemy_upgrade": {
+    "result": "sophisticatedstorage:advanced_alchemy_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "sophisticatedbackpacks:advanced_alchemy_upgrade",
+      "minecraft:oak_planks",
+      "",
+      "minecraft:oak_planks",
+      "",
+      "minecraft:oak_planks",
+      "",
+      "minecraft:oak_planks"
+    ]
+  },
+  "sophisticatedstorage:advanced_compacting_upgrade": {
+    "result": "sophisticatedstorage:advanced_compacting_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "sophisticatedbackpacks:advanced_compacting_upgrade",
+      "minecraft:oak_planks",
+      "",
+      "minecraft:oak_planks",
+      "",
+      "minecraft:oak_planks",
+      "",
+      "minecraft:oak_planks"
+    ]
+  },
+  "sophisticatedstorage:advanced_feeding_upgrade": {
+    "result": "sophisticatedstorage:advanced_feeding_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "sophisticatedbackpacks:advanced_feeding_upgrade",
+      "minecraft:oak_planks",
+      "",
+      "minecraft:oak_planks",
+      "",
+      "minecraft:oak_planks",
+      "",
+      "minecraft:oak_planks"
+    ]
+  },
+  "sophisticatedstorage:advanced_filter_upgrade": {
+    "result": "sophisticatedstorage:advanced_filter_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "sophisticatedbackpacks:advanced_filter_upgrade",
+      "minecraft:oak_planks",
+      "",
+      "minecraft:oak_planks",
+      "",
+      "minecraft:oak_planks",
+      "",
+      "minecraft:oak_planks"
+    ]
+  },
+  "sophisticatedstorage:advanced_jukebox_upgrade": {
+    "result": "sophisticatedstorage:advanced_jukebox_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "sophisticatedbackpacks:advanced_jukebox_upgrade",
+      "minecraft:oak_planks",
+      "",
+      "minecraft:oak_planks",
+      "",
+      "minecraft:oak_planks",
+      "",
+      "minecraft:oak_planks"
+    ]
+  },
+  "sophisticatedstorage:advanced_magnet_upgrade": {
+    "result": "sophisticatedstorage:advanced_magnet_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "sophisticatedbackpacks:advanced_magnet_upgrade",
+      "minecraft:oak_planks",
+      "",
+      "minecraft:oak_planks",
+      "",
+      "minecraft:oak_planks",
+      "",
+      "minecraft:oak_planks"
+    ]
+  },
+  "sophisticatedstorage:advanced_pickup_upgrade": {
+    "result": "sophisticatedstorage:advanced_pickup_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "sophisticatedbackpacks:advanced_pickup_upgrade",
+      "minecraft:oak_planks",
+      "",
+      "minecraft:oak_planks",
+      "",
+      "minecraft:oak_planks",
+      "",
+      "minecraft:oak_planks"
+    ]
+  },
+  "sophisticatedstorage:advanced_void_upgrade": {
+    "result": "sophisticatedstorage:advanced_void_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "sophisticatedbackpacks:advanced_void_upgrade",
+      "minecraft:oak_planks",
+      "",
+      "minecraft:oak_planks",
+      "",
+      "minecraft:oak_planks",
+      "",
+      "minecraft:oak_planks"
+    ]
+  },
+  "wirelesschargers:advanced_wireless_block_charger": {
+    "result": "wirelesschargers:advanced_wireless_block_charger",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stone",
+      "",
+      "minecraft:iron_ingot",
+      "wirelesschargers:basic_wireless_block_charger",
+      "minecraft:iron_ingot",
+      "minecraft:blaze_powder",
+      "minecraft:redstone",
+      "minecraft:blaze_powder"
+    ]
+  },
+  "wirelesschargers:advanced_wireless_player_charger": {
+    "result": "wirelesschargers:advanced_wireless_player_charger",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stone",
+      "",
+      "minecraft:gold_ingot",
+      "wirelesschargers:basic_wireless_player_charger",
+      "minecraft:gold_ingot",
+      "minecraft:blaze_powder",
+      "minecraft:redstone",
+      "minecraft:blaze_powder"
+    ]
+  },
+  "xnet:advanced_connector_blue": {
+    "result": "xnet:advanced_connector_blue",
+    "count": 1,
+    "ingredients": [
+      "minecraft:blue",
+      "minecraft:advanced_connectors",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xnet:advanced_connector_green": {
+    "result": "xnet:advanced_connector_green",
+    "count": 1,
+    "ingredients": [
+      "minecraft:green",
+      "minecraft:advanced_connectors",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xnet:advanced_connector_red": {
+    "result": "xnet:advanced_connector_red",
+    "count": 1,
+    "ingredients": [
+      "minecraft:red",
+      "minecraft:advanced_connectors",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xnet:advanced_connector_routing": {
+    "result": "xnet:advanced_connector_routing",
+    "count": 1,
+    "ingredients": [
+      "xnet:connector_routing",
+      "minecraft:ender_pearl",
+      "",
+      "minecraft:diamond",
+      "minecraft:redstone",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xnet:advanced_connector_yellow": {
+    "result": "xnet:advanced_connector_yellow",
+    "count": 1,
+    "ingredients": [
+      "minecraft:yellow",
+      "minecraft:advanced_connectors",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

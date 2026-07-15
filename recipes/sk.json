@@ -1,0 +1,1877 @@
+{
+  "ae2:sky_stone_brick": {
+    "result": "ae2:sky_stone_brick",
+    "count": 4,
+    "ingredients": [
+      "ae2:smooth_sky_stone_block",
+      "ae2:smooth_sky_stone_block",
+      "",
+      "ae2:smooth_sky_stone_block",
+      "ae2:smooth_sky_stone_block",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ae2:sky_stone_small_brick": {
+    "result": "ae2:sky_stone_small_brick",
+    "count": 4,
+    "ingredients": [
+      "ae2:sky_stone_brick",
+      "ae2:sky_stone_brick",
+      "",
+      "ae2:sky_stone_brick",
+      "ae2:sky_stone_brick",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ae2:sky_stone_chest": {
+    "result": "ae2:sky_stone_chest",
+    "count": 1,
+    "ingredients": [
+      "ae2:sky_stone_block",
+      "ae2:sky_stone_block",
+      "ae2:sky_stone_block",
+      "ae2:sky_stone_block",
+      "",
+      "ae2:sky_stone_block",
+      "ae2:sky_stone_block",
+      "ae2:sky_stone_block",
+      "ae2:sky_stone_block"
+    ]
+  },
+  "ae2:sky_stone_tank": {
+    "result": "ae2:sky_stone_tank",
+    "count": 1,
+    "ingredients": [
+      "ae2:sky_stone_block",
+      "ae2:sky_stone_block",
+      "ae2:sky_stone_block",
+      "ae2:sky_stone_block",
+      "ae2:quartz_glass",
+      "ae2:sky_stone_block",
+      "ae2:sky_stone_block",
+      "ae2:sky_stone_block",
+      "ae2:sky_stone_block"
+    ]
+  },
+  "ae2:sky_stone_slab": {
+    "result": "ae2:sky_stone_slab",
+    "count": 6,
+    "ingredients": [
+      "ae2:sky_stone_block",
+      "ae2:sky_stone_block",
+      "ae2:sky_stone_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ae2:sky_stone_brick_slab": {
+    "result": "ae2:sky_stone_brick_slab",
+    "count": 6,
+    "ingredients": [
+      "ae2:sky_stone_brick",
+      "ae2:sky_stone_brick",
+      "ae2:sky_stone_brick",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ae2:sky_stone_small_brick_slab": {
+    "result": "ae2:sky_stone_small_brick_slab",
+    "count": 6,
+    "ingredients": [
+      "ae2:sky_stone_small_brick",
+      "ae2:sky_stone_small_brick",
+      "ae2:sky_stone_small_brick",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ae2:sky_stone_stairs": {
+    "result": "ae2:sky_stone_stairs",
+    "count": 4,
+    "ingredients": [
+      "ae2:sky_stone_block",
+      "",
+      "",
+      "ae2:sky_stone_block",
+      "ae2:sky_stone_block",
+      "",
+      "ae2:sky_stone_block",
+      "ae2:sky_stone_block",
+      "ae2:sky_stone_block"
+    ]
+  },
+  "ae2:sky_stone_brick_stairs": {
+    "result": "ae2:sky_stone_brick_stairs",
+    "count": 4,
+    "ingredients": [
+      "ae2:sky_stone_brick",
+      "",
+      "",
+      "ae2:sky_stone_brick",
+      "ae2:sky_stone_brick",
+      "",
+      "ae2:sky_stone_brick",
+      "ae2:sky_stone_brick",
+      "ae2:sky_stone_brick"
+    ]
+  },
+  "ae2:sky_stone_small_brick_stairs": {
+    "result": "ae2:sky_stone_small_brick_stairs",
+    "count": 4,
+    "ingredients": [
+      "ae2:sky_stone_small_brick",
+      "",
+      "",
+      "ae2:sky_stone_small_brick",
+      "ae2:sky_stone_small_brick",
+      "",
+      "ae2:sky_stone_small_brick",
+      "ae2:sky_stone_small_brick",
+      "ae2:sky_stone_small_brick"
+    ]
+  },
+  "ae2:sky_stone_wall": {
+    "result": "ae2:sky_stone_wall",
+    "count": 6,
+    "ingredients": [
+      "ae2:sky_stone_block",
+      "ae2:sky_stone_block",
+      "ae2:sky_stone_block",
+      "ae2:sky_stone_block",
+      "ae2:sky_stone_block",
+      "ae2:sky_stone_block",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ae2:sky_stone_brick_wall": {
+    "result": "ae2:sky_stone_brick_wall",
+    "count": 6,
+    "ingredients": [
+      "ae2:sky_stone_brick",
+      "ae2:sky_stone_brick",
+      "ae2:sky_stone_brick",
+      "ae2:sky_stone_brick",
+      "ae2:sky_stone_brick",
+      "ae2:sky_stone_brick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ae2:sky_stone_small_brick_wall": {
+    "result": "ae2:sky_stone_small_brick_wall",
+    "count": 6,
+    "ingredients": [
+      "ae2:sky_stone_small_brick",
+      "ae2:sky_stone_small_brick",
+      "ae2:sky_stone_small_brick",
+      "ae2:sky_stone_small_brick",
+      "ae2:sky_stone_small_brick",
+      "ae2:sky_stone_small_brick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "aether:skyroot_axe": {
+    "result": "aether:skyroot_axe",
+    "count": 1,
+    "ingredients": [
+      "minecraft:skyroot_tool_crafting",
+      "minecraft:skyroot_tool_crafting",
+      "",
+      "minecraft:skyroot_tool_crafting",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "aether:skyroot_bed": {
+    "result": "aether:skyroot_bed",
+    "count": 1,
+    "ingredients": [
+      "minecraft:white_wool",
+      "minecraft:white_wool",
+      "minecraft:white_wool",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "aether:skyroot_boat": {
+    "result": "aether:skyroot_boat",
+    "count": 1,
+    "ingredients": [
+      "aether:skyroot_planks",
+      "",
+      "aether:skyroot_planks",
+      "aether:skyroot_planks",
+      "aether:skyroot_planks",
+      "aether:skyroot_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "aether:skyroot_bookshelf": {
+    "result": "aether:skyroot_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "aether:skyroot_planks",
+      "aether:skyroot_planks",
+      "aether:skyroot_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "aether:skyroot_planks",
+      "aether:skyroot_planks",
+      "aether:skyroot_planks"
+    ]
+  },
+  "aether:skyroot_bucket": {
+    "result": "aether:skyroot_bucket",
+    "count": 1,
+    "ingredients": [
+      "minecraft:skyroot_tool_crafting",
+      "",
+      "minecraft:skyroot_tool_crafting",
+      "",
+      "minecraft:skyroot_tool_crafting",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "aether:skyroot_button": {
+    "result": "aether:skyroot_button",
+    "count": 1,
+    "ingredients": [
+      "aether:skyroot_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "aether:skyroot_chest_boat": {
+    "result": "aether:skyroot_chest_boat",
+    "count": 1,
+    "ingredients": [
+      "minecraft:chest",
+      "aether:skyroot_boat",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "aether:skyroot_door": {
+    "result": "aether:skyroot_door",
+    "count": 3,
+    "ingredients": [
+      "aether:skyroot_planks",
+      "aether:skyroot_planks",
+      "",
+      "aether:skyroot_planks",
+      "aether:skyroot_planks",
+      "",
+      "aether:skyroot_planks",
+      "aether:skyroot_planks",
+      ""
+    ]
+  },
+  "aether:skyroot_fence": {
+    "result": "aether:skyroot_fence",
+    "count": 3,
+    "ingredients": [
+      "aether:skyroot_planks",
+      "minecraft:stick",
+      "aether:skyroot_planks",
+      "aether:skyroot_planks",
+      "minecraft:stick",
+      "aether:skyroot_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "aether:skyroot_fence_gate": {
+    "result": "aether:skyroot_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "aether:skyroot_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "aether:skyroot_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "aether:skyroot_hanging_sign": {
+    "result": "aether:skyroot_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "aether:stripped_skyroot_log",
+      "aether:stripped_skyroot_log",
+      "aether:stripped_skyroot_log",
+      "aether:stripped_skyroot_log",
+      "aether:stripped_skyroot_log",
+      "aether:stripped_skyroot_log"
+    ]
+  },
+  "aether:skyroot_hoe": {
+    "result": "aether:skyroot_hoe",
+    "count": 1,
+    "ingredients": [
+      "minecraft:skyroot_tool_crafting",
+      "minecraft:skyroot_tool_crafting",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "aether:skyroot_pickaxe": {
+    "result": "aether:skyroot_pickaxe",
+    "count": 1,
+    "ingredients": [
+      "minecraft:skyroot_tool_crafting",
+      "minecraft:skyroot_tool_crafting",
+      "minecraft:skyroot_tool_crafting",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "aether:skyroot_planks": {
+    "result": "aether:skyroot_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "aether:skyroot_pressure_plate": {
+    "result": "aether:skyroot_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "aether:skyroot_planks",
+      "aether:skyroot_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "aether:skyroot_shovel": {
+    "result": "aether:skyroot_shovel",
+    "count": 1,
+    "ingredients": [
+      "minecraft:skyroot_tool_crafting",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "aether:skyroot_sign": {
+    "result": "aether:skyroot_sign",
+    "count": 3,
+    "ingredients": [
+      "aether:skyroot_planks",
+      "aether:skyroot_planks",
+      "aether:skyroot_planks",
+      "aether:skyroot_planks",
+      "aether:skyroot_planks",
+      "aether:skyroot_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "aether:skyroot_slab": {
+    "result": "aether:skyroot_slab",
+    "count": 6,
+    "ingredients": [
+      "aether:skyroot_planks",
+      "aether:skyroot_planks",
+      "aether:skyroot_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "aether:skyroot_stairs": {
+    "result": "aether:skyroot_stairs",
+    "count": 4,
+    "ingredients": [
+      "aether:skyroot_planks",
+      "",
+      "",
+      "aether:skyroot_planks",
+      "aether:skyroot_planks",
+      "",
+      "aether:skyroot_planks",
+      "aether:skyroot_planks",
+      "aether:skyroot_planks"
+    ]
+  },
+  "aether:skyroot_stick": {
+    "result": "aether:skyroot_stick",
+    "count": 4,
+    "ingredients": [
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "aether:skyroot_sword": {
+    "result": "aether:skyroot_sword",
+    "count": 1,
+    "ingredients": [
+      "minecraft:skyroot_tool_crafting",
+      "",
+      "",
+      "minecraft:skyroot_tool_crafting",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "aether:skyroot_trapdoor": {
+    "result": "aether:skyroot_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "aether:skyroot_planks",
+      "aether:skyroot_planks",
+      "aether:skyroot_planks",
+      "aether:skyroot_planks",
+      "aether:skyroot_planks",
+      "aether:skyroot_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "aether:skyroot_wood": {
+    "result": "aether:skyroot_wood",
+    "count": 3,
+    "ingredients": [
+      "aether:skyroot_log",
+      "aether:skyroot_log",
+      "",
+      "aether:skyroot_log",
+      "aether:skyroot_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:skeletal_ingot_block_1x": {
+    "result": "allthecompressed:skeletal_ingot_block_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:skeletal_ingot_block_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:skeletal_ingot_block_2x": {
+    "result": "allthecompressed:skeletal_ingot_block_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:skeletal_ingot_block_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:skeletal_ingot_block_3x": {
+    "result": "allthecompressed:skeletal_ingot_block_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:skeletal_ingot_block_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:skeletal_ingot_block_4x": {
+    "result": "allthecompressed:skeletal_ingot_block_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:skeletal_ingot_block_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:skeletal_ingot_block_5x": {
+    "result": "allthecompressed:skeletal_ingot_block_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:skeletal_ingot_block_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:skeletal_ingot_block_6x": {
+    "result": "allthecompressed:skeletal_ingot_block_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:skeletal_ingot_block_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:skeletal_ingot_block_7x": {
+    "result": "allthecompressed:skeletal_ingot_block_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:skeletal_ingot_block_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:skeletal_ingot_block_8x": {
+    "result": "allthecompressed:skeletal_ingot_block_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:skeletal_ingot_block_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:skeletal_ingot_block_9x": {
+    "result": "allthecompressed:skeletal_ingot_block_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:skeletal_ingot_block_8x",
+      "allthecompressed:skeletal_ingot_block_8x",
+      "allthecompressed:skeletal_ingot_block_8x",
+      "allthecompressed:skeletal_ingot_block_8x",
+      "allthecompressed:skeletal_ingot_block_8x",
+      "allthecompressed:skeletal_ingot_block_8x",
+      "allthecompressed:skeletal_ingot_block_8x",
+      "allthecompressed:skeletal_ingot_block_8x",
+      "allthecompressed:skeletal_ingot_block_8x"
+    ]
+  },
+  "allthecompressed:sky_bronze_block_1x": {
+    "result": "allthecompressed:sky_bronze_block_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:sky_bronze_block_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:sky_bronze_block_2x": {
+    "result": "allthecompressed:sky_bronze_block_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:sky_bronze_block_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:sky_bronze_block_3x": {
+    "result": "allthecompressed:sky_bronze_block_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:sky_bronze_block_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:sky_bronze_block_4x": {
+    "result": "allthecompressed:sky_bronze_block_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:sky_bronze_block_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:sky_bronze_block_5x": {
+    "result": "allthecompressed:sky_bronze_block_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:sky_bronze_block_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:sky_bronze_block_6x": {
+    "result": "allthecompressed:sky_bronze_block_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:sky_bronze_block_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:sky_bronze_block_7x": {
+    "result": "allthecompressed:sky_bronze_block_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:sky_bronze_block_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:sky_bronze_block_8x": {
+    "result": "allthecompressed:sky_bronze_block_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:sky_bronze_block_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:sky_bronze_block_9x": {
+    "result": "allthecompressed:sky_bronze_block_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:sky_bronze_block_8x",
+      "allthecompressed:sky_bronze_block_8x",
+      "allthecompressed:sky_bronze_block_8x",
+      "allthecompressed:sky_bronze_block_8x",
+      "allthecompressed:sky_bronze_block_8x",
+      "allthecompressed:sky_bronze_block_8x",
+      "allthecompressed:sky_bronze_block_8x",
+      "allthecompressed:sky_bronze_block_8x",
+      "allthecompressed:sky_bronze_block_8x"
+    ]
+  },
+  "allthecompressed:sky_osmium_block_1x": {
+    "result": "allthecompressed:sky_osmium_block_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:sky_osmium_block_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:sky_osmium_block_2x": {
+    "result": "allthecompressed:sky_osmium_block_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:sky_osmium_block_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:sky_osmium_block_3x": {
+    "result": "allthecompressed:sky_osmium_block_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:sky_osmium_block_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:sky_osmium_block_4x": {
+    "result": "allthecompressed:sky_osmium_block_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:sky_osmium_block_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:sky_osmium_block_5x": {
+    "result": "allthecompressed:sky_osmium_block_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:sky_osmium_block_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:sky_osmium_block_6x": {
+    "result": "allthecompressed:sky_osmium_block_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:sky_osmium_block_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:sky_osmium_block_7x": {
+    "result": "allthecompressed:sky_osmium_block_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:sky_osmium_block_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:sky_osmium_block_8x": {
+    "result": "allthecompressed:sky_osmium_block_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:sky_osmium_block_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:sky_osmium_block_9x": {
+    "result": "allthecompressed:sky_osmium_block_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:sky_osmium_block_8x",
+      "allthecompressed:sky_osmium_block_8x",
+      "allthecompressed:sky_osmium_block_8x",
+      "allthecompressed:sky_osmium_block_8x",
+      "allthecompressed:sky_osmium_block_8x",
+      "allthecompressed:sky_osmium_block_8x",
+      "allthecompressed:sky_osmium_block_8x",
+      "allthecompressed:sky_osmium_block_8x",
+      "allthecompressed:sky_osmium_block_8x"
+    ]
+  },
+  "allthecompressed:sky_steel_block_1x": {
+    "result": "allthecompressed:sky_steel_block_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:sky_steel_block_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:sky_steel_block_2x": {
+    "result": "allthecompressed:sky_steel_block_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:sky_steel_block_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:sky_steel_block_3x": {
+    "result": "allthecompressed:sky_steel_block_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:sky_steel_block_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:sky_steel_block_4x": {
+    "result": "allthecompressed:sky_steel_block_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:sky_steel_block_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:sky_steel_block_5x": {
+    "result": "allthecompressed:sky_steel_block_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:sky_steel_block_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:sky_steel_block_6x": {
+    "result": "allthecompressed:sky_steel_block_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:sky_steel_block_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:sky_steel_block_7x": {
+    "result": "allthecompressed:sky_steel_block_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:sky_steel_block_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:sky_steel_block_8x": {
+    "result": "allthecompressed:sky_steel_block_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:sky_steel_block_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:sky_steel_block_9x": {
+    "result": "allthecompressed:sky_steel_block_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:sky_steel_block_8x",
+      "allthecompressed:sky_steel_block_8x",
+      "allthecompressed:sky_steel_block_8x",
+      "allthecompressed:sky_steel_block_8x",
+      "allthecompressed:sky_steel_block_8x",
+      "allthecompressed:sky_steel_block_8x",
+      "allthecompressed:sky_steel_block_8x",
+      "allthecompressed:sky_steel_block_8x",
+      "allthecompressed:sky_steel_block_8x"
+    ]
+  },
+  "allthecompressed:sky_stone_block_1x": {
+    "result": "allthecompressed:sky_stone_block_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:sky_stone_block_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:sky_stone_block_2x": {
+    "result": "allthecompressed:sky_stone_block_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:sky_stone_block_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:sky_stone_block_3x": {
+    "result": "allthecompressed:sky_stone_block_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:sky_stone_block_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:sky_stone_block_4x": {
+    "result": "allthecompressed:sky_stone_block_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:sky_stone_block_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:sky_stone_block_5x": {
+    "result": "allthecompressed:sky_stone_block_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:sky_stone_block_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:sky_stone_block_6x": {
+    "result": "allthecompressed:sky_stone_block_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:sky_stone_block_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:sky_stone_block_7x": {
+    "result": "allthecompressed:sky_stone_block_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:sky_stone_block_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:sky_stone_block_8x": {
+    "result": "allthecompressed:sky_stone_block_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:sky_stone_block_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:sky_stone_block_9x": {
+    "result": "allthecompressed:sky_stone_block_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:sky_stone_block_8x",
+      "allthecompressed:sky_stone_block_8x",
+      "allthecompressed:sky_stone_block_8x",
+      "allthecompressed:sky_stone_block_8x",
+      "allthecompressed:sky_stone_block_8x",
+      "allthecompressed:sky_stone_block_8x",
+      "allthecompressed:sky_stone_block_8x",
+      "allthecompressed:sky_stone_block_8x",
+      "allthecompressed:sky_stone_block_8x"
+    ]
+  },
+  "aoa3:skeletal_ingot_block": {
+    "result": "aoa3:skeletal_ingot_block",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:skeletal_ingot_block_1x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "megacells:sky_bronze_block": {
+    "result": "megacells:sky_bronze_block",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:bronze_ingot",
+      "modern_industrialization:bronze_ingot",
+      "modern_industrialization:bronze_ingot",
+      "modern_industrialization:bronze_ingot",
+      "modern_industrialization:bronze_ingot",
+      "modern_industrialization:bronze_ingot",
+      "modern_industrialization:bronze_ingot",
+      "modern_industrialization:bronze_ingot",
+      "modern_industrialization:bronze_ingot"
+    ]
+  },
+  "megacells:sky_osmium_block": {
+    "result": "megacells:sky_osmium_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:sky_osmium",
+      "minecraft:sky_osmium",
+      "minecraft:sky_osmium",
+      "minecraft:sky_osmium",
+      "minecraft:sky_osmium",
+      "minecraft:sky_osmium",
+      "minecraft:sky_osmium",
+      "minecraft:sky_osmium",
+      "minecraft:sky_osmium"
+    ]
+  },
+  "megacells:sky_steel_block": {
+    "result": "megacells:sky_steel_block",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot"
+    ]
+  },
+  "ae2:sky_stone_block": {
+    "result": "ae2:sky_stone_block",
+    "count": 16,
+    "ingredients": [
+      "mysticalagriculture:sky_stone_essence",
+      "mysticalagriculture:sky_stone_essence",
+      "mysticalagriculture:sky_stone_essence",
+      "mysticalagriculture:sky_stone_essence",
+      "",
+      "mysticalagriculture:sky_stone_essence",
+      "mysticalagriculture:sky_stone_essence",
+      "mysticalagriculture:sky_stone_essence",
+      "mysticalagriculture:sky_stone_essence"
+    ]
+  },
+  "ars_nouveau:sky_block": {
+    "result": "ars_nouveau:sky_block",
+    "count": 8,
+    "ingredients": [
+      "ars_nouveau:magebloom_block",
+      "ars_nouveau:magebloom_block",
+      "ars_nouveau:magebloom_block",
+      "ars_nouveau:magebloom_block",
+      "ars_nouveau:manipulation_essence",
+      "ars_nouveau:magebloom_block",
+      "ars_nouveau:magebloom_block",
+      "ars_nouveau:magebloom_block",
+      "ars_nouveau:magebloom_block"
+    ]
+  },
+  "biomeswevegone:skyris_boat": {
+    "result": "biomeswevegone:skyris_boat",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:skyris_planks",
+      "",
+      "biomeswevegone:skyris_planks",
+      "biomeswevegone:skyris_planks",
+      "biomeswevegone:skyris_planks",
+      "biomeswevegone:skyris_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:skyris_bookshelf": {
+    "result": "biomeswevegone:skyris_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:skyris_planks",
+      "biomeswevegone:skyris_planks",
+      "biomeswevegone:skyris_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "biomeswevegone:skyris_planks",
+      "biomeswevegone:skyris_planks",
+      "biomeswevegone:skyris_planks"
+    ]
+  },
+  "biomeswevegone:skyris_button": {
+    "result": "biomeswevegone:skyris_button",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:skyris_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:skyris_chest_boat": {
+    "result": "biomeswevegone:skyris_chest_boat",
+    "count": 1,
+    "ingredients": [
+      "minecraft:chest",
+      "biomeswevegone:skyris_boat",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:skyris_crafting_table": {
+    "result": "biomeswevegone:skyris_crafting_table",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:skyris_planks",
+      "biomeswevegone:skyris_planks",
+      "",
+      "biomeswevegone:skyris_planks",
+      "biomeswevegone:skyris_planks",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:skyris_door": {
+    "result": "biomeswevegone:skyris_door",
+    "count": 3,
+    "ingredients": [
+      "biomeswevegone:skyris_planks",
+      "biomeswevegone:skyris_planks",
+      "",
+      "biomeswevegone:skyris_planks",
+      "biomeswevegone:skyris_planks",
+      "",
+      "biomeswevegone:skyris_planks",
+      "biomeswevegone:skyris_planks",
+      ""
+    ]
+  },
+  "biomeswevegone:skyris_fence": {
+    "result": "biomeswevegone:skyris_fence",
+    "count": 3,
+    "ingredients": [
+      "biomeswevegone:skyris_planks",
+      "minecraft:stick",
+      "biomeswevegone:skyris_planks",
+      "biomeswevegone:skyris_planks",
+      "minecraft:stick",
+      "biomeswevegone:skyris_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:skyris_fence_gate": {
+    "result": "biomeswevegone:skyris_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "biomeswevegone:skyris_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "biomeswevegone:skyris_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:skyris_hanging_sign": {
+    "result": "biomeswevegone:skyris_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "biomeswevegone:stripped_skyris_log",
+      "biomeswevegone:stripped_skyris_log",
+      "biomeswevegone:stripped_skyris_log",
+      "biomeswevegone:stripped_skyris_log",
+      "biomeswevegone:stripped_skyris_log",
+      "biomeswevegone:stripped_skyris_log"
+    ]
+  },
+  "biomeswevegone:skyris_planks": {
+    "result": "biomeswevegone:skyris_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:skyris_pressure_plate": {
+    "result": "biomeswevegone:skyris_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:skyris_planks",
+      "biomeswevegone:skyris_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:skyris_sign": {
+    "result": "biomeswevegone:skyris_sign",
+    "count": 3,
+    "ingredients": [
+      "biomeswevegone:skyris_planks",
+      "biomeswevegone:skyris_planks",
+      "biomeswevegone:skyris_planks",
+      "biomeswevegone:skyris_planks",
+      "biomeswevegone:skyris_planks",
+      "biomeswevegone:skyris_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "biomeswevegone:skyris_slab": {
+    "result": "biomeswevegone:skyris_slab",
+    "count": 6,
+    "ingredients": [
+      "biomeswevegone:skyris_planks",
+      "biomeswevegone:skyris_planks",
+      "biomeswevegone:skyris_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:skyris_stairs": {
+    "result": "biomeswevegone:skyris_stairs",
+    "count": 4,
+    "ingredients": [
+      "biomeswevegone:skyris_planks",
+      "",
+      "",
+      "biomeswevegone:skyris_planks",
+      "biomeswevegone:skyris_planks",
+      "",
+      "biomeswevegone:skyris_planks",
+      "biomeswevegone:skyris_planks",
+      "biomeswevegone:skyris_planks"
+    ]
+  },
+  "biomeswevegone:skyris_trapdoor": {
+    "result": "biomeswevegone:skyris_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "biomeswevegone:skyris_planks",
+      "biomeswevegone:skyris_planks",
+      "biomeswevegone:skyris_planks",
+      "biomeswevegone:skyris_planks",
+      "biomeswevegone:skyris_planks",
+      "biomeswevegone:skyris_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:skyris_wood": {
+    "result": "biomeswevegone:skyris_wood",
+    "count": 3,
+    "ingredients": [
+      "biomeswevegone:skyris_log",
+      "biomeswevegone:skyris_log",
+      "",
+      "biomeswevegone:skyris_log",
+      "biomeswevegone:skyris_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "farmersdelight:skillet": {
+    "result": "farmersdelight:skillet",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:brick",
+      "",
+      ""
+    ]
+  },
+  "handcrafted:skeleton_horse_trophy": {
+    "result": "handcrafted:skeleton_horse_trophy",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:saddle",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks"
+    ]
+  },
+  "handcrafted:skeleton_trophy": {
+    "result": "handcrafted:skeleton_trophy",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stone",
+      "",
+      "minecraft:stone",
+      "minecraft:skeleton_skull",
+      "minecraft:stone",
+      "minecraft:stone",
+      "",
+      "minecraft:stone"
+    ]
+  },
+  "immersiveengineering:skyhook": {
+    "result": "immersiveengineering:skyhook",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "",
+      "modern_industrialization:steel_ingot",
+      "immersiveengineering:component_iron",
+      "",
+      "",
+      "immersiveengineering:wooden_grip",
+      "immersiveengineering:wooden_grip"
+    ]
+  },
+  "mcwholidays:skeleton_balloon": {
+    "result": "mcwholidays:skeleton_balloon",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gray_dye",
+      "",
+      "",
+      "minecraft:white_wool",
+      "",
+      "",
+      "minecraft:string",
+      "",
+      ""
+    ]
+  },
+  "megacells:sky_bronze_ingot": {
+    "result": "megacells:sky_bronze_ingot",
+    "count": 9,
+    "ingredients": [
+      "megacells:sky_bronze_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "megacells:sky_osmium_ingot": {
+    "result": "megacells:sky_osmium_ingot",
+    "count": 9,
+    "ingredients": [
+      "megacells:sky_osmium_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "megacells:sky_steel_ingot": {
+    "result": "megacells:sky_steel_ingot",
+    "count": 9,
+    "ingredients": [
+      "megacells:sky_steel_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:skull_banner_pattern": {
+    "result": "minecraft:skull_banner_pattern",
+    "count": 1,
+    "ingredients": [
+      "minecraft:paper",
+      "minecraft:wither_skeleton_skull",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:skeleton_skull": {
+    "result": "minecraft:skeleton_skull",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:skeleton_essence",
+      "mysticalagriculture:skeleton_essence",
+      "mysticalagriculture:skeleton_essence",
+      "mysticalagriculture:skeleton_essence",
+      "mysticalagriculture:blank_skull",
+      "mysticalagriculture:skeleton_essence",
+      "mysticalagriculture:skeleton_essence",
+      "mysticalagriculture:skeleton_essence",
+      "mysticalagriculture:skeleton_essence"
+    ]
+  },
+  "naturesaura:sky_axe": {
+    "result": "naturesaura:sky_axe",
+    "count": 1,
+    "ingredients": [
+      "naturesaura:sky_ingot",
+      "naturesaura:sky_ingot",
+      "",
+      "naturesaura:sky_ingot",
+      "naturesaura:ancient_stick",
+      "",
+      "",
+      "naturesaura:ancient_stick",
+      ""
+    ]
+  },
+  "naturesaura:sky_chest": {
+    "result": "naturesaura:sky_chest",
+    "count": 1,
+    "ingredients": [
+      "naturesaura:sky_ingot",
+      "naturesaura:ancient_stick",
+      "naturesaura:sky_ingot",
+      "naturesaura:sky_ingot",
+      "naturesaura:sky_ingot",
+      "naturesaura:sky_ingot",
+      "naturesaura:sky_ingot",
+      "naturesaura:sky_ingot",
+      "naturesaura:sky_ingot"
+    ]
+  },
+  "naturesaura:sky_helmet": {
+    "result": "naturesaura:sky_helmet",
+    "count": 1,
+    "ingredients": [
+      "naturesaura:sky_ingot",
+      "naturesaura:sky_ingot",
+      "naturesaura:sky_ingot",
+      "naturesaura:sky_ingot",
+      "naturesaura:ancient_stick",
+      "naturesaura:sky_ingot",
+      "",
+      "",
+      ""
+    ]
+  },
+  "naturesaura:sky_hoe": {
+    "result": "naturesaura:sky_hoe",
+    "count": 1,
+    "ingredients": [
+      "naturesaura:sky_ingot",
+      "naturesaura:sky_ingot",
+      "",
+      "",
+      "naturesaura:ancient_stick",
+      "",
+      "",
+      "naturesaura:ancient_stick",
+      ""
+    ]
+  },
+  "naturesaura:sky_ingot": {
+    "result": "naturesaura:sky_ingot",
+    "count": 9,
+    "ingredients": [
+      "naturesaura:sky_ingot_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "naturesaura:sky_ingot_block": {
+    "result": "naturesaura:sky_ingot_block",
+    "count": 1,
+    "ingredients": [
+      "naturesaura:sky_ingot",
+      "naturesaura:sky_ingot",
+      "naturesaura:sky_ingot",
+      "naturesaura:sky_ingot",
+      "naturesaura:sky_ingot",
+      "naturesaura:sky_ingot",
+      "naturesaura:sky_ingot",
+      "naturesaura:sky_ingot",
+      "naturesaura:sky_ingot"
+    ]
+  },
+  "naturesaura:sky_pants": {
+    "result": "naturesaura:sky_pants",
+    "count": 1,
+    "ingredients": [
+      "naturesaura:sky_ingot",
+      "naturesaura:sky_ingot",
+      "naturesaura:sky_ingot",
+      "naturesaura:sky_ingot",
+      "",
+      "naturesaura:sky_ingot",
+      "naturesaura:sky_ingot",
+      "",
+      "naturesaura:sky_ingot"
+    ]
+  },
+  "naturesaura:sky_pickaxe": {
+    "result": "naturesaura:sky_pickaxe",
+    "count": 1,
+    "ingredients": [
+      "naturesaura:sky_ingot",
+      "naturesaura:sky_ingot",
+      "naturesaura:sky_ingot",
+      "",
+      "naturesaura:ancient_stick",
+      "",
+      "",
+      "naturesaura:ancient_stick",
+      ""
+    ]
+  },
+  "naturesaura:sky_shoes": {
+    "result": "naturesaura:sky_shoes",
+    "count": 1,
+    "ingredients": [
+      "naturesaura:sky_ingot",
+      "",
+      "naturesaura:sky_ingot",
+      "naturesaura:sky_ingot",
+      "",
+      "naturesaura:sky_ingot",
+      "",
+      "",
+      ""
+    ]
+  },
+  "naturesaura:sky_shovel": {
+    "result": "naturesaura:sky_shovel",
+    "count": 1,
+    "ingredients": [
+      "naturesaura:sky_ingot",
+      "",
+      "",
+      "naturesaura:ancient_stick",
+      "",
+      "",
+      "naturesaura:ancient_stick",
+      "",
+      ""
+    ]
+  },
+  "naturesaura:sky_sword": {
+    "result": "naturesaura:sky_sword",
+    "count": 1,
+    "ingredients": [
+      "naturesaura:sky_ingot",
+      "",
+      "",
+      "naturesaura:sky_ingot",
+      "",
+      "",
+      "naturesaura:ancient_stick",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:skilletitem": {
+    "result": "pamhc2foodcore:skilletitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:copper_ingot",
+      "",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      "minecraft:stick"
+    ]
+  }
+}

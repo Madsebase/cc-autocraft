@@ -1,0 +1,62 @@
+{
+  "occultism:iesnium_block": {
+    "result": "occultism:iesnium_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iesnium",
+      "minecraft:iesnium",
+      "minecraft:iesnium",
+      "minecraft:iesnium",
+      "minecraft:iesnium",
+      "minecraft:iesnium",
+      "minecraft:iesnium",
+      "minecraft:iesnium",
+      "minecraft:iesnium"
+    ]
+  },
+  "occultism:iesnium_ingot": {
+    "result": "occultism:iesnium_ingot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iesnium",
+      "minecraft:iesnium",
+      "minecraft:iesnium",
+      "minecraft:iesnium",
+      "minecraft:iesnium",
+      "minecraft:iesnium",
+      "minecraft:iesnium",
+      "minecraft:iesnium",
+      "minecraft:iesnium"
+    ]
+  },
+  "occultism:iesnium_nugget": {
+    "result": "occultism:iesnium_nugget",
+    "count": 9,
+    "ingredients": [
+      "minecraft:iesnium",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "occultism:iesnium_pickaxe": {
+    "result": "occultism:iesnium_pickaxe",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iesnium",
+      "minecraft:iesnium",
+      "minecraft:iesnium",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  }
+}

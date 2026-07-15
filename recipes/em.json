@@ -1,0 +1,917 @@
+{
+  "actuallyadditions:empowerer": {
+    "result": "actuallyadditions:empowerer",
+    "count": 1,
+    "ingredients": [
+      "",
+      "actuallyadditions:restonia_crystal",
+      "",
+      "",
+      "actuallyadditions:double_battery",
+      "",
+      "actuallyadditions:iron_casing",
+      "actuallyadditions:display_stand",
+      "actuallyadditions:iron_casing"
+    ]
+  },
+  "actuallyadditions:empty_cup": {
+    "result": "actuallyadditions:empty_cup",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone",
+      "",
+      "minecraft:stone",
+      "minecraft:stone",
+      "actuallyadditions:coffee_beans",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone"
+    ]
+  },
+  "actuallyadditions:emeradic_crystal": {
+    "result": "actuallyadditions:emeradic_crystal",
+    "count": 9,
+    "ingredients": [
+      "actuallyadditions:emeradic_crystal_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "actuallyadditions:emeradic_crystal_block": {
+    "result": "actuallyadditions:emeradic_crystal_block",
+    "count": 1,
+    "ingredients": [
+      "actuallyadditions:emeradic_crystal",
+      "actuallyadditions:emeradic_crystal",
+      "actuallyadditions:emeradic_crystal",
+      "actuallyadditions:emeradic_crystal",
+      "actuallyadditions:emeradic_crystal",
+      "actuallyadditions:emeradic_crystal",
+      "actuallyadditions:emeradic_crystal",
+      "actuallyadditions:emeradic_crystal",
+      "actuallyadditions:emeradic_crystal"
+    ]
+  },
+  "actuallyadditions:empowered_diamatine_crystal_block": {
+    "result": "actuallyadditions:empowered_diamatine_crystal_block",
+    "count": 1,
+    "ingredients": [
+      "actuallyadditions:empowered_diamatine_crystal",
+      "actuallyadditions:empowered_diamatine_crystal",
+      "actuallyadditions:empowered_diamatine_crystal",
+      "actuallyadditions:empowered_diamatine_crystal",
+      "actuallyadditions:empowered_diamatine_crystal",
+      "actuallyadditions:empowered_diamatine_crystal",
+      "actuallyadditions:empowered_diamatine_crystal",
+      "actuallyadditions:empowered_diamatine_crystal",
+      "actuallyadditions:empowered_diamatine_crystal"
+    ]
+  },
+  "actuallyadditions:empowered_emeradic_crystal_block": {
+    "result": "actuallyadditions:empowered_emeradic_crystal_block",
+    "count": 1,
+    "ingredients": [
+      "actuallyadditions:empowered_emeradic_crystal",
+      "actuallyadditions:empowered_emeradic_crystal",
+      "actuallyadditions:empowered_emeradic_crystal",
+      "actuallyadditions:empowered_emeradic_crystal",
+      "actuallyadditions:empowered_emeradic_crystal",
+      "actuallyadditions:empowered_emeradic_crystal",
+      "actuallyadditions:empowered_emeradic_crystal",
+      "actuallyadditions:empowered_emeradic_crystal",
+      "actuallyadditions:empowered_emeradic_crystal"
+    ]
+  },
+  "actuallyadditions:empowered_enori_crystal_block": {
+    "result": "actuallyadditions:empowered_enori_crystal_block",
+    "count": 1,
+    "ingredients": [
+      "actuallyadditions:empowered_enori_crystal",
+      "actuallyadditions:empowered_enori_crystal",
+      "actuallyadditions:empowered_enori_crystal",
+      "actuallyadditions:empowered_enori_crystal",
+      "actuallyadditions:empowered_enori_crystal",
+      "actuallyadditions:empowered_enori_crystal",
+      "actuallyadditions:empowered_enori_crystal",
+      "actuallyadditions:empowered_enori_crystal",
+      "actuallyadditions:empowered_enori_crystal"
+    ]
+  },
+  "actuallyadditions:empowered_palis_crystal_block": {
+    "result": "actuallyadditions:empowered_palis_crystal_block",
+    "count": 1,
+    "ingredients": [
+      "actuallyadditions:empowered_palis_crystal",
+      "actuallyadditions:empowered_palis_crystal",
+      "actuallyadditions:empowered_palis_crystal",
+      "actuallyadditions:empowered_palis_crystal",
+      "actuallyadditions:empowered_palis_crystal",
+      "actuallyadditions:empowered_palis_crystal",
+      "actuallyadditions:empowered_palis_crystal",
+      "actuallyadditions:empowered_palis_crystal",
+      "actuallyadditions:empowered_palis_crystal"
+    ]
+  },
+  "actuallyadditions:empowered_restonia_crystal_block": {
+    "result": "actuallyadditions:empowered_restonia_crystal_block",
+    "count": 1,
+    "ingredients": [
+      "actuallyadditions:empowered_restonia_crystal",
+      "actuallyadditions:empowered_restonia_crystal",
+      "actuallyadditions:empowered_restonia_crystal",
+      "actuallyadditions:empowered_restonia_crystal",
+      "actuallyadditions:empowered_restonia_crystal",
+      "actuallyadditions:empowered_restonia_crystal",
+      "actuallyadditions:empowered_restonia_crystal",
+      "actuallyadditions:empowered_restonia_crystal",
+      "actuallyadditions:empowered_restonia_crystal"
+    ]
+  },
+  "actuallyadditions:empowered_void_crystal_block": {
+    "result": "actuallyadditions:empowered_void_crystal_block",
+    "count": 1,
+    "ingredients": [
+      "actuallyadditions:empowered_void_crystal",
+      "actuallyadditions:empowered_void_crystal",
+      "actuallyadditions:empowered_void_crystal",
+      "actuallyadditions:empowered_void_crystal",
+      "actuallyadditions:empowered_void_crystal",
+      "actuallyadditions:empowered_void_crystal",
+      "actuallyadditions:empowered_void_crystal",
+      "actuallyadditions:empowered_void_crystal",
+      "actuallyadditions:empowered_void_crystal"
+    ]
+  },
+  "actuallyadditions:emeradic_crystal_shard": {
+    "result": "actuallyadditions:emeradic_crystal_shard",
+    "count": 9,
+    "ingredients": [
+      "actuallyadditions:emeradic_crystal",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "actuallyadditions:empowered_diamatine_crystal": {
+    "result": "actuallyadditions:empowered_diamatine_crystal",
+    "count": 9,
+    "ingredients": [
+      "actuallyadditions:empowered_diamatine_crystal_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "actuallyadditions:empowered_emeradic_crystal": {
+    "result": "actuallyadditions:empowered_emeradic_crystal",
+    "count": 9,
+    "ingredients": [
+      "actuallyadditions:empowered_emeradic_crystal_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "actuallyadditions:empowered_enori_crystal": {
+    "result": "actuallyadditions:empowered_enori_crystal",
+    "count": 9,
+    "ingredients": [
+      "actuallyadditions:empowered_enori_crystal_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "actuallyadditions:empowered_palis_crystal": {
+    "result": "actuallyadditions:empowered_palis_crystal",
+    "count": 9,
+    "ingredients": [
+      "actuallyadditions:empowered_palis_crystal_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "actuallyadditions:empowered_restonia_crystal": {
+    "result": "actuallyadditions:empowered_restonia_crystal",
+    "count": 9,
+    "ingredients": [
+      "actuallyadditions:empowered_restonia_crystal_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "actuallyadditions:empowered_void_crystal": {
+    "result": "actuallyadditions:empowered_void_crystal",
+    "count": 9,
+    "ingredients": [
+      "actuallyadditions:empowered_void_crystal_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:emberstone_block_1x": {
+    "result": "allthecompressed:emberstone_block_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:emberstone_block_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:emberstone_block_2x": {
+    "result": "allthecompressed:emberstone_block_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:emberstone_block_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:emberstone_block_3x": {
+    "result": "allthecompressed:emberstone_block_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:emberstone_block_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:emberstone_block_4x": {
+    "result": "allthecompressed:emberstone_block_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:emberstone_block_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:emberstone_block_5x": {
+    "result": "allthecompressed:emberstone_block_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:emberstone_block_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:emberstone_block_6x": {
+    "result": "allthecompressed:emberstone_block_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:emberstone_block_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:emberstone_block_7x": {
+    "result": "allthecompressed:emberstone_block_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:emberstone_block_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:emberstone_block_8x": {
+    "result": "allthecompressed:emberstone_block_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:emberstone_block_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:emberstone_block_9x": {
+    "result": "allthecompressed:emberstone_block_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:emberstone_block_8x",
+      "allthecompressed:emberstone_block_8x",
+      "allthecompressed:emberstone_block_8x",
+      "allthecompressed:emberstone_block_8x",
+      "allthecompressed:emberstone_block_8x",
+      "allthecompressed:emberstone_block_8x",
+      "allthecompressed:emberstone_block_8x",
+      "allthecompressed:emberstone_block_8x",
+      "allthecompressed:emberstone_block_8x"
+    ]
+  },
+  "allthecompressed:emerald_block_1x": {
+    "result": "allthecompressed:emerald_block_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:emerald_block_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:emerald_block_2x": {
+    "result": "allthecompressed:emerald_block_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:emerald_block_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:emerald_block_3x": {
+    "result": "allthecompressed:emerald_block_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:emerald_block_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:emerald_block_4x": {
+    "result": "allthecompressed:emerald_block_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:emerald_block_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:emerald_block_5x": {
+    "result": "allthecompressed:emerald_block_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:emerald_block_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:emerald_block_6x": {
+    "result": "allthecompressed:emerald_block_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:emerald_block_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:emerald_block_7x": {
+    "result": "allthecompressed:emerald_block_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:emerald_block_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:emerald_block_8x": {
+    "result": "allthecompressed:emerald_block_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:emerald_block_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:emerald_block_9x": {
+    "result": "allthecompressed:emerald_block_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:emerald_block_8x",
+      "allthecompressed:emerald_block_8x",
+      "allthecompressed:emerald_block_8x",
+      "allthecompressed:emerald_block_8x",
+      "allthecompressed:emerald_block_8x",
+      "allthecompressed:emerald_block_8x",
+      "allthecompressed:emerald_block_8x",
+      "allthecompressed:emerald_block_8x",
+      "allthecompressed:emerald_block_8x"
+    ]
+  },
+  "aoa3:emberstone_block": {
+    "result": "aoa3:emberstone_block",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:emberstone_block_1x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:emerald_block": {
+    "result": "minecraft:emerald_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:emerald",
+      "minecraft:emerald",
+      "minecraft:emerald",
+      "minecraft:emerald",
+      "minecraft:emerald",
+      "minecraft:emerald",
+      "minecraft:emerald",
+      "minecraft:emerald",
+      "minecraft:emerald"
+    ]
+  },
+  "create:empty_blaze_burner": {
+    "result": "create:empty_blaze_burner",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:iron",
+      "",
+      "minecraft:iron",
+      "minecraft:netherracks",
+      "minecraft:iron",
+      "",
+      "minecraft:iron",
+      ""
+    ]
+  },
+  "create:empty_schematic": {
+    "result": "create:empty_schematic",
+    "count": 1,
+    "ingredients": [
+      "minecraft:paper",
+      "minecraft:light_blue",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dysoncubeproject:em_railejector_controller": {
+    "result": "dysoncubeproject:em_railejector_controller",
+    "count": 1,
+    "ingredients": [
+      "minecraft:diamond",
+      "minecraft:redstone",
+      "dysoncubeproject:beam",
+      "minecraft:redstone",
+      "minecraft:copper",
+      "dysoncubeproject:beam",
+      "minecraft:smooth_stone_slab",
+      "minecraft:smooth_stone_slab",
+      "minecraft:smooth_stone_slab"
+    ]
+  },
+  "extendedae:emc_io_bus_upgrade": {
+    "result": "extendedae:emc_io_bus_upgrade",
+    "count": 1,
+    "ingredients": [
+      "extendedae:ex_emc_export_bus_part",
+      "minecraft:ingots",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "extendedae:emc_interface_upgrade": {
+    "result": "extendedae:emc_interface_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:extended_emc_interface",
+      "minecraft:ingots",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "generatorgalore:emerald_generator_64x": {
+    "result": "generatorgalore:emerald_generator_64x",
+    "count": 1,
+    "ingredients": [
+      "generatorgalore:emerald_generator_8x",
+      "generatorgalore:emerald_generator_8x",
+      "generatorgalore:emerald_generator_8x",
+      "generatorgalore:emerald_generator_8x",
+      "minecraft:conduit",
+      "generatorgalore:emerald_generator_8x",
+      "generatorgalore:emerald_generator_8x",
+      "generatorgalore:emerald_generator_8x",
+      "generatorgalore:emerald_generator_8x"
+    ]
+  },
+  "generatorgalore:emerald_generator_8x": {
+    "result": "generatorgalore:emerald_generator_8x",
+    "count": 1,
+    "ingredients": [
+      "generatorgalore:emerald_generator",
+      "generatorgalore:emerald_generator",
+      "generatorgalore:emerald_generator",
+      "generatorgalore:emerald_generator",
+      "minecraft:echo_shard",
+      "generatorgalore:emerald_generator",
+      "generatorgalore:emerald_generator",
+      "generatorgalore:emerald_generator",
+      "generatorgalore:emerald_generator"
+    ]
+  },
+  "generatorgalore:emerald_generator": {
+    "result": "generatorgalore:emerald_generator",
+    "count": 1,
+    "ingredients": [
+      "minecraft:emerald",
+      "minecraft:emerald",
+      "minecraft:emerald",
+      "minecraft:emerald",
+      "generatorgalore:diamond_generator",
+      "minecraft:emerald",
+      "minecraft:emerald",
+      "minecraft:redstone",
+      "minecraft:emerald"
+    ]
+  },
+  "herbsandharvest:empty_pot": {
+    "result": "herbsandharvest:empty_pot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_nugget",
+      "",
+      "minecraft:iron_nugget",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "immersiveengineering:empty_casing": {
+    "result": "immersiveengineering:empty_casing",
+    "count": 5,
+    "ingredients": [
+      "minecraft:copper",
+      "",
+      "minecraft:copper",
+      "minecraft:copper",
+      "",
+      "minecraft:copper",
+      "",
+      "minecraft:copper",
+      ""
+    ]
+  },
+  "immersiveengineering:empty_shell": {
+    "result": "immersiveengineering:empty_shell",
+    "count": 3,
+    "ingredients": [
+      "minecraft:paper",
+      "minecraft:red",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:red",
+      "minecraft:paper",
+      "",
+      "minecraft:copper",
+      ""
+    ]
+  },
+  "ironfurnaces:emerald_furnace": {
+    "result": "ironfurnaces:emerald_furnace",
+    "count": 1,
+    "ingredients": [
+      "minecraft:emerald",
+      "minecraft:emerald",
+      "minecraft:emerald",
+      "minecraft:emerald",
+      "minecraft:diamond",
+      "minecraft:emerald",
+      "minecraft:emerald",
+      "minecraft:emerald",
+      "minecraft:emerald"
+    ]
+  },
+  "irons_spellbooks:emerald_stoneplate_ring": {
+    "result": "irons_spellbooks:emerald_stoneplate_ring",
+    "count": 1,
+    "ingredients": [
+      "minecraft:experience_bottle",
+      "",
+      "",
+      "",
+      "irons_spellbooks:mithril_scrap",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mekanismcovers:empty_cover": {
+    "result": "mekanismcovers:empty_cover",
+    "count": 4,
+    "ingredients": [
+      "minecraft:osmium",
+      "minecraft:wood",
+      "minecraft:osmium",
+      "minecraft:wood",
+      "minecraft:glass",
+      "minecraft:wood",
+      "minecraft:osmium",
+      "minecraft:wood",
+      "minecraft:osmium"
+    ]
+  },
+  "merrymaking:empty_tray": {
+    "result": "merrymaking:empty_tray",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dark_oak_pressure_plate",
+      "minecraft:dark_oak_pressure_plate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:emerald": {
+    "result": "minecraft:emerald",
+    "count": 1,
+    "ingredients": [
+      "minecraft:emerald",
+      "minecraft:emerald",
+      "minecraft:emerald",
+      "minecraft:emerald",
+      "minecraft:emerald",
+      "minecraft:emerald",
+      "minecraft:emerald",
+      "minecraft:emerald",
+      "minecraft:emerald"
+    ]
+  },
+  "minecraft:emerald_ore": {
+    "result": "minecraft:emerald_ore",
+    "count": 1,
+    "ingredients": [
+      "minecraft:deepslate_emerald_ore",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:emerald_dust": {
+    "result": "modern_industrialization:emerald_dust",
+    "count": 1,
+    "ingredients": [
+      "minecraft:emerald",
+      "minecraft:emerald",
+      "minecraft:emerald",
+      "minecraft:emerald",
+      "modern_industrialization:emerald_tiny_dust",
+      "minecraft:emerald",
+      "minecraft:emerald",
+      "minecraft:emerald",
+      "minecraft:emerald"
+    ]
+  },
+  "modern_industrialization:emerald_tiny_dust": {
+    "result": "modern_industrialization:emerald_tiny_dust",
+    "count": 9,
+    "ingredients": [
+      "modern_industrialization:emerald_dust",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:embarking_track_kit": {
+    "result": "railcraft:embarking_track_kit",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "railcraft:track_parts",
+      "minecraft:ender_pearl",
+      "minecraft:lead",
+      "minecraft:redstone",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:empty_detector": {
+    "result": "railcraft:empty_detector",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_pressure_plate",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks"
+    ]
+  },
+  "reliquary:empty_potion_vial": {
+    "result": "reliquary:empty_potion_vial",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glass",
+      "",
+      "minecraft:glass",
+      "minecraft:glass",
+      "",
+      "minecraft:glass",
+      "",
+      "minecraft:glass",
+      ""
+    ]
+  },
+  "securitycraft:emerald_mine": {
+    "result": "securitycraft:emerald_mine",
+    "count": 1,
+    "ingredients": [
+      "minecraft:emerald_ore",
+      "securitycraft:mine",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgear:emerald_shard": {
+    "result": "silentgear:emerald_shard",
+    "count": 9,
+    "ingredients": [
+      "minecraft:emerald",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

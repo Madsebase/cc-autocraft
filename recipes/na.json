@@ -1,0 +1,422 @@
+{
+  "aether:nature_staff": {
+    "result": "aether:nature_staff",
+    "count": 1,
+    "ingredients": [
+      "minecraft:zanite",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:name_tag": {
+    "result": "minecraft:name_tag",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black",
+      "minecraft:string",
+      "create:cardboard",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:navy_carpet": {
+    "result": "dyenamics:navy_carpet",
+    "count": 3,
+    "ingredients": [
+      "dyenamics:navy_wool",
+      "dyenamics:navy_wool",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:navy_candle": {
+    "result": "dyenamics:navy_candle",
+    "count": 1,
+    "ingredients": [
+      "minecraft:candle",
+      "minecraft:navy",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:navy_concrete_powder": {
+    "result": "dyenamics:navy_concrete_powder",
+    "count": 8,
+    "ingredients": [
+      "minecraft:navy",
+      "minecraft:sand",
+      "minecraft:sand",
+      "minecraft:sand",
+      "minecraft:sand",
+      "minecraft:gravel",
+      "minecraft:gravel",
+      "minecraft:gravel",
+      "minecraft:gravel"
+    ]
+  },
+  "dyenamics:navy_dye": {
+    "result": "dyenamics:navy_dye",
+    "count": 2,
+    "ingredients": [
+      "minecraft:black",
+      "minecraft:blue",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:navy_stained_glass": {
+    "result": "dyenamics:navy_stained_glass",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:navy",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass"
+    ]
+  },
+  "dyenamics:navy_stained_glass_pane": {
+    "result": "dyenamics:navy_stained_glass_pane",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:navy",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane"
+    ]
+  },
+  "dyenamics:navy_terracotta": {
+    "result": "dyenamics:navy_terracotta",
+    "count": 8,
+    "ingredients": [
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:navy",
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:terracotta"
+    ]
+  },
+  "dyenamics:navy_wool": {
+    "result": "dyenamics:navy_wool",
+    "count": 1,
+    "ingredients": [
+      "minecraft:navy",
+      "minecraft:white_wool",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:navy_banner": {
+    "result": "dyenamics:navy_banner",
+    "count": 1,
+    "ingredients": [
+      "dyenamics:navy_wool",
+      "dyenamics:navy_wool",
+      "dyenamics:navy_wool",
+      "dyenamics:navy_wool",
+      "dyenamics:navy_wool",
+      "dyenamics:navy_wool",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "dyenamics:navy_bed": {
+    "result": "dyenamics:navy_bed",
+    "count": 1,
+    "ingredients": [
+      "minecraft:beds",
+      "minecraft:navy",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:navy_rockwool": {
+    "result": "dyenamics:navy_rockwool",
+    "count": 1,
+    "ingredients": [
+      "thermal:white_rockwool",
+      "minecraft:navy",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "irons_spellbooks:nature_rune": {
+    "result": "irons_spellbooks:nature_rune",
+    "count": 1,
+    "ingredients": [
+      "minecraft:nature_focus",
+      "minecraft:nature_focus",
+      "minecraft:nature_focus",
+      "minecraft:nature_focus",
+      "irons_spellbooks:blank_rune",
+      "minecraft:nature_focus",
+      "minecraft:nature_focus",
+      "minecraft:nature_focus",
+      "minecraft:nature_focus"
+    ]
+  },
+  "irons_spellbooks:nature_upgrade_orb": {
+    "result": "irons_spellbooks:nature_upgrade_orb",
+    "count": 1,
+    "ingredients": [
+      "irons_spellbooks:nature_rune",
+      "irons_spellbooks:nature_rune",
+      "irons_spellbooks:nature_rune",
+      "irons_spellbooks:nature_rune",
+      "irons_spellbooks:upgrade_orb",
+      "irons_spellbooks:nature_rune",
+      "irons_spellbooks:nature_rune",
+      "irons_spellbooks:nature_rune",
+      "irons_spellbooks:nature_rune"
+    ]
+  },
+  "little_big_redstone:nand_gate": {
+    "result": "little_big_redstone:nand_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone_torch",
+      "",
+      "",
+      "minecraft:redstone",
+      "little_big_redstone:redstone_bit",
+      "minecraft:redstone",
+      "minecraft:redstone_torch",
+      "",
+      ""
+    ]
+  },
+  "morered:nand_2_gate": {
+    "result": "morered:nand_2_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone",
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:redstone_torch",
+      "minecraft:redstone",
+      "minecraft:redstone_torch",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone"
+    ]
+  },
+  "morered:nand_gate": {
+    "result": "morered:nand_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone",
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:redstone_torch",
+      "minecraft:redstone",
+      "minecraft:redstone_torch",
+      "minecraft:stone",
+      "minecraft:redstone_torch",
+      "minecraft:stone"
+    ]
+  },
+  "mysticalagriculture:nature_agglomeratio": {
+    "result": "mysticalagriculture:nature_agglomeratio",
+    "count": 1,
+    "ingredients": [
+      "minecraft:pumpkin",
+      "minecraft:potato",
+      "",
+      "minecraft:cactus",
+      "minecraft:sugar_cane",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:nautilus_shell": {
+    "result": "minecraft:nautilus_shell",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:prismarine_essence",
+      "mysticalagriculture:fish_essence",
+      "mysticalagriculture:prismarine_essence",
+      "mysticalagriculture:fish_essence",
+      "mysticalagriculture:prismarine_essence",
+      "mysticalagriculture:fish_essence",
+      "mysticalagriculture:prismarine_essence",
+      "mysticalagriculture:fish_essence",
+      "mysticalagriculture:prismarine_essence"
+    ]
+  },
+  "naturescompass:naturescompass": {
+    "result": "naturescompass:naturescompass",
+    "count": 1,
+    "ingredients": [
+      "naturescompass:naturescompass",
+      "minecraft:compass",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:naanitem": {
+    "result": "pamhc2foodextended:naanitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_skillet",
+      "minecraft:dough",
+      "minecraft:yogurt",
+      "minecraft:cookingoil",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:nachoesitem": {
+    "result": "pamhc2foodextended:nachoesitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:tortillachips",
+      "minecraft:cheese",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:naga_banner_pattern": {
+    "result": "twilightforest:naga_banner_pattern",
+    "count": 1,
+    "ingredients": [
+      "minecraft:paper",
+      "twilightforest:naga_trophy",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:naga_chestplate": {
+    "result": "twilightforest:naga_chestplate",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:naga_scale",
+      "",
+      "twilightforest:naga_scale",
+      "twilightforest:naga_scale",
+      "twilightforest:naga_scale",
+      "twilightforest:naga_scale",
+      "twilightforest:naga_scale",
+      "twilightforest:naga_scale",
+      "twilightforest:naga_scale"
+    ]
+  },
+  "twilightforest:naga_leggings": {
+    "result": "twilightforest:naga_leggings",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:naga_scale",
+      "twilightforest:naga_scale",
+      "twilightforest:naga_scale",
+      "twilightforest:naga_scale",
+      "",
+      "twilightforest:naga_scale",
+      "twilightforest:naga_scale",
+      "",
+      "twilightforest:naga_scale"
+    ]
+  },
+  "twilightforest:nagastone_stairs_left": {
+    "result": "twilightforest:nagastone_stairs_left",
+    "count": 8,
+    "ingredients": [
+      "twilightforest:etched_nagastone",
+      "",
+      "",
+      "twilightforest:etched_nagastone",
+      "twilightforest:etched_nagastone",
+      "",
+      "twilightforest:etched_nagastone",
+      "twilightforest:etched_nagastone",
+      "twilightforest:etched_nagastone"
+    ]
+  },
+  "twilightforest:nagastone_stairs_right": {
+    "result": "twilightforest:nagastone_stairs_right",
+    "count": 8,
+    "ingredients": [
+      "twilightforest:etched_nagastone",
+      "twilightforest:etched_nagastone",
+      "twilightforest:etched_nagastone",
+      "",
+      "twilightforest:etched_nagastone",
+      "twilightforest:etched_nagastone",
+      "",
+      "",
+      "twilightforest:etched_nagastone"
+    ]
+  }
+}

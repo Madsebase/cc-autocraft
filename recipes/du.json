@@ -1,0 +1,527 @@
+{
+  "allthecompressed:dust_1x": {
+    "result": "allthecompressed:dust_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:dust_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:dust_2x": {
+    "result": "allthecompressed:dust_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:dust_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:dust_3x": {
+    "result": "allthecompressed:dust_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:dust_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:dust_4x": {
+    "result": "allthecompressed:dust_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:dust_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:dust_5x": {
+    "result": "allthecompressed:dust_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:dust_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:dust_6x": {
+    "result": "allthecompressed:dust_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:dust_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:dust_7x": {
+    "result": "allthecompressed:dust_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:dust_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:dust_8x": {
+    "result": "allthecompressed:dust_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:dust_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:dust_9x": {
+    "result": "allthecompressed:dust_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:dust_8x",
+      "allthecompressed:dust_8x",
+      "allthecompressed:dust_8x",
+      "allthecompressed:dust_8x",
+      "allthecompressed:dust_8x",
+      "allthecompressed:dust_8x",
+      "allthecompressed:dust_8x",
+      "allthecompressed:dust_8x",
+      "allthecompressed:dust_8x"
+    ]
+  },
+  "exdeorum:dust": {
+    "result": "exdeorum:dust",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:dust_1x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_nouveau:dull_trinket": {
+    "result": "ars_nouveau:dull_trinket",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:iron",
+      "",
+      "minecraft:iron",
+      "minecraft:source",
+      "minecraft:iron",
+      "",
+      "minecraft:iron",
+      ""
+    ]
+  },
+  "eternal_starlight:dusted_bricks": {
+    "result": "eternal_starlight:dusted_bricks",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:dusted_shard",
+      "eternal_starlight:dusted_shard",
+      "eternal_starlight:dusted_shard",
+      "eternal_starlight:dusted_shard",
+      "eternal_starlight:dusted_shard",
+      "eternal_starlight:dusted_shard",
+      "eternal_starlight:dusted_shard",
+      "eternal_starlight:dusted_shard",
+      "eternal_starlight:dusted_shard"
+    ]
+  },
+  "eternal_starlight:dusted_brick_slab": {
+    "result": "eternal_starlight:dusted_brick_slab",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:dusted_bricks",
+      "eternal_starlight:dusted_bricks",
+      "eternal_starlight:dusted_bricks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:dusted_brick_stairs": {
+    "result": "eternal_starlight:dusted_brick_stairs",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:dusted_bricks",
+      "",
+      "",
+      "eternal_starlight:dusted_bricks",
+      "eternal_starlight:dusted_bricks",
+      "",
+      "eternal_starlight:dusted_bricks",
+      "eternal_starlight:dusted_bricks",
+      "eternal_starlight:dusted_bricks"
+    ]
+  },
+  "eternal_starlight:dusted_brick_wall": {
+    "result": "eternal_starlight:dusted_brick_wall",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:dusted_bricks",
+      "eternal_starlight:dusted_bricks",
+      "eternal_starlight:dusted_bricks",
+      "eternal_starlight:dusted_bricks",
+      "eternal_starlight:dusted_bricks",
+      "eternal_starlight:dusted_bricks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "evilcraft:dull_dust": {
+    "result": "evilcraft:dull_dust",
+    "count": 4,
+    "ingredients": [
+      "minecraft:sugar",
+      "minecraft:sugar",
+      "minecraft:sugar",
+      "minecraft:gunpowder",
+      "minecraft:sugar",
+      "minecraft:gunpowder",
+      "minecraft:sugar",
+      "minecraft:sugar",
+      "minecraft:sugar"
+    ]
+  },
+  "immersiveengineering:dust_constantan": {
+    "result": "immersiveengineering:dust_constantan",
+    "count": 2,
+    "ingredients": [
+      "minecraft:copper",
+      "minecraft:nickel",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:dust_electrum": {
+    "result": "immersiveengineering:dust_electrum",
+    "count": 2,
+    "ingredients": [
+      "minecraft:gold",
+      "minecraft:silver",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:dune_armor_trim_smithing_template": {
+    "result": "minecraft:dune_armor_trim_smithing_template",
+    "count": 2,
+    "ingredients": [
+      "minecraft:diamond",
+      "minecraft:dune_armor_trim_smithing_template",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:sandstone",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond"
+    ]
+  },
+  "oritech:duratium_block": {
+    "result": "oritech:duratium_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:duratium",
+      "minecraft:duratium",
+      "minecraft:duratium",
+      "minecraft:duratium",
+      "minecraft:duratium",
+      "minecraft:duratium",
+      "minecraft:duratium",
+      "minecraft:duratium",
+      "minecraft:duratium"
+    ]
+  },
+  "oritech:duratium_ingot": {
+    "result": "oritech:duratium_ingot",
+    "count": 9,
+    "ingredients": [
+      "minecraft:duratium",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "oritech:dubios_container": {
+    "result": "oritech:dubios_container",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:plastic",
+      "",
+      "oritech:enderic_compound",
+      "oritech:adamant_ingot",
+      "oritech:enderic_compound",
+      "oritech:enderic_compound",
+      "oritech:adamant_ingot",
+      "oritech:enderic_compound"
+    ]
+  },
+  "pamhc2foodextended:durianjellyitem": {
+    "result": "pamhc2foodextended:durianjellyitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:durian",
+      "minecraft:sugar",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:durianjellysandwichitem": {
+    "result": "pamhc2foodextended:durianjellysandwichitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:durianjelly",
+      "minecraft:bread",
+      "minecraft:nutbutters",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:durianjellytoastitem": {
+    "result": "pamhc2foodextended:durianjellytoastitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:durianjelly",
+      "minecraft:toast",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:durianjuiceitem": {
+    "result": "pamhc2foodextended:durianjuiceitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_juicer",
+      "minecraft:durian",
+      "minecraft:durian",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:durianpieitem": {
+    "result": "pamhc2foodextended:durianpieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:durian",
+      "minecraft:sugar",
+      "minecraft:dough",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:duriansmoothieitem": {
+    "result": "pamhc2foodextended:duriansmoothieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:durian",
+      "minecraft:ices",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:durianyogurtitem": {
+    "result": "pamhc2foodextended:durianyogurtitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:durian",
+      "minecraft:yogurt",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2trees:durian_sapling": {
+    "result": "pamhc2trees:durian_sapling",
+    "count": 1,
+    "ingredients": [
+      "pamhc2trees:durianitem",
+      "pamhc2trees:durianitem",
+      "pamhc2trees:durianitem",
+      "pamhc2trees:durianitem",
+      "pamhc2trees:durianitem",
+      "pamhc2trees:durianitem",
+      "pamhc2trees:durianitem",
+      "pamhc2trees:durianitem",
+      "minecraft:saplings"
+    ]
+  },
+  "railcraft:dual_block_signal": {
+    "result": "railcraft:dual_block_signal",
+    "count": 1,
+    "ingredients": [
+      "railcraft:signal_lamp",
+      "railcraft:signal_circuit",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:black",
+      "minecraft:iron_ingot",
+      "railcraft:signal_lamp",
+      "railcraft:receiver_circuit",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "railcraft:dual_distant_signal": {
+    "result": "railcraft:dual_distant_signal",
+    "count": 1,
+    "ingredients": [
+      "railcraft:signal_lamp",
+      "railcraft:receiver_circuit",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:black",
+      "minecraft:iron_ingot",
+      "railcraft:signal_lamp",
+      "railcraft:receiver_circuit",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "railcraft:dual_token_signal": {
+    "result": "railcraft:dual_token_signal",
+    "count": 1,
+    "ingredients": [
+      "railcraft:signal_lamp",
+      "railcraft:radio_circuit",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:black",
+      "minecraft:iron_ingot",
+      "railcraft:signal_lamp",
+      "railcraft:receiver_circuit",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "railcraft:dumping_track_kit": {
+    "result": "railcraft:dumping_track_kit",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "railcraft:track_parts",
+      "minecraft:steel",
+      "minecraft:redstone",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "rftoolsstorage:dump_module": {
+    "result": "rftoolsstorage:dump_module",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:wooden_buttons",
+      "",
+      "minecraft:redstone",
+      "minecraft:iron_ingot",
+      "minecraft:redstone",
+      "",
+      "minecraft:wooden_buttons",
+      ""
+    ]
+  }
+}

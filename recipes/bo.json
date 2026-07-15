@@ -1,0 +1,1952 @@
+{
+  "actuallyadditions:booklet": {
+    "result": "actuallyadditions:booklet",
+    "count": 1,
+    "ingredients": [
+      "actuallyadditions:canola_seeds",
+      "minecraft:paper",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "actuallyadditions:book_pattern": {
+    "result": "actuallyadditions:book_pattern",
+    "count": 1,
+    "ingredients": [
+      "actuallyadditions:booklet",
+      "minecraft:paper",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "aether:book_of_lore": {
+    "result": "aether:book_of_lore",
+    "count": 1,
+    "ingredients": [
+      "minecraft:book",
+      "minecraft:book_of_lore_materials",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:bone_block_1x": {
+    "result": "allthecompressed:bone_block_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:bone_block_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:bone_block_2x": {
+    "result": "allthecompressed:bone_block_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:bone_block_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:bone_block_3x": {
+    "result": "allthecompressed:bone_block_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:bone_block_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:bone_block_4x": {
+    "result": "allthecompressed:bone_block_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:bone_block_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:bone_block_5x": {
+    "result": "allthecompressed:bone_block_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:bone_block_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:bone_block_6x": {
+    "result": "allthecompressed:bone_block_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:bone_block_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:bone_block_7x": {
+    "result": "allthecompressed:bone_block_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:bone_block_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:bone_block_8x": {
+    "result": "allthecompressed:bone_block_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:bone_block_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:bone_block_9x": {
+    "result": "allthecompressed:bone_block_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:bone_block_8x",
+      "allthecompressed:bone_block_8x",
+      "allthecompressed:bone_block_8x",
+      "allthecompressed:bone_block_8x",
+      "allthecompressed:bone_block_8x",
+      "allthecompressed:bone_block_8x",
+      "allthecompressed:bone_block_8x",
+      "allthecompressed:bone_block_8x",
+      "allthecompressed:bone_block_8x"
+    ]
+  },
+  "minecraft:bone_block": {
+    "result": "minecraft:bone_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bone_meal",
+      "minecraft:bone_meal",
+      "minecraft:bone_meal",
+      "minecraft:bone_meal",
+      "minecraft:bone_meal",
+      "minecraft:bone_meal",
+      "minecraft:bone_meal",
+      "minecraft:bone_meal",
+      "minecraft:bone_meal"
+    ]
+  },
+  "apothic_enchanting:boots_tome": {
+    "result": "apothic_enchanting:boots_tome",
+    "count": 4,
+    "ingredients": [
+      "minecraft:book",
+      "",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:blaze_rod",
+      "minecraft:book",
+      "",
+      "",
+      ""
+    ]
+  },
+  "apothic_enchanting:bow_tome": {
+    "result": "apothic_enchanting:bow_tome",
+    "count": 3,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "minecraft:book",
+      "minecraft:blaze_rod",
+      "",
+      "minecraft:book",
+      "",
+      "minecraft:stick",
+      "minecraft:book"
+    ]
+  },
+  "aquaculture:bobber": {
+    "result": "aquaculture:bobber",
+    "count": 1,
+    "ingredients": [
+      "minecraft:clay_ball",
+      "",
+      "",
+      "minecraft:nautilus_shell",
+      "",
+      "",
+      "minecraft:clay_ball",
+      "",
+      ""
+    ]
+  },
+  "minecraft:bone_meal": {
+    "result": "minecraft:bone_meal",
+    "count": 4,
+    "ingredients": [
+      "undergarden:brute_tusk",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_nouveau:bookwyrm_charm": {
+    "result": "ars_nouveau:bookwyrm_charm",
+    "count": 1,
+    "ingredients": [
+      "ars_nouveau:bookwyrm_charm",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "cataclysm:bone_reptile_chestplate": {
+    "result": "cataclysm:bone_reptile_chestplate",
+    "count": 1,
+    "ingredients": [
+      "cataclysm:ancient_metal_ingot",
+      "",
+      "cataclysm:ancient_metal_ingot",
+      "cataclysm:koboleton_bone",
+      "cataclysm:koboleton_bone",
+      "cataclysm:koboleton_bone",
+      "cataclysm:ancient_metal_ingot",
+      "cataclysm:koboleton_bone",
+      "cataclysm:ancient_metal_ingot"
+    ]
+  },
+  "cataclysm:bone_reptile_helmet": {
+    "result": "cataclysm:bone_reptile_helmet",
+    "count": 1,
+    "ingredients": [
+      "cataclysm:ancient_metal_ingot",
+      "",
+      "cataclysm:ancient_metal_ingot",
+      "cataclysm:koboleton_bone",
+      "cataclysm:kobolediator_skull",
+      "cataclysm:koboleton_bone",
+      "",
+      "",
+      ""
+    ]
+  },
+  "connectedglass:borderless_glass": {
+    "result": "connectedglass:borderless_glass",
+    "count": 4,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "",
+      "minecraft:glass",
+      "minecraft:glass",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "connectedglass:borderless_glass_black": {
+    "result": "connectedglass:borderless_glass_black",
+    "count": 8,
+    "ingredients": [
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "minecraft:black",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass"
+    ]
+  },
+  "connectedglass:borderless_glass_black_pane": {
+    "result": "connectedglass:borderless_glass_black_pane",
+    "count": 16,
+    "ingredients": [
+      "connectedglass:borderless_glass_black",
+      "connectedglass:borderless_glass_black",
+      "connectedglass:borderless_glass_black",
+      "connectedglass:borderless_glass_black",
+      "connectedglass:borderless_glass_black",
+      "connectedglass:borderless_glass_black",
+      "",
+      "",
+      ""
+    ]
+  },
+  "connectedglass:borderless_glass_blue": {
+    "result": "connectedglass:borderless_glass_blue",
+    "count": 8,
+    "ingredients": [
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "minecraft:blue",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass"
+    ]
+  },
+  "connectedglass:borderless_glass_blue_pane": {
+    "result": "connectedglass:borderless_glass_blue_pane",
+    "count": 16,
+    "ingredients": [
+      "connectedglass:borderless_glass_blue",
+      "connectedglass:borderless_glass_blue",
+      "connectedglass:borderless_glass_blue",
+      "connectedglass:borderless_glass_blue",
+      "connectedglass:borderless_glass_blue",
+      "connectedglass:borderless_glass_blue",
+      "",
+      "",
+      ""
+    ]
+  },
+  "connectedglass:borderless_glass_brown": {
+    "result": "connectedglass:borderless_glass_brown",
+    "count": 8,
+    "ingredients": [
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "minecraft:brown",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass"
+    ]
+  },
+  "connectedglass:borderless_glass_brown_pane": {
+    "result": "connectedglass:borderless_glass_brown_pane",
+    "count": 16,
+    "ingredients": [
+      "connectedglass:borderless_glass_brown",
+      "connectedglass:borderless_glass_brown",
+      "connectedglass:borderless_glass_brown",
+      "connectedglass:borderless_glass_brown",
+      "connectedglass:borderless_glass_brown",
+      "connectedglass:borderless_glass_brown",
+      "",
+      "",
+      ""
+    ]
+  },
+  "connectedglass:borderless_glass_cyan": {
+    "result": "connectedglass:borderless_glass_cyan",
+    "count": 8,
+    "ingredients": [
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "minecraft:cyan",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass"
+    ]
+  },
+  "connectedglass:borderless_glass_cyan_pane": {
+    "result": "connectedglass:borderless_glass_cyan_pane",
+    "count": 16,
+    "ingredients": [
+      "connectedglass:borderless_glass_cyan",
+      "connectedglass:borderless_glass_cyan",
+      "connectedglass:borderless_glass_cyan",
+      "connectedglass:borderless_glass_cyan",
+      "connectedglass:borderless_glass_cyan",
+      "connectedglass:borderless_glass_cyan",
+      "",
+      "",
+      ""
+    ]
+  },
+  "connectedglass:borderless_glass_gray": {
+    "result": "connectedglass:borderless_glass_gray",
+    "count": 8,
+    "ingredients": [
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "minecraft:gray",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass"
+    ]
+  },
+  "connectedglass:borderless_glass_gray_pane": {
+    "result": "connectedglass:borderless_glass_gray_pane",
+    "count": 16,
+    "ingredients": [
+      "connectedglass:borderless_glass_gray",
+      "connectedglass:borderless_glass_gray",
+      "connectedglass:borderless_glass_gray",
+      "connectedglass:borderless_glass_gray",
+      "connectedglass:borderless_glass_gray",
+      "connectedglass:borderless_glass_gray",
+      "",
+      "",
+      ""
+    ]
+  },
+  "connectedglass:borderless_glass_green": {
+    "result": "connectedglass:borderless_glass_green",
+    "count": 8,
+    "ingredients": [
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "minecraft:green",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass"
+    ]
+  },
+  "connectedglass:borderless_glass_green_pane": {
+    "result": "connectedglass:borderless_glass_green_pane",
+    "count": 16,
+    "ingredients": [
+      "connectedglass:borderless_glass_green",
+      "connectedglass:borderless_glass_green",
+      "connectedglass:borderless_glass_green",
+      "connectedglass:borderless_glass_green",
+      "connectedglass:borderless_glass_green",
+      "connectedglass:borderless_glass_green",
+      "",
+      "",
+      ""
+    ]
+  },
+  "connectedglass:borderless_glass_light_blue": {
+    "result": "connectedglass:borderless_glass_light_blue",
+    "count": 8,
+    "ingredients": [
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "minecraft:light_blue",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass"
+    ]
+  },
+  "connectedglass:borderless_glass_light_blue_pane": {
+    "result": "connectedglass:borderless_glass_light_blue_pane",
+    "count": 16,
+    "ingredients": [
+      "connectedglass:borderless_glass_light_blue",
+      "connectedglass:borderless_glass_light_blue",
+      "connectedglass:borderless_glass_light_blue",
+      "connectedglass:borderless_glass_light_blue",
+      "connectedglass:borderless_glass_light_blue",
+      "connectedglass:borderless_glass_light_blue",
+      "",
+      "",
+      ""
+    ]
+  },
+  "connectedglass:borderless_glass_light_gray": {
+    "result": "connectedglass:borderless_glass_light_gray",
+    "count": 8,
+    "ingredients": [
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "minecraft:light_gray",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass"
+    ]
+  },
+  "connectedglass:borderless_glass_light_gray_pane": {
+    "result": "connectedglass:borderless_glass_light_gray_pane",
+    "count": 16,
+    "ingredients": [
+      "connectedglass:borderless_glass_light_gray",
+      "connectedglass:borderless_glass_light_gray",
+      "connectedglass:borderless_glass_light_gray",
+      "connectedglass:borderless_glass_light_gray",
+      "connectedglass:borderless_glass_light_gray",
+      "connectedglass:borderless_glass_light_gray",
+      "",
+      "",
+      ""
+    ]
+  },
+  "connectedglass:borderless_glass_lime": {
+    "result": "connectedglass:borderless_glass_lime",
+    "count": 8,
+    "ingredients": [
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "minecraft:lime",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass"
+    ]
+  },
+  "connectedglass:borderless_glass_lime_pane": {
+    "result": "connectedglass:borderless_glass_lime_pane",
+    "count": 16,
+    "ingredients": [
+      "connectedglass:borderless_glass_lime",
+      "connectedglass:borderless_glass_lime",
+      "connectedglass:borderless_glass_lime",
+      "connectedglass:borderless_glass_lime",
+      "connectedglass:borderless_glass_lime",
+      "connectedglass:borderless_glass_lime",
+      "",
+      "",
+      ""
+    ]
+  },
+  "connectedglass:borderless_glass_magenta": {
+    "result": "connectedglass:borderless_glass_magenta",
+    "count": 8,
+    "ingredients": [
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "minecraft:magenta",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass"
+    ]
+  },
+  "connectedglass:borderless_glass_magenta_pane": {
+    "result": "connectedglass:borderless_glass_magenta_pane",
+    "count": 16,
+    "ingredients": [
+      "connectedglass:borderless_glass_magenta",
+      "connectedglass:borderless_glass_magenta",
+      "connectedglass:borderless_glass_magenta",
+      "connectedglass:borderless_glass_magenta",
+      "connectedglass:borderless_glass_magenta",
+      "connectedglass:borderless_glass_magenta",
+      "",
+      "",
+      ""
+    ]
+  },
+  "connectedglass:borderless_glass_orange": {
+    "result": "connectedglass:borderless_glass_orange",
+    "count": 8,
+    "ingredients": [
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "minecraft:orange",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass"
+    ]
+  },
+  "connectedglass:borderless_glass_orange_pane": {
+    "result": "connectedglass:borderless_glass_orange_pane",
+    "count": 16,
+    "ingredients": [
+      "connectedglass:borderless_glass_orange",
+      "connectedglass:borderless_glass_orange",
+      "connectedglass:borderless_glass_orange",
+      "connectedglass:borderless_glass_orange",
+      "connectedglass:borderless_glass_orange",
+      "connectedglass:borderless_glass_orange",
+      "",
+      "",
+      ""
+    ]
+  },
+  "connectedglass:borderless_glass_pane": {
+    "result": "connectedglass:borderless_glass_pane",
+    "count": 16,
+    "ingredients": [
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "",
+      "",
+      ""
+    ]
+  },
+  "connectedglass:borderless_glass_pink": {
+    "result": "connectedglass:borderless_glass_pink",
+    "count": 8,
+    "ingredients": [
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "minecraft:pink",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass"
+    ]
+  },
+  "connectedglass:borderless_glass_pink_pane": {
+    "result": "connectedglass:borderless_glass_pink_pane",
+    "count": 16,
+    "ingredients": [
+      "connectedglass:borderless_glass_pink",
+      "connectedglass:borderless_glass_pink",
+      "connectedglass:borderless_glass_pink",
+      "connectedglass:borderless_glass_pink",
+      "connectedglass:borderless_glass_pink",
+      "connectedglass:borderless_glass_pink",
+      "",
+      "",
+      ""
+    ]
+  },
+  "connectedglass:borderless_glass_purple": {
+    "result": "connectedglass:borderless_glass_purple",
+    "count": 8,
+    "ingredients": [
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "minecraft:purple",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass"
+    ]
+  },
+  "connectedglass:borderless_glass_purple_pane": {
+    "result": "connectedglass:borderless_glass_purple_pane",
+    "count": 16,
+    "ingredients": [
+      "connectedglass:borderless_glass_purple",
+      "connectedglass:borderless_glass_purple",
+      "connectedglass:borderless_glass_purple",
+      "connectedglass:borderless_glass_purple",
+      "connectedglass:borderless_glass_purple",
+      "connectedglass:borderless_glass_purple",
+      "",
+      "",
+      ""
+    ]
+  },
+  "connectedglass:borderless_glass_red": {
+    "result": "connectedglass:borderless_glass_red",
+    "count": 8,
+    "ingredients": [
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "minecraft:red",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass"
+    ]
+  },
+  "connectedglass:borderless_glass_red_pane": {
+    "result": "connectedglass:borderless_glass_red_pane",
+    "count": 16,
+    "ingredients": [
+      "connectedglass:borderless_glass_red",
+      "connectedglass:borderless_glass_red",
+      "connectedglass:borderless_glass_red",
+      "connectedglass:borderless_glass_red",
+      "connectedglass:borderless_glass_red",
+      "connectedglass:borderless_glass_red",
+      "",
+      "",
+      ""
+    ]
+  },
+  "connectedglass:borderless_glass_white": {
+    "result": "connectedglass:borderless_glass_white",
+    "count": 8,
+    "ingredients": [
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "minecraft:white",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass"
+    ]
+  },
+  "connectedglass:borderless_glass_white_pane": {
+    "result": "connectedglass:borderless_glass_white_pane",
+    "count": 16,
+    "ingredients": [
+      "connectedglass:borderless_glass_white",
+      "connectedglass:borderless_glass_white",
+      "connectedglass:borderless_glass_white",
+      "connectedglass:borderless_glass_white",
+      "connectedglass:borderless_glass_white",
+      "connectedglass:borderless_glass_white",
+      "",
+      "",
+      ""
+    ]
+  },
+  "connectedglass:borderless_glass_yellow": {
+    "result": "connectedglass:borderless_glass_yellow",
+    "count": 8,
+    "ingredients": [
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "minecraft:yellow",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass"
+    ]
+  },
+  "connectedglass:borderless_glass_yellow_pane": {
+    "result": "connectedglass:borderless_glass_yellow_pane",
+    "count": 16,
+    "ingredients": [
+      "connectedglass:borderless_glass_yellow",
+      "connectedglass:borderless_glass_yellow",
+      "connectedglass:borderless_glass_yellow",
+      "connectedglass:borderless_glass_yellow",
+      "connectedglass:borderless_glass_yellow",
+      "connectedglass:borderless_glass_yellow",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:book": {
+    "result": "minecraft:book",
+    "count": 1,
+    "ingredients": [
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:leather",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:bound_cardboard_block": {
+    "result": "create:bound_cardboard_block",
+    "count": 1,
+    "ingredients": [
+      "create:cardboard_block",
+      "minecraft:string",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "crystalix:bordered_crystalix_glass": {
+    "result": "crystalix:bordered_crystalix_glass",
+    "count": 4,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:iron_ingot",
+      "minecraft:glass",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:glass",
+      "minecraft:iron_ingot",
+      "minecraft:glass"
+    ]
+  },
+  "deeperdarker:bordered_lite_block": {
+    "result": "deeperdarker:bordered_lite_block",
+    "count": 1,
+    "ingredients": [
+      "",
+      "deeperdarker:gloomslate",
+      "",
+      "deeperdarker:gloomslate",
+      "deeperdarker:lite_block",
+      "deeperdarker:gloomslate",
+      "",
+      "deeperdarker:gloomslate",
+      ""
+    ]
+  },
+  "eternal_starlight:bouldershroom_stew": {
+    "result": "eternal_starlight:bouldershroom_stew",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:bouldershroom",
+      "eternal_starlight:glowing_mushroom",
+      "minecraft:bowl",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "evilcraft:bowl_of_promises_dusted": {
+    "result": "evilcraft:bowl_of_promises_dusted",
+    "count": 1,
+    "ingredients": [
+      "evilcraft:bowl_of_promises_empty",
+      "evilcraft:dark_gem_crushed",
+      "evilcraft:dark_gem_crushed",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "evilcraft:bowl_of_promises_empty": {
+    "result": "evilcraft:bowl_of_promises_empty",
+    "count": 1,
+    "ingredients": [
+      "evilcraft:dark_power_gem",
+      "",
+      "evilcraft:dark_power_gem",
+      "",
+      "evilcraft:dark_power_gem",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "forbidden_arcanus:boom_arrow": {
+    "result": "forbidden_arcanus:boom_arrow",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:arrow",
+      "",
+      "minecraft:arrow",
+      "minecraft:tnt",
+      "minecraft:arrow",
+      "",
+      "minecraft:arrow",
+      ""
+    ]
+  },
+  "ftbquests:book": {
+    "result": "ftbquests:book",
+    "count": 1,
+    "ingredients": [
+      "minecraft:book",
+      "minecraft:stone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "herbsandharvest:board": {
+    "result": "herbsandharvest:board",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spruce_slab",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:bone": {
+    "result": "minecraft:bone",
+    "count": 5,
+    "ingredients": [
+      "reliquary:rib_bone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "irons_spellbooks:book_stack": {
+    "result": "irons_spellbooks:book_stack",
+    "count": 1,
+    "ingredients": [
+      "minecraft:book",
+      "",
+      "",
+      "minecraft:book",
+      "",
+      "",
+      "minecraft:book",
+      "",
+      ""
+    ]
+  },
+  "irons_spellbooks:boreal_blade": {
+    "result": "irons_spellbooks:boreal_blade",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "minecraft:mithril",
+      "irons_spellbooks:ice_venom_vial",
+      "minecraft:ice",
+      "",
+      "irons_spellbooks:weapon_parts",
+      "irons_spellbooks:ice_venom_vial",
+      ""
+    ]
+  },
+  "justdirethings:bow_blazegold": {
+    "result": "justdirethings:bow_blazegold",
+    "count": 1,
+    "ingredients": [
+      "minecraft:string",
+      "justdirethings:blazegold_ingot",
+      "",
+      "minecraft:string",
+      "",
+      "justdirethings:blazegold_ingot",
+      "minecraft:string",
+      "justdirethings:blazegold_ingot",
+      ""
+    ]
+  },
+  "justdirethings:bow_celestigem": {
+    "result": "justdirethings:bow_celestigem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:string",
+      "justdirethings:celestigem",
+      "",
+      "minecraft:string",
+      "",
+      "justdirethings:celestigem",
+      "minecraft:string",
+      "justdirethings:celestigem",
+      ""
+    ]
+  },
+  "justdirethings:bow_eclipsealloy": {
+    "result": "justdirethings:bow_eclipsealloy",
+    "count": 1,
+    "ingredients": [
+      "minecraft:string",
+      "justdirethings:eclipsealloy_ingot",
+      "",
+      "minecraft:string",
+      "",
+      "justdirethings:eclipsealloy_ingot",
+      "minecraft:string",
+      "justdirethings:eclipsealloy_ingot",
+      ""
+    ]
+  },
+  "justdirethings:bow_ferricore": {
+    "result": "justdirethings:bow_ferricore",
+    "count": 1,
+    "ingredients": [
+      "minecraft:string",
+      "justdirethings:ferricore_ingot",
+      "",
+      "minecraft:string",
+      "",
+      "justdirethings:ferricore_ingot",
+      "minecraft:string",
+      "justdirethings:ferricore_ingot",
+      ""
+    ]
+  },
+  "mcwholidays:bottom_garland_wall_deco_1": {
+    "result": "mcwholidays:bottom_garland_wall_deco_1",
+    "count": 1,
+    "ingredients": [
+      "minecraft:green_dye",
+      "minecraft:paper",
+      "minecraft:green_dye",
+      "",
+      "minecraft:green_dye",
+      "",
+      "",
+      "minecraft:green_dye",
+      ""
+    ]
+  },
+  "mcwholidays:bottom_garland_wall_deco_2": {
+    "result": "mcwholidays:bottom_garland_wall_deco_2",
+    "count": 1,
+    "ingredients": [
+      "mcwholidays:bottom_garland_wall_deco_1",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mekanism:boiler_casing": {
+    "result": "mekanism:boiler_casing",
+    "count": 4,
+    "ingredients": [
+      "",
+      "modern_industrialization:steel_ingot",
+      "",
+      "modern_industrialization:steel_ingot",
+      "minecraft:iron_ingot",
+      "modern_industrialization:steel_ingot",
+      "",
+      "modern_industrialization:steel_ingot",
+      ""
+    ]
+  },
+  "mekanism:boiler_valve": {
+    "result": "mekanism:boiler_valve",
+    "count": 2,
+    "ingredients": [
+      "",
+      "mekanism:boiler_casing",
+      "",
+      "mekanism:boiler_casing",
+      "minecraft:advanced",
+      "mekanism:boiler_casing",
+      "",
+      "mekanism:boiler_casing",
+      ""
+    ]
+  },
+  "merrymaking:bow": {
+    "result": "merrymaking:bow",
+    "count": 1,
+    "ingredients": [
+      "minecraft:red_carpet",
+      "",
+      "minecraft:red_carpet",
+      "",
+      "minecraft:red_carpet",
+      "",
+      "minecraft:red_carpet",
+      "",
+      "minecraft:red_carpet"
+    ]
+  },
+  "merrymaking:bottle_of_mint": {
+    "result": "merrymaking:bottle_of_mint",
+    "count": 1,
+    "ingredients": [
+      "herbsandharvest:fresh_mint",
+      "minecraft:glass_bottle",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:bolt_armor_trim_smithing_template": {
+    "result": "minecraft:bolt_armor_trim_smithing_template",
+    "count": 2,
+    "ingredients": [
+      "minecraft:diamond",
+      "minecraft:bolt_armor_trim_smithing_template",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:copper_block",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond"
+    ]
+  },
+  "minecraft:bookshelf": {
+    "result": "minecraft:bookshelf",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks"
+    ]
+  },
+  "minecraft:bow": {
+    "result": "minecraft:bow",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "minecraft:string",
+      "minecraft:stick",
+      "",
+      "minecraft:string",
+      "",
+      "minecraft:stick",
+      "minecraft:string"
+    ]
+  },
+  "minecraft:bowl": {
+    "result": "minecraft:bowl",
+    "count": 12,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "minecraft:oak_log",
+      "",
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "chipped:botanist_workbench": {
+    "result": "chipped:botanist_workbench",
+    "count": 1,
+    "ingredients": [
+      "minecraft:flower_pot",
+      "minecraft:flower_pot",
+      "minecraft:flower_pot",
+      "minecraft:wooden_slabs",
+      "minecraft:crafting_table",
+      "minecraft:wooden_slabs",
+      "minecraft:stick",
+      "",
+      "minecraft:stick"
+    ]
+  },
+  "naturesaura:bottle_two_the_rebottling": {
+    "result": "naturesaura:bottle_two_the_rebottling",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glass_bottle",
+      "minecraft:oak_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "occultism:book_of_binding_afrit": {
+    "result": "occultism:book_of_binding_afrit",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:yellow",
+      "",
+      "minecraft:yellow",
+      "occultism:book_of_binding_empty",
+      "minecraft:yellow",
+      "",
+      "minecraft:yellow",
+      ""
+    ]
+  },
+  "occultism:book_of_binding_bound_djinni": {
+    "result": "occultism:book_of_binding_bound_djinni",
+    "count": 1,
+    "ingredients": [
+      "minecraft:book_of_calling_djinni",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "occultism:book_of_binding_bound_foliot": {
+    "result": "occultism:book_of_binding_bound_foliot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:book_of_calling_foliot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "occultism:book_of_binding_djinni": {
+    "result": "occultism:book_of_binding_djinni",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:purple",
+      "",
+      "minecraft:purple",
+      "occultism:book_of_binding_empty",
+      "minecraft:purple",
+      "",
+      "minecraft:purple",
+      ""
+    ]
+  },
+  "occultism:book_of_binding_empty": {
+    "result": "occultism:book_of_binding_empty",
+    "count": 1,
+    "ingredients": [
+      "occultism:awakened_feather",
+      "occultism:purified_ink",
+      "occultism:taboo_book",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "occultism:book_of_binding_foliot": {
+    "result": "occultism:book_of_binding_foliot",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:blue",
+      "",
+      "minecraft:blue",
+      "occultism:book_of_binding_empty",
+      "minecraft:blue",
+      "",
+      "minecraft:blue",
+      ""
+    ]
+  },
+  "occultism:book_of_binding_marid": {
+    "result": "occultism:book_of_binding_marid",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:green",
+      "",
+      "minecraft:green",
+      "occultism:book_of_binding_empty",
+      "minecraft:green",
+      "",
+      "minecraft:green",
+      ""
+    ]
+  },
+  "occultism:book_of_calling_djinni_manage_machine": {
+    "result": "occultism:book_of_calling_djinni_manage_machine",
+    "count": 1,
+    "ingredients": [
+      "occultism:book_of_binding_bound_djinni",
+      "minecraft:furnace",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "occultism:book_of_calling_foliot_cleaner": {
+    "result": "occultism:book_of_calling_foliot_cleaner",
+    "count": 1,
+    "ingredients": [
+      "occultism:book_of_binding_bound_foliot",
+      "occultism:brush",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "occultism:book_of_calling_foliot_farmer": {
+    "result": "occultism:book_of_calling_foliot_farmer",
+    "count": 1,
+    "ingredients": [
+      "occultism:book_of_binding_bound_foliot",
+      "minecraft:villager_plantable_seeds",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "occultism:book_of_calling_foliot_lumberjack": {
+    "result": "occultism:book_of_calling_foliot_lumberjack",
+    "count": 1,
+    "ingredients": [
+      "occultism:book_of_binding_bound_foliot",
+      "minecraft:axes",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "occultism:book_of_calling_foliot_transport_items": {
+    "result": "occultism:book_of_calling_foliot_transport_items",
+    "count": 1,
+    "ingredients": [
+      "occultism:book_of_binding_bound_foliot",
+      "minecraft:chest",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2crops:bokchoyseeditem": {
+    "result": "pamhc2crops:bokchoyseeditem",
+    "count": 1,
+    "ingredients": [
+      "pamhc2crops:bokchoyitem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:boiledeggitem": {
+    "result": "pamhc2foodcore:boiledeggitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:egg",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:bolognaitem": {
+    "result": "pamhc2foodextended:bolognaitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:groundbeef",
+      "minecraft:groundpork",
+      "minecraft:onion",
+      "minecraft:garlic",
+      "minecraft:sugar",
+      "minecraft:salt",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:bolognasandwichitem": {
+    "result": "pamhc2foodextended:bolognasandwichitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:bread",
+      "pamhc2foodextended:bolognaitem",
+      "minecraft:lettuce",
+      "minecraft:tomato",
+      "minecraft:mayonaise",
+      "",
+      "",
+      ""
+    ]
+  },
+  "powah:book": {
+    "result": "powah:book",
+    "count": 1,
+    "ingredients": [
+      "powah:dielectric_paste",
+      "minecraft:book",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivebees:bottler": {
+    "result": "productivebees:bottler",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:smooth_stone_slab",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:glass",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "productivetrees:boxwood_bookshelf": {
+    "result": "productivetrees:boxwood_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:boxwood_planks",
+      "productivetrees:boxwood_planks",
+      "productivetrees:boxwood_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:boxwood_planks",
+      "productivetrees:boxwood_planks",
+      "productivetrees:boxwood_planks"
+    ]
+  },
+  "productivetrees:boxwood_button": {
+    "result": "productivetrees:boxwood_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:boxwood_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:boxwood_door": {
+    "result": "productivetrees:boxwood_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:boxwood_planks",
+      "productivetrees:boxwood_planks",
+      "",
+      "productivetrees:boxwood_planks",
+      "productivetrees:boxwood_planks",
+      "",
+      "productivetrees:boxwood_planks",
+      "productivetrees:boxwood_planks",
+      ""
+    ]
+  },
+  "productivetrees:boxwood_fence": {
+    "result": "productivetrees:boxwood_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:boxwood_planks",
+      "minecraft:stick",
+      "productivetrees:boxwood_planks",
+      "productivetrees:boxwood_planks",
+      "minecraft:stick",
+      "productivetrees:boxwood_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:boxwood_fence_gate": {
+    "result": "productivetrees:boxwood_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:boxwood_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:boxwood_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:boxwood_hanging_sign": {
+    "result": "productivetrees:boxwood_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:boxwood_planks",
+      "productivetrees:boxwood_planks",
+      "productivetrees:boxwood_planks",
+      "productivetrees:boxwood_planks",
+      "productivetrees:boxwood_planks",
+      "productivetrees:boxwood_planks"
+    ]
+  },
+  "productivetrees:boxwood_planks": {
+    "result": "productivetrees:boxwood_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:boxwood_pressure_plate": {
+    "result": "productivetrees:boxwood_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:boxwood_planks",
+      "productivetrees:boxwood_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:boxwood_sign": {
+    "result": "productivetrees:boxwood_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:boxwood_planks",
+      "productivetrees:boxwood_planks",
+      "productivetrees:boxwood_planks",
+      "productivetrees:boxwood_planks",
+      "productivetrees:boxwood_planks",
+      "productivetrees:boxwood_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:boxwood_slab": {
+    "result": "productivetrees:boxwood_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:boxwood_planks",
+      "productivetrees:boxwood_planks",
+      "productivetrees:boxwood_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:boxwood_stairs": {
+    "result": "productivetrees:boxwood_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:boxwood_planks",
+      "",
+      "",
+      "productivetrees:boxwood_planks",
+      "productivetrees:boxwood_planks",
+      "",
+      "productivetrees:boxwood_planks",
+      "productivetrees:boxwood_planks",
+      "productivetrees:boxwood_planks"
+    ]
+  },
+  "productivetrees:boxwood_trapdoor": {
+    "result": "productivetrees:boxwood_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:boxwood_planks",
+      "productivetrees:boxwood_planks",
+      "productivetrees:boxwood_planks",
+      "productivetrees:boxwood_planks",
+      "productivetrees:boxwood_planks",
+      "productivetrees:boxwood_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:boxwood_wood": {
+    "result": "productivetrees:boxwood_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:boxwood_log",
+      "productivetrees:boxwood_log",
+      "",
+      "productivetrees:boxwood_log",
+      "productivetrees:boxwood_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:booster_track_kit": {
+    "result": "railcraft:booster_track_kit",
+    "count": 16,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "railcraft:track_parts",
+      "railcraft:advanced_rail",
+      "railcraft:advanced_rail",
+      "minecraft:redstone",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "securitycraft:bouncing_betty": {
+    "result": "securitycraft:bouncing_betty",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:heavy_weighted_pressure_plate",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:gunpowder",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgear:boots_blueprint": {
+    "result": "silentgear:boots_blueprint",
+    "count": 1,
+    "ingredients": [
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgear:boots_template": {
+    "result": "silentgear:boots_template",
+    "count": 1,
+    "ingredients": [
+      "minecraft:template_boards",
+      "",
+      "minecraft:template_boards",
+      "minecraft:template_boards",
+      "",
+      "minecraft:template_boards",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgear:bort": {
+    "result": "silentgear:bort",
+    "count": 9,
+    "ingredients": [
+      "silentgear:bort_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgear:bort_block": {
+    "result": "silentgear:bort_block",
+    "count": 1,
+    "ingredients": [
+      "silentgear:bort",
+      "silentgear:bort",
+      "silentgear:bort",
+      "silentgear:bort",
+      "silentgear:bort",
+      "silentgear:bort",
+      "silentgear:bort",
+      "silentgear:bort",
+      "silentgear:bort"
+    ]
+  },
+  "silentgear:bow_blueprint": {
+    "result": "silentgear:bow_blueprint",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:paper",
+      "minecraft:stick",
+      "minecraft:paper",
+      "",
+      "minecraft:stick",
+      "",
+      "minecraft:paper",
+      "minecraft:stick"
+    ]
+  },
+  "silentgear:bow_template": {
+    "result": "silentgear:bow_template",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:template_boards",
+      "minecraft:stick",
+      "minecraft:template_boards",
+      "",
+      "minecraft:stick",
+      "",
+      "minecraft:template_boards",
+      "minecraft:stick"
+    ]
+  },
+  "supplementaries:bomb": {
+    "result": "supplementaries:bomb",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:string",
+      "minecraft:iron_ingot",
+      "minecraft:tnt",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      ""
+    ]
+  },
+  "supplementaries:bomb_spiky": {
+    "result": "supplementaries:bomb_spiky",
+    "count": 4,
+    "ingredients": [
+      "",
+      "modern_industrialization:lead_ingot",
+      "minecraft:string",
+      "modern_industrialization:lead_ingot",
+      "minecraft:tnt",
+      "modern_industrialization:lead_ingot",
+      "",
+      "modern_industrialization:lead_ingot",
+      ""
+    ]
+  },
+  "tombstone:bone_needle": {
+    "result": "tombstone:bone_needle",
+    "count": 1,
+    "ingredients": [
+      "tombstone:grave_dust",
+      "minecraft:bone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "tombstone:bone_scepter": {
+    "result": "tombstone:bone_scepter",
+    "count": 1,
+    "ingredients": [
+      "",
+      "tombstone:grave_dust",
+      "minecraft:bone",
+      "",
+      "minecraft:bone",
+      "tombstone:grave_dust",
+      "minecraft:bone",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:bold_castle_brick_pillar": {
+    "result": "twilightforest:bold_castle_brick_pillar",
+    "count": 4,
+    "ingredients": [
+      "twilightforest:bold_castle_brick_tile",
+      "twilightforest:bold_castle_brick_tile",
+      "",
+      "twilightforest:bold_castle_brick_tile",
+      "twilightforest:bold_castle_brick_tile",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:bold_castle_brick_stairs": {
+    "result": "twilightforest:bold_castle_brick_stairs",
+    "count": 8,
+    "ingredients": [
+      "twilightforest:bold_castle_brick_pillar",
+      "",
+      "",
+      "twilightforest:bold_castle_brick_pillar",
+      "twilightforest:bold_castle_brick_pillar",
+      "",
+      "twilightforest:bold_castle_brick_pillar",
+      "twilightforest:bold_castle_brick_pillar",
+      "twilightforest:bold_castle_brick_pillar"
+    ]
+  },
+  "twilightforest:bold_castle_brick_tile": {
+    "result": "twilightforest:bold_castle_brick_tile",
+    "count": 4,
+    "ingredients": [
+      "twilightforest:bold_castle_brick_pillar",
+      "twilightforest:bold_castle_brick_pillar",
+      "",
+      "twilightforest:bold_castle_brick_pillar",
+      "twilightforest:bold_castle_brick_pillar",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:boomgourd": {
+    "result": "undergarden:boomgourd",
+    "count": 1,
+    "ingredients": [
+      "undergarden:blisterbomb",
+      "undergarden:blisterbomb",
+      "undergarden:blisterbomb",
+      "undergarden:blisterbomb",
+      "undergarden:gloomgourd",
+      "undergarden:blisterbomb",
+      "undergarden:blisterbomb",
+      "undergarden:blisterbomb",
+      "undergarden:blisterbomb"
+    ]
+  }
+}

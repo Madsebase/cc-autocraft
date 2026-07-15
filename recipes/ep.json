@@ -1,0 +1,32 @@
+{
+  "pamhc2foodcore:epicbaconitem": {
+    "result": "pamhc2foodcore:epicbaconitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:cookedpork",
+      "minecraft:red",
+      "minecraft:orange",
+      "minecraft:yellow",
+      "minecraft:green",
+      "minecraft:blue",
+      "minecraft:purple",
+      "minecraft:pink"
+    ]
+  },
+  "pamhc2foodextended:epicbltitem": {
+    "result": "pamhc2foodextended:epicbltitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_skillet",
+      "pamhc2foodcore:epicbaconitem",
+      "minecraft:lettuce",
+      "minecraft:tomato",
+      "minecraft:bread",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

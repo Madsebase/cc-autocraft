@@ -1,0 +1,197 @@
+{
+  "productivetrees:ipe_bookshelf": {
+    "result": "productivetrees:ipe_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:ipe_planks",
+      "productivetrees:ipe_planks",
+      "productivetrees:ipe_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:ipe_planks",
+      "productivetrees:ipe_planks",
+      "productivetrees:ipe_planks"
+    ]
+  },
+  "productivetrees:ipe_button": {
+    "result": "productivetrees:ipe_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:ipe_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:ipe_door": {
+    "result": "productivetrees:ipe_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:ipe_planks",
+      "productivetrees:ipe_planks",
+      "",
+      "productivetrees:ipe_planks",
+      "productivetrees:ipe_planks",
+      "",
+      "productivetrees:ipe_planks",
+      "productivetrees:ipe_planks",
+      ""
+    ]
+  },
+  "productivetrees:ipe_fence": {
+    "result": "productivetrees:ipe_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:ipe_planks",
+      "minecraft:stick",
+      "productivetrees:ipe_planks",
+      "productivetrees:ipe_planks",
+      "minecraft:stick",
+      "productivetrees:ipe_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:ipe_fence_gate": {
+    "result": "productivetrees:ipe_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:ipe_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:ipe_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:ipe_hanging_sign": {
+    "result": "productivetrees:ipe_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:ipe_planks",
+      "productivetrees:ipe_planks",
+      "productivetrees:ipe_planks",
+      "productivetrees:ipe_planks",
+      "productivetrees:ipe_planks",
+      "productivetrees:ipe_planks"
+    ]
+  },
+  "productivetrees:ipe_planks": {
+    "result": "productivetrees:ipe_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:ipe_pressure_plate": {
+    "result": "productivetrees:ipe_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:ipe_planks",
+      "productivetrees:ipe_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:ipe_sign": {
+    "result": "productivetrees:ipe_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:ipe_planks",
+      "productivetrees:ipe_planks",
+      "productivetrees:ipe_planks",
+      "productivetrees:ipe_planks",
+      "productivetrees:ipe_planks",
+      "productivetrees:ipe_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:ipe_slab": {
+    "result": "productivetrees:ipe_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:ipe_planks",
+      "productivetrees:ipe_planks",
+      "productivetrees:ipe_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:ipe_stairs": {
+    "result": "productivetrees:ipe_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:ipe_planks",
+      "",
+      "",
+      "productivetrees:ipe_planks",
+      "productivetrees:ipe_planks",
+      "",
+      "productivetrees:ipe_planks",
+      "productivetrees:ipe_planks",
+      "productivetrees:ipe_planks"
+    ]
+  },
+  "productivetrees:ipe_trapdoor": {
+    "result": "productivetrees:ipe_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:ipe_planks",
+      "productivetrees:ipe_planks",
+      "productivetrees:ipe_planks",
+      "productivetrees:ipe_planks",
+      "productivetrees:ipe_planks",
+      "productivetrees:ipe_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:ipe_wood": {
+    "result": "productivetrees:ipe_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:ipe_log",
+      "productivetrees:ipe_log",
+      "",
+      "productivetrees:ipe_log",
+      "productivetrees:ipe_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

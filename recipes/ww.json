@@ -1,0 +1,332 @@
+{
+  "bibliocraft:wwizardry_denia_bookcase": {
+    "result": "bibliocraft:wwizardry_denia_bookcase",
+    "count": 1,
+    "ingredients": [
+      "wwizardry:denia_planks",
+      "wwizardry:denia_slab",
+      "wwizardry:denia_planks",
+      "wwizardry:denia_planks",
+      "wwizardry:denia_slab",
+      "wwizardry:denia_planks",
+      "wwizardry:denia_planks",
+      "wwizardry:denia_slab",
+      "wwizardry:denia_planks"
+    ]
+  },
+  "bibliocraft:wwizardry_denia_fancy_armor_stand": {
+    "result": "bibliocraft:wwizardry_denia_fancy_armor_stand",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "wwizardry:denia_slab",
+      "wwizardry:denia_slab",
+      "wwizardry:denia_slab"
+    ]
+  },
+  "bibliocraft:wwizardry_denia_fancy_clock": {
+    "result": "bibliocraft:wwizardry_denia_fancy_clock",
+    "count": 1,
+    "ingredients": [
+      "wwizardry:denia_slab",
+      "minecraft:clock",
+      "wwizardry:denia_slab",
+      "wwizardry:denia_slab",
+      "minecraft:stick",
+      "wwizardry:denia_slab",
+      "wwizardry:denia_slab",
+      "minecraft:copper_ingot",
+      "wwizardry:denia_slab"
+    ]
+  },
+  "bibliocraft:wwizardry_denia_fancy_crafter": {
+    "result": "bibliocraft:wwizardry_denia_fancy_crafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black",
+      "minecraft:crafting_tables",
+      "minecraft:feather",
+      "wwizardry:denia_planks",
+      "minecraft:glass",
+      "wwizardry:denia_planks",
+      "wwizardry:denia_planks",
+      "minecraft:crafter",
+      "wwizardry:denia_planks"
+    ]
+  },
+  "bibliocraft:wwizardry_denia_fancy_sign": {
+    "result": "bibliocraft:wwizardry_denia_fancy_sign",
+    "count": 1,
+    "ingredients": [
+      "wwizardry:denia_planks",
+      "minecraft:paper",
+      "wwizardry:denia_planks",
+      "wwizardry:denia_planks",
+      "minecraft:paper",
+      "wwizardry:denia_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "bibliocraft:wwizardry_denia_grandfather_clock": {
+    "result": "bibliocraft:wwizardry_denia_grandfather_clock",
+    "count": 1,
+    "ingredients": [
+      "bibliocraft:wwizardry_denia_fancy_clock",
+      "bibliocraft:wwizardry_denia_fancy_clock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:wwizardry_denia_label": {
+    "result": "bibliocraft:wwizardry_denia_label",
+    "count": 1,
+    "ingredients": [
+      "wwizardry:denia_slab",
+      "wwizardry:denia_slab",
+      "wwizardry:denia_slab",
+      "wwizardry:denia_slab",
+      "wwizardry:denia_slab",
+      "wwizardry:denia_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:wwizardry_denia_potion_shelf": {
+    "result": "bibliocraft:wwizardry_denia_potion_shelf",
+    "count": 1,
+    "ingredients": [
+      "wwizardry:denia_slab",
+      "wwizardry:denia_slab",
+      "wwizardry:denia_slab",
+      "wwizardry:denia_planks",
+      "minecraft:glass_bottle",
+      "wwizardry:denia_planks",
+      "wwizardry:denia_slab",
+      "wwizardry:denia_slab",
+      "wwizardry:denia_slab"
+    ]
+  },
+  "bibliocraft:wwizardry_denia_shelf": {
+    "result": "bibliocraft:wwizardry_denia_shelf",
+    "count": 1,
+    "ingredients": [
+      "wwizardry:denia_slab",
+      "wwizardry:denia_slab",
+      "wwizardry:denia_slab",
+      "",
+      "wwizardry:denia_planks",
+      "",
+      "wwizardry:denia_slab",
+      "wwizardry:denia_slab",
+      "wwizardry:denia_slab"
+    ]
+  },
+  "bibliocraft:wwizardry_denia_table": {
+    "result": "bibliocraft:wwizardry_denia_table",
+    "count": 1,
+    "ingredients": [
+      "wwizardry:denia_slab",
+      "wwizardry:denia_slab",
+      "wwizardry:denia_slab",
+      "",
+      "wwizardry:denia_planks",
+      "",
+      "",
+      "wwizardry:denia_planks",
+      ""
+    ]
+  },
+  "bibliocraft:wwizardry_denia_tool_rack": {
+    "result": "bibliocraft:wwizardry_denia_tool_rack",
+    "count": 1,
+    "ingredients": [
+      "wwizardry:denia_slab",
+      "wwizardry:denia_slab",
+      "wwizardry:denia_slab",
+      "wwizardry:denia_slab",
+      "minecraft:iron_ingot",
+      "wwizardry:denia_slab",
+      "wwizardry:denia_slab",
+      "wwizardry:denia_slab",
+      "wwizardry:denia_slab"
+    ]
+  },
+  "bibliocraft:wwizardry_mycha_bookcase": {
+    "result": "bibliocraft:wwizardry_mycha_bookcase",
+    "count": 1,
+    "ingredients": [
+      "wwizardry:mycha_planks",
+      "wwizardry:mycha_slab",
+      "wwizardry:mycha_planks",
+      "wwizardry:mycha_planks",
+      "wwizardry:mycha_slab",
+      "wwizardry:mycha_planks",
+      "wwizardry:mycha_planks",
+      "wwizardry:mycha_slab",
+      "wwizardry:mycha_planks"
+    ]
+  },
+  "bibliocraft:wwizardry_mycha_fancy_armor_stand": {
+    "result": "bibliocraft:wwizardry_mycha_fancy_armor_stand",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "wwizardry:mycha_slab",
+      "wwizardry:mycha_slab",
+      "wwizardry:mycha_slab"
+    ]
+  },
+  "bibliocraft:wwizardry_mycha_fancy_clock": {
+    "result": "bibliocraft:wwizardry_mycha_fancy_clock",
+    "count": 1,
+    "ingredients": [
+      "wwizardry:mycha_slab",
+      "minecraft:clock",
+      "wwizardry:mycha_slab",
+      "wwizardry:mycha_slab",
+      "minecraft:stick",
+      "wwizardry:mycha_slab",
+      "wwizardry:mycha_slab",
+      "minecraft:copper_ingot",
+      "wwizardry:mycha_slab"
+    ]
+  },
+  "bibliocraft:wwizardry_mycha_fancy_crafter": {
+    "result": "bibliocraft:wwizardry_mycha_fancy_crafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black",
+      "minecraft:crafting_tables",
+      "minecraft:feather",
+      "wwizardry:mycha_planks",
+      "minecraft:glass",
+      "wwizardry:mycha_planks",
+      "wwizardry:mycha_planks",
+      "minecraft:crafter",
+      "wwizardry:mycha_planks"
+    ]
+  },
+  "bibliocraft:wwizardry_mycha_fancy_sign": {
+    "result": "bibliocraft:wwizardry_mycha_fancy_sign",
+    "count": 1,
+    "ingredients": [
+      "wwizardry:mycha_planks",
+      "minecraft:paper",
+      "wwizardry:mycha_planks",
+      "wwizardry:mycha_planks",
+      "minecraft:paper",
+      "wwizardry:mycha_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "bibliocraft:wwizardry_mycha_grandfather_clock": {
+    "result": "bibliocraft:wwizardry_mycha_grandfather_clock",
+    "count": 1,
+    "ingredients": [
+      "bibliocraft:wwizardry_mycha_fancy_clock",
+      "bibliocraft:wwizardry_mycha_fancy_clock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:wwizardry_mycha_label": {
+    "result": "bibliocraft:wwizardry_mycha_label",
+    "count": 1,
+    "ingredients": [
+      "wwizardry:mycha_slab",
+      "wwizardry:mycha_slab",
+      "wwizardry:mycha_slab",
+      "wwizardry:mycha_slab",
+      "wwizardry:mycha_slab",
+      "wwizardry:mycha_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:wwizardry_mycha_potion_shelf": {
+    "result": "bibliocraft:wwizardry_mycha_potion_shelf",
+    "count": 1,
+    "ingredients": [
+      "wwizardry:mycha_slab",
+      "wwizardry:mycha_slab",
+      "wwizardry:mycha_slab",
+      "wwizardry:mycha_planks",
+      "minecraft:glass_bottle",
+      "wwizardry:mycha_planks",
+      "wwizardry:mycha_slab",
+      "wwizardry:mycha_slab",
+      "wwizardry:mycha_slab"
+    ]
+  },
+  "bibliocraft:wwizardry_mycha_shelf": {
+    "result": "bibliocraft:wwizardry_mycha_shelf",
+    "count": 1,
+    "ingredients": [
+      "wwizardry:mycha_slab",
+      "wwizardry:mycha_slab",
+      "wwizardry:mycha_slab",
+      "",
+      "wwizardry:mycha_planks",
+      "",
+      "wwizardry:mycha_slab",
+      "wwizardry:mycha_slab",
+      "wwizardry:mycha_slab"
+    ]
+  },
+  "bibliocraft:wwizardry_mycha_table": {
+    "result": "bibliocraft:wwizardry_mycha_table",
+    "count": 1,
+    "ingredients": [
+      "wwizardry:mycha_slab",
+      "wwizardry:mycha_slab",
+      "wwizardry:mycha_slab",
+      "",
+      "wwizardry:mycha_planks",
+      "",
+      "",
+      "wwizardry:mycha_planks",
+      ""
+    ]
+  },
+  "bibliocraft:wwizardry_mycha_tool_rack": {
+    "result": "bibliocraft:wwizardry_mycha_tool_rack",
+    "count": 1,
+    "ingredients": [
+      "wwizardry:mycha_slab",
+      "wwizardry:mycha_slab",
+      "wwizardry:mycha_slab",
+      "wwizardry:mycha_slab",
+      "minecraft:iron_ingot",
+      "wwizardry:mycha_slab",
+      "wwizardry:mycha_slab",
+      "wwizardry:mycha_slab",
+      "wwizardry:mycha_slab"
+    ]
+  }
+}

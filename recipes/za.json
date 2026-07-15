@@ -1,0 +1,452 @@
+{
+  "aether:zanite_axe": {
+    "result": "aether:zanite_axe",
+    "count": 1,
+    "ingredients": [
+      "minecraft:zanite",
+      "minecraft:zanite",
+      "",
+      "minecraft:zanite",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "aether:zanite_block": {
+    "result": "aether:zanite_block",
+    "count": 1,
+    "ingredients": [
+      "aether:zanite_gemstone",
+      "aether:zanite_gemstone",
+      "aether:zanite_gemstone",
+      "aether:zanite_gemstone",
+      "aether:zanite_gemstone",
+      "aether:zanite_gemstone",
+      "aether:zanite_gemstone",
+      "aether:zanite_gemstone",
+      "aether:zanite_gemstone"
+    ]
+  },
+  "aether:zanite_boots": {
+    "result": "aether:zanite_boots",
+    "count": 1,
+    "ingredients": [
+      "minecraft:zanite",
+      "",
+      "minecraft:zanite",
+      "minecraft:zanite",
+      "",
+      "minecraft:zanite",
+      "",
+      "",
+      ""
+    ]
+  },
+  "aether:zanite_chestplate": {
+    "result": "aether:zanite_chestplate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:zanite",
+      "",
+      "minecraft:zanite",
+      "minecraft:zanite",
+      "minecraft:zanite",
+      "minecraft:zanite",
+      "minecraft:zanite",
+      "minecraft:zanite",
+      "minecraft:zanite"
+    ]
+  },
+  "aether:zanite_gemstone": {
+    "result": "aether:zanite_gemstone",
+    "count": 9,
+    "ingredients": [
+      "aether:zanite_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "aether:zanite_gloves": {
+    "result": "aether:zanite_gloves",
+    "count": 1,
+    "ingredients": [
+      "minecraft:zanite",
+      "",
+      "minecraft:zanite",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "aether:zanite_helmet": {
+    "result": "aether:zanite_helmet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:zanite",
+      "minecraft:zanite",
+      "minecraft:zanite",
+      "minecraft:zanite",
+      "",
+      "minecraft:zanite",
+      "",
+      "",
+      ""
+    ]
+  },
+  "aether:zanite_hoe": {
+    "result": "aether:zanite_hoe",
+    "count": 1,
+    "ingredients": [
+      "minecraft:zanite",
+      "minecraft:zanite",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "aether:zanite_leggings": {
+    "result": "aether:zanite_leggings",
+    "count": 1,
+    "ingredients": [
+      "minecraft:zanite",
+      "minecraft:zanite",
+      "minecraft:zanite",
+      "minecraft:zanite",
+      "",
+      "minecraft:zanite",
+      "minecraft:zanite",
+      "",
+      "minecraft:zanite"
+    ]
+  },
+  "aether:zanite_pendant": {
+    "result": "aether:zanite_pendant",
+    "count": 1,
+    "ingredients": [
+      "minecraft:string",
+      "minecraft:string",
+      "minecraft:string",
+      "minecraft:string",
+      "",
+      "minecraft:string",
+      "",
+      "minecraft:zanite",
+      ""
+    ]
+  },
+  "aether:zanite_pickaxe": {
+    "result": "aether:zanite_pickaxe",
+    "count": 1,
+    "ingredients": [
+      "minecraft:zanite",
+      "minecraft:zanite",
+      "minecraft:zanite",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "aether:zanite_ring": {
+    "result": "aether:zanite_ring",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:zanite",
+      "",
+      "minecraft:zanite",
+      "",
+      "minecraft:zanite",
+      "",
+      "minecraft:zanite",
+      ""
+    ]
+  },
+  "aether:zanite_shovel": {
+    "result": "aether:zanite_shovel",
+    "count": 1,
+    "ingredients": [
+      "minecraft:zanite",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "aether:zanite_sword": {
+    "result": "aether:zanite_sword",
+    "count": 1,
+    "ingredients": [
+      "minecraft:zanite",
+      "",
+      "",
+      "minecraft:zanite",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "xtonesreworked:zane_block_0": {
+    "result": "xtonesreworked:zane_block_0",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:white",
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:zane"
+    ]
+  },
+  "xtonesreworked:zane_block_15": {
+    "result": "xtonesreworked:zane_block_15",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:black",
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:zane"
+    ]
+  },
+  "xtonesreworked:zane_block_1": {
+    "result": "xtonesreworked:zane_block_1",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:lime",
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:zane"
+    ]
+  },
+  "xtonesreworked:zane_block_10": {
+    "result": "xtonesreworked:zane_block_10",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:magenta",
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:zane"
+    ]
+  },
+  "xtonesreworked:zane_block_11": {
+    "result": "xtonesreworked:zane_block_11",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:pink",
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:zane"
+    ]
+  },
+  "xtonesreworked:zane_block_12": {
+    "result": "xtonesreworked:zane_block_12",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:red",
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:zane"
+    ]
+  },
+  "xtonesreworked:zane_block_13": {
+    "result": "xtonesreworked:zane_block_13",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:orange",
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:zane"
+    ]
+  },
+  "xtonesreworked:zane_block_14": {
+    "result": "xtonesreworked:zane_block_14",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:brown",
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:zane"
+    ]
+  },
+  "xtonesreworked:zane_block_2": {
+    "result": "xtonesreworked:zane_block_2",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:lime",
+      "minecraft:zane"
+    ]
+  },
+  "xtonesreworked:zane_block_3": {
+    "result": "xtonesreworked:zane_block_3",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:green",
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:zane"
+    ]
+  },
+  "xtonesreworked:zane_block_4": {
+    "result": "xtonesreworked:zane_block_4",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:green",
+      "minecraft:zane"
+    ]
+  },
+  "xtonesreworked:zane_block_5": {
+    "result": "xtonesreworked:zane_block_5",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:cyan",
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:zane"
+    ]
+  },
+  "xtonesreworked:zane_block_6": {
+    "result": "xtonesreworked:zane_block_6",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:light_blue",
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:zane"
+    ]
+  },
+  "xtonesreworked:zane_block_7": {
+    "result": "xtonesreworked:zane_block_7",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:blue",
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:zane"
+    ]
+  },
+  "xtonesreworked:zane_block_8": {
+    "result": "xtonesreworked:zane_block_8",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:blue",
+      "minecraft:zane"
+    ]
+  },
+  "xtonesreworked:zane_block_9": {
+    "result": "xtonesreworked:zane_block_9",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:purple",
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:zane",
+      "minecraft:zane"
+    ]
+  }
+}

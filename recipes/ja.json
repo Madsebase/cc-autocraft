@@ -1,0 +1,872 @@
+{
+  "allthecompressed:jade_block_1x": {
+    "result": "allthecompressed:jade_block_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:jade_block_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:jade_block_2x": {
+    "result": "allthecompressed:jade_block_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:jade_block_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:jade_block_3x": {
+    "result": "allthecompressed:jade_block_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:jade_block_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:jade_block_4x": {
+    "result": "allthecompressed:jade_block_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:jade_block_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:jade_block_5x": {
+    "result": "allthecompressed:jade_block_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:jade_block_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:jade_block_6x": {
+    "result": "allthecompressed:jade_block_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:jade_block_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:jade_block_7x": {
+    "result": "allthecompressed:jade_block_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:jade_block_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:jade_block_8x": {
+    "result": "allthecompressed:jade_block_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:jade_block_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:jade_block_9x": {
+    "result": "allthecompressed:jade_block_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:jade_block_8x",
+      "allthecompressed:jade_block_8x",
+      "allthecompressed:jade_block_8x",
+      "allthecompressed:jade_block_8x",
+      "allthecompressed:jade_block_8x",
+      "allthecompressed:jade_block_8x",
+      "allthecompressed:jade_block_8x",
+      "allthecompressed:jade_block_8x",
+      "allthecompressed:jade_block_8x"
+    ]
+  },
+  "aoa3:jade_block": {
+    "result": "aoa3:jade_block",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:jade_block_1x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:jacaranda_boat": {
+    "result": "biomeswevegone:jacaranda_boat",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:jacaranda_planks",
+      "",
+      "biomeswevegone:jacaranda_planks",
+      "biomeswevegone:jacaranda_planks",
+      "biomeswevegone:jacaranda_planks",
+      "biomeswevegone:jacaranda_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:jacaranda_bookshelf": {
+    "result": "biomeswevegone:jacaranda_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:jacaranda_planks",
+      "biomeswevegone:jacaranda_planks",
+      "biomeswevegone:jacaranda_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "biomeswevegone:jacaranda_planks",
+      "biomeswevegone:jacaranda_planks",
+      "biomeswevegone:jacaranda_planks"
+    ]
+  },
+  "biomeswevegone:jacaranda_button": {
+    "result": "biomeswevegone:jacaranda_button",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:jacaranda_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:jacaranda_chest_boat": {
+    "result": "biomeswevegone:jacaranda_chest_boat",
+    "count": 1,
+    "ingredients": [
+      "minecraft:chest",
+      "biomeswevegone:jacaranda_boat",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:jacaranda_crafting_table": {
+    "result": "biomeswevegone:jacaranda_crafting_table",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:jacaranda_planks",
+      "biomeswevegone:jacaranda_planks",
+      "",
+      "biomeswevegone:jacaranda_planks",
+      "biomeswevegone:jacaranda_planks",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:jacaranda_door": {
+    "result": "biomeswevegone:jacaranda_door",
+    "count": 3,
+    "ingredients": [
+      "biomeswevegone:jacaranda_planks",
+      "biomeswevegone:jacaranda_planks",
+      "",
+      "biomeswevegone:jacaranda_planks",
+      "biomeswevegone:jacaranda_planks",
+      "",
+      "biomeswevegone:jacaranda_planks",
+      "biomeswevegone:jacaranda_planks",
+      ""
+    ]
+  },
+  "biomeswevegone:jacaranda_fence": {
+    "result": "biomeswevegone:jacaranda_fence",
+    "count": 3,
+    "ingredients": [
+      "biomeswevegone:jacaranda_planks",
+      "minecraft:stick",
+      "biomeswevegone:jacaranda_planks",
+      "biomeswevegone:jacaranda_planks",
+      "minecraft:stick",
+      "biomeswevegone:jacaranda_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:jacaranda_fence_gate": {
+    "result": "biomeswevegone:jacaranda_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "biomeswevegone:jacaranda_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "biomeswevegone:jacaranda_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:jacaranda_hanging_sign": {
+    "result": "biomeswevegone:jacaranda_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "biomeswevegone:stripped_jacaranda_log",
+      "biomeswevegone:stripped_jacaranda_log",
+      "biomeswevegone:stripped_jacaranda_log",
+      "biomeswevegone:stripped_jacaranda_log",
+      "biomeswevegone:stripped_jacaranda_log",
+      "biomeswevegone:stripped_jacaranda_log"
+    ]
+  },
+  "biomeswevegone:jacaranda_planks": {
+    "result": "biomeswevegone:jacaranda_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:jacaranda_pressure_plate": {
+    "result": "biomeswevegone:jacaranda_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:jacaranda_planks",
+      "biomeswevegone:jacaranda_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:jacaranda_sign": {
+    "result": "biomeswevegone:jacaranda_sign",
+    "count": 3,
+    "ingredients": [
+      "biomeswevegone:jacaranda_planks",
+      "biomeswevegone:jacaranda_planks",
+      "biomeswevegone:jacaranda_planks",
+      "biomeswevegone:jacaranda_planks",
+      "biomeswevegone:jacaranda_planks",
+      "biomeswevegone:jacaranda_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "biomeswevegone:jacaranda_slab": {
+    "result": "biomeswevegone:jacaranda_slab",
+    "count": 6,
+    "ingredients": [
+      "biomeswevegone:jacaranda_planks",
+      "biomeswevegone:jacaranda_planks",
+      "biomeswevegone:jacaranda_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:jacaranda_stairs": {
+    "result": "biomeswevegone:jacaranda_stairs",
+    "count": 4,
+    "ingredients": [
+      "biomeswevegone:jacaranda_planks",
+      "",
+      "",
+      "biomeswevegone:jacaranda_planks",
+      "biomeswevegone:jacaranda_planks",
+      "",
+      "biomeswevegone:jacaranda_planks",
+      "biomeswevegone:jacaranda_planks",
+      "biomeswevegone:jacaranda_planks"
+    ]
+  },
+  "biomeswevegone:jacaranda_trapdoor": {
+    "result": "biomeswevegone:jacaranda_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "biomeswevegone:jacaranda_planks",
+      "biomeswevegone:jacaranda_planks",
+      "biomeswevegone:jacaranda_planks",
+      "biomeswevegone:jacaranda_planks",
+      "biomeswevegone:jacaranda_planks",
+      "biomeswevegone:jacaranda_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:jacaranda_wood": {
+    "result": "biomeswevegone:jacaranda_wood",
+    "count": 3,
+    "ingredients": [
+      "biomeswevegone:jacaranda_log",
+      "biomeswevegone:jacaranda_log",
+      "",
+      "biomeswevegone:jacaranda_log",
+      "biomeswevegone:jacaranda_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "herbsandharvest:jar": {
+    "result": "herbsandharvest:jar",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:oak_slab",
+      "",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane"
+    ]
+  },
+  "mcwdoors:jail_door": {
+    "result": "mcwdoors:jail_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_bars",
+      "minecraft:iron_bars",
+      "",
+      "minecraft:iron_bars",
+      "minecraft:iron_bars",
+      "",
+      "minecraft:iron_bars",
+      "minecraft:iron_bars",
+      ""
+    ]
+  },
+  "minecraft:jack_o_lantern": {
+    "result": "minecraft:jack_o_lantern",
+    "count": 1,
+    "ingredients": [
+      "minecraft:carved_pumpkin",
+      "",
+      "",
+      "minecraft:torch",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:jackfruitjellyitem": {
+    "result": "pamhc2foodextended:jackfruitjellyitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:jackfruit",
+      "minecraft:sugar",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:jackfruitjellysandwichitem": {
+    "result": "pamhc2foodextended:jackfruitjellysandwichitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:jackfruitjelly",
+      "minecraft:bread",
+      "minecraft:nutbutters",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:jackfruitjellytoastitem": {
+    "result": "pamhc2foodextended:jackfruitjellytoastitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:jackfruitjelly",
+      "minecraft:toast",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:jackfruitjuiceitem": {
+    "result": "pamhc2foodextended:jackfruitjuiceitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_juicer",
+      "minecraft:jackfruit",
+      "minecraft:jackfruit",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:jackfruitpieitem": {
+    "result": "pamhc2foodextended:jackfruitpieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:jackfruit",
+      "minecraft:sugar",
+      "minecraft:dough",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:jackfruitsmoothieitem": {
+    "result": "pamhc2foodextended:jackfruitsmoothieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:jackfruit",
+      "minecraft:ices",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:jackfruityogurtitem": {
+    "result": "pamhc2foodextended:jackfruityogurtitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:jackfruit",
+      "minecraft:yogurt",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:jalapenoburgeritem": {
+    "result": "pamhc2foodextended:jalapenoburgeritem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "pamhc2foodcore:basichamburgeritem",
+      "minecraft:chilipepper",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:jambalayaitem": {
+    "result": "pamhc2foodextended:jambalayaitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:stock",
+      "minecraft:sausage",
+      "minecraft:rawchicken",
+      "minecraft:onion",
+      "minecraft:bellpepper",
+      "minecraft:tomato",
+      "minecraft:spiceleaf",
+      "minecraft:blackpepper"
+    ]
+  },
+  "pamhc2trees:jackfruit_sapling": {
+    "result": "pamhc2trees:jackfruit_sapling",
+    "count": 1,
+    "ingredients": [
+      "pamhc2trees:jackfruititem",
+      "pamhc2trees:jackfruititem",
+      "pamhc2trees:jackfruititem",
+      "pamhc2trees:jackfruititem",
+      "pamhc2trees:jackfruititem",
+      "pamhc2trees:jackfruititem",
+      "pamhc2trees:jackfruititem",
+      "pamhc2trees:jackfruititem",
+      "minecraft:saplings"
+    ]
+  },
+  "pneumaticcraft:jackhammer": {
+    "result": "pneumaticcraft:jackhammer",
+    "count": 1,
+    "ingredients": [
+      "pneumaticcraft:plastic",
+      "minecraft:compressed_iron",
+      "pneumaticcraft:plastic",
+      "minecraft:iron_ingot",
+      "pneumaticcraft:pressure_tube",
+      "minecraft:iron_ingot",
+      "minecraft:diamond",
+      "pneumaticcraft:pneumatic_cylinder",
+      "minecraft:diamond"
+    ]
+  },
+  "productivebees:jar_oak": {
+    "result": "productivebees:jar_oak",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:oak_button",
+      "minecraft:glass",
+      "minecraft:glass",
+      "",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass"
+    ]
+  },
+  "productivetrees:jackfruit_bookshelf": {
+    "result": "productivetrees:jackfruit_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:jackfruit_planks",
+      "productivetrees:jackfruit_planks",
+      "productivetrees:jackfruit_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:jackfruit_planks",
+      "productivetrees:jackfruit_planks",
+      "productivetrees:jackfruit_planks"
+    ]
+  },
+  "productivetrees:jackfruit_button": {
+    "result": "productivetrees:jackfruit_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:jackfruit_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:jackfruit_crate": {
+    "result": "productivetrees:jackfruit_crate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:jackfruit",
+      "minecraft:jackfruit",
+      "minecraft:jackfruit",
+      "minecraft:jackfruit",
+      "productivetrees:jackfruit",
+      "minecraft:jackfruit",
+      "minecraft:jackfruit",
+      "minecraft:jackfruit",
+      "minecraft:jackfruit"
+    ]
+  },
+  "productivetrees:jackfruit": {
+    "result": "productivetrees:jackfruit",
+    "count": 9,
+    "ingredients": [
+      "productivetrees:jackfruit_crate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:jackfruit_door": {
+    "result": "productivetrees:jackfruit_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:jackfruit_planks",
+      "productivetrees:jackfruit_planks",
+      "",
+      "productivetrees:jackfruit_planks",
+      "productivetrees:jackfruit_planks",
+      "",
+      "productivetrees:jackfruit_planks",
+      "productivetrees:jackfruit_planks",
+      ""
+    ]
+  },
+  "productivetrees:jackfruit_fence": {
+    "result": "productivetrees:jackfruit_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:jackfruit_planks",
+      "minecraft:stick",
+      "productivetrees:jackfruit_planks",
+      "productivetrees:jackfruit_planks",
+      "minecraft:stick",
+      "productivetrees:jackfruit_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:jackfruit_fence_gate": {
+    "result": "productivetrees:jackfruit_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:jackfruit_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:jackfruit_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:jackfruit_hanging_sign": {
+    "result": "productivetrees:jackfruit_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:jackfruit_planks",
+      "productivetrees:jackfruit_planks",
+      "productivetrees:jackfruit_planks",
+      "productivetrees:jackfruit_planks",
+      "productivetrees:jackfruit_planks",
+      "productivetrees:jackfruit_planks"
+    ]
+  },
+  "productivetrees:jackfruit_planks": {
+    "result": "productivetrees:jackfruit_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:jackfruit_pressure_plate": {
+    "result": "productivetrees:jackfruit_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:jackfruit_planks",
+      "productivetrees:jackfruit_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:jackfruit_sign": {
+    "result": "productivetrees:jackfruit_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:jackfruit_planks",
+      "productivetrees:jackfruit_planks",
+      "productivetrees:jackfruit_planks",
+      "productivetrees:jackfruit_planks",
+      "productivetrees:jackfruit_planks",
+      "productivetrees:jackfruit_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:jackfruit_slab": {
+    "result": "productivetrees:jackfruit_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:jackfruit_planks",
+      "productivetrees:jackfruit_planks",
+      "productivetrees:jackfruit_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:jackfruit_stairs": {
+    "result": "productivetrees:jackfruit_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:jackfruit_planks",
+      "",
+      "",
+      "productivetrees:jackfruit_planks",
+      "productivetrees:jackfruit_planks",
+      "",
+      "productivetrees:jackfruit_planks",
+      "productivetrees:jackfruit_planks",
+      "productivetrees:jackfruit_planks"
+    ]
+  },
+  "productivetrees:jackfruit_trapdoor": {
+    "result": "productivetrees:jackfruit_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:jackfruit_planks",
+      "productivetrees:jackfruit_planks",
+      "productivetrees:jackfruit_planks",
+      "productivetrees:jackfruit_planks",
+      "productivetrees:jackfruit_planks",
+      "productivetrees:jackfruit_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:jackfruit_wood": {
+    "result": "productivetrees:jackfruit_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:jackfruit_log",
+      "productivetrees:jackfruit_log",
+      "",
+      "productivetrees:jackfruit_log",
+      "productivetrees:jackfruit_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "supplementaries:jar_boat": {
+    "result": "supplementaries:jar_boat",
+    "count": 1,
+    "ingredients": [
+      "supplementaries:jar",
+      "minecraft:boats",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "supplementaries:jar": {
+    "result": "supplementaries:jar",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:wooden_slabs",
+      "minecraft:glass",
+      "minecraft:glass",
+      "",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass"
+    ]
+  }
+}

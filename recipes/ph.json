@@ -1,0 +1,242 @@
+{
+  "actuallyadditions:phantom_booster": {
+    "result": "actuallyadditions:phantom_booster",
+    "count": 1,
+    "ingredients": [
+      "actuallyadditions:restonia_crystal",
+      "actuallyadditions:diamatine_crystal",
+      "actuallyadditions:restonia_crystal",
+      "actuallyadditions:diamatine_crystal",
+      "actuallyadditions:ender_casing",
+      "actuallyadditions:diamatine_crystal",
+      "actuallyadditions:restonia_crystal",
+      "actuallyadditions:diamatine_crystal",
+      "actuallyadditions:restonia_crystal"
+    ]
+  },
+  "actuallyadditions:phantom_breaker": {
+    "result": "actuallyadditions:phantom_breaker",
+    "count": 1,
+    "ingredients": [
+      "actuallyadditions:breaker",
+      "actuallyadditions:phantom_itemface",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "actuallyadditions:phantom_connector": {
+    "result": "actuallyadditions:phantom_connector",
+    "count": 1,
+    "ingredients": [
+      "minecraft:ender_eye",
+      "minecraft:ender_pearl",
+      "",
+      "minecraft:ender_pearl",
+      "minecraft:ender_eye",
+      "",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "actuallyadditions:phantom_energyface": {
+    "result": "actuallyadditions:phantom_energyface",
+    "count": 1,
+    "ingredients": [
+      "",
+      "actuallyadditions:empowered_restonia_crystal",
+      "",
+      "actuallyadditions:empowered_restonia_crystal",
+      "actuallyadditions:phantom_itemface",
+      "actuallyadditions:empowered_restonia_crystal",
+      "",
+      "actuallyadditions:empowered_restonia_crystal",
+      ""
+    ]
+  },
+  "actuallyadditions:phantom_itemface": {
+    "result": "actuallyadditions:phantom_itemface",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:chest",
+      "",
+      "minecraft:phantom_membrane",
+      "actuallyadditions:ender_casing",
+      "minecraft:phantom_membrane",
+      "",
+      "actuallyadditions:advanced_coil",
+      ""
+    ]
+  },
+  "actuallyadditions:phantom_liquiface": {
+    "result": "actuallyadditions:phantom_liquiface",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bucket",
+      "actuallyadditions:phantom_itemface",
+      "minecraft:bucket",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "actuallyadditions:phantom_placer": {
+    "result": "actuallyadditions:phantom_placer",
+    "count": 1,
+    "ingredients": [
+      "actuallyadditions:placer",
+      "actuallyadditions:phantom_itemface",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "actuallyadditions:phantom_redstoneface": {
+    "result": "actuallyadditions:phantom_redstoneface",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "actuallyadditions:empowered_restonia_crystal",
+      "minecraft:redstone",
+      "actuallyadditions:empowered_restonia_crystal",
+      "actuallyadditions:phantom_itemface",
+      "actuallyadditions:empowered_restonia_crystal",
+      "minecraft:redstone",
+      "actuallyadditions:empowered_restonia_crystal",
+      "minecraft:redstone"
+    ]
+  },
+  "actuallyadditions:phan_con_pattern": {
+    "result": "actuallyadditions:phan_con_pattern",
+    "count": 1,
+    "ingredients": [
+      "actuallyadditions:phantom_connector",
+      "minecraft:paper",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "enderio:photovoltaic_composite": {
+    "result": "enderio:photovoltaic_composite",
+    "count": 1,
+    "ingredients": [
+      "minecraft:lapis_lazuli",
+      "minecraft:coal",
+      "minecraft:silicon",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "framedblocks:phantom_paste": {
+    "result": "framedblocks:phantom_paste",
+    "count": 16,
+    "ingredients": [
+      "minecraft:slime_ball",
+      "minecraft:slime_ball",
+      "minecraft:slime_ball",
+      "minecraft:slime_ball",
+      "minecraft:phantom_membrane",
+      "minecraft:slime_ball",
+      "minecraft:slime_ball",
+      "minecraft:slime_ball",
+      "minecraft:slime_ball"
+    ]
+  },
+  "handcrafted:phantom_trophy": {
+    "result": "handcrafted:phantom_trophy",
+    "count": 1,
+    "ingredients": [
+      "minecraft:chain",
+      "minecraft:chain",
+      "minecraft:chain",
+      "minecraft:oak_planks",
+      "minecraft:phantom_membrane",
+      "minecraft:oak_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:phantom_membrane": {
+    "result": "minecraft:phantom_membrane",
+    "count": 4,
+    "ingredients": [
+      "mysticalagriculture:phantom_essence",
+      "mysticalagriculture:phantom_essence",
+      "mysticalagriculture:phantom_essence",
+      "mysticalagriculture:phantom_essence",
+      "",
+      "mysticalagriculture:phantom_essence",
+      "mysticalagriculture:phantom_essence",
+      "mysticalagriculture:phantom_essence",
+      "mysticalagriculture:phantom_essence"
+    ]
+  },
+  "pamhc2foodextended:phoitem": {
+    "result": "pamhc2foodextended:phoitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:stock",
+      "minecraft:pasta",
+      "minecraft:spiceleaf",
+      "minecraft:groundcinnamon",
+      "minecraft:onion",
+      "",
+      "",
+      ""
+    ]
+  },
+  "powah:photoelectric_pane": {
+    "result": "powah:photoelectric_pane",
+    "count": 1,
+    "ingredients": [
+      "powah:dielectric_paste",
+      "minecraft:lapis_lazuli",
+      "powah:dielectric_paste",
+      "minecraft:lapis_lazuli",
+      "minecraft:glass",
+      "minecraft:lapis_lazuli",
+      "powah:dielectric_paste",
+      "minecraft:lapis_lazuli",
+      "powah:dielectric_paste"
+    ]
+  },
+  "reliquary:phoenix_down": {
+    "result": "reliquary:phoenix_down",
+    "count": 1,
+    "ingredients": [
+      "reliquary:angelheart_vial",
+      "reliquary:angelheart_vial",
+      "reliquary:angelheart_vial",
+      "reliquary:angelic_feather",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

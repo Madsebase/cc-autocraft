@@ -1,0 +1,77 @@
+{
+  "mahoutsukai:kodoku": {
+    "result": "mahoutsukai:kodoku",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dirt",
+      "minecraft:carrot",
+      "minecraft:potato",
+      "minecraft:poisonous_potato",
+      "minecraft:rotten_flesh",
+      "minecraft:nether_wart",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2crops:kohlrabiseeditem": {
+    "result": "pamhc2crops:kohlrabiseeditem",
+    "count": 1,
+    "ingredients": [
+      "pamhc2crops:kohlrabiitem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:kohlundpinkelitem": {
+    "result": "pamhc2foodextended:kohlundpinkelitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:rawpork",
+      "pamhc2foodextended:pinkelitem",
+      "minecraft:potato",
+      "minecraft:blackpepper",
+      "minecraft:onion",
+      "minecraft:sausage",
+      "minecraft:kale",
+      ""
+    ]
+  },
+  "pamhc2foodextended:koreandinneritem": {
+    "result": "pamhc2foodextended:koreandinneritem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "pamhc2foodextended:bulgogiitem",
+      "pamhc2foodextended:omuriceitem",
+      "pamhc2foodextended:kimchiitem",
+      "minecraft:leafyvegetables",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xtonesreworked:korp_block_0": {
+    "result": "xtonesreworked:korp_block_0",
+    "count": 8,
+    "ingredients": [
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile",
+      "minecraft:gravel",
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile"
+    ]
+  }
+}

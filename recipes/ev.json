@@ -1,0 +1,182 @@
+{
+  "advanced_ae:evasion_card": {
+    "result": "advanced_ae:evasion_card",
+    "count": 1,
+    "ingredients": [
+      "advanced_ae:quantum_alloy_plate",
+      "ae2:speed_card",
+      "advanced_ae:quantum_alloy_plate",
+      "minecraft:rabbit_hide",
+      "advanced_ae:quantum_upgrade_base",
+      "minecraft:rabbit_hide",
+      "advanced_ae:quantum_alloy_plate",
+      "ae2:speed_card",
+      "advanced_ae:quantum_alloy_plate"
+    ]
+  },
+  "extended_industrialization:ev_tesla_receiver_hatch": {
+    "result": "extended_industrialization:ev_tesla_receiver_hatch",
+    "count": 1,
+    "ingredients": [
+      "extended_industrialization:tesla_receiver",
+      "",
+      "",
+      "modern_industrialization:highly_advanced_machine_hull",
+      "",
+      "",
+      "modern_industrialization:annealed_copper_cable",
+      "",
+      ""
+    ]
+  },
+  "handcrafted:evoker_trophy": {
+    "result": "handcrafted:evoker_trophy",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stone",
+      "",
+      "minecraft:stone",
+      "minecraft:totem_of_undying",
+      "minecraft:stone",
+      "minecraft:stone",
+      "",
+      "minecraft:stone"
+    ]
+  },
+  "irons_spellbooks:evocation_rune": {
+    "result": "irons_spellbooks:evocation_rune",
+    "count": 1,
+    "ingredients": [
+      "minecraft:evocation_focus",
+      "minecraft:evocation_focus",
+      "minecraft:evocation_focus",
+      "minecraft:evocation_focus",
+      "irons_spellbooks:blank_rune",
+      "minecraft:evocation_focus",
+      "minecraft:evocation_focus",
+      "minecraft:evocation_focus",
+      "minecraft:evocation_focus"
+    ]
+  },
+  "irons_spellbooks:evocation_upgrade_orb": {
+    "result": "irons_spellbooks:evocation_upgrade_orb",
+    "count": 1,
+    "ingredients": [
+      "irons_spellbooks:evocation_rune",
+      "irons_spellbooks:evocation_rune",
+      "irons_spellbooks:evocation_rune",
+      "irons_spellbooks:evocation_rune",
+      "irons_spellbooks:upgrade_orb",
+      "irons_spellbooks:evocation_rune",
+      "irons_spellbooks:evocation_rune",
+      "irons_spellbooks:evocation_rune",
+      "irons_spellbooks:evocation_rune"
+    ]
+  },
+  "moderndynamics:ev_cable": {
+    "result": "moderndynamics:ev_cable",
+    "count": 4,
+    "ingredients": [
+      "modern_industrialization:annealed_copper_cable",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:ev_storage_unit": {
+    "result": "modern_industrialization:ev_storage_unit",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:cadmium_battery",
+      "modern_industrialization:cadmium_battery",
+      "modern_industrialization:cadmium_battery",
+      "minecraft:battery_alloy",
+      "modern_industrialization:highly_advanced_machine_hull",
+      "minecraft:battery_alloy",
+      "modern_industrialization:cadmium_battery",
+      "modern_industrialization:cadmium_battery",
+      "modern_industrialization:cadmium_battery"
+    ]
+  },
+  "modern_industrialization:ev_superconductor_transformer": {
+    "result": "modern_industrialization:ev_superconductor_transformer",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:annealed_copper_cable",
+      "modern_industrialization:annealed_copper_cable",
+      "",
+      "",
+      "modern_industrialization:highly_advanced_machine_hull",
+      "modern_industrialization:superconductor_cable",
+      "modern_industrialization:annealed_copper_cable",
+      "modern_industrialization:annealed_copper_cable",
+      ""
+    ]
+  },
+  "modern_industrialization:ev_hv_transformer": {
+    "result": "modern_industrialization:ev_hv_transformer",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:hv_ev_transformer",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:ev_energy_input_hatch": {
+    "result": "modern_industrialization:ev_energy_input_hatch",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:annealed_copper_cable",
+      "",
+      "",
+      "modern_industrialization:highly_advanced_machine_hull",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:ev_energy_output_hatch": {
+    "result": "modern_industrialization:ev_energy_output_hatch",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:highly_advanced_machine_hull",
+      "",
+      "",
+      "modern_industrialization:annealed_copper_cable",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "sophisticatedbackpacks:everlasting_upgrade": {
+    "result": "sophisticatedbackpacks:everlasting_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:end_crystal",
+      "minecraft:nether_stars",
+      "minecraft:end_crystal",
+      "minecraft:nether_stars",
+      "sophisticatedbackpacks:upgrade_base",
+      "minecraft:nether_stars",
+      "minecraft:end_crystal",
+      "minecraft:nether_stars",
+      "minecraft:end_crystal"
+    ]
+  }
+}

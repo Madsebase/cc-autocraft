@@ -1,0 +1,422 @@
+{
+  "actuallyadditions:farmer": {
+    "result": "actuallyadditions:farmer",
+    "count": 1,
+    "ingredients": [
+      "actuallyadditions:farmer",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_nouveau:falseweave": {
+    "result": "ars_nouveau:falseweave",
+    "count": 8,
+    "ingredients": [
+      "ars_nouveau:magebloom_block",
+      "ars_nouveau:magebloom_block",
+      "ars_nouveau:magebloom_block",
+      "ars_nouveau:magebloom_block",
+      "ars_nouveau:air_essence",
+      "ars_nouveau:magebloom_block",
+      "ars_nouveau:magebloom_block",
+      "ars_nouveau:magebloom_block",
+      "ars_nouveau:magebloom_block"
+    ]
+  },
+  "bibliocraft:fancy_gold_lamp": {
+    "result": "bibliocraft:fancy_gold_lamp",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glowstone",
+      "minecraft:glass",
+      "",
+      "minecraft:gold_ingot",
+      "",
+      "minecraft:gold",
+      "minecraft:gold_ingot",
+      "minecraft:gold"
+    ]
+  },
+  "bibliocraft:fancy_gold_lantern": {
+    "result": "bibliocraft:fancy_gold_lantern",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:gold_ingot",
+      "minecraft:glass",
+      "minecraft:gold_ingot",
+      "minecraft:candle",
+      "minecraft:gold_ingot",
+      "minecraft:glass",
+      "minecraft:gold_ingot",
+      "minecraft:glass"
+    ]
+  },
+  "bibliocraft:fancy_iron_lamp": {
+    "result": "bibliocraft:fancy_iron_lamp",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glowstone",
+      "minecraft:glass",
+      "",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron",
+      "minecraft:iron_ingot",
+      "minecraft:iron"
+    ]
+  },
+  "bibliocraft:fancy_iron_lantern": {
+    "result": "bibliocraft:fancy_iron_lantern",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:iron_ingot",
+      "minecraft:glass",
+      "minecraft:iron_ingot",
+      "minecraft:candle",
+      "minecraft:iron_ingot",
+      "minecraft:glass",
+      "minecraft:iron_ingot",
+      "minecraft:glass"
+    ]
+  },
+  "create:factory_gauge": {
+    "result": "create:factory_gauge",
+    "count": 1,
+    "ingredients": [
+      "create:factory_gauge",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "easy_villagers:farmer": {
+    "result": "easy_villagers:farmer",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:water_bucket",
+      "minecraft:glass",
+      "minecraft:iron_ingot",
+      "minecraft:dirt",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "enderio:farming_station": {
+    "result": "enderio:farming_station",
+    "count": 1,
+    "ingredients": [
+      "minecraft:energized",
+      "minecraft:pulsating_crystal",
+      "minecraft:energized",
+      "minecraft:soularium",
+      "enderio:ensouled_chassis",
+      "minecraft:soularium",
+      "modern_industrialization:steel_ingot",
+      "enderio:z_logic_controller",
+      "modern_industrialization:steel_ingot"
+    ]
+  },
+  "factory_blocks:factory": {
+    "result": "factory_blocks:factory",
+    "count": 32,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:stone",
+      "minecraft:iron_ingot",
+      "minecraft:stone",
+      "",
+      "minecraft:stone",
+      "minecraft:iron_ingot",
+      "minecraft:stone",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "handcrafted:fancy_painting": {
+    "result": "handcrafted:fancy_painting",
+    "count": 1,
+    "ingredients": [
+      "minecraft:painting",
+      "minecraft:gold_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "hostilenetworks:fab_directive": {
+    "result": "hostilenetworks:fab_directive",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:generalized_predictions",
+      "",
+      "minecraft:paper",
+      "hostilenetworks:prediction_matrix",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      ""
+    ]
+  },
+  "integrateddynamics:facade": {
+    "result": "integrateddynamics:facade",
+    "count": 32,
+    "ingredients": [
+      "",
+      "minecraft:slime_ball",
+      "",
+      "minecraft:slime_ball",
+      "integrateddynamics:crystalized_menril_chunk",
+      "minecraft:slime_ball",
+      "",
+      "minecraft:slime_ball",
+      ""
+    ]
+  },
+  "mahoutsukai:faecake": {
+    "result": "mahoutsukai:faecake",
+    "count": 1,
+    "ingredients": [
+      "minecraft:sugar",
+      "minecraft:wheat",
+      "mahoutsukai:fae_essence",
+      "minecraft:egg",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwholidays:fairy_garland_wall_deco": {
+    "result": "mcwholidays:fairy_garland_wall_deco",
+    "count": 1,
+    "ingredients": [
+      "minecraft:green_dye",
+      "minecraft:paper",
+      "minecraft:green_dye",
+      "",
+      "minecraft:yellow_dye",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mob_grinding_utils:fan": {
+    "result": "mob_grinding_utils:fan",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone_slab",
+      "minecraft:iron_ingot",
+      "minecraft:stone_slab",
+      "minecraft:iron_ingot",
+      "minecraft:redstone",
+      "minecraft:iron_ingot",
+      "minecraft:stone_slab",
+      "minecraft:iron_ingot",
+      "minecraft:stone_slab"
+    ]
+  },
+  "mob_grinding_utils:fan_upgrade_height": {
+    "result": "mob_grinding_utils:fan_upgrade_height",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:feather",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:feather",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:feather",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "mob_grinding_utils:fan_upgrade_speed": {
+    "result": "mob_grinding_utils:fan_upgrade_speed",
+    "count": 1,
+    "ingredients": [
+      "minecraft:feather",
+      "minecraft:iron_ingot",
+      "minecraft:feather",
+      "minecraft:iron_ingot",
+      "minecraft:redstone",
+      "minecraft:iron_ingot",
+      "minecraft:feather",
+      "minecraft:iron_ingot",
+      "minecraft:feather"
+    ]
+  },
+  "mob_grinding_utils:fan_upgrade_width": {
+    "result": "mob_grinding_utils:fan_upgrade_width",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:feather",
+      "minecraft:feather",
+      "minecraft:feather",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "modularrouters:fast_pickup_augment": {
+    "result": "modularrouters:fast_pickup_augment",
+    "count": 1,
+    "ingredients": [
+      "modularrouters:augment_core",
+      "minecraft:fishing_rod",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "naturesaura:farming_stencil": {
+    "result": "naturesaura:farming_stencil",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "naturesaura:infused_iron_hoe",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:dirt",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks"
+    ]
+  },
+  "pamhc2foodextended:fairybreaditem": {
+    "result": "pamhc2foodextended:fairybreaditem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:bread",
+      "minecraft:butter",
+      "minecraft:dyes",
+      "minecraft:dyes",
+      "minecraft:dyes",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:fajitaburritoitem": {
+    "result": "pamhc2foodextended:fajitaburritoitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_skillet",
+      "minecraft:rawmeats",
+      "minecraft:onion",
+      "minecraft:bellpepper",
+      "minecraft:spiceleaf",
+      "minecraft:tomato",
+      "minecraft:tortilla",
+      "",
+      ""
+    ]
+  },
+  "refinedstorage:fallback_security_card": {
+    "result": "refinedstorage:fallback_security_card",
+    "count": 1,
+    "ingredients": [
+      "refinedstorage:security_card",
+      "minecraft:paper",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "sfm:fancy_cable": {
+    "result": "sfm:fancy_cable",
+    "count": 1,
+    "ingredients": [
+      "sfm:tough_fancy_cable",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "supplementaries:faucet": {
+    "result": "supplementaries:faucet",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "xnet:facade": {
+    "result": "xnet:facade",
+    "count": 16,
+    "ingredients": [
+      "minecraft:paper",
+      "minecraft:white_wool",
+      "minecraft:paper",
+      "minecraft:white_wool",
+      "minecraft:glass",
+      "minecraft:white_wool",
+      "minecraft:paper",
+      "minecraft:white_wool",
+      "minecraft:paper"
+    ]
+  },
+  "xycraft_machines:fabricator": {
+    "result": "xycraft_machines:fabricator",
+    "count": 1,
+    "ingredients": [
+      "minecraft:xychorium",
+      "minecraft:crafting_table",
+      "minecraft:xychorium",
+      "minecraft:kivi",
+      "xycraft_machines:machine_base",
+      "minecraft:kivi",
+      "minecraft:xychorium",
+      "minecraft:chest",
+      "minecraft:xychorium"
+    ]
+  }
+}

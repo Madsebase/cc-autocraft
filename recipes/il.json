@@ -1,0 +1,977 @@
+{
+  "simplylight:illuminant_black_block": {
+    "result": "simplylight:illuminant_black_block",
+    "count": 1,
+    "ingredients": [
+      "simplylight:illuminant_black_block_on",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "simplylight:illuminant_black_block_on": {
+    "result": "simplylight:illuminant_black_block_on",
+    "count": 1,
+    "ingredients": [
+      "simplylight:illuminant_black_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "simplylight:illuminant_block": {
+    "result": "simplylight:illuminant_block",
+    "count": 1,
+    "ingredients": [
+      "simplylight:illuminant_block_on",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "simplylight:illuminant_block_on": {
+    "result": "simplylight:illuminant_block_on",
+    "count": 1,
+    "ingredients": [
+      "simplylight:illuminant_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "simplylight:illuminant_blue_block": {
+    "result": "simplylight:illuminant_blue_block",
+    "count": 1,
+    "ingredients": [
+      "simplylight:illuminant_blue_block_on",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "simplylight:illuminant_blue_block_on": {
+    "result": "simplylight:illuminant_blue_block_on",
+    "count": 1,
+    "ingredients": [
+      "simplylight:illuminant_blue_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "simplylight:illuminant_brown_block": {
+    "result": "simplylight:illuminant_brown_block",
+    "count": 1,
+    "ingredients": [
+      "simplylight:illuminant_brown_block_on",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "simplylight:illuminant_brown_block_on": {
+    "result": "simplylight:illuminant_brown_block_on",
+    "count": 1,
+    "ingredients": [
+      "simplylight:illuminant_brown_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "simplylight:illuminant_cyan_block": {
+    "result": "simplylight:illuminant_cyan_block",
+    "count": 1,
+    "ingredients": [
+      "simplylight:illuminant_cyan_block_on",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "simplylight:illuminant_cyan_block_on": {
+    "result": "simplylight:illuminant_cyan_block_on",
+    "count": 1,
+    "ingredients": [
+      "simplylight:illuminant_cyan_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "simplylight:illuminant_gray_block": {
+    "result": "simplylight:illuminant_gray_block",
+    "count": 1,
+    "ingredients": [
+      "simplylight:illuminant_gray_block_on",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "simplylight:illuminant_gray_block_on": {
+    "result": "simplylight:illuminant_gray_block_on",
+    "count": 1,
+    "ingredients": [
+      "simplylight:illuminant_gray_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "simplylight:illuminant_green_block": {
+    "result": "simplylight:illuminant_green_block",
+    "count": 1,
+    "ingredients": [
+      "simplylight:illuminant_green_block_on",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "simplylight:illuminant_green_block_on": {
+    "result": "simplylight:illuminant_green_block_on",
+    "count": 1,
+    "ingredients": [
+      "simplylight:illuminant_green_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "simplylight:illuminant_light_blue_block": {
+    "result": "simplylight:illuminant_light_blue_block",
+    "count": 1,
+    "ingredients": [
+      "simplylight:illuminant_light_blue_block_on",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "simplylight:illuminant_light_blue_block_on": {
+    "result": "simplylight:illuminant_light_blue_block_on",
+    "count": 1,
+    "ingredients": [
+      "simplylight:illuminant_light_blue_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "simplylight:illuminant_light_gray_block": {
+    "result": "simplylight:illuminant_light_gray_block",
+    "count": 1,
+    "ingredients": [
+      "simplylight:illuminant_light_gray_block_on",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "simplylight:illuminant_light_gray_block_on": {
+    "result": "simplylight:illuminant_light_gray_block_on",
+    "count": 1,
+    "ingredients": [
+      "simplylight:illuminant_light_gray_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "simplylight:illuminant_lime_block": {
+    "result": "simplylight:illuminant_lime_block",
+    "count": 1,
+    "ingredients": [
+      "simplylight:illuminant_lime_block_on",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "simplylight:illuminant_lime_block_on": {
+    "result": "simplylight:illuminant_lime_block_on",
+    "count": 1,
+    "ingredients": [
+      "simplylight:illuminant_lime_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "simplylight:illuminant_magenta_block": {
+    "result": "simplylight:illuminant_magenta_block",
+    "count": 1,
+    "ingredients": [
+      "simplylight:illuminant_magenta_block_on",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "simplylight:illuminant_magenta_block_on": {
+    "result": "simplylight:illuminant_magenta_block_on",
+    "count": 1,
+    "ingredients": [
+      "simplylight:illuminant_magenta_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "simplylight:illuminant_orange_block": {
+    "result": "simplylight:illuminant_orange_block",
+    "count": 1,
+    "ingredients": [
+      "simplylight:illuminant_orange_block_on",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "simplylight:illuminant_orange_block_on": {
+    "result": "simplylight:illuminant_orange_block_on",
+    "count": 1,
+    "ingredients": [
+      "simplylight:illuminant_orange_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "simplylight:illuminant_panel_black": {
+    "result": "simplylight:illuminant_panel_black",
+    "count": 6,
+    "ingredients": [
+      "simplylight:illuminant_slab_black",
+      "simplylight:illuminant_slab_black",
+      "simplylight:illuminant_slab_black",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "simplylight:illuminant_panel_blue": {
+    "result": "simplylight:illuminant_panel_blue",
+    "count": 6,
+    "ingredients": [
+      "simplylight:illuminant_slab_blue",
+      "simplylight:illuminant_slab_blue",
+      "simplylight:illuminant_slab_blue",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "simplylight:illuminant_panel_brown": {
+    "result": "simplylight:illuminant_panel_brown",
+    "count": 6,
+    "ingredients": [
+      "simplylight:illuminant_slab_brown",
+      "simplylight:illuminant_slab_brown",
+      "simplylight:illuminant_slab_brown",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "simplylight:illuminant_panel_cyan": {
+    "result": "simplylight:illuminant_panel_cyan",
+    "count": 6,
+    "ingredients": [
+      "simplylight:illuminant_slab_cyan",
+      "simplylight:illuminant_slab_cyan",
+      "simplylight:illuminant_slab_cyan",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "simplylight:illuminant_panel": {
+    "result": "simplylight:illuminant_panel",
+    "count": 6,
+    "ingredients": [
+      "simplylight:illuminant_slab",
+      "simplylight:illuminant_slab",
+      "simplylight:illuminant_slab",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "simplylight:illuminant_panel_gray": {
+    "result": "simplylight:illuminant_panel_gray",
+    "count": 6,
+    "ingredients": [
+      "simplylight:illuminant_slab_gray",
+      "simplylight:illuminant_slab_gray",
+      "simplylight:illuminant_slab_gray",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "simplylight:illuminant_panel_green": {
+    "result": "simplylight:illuminant_panel_green",
+    "count": 6,
+    "ingredients": [
+      "simplylight:illuminant_slab_green",
+      "simplylight:illuminant_slab_green",
+      "simplylight:illuminant_slab_green",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "simplylight:illuminant_panel_light_blue": {
+    "result": "simplylight:illuminant_panel_light_blue",
+    "count": 6,
+    "ingredients": [
+      "simplylight:illuminant_slab_light_blue",
+      "simplylight:illuminant_slab_light_blue",
+      "simplylight:illuminant_slab_light_blue",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "simplylight:illuminant_panel_light_gray": {
+    "result": "simplylight:illuminant_panel_light_gray",
+    "count": 6,
+    "ingredients": [
+      "simplylight:illuminant_slab_light_gray",
+      "simplylight:illuminant_slab_light_gray",
+      "simplylight:illuminant_slab_light_gray",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "simplylight:illuminant_panel_lime": {
+    "result": "simplylight:illuminant_panel_lime",
+    "count": 6,
+    "ingredients": [
+      "simplylight:illuminant_slab_lime",
+      "simplylight:illuminant_slab_lime",
+      "simplylight:illuminant_slab_lime",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "simplylight:illuminant_panel_magenta": {
+    "result": "simplylight:illuminant_panel_magenta",
+    "count": 6,
+    "ingredients": [
+      "simplylight:illuminant_slab_magenta",
+      "simplylight:illuminant_slab_magenta",
+      "simplylight:illuminant_slab_magenta",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "simplylight:illuminant_panel_orange": {
+    "result": "simplylight:illuminant_panel_orange",
+    "count": 6,
+    "ingredients": [
+      "simplylight:illuminant_slab_orange",
+      "simplylight:illuminant_slab_orange",
+      "simplylight:illuminant_slab_orange",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "simplylight:illuminant_panel_pink": {
+    "result": "simplylight:illuminant_panel_pink",
+    "count": 6,
+    "ingredients": [
+      "simplylight:illuminant_slab_pink",
+      "simplylight:illuminant_slab_pink",
+      "simplylight:illuminant_slab_pink",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "simplylight:illuminant_panel_purple": {
+    "result": "simplylight:illuminant_panel_purple",
+    "count": 6,
+    "ingredients": [
+      "simplylight:illuminant_slab_purple",
+      "simplylight:illuminant_slab_purple",
+      "simplylight:illuminant_slab_purple",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "simplylight:illuminant_panel_red": {
+    "result": "simplylight:illuminant_panel_red",
+    "count": 6,
+    "ingredients": [
+      "simplylight:illuminant_slab_red",
+      "simplylight:illuminant_slab_red",
+      "simplylight:illuminant_slab_red",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "simplylight:illuminant_panel_yellow": {
+    "result": "simplylight:illuminant_panel_yellow",
+    "count": 6,
+    "ingredients": [
+      "simplylight:illuminant_slab_yellow",
+      "simplylight:illuminant_slab_yellow",
+      "simplylight:illuminant_slab_yellow",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "simplylight:illuminant_pink_block": {
+    "result": "simplylight:illuminant_pink_block",
+    "count": 1,
+    "ingredients": [
+      "simplylight:illuminant_pink_block_on",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "simplylight:illuminant_pink_block_on": {
+    "result": "simplylight:illuminant_pink_block_on",
+    "count": 1,
+    "ingredients": [
+      "simplylight:illuminant_pink_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "simplylight:illuminant_purple_block": {
+    "result": "simplylight:illuminant_purple_block",
+    "count": 1,
+    "ingredients": [
+      "simplylight:illuminant_purple_block_on",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "simplylight:illuminant_purple_block_on": {
+    "result": "simplylight:illuminant_purple_block_on",
+    "count": 1,
+    "ingredients": [
+      "simplylight:illuminant_purple_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "simplylight:illuminant_red_block": {
+    "result": "simplylight:illuminant_red_block",
+    "count": 1,
+    "ingredients": [
+      "simplylight:illuminant_red_block_on",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "simplylight:illuminant_red_block_on": {
+    "result": "simplylight:illuminant_red_block_on",
+    "count": 1,
+    "ingredients": [
+      "simplylight:illuminant_red_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "simplylight:illuminant_slab": {
+    "result": "simplylight:illuminant_slab",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:white_dye",
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:any_slab"
+    ]
+  },
+  "simplylight:illuminant_slab_black": {
+    "result": "simplylight:illuminant_slab_black",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:black_dye",
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:any_slab"
+    ]
+  },
+  "simplylight:illuminant_slab_blue": {
+    "result": "simplylight:illuminant_slab_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:blue_dye",
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:any_slab"
+    ]
+  },
+  "simplylight:illuminant_slab_brown": {
+    "result": "simplylight:illuminant_slab_brown",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:brown_dye",
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:any_slab"
+    ]
+  },
+  "simplylight:illuminant_slab_cyan": {
+    "result": "simplylight:illuminant_slab_cyan",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:cyan_dye",
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:any_slab"
+    ]
+  },
+  "simplylight:illuminant_slab_gray": {
+    "result": "simplylight:illuminant_slab_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:gray_dye",
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:any_slab"
+    ]
+  },
+  "simplylight:illuminant_slab_green": {
+    "result": "simplylight:illuminant_slab_green",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:green_dye",
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:any_slab"
+    ]
+  },
+  "simplylight:illuminant_slab_light_blue": {
+    "result": "simplylight:illuminant_slab_light_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:light_blue_dye",
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:any_slab"
+    ]
+  },
+  "simplylight:illuminant_slab_light_gray": {
+    "result": "simplylight:illuminant_slab_light_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:light_gray_dye",
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:any_slab"
+    ]
+  },
+  "simplylight:illuminant_slab_lime": {
+    "result": "simplylight:illuminant_slab_lime",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:lime_dye",
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:any_slab"
+    ]
+  },
+  "simplylight:illuminant_slab_magenta": {
+    "result": "simplylight:illuminant_slab_magenta",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:magenta_dye",
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:any_slab"
+    ]
+  },
+  "simplylight:illuminant_slab_orange": {
+    "result": "simplylight:illuminant_slab_orange",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:orange_dye",
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:any_slab"
+    ]
+  },
+  "simplylight:illuminant_slab_pink": {
+    "result": "simplylight:illuminant_slab_pink",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:pink_dye",
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:any_slab"
+    ]
+  },
+  "simplylight:illuminant_slab_purple": {
+    "result": "simplylight:illuminant_slab_purple",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:purple_dye",
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:any_slab"
+    ]
+  },
+  "simplylight:illuminant_slab_red": {
+    "result": "simplylight:illuminant_slab_red",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:red_dye",
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:any_slab"
+    ]
+  },
+  "simplylight:illuminant_slab_yellow": {
+    "result": "simplylight:illuminant_slab_yellow",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:yellow_dye",
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:any_slab",
+      "minecraft:any_slab"
+    ]
+  },
+  "simplylight:illuminant_yellow_block": {
+    "result": "simplylight:illuminant_yellow_block",
+    "count": 1,
+    "ingredients": [
+      "simplylight:illuminant_yellow_block_on",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "simplylight:illuminant_yellow_block_on": {
+    "result": "simplylight:illuminant_yellow_block_on",
+    "count": 1,
+    "ingredients": [
+      "simplylight:illuminant_yellow_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xycraft_machines:illumination_field": {
+    "result": "xycraft_machines:illumination_field",
+    "count": 1,
+    "ingredients": [
+      "minecraft:aluminum",
+      "minecraft:aluminum",
+      "minecraft:aluminum",
+      "minecraft:aluminum",
+      "xycraft_machines:light_field",
+      "minecraft:aluminum",
+      "minecraft:aluminum",
+      "minecraft:aluminum",
+      "minecraft:aluminum"
+    ]
+  }
+}

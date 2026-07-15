@@ -1,0 +1,2267 @@
+{
+  "allthecompressed:glass_1x": {
+    "result": "allthecompressed:glass_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:glass_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:glass_2x": {
+    "result": "allthecompressed:glass_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:glass_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:glass_3x": {
+    "result": "allthecompressed:glass_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:glass_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:glass_4x": {
+    "result": "allthecompressed:glass_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:glass_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:glass_5x": {
+    "result": "allthecompressed:glass_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:glass_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:glass_6x": {
+    "result": "allthecompressed:glass_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:glass_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:glass_7x": {
+    "result": "allthecompressed:glass_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:glass_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:glass_8x": {
+    "result": "allthecompressed:glass_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:glass_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:glass_9x": {
+    "result": "allthecompressed:glass_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:glass_8x",
+      "allthecompressed:glass_8x",
+      "allthecompressed:glass_8x",
+      "allthecompressed:glass_8x",
+      "allthecompressed:glass_8x",
+      "allthecompressed:glass_8x",
+      "allthecompressed:glass_8x",
+      "allthecompressed:glass_8x",
+      "allthecompressed:glass_8x"
+    ]
+  },
+  "allthecompressed:glowstone_1x": {
+    "result": "allthecompressed:glowstone_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:glowstone_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:glowstone_2x": {
+    "result": "allthecompressed:glowstone_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:glowstone_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:glowstone_3x": {
+    "result": "allthecompressed:glowstone_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:glowstone_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:glowstone_4x": {
+    "result": "allthecompressed:glowstone_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:glowstone_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:glowstone_5x": {
+    "result": "allthecompressed:glowstone_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:glowstone_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:glowstone_6x": {
+    "result": "allthecompressed:glowstone_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:glowstone_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:glowstone_7x": {
+    "result": "allthecompressed:glowstone_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:glowstone_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:glowstone_8x": {
+    "result": "allthecompressed:glowstone_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:glowstone_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:glowstone_9x": {
+    "result": "allthecompressed:glowstone_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:glowstone_8x",
+      "allthecompressed:glowstone_8x",
+      "allthecompressed:glowstone_8x",
+      "allthecompressed:glowstone_8x",
+      "allthecompressed:glowstone_8x",
+      "allthecompressed:glowstone_8x",
+      "allthecompressed:glowstone_8x",
+      "allthecompressed:glowstone_8x",
+      "allthecompressed:glowstone_8x"
+    ]
+  },
+  "minecraft:glass": {
+    "result": "minecraft:glass",
+    "count": 1,
+    "ingredients": [
+      "quark:dirty_glass",
+      "supplementaries:soap",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:glowstone": {
+    "result": "minecraft:glowstone",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glowstone_dust",
+      "minecraft:glowstone_dust",
+      "",
+      "minecraft:glowstone_dust",
+      "minecraft:glowstone_dust",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "apothic_enchanting:glowing_hellshelf": {
+    "result": "apothic_enchanting:glowing_hellshelf",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:glowstone",
+      "",
+      "",
+      "apothic_enchanting:infused_hellshelf",
+      "",
+      "minecraft:glowstone",
+      "",
+      "minecraft:glowstone"
+    ]
+  },
+  "minecraft:glowstone_dust": {
+    "result": "minecraft:glowstone_dust",
+    "count": 6,
+    "ingredients": [
+      "reliquary:witch_hat",
+      "",
+      "",
+      "reliquary:witch_hat",
+      "",
+      "",
+      "",
+      "reliquary:witch_hat",
+      ""
+    ]
+  },
+  "minecraft:glass_pane": {
+    "result": "minecraft:glass_pane",
+    "count": 1,
+    "ingredients": [
+      "quark:dirty_glass_pane",
+      "supplementaries:soap",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "deeperdarker:gleam_gel_block": {
+    "result": "deeperdarker:gleam_gel_block",
+    "count": 1,
+    "ingredients": [
+      "deeperdarker:gleam_gel",
+      "deeperdarker:gleam_gel",
+      "deeperdarker:gleam_gel",
+      "deeperdarker:gleam_gel",
+      "deeperdarker:gleam_gel",
+      "deeperdarker:gleam_gel",
+      "deeperdarker:gleam_gel",
+      "deeperdarker:gleam_gel",
+      "deeperdarker:gleam_gel"
+    ]
+  },
+  "deeperdarker:gloomslate_bricks": {
+    "result": "deeperdarker:gloomslate_bricks",
+    "count": 4,
+    "ingredients": [
+      "deeperdarker:polished_gloomslate",
+      "deeperdarker:polished_gloomslate",
+      "",
+      "deeperdarker:polished_gloomslate",
+      "deeperdarker:polished_gloomslate",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "deeperdarker:gloomslate_brick_fence": {
+    "result": "deeperdarker:gloomslate_brick_fence",
+    "count": 6,
+    "ingredients": [
+      "deeperdarker:gloomslate_bricks",
+      "minecraft:stick",
+      "deeperdarker:gloomslate_bricks",
+      "deeperdarker:gloomslate_bricks",
+      "minecraft:stick",
+      "deeperdarker:gloomslate_bricks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "deeperdarker:gloomslate_brick_slab": {
+    "result": "deeperdarker:gloomslate_brick_slab",
+    "count": 6,
+    "ingredients": [
+      "deeperdarker:gloomslate_bricks",
+      "deeperdarker:gloomslate_bricks",
+      "deeperdarker:gloomslate_bricks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "deeperdarker:gloomslate_brick_stairs": {
+    "result": "deeperdarker:gloomslate_brick_stairs",
+    "count": 4,
+    "ingredients": [
+      "deeperdarker:gloomslate_bricks",
+      "",
+      "",
+      "deeperdarker:gloomslate_bricks",
+      "deeperdarker:gloomslate_bricks",
+      "",
+      "deeperdarker:gloomslate_bricks",
+      "deeperdarker:gloomslate_bricks",
+      "deeperdarker:gloomslate_bricks"
+    ]
+  },
+  "deeperdarker:gloomslate_brick_wall": {
+    "result": "deeperdarker:gloomslate_brick_wall",
+    "count": 6,
+    "ingredients": [
+      "deeperdarker:gloomslate_bricks",
+      "deeperdarker:gloomslate_bricks",
+      "deeperdarker:gloomslate_bricks",
+      "deeperdarker:gloomslate_bricks",
+      "deeperdarker:gloomslate_bricks",
+      "deeperdarker:gloomslate_bricks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "deeperdarker:gloomslate_light": {
+    "result": "deeperdarker:gloomslate_light",
+    "count": 1,
+    "ingredients": [
+      "",
+      "deeperdarker:gloomslate",
+      "",
+      "deeperdarker:gloomslate",
+      "deeperdarker:sculk_gleam",
+      "deeperdarker:gloomslate",
+      "",
+      "deeperdarker:gloomslate",
+      ""
+    ]
+  },
+  "deeperdarker:gloomslate_slab": {
+    "result": "deeperdarker:gloomslate_slab",
+    "count": 6,
+    "ingredients": [
+      "deeperdarker:gloomslate",
+      "deeperdarker:gloomslate",
+      "deeperdarker:gloomslate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "deeperdarker:gloomslate_stairs": {
+    "result": "deeperdarker:gloomslate_stairs",
+    "count": 4,
+    "ingredients": [
+      "deeperdarker:gloomslate",
+      "",
+      "",
+      "deeperdarker:gloomslate",
+      "deeperdarker:gloomslate",
+      "",
+      "deeperdarker:gloomslate",
+      "deeperdarker:gloomslate",
+      "deeperdarker:gloomslate"
+    ]
+  },
+  "deeperdarker:gloomslate_tiles": {
+    "result": "deeperdarker:gloomslate_tiles",
+    "count": 4,
+    "ingredients": [
+      "deeperdarker:gloomslate_bricks",
+      "deeperdarker:gloomslate_bricks",
+      "",
+      "deeperdarker:gloomslate_bricks",
+      "deeperdarker:gloomslate_bricks",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "deeperdarker:gloomslate_tile_slab": {
+    "result": "deeperdarker:gloomslate_tile_slab",
+    "count": 6,
+    "ingredients": [
+      "deeperdarker:gloomslate_tiles",
+      "deeperdarker:gloomslate_tiles",
+      "deeperdarker:gloomslate_tiles",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "deeperdarker:gloomslate_tile_stairs": {
+    "result": "deeperdarker:gloomslate_tile_stairs",
+    "count": 4,
+    "ingredients": [
+      "deeperdarker:gloomslate_tiles",
+      "",
+      "",
+      "deeperdarker:gloomslate_tiles",
+      "deeperdarker:gloomslate_tiles",
+      "",
+      "deeperdarker:gloomslate_tiles",
+      "deeperdarker:gloomslate_tiles",
+      "deeperdarker:gloomslate_tiles"
+    ]
+  },
+  "deeperdarker:gloomslate_tile_wall": {
+    "result": "deeperdarker:gloomslate_tile_wall",
+    "count": 6,
+    "ingredients": [
+      "deeperdarker:gloomslate_tiles",
+      "deeperdarker:gloomslate_tiles",
+      "deeperdarker:gloomslate_tiles",
+      "deeperdarker:gloomslate_tiles",
+      "deeperdarker:gloomslate_tiles",
+      "deeperdarker:gloomslate_tiles",
+      "",
+      "",
+      ""
+    ]
+  },
+  "deeperdarker:gloomslate_wall": {
+    "result": "deeperdarker:gloomslate_wall",
+    "count": 6,
+    "ingredients": [
+      "deeperdarker:gloomslate",
+      "deeperdarker:gloomslate",
+      "deeperdarker:gloomslate",
+      "deeperdarker:gloomslate",
+      "deeperdarker:gloomslate",
+      "deeperdarker:gloomslate",
+      "",
+      "",
+      ""
+    ]
+  },
+  "enderio:glider": {
+    "result": "enderio:glider",
+    "count": 1,
+    "ingredients": [
+      "",
+      "enderio:dark_steel_ingot",
+      "",
+      "enderio:glider_wing",
+      "enderio:dark_steel_ingot",
+      "enderio:glider_wing",
+      "",
+      "",
+      ""
+    ]
+  },
+  "enderio:glider_wing": {
+    "result": "enderio:glider_wing",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "modern_industrialization:steel_ingot",
+      "",
+      "modern_industrialization:steel_ingot",
+      "minecraft:leather",
+      "modern_industrialization:steel_ingot",
+      "minecraft:leather",
+      "minecraft:leather"
+    ]
+  },
+  "eternal_starlight:glacite_arrow": {
+    "result": "eternal_starlight:glacite_arrow",
+    "count": 4,
+    "ingredients": [
+      "minecraft:glacite",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:feather",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:glacite_axe": {
+    "result": "eternal_starlight:glacite_axe",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glacite",
+      "minecraft:glacite",
+      "",
+      "minecraft:glacite",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "eternal_starlight:glacite_block": {
+    "result": "eternal_starlight:glacite_block",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:glacite_shard",
+      "eternal_starlight:glacite_shard",
+      "eternal_starlight:glacite_shard",
+      "eternal_starlight:glacite_shard",
+      "eternal_starlight:glacite_shard",
+      "eternal_starlight:glacite_shard",
+      "eternal_starlight:glacite_shard",
+      "eternal_starlight:glacite_shard",
+      "eternal_starlight:glacite_shard"
+    ]
+  },
+  "eternal_starlight:glacite_boots": {
+    "result": "eternal_starlight:glacite_boots",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glacite",
+      "",
+      "minecraft:glacite",
+      "minecraft:glacite",
+      "",
+      "minecraft:glacite",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:glacite_chestplate": {
+    "result": "eternal_starlight:glacite_chestplate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glacite",
+      "",
+      "minecraft:glacite",
+      "minecraft:glacite",
+      "minecraft:glacite",
+      "minecraft:glacite",
+      "minecraft:glacite",
+      "minecraft:glacite",
+      "minecraft:glacite"
+    ]
+  },
+  "eternal_starlight:glacite_helmet": {
+    "result": "eternal_starlight:glacite_helmet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glacite",
+      "minecraft:glacite",
+      "minecraft:glacite",
+      "minecraft:glacite",
+      "",
+      "minecraft:glacite",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:glacite_hoe": {
+    "result": "eternal_starlight:glacite_hoe",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glacite",
+      "minecraft:glacite",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "eternal_starlight:glacite_leggings": {
+    "result": "eternal_starlight:glacite_leggings",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glacite",
+      "minecraft:glacite",
+      "minecraft:glacite",
+      "minecraft:glacite",
+      "",
+      "minecraft:glacite",
+      "minecraft:glacite",
+      "",
+      "minecraft:glacite"
+    ]
+  },
+  "eternal_starlight:glacite_pickaxe": {
+    "result": "eternal_starlight:glacite_pickaxe",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glacite",
+      "minecraft:glacite",
+      "minecraft:glacite",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "eternal_starlight:glacite_scythe": {
+    "result": "eternal_starlight:glacite_scythe",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glacite",
+      "minecraft:glacite",
+      "minecraft:glacite",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick"
+    ]
+  },
+  "eternal_starlight:glacite_shard": {
+    "result": "eternal_starlight:glacite_shard",
+    "count": 9,
+    "ingredients": [
+      "eternal_starlight:glacite_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:glacite_shield": {
+    "result": "eternal_starlight:glacite_shield",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "minecraft:glacite",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "",
+      "minecraft:oak_planks",
+      ""
+    ]
+  },
+  "eternal_starlight:glacite_shovel": {
+    "result": "eternal_starlight:glacite_shovel",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glacite",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:glacite_sword": {
+    "result": "eternal_starlight:glacite_sword",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glacite",
+      "",
+      "",
+      "minecraft:glacite",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "farmersdelight:gleaming_salad_block": {
+    "result": "farmersdelight:gleaming_salad_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glow_berries",
+      "minecraft:honey_bottle",
+      "minecraft:glow_berries",
+      "minecraft:tomato",
+      "minecraft:golden_carrot",
+      "minecraft:beetroot",
+      "farmersdelight:cabbage",
+      "minecraft:bowl",
+      "farmersdelight:cabbage"
+    ]
+  },
+  "glassential:glass_dark_ethereal": {
+    "result": "glassential:glass_dark_ethereal",
+    "count": 1,
+    "ingredients": [
+      "glassential:glass_dark_ethereal_reverse",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "glassential:glass_dark_ethereal_pane": {
+    "result": "glassential:glass_dark_ethereal_pane",
+    "count": 16,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "glassential:glass_dark_ethereal",
+      "glassential:glass_dark_ethereal",
+      "glassential:glass_dark_ethereal",
+      "glassential:glass_dark_ethereal",
+      "glassential:glass_dark_ethereal",
+      "glassential:glass_dark_ethereal"
+    ]
+  },
+  "glassential:glass_dark_ethereal_reverse": {
+    "result": "glassential:glass_dark_ethereal_reverse",
+    "count": 2,
+    "ingredients": [
+      "",
+      "minecraft:amethyst_shard",
+      "",
+      "minecraft:amethyst_shard",
+      "glassential:glass_ethereal_reverse",
+      "minecraft:amethyst_shard",
+      "",
+      "minecraft:amethyst_shard",
+      ""
+    ]
+  },
+  "glassential:glass_dark_ethereal_reverse_pane": {
+    "result": "glassential:glass_dark_ethereal_reverse_pane",
+    "count": 16,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "glassential:glass_dark_ethereal_reverse",
+      "glassential:glass_dark_ethereal_reverse",
+      "glassential:glass_dark_ethereal_reverse",
+      "glassential:glass_dark_ethereal_reverse",
+      "glassential:glass_dark_ethereal_reverse",
+      "glassential:glass_dark_ethereal_reverse"
+    ]
+  },
+  "glassential:glass_door": {
+    "result": "glassential:glass_door",
+    "count": 3,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "",
+      "minecraft:glass",
+      "minecraft:glass",
+      "",
+      "minecraft:glass",
+      "minecraft:glass",
+      ""
+    ]
+  },
+  "glassential:glass_ethereal": {
+    "result": "glassential:glass_ethereal",
+    "count": 1,
+    "ingredients": [
+      "glassential:glass_ethereal_reverse",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "glassential:glass_ethereal_pane": {
+    "result": "glassential:glass_ethereal_pane",
+    "count": 16,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "glassential:glass_ethereal",
+      "glassential:glass_ethereal",
+      "glassential:glass_ethereal",
+      "glassential:glass_ethereal",
+      "glassential:glass_ethereal",
+      "glassential:glass_ethereal"
+    ]
+  },
+  "glassential:glass_ethereal_reverse": {
+    "result": "glassential:glass_ethereal_reverse",
+    "count": 1,
+    "ingredients": [
+      "glassential:glass_ethereal",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "glassential:glass_ethereal_reverse_pane": {
+    "result": "glassential:glass_ethereal_reverse_pane",
+    "count": 16,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "glassential:glass_ethereal_reverse",
+      "glassential:glass_ethereal_reverse",
+      "glassential:glass_ethereal_reverse",
+      "glassential:glass_ethereal_reverse",
+      "glassential:glass_ethereal_reverse",
+      "glassential:glass_ethereal_reverse"
+    ]
+  },
+  "glassential:glass_ghostly": {
+    "result": "glassential:glass_ghostly",
+    "count": 4,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:ender_pearl",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "glassential:glass_ghostly_pane": {
+    "result": "glassential:glass_ghostly_pane",
+    "count": 16,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "glassential:glass_ghostly",
+      "glassential:glass_ghostly",
+      "glassential:glass_ghostly",
+      "glassential:glass_ghostly",
+      "glassential:glass_ghostly",
+      "glassential:glass_ghostly"
+    ]
+  },
+  "glassential:glass_glowstone_lamp": {
+    "result": "glassential:glass_glowstone_lamp",
+    "count": 2,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "glassential:glass_light",
+      "minecraft:glowstone",
+      "glassential:glass_light",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass"
+    ]
+  },
+  "glassential:glass_glowstone_lamp_tinted": {
+    "result": "glassential:glass_glowstone_lamp_tinted",
+    "count": 2,
+    "ingredients": [
+      "minecraft:tinted_glass",
+      "minecraft:tinted_glass",
+      "minecraft:tinted_glass",
+      "glassential:glass_light",
+      "minecraft:glowstone",
+      "glassential:glass_light",
+      "minecraft:tinted_glass",
+      "minecraft:tinted_glass",
+      "minecraft:tinted_glass"
+    ]
+  },
+  "glassential:glass_lava_lamp": {
+    "result": "glassential:glass_lava_lamp",
+    "count": 2,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:lava_bucket",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass"
+    ]
+  },
+  "glassential:glass_lava_lamp_tinted": {
+    "result": "glassential:glass_lava_lamp_tinted",
+    "count": 2,
+    "ingredients": [
+      "minecraft:tinted_glass",
+      "minecraft:tinted_glass",
+      "minecraft:tinted_glass",
+      "minecraft:tinted_glass",
+      "minecraft:lava_bucket",
+      "minecraft:tinted_glass",
+      "minecraft:tinted_glass",
+      "minecraft:tinted_glass",
+      "minecraft:tinted_glass"
+    ]
+  },
+  "glassential:glass_light": {
+    "result": "glassential:glass_light",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glowstone",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass"
+    ]
+  },
+  "glassential:glass_light_pane": {
+    "result": "glassential:glass_light_pane",
+    "count": 16,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "glassential:glass_light",
+      "glassential:glass_light",
+      "glassential:glass_light",
+      "glassential:glass_light",
+      "glassential:glass_light",
+      "glassential:glass_light"
+    ]
+  },
+  "glassential:glass_light_tinted": {
+    "result": "glassential:glass_light_tinted",
+    "count": 8,
+    "ingredients": [
+      "glassential:glass_light",
+      "glassential:glass_light",
+      "glassential:glass_light",
+      "glassential:glass_light",
+      "minecraft:tinted_glass",
+      "glassential:glass_light",
+      "glassential:glass_light",
+      "glassential:glass_light",
+      "glassential:glass_light"
+    ]
+  },
+  "glassential:glass_light_tinted_pane": {
+    "result": "glassential:glass_light_tinted_pane",
+    "count": 16,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "glassential:glass_light_tinted",
+      "glassential:glass_light_tinted",
+      "glassential:glass_light_tinted",
+      "glassential:glass_light_tinted",
+      "glassential:glass_light_tinted",
+      "glassential:glass_light_tinted"
+    ]
+  },
+  "glassential:glass_painter": {
+    "result": "glassential:glass_painter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:red_dye",
+      "minecraft:green_dye",
+      "minecraft:blue_dye",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:quartz",
+      ""
+    ]
+  },
+  "glassential:glass_redstone": {
+    "result": "glassential:glass_redstone",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:redstone_block",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass"
+    ]
+  },
+  "glassential:glass_redstone_pane": {
+    "result": "glassential:glass_redstone_pane",
+    "count": 16,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "glassential:glass_redstone",
+      "glassential:glass_redstone",
+      "glassential:glass_redstone",
+      "glassential:glass_redstone",
+      "glassential:glass_redstone",
+      "glassential:glass_redstone"
+    ]
+  },
+  "glassential:glass_redstone_tinted": {
+    "result": "glassential:glass_redstone_tinted",
+    "count": 8,
+    "ingredients": [
+      "glassential:glass_redstone",
+      "glassential:glass_redstone",
+      "glassential:glass_redstone",
+      "glassential:glass_redstone",
+      "minecraft:tinted_glass",
+      "glassential:glass_redstone",
+      "glassential:glass_redstone",
+      "glassential:glass_redstone",
+      "glassential:glass_redstone"
+    ]
+  },
+  "glassential:glass_redstone_tinted_pane": {
+    "result": "glassential:glass_redstone_tinted_pane",
+    "count": 16,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "glassential:glass_redstone_tinted",
+      "glassential:glass_redstone_tinted",
+      "glassential:glass_redstone_tinted",
+      "glassential:glass_redstone_tinted",
+      "glassential:glass_redstone_tinted",
+      "glassential:glass_redstone_tinted"
+    ]
+  },
+  "glassential:glass_slab": {
+    "result": "glassential:glass_slab",
+    "count": 6,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "",
+      "",
+      ""
+    ]
+  },
+  "glassential:glass_trapdoor": {
+    "result": "glassential:glass_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "glassential:glass_slab",
+      "minecraft:glass",
+      "",
+      "minecraft:glass",
+      "glassential:glass_slab",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:glider": {
+    "result": "immersiveengineering:glider",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:fabric_hemp",
+      "",
+      "minecraft:aluminum",
+      "minecraft:leather_chestplate",
+      "minecraft:aluminum",
+      "minecraft:fabric_hemp",
+      "minecraft:aluminum",
+      "minecraft:fabric_hemp"
+    ]
+  },
+  "mcwbridges:glass_bridge": {
+    "result": "mcwbridges:glass_bridge",
+    "count": 4,
+    "ingredients": [
+      "minecraft:glass_pane",
+      "",
+      "minecraft:glass_pane",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:glass_bridge_pier": {
+    "result": "mcwbridges:glass_bridge_pier",
+    "count": 3,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass_pane",
+      "minecraft:glass",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:glass_bridge_stair": {
+    "result": "mcwbridges:glass_bridge_stair",
+    "count": 6,
+    "ingredients": [
+      "",
+      "",
+      "mcwbridges:glass_bridge",
+      "",
+      "mcwbridges:glass_bridge",
+      "mcwbridges:glass_bridge",
+      "mcwbridges:glass_bridge",
+      "mcwbridges:glass_bridge",
+      "mcwbridges:glass_bridge"
+    ]
+  },
+  "mcwlights:glowstone_slab": {
+    "result": "mcwlights:glowstone_slab",
+    "count": 6,
+    "ingredients": [
+      "minecraft:glowstone",
+      "minecraft:glowstone",
+      "minecraft:glowstone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mffs:glow_module": {
+    "result": "mffs:glow_module",
+    "count": 4,
+    "ingredients": [
+      "minecraft:glowstone",
+      "minecraft:glowstone",
+      "minecraft:glowstone",
+      "minecraft:glowstone",
+      "mffs:focus_matrix",
+      "minecraft:glowstone",
+      "minecraft:glowstone",
+      "minecraft:glowstone",
+      "minecraft:glowstone"
+    ]
+  },
+  "minecraft:glass_bottle": {
+    "result": "minecraft:glass_bottle",
+    "count": 6,
+    "ingredients": [
+      "reliquary:witch_hat",
+      "",
+      "reliquary:witch_hat",
+      "",
+      "reliquary:witch_hat",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:glistering_melon_slice": {
+    "result": "minecraft:glistering_melon_slice",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_nugget",
+      "minecraft:gold_nugget",
+      "minecraft:gold_nugget",
+      "minecraft:gold_nugget",
+      "minecraft:melon_slice",
+      "minecraft:gold_nugget",
+      "minecraft:gold_nugget",
+      "minecraft:gold_nugget",
+      "minecraft:gold_nugget"
+    ]
+  },
+  "minecraft:glow_item_frame": {
+    "result": "minecraft:glow_item_frame",
+    "count": 1,
+    "ingredients": [
+      "minecraft:item_frame",
+      "minecraft:glow_ink_sac",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "chipped:glassblower": {
+    "result": "chipped:glassblower",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:glass",
+      "minecraft:iron_ingot",
+      "minecraft:bricks",
+      "minecraft:crafting_table",
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:blast_furnace",
+      "minecraft:bricks"
+    ]
+  },
+  "minecraft:glow_ink_sac": {
+    "result": "minecraft:glow_ink_sac",
+    "count": 1,
+    "ingredients": [
+      "minecraft:ink_sac",
+      "minecraft:stone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:glazedcarrotsitem": {
+    "result": "pamhc2foodcore:glazedcarrotsitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:carrot",
+      "minecraft:butter",
+      "minecraft:sugar",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:glowberrydonutitem": {
+    "result": "pamhc2foodcore:glowberrydonutitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:cookingoil",
+      "minecraft:batter",
+      "minecraft:glowberry",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:glowberryjellyitem": {
+    "result": "pamhc2foodcore:glowberryjellyitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:glowberryjuice",
+      "minecraft:sugar",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:glowberryjellytoastitem": {
+    "result": "pamhc2foodcore:glowberryjellytoastitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:toast",
+      "minecraft:glowberryjelly",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:glowberryjuiceitem": {
+    "result": "pamhc2foodcore:glowberryjuiceitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_juicer",
+      "minecraft:glowberry",
+      "minecraft:glowberry",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:glowberrymuffinitem": {
+    "result": "pamhc2foodcore:glowberrymuffinitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:glowberry",
+      "minecraft:batter",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:glowberrypieitem": {
+    "result": "pamhc2foodcore:glowberrypieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:sugar",
+      "minecraft:glowberry",
+      "minecraft:dough",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:glowberrypopsicleitem": {
+    "result": "pamhc2foodcore:glowberrypopsicleitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:glowberryjuice",
+      "minecraft:ices",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:glowberrysmoothieitem": {
+    "result": "pamhc2foodcore:glowberrysmoothieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:glowberryjuice",
+      "minecraft:ices",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:glowberryyogurtitem": {
+    "result": "pamhc2foodcore:glowberryyogurtitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:yogurt",
+      "minecraft:glowberry",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivebees:glowstone_nest": {
+    "result": "productivebees:glowstone_nest",
+    "count": 1,
+    "ingredients": [
+      "productivebees:glowstone_nest",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "refurbished_furniture:glow_berry_jam_toast": {
+    "result": "refurbished_furniture:glow_berry_jam_toast",
+    "count": 1,
+    "ingredients": [
+      "refurbished_furniture:glow_berry_jam",
+      "refurbished_furniture:toast",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:glowing_blue_bioshroom_block": {
+    "result": "regions_unexplored:glowing_blue_bioshroom_block",
+    "count": 4,
+    "ingredients": [
+      "",
+      "regions_unexplored:blue_bioshroom_block",
+      "",
+      "regions_unexplored:blue_bioshroom_block",
+      "minecraft:glowstone",
+      "regions_unexplored:blue_bioshroom_block",
+      "",
+      "regions_unexplored:blue_bioshroom_block",
+      ""
+    ]
+  },
+  "regions_unexplored:glowing_green_bioshroom_block": {
+    "result": "regions_unexplored:glowing_green_bioshroom_block",
+    "count": 4,
+    "ingredients": [
+      "",
+      "regions_unexplored:green_bioshroom_block",
+      "",
+      "regions_unexplored:green_bioshroom_block",
+      "minecraft:glowstone",
+      "regions_unexplored:green_bioshroom_block",
+      "",
+      "regions_unexplored:green_bioshroom_block",
+      ""
+    ]
+  },
+  "regions_unexplored:glowing_pink_bioshroom_block": {
+    "result": "regions_unexplored:glowing_pink_bioshroom_block",
+    "count": 4,
+    "ingredients": [
+      "",
+      "regions_unexplored:pink_bioshroom_block",
+      "",
+      "regions_unexplored:pink_bioshroom_block",
+      "minecraft:glowstone",
+      "regions_unexplored:pink_bioshroom_block",
+      "",
+      "regions_unexplored:pink_bioshroom_block",
+      ""
+    ]
+  },
+  "regions_unexplored:glowing_yellow_bioshroom_block": {
+    "result": "regions_unexplored:glowing_yellow_bioshroom_block",
+    "count": 4,
+    "ingredients": [
+      "",
+      "regions_unexplored:yellow_bioshroom_block",
+      "",
+      "regions_unexplored:yellow_bioshroom_block",
+      "minecraft:glowstone",
+      "regions_unexplored:yellow_bioshroom_block",
+      "",
+      "regions_unexplored:yellow_bioshroom_block",
+      ""
+    ]
+  },
+  "reliquary:glowing_bread": {
+    "result": "reliquary:glowing_bread",
+    "count": 3,
+    "ingredients": [
+      "minecraft:bread",
+      "minecraft:bread",
+      "minecraft:bread",
+      "reliquary:glowing_water",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "reliquary:glowing_water": {
+    "result": "reliquary:glowing_water",
+    "count": 1,
+    "ingredients": [
+      "reliquary:empty_potion_vial",
+      "minecraft:water_bucket",
+      "minecraft:stone",
+      "minecraft:gunpowder",
+      "minecraft:nether_wart",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "restrictions:glassboots": {
+    "result": "restrictions:glassboots",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "minecraft:glass",
+      "",
+      "minecraft:glass",
+      "minecraft:glass",
+      "",
+      "minecraft:glass"
+    ]
+  },
+  "securitycraft:glow_display_case": {
+    "result": "securitycraft:glow_display_case",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:glow_item_frame",
+      "securitycraft:reinforced_glass_pane",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "silentgear:glittery_dust": {
+    "result": "silentgear:glittery_dust",
+    "count": 8,
+    "ingredients": [
+      "minecraft:popped_chorus_fruit",
+      "minecraft:emerald",
+      "minecraft:popped_chorus_fruit",
+      "minecraft:stone",
+      "silentgear:nether_banana",
+      "minecraft:stone",
+      "minecraft:popped_chorus_fruit",
+      "minecraft:emerald",
+      "minecraft:popped_chorus_fruit"
+    ]
+  },
+  "silentgear:glowing_dust": {
+    "result": "silentgear:glowing_dust",
+    "count": 4,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:quartz",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "storagedelight:glass_acacia_cabinet": {
+    "result": "storagedelight:glass_acacia_cabinet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:acacia_slab",
+      "minecraft:acacia_slab",
+      "minecraft:acacia_slab",
+      "minecraft:acacia_trapdoor",
+      "minecraft:glass",
+      "minecraft:acacia_trapdoor",
+      "minecraft:acacia_slab",
+      "minecraft:acacia_slab",
+      "minecraft:acacia_slab"
+    ]
+  },
+  "storagedelight:glass_bamboo_cabinet": {
+    "result": "storagedelight:glass_bamboo_cabinet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_trapdoor",
+      "minecraft:glass",
+      "minecraft:bamboo_trapdoor",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab"
+    ]
+  },
+  "storagedelight:glass_birch_cabinet": {
+    "result": "storagedelight:glass_birch_cabinet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:birch_slab",
+      "minecraft:birch_slab",
+      "minecraft:birch_slab",
+      "minecraft:birch_trapdoor",
+      "minecraft:glass",
+      "minecraft:birch_trapdoor",
+      "minecraft:birch_slab",
+      "minecraft:birch_slab",
+      "minecraft:birch_slab"
+    ]
+  },
+  "storagedelight:glass_cherry_cabinet": {
+    "result": "storagedelight:glass_cherry_cabinet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:cherry_slab",
+      "minecraft:cherry_slab",
+      "minecraft:cherry_slab",
+      "minecraft:cherry_trapdoor",
+      "minecraft:glass",
+      "minecraft:cherry_trapdoor",
+      "minecraft:cherry_slab",
+      "minecraft:cherry_slab",
+      "minecraft:cherry_slab"
+    ]
+  },
+  "storagedelight:glass_crimson_cabinet": {
+    "result": "storagedelight:glass_crimson_cabinet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_trapdoor",
+      "minecraft:glass",
+      "minecraft:crimson_trapdoor",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab"
+    ]
+  },
+  "storagedelight:glass_dark_oak_cabinet": {
+    "result": "storagedelight:glass_dark_oak_cabinet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_trapdoor",
+      "minecraft:glass",
+      "minecraft:dark_oak_trapdoor",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab"
+    ]
+  },
+  "storagedelight:glass_jungle_cabinet": {
+    "result": "storagedelight:glass_jungle_cabinet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_trapdoor",
+      "minecraft:glass",
+      "minecraft:jungle_trapdoor",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab"
+    ]
+  },
+  "storagedelight:glass_mangrove_cabinet": {
+    "result": "storagedelight:glass_mangrove_cabinet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:mangrove_slab",
+      "minecraft:mangrove_slab",
+      "minecraft:mangrove_slab",
+      "minecraft:mangrove_trapdoor",
+      "minecraft:glass",
+      "minecraft:mangrove_trapdoor",
+      "minecraft:mangrove_slab",
+      "minecraft:mangrove_slab",
+      "minecraft:mangrove_slab"
+    ]
+  },
+  "storagedelight:glass_oak_cabinet": {
+    "result": "storagedelight:glass_oak_cabinet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_slab",
+      "minecraft:oak_slab",
+      "minecraft:oak_slab",
+      "minecraft:oak_trapdoor",
+      "minecraft:glass",
+      "minecraft:oak_trapdoor",
+      "minecraft:oak_slab",
+      "minecraft:oak_slab",
+      "minecraft:oak_slab"
+    ]
+  },
+  "storagedelight:glass_spruce_cabinet": {
+    "result": "storagedelight:glass_spruce_cabinet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_trapdoor",
+      "minecraft:glass",
+      "minecraft:spruce_trapdoor",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab"
+    ]
+  },
+  "storagedelight:glass_warped_cabinet": {
+    "result": "storagedelight:glass_warped_cabinet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      "minecraft:warped_trapdoor",
+      "minecraft:glass",
+      "minecraft:warped_trapdoor",
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      "minecraft:warped_slab"
+    ]
+  },
+  "supplementaries:globe_sepia": {
+    "result": "supplementaries:globe_sepia",
+    "count": 1,
+    "ingredients": [
+      "supplementaries:globe",
+      "supplementaries:antique_ink",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "supplementaries:globe": {
+    "result": "supplementaries:globe",
+    "count": 1,
+    "ingredients": [
+      "supplementaries:globe_sepia",
+      "supplementaries:soap",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "the_bumblezone:glistering_honey_crystal": {
+    "result": "the_bumblezone:glistering_honey_crystal",
+    "count": 1,
+    "ingredients": [
+      "the_bumblezone:honey_crystal_shards",
+      "the_bumblezone:honey_crystal_shards",
+      "",
+      "the_bumblezone:honey_crystal_shards",
+      "the_bumblezone:honey_crystal_shards",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:gloomgourd_pie": {
+    "result": "undergarden:gloomgourd_pie",
+    "count": 1,
+    "ingredients": [
+      "minecraft:mushrooms",
+      "undergarden:gloomgourd",
+      "undergarden:glitterkelp",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:gloomgourd_seeds": {
+    "result": "undergarden:gloomgourd_seeds",
+    "count": 4,
+    "ingredients": [
+      "undergarden:gloomgourd",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:gloom_o_lantern": {
+    "result": "undergarden:gloom_o_lantern",
+    "count": 1,
+    "ingredients": [
+      "undergarden:carved_gloomgourd",
+      "",
+      "",
+      "minecraft:torch",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xtonesreworked:glaxx_block_0": {
+    "result": "xtonesreworked:glaxx_block_0",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:white",
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:glaxx"
+    ]
+  },
+  "xtonesreworked:glaxx_block_1": {
+    "result": "xtonesreworked:glaxx_block_1",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:yellow",
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:glaxx"
+    ]
+  },
+  "xtonesreworked:glaxx_block_10": {
+    "result": "xtonesreworked:glaxx_block_10",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:pink",
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:glaxx"
+    ]
+  },
+  "xtonesreworked:glaxx_block_11": {
+    "result": "xtonesreworked:glaxx_block_11",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:red",
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:glaxx"
+    ]
+  },
+  "xtonesreworked:glaxx_block_12": {
+    "result": "xtonesreworked:glaxx_block_12",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:brown",
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:glaxx"
+    ]
+  },
+  "xtonesreworked:glaxx_block_13": {
+    "result": "xtonesreworked:glaxx_block_13",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:yellow",
+      "minecraft:glaxx"
+    ]
+  },
+  "xtonesreworked:glaxx_block_14": {
+    "result": "xtonesreworked:glaxx_block_14",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:gray",
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:glaxx"
+    ]
+  },
+  "xtonesreworked:glaxx_block_15": {
+    "result": "xtonesreworked:glaxx_block_15",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:black",
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:glaxx"
+    ]
+  },
+  "xtonesreworked:glaxx_block_2": {
+    "result": "xtonesreworked:glaxx_block_2",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glaxx",
+      "minecraft:green",
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:glaxx"
+    ]
+  },
+  "xtonesreworked:glaxx_block_3": {
+    "result": "xtonesreworked:glaxx_block_3",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:green",
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:glaxx"
+    ]
+  },
+  "xtonesreworked:glaxx_block_4": {
+    "result": "xtonesreworked:glaxx_block_4",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:lime",
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:glaxx"
+    ]
+  },
+  "xtonesreworked:glaxx_block_5": {
+    "result": "xtonesreworked:glaxx_block_5",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:cyan",
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:glaxx"
+    ]
+  },
+  "xtonesreworked:glaxx_block_6": {
+    "result": "xtonesreworked:glaxx_block_6",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:light_blue",
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:glaxx"
+    ]
+  },
+  "xtonesreworked:glaxx_block_7": {
+    "result": "xtonesreworked:glaxx_block_7",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:blue",
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:glaxx"
+    ]
+  },
+  "xtonesreworked:glaxx_block_8": {
+    "result": "xtonesreworked:glaxx_block_8",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:purple",
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:glaxx"
+    ]
+  },
+  "xtonesreworked:glaxx_block_9": {
+    "result": "xtonesreworked:glaxx_block_9",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:magenta",
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:glaxx",
+      "minecraft:glaxx"
+    ]
+  },
+  "xycraft_world:glass_viewer_glowing": {
+    "result": "xycraft_world:glass_viewer_glowing",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone",
+      "minecraft:glass",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xycraft_world:glass_viewer_immortal": {
+    "result": "xycraft_world:glass_viewer_immortal",
+    "count": 1,
+    "ingredients": [
+      "minecraft:obsidians",
+      "minecraft:aluminum",
+      "minecraft:obsidians",
+      "minecraft:aluminum",
+      "xycraft_world:glass_viewer_reinforced",
+      "minecraft:aluminum",
+      "minecraft:obsidians",
+      "minecraft:aluminum",
+      "minecraft:obsidians"
+    ]
+  },
+  "xycraft_world:glass_viewer_reinforced": {
+    "result": "xycraft_world:glass_viewer_reinforced",
+    "count": 2,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:glass",
+      "",
+      "minecraft:glass",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xycraft_world:glass_viewer_rgb_white": {
+    "result": "xycraft_world:glass_viewer_rgb_white",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:glass",
+      "",
+      "minecraft:glass",
+      "minecraft:dyes",
+      "minecraft:glass",
+      "",
+      "minecraft:glass",
+      ""
+    ]
+  },
+  "xycraft_world:glass_viewer_rgb_glowing_white": {
+    "result": "xycraft_world:glass_viewer_rgb_glowing_white",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glow_ink_sac",
+      "xycraft_world:glass_viewer_rgb_white",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

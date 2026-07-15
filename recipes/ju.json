@@ -1,0 +1,3782 @@
+{
+  "advanced_ae:jump_height_card": {
+    "result": "advanced_ae:jump_height_card",
+    "count": 1,
+    "ingredients": [
+      "",
+      "advanced_ae:quantum_upgrade_base",
+      "",
+      "",
+      "minecraft:gunpowder",
+      "",
+      "minecraft:blaze_powder",
+      "minecraft:end_crystal",
+      "minecraft:blaze_powder"
+    ]
+  },
+  "minecraft:jukebox": {
+    "result": "minecraft:jukebox",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:diamond",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks"
+    ]
+  },
+  "allthecompressed:jungle_log_1x": {
+    "result": "allthecompressed:jungle_log_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:jungle_log_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:jungle_log_2x": {
+    "result": "allthecompressed:jungle_log_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:jungle_log_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:jungle_log_3x": {
+    "result": "allthecompressed:jungle_log_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:jungle_log_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:jungle_log_4x": {
+    "result": "allthecompressed:jungle_log_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:jungle_log_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:jungle_log_5x": {
+    "result": "allthecompressed:jungle_log_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:jungle_log_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:jungle_log_6x": {
+    "result": "allthecompressed:jungle_log_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:jungle_log_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:jungle_log_7x": {
+    "result": "allthecompressed:jungle_log_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:jungle_log_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:jungle_log_8x": {
+    "result": "allthecompressed:jungle_log_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:jungle_log_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:jungle_log_9x": {
+    "result": "allthecompressed:jungle_log_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:jungle_log_8x",
+      "allthecompressed:jungle_log_8x",
+      "allthecompressed:jungle_log_8x",
+      "allthecompressed:jungle_log_8x",
+      "allthecompressed:jungle_log_8x",
+      "allthecompressed:jungle_log_8x",
+      "allthecompressed:jungle_log_8x",
+      "allthecompressed:jungle_log_8x",
+      "allthecompressed:jungle_log_8x"
+    ]
+  },
+  "allthecompressed:jungle_planks_1x": {
+    "result": "allthecompressed:jungle_planks_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:jungle_planks_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:jungle_planks_2x": {
+    "result": "allthecompressed:jungle_planks_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:jungle_planks_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:jungle_planks_3x": {
+    "result": "allthecompressed:jungle_planks_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:jungle_planks_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:jungle_planks_4x": {
+    "result": "allthecompressed:jungle_planks_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:jungle_planks_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:jungle_planks_5x": {
+    "result": "allthecompressed:jungle_planks_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:jungle_planks_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:jungle_planks_6x": {
+    "result": "allthecompressed:jungle_planks_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:jungle_planks_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:jungle_planks_7x": {
+    "result": "allthecompressed:jungle_planks_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:jungle_planks_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:jungle_planks_8x": {
+    "result": "allthecompressed:jungle_planks_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:jungle_planks_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:jungle_planks_9x": {
+    "result": "allthecompressed:jungle_planks_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:jungle_planks_8x",
+      "allthecompressed:jungle_planks_8x",
+      "allthecompressed:jungle_planks_8x",
+      "allthecompressed:jungle_planks_8x",
+      "allthecompressed:jungle_planks_8x",
+      "allthecompressed:jungle_planks_8x",
+      "allthecompressed:jungle_planks_8x",
+      "allthecompressed:jungle_planks_8x",
+      "allthecompressed:jungle_planks_8x"
+    ]
+  },
+  "minecraft:jungle_log": {
+    "result": "minecraft:jungle_log",
+    "count": 16,
+    "ingredients": [
+      "mysticalagriculture:wood_essence",
+      "",
+      "",
+      "",
+      "mysticalagriculture:wood_essence",
+      "",
+      "",
+      "mysticalagriculture:wood_essence",
+      ""
+    ]
+  },
+  "minecraft:jungle_planks": {
+    "result": "minecraft:jungle_planks",
+    "count": 1,
+    "ingredients": [
+      "minecraft:jungle_slab",
+      "",
+      "",
+      "",
+      "minecraft:jungle_slab",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "aquaculture:jungle_fish_mount": {
+    "result": "aquaculture:jungle_fish_mount",
+    "count": 1,
+    "ingredients": [
+      "minecraft:jungle_button",
+      "aquaculture:iron_hook",
+      "minecraft:jungle_button",
+      "minecraft:jungle_button",
+      "minecraft:jungle_button",
+      "minecraft:jungle_button",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:jungle_bookcase": {
+    "result": "bibliocraft:jungle_bookcase",
+    "count": 1,
+    "ingredients": [
+      "minecraft:jungle_planks",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_planks"
+    ]
+  },
+  "bibliocraft:jungle_fancy_armor_stand": {
+    "result": "bibliocraft:jungle_fancy_armor_stand",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab"
+    ]
+  },
+  "bibliocraft:jungle_fancy_clock": {
+    "result": "bibliocraft:jungle_fancy_clock",
+    "count": 1,
+    "ingredients": [
+      "minecraft:jungle_slab",
+      "minecraft:clock",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "minecraft:stick",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "minecraft:copper_ingot",
+      "minecraft:jungle_slab"
+    ]
+  },
+  "bibliocraft:jungle_fancy_crafter": {
+    "result": "bibliocraft:jungle_fancy_crafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black",
+      "minecraft:crafting_tables",
+      "minecraft:feather",
+      "minecraft:jungle_planks",
+      "minecraft:glass",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks",
+      "minecraft:crafter",
+      "minecraft:jungle_planks"
+    ]
+  },
+  "bibliocraft:jungle_fancy_sign": {
+    "result": "bibliocraft:jungle_fancy_sign",
+    "count": 1,
+    "ingredients": [
+      "minecraft:jungle_planks",
+      "minecraft:paper",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks",
+      "minecraft:paper",
+      "minecraft:jungle_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "bibliocraft:jungle_grandfather_clock": {
+    "result": "bibliocraft:jungle_grandfather_clock",
+    "count": 1,
+    "ingredients": [
+      "bibliocraft:jungle_fancy_clock",
+      "bibliocraft:jungle_fancy_clock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:jungle_label": {
+    "result": "bibliocraft:jungle_label",
+    "count": 1,
+    "ingredients": [
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:jungle_potion_shelf": {
+    "result": "bibliocraft:jungle_potion_shelf",
+    "count": 1,
+    "ingredients": [
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_planks",
+      "minecraft:glass_bottle",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab"
+    ]
+  },
+  "bibliocraft:jungle_shelf": {
+    "result": "bibliocraft:jungle_shelf",
+    "count": 1,
+    "ingredients": [
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "",
+      "minecraft:jungle_planks",
+      "",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab"
+    ]
+  },
+  "bibliocraft:jungle_table": {
+    "result": "bibliocraft:jungle_table",
+    "count": 1,
+    "ingredients": [
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "",
+      "minecraft:jungle_planks",
+      "",
+      "",
+      "minecraft:jungle_planks",
+      ""
+    ]
+  },
+  "bibliocraft:jungle_tool_rack": {
+    "result": "bibliocraft:jungle_tool_rack",
+    "count": 1,
+    "ingredients": [
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "minecraft:iron_ingot",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab"
+    ]
+  },
+  "create:jungle_window": {
+    "result": "create:jungle_window",
+    "count": 2,
+    "ingredients": [
+      "",
+      "minecraft:jungle_planks",
+      "",
+      "minecraft:jungle_planks",
+      "minecraft:glass",
+      "minecraft:jungle_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:jungle_window_pane": {
+    "result": "create:jungle_window_pane",
+    "count": 16,
+    "ingredients": [
+      "create:jungle_window",
+      "create:jungle_window",
+      "create:jungle_window",
+      "create:jungle_window",
+      "create:jungle_window",
+      "create:jungle_window",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:jungle_starfire_bird_aviary": {
+    "result": "eternal_starlight:jungle_starfire_bird_aviary",
+    "count": 1,
+    "ingredients": [
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks",
+      "eternal_starlight:starfire",
+      "eternal_starlight:starfire",
+      "eternal_starlight:starfire",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks"
+    ]
+  },
+  "farmersdelight:jungle_cabinet": {
+    "result": "farmersdelight:jungle_cabinet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_trapdoor",
+      "",
+      "minecraft:jungle_trapdoor",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab"
+    ]
+  },
+  "functionalstorage:jungle_1": {
+    "result": "functionalstorage:jungle_1",
+    "count": 1,
+    "ingredients": [
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks",
+      "minecraft:chest",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks"
+    ]
+  },
+  "functionalstorage:jungle_2": {
+    "result": "functionalstorage:jungle_2",
+    "count": 2,
+    "ingredients": [
+      "minecraft:jungle_planks",
+      "minecraft:chest",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks",
+      "minecraft:chest",
+      "minecraft:jungle_planks"
+    ]
+  },
+  "functionalstorage:jungle_4": {
+    "result": "functionalstorage:jungle_4",
+    "count": 4,
+    "ingredients": [
+      "minecraft:chest",
+      "minecraft:jungle_planks",
+      "minecraft:chest",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks",
+      "minecraft:chest",
+      "minecraft:jungle_planks",
+      "minecraft:chest"
+    ]
+  },
+  "minecraft:jungle_door": {
+    "result": "minecraft:jungle_door",
+    "count": 12,
+    "ingredients": [
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "",
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "",
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      ""
+    ]
+  },
+  "glassential:jungle_glass_door": {
+    "result": "glassential:jungle_glass_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:jungle_door",
+      "minecraft:glass_pane",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "glassential:jungle_glass_trapdoor": {
+    "result": "glassential:jungle_glass_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:jungle_trapdoor",
+      "minecraft:glass_pane",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:jungle_trapdoor": {
+    "result": "minecraft:jungle_trapdoor",
+    "count": 12,
+    "ingredients": [
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "",
+      "",
+      ""
+    ]
+  },
+  "handcrafted:jungle_bench": {
+    "result": "handcrafted:jungle_bench",
+    "count": 2,
+    "ingredients": [
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_planks",
+      "",
+      "minecraft:jungle_planks"
+    ]
+  },
+  "handcrafted:jungle_chair": {
+    "result": "handcrafted:jungle_chair",
+    "count": 2,
+    "ingredients": [
+      "minecraft:jungle_slab",
+      "",
+      "",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks",
+      "",
+      "minecraft:stick",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "handcrafted:jungle_corner_trim": {
+    "result": "handcrafted:jungle_corner_trim",
+    "count": 4,
+    "ingredients": [
+      "minecraft:jungle_planks",
+      "",
+      "",
+      "minecraft:jungle_planks",
+      "",
+      "",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks"
+    ]
+  },
+  "handcrafted:jungle_couch": {
+    "result": "handcrafted:jungle_couch",
+    "count": 2,
+    "ingredients": [
+      "minecraft:white_wool",
+      "minecraft:cushions",
+      "minecraft:white_wool",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "handcrafted:jungle_counter": {
+    "result": "handcrafted:jungle_counter",
+    "count": 3,
+    "ingredients": [
+      "minecraft:calcite",
+      "minecraft:calcite",
+      "minecraft:calcite",
+      "minecraft:jungle_planks",
+      "minecraft:chest",
+      "minecraft:jungle_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "handcrafted:jungle_cupboard": {
+    "result": "handcrafted:jungle_cupboard",
+    "count": 3,
+    "ingredients": [
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks",
+      "minecraft:chest",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks"
+    ]
+  },
+  "handcrafted:jungle_desk": {
+    "result": "handcrafted:jungle_desk",
+    "count": 2,
+    "ingredients": [
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_planks",
+      "minecraft:chest",
+      "minecraft:jungle_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "handcrafted:jungle_dining_bench": {
+    "result": "handcrafted:jungle_dining_bench",
+    "count": 2,
+    "ingredients": [
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_planks",
+      "",
+      "minecraft:jungle_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "handcrafted:jungle_drawer": {
+    "result": "handcrafted:jungle_drawer",
+    "count": 2,
+    "ingredients": [
+      "minecraft:jungle_planks",
+      "minecraft:chest",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab"
+    ]
+  },
+  "handcrafted:jungle_fancy_bed": {
+    "result": "handcrafted:jungle_fancy_bed",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:cushions",
+      "minecraft:sheets",
+      "minecraft:jungle_planks",
+      "minecraft:white_wool",
+      "minecraft:white_wool",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks"
+    ]
+  },
+  "handcrafted:jungle_nightstand": {
+    "result": "handcrafted:jungle_nightstand",
+    "count": 2,
+    "ingredients": [
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks",
+      "minecraft:chest",
+      "minecraft:jungle_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "handcrafted:jungle_pillar_trim": {
+    "result": "handcrafted:jungle_pillar_trim",
+    "count": 4,
+    "ingredients": [
+      "minecraft:jungle_planks",
+      "",
+      "",
+      "minecraft:jungle_planks",
+      "",
+      "",
+      "minecraft:jungle_planks",
+      "",
+      ""
+    ]
+  },
+  "handcrafted:jungle_shelf": {
+    "result": "handcrafted:jungle_shelf",
+    "count": 2,
+    "ingredients": [
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_planks",
+      "minecraft:chest",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab"
+    ]
+  },
+  "handcrafted:jungle_side_table": {
+    "result": "handcrafted:jungle_side_table",
+    "count": 2,
+    "ingredients": [
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_planks",
+      "minecraft:chest",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks",
+      "",
+      "minecraft:jungle_planks"
+    ]
+  },
+  "handcrafted:jungle_table": {
+    "result": "handcrafted:jungle_table",
+    "count": 2,
+    "ingredients": [
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks",
+      "minecraft:stick",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:jungle_bridge_pier": {
+    "result": "mcwbridges:jungle_bridge_pier",
+    "count": 3,
+    "ingredients": [
+      "minecraft:jungle_log",
+      "minecraft:jungle_fence",
+      "minecraft:jungle_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:jungle_log_bridge_middle": {
+    "result": "mcwbridges:jungle_log_bridge_middle",
+    "count": 1,
+    "ingredients": [
+      "mcwbridges:jungle_log_bridge_stair",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:jungle_log_bridge_stair": {
+    "result": "mcwbridges:jungle_log_bridge_stair",
+    "count": 6,
+    "ingredients": [
+      "",
+      "",
+      "mcwbridges:jungle_log_bridge_middle",
+      "",
+      "mcwbridges:jungle_log_bridge_middle",
+      "mcwbridges:jungle_log_bridge_middle",
+      "mcwbridges:jungle_log_bridge_middle",
+      "mcwbridges:jungle_log_bridge_middle",
+      "mcwbridges:jungle_log_bridge_middle"
+    ]
+  },
+  "mcwbridges:jungle_rail_bridge": {
+    "result": "mcwbridges:jungle_rail_bridge",
+    "count": 4,
+    "ingredients": [
+      "minecraft:jungle_fence",
+      "",
+      "minecraft:jungle_fence",
+      "minecraft:jungle_fence",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_fence",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:jungle_rope_bridge_stair": {
+    "result": "mcwbridges:jungle_rope_bridge_stair",
+    "count": 6,
+    "ingredients": [
+      "",
+      "",
+      "mcwbridges:rope_jungle_bridge",
+      "",
+      "mcwbridges:rope_jungle_bridge",
+      "mcwbridges:rope_jungle_bridge",
+      "mcwbridges:rope_jungle_bridge",
+      "mcwbridges:rope_jungle_bridge",
+      "mcwbridges:rope_jungle_bridge"
+    ]
+  },
+  "mcwdoors:jungle_bamboo_door": {
+    "result": "mcwdoors:jungle_bamboo_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:jungle_planks",
+      "",
+      "",
+      "mcwdoors:print_bamboo",
+      "",
+      "",
+      "minecraft:jungle_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwdoors:jungle_bark_glass_door": {
+    "result": "mcwdoors:jungle_bark_glass_door",
+    "count": 3,
+    "ingredients": [
+      "minecraft:jungle_log",
+      "minecraft:glass",
+      "",
+      "minecraft:glass",
+      "minecraft:glass",
+      "",
+      "minecraft:jungle_log",
+      "minecraft:glass",
+      ""
+    ]
+  },
+  "mcwdoors:jungle_barn_door": {
+    "result": "mcwdoors:jungle_barn_door",
+    "count": 2,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:stick",
+      "",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks",
+      "",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks",
+      ""
+    ]
+  },
+  "mcwdoors:jungle_barn_glass_door": {
+    "result": "mcwdoors:jungle_barn_glass_door",
+    "count": 3,
+    "ingredients": [
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks",
+      "",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks",
+      ""
+    ]
+  },
+  "mcwdoors:jungle_classic_door": {
+    "result": "mcwdoors:jungle_classic_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:jungle_planks",
+      "",
+      "",
+      "mcwdoors:print_oak",
+      "",
+      "",
+      "minecraft:jungle_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwdoors:jungle_cottage_door": {
+    "result": "mcwdoors:jungle_cottage_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:jungle_planks",
+      "",
+      "",
+      "mcwdoors:print_spruce",
+      "",
+      "",
+      "minecraft:jungle_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwdoors:jungle_four_panel_door": {
+    "result": "mcwdoors:jungle_four_panel_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:jungle_planks",
+      "",
+      "",
+      "mcwdoors:print_dark_oak",
+      "",
+      "",
+      "minecraft:jungle_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwdoors:jungle_glass_door": {
+    "result": "mcwdoors:jungle_glass_door",
+    "count": 3,
+    "ingredients": [
+      "minecraft:jungle_planks",
+      "minecraft:glass_pane",
+      "",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "",
+      "minecraft:jungle_planks",
+      "minecraft:glass_pane",
+      ""
+    ]
+  },
+  "mcwdoors:jungle_japanese2_door": {
+    "result": "mcwdoors:jungle_japanese2_door",
+    "count": 3,
+    "ingredients": [
+      "minecraft:paper",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      "minecraft:paper",
+      "",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      ""
+    ]
+  },
+  "mcwdoors:jungle_japanese_door": {
+    "result": "mcwdoors:jungle_japanese_door",
+    "count": 3,
+    "ingredients": [
+      "minecraft:paper",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      "minecraft:paper",
+      "",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks",
+      ""
+    ]
+  },
+  "mcwdoors:jungle_modern_door": {
+    "result": "mcwdoors:jungle_modern_door",
+    "count": 3,
+    "ingredients": [
+      "minecraft:jungle_planks",
+      "minecraft:glass_pane",
+      "",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks",
+      "",
+      "minecraft:jungle_planks",
+      "minecraft:glass_pane",
+      ""
+    ]
+  },
+  "mcwdoors:jungle_mystic_door": {
+    "result": "mcwdoors:jungle_mystic_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:jungle_planks",
+      "",
+      "",
+      "mcwdoors:print_mystic",
+      "",
+      "",
+      "minecraft:jungle_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwdoors:jungle_nether_door": {
+    "result": "mcwdoors:jungle_nether_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:jungle_planks",
+      "",
+      "",
+      "mcwdoors:print_nether",
+      "",
+      "",
+      "minecraft:jungle_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwdoors:jungle_paper_door": {
+    "result": "mcwdoors:jungle_paper_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:jungle_planks",
+      "",
+      "",
+      "mcwdoors:print_birch",
+      "",
+      "",
+      "minecraft:jungle_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwdoors:jungle_stable_door": {
+    "result": "mcwdoors:jungle_stable_door",
+    "count": 3,
+    "ingredients": [
+      "minecraft:iron_bars",
+      "minecraft:iron_bars",
+      "",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks",
+      "",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks",
+      ""
+    ]
+  },
+  "mcwdoors:jungle_stable_head_door": {
+    "result": "mcwdoors:jungle_stable_head_door",
+    "count": 1,
+    "ingredients": [
+      "mcwdoors:jungle_stable_door",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwdoors:jungle_swamp_door": {
+    "result": "mcwdoors:jungle_swamp_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:jungle_planks",
+      "",
+      "",
+      "mcwdoors:print_swamp",
+      "",
+      "",
+      "minecraft:jungle_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwdoors:jungle_tropical_door": {
+    "result": "mcwdoors:jungle_tropical_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:jungle_planks",
+      "",
+      "",
+      "mcwdoors:print_acacia",
+      "",
+      "",
+      "minecraft:jungle_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwdoors:jungle_waffle_door": {
+    "result": "mcwdoors:jungle_waffle_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:jungle_planks",
+      "",
+      "",
+      "mcwdoors:print_waffle",
+      "",
+      "",
+      "minecraft:jungle_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwdoors:jungle_western_door": {
+    "result": "mcwdoors:jungle_western_door",
+    "count": 3,
+    "ingredients": [
+      "",
+      "",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks"
+    ]
+  },
+  "mcwdoors:jungle_whispering_door": {
+    "result": "mcwdoors:jungle_whispering_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:jungle_planks",
+      "",
+      "",
+      "mcwdoors:print_whispering",
+      "",
+      "",
+      "minecraft:jungle_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwfences:jungle_curved_gate": {
+    "result": "mcwfences:jungle_curved_gate",
+    "count": 4,
+    "ingredients": [
+      "minecraft:jungle_log",
+      "",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_log",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfences:jungle_hedge": {
+    "result": "mcwfences:jungle_hedge",
+    "count": 4,
+    "ingredients": [
+      "minecraft:jungle_leaves",
+      "minecraft:jungle_leaves",
+      "",
+      "minecraft:jungle_leaves",
+      "minecraft:jungle_leaves",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfences:jungle_highley_gate": {
+    "result": "mcwfences:jungle_highley_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:jungle_log",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:jungle_log",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfences:jungle_horse_fence": {
+    "result": "mcwfences:jungle_horse_fence",
+    "count": 3,
+    "ingredients": [
+      "minecraft:jungle_log",
+      "minecraft:stick",
+      "minecraft:jungle_log",
+      "minecraft:stick",
+      "minecraft:jungle_log",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfences:jungle_picket_fence": {
+    "result": "mcwfences:jungle_picket_fence",
+    "count": 3,
+    "ingredients": [
+      "minecraft:jungle_log",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "minecraft:stick",
+      "minecraft:jungle_log",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfences:jungle_pyramid_gate": {
+    "result": "mcwfences:jungle_pyramid_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:jungle_log",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:jungle_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfences:jungle_stockade_fence": {
+    "result": "mcwfences:jungle_stockade_fence",
+    "count": 3,
+    "ingredients": [
+      "minecraft:jungle_log",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_log",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfences:jungle_wired_fence": {
+    "result": "mcwfences:jungle_wired_fence",
+    "count": 3,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:iron_bars",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:jungle_log",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfurnitures:jungle_bookshelf": {
+    "result": "mcwfurnitures:jungle_bookshelf",
+    "count": 4,
+    "ingredients": [
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "minecraft:jungle_log"
+    ]
+  },
+  "mcwfurnitures:jungle_bookshelf_cupboard": {
+    "result": "mcwfurnitures:jungle_bookshelf_cupboard",
+    "count": 4,
+    "ingredients": [
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "mcwfurnitures:cabinet_door",
+      "minecraft:jungle_log",
+      "minecraft:book",
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "minecraft:jungle_log"
+    ]
+  },
+  "mcwfurnitures:jungle_bookshelf_drawer": {
+    "result": "mcwfurnitures:jungle_bookshelf_drawer",
+    "count": 4,
+    "ingredients": [
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "mcwfurnitures:cabinet_drawer",
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "minecraft:book",
+      "minecraft:jungle_log"
+    ]
+  },
+  "mcwfurnitures:jungle_chair": {
+    "result": "mcwfurnitures:jungle_chair",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:jungle_log",
+      "",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_log",
+      "",
+      "minecraft:jungle_fence",
+      "minecraft:jungle_fence",
+      ""
+    ]
+  },
+  "mcwfurnitures:jungle_coffee_table": {
+    "result": "mcwfurnitures:jungle_coffee_table",
+    "count": 1,
+    "ingredients": [
+      "minecraft:jungle_log",
+      "",
+      "",
+      "minecraft:jungle_fence",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfurnitures:jungle_counter": {
+    "result": "mcwfurnitures:jungle_counter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:jungle_slab",
+      "",
+      "",
+      "minecraft:jungle_log",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfurnitures:jungle_covered_desk": {
+    "result": "mcwfurnitures:jungle_covered_desk",
+    "count": 2,
+    "ingredients": [
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "",
+      "minecraft:jungle_log",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfurnitures:jungle_cupboard_counter": {
+    "result": "mcwfurnitures:jungle_cupboard_counter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:jungle_slab",
+      "",
+      "",
+      "mcwfurnitures:jungle_wardrobe",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfurnitures:jungle_desk": {
+    "result": "mcwfurnitures:jungle_desk",
+    "count": 2,
+    "ingredients": [
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "minecraft:jungle_fence",
+      "",
+      "minecraft:jungle_fence",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfurnitures:jungle_double_drawer": {
+    "result": "mcwfurnitures:jungle_double_drawer",
+    "count": 4,
+    "ingredients": [
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "mcwfurnitures:cabinet_drawer",
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "mcwfurnitures:cabinet_drawer",
+      "minecraft:jungle_log"
+    ]
+  },
+  "mcwfurnitures:jungle_double_drawer_counter": {
+    "result": "mcwfurnitures:jungle_double_drawer_counter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:jungle_slab",
+      "",
+      "",
+      "mcwfurnitures:jungle_double_drawer",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfurnitures:jungle_double_kitchen_cabinet": {
+    "result": "mcwfurnitures:jungle_double_kitchen_cabinet",
+    "count": 4,
+    "ingredients": [
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "",
+      "mcwfurnitures:cabinet_door",
+      "mcwfurnitures:cabinet_door",
+      "",
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      ""
+    ]
+  },
+  "mcwfurnitures:jungle_double_wardrobe": {
+    "result": "mcwfurnitures:jungle_double_wardrobe",
+    "count": 4,
+    "ingredients": [
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "mcwfurnitures:cabinet_door",
+      "minecraft:jungle_log",
+      "mcwfurnitures:cabinet_door",
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "minecraft:jungle_log"
+    ]
+  },
+  "mcwfurnitures:jungle_drawer": {
+    "result": "mcwfurnitures:jungle_drawer",
+    "count": 4,
+    "ingredients": [
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "mcwfurnitures:cabinet_drawer",
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "minecraft:jungle_log"
+    ]
+  },
+  "mcwfurnitures:jungle_drawer_counter": {
+    "result": "mcwfurnitures:jungle_drawer_counter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:jungle_slab",
+      "",
+      "",
+      "mcwfurnitures:jungle_drawer",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfurnitures:jungle_end_table": {
+    "result": "mcwfurnitures:jungle_end_table",
+    "count": 1,
+    "ingredients": [
+      "mcwfurnitures:jungle_table",
+      "",
+      "",
+      "minecraft:jungle_log",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfurnitures:jungle_glass_kitchen_cabinet": {
+    "result": "mcwfurnitures:jungle_glass_kitchen_cabinet",
+    "count": 4,
+    "ingredients": [
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "",
+      "minecraft:glass",
+      "mcwfurnitures:cabinet_door",
+      "",
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      ""
+    ]
+  },
+  "mcwfurnitures:jungle_glass_table": {
+    "result": "mcwfurnitures:jungle_glass_table",
+    "count": 1,
+    "ingredients": [
+      "mcwfurnitures:jungle_end_table",
+      "",
+      "",
+      "minecraft:glass",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfurnitures:jungle_kitchen_cabinet": {
+    "result": "mcwfurnitures:jungle_kitchen_cabinet",
+    "count": 4,
+    "ingredients": [
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "",
+      "minecraft:jungle_log",
+      "mcwfurnitures:cabinet_door",
+      "",
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      ""
+    ]
+  },
+  "mcwfurnitures:jungle_kitchen_sink": {
+    "result": "mcwfurnitures:jungle_kitchen_sink",
+    "count": 1,
+    "ingredients": [
+      "minecraft:jungle_slab",
+      "minecraft:cauldron",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_log",
+      "minecraft:water_bucket",
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "minecraft:water_bucket",
+      "minecraft:jungle_log"
+    ]
+  },
+  "mcwfurnitures:jungle_large_drawer": {
+    "result": "mcwfurnitures:jungle_large_drawer",
+    "count": 4,
+    "ingredients": [
+      "minecraft:jungle_log",
+      "mcwfurnitures:cabinet_drawer",
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "minecraft:jungle_log"
+    ]
+  },
+  "mcwfurnitures:jungle_lower_bookshelf_drawer": {
+    "result": "mcwfurnitures:jungle_lower_bookshelf_drawer",
+    "count": 4,
+    "ingredients": [
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "minecraft:book",
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "mcwfurnitures:cabinet_drawer",
+      "minecraft:jungle_log"
+    ]
+  },
+  "mcwfurnitures:jungle_lower_triple_drawer": {
+    "result": "mcwfurnitures:jungle_lower_triple_drawer",
+    "count": 4,
+    "ingredients": [
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "mcwfurnitures:cabinet_drawer",
+      "minecraft:jungle_log",
+      "mcwfurnitures:cabinet_drawer",
+      "minecraft:jungle_log",
+      "mcwfurnitures:cabinet_drawer",
+      "minecraft:jungle_log"
+    ]
+  },
+  "mcwfurnitures:jungle_modern_chair": {
+    "result": "mcwfurnitures:jungle_modern_chair",
+    "count": 1,
+    "ingredients": [
+      "minecraft:jungle_slab",
+      "minecraft:jungle_log",
+      "",
+      "minecraft:jungle_fence",
+      "minecraft:jungle_fence",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfurnitures:jungle_modern_desk": {
+    "result": "mcwfurnitures:jungle_modern_desk",
+    "count": 2,
+    "ingredients": [
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "minecraft:jungle_fence",
+      "minecraft:stick",
+      "minecraft:jungle_fence",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfurnitures:jungle_modern_wardrobe": {
+    "result": "mcwfurnitures:jungle_modern_wardrobe",
+    "count": 4,
+    "ingredients": [
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "mcwfurnitures:cabinet_door",
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "minecraft:jungle_log"
+    ]
+  },
+  "mcwfurnitures:jungle_stool_chair": {
+    "result": "mcwfurnitures:jungle_stool_chair",
+    "count": 1,
+    "ingredients": [
+      "minecraft:jungle_log",
+      "",
+      "",
+      "minecraft:jungle_log",
+      "",
+      "",
+      "minecraft:jungle_fence",
+      "",
+      ""
+    ]
+  },
+  "mcwfurnitures:jungle_striped_chair": {
+    "result": "mcwfurnitures:jungle_striped_chair",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:jungle_log",
+      "",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_fence",
+      "",
+      "minecraft:jungle_fence",
+      "minecraft:jungle_fence",
+      ""
+    ]
+  },
+  "mcwfurnitures:jungle_table": {
+    "result": "mcwfurnitures:jungle_table",
+    "count": 1,
+    "ingredients": [
+      "mcwfurnitures:jungle_coffee_table",
+      "",
+      "",
+      "minecraft:jungle_fence",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfurnitures:jungle_triple_drawer": {
+    "result": "mcwfurnitures:jungle_triple_drawer",
+    "count": 4,
+    "ingredients": [
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "mcwfurnitures:cabinet_drawer",
+      "minecraft:jungle_log",
+      "mcwfurnitures:cabinet_drawer",
+      "minecraft:jungle_log",
+      "mcwfurnitures:cabinet_drawer"
+    ]
+  },
+  "mcwfurnitures:jungle_wardrobe": {
+    "result": "mcwfurnitures:jungle_wardrobe",
+    "count": 4,
+    "ingredients": [
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "mcwfurnitures:cabinet_door",
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "minecraft:jungle_log"
+    ]
+  },
+  "mcwlights:jungle_ceiling_fan_light": {
+    "result": "mcwlights:jungle_ceiling_fan_light",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:iron_nugget",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:jungle_slab",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:glowstone_dust",
+      ""
+    ]
+  },
+  "mcwlights:jungle_tiki_torch": {
+    "result": "mcwlights:jungle_tiki_torch",
+    "count": 1,
+    "ingredients": [
+      "minecraft:torch",
+      "",
+      "",
+      "minecraft:jungle_fence",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwpaths:jungle_planks_path": {
+    "result": "mcwpaths:jungle_planks_path",
+    "count": 3,
+    "ingredients": [
+      "minecraft:jungle_slab",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:jungle_attic_roof": {
+    "result": "mcwroofs:jungle_attic_roof",
+    "count": 2,
+    "ingredients": [
+      "",
+      "minecraft:jungle_log",
+      "",
+      "minecraft:jungle_log",
+      "minecraft:glass",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:jungle_lower_roof": {
+    "result": "mcwroofs:jungle_lower_roof",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:jungle_planks_attic_roof": {
+    "result": "mcwroofs:jungle_planks_attic_roof",
+    "count": 2,
+    "ingredients": [
+      "",
+      "minecraft:jungle_planks",
+      "",
+      "minecraft:jungle_planks",
+      "minecraft:glass",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:jungle_planks_lower_roof": {
+    "result": "mcwroofs:jungle_planks_lower_roof",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:jungle_planks_roof": {
+    "result": "mcwroofs:jungle_planks_roof",
+    "count": 2,
+    "ingredients": [
+      "",
+      "minecraft:jungle_planks",
+      "",
+      "minecraft:jungle_planks",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:jungle_planks_steep_roof": {
+    "result": "mcwroofs:jungle_planks_steep_roof",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:jungle_planks",
+      "",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks",
+      "",
+      "minecraft:jungle_planks",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "mcwroofs:jungle_planks_top_roof": {
+    "result": "mcwroofs:jungle_planks_top_roof",
+    "count": 2,
+    "ingredients": [
+      "minecraft:jungle_planks",
+      "minecraft:stick",
+      "minecraft:jungle_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:jungle_planks_upper_lower_roof": {
+    "result": "mcwroofs:jungle_planks_upper_lower_roof",
+    "count": 3,
+    "ingredients": [
+      "",
+      "",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:jungle_planks_upper_steep_roof": {
+    "result": "mcwroofs:jungle_planks_upper_steep_roof",
+    "count": 3,
+    "ingredients": [
+      "",
+      "minecraft:jungle_planks",
+      "",
+      "",
+      "minecraft:jungle_planks",
+      "",
+      "minecraft:jungle_planks",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "mcwroofs:jungle_roof": {
+    "result": "mcwroofs:jungle_roof",
+    "count": 2,
+    "ingredients": [
+      "",
+      "minecraft:jungle_log",
+      "",
+      "minecraft:jungle_log",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:jungle_steep_roof": {
+    "result": "mcwroofs:jungle_steep_roof",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:jungle_log",
+      "",
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "",
+      "minecraft:jungle_log",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "mcwroofs:jungle_top_roof": {
+    "result": "mcwroofs:jungle_top_roof",
+    "count": 2,
+    "ingredients": [
+      "minecraft:jungle_log",
+      "minecraft:stick",
+      "minecraft:jungle_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:jungle_upper_lower_roof": {
+    "result": "mcwroofs:jungle_upper_lower_roof",
+    "count": 3,
+    "ingredients": [
+      "",
+      "",
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:jungle_upper_steep_roof": {
+    "result": "mcwroofs:jungle_upper_steep_roof",
+    "count": 3,
+    "ingredients": [
+      "",
+      "minecraft:jungle_log",
+      "",
+      "",
+      "minecraft:jungle_log",
+      "",
+      "minecraft:jungle_log",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "mcwstairs:jungle_balcony": {
+    "result": "mcwstairs:jungle_balcony",
+    "count": 6,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:jungle_fence",
+      "",
+      "minecraft:jungle_fence",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick"
+    ]
+  },
+  "mcwstairs:jungle_bulk_stairs": {
+    "result": "mcwstairs:jungle_bulk_stairs",
+    "count": 6,
+    "ingredients": [
+      "minecraft:stripped_jungle_log",
+      "",
+      "",
+      "minecraft:jungle_log",
+      "minecraft:stripped_jungle_log",
+      "",
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "minecraft:stripped_jungle_log"
+    ]
+  },
+  "mcwstairs:jungle_compact_stairs": {
+    "result": "mcwstairs:jungle_compact_stairs",
+    "count": 6,
+    "ingredients": [
+      "minecraft:stripped_jungle_log",
+      "",
+      "",
+      "minecraft:stripped_jungle_log",
+      "minecraft:stripped_jungle_log",
+      "",
+      "minecraft:stripped_jungle_log",
+      "minecraft:stripped_jungle_log",
+      "minecraft:stripped_jungle_log"
+    ]
+  },
+  "mcwstairs:jungle_loft_stairs": {
+    "result": "mcwstairs:jungle_loft_stairs",
+    "count": 3,
+    "ingredients": [
+      "minecraft:stripped_jungle_log",
+      "",
+      "",
+      "",
+      "minecraft:stripped_jungle_log",
+      "",
+      "",
+      "",
+      "minecraft:stripped_jungle_log"
+    ]
+  },
+  "mcwstairs:jungle_platform": {
+    "result": "mcwstairs:jungle_platform",
+    "count": 12,
+    "ingredients": [
+      "",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "",
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwstairs:jungle_railing": {
+    "result": "mcwstairs:jungle_railing",
+    "count": 6,
+    "ingredients": [
+      "mcwstairs:jungle_balcony",
+      "",
+      "",
+      "mcwstairs:jungle_balcony",
+      "mcwstairs:jungle_balcony",
+      "",
+      "mcwstairs:jungle_balcony",
+      "mcwstairs:jungle_balcony",
+      "mcwstairs:jungle_balcony"
+    ]
+  },
+  "mcwstairs:jungle_skyline_stairs": {
+    "result": "mcwstairs:jungle_skyline_stairs",
+    "count": 4,
+    "ingredients": [
+      "minecraft:stripped_jungle_log",
+      "",
+      "",
+      "minecraft:jungle_log",
+      "minecraft:stripped_jungle_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwstairs:jungle_terrace_stairs": {
+    "result": "mcwstairs:jungle_terrace_stairs",
+    "count": 5,
+    "ingredients": [
+      "minecraft:stripped_jungle_log",
+      "",
+      "",
+      "minecraft:jungle_log",
+      "minecraft:stripped_jungle_log",
+      "",
+      "",
+      "minecraft:jungle_log",
+      "minecraft:stripped_jungle_log"
+    ]
+  },
+  "mcwtrpdoors:jungle_bamboo_trapdoor": {
+    "result": "mcwtrpdoors:jungle_bamboo_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:jungle_planks",
+      "",
+      "",
+      "mcwtrpdoors:print_bamboo",
+      "",
+      "",
+      "minecraft:jungle_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwtrpdoors:jungle_bark_trapdoor": {
+    "result": "mcwtrpdoors:jungle_bark_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "minecraft:jungle_log",
+      "minecraft:glass_pane",
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "minecraft:glass_pane",
+      "minecraft:jungle_log",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwtrpdoors:jungle_barn_trapdoor": {
+    "result": "mcwtrpdoors:jungle_barn_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:jungle_planks",
+      "",
+      "",
+      "mcwtrpdoors:jungle_glass_trapdoor",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwtrpdoors:jungle_barred_trapdoor": {
+    "result": "mcwtrpdoors:jungle_barred_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:jungle_planks",
+      "",
+      "",
+      "mcwtrpdoors:print_barred",
+      "",
+      "",
+      "minecraft:jungle_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwtrpdoors:jungle_barrel_trapdoor": {
+    "result": "mcwtrpdoors:jungle_barrel_trapdoor",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:jungle_planks",
+      "",
+      "minecraft:jungle_planks",
+      "minecraft:barrel",
+      "minecraft:jungle_planks",
+      "",
+      "minecraft:jungle_planks",
+      ""
+    ]
+  },
+  "mcwtrpdoors:jungle_blossom_trapdoor": {
+    "result": "mcwtrpdoors:jungle_blossom_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:jungle_planks",
+      "",
+      "",
+      "mcwtrpdoors:print_blossom",
+      "",
+      "",
+      "minecraft:jungle_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwtrpdoors:jungle_classic_trapdoor": {
+    "result": "mcwtrpdoors:jungle_classic_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:jungle_planks",
+      "",
+      "",
+      "mcwtrpdoors:print_classic",
+      "",
+      "",
+      "minecraft:jungle_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwtrpdoors:jungle_cottage_trapdoor": {
+    "result": "mcwtrpdoors:jungle_cottage_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:jungle_planks",
+      "",
+      "",
+      "mcwtrpdoors:print_cottage",
+      "",
+      "",
+      "minecraft:jungle_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwtrpdoors:jungle_four_panel_trapdoor": {
+    "result": "mcwtrpdoors:jungle_four_panel_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:jungle_planks",
+      "",
+      "",
+      "mcwtrpdoors:print_four_panel",
+      "",
+      "",
+      "minecraft:jungle_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwtrpdoors:jungle_glass_trapdoor": {
+    "result": "mcwtrpdoors:jungle_glass_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "minecraft:jungle_planks",
+      "minecraft:glass_pane",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks",
+      "minecraft:glass_pane",
+      "minecraft:jungle_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwtrpdoors:jungle_mystic_trapdoor": {
+    "result": "mcwtrpdoors:jungle_mystic_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:jungle_planks",
+      "",
+      "",
+      "mcwtrpdoors:print_mystic",
+      "",
+      "",
+      "minecraft:jungle_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwtrpdoors:jungle_paper_trapdoor": {
+    "result": "mcwtrpdoors:jungle_paper_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:jungle_planks",
+      "",
+      "",
+      "mcwtrpdoors:print_paper",
+      "",
+      "",
+      "minecraft:jungle_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwtrpdoors:jungle_ranch_trapdoor": {
+    "result": "mcwtrpdoors:jungle_ranch_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "minecraft:jungle_log",
+      "minecraft:stick",
+      "minecraft:jungle_log",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:jungle_log",
+      "minecraft:stick",
+      "minecraft:jungle_log"
+    ]
+  },
+  "mcwtrpdoors:jungle_swamp_trapdoor": {
+    "result": "mcwtrpdoors:jungle_swamp_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:jungle_planks",
+      "",
+      "",
+      "mcwtrpdoors:print_swamp",
+      "",
+      "",
+      "minecraft:jungle_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwtrpdoors:jungle_tropical_trapdoor": {
+    "result": "mcwtrpdoors:jungle_tropical_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:jungle_planks",
+      "",
+      "",
+      "mcwtrpdoors:print_tropical",
+      "",
+      "",
+      "minecraft:jungle_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwtrpdoors:jungle_whispering_trapdoor": {
+    "result": "mcwtrpdoors:jungle_whispering_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:jungle_planks",
+      "",
+      "",
+      "mcwtrpdoors:print_whispering",
+      "",
+      "",
+      "minecraft:jungle_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwwindows:jungle_blinds": {
+    "result": "mcwwindows:jungle_blinds",
+    "count": 3,
+    "ingredients": [
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick"
+    ]
+  },
+  "mcwwindows:jungle_curtain_rod": {
+    "result": "mcwwindows:jungle_curtain_rod",
+    "count": 5,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:jungle_log",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwwindows:jungle_four_window": {
+    "result": "mcwwindows:jungle_four_window",
+    "count": 8,
+    "ingredients": [
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "minecraft:jungle_log",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base"
+    ]
+  },
+  "mcwwindows:jungle_log_parapet": {
+    "result": "mcwwindows:jungle_log_parapet",
+    "count": 5,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:jungle_log",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwwindows:jungle_louvered_shutter": {
+    "result": "mcwwindows:jungle_louvered_shutter",
+    "count": 3,
+    "ingredients": [
+      "minecraft:jungle_slab",
+      "",
+      "",
+      "minecraft:jungle_slab",
+      "",
+      "",
+      "minecraft:jungle_slab",
+      "",
+      ""
+    ]
+  },
+  "mcwwindows:jungle_pane_window": {
+    "result": "mcwwindows:jungle_pane_window",
+    "count": 8,
+    "ingredients": [
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "minecraft:jungle_log",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base"
+    ]
+  },
+  "mcwwindows:jungle_plank_four_window": {
+    "result": "mcwwindows:jungle_plank_four_window",
+    "count": 8,
+    "ingredients": [
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "minecraft:jungle_planks",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base"
+    ]
+  },
+  "mcwwindows:jungle_plank_pane_window": {
+    "result": "mcwwindows:jungle_plank_pane_window",
+    "count": 8,
+    "ingredients": [
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "minecraft:jungle_planks",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base"
+    ]
+  },
+  "mcwwindows:jungle_plank_parapet": {
+    "result": "mcwwindows:jungle_plank_parapet",
+    "count": 5,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:jungle_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwwindows:jungle_plank_window": {
+    "result": "mcwwindows:jungle_plank_window",
+    "count": 4,
+    "ingredients": [
+      "",
+      "mcwwindows:window_base",
+      "",
+      "mcwwindows:window_base",
+      "minecraft:jungle_planks",
+      "mcwwindows:window_base",
+      "",
+      "mcwwindows:window_base",
+      ""
+    ]
+  },
+  "mcwwindows:jungle_plank_window2": {
+    "result": "mcwwindows:jungle_plank_window2",
+    "count": 8,
+    "ingredients": [
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "minecraft:jungle_planks",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base"
+    ]
+  },
+  "mcwwindows:jungle_shutter": {
+    "result": "mcwwindows:jungle_shutter",
+    "count": 3,
+    "ingredients": [
+      "minecraft:jungle_trapdoor",
+      "",
+      "",
+      "minecraft:jungle_trapdoor",
+      "",
+      "",
+      "minecraft:jungle_trapdoor",
+      "",
+      ""
+    ]
+  },
+  "mcwwindows:jungle_window": {
+    "result": "mcwwindows:jungle_window",
+    "count": 4,
+    "ingredients": [
+      "",
+      "mcwwindows:window_base",
+      "",
+      "mcwwindows:window_base",
+      "minecraft:jungle_log",
+      "mcwwindows:window_base",
+      "",
+      "mcwwindows:window_base",
+      ""
+    ]
+  },
+  "mcwwindows:jungle_window2": {
+    "result": "mcwwindows:jungle_window2",
+    "count": 8,
+    "ingredients": [
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "minecraft:jungle_log",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base"
+    ]
+  },
+  "merrymaking:jungle_mantel": {
+    "result": "merrymaking:jungle_mantel",
+    "count": 1,
+    "ingredients": [
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_planks",
+      "",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks",
+      "",
+      "minecraft:jungle_planks"
+    ]
+  },
+  "merrymaking:jungle_picket_fence": {
+    "result": "merrymaking:jungle_picket_fence",
+    "count": 3,
+    "ingredients": [
+      "minecraft:jungle_planks",
+      "minecraft:stick",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks",
+      "minecraft:stick",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks",
+      "minecraft:stick",
+      "minecraft:jungle_planks"
+    ]
+  },
+  "merrymaking:jungle_picket_fence_gate": {
+    "result": "merrymaking:jungle_picket_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:jungle_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:jungle_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:jungle_planks",
+      "minecraft:stick"
+    ]
+  },
+  "merrymaking:jungle_wreath_door": {
+    "result": "merrymaking:jungle_wreath_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:jungle_door",
+      "merrymaking:christmas_wreath",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:jungle_wreath_fence": {
+    "result": "merrymaking:jungle_wreath_fence",
+    "count": 1,
+    "ingredients": [
+      "merrymaking:jungle_picket_fence",
+      "merrymaking:garland_horizontal",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:jungle_wreath_fence_gate": {
+    "result": "merrymaking:jungle_wreath_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "merrymaking:jungle_picket_fence_gate",
+      "merrymaking:christmas_wreath",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:jungle_wreath_lights_multi_door": {
+    "result": "merrymaking:jungle_wreath_lights_multi_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:jungle_door",
+      "merrymaking:christmas_wreath_multi_lights",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:jungle_wreath_multi_fence": {
+    "result": "merrymaking:jungle_wreath_multi_fence",
+    "count": 1,
+    "ingredients": [
+      "merrymaking:jungle_picket_fence",
+      "merrymaking:garland_horizontal_multi",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:jungle_wreath_multi_fence_gate": {
+    "result": "merrymaking:jungle_wreath_multi_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "merrymaking:jungle_picket_fence_gate",
+      "merrymaking:christmas_wreath_multi_lights",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:jungle_wreath_lights_white_door": {
+    "result": "merrymaking:jungle_wreath_lights_white_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:jungle_door",
+      "merrymaking:christmas_wreath_white_lights",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:jungle_wreath_lights_fence": {
+    "result": "merrymaking:jungle_wreath_lights_fence",
+    "count": 1,
+    "ingredients": [
+      "merrymaking:jungle_picket_fence",
+      "merrymaking:garland_horizontal_lights",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:jungle_wreath_lights_fence_gate": {
+    "result": "merrymaking:jungle_wreath_lights_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "merrymaking:jungle_picket_fence_gate",
+      "merrymaking:christmas_wreath_white_lights",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:jungle_roof_slab": {
+    "result": "merrymaking:jungle_roof_slab",
+    "count": 4,
+    "ingredients": [
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "merrymaking:roof_tiles",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:jungle_boat": {
+    "result": "minecraft:jungle_boat",
+    "count": 1,
+    "ingredients": [
+      "minecraft:jungle_planks",
+      "",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:jungle_button": {
+    "result": "minecraft:jungle_button",
+    "count": 1,
+    "ingredients": [
+      "minecraft:jungle_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:jungle_chest_boat": {
+    "result": "minecraft:jungle_chest_boat",
+    "count": 1,
+    "ingredients": [
+      "minecraft:chest",
+      "minecraft:jungle_boat",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:jungle_fence": {
+    "result": "minecraft:jungle_fence",
+    "count": 3,
+    "ingredients": [
+      "minecraft:jungle_planks",
+      "minecraft:stick",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks",
+      "minecraft:stick",
+      "minecraft:jungle_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:jungle_fence_gate": {
+    "result": "minecraft:jungle_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:jungle_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:jungle_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:jungle_hanging_sign": {
+    "result": "minecraft:jungle_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "minecraft:stripped_jungle_log",
+      "minecraft:stripped_jungle_log",
+      "minecraft:stripped_jungle_log",
+      "minecraft:stripped_jungle_log",
+      "minecraft:stripped_jungle_log",
+      "minecraft:stripped_jungle_log"
+    ]
+  },
+  "minecraft:jungle_pressure_plate": {
+    "result": "minecraft:jungle_pressure_plate",
+    "count": 4,
+    "ingredients": [
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:jungle_sign": {
+    "result": "minecraft:jungle_sign",
+    "count": 3,
+    "ingredients": [
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks",
+      "minecraft:jungle_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "minecraft:jungle_slab": {
+    "result": "minecraft:jungle_slab",
+    "count": 24,
+    "ingredients": [
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:jungle_stairs": {
+    "result": "minecraft:jungle_stairs",
+    "count": 16,
+    "ingredients": [
+      "minecraft:jungle_log",
+      "",
+      "",
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "",
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "minecraft:jungle_log"
+    ]
+  },
+  "minecraft:jungle_wood": {
+    "result": "minecraft:jungle_wood",
+    "count": 3,
+    "ingredients": [
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "",
+      "minecraft:jungle_log",
+      "minecraft:jungle_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mob_grinding_utils:jumbo_tank": {
+    "result": "mob_grinding_utils:jumbo_tank",
+    "count": 1,
+    "ingredients": [
+      "mob_grinding_utils:jumbo_tank",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:jungle_sapling": {
+    "result": "minecraft:jungle_sapling",
+    "count": 2,
+    "ingredients": [
+      "regions_unexplored:jungle_shrub",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2crops:juniperberryseeditem": {
+    "result": "pamhc2crops:juniperberryseeditem",
+    "count": 1,
+    "ingredients": [
+      "pamhc2crops:juniperberryitem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2crops:juteseeditem": {
+    "result": "pamhc2crops:juteseeditem",
+    "count": 1,
+    "ingredients": [
+      "pamhc2crops:juteitem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:juiceritem": {
+    "result": "pamhc2foodcore:juiceritem",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "",
+      "minecraft:terracotta",
+      "",
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:terracotta"
+    ]
+  },
+  "pamhc2foodextended:juniperberryjellyitem": {
+    "result": "pamhc2foodextended:juniperberryjellyitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:juniperberry",
+      "minecraft:sugar",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:juniperberryjellysandwichitem": {
+    "result": "pamhc2foodextended:juniperberryjellysandwichitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:juniperberryjelly",
+      "minecraft:bread",
+      "minecraft:nutbutters",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:juniperberryjellytoastitem": {
+    "result": "pamhc2foodextended:juniperberryjellytoastitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:juniperberryjelly",
+      "minecraft:toast",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:juniperberryjuiceitem": {
+    "result": "pamhc2foodextended:juniperberryjuiceitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_juicer",
+      "minecraft:juniperberry",
+      "minecraft:juniperberry",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:juniperberrypieitem": {
+    "result": "pamhc2foodextended:juniperberrypieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:juniperberry",
+      "minecraft:sugar",
+      "minecraft:dough",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:juniperberrysmoothieitem": {
+    "result": "pamhc2foodextended:juniperberrysmoothieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:juniperberry",
+      "minecraft:ices",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:juniperberryyogurtitem": {
+    "result": "pamhc2foodextended:juniperberryyogurtitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:juniperberry",
+      "minecraft:yogurt",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pneumaticcraft:jumping_upgrade_1": {
+    "result": "pneumaticcraft:jumping_upgrade_1",
+    "count": 1,
+    "ingredients": [
+      "minecraft:upgrade_components",
+      "pneumaticcraft:pneumatic_cylinder",
+      "minecraft:upgrade_components",
+      "pneumaticcraft:vortex_cannon",
+      "pneumaticcraft:pressure_tube",
+      "pneumaticcraft:vortex_cannon",
+      "minecraft:upgrade_components",
+      "minecraft:piston",
+      "minecraft:upgrade_components"
+    ]
+  },
+  "pneumaticcraft:jumping_upgrade_2": {
+    "result": "pneumaticcraft:jumping_upgrade_2",
+    "count": 1,
+    "ingredients": [
+      "minecraft:piston",
+      "pneumaticcraft:pneumatic_cylinder",
+      "minecraft:piston",
+      "minecraft:slime_block",
+      "pneumaticcraft:jumping_upgrade_1",
+      "minecraft:slime_block",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivebees:jungle_wood_nest": {
+    "result": "productivebees:jungle_wood_nest",
+    "count": 1,
+    "ingredients": [
+      "productivebees:jungle_wood_nest",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:juniper_bookshelf": {
+    "result": "productivetrees:juniper_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:juniper_planks",
+      "productivetrees:juniper_planks",
+      "productivetrees:juniper_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:juniper_planks",
+      "productivetrees:juniper_planks",
+      "productivetrees:juniper_planks"
+    ]
+  },
+  "productivetrees:juniper_button": {
+    "result": "productivetrees:juniper_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:juniper_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:juniper_berry_crate": {
+    "result": "productivetrees:juniper_berry_crate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:juniperberry",
+      "minecraft:juniperberry",
+      "minecraft:juniperberry",
+      "minecraft:juniperberry",
+      "productivetrees:juniper_berry",
+      "minecraft:juniperberry",
+      "minecraft:juniperberry",
+      "minecraft:juniperberry",
+      "minecraft:juniperberry"
+    ]
+  },
+  "productivetrees:juniper_berry": {
+    "result": "productivetrees:juniper_berry",
+    "count": 9,
+    "ingredients": [
+      "productivetrees:juniper_berry_crate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:juniper_door": {
+    "result": "productivetrees:juniper_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:juniper_planks",
+      "productivetrees:juniper_planks",
+      "",
+      "productivetrees:juniper_planks",
+      "productivetrees:juniper_planks",
+      "",
+      "productivetrees:juniper_planks",
+      "productivetrees:juniper_planks",
+      ""
+    ]
+  },
+  "productivetrees:juniper_fence": {
+    "result": "productivetrees:juniper_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:juniper_planks",
+      "minecraft:stick",
+      "productivetrees:juniper_planks",
+      "productivetrees:juniper_planks",
+      "minecraft:stick",
+      "productivetrees:juniper_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:juniper_fence_gate": {
+    "result": "productivetrees:juniper_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:juniper_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:juniper_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:juniper_hanging_sign": {
+    "result": "productivetrees:juniper_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:juniper_planks",
+      "productivetrees:juniper_planks",
+      "productivetrees:juniper_planks",
+      "productivetrees:juniper_planks",
+      "productivetrees:juniper_planks",
+      "productivetrees:juniper_planks"
+    ]
+  },
+  "productivetrees:juniper_planks": {
+    "result": "productivetrees:juniper_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:juniper_pressure_plate": {
+    "result": "productivetrees:juniper_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:juniper_planks",
+      "productivetrees:juniper_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:juniper_sign": {
+    "result": "productivetrees:juniper_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:juniper_planks",
+      "productivetrees:juniper_planks",
+      "productivetrees:juniper_planks",
+      "productivetrees:juniper_planks",
+      "productivetrees:juniper_planks",
+      "productivetrees:juniper_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:juniper_slab": {
+    "result": "productivetrees:juniper_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:juniper_planks",
+      "productivetrees:juniper_planks",
+      "productivetrees:juniper_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:juniper_stairs": {
+    "result": "productivetrees:juniper_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:juniper_planks",
+      "",
+      "",
+      "productivetrees:juniper_planks",
+      "productivetrees:juniper_planks",
+      "",
+      "productivetrees:juniper_planks",
+      "productivetrees:juniper_planks",
+      "productivetrees:juniper_planks"
+    ]
+  },
+  "productivetrees:juniper_trapdoor": {
+    "result": "productivetrees:juniper_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:juniper_planks",
+      "productivetrees:juniper_planks",
+      "productivetrees:juniper_planks",
+      "productivetrees:juniper_planks",
+      "productivetrees:juniper_planks",
+      "productivetrees:juniper_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:juniper_wood": {
+    "result": "productivetrees:juniper_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:juniper_log",
+      "productivetrees:juniper_log",
+      "",
+      "productivetrees:juniper_log",
+      "productivetrees:juniper_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "refurbished_furniture:jungle_dark_ceiling_fan": {
+    "result": "refurbished_furniture:jungle_dark_ceiling_fan",
+    "count": 1,
+    "ingredients": [
+      "refurbished_furniture:jungle_light_ceiling_fan",
+      "minecraft:black_dye",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:jungle_branch": {
+    "result": "regions_unexplored:jungle_branch",
+    "count": 2,
+    "ingredients": [
+      "minecraft:jungle_log",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:jungle_shrub": {
+    "result": "regions_unexplored:jungle_shrub",
+    "count": 1,
+    "ingredients": [
+      "minecraft:jungle_sapling",
+      "",
+      "",
+      "minecraft:jungle_sapling",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "securitycraft:jungle_security_sea_boat": {
+    "result": "securitycraft:jungle_security_sea_boat",
+    "count": 1,
+    "ingredients": [
+      "securitycraft:reinforced_jungle_planks",
+      "securitycraft:keypad_chest",
+      "securitycraft:reinforced_jungle_planks",
+      "securitycraft:reinforced_jungle_planks",
+      "securitycraft:reinforced_jungle_planks",
+      "securitycraft:reinforced_jungle_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "sophisticatedbackpacks:jukebox_upgrade": {
+    "result": "sophisticatedbackpacks:jukebox_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:string",
+      "sophisticatedstorage:jukebox_upgrade",
+      "minecraft:string",
+      "",
+      "minecraft:leather",
+      "",
+      "minecraft:string",
+      "",
+      "minecraft:string"
+    ]
+  },
+  "sophisticatedstorage:jukebox_upgrade": {
+    "result": "sophisticatedstorage:jukebox_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "sophisticatedbackpacks:jukebox_upgrade",
+      "minecraft:oak_planks",
+      "",
+      "minecraft:oak_planks",
+      "",
+      "minecraft:oak_planks",
+      "",
+      "minecraft:oak_planks"
+    ]
+  },
+  "sophisticatedstorage:jungle_storage_connector": {
+    "result": "sophisticatedstorage:jungle_storage_connector",
+    "count": 4,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:jungle_planks",
+      "minecraft:stick",
+      "minecraft:jungle_planks",
+      "minecraft:stick",
+      "minecraft:jungle_planks",
+      "minecraft:stick",
+      "minecraft:jungle_planks",
+      "minecraft:stick"
+    ]
+  },
+  "storagedelight:jungle_bookshelf_with_door": {
+    "result": "storagedelight:jungle_bookshelf_with_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_trapdoor",
+      "minecraft:jungle_slab",
+      "minecraft:bookshelf",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab"
+    ]
+  },
+  "storagedelight:jungle_cabinet_with_glass_doors": {
+    "result": "storagedelight:jungle_cabinet_with_glass_doors",
+    "count": 1,
+    "ingredients": [
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "minecraft:glass",
+      "minecraft:jungle_trapdoor",
+      "minecraft:glass",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab"
+    ]
+  },
+  "storagedelight:jungle_cabinet_with_polished_andesite_countertop": {
+    "result": "storagedelight:jungle_cabinet_with_polished_andesite_countertop",
+    "count": 1,
+    "ingredients": [
+      "minecraft:polished_andesite_slab",
+      "minecraft:polished_andesite_slab",
+      "minecraft:polished_andesite_slab",
+      "minecraft:jungle_trapdoor",
+      "",
+      "minecraft:jungle_trapdoor",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab"
+    ]
+  },
+  "storagedelight:jungle_cabinet_with_polished_deepslate_countertop": {
+    "result": "storagedelight:jungle_cabinet_with_polished_deepslate_countertop",
+    "count": 1,
+    "ingredients": [
+      "minecraft:polished_deepslate_slab",
+      "minecraft:polished_deepslate_slab",
+      "minecraft:polished_deepslate_slab",
+      "minecraft:jungle_trapdoor",
+      "",
+      "minecraft:jungle_trapdoor",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab"
+    ]
+  },
+  "storagedelight:jungle_cabinet_with_polished_tuff_countertop": {
+    "result": "storagedelight:jungle_cabinet_with_polished_tuff_countertop",
+    "count": 1,
+    "ingredients": [
+      "minecraft:polished_tuff_slab",
+      "minecraft:polished_tuff_slab",
+      "minecraft:polished_tuff_slab",
+      "minecraft:jungle_trapdoor",
+      "",
+      "minecraft:jungle_trapdoor",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab"
+    ]
+  },
+  "storagedelight:jungle_drawer": {
+    "result": "storagedelight:jungle_drawer",
+    "count": 1,
+    "ingredients": [
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_trapdoor",
+      "minecraft:jungle_trapdoor",
+      "minecraft:jungle_trapdoor",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab"
+    ]
+  },
+  "storagedelight:jungle_drawer_with_books": {
+    "result": "storagedelight:jungle_drawer_with_books",
+    "count": 1,
+    "ingredients": [
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_trapdoor",
+      "minecraft:jungle_trapdoor",
+      "minecraft:jungle_trapdoor",
+      "minecraft:jungle_slab",
+      "minecraft:bookshelf",
+      "minecraft:jungle_slab"
+    ]
+  },
+  "storagedelight:jungle_drawer_with_door": {
+    "result": "storagedelight:jungle_drawer_with_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_trapdoor",
+      "minecraft:jungle_trapdoor",
+      "minecraft:jungle_trapdoor",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_trapdoor",
+      "minecraft:jungle_slab"
+    ]
+  },
+  "storagedelight:jungle_single_door_cabinet": {
+    "result": "storagedelight:jungle_single_door_cabinet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "",
+      "minecraft:jungle_trapdoor",
+      "",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab"
+    ]
+  },
+  "twilightforest:jungle_banister": {
+    "result": "twilightforest:jungle_banister",
+    "count": 3,
+    "ingredients": [
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "minecraft:stick",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:jungle_drying_rack": {
+    "result": "twilightforest:jungle_drying_rack",
+    "count": 1,
+    "ingredients": [
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "minecraft:jungle_slab",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

@@ -1,0 +1,5567 @@
+{
+  "advanced_ae:data_entangler": {
+    "result": "advanced_ae:data_entangler",
+    "count": 1,
+    "ingredients": [
+      "advanced_ae:quantum_storage_256",
+      "advanced_ae:quantum_storage_256",
+      "advanced_ae:quantum_storage_256",
+      "advanced_ae:shattered_singularity",
+      "advanced_ae:quantum_unit",
+      "advanced_ae:shattered_singularity",
+      "advanced_ae:shattered_singularity",
+      "advanced_ae:quantum_core",
+      "advanced_ae:shattered_singularity"
+    ]
+  },
+  "ae2:dark_monitor": {
+    "result": "ae2:dark_monitor",
+    "count": 1,
+    "ingredients": [
+      "ae2:monitor",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:darkstone_1x": {
+    "result": "allthecompressed:darkstone_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:darkstone_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:darkstone_2x": {
+    "result": "allthecompressed:darkstone_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:darkstone_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:darkstone_3x": {
+    "result": "allthecompressed:darkstone_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:darkstone_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:darkstone_4x": {
+    "result": "allthecompressed:darkstone_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:darkstone_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:darkstone_5x": {
+    "result": "allthecompressed:darkstone_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:darkstone_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:darkstone_6x": {
+    "result": "allthecompressed:darkstone_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:darkstone_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:darkstone_7x": {
+    "result": "allthecompressed:darkstone_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:darkstone_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:darkstone_8x": {
+    "result": "allthecompressed:darkstone_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:darkstone_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:darkstone_9x": {
+    "result": "allthecompressed:darkstone_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:darkstone_8x",
+      "allthecompressed:darkstone_8x",
+      "allthecompressed:darkstone_8x",
+      "allthecompressed:darkstone_8x",
+      "allthecompressed:darkstone_8x",
+      "allthecompressed:darkstone_8x",
+      "allthecompressed:darkstone_8x",
+      "allthecompressed:darkstone_8x",
+      "allthecompressed:darkstone_8x"
+    ]
+  },
+  "allthecompressed:dark_oak_log_1x": {
+    "result": "allthecompressed:dark_oak_log_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:dark_oak_log_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:dark_oak_log_2x": {
+    "result": "allthecompressed:dark_oak_log_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:dark_oak_log_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:dark_oak_log_3x": {
+    "result": "allthecompressed:dark_oak_log_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:dark_oak_log_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:dark_oak_log_4x": {
+    "result": "allthecompressed:dark_oak_log_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:dark_oak_log_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:dark_oak_log_5x": {
+    "result": "allthecompressed:dark_oak_log_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:dark_oak_log_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:dark_oak_log_6x": {
+    "result": "allthecompressed:dark_oak_log_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:dark_oak_log_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:dark_oak_log_7x": {
+    "result": "allthecompressed:dark_oak_log_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:dark_oak_log_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:dark_oak_log_8x": {
+    "result": "allthecompressed:dark_oak_log_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:dark_oak_log_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:dark_oak_log_9x": {
+    "result": "allthecompressed:dark_oak_log_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:dark_oak_log_8x",
+      "allthecompressed:dark_oak_log_8x",
+      "allthecompressed:dark_oak_log_8x",
+      "allthecompressed:dark_oak_log_8x",
+      "allthecompressed:dark_oak_log_8x",
+      "allthecompressed:dark_oak_log_8x",
+      "allthecompressed:dark_oak_log_8x",
+      "allthecompressed:dark_oak_log_8x",
+      "allthecompressed:dark_oak_log_8x"
+    ]
+  },
+  "allthecompressed:dark_oak_planks_1x": {
+    "result": "allthecompressed:dark_oak_planks_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:dark_oak_planks_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:dark_oak_planks_2x": {
+    "result": "allthecompressed:dark_oak_planks_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:dark_oak_planks_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:dark_oak_planks_3x": {
+    "result": "allthecompressed:dark_oak_planks_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:dark_oak_planks_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:dark_oak_planks_4x": {
+    "result": "allthecompressed:dark_oak_planks_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:dark_oak_planks_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:dark_oak_planks_5x": {
+    "result": "allthecompressed:dark_oak_planks_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:dark_oak_planks_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:dark_oak_planks_6x": {
+    "result": "allthecompressed:dark_oak_planks_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:dark_oak_planks_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:dark_oak_planks_7x": {
+    "result": "allthecompressed:dark_oak_planks_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:dark_oak_planks_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:dark_oak_planks_8x": {
+    "result": "allthecompressed:dark_oak_planks_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:dark_oak_planks_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:dark_oak_planks_9x": {
+    "result": "allthecompressed:dark_oak_planks_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:dark_oak_planks_8x",
+      "allthecompressed:dark_oak_planks_8x",
+      "allthecompressed:dark_oak_planks_8x",
+      "allthecompressed:dark_oak_planks_8x",
+      "allthecompressed:dark_oak_planks_8x",
+      "allthecompressed:dark_oak_planks_8x",
+      "allthecompressed:dark_oak_planks_8x",
+      "allthecompressed:dark_oak_planks_8x",
+      "allthecompressed:dark_oak_planks_8x"
+    ]
+  },
+  "allthecompressed:dark_steel_block_1x": {
+    "result": "allthecompressed:dark_steel_block_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:dark_steel_block_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:dark_steel_block_2x": {
+    "result": "allthecompressed:dark_steel_block_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:dark_steel_block_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:dark_steel_block_3x": {
+    "result": "allthecompressed:dark_steel_block_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:dark_steel_block_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:dark_steel_block_4x": {
+    "result": "allthecompressed:dark_steel_block_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:dark_steel_block_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:dark_steel_block_5x": {
+    "result": "allthecompressed:dark_steel_block_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:dark_steel_block_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:dark_steel_block_6x": {
+    "result": "allthecompressed:dark_steel_block_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:dark_steel_block_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:dark_steel_block_7x": {
+    "result": "allthecompressed:dark_steel_block_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:dark_steel_block_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:dark_steel_block_8x": {
+    "result": "allthecompressed:dark_steel_block_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:dark_steel_block_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:dark_steel_block_9x": {
+    "result": "allthecompressed:dark_steel_block_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:dark_steel_block_8x",
+      "allthecompressed:dark_steel_block_8x",
+      "allthecompressed:dark_steel_block_8x",
+      "allthecompressed:dark_steel_block_8x",
+      "allthecompressed:dark_steel_block_8x",
+      "allthecompressed:dark_steel_block_8x",
+      "allthecompressed:dark_steel_block_8x",
+      "allthecompressed:dark_steel_block_8x",
+      "allthecompressed:dark_steel_block_8x"
+    ]
+  },
+  "forbidden_arcanus:darkstone": {
+    "result": "forbidden_arcanus:darkstone",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:darkstone_1x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:dark_oak_log": {
+    "result": "minecraft:dark_oak_log",
+    "count": 16,
+    "ingredients": [
+      "",
+      "",
+      "mysticalagriculture:wood_essence",
+      "",
+      "",
+      "mysticalagriculture:wood_essence",
+      "",
+      "",
+      "mysticalagriculture:wood_essence"
+    ]
+  },
+  "minecraft:dark_oak_planks": {
+    "result": "minecraft:dark_oak_planks",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dark_oak_slab",
+      "",
+      "",
+      "",
+      "minecraft:dark_oak_slab",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "enderio:dark_steel_block": {
+    "result": "enderio:dark_steel_block",
+    "count": 1,
+    "ingredients": [
+      "enderio:dark_steel_ingot",
+      "enderio:dark_steel_ingot",
+      "enderio:dark_steel_ingot",
+      "enderio:dark_steel_ingot",
+      "enderio:dark_steel_ingot",
+      "enderio:dark_steel_ingot",
+      "enderio:dark_steel_ingot",
+      "enderio:dark_steel_ingot",
+      "enderio:dark_steel_ingot"
+    ]
+  },
+  "aquaculture:dark_oak_fish_mount": {
+    "result": "aquaculture:dark_oak_fish_mount",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dark_oak_button",
+      "aquaculture:iron_hook",
+      "minecraft:dark_oak_button",
+      "minecraft:dark_oak_button",
+      "minecraft:dark_oak_button",
+      "minecraft:dark_oak_button",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:dark_oak_bookcase": {
+    "result": "bibliocraft:dark_oak_bookcase",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_planks"
+    ]
+  },
+  "bibliocraft:dark_oak_fancy_armor_stand": {
+    "result": "bibliocraft:dark_oak_fancy_armor_stand",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab"
+    ]
+  },
+  "bibliocraft:dark_oak_fancy_clock": {
+    "result": "bibliocraft:dark_oak_fancy_clock",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dark_oak_slab",
+      "minecraft:clock",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "minecraft:stick",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "minecraft:copper_ingot",
+      "minecraft:dark_oak_slab"
+    ]
+  },
+  "bibliocraft:dark_oak_fancy_crafter": {
+    "result": "bibliocraft:dark_oak_fancy_crafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black",
+      "minecraft:crafting_tables",
+      "minecraft:feather",
+      "minecraft:dark_oak_planks",
+      "minecraft:glass",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      "minecraft:crafter",
+      "minecraft:dark_oak_planks"
+    ]
+  },
+  "bibliocraft:dark_oak_fancy_sign": {
+    "result": "bibliocraft:dark_oak_fancy_sign",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dark_oak_planks",
+      "minecraft:paper",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      "minecraft:paper",
+      "minecraft:dark_oak_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "bibliocraft:dark_oak_grandfather_clock": {
+    "result": "bibliocraft:dark_oak_grandfather_clock",
+    "count": 1,
+    "ingredients": [
+      "bibliocraft:dark_oak_fancy_clock",
+      "bibliocraft:dark_oak_fancy_clock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:dark_oak_label": {
+    "result": "bibliocraft:dark_oak_label",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:dark_oak_potion_shelf": {
+    "result": "bibliocraft:dark_oak_potion_shelf",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_planks",
+      "minecraft:glass_bottle",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab"
+    ]
+  },
+  "bibliocraft:dark_oak_shelf": {
+    "result": "bibliocraft:dark_oak_shelf",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "",
+      "minecraft:dark_oak_planks",
+      "",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab"
+    ]
+  },
+  "bibliocraft:dark_oak_table": {
+    "result": "bibliocraft:dark_oak_table",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "",
+      "minecraft:dark_oak_planks",
+      "",
+      "",
+      "minecraft:dark_oak_planks",
+      ""
+    ]
+  },
+  "bibliocraft:dark_oak_tool_rack": {
+    "result": "bibliocraft:dark_oak_tool_rack",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "minecraft:iron_ingot",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab"
+    ]
+  },
+  "biomeswevegone:dacite_bricks": {
+    "result": "biomeswevegone:dacite_bricks",
+    "count": 4,
+    "ingredients": [
+      "biomeswevegone:dacite",
+      "biomeswevegone:dacite",
+      "",
+      "biomeswevegone:dacite",
+      "biomeswevegone:dacite",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:dacite_brick_slab": {
+    "result": "biomeswevegone:dacite_brick_slab",
+    "count": 6,
+    "ingredients": [
+      "biomeswevegone:dacite_bricks",
+      "biomeswevegone:dacite_bricks",
+      "biomeswevegone:dacite_bricks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:dacite_brick_stairs": {
+    "result": "biomeswevegone:dacite_brick_stairs",
+    "count": 4,
+    "ingredients": [
+      "biomeswevegone:dacite_bricks",
+      "",
+      "",
+      "biomeswevegone:dacite_bricks",
+      "biomeswevegone:dacite_bricks",
+      "",
+      "biomeswevegone:dacite_bricks",
+      "biomeswevegone:dacite_bricks",
+      "biomeswevegone:dacite_bricks"
+    ]
+  },
+  "biomeswevegone:dacite_brick_wall": {
+    "result": "biomeswevegone:dacite_brick_wall",
+    "count": 6,
+    "ingredients": [
+      "biomeswevegone:dacite_bricks",
+      "biomeswevegone:dacite_bricks",
+      "biomeswevegone:dacite_bricks",
+      "biomeswevegone:dacite_bricks",
+      "biomeswevegone:dacite_bricks",
+      "biomeswevegone:dacite_bricks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:dacite_cobblestone_slab": {
+    "result": "biomeswevegone:dacite_cobblestone_slab",
+    "count": 6,
+    "ingredients": [
+      "biomeswevegone:dacite_cobblestone",
+      "biomeswevegone:dacite_cobblestone",
+      "biomeswevegone:dacite_cobblestone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:dacite_cobblestone_stairs": {
+    "result": "biomeswevegone:dacite_cobblestone_stairs",
+    "count": 4,
+    "ingredients": [
+      "biomeswevegone:dacite_cobblestone",
+      "",
+      "",
+      "biomeswevegone:dacite_cobblestone",
+      "biomeswevegone:dacite_cobblestone",
+      "",
+      "biomeswevegone:dacite_cobblestone",
+      "biomeswevegone:dacite_cobblestone",
+      "biomeswevegone:dacite_cobblestone"
+    ]
+  },
+  "biomeswevegone:dacite_cobblestone_wall": {
+    "result": "biomeswevegone:dacite_cobblestone_wall",
+    "count": 6,
+    "ingredients": [
+      "biomeswevegone:dacite_cobblestone",
+      "biomeswevegone:dacite_cobblestone",
+      "biomeswevegone:dacite_cobblestone",
+      "biomeswevegone:dacite_cobblestone",
+      "biomeswevegone:dacite_cobblestone",
+      "biomeswevegone:dacite_cobblestone",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:dacite_pillar": {
+    "result": "biomeswevegone:dacite_pillar",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:dacite",
+      "",
+      "",
+      "biomeswevegone:dacite",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:dacite_slab": {
+    "result": "biomeswevegone:dacite_slab",
+    "count": 6,
+    "ingredients": [
+      "biomeswevegone:dacite",
+      "biomeswevegone:dacite",
+      "biomeswevegone:dacite",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:dacite_stairs": {
+    "result": "biomeswevegone:dacite_stairs",
+    "count": 4,
+    "ingredients": [
+      "biomeswevegone:dacite",
+      "",
+      "",
+      "biomeswevegone:dacite",
+      "biomeswevegone:dacite",
+      "",
+      "biomeswevegone:dacite",
+      "biomeswevegone:dacite",
+      "biomeswevegone:dacite"
+    ]
+  },
+  "biomeswevegone:dacite_tiles": {
+    "result": "biomeswevegone:dacite_tiles",
+    "count": 4,
+    "ingredients": [
+      "biomeswevegone:dacite_bricks",
+      "biomeswevegone:dacite_bricks",
+      "",
+      "biomeswevegone:dacite_bricks",
+      "biomeswevegone:dacite_bricks",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:dacite_tile_slab": {
+    "result": "biomeswevegone:dacite_tile_slab",
+    "count": 6,
+    "ingredients": [
+      "biomeswevegone:dacite_tiles",
+      "biomeswevegone:dacite_tiles",
+      "biomeswevegone:dacite_tiles",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:dacite_tile_stairs": {
+    "result": "biomeswevegone:dacite_tile_stairs",
+    "count": 4,
+    "ingredients": [
+      "biomeswevegone:dacite_tiles",
+      "",
+      "",
+      "biomeswevegone:dacite_tiles",
+      "biomeswevegone:dacite_tiles",
+      "",
+      "biomeswevegone:dacite_tiles",
+      "biomeswevegone:dacite_tiles",
+      "biomeswevegone:dacite_tiles"
+    ]
+  },
+  "biomeswevegone:dacite_tile_wall": {
+    "result": "biomeswevegone:dacite_tile_wall",
+    "count": 6,
+    "ingredients": [
+      "biomeswevegone:dacite_tiles",
+      "biomeswevegone:dacite_tiles",
+      "biomeswevegone:dacite_tiles",
+      "biomeswevegone:dacite_tiles",
+      "biomeswevegone:dacite_tiles",
+      "biomeswevegone:dacite_tiles",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:dacite_wall": {
+    "result": "biomeswevegone:dacite_wall",
+    "count": 6,
+    "ingredients": [
+      "biomeswevegone:dacite",
+      "biomeswevegone:dacite",
+      "biomeswevegone:dacite",
+      "biomeswevegone:dacite",
+      "biomeswevegone:dacite",
+      "biomeswevegone:dacite",
+      "",
+      "",
+      ""
+    ]
+  },
+  "crafting_on_a_stick:damaged_anvil": {
+    "result": "crafting_on_a_stick:damaged_anvil",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:damaged_anvil",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:damaged_anvil": {
+    "result": "minecraft:damaged_anvil",
+    "count": 1,
+    "ingredients": [
+      "crafting_on_a_stick:damaged_anvil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:dark_oak_window": {
+    "result": "create:dark_oak_window",
+    "count": 2,
+    "ingredients": [
+      "",
+      "minecraft:dark_oak_planks",
+      "",
+      "minecraft:dark_oak_planks",
+      "minecraft:glass",
+      "minecraft:dark_oak_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:dark_oak_window_pane": {
+    "result": "create:dark_oak_window_pane",
+    "count": 16,
+    "ingredients": [
+      "create:dark_oak_window",
+      "create:dark_oak_window",
+      "create:dark_oak_window",
+      "create:dark_oak_window",
+      "create:dark_oak_window",
+      "create:dark_oak_window",
+      "",
+      "",
+      ""
+    ]
+  },
+  "enderio:dark_bimetal_gear": {
+    "result": "enderio:dark_bimetal_gear",
+    "count": 1,
+    "ingredients": [
+      "enderio:dark_steel_nugget",
+      "enderio:dark_steel_ingot",
+      "enderio:dark_steel_nugget",
+      "enderio:dark_steel_ingot",
+      "minecraft:iron",
+      "enderio:dark_steel_ingot",
+      "enderio:dark_steel_nugget",
+      "enderio:dark_steel_ingot",
+      "enderio:dark_steel_nugget"
+    ]
+  },
+  "enderio:dark_steel_bars": {
+    "result": "enderio:dark_steel_bars",
+    "count": 16,
+    "ingredients": [
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "",
+      "",
+      ""
+    ]
+  },
+  "enderio:dark_steel_door": {
+    "result": "enderio:dark_steel_door",
+    "count": 3,
+    "ingredients": [
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      ""
+    ]
+  },
+  "enderio:dark_steel_grinding_ball": {
+    "result": "enderio:dark_steel_grinding_ball",
+    "count": 24,
+    "ingredients": [
+      "",
+      "modern_industrialization:steel_ingot",
+      "",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "",
+      "modern_industrialization:steel_ingot",
+      ""
+    ]
+  },
+  "enderio:dark_steel_ingot": {
+    "result": "enderio:dark_steel_ingot",
+    "count": 4,
+    "ingredients": [
+      "mysticalagriculture:dark_steel_essence",
+      "mysticalagriculture:dark_steel_essence",
+      "mysticalagriculture:dark_steel_essence",
+      "mysticalagriculture:dark_steel_essence",
+      "",
+      "mysticalagriculture:dark_steel_essence",
+      "mysticalagriculture:dark_steel_essence",
+      "mysticalagriculture:dark_steel_essence",
+      "mysticalagriculture:dark_steel_essence"
+    ]
+  },
+  "enderio:dark_steel_ladder": {
+    "result": "enderio:dark_steel_ladder",
+    "count": 12,
+    "ingredients": [
+      "",
+      "modern_industrialization:steel_ingot",
+      "",
+      "",
+      "modern_industrialization:steel_ingot",
+      "",
+      "",
+      "modern_industrialization:steel_ingot",
+      ""
+    ]
+  },
+  "enderio:dark_steel_nugget": {
+    "result": "enderio:dark_steel_nugget",
+    "count": 9,
+    "ingredients": [
+      "enderio:dark_steel_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "enderio:dark_steel_pressure_plate": {
+    "result": "enderio:dark_steel_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "enderio:dark_steel_sword": {
+    "result": "enderio:dark_steel_sword",
+    "count": 1,
+    "ingredients": [
+      "",
+      "modern_industrialization:steel_ingot",
+      "",
+      "",
+      "modern_industrialization:steel_ingot",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "enderio:dark_steel_trapdoor": {
+    "result": "enderio:dark_steel_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:dagger_of_hunger": {
+    "result": "eternal_starlight:dagger_of_hunger",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:tooth_of_hunger",
+      "",
+      "",
+      "eternal_starlight:tooth_of_hunger",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:dark_oak_starfire_bird_aviary": {
+    "result": "eternal_starlight:dark_oak_starfire_bird_aviary",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      "eternal_starlight:starfire",
+      "eternal_starlight:starfire",
+      "eternal_starlight:starfire",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks"
+    ]
+  },
+  "minecraft:daylight_detector": {
+    "result": "minecraft:daylight_detector",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:wooden_slabs",
+      "minecraft:wooden_slabs",
+      "minecraft:wooden_slabs"
+    ]
+  },
+  "evilcraft:darkened_apple": {
+    "result": "evilcraft:darkened_apple",
+    "count": 1,
+    "ingredients": [
+      "minecraft:apple",
+      "evilcraft:dark_gem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "evilcraft:dark_block": {
+    "result": "evilcraft:dark_block",
+    "count": 1,
+    "ingredients": [
+      "evilcraft:dark_gem",
+      "evilcraft:dark_gem",
+      "evilcraft:dark_gem",
+      "evilcraft:dark_gem",
+      "evilcraft:dark_gem",
+      "evilcraft:dark_gem",
+      "evilcraft:dark_gem",
+      "evilcraft:dark_gem",
+      "evilcraft:dark_gem"
+    ]
+  },
+  "evilcraft:dark_blood_brick_stairs": {
+    "result": "evilcraft:dark_blood_brick_stairs",
+    "count": 4,
+    "ingredients": [
+      "evilcraft:dark_blood_brick",
+      "",
+      "",
+      "evilcraft:dark_blood_brick",
+      "evilcraft:dark_blood_brick",
+      "",
+      "evilcraft:dark_blood_brick",
+      "evilcraft:dark_blood_brick",
+      "evilcraft:dark_blood_brick"
+    ]
+  },
+  "evilcraft:dark_brick": {
+    "result": "evilcraft:dark_brick",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:stone_bricks",
+      "",
+      "minecraft:stone_bricks",
+      "evilcraft:dark_block",
+      "minecraft:stone_bricks",
+      "",
+      "minecraft:stone_bricks",
+      ""
+    ]
+  },
+  "evilcraft:dark_brick_stairs": {
+    "result": "evilcraft:dark_brick_stairs",
+    "count": 4,
+    "ingredients": [
+      "evilcraft:dark_brick",
+      "",
+      "",
+      "evilcraft:dark_brick",
+      "evilcraft:dark_brick",
+      "",
+      "evilcraft:dark_brick",
+      "evilcraft:dark_brick",
+      "evilcraft:dark_brick"
+    ]
+  },
+  "evilcraft:dark_gem": {
+    "result": "evilcraft:dark_gem",
+    "count": 9,
+    "ingredients": [
+      "evilcraft:dark_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "evilcraft:dark_power_gem": {
+    "result": "evilcraft:dark_power_gem",
+    "count": 9,
+    "ingredients": [
+      "evilcraft:dark_power_gem_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "evilcraft:dark_power_gem_block": {
+    "result": "evilcraft:dark_power_gem_block",
+    "count": 1,
+    "ingredients": [
+      "evilcraft:dark_power_gem",
+      "evilcraft:dark_power_gem",
+      "evilcraft:dark_power_gem",
+      "evilcraft:dark_power_gem",
+      "evilcraft:dark_power_gem",
+      "evilcraft:dark_power_gem",
+      "evilcraft:dark_power_gem",
+      "evilcraft:dark_power_gem",
+      "evilcraft:dark_power_gem"
+    ]
+  },
+  "evilcraft:dark_spike": {
+    "result": "evilcraft:dark_spike",
+    "count": 16,
+    "ingredients": [
+      "evilcraft:dark_gem",
+      "",
+      "",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "evilcraft:dark_stick": {
+    "result": "evilcraft:dark_stick",
+    "count": 4,
+    "ingredients": [
+      "evilcraft:dark_gem",
+      "",
+      "",
+      "evilcraft:undead_planks",
+      "",
+      "",
+      "evilcraft:undead_planks",
+      "",
+      ""
+    ]
+  },
+  "evilcraft:dark_tank": {
+    "result": "evilcraft:dark_tank",
+    "count": 1,
+    "ingredients": [
+      "",
+      "evilcraft:dark_gem",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:glass",
+      "minecraft:iron_ingot",
+      "",
+      "evilcraft:dark_gem",
+      ""
+    ]
+  },
+  "farmersdelight:dark_oak_cabinet": {
+    "result": "farmersdelight:dark_oak_cabinet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_trapdoor",
+      "",
+      "minecraft:dark_oak_trapdoor",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab"
+    ]
+  },
+  "forbidden_arcanus:darkstone_pedestal": {
+    "result": "forbidden_arcanus:darkstone_pedestal",
+    "count": 1,
+    "ingredients": [
+      "forbidden_arcanus:arcane_polished_darkstone_slab",
+      "forbidden_arcanus:arcane_polished_darkstone_slab",
+      "forbidden_arcanus:arcane_polished_darkstone_slab",
+      "",
+      "forbidden_arcanus:arcane_polished_darkstone_pillar",
+      "",
+      "forbidden_arcanus:polished_darkstone",
+      "forbidden_arcanus:polished_darkstone",
+      "forbidden_arcanus:polished_darkstone"
+    ]
+  },
+  "forbidden_arcanus:darkstone_slab": {
+    "result": "forbidden_arcanus:darkstone_slab",
+    "count": 6,
+    "ingredients": [
+      "forbidden_arcanus:darkstone",
+      "forbidden_arcanus:darkstone",
+      "forbidden_arcanus:darkstone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "forbidden_arcanus:darkstone_stairs": {
+    "result": "forbidden_arcanus:darkstone_stairs",
+    "count": 4,
+    "ingredients": [
+      "forbidden_arcanus:darkstone",
+      "",
+      "",
+      "forbidden_arcanus:darkstone",
+      "forbidden_arcanus:darkstone",
+      "",
+      "forbidden_arcanus:darkstone",
+      "forbidden_arcanus:darkstone",
+      "forbidden_arcanus:darkstone"
+    ]
+  },
+  "forbidden_arcanus:darkstone_wall": {
+    "result": "forbidden_arcanus:darkstone_wall",
+    "count": 6,
+    "ingredients": [
+      "forbidden_arcanus:darkstone",
+      "forbidden_arcanus:darkstone",
+      "forbidden_arcanus:darkstone",
+      "forbidden_arcanus:darkstone",
+      "forbidden_arcanus:darkstone",
+      "forbidden_arcanus:darkstone",
+      "",
+      "",
+      ""
+    ]
+  },
+  "forbidden_arcanus:dark_nether_star": {
+    "result": "forbidden_arcanus:dark_nether_star",
+    "count": 1,
+    "ingredients": [
+      "",
+      "forbidden_arcanus:obsidiansteel_ingot",
+      "",
+      "forbidden_arcanus:obsidiansteel_ingot",
+      "minecraft:nether_star",
+      "forbidden_arcanus:obsidiansteel_ingot",
+      "",
+      "forbidden_arcanus:obsidiansteel_ingot",
+      ""
+    ]
+  },
+  "functionalstorage:dark_oak_1": {
+    "result": "functionalstorage:dark_oak_1",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      "minecraft:chest",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks"
+    ]
+  },
+  "functionalstorage:dark_oak_2": {
+    "result": "functionalstorage:dark_oak_2",
+    "count": 2,
+    "ingredients": [
+      "minecraft:dark_oak_planks",
+      "minecraft:chest",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      "minecraft:chest",
+      "minecraft:dark_oak_planks"
+    ]
+  },
+  "functionalstorage:dark_oak_4": {
+    "result": "functionalstorage:dark_oak_4",
+    "count": 4,
+    "ingredients": [
+      "minecraft:chest",
+      "minecraft:dark_oak_planks",
+      "minecraft:chest",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      "minecraft:chest",
+      "minecraft:dark_oak_planks",
+      "minecraft:chest"
+    ]
+  },
+  "glassential:dark_ethereal_door": {
+    "result": "glassential:dark_ethereal_door",
+    "count": 3,
+    "ingredients": [
+      "glassential:glass_dark_ethereal",
+      "glassential:glass_dark_ethereal",
+      "",
+      "glassential:glass_dark_ethereal",
+      "glassential:glass_dark_ethereal",
+      "",
+      "glassential:glass_dark_ethereal",
+      "glassential:glass_dark_ethereal",
+      ""
+    ]
+  },
+  "glassential:dark_ethereal_reverse_door": {
+    "result": "glassential:dark_ethereal_reverse_door",
+    "count": 3,
+    "ingredients": [
+      "glassential:glass_dark_ethereal_reverse",
+      "glassential:glass_dark_ethereal_reverse",
+      "",
+      "glassential:glass_dark_ethereal_reverse",
+      "glassential:glass_dark_ethereal_reverse",
+      "",
+      "glassential:glass_dark_ethereal_reverse",
+      "glassential:glass_dark_ethereal_reverse",
+      ""
+    ]
+  },
+  "glassential:dark_ethereal_reverse_trapdoor": {
+    "result": "glassential:dark_ethereal_reverse_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "glassential:glass_dark_ethereal_reverse",
+      "glassential:glass_dark_ethereal_reverse",
+      "",
+      "glassential:glass_dark_ethereal_reverse",
+      "glassential:glass_dark_ethereal_reverse",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "glassential:dark_ethereal_trapdoor": {
+    "result": "glassential:dark_ethereal_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "glassential:glass_dark_ethereal",
+      "glassential:glass_dark_ethereal",
+      "",
+      "glassential:glass_dark_ethereal",
+      "glassential:glass_dark_ethereal",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:dark_oak_door": {
+    "result": "minecraft:dark_oak_door",
+    "count": 12,
+    "ingredients": [
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      ""
+    ]
+  },
+  "glassential:dark_oak_glass_door": {
+    "result": "glassential:dark_oak_glass_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dark_oak_door",
+      "minecraft:glass_pane",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "glassential:dark_oak_glass_trapdoor": {
+    "result": "glassential:dark_oak_glass_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dark_oak_trapdoor",
+      "minecraft:glass_pane",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:dark_oak_trapdoor": {
+    "result": "minecraft:dark_oak_trapdoor",
+    "count": 12,
+    "ingredients": [
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "",
+      "",
+      ""
+    ]
+  },
+  "handcrafted:dark_oak_bench": {
+    "result": "handcrafted:dark_oak_bench",
+    "count": 2,
+    "ingredients": [
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_planks",
+      "",
+      "minecraft:dark_oak_planks"
+    ]
+  },
+  "handcrafted:dark_oak_chair": {
+    "result": "handcrafted:dark_oak_chair",
+    "count": 2,
+    "ingredients": [
+      "minecraft:dark_oak_slab",
+      "",
+      "",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      "",
+      "minecraft:stick",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "handcrafted:dark_oak_corner_trim": {
+    "result": "handcrafted:dark_oak_corner_trim",
+    "count": 4,
+    "ingredients": [
+      "minecraft:dark_oak_planks",
+      "",
+      "",
+      "minecraft:dark_oak_planks",
+      "",
+      "",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks"
+    ]
+  },
+  "handcrafted:dark_oak_couch": {
+    "result": "handcrafted:dark_oak_couch",
+    "count": 2,
+    "ingredients": [
+      "minecraft:white_wool",
+      "minecraft:cushions",
+      "minecraft:white_wool",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "handcrafted:dark_oak_counter": {
+    "result": "handcrafted:dark_oak_counter",
+    "count": 3,
+    "ingredients": [
+      "minecraft:calcite",
+      "minecraft:calcite",
+      "minecraft:calcite",
+      "minecraft:dark_oak_planks",
+      "minecraft:chest",
+      "minecraft:dark_oak_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "handcrafted:dark_oak_cupboard": {
+    "result": "handcrafted:dark_oak_cupboard",
+    "count": 3,
+    "ingredients": [
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      "minecraft:chest",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks"
+    ]
+  },
+  "handcrafted:dark_oak_desk": {
+    "result": "handcrafted:dark_oak_desk",
+    "count": 2,
+    "ingredients": [
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_planks",
+      "minecraft:chest",
+      "minecraft:dark_oak_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "handcrafted:dark_oak_dining_bench": {
+    "result": "handcrafted:dark_oak_dining_bench",
+    "count": 2,
+    "ingredients": [
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_planks",
+      "",
+      "minecraft:dark_oak_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "handcrafted:dark_oak_drawer": {
+    "result": "handcrafted:dark_oak_drawer",
+    "count": 2,
+    "ingredients": [
+      "minecraft:dark_oak_planks",
+      "minecraft:chest",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab"
+    ]
+  },
+  "handcrafted:dark_oak_fancy_bed": {
+    "result": "handcrafted:dark_oak_fancy_bed",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:cushions",
+      "minecraft:sheets",
+      "minecraft:dark_oak_planks",
+      "minecraft:white_wool",
+      "minecraft:white_wool",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks"
+    ]
+  },
+  "handcrafted:dark_oak_nightstand": {
+    "result": "handcrafted:dark_oak_nightstand",
+    "count": 2,
+    "ingredients": [
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      "minecraft:chest",
+      "minecraft:dark_oak_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "handcrafted:dark_oak_pillar_trim": {
+    "result": "handcrafted:dark_oak_pillar_trim",
+    "count": 4,
+    "ingredients": [
+      "minecraft:dark_oak_planks",
+      "",
+      "",
+      "minecraft:dark_oak_planks",
+      "",
+      "",
+      "minecraft:dark_oak_planks",
+      "",
+      ""
+    ]
+  },
+  "handcrafted:dark_oak_shelf": {
+    "result": "handcrafted:dark_oak_shelf",
+    "count": 2,
+    "ingredients": [
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_planks",
+      "minecraft:chest",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab"
+    ]
+  },
+  "handcrafted:dark_oak_side_table": {
+    "result": "handcrafted:dark_oak_side_table",
+    "count": 2,
+    "ingredients": [
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_planks",
+      "minecraft:chest",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      "",
+      "minecraft:dark_oak_planks"
+    ]
+  },
+  "handcrafted:dark_oak_table": {
+    "result": "handcrafted:dark_oak_table",
+    "count": 2,
+    "ingredients": [
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      "minecraft:stick",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "hostilenetworks:data_center": {
+    "result": "hostilenetworks:data_center",
+    "count": 1,
+    "ingredients": [
+      "minecraft:echo_shard",
+      "minecraft:nether_star",
+      "minecraft:echo_shard",
+      "hostilenetworks:sim_chamber",
+      "minecraft:obsidians",
+      "hostilenetworks:loot_fabricator",
+      "minecraft:obsidians",
+      "minecraft:obsidians",
+      "minecraft:obsidians"
+    ]
+  },
+  "hostilenetworks:data_center_io_port": {
+    "result": "hostilenetworks:data_center_io_port",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:black_stained_glass",
+      "minecraft:iron_ingot",
+      "minecraft:black_stained_glass",
+      "minecraft:redstone_block",
+      "minecraft:black_stained_glass",
+      "minecraft:iron_ingot",
+      "minecraft:black_stained_glass",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "mahoutsukai:dagger": {
+    "result": "mahoutsukai:dagger",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:gold_ingot",
+      "minecraft:stick",
+      "minecraft:purple_dye",
+      "minecraft:iron_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:purple_dye",
+      ""
+    ]
+  },
+  "mcwbridges:dark_oak_bridge_pier": {
+    "result": "mcwbridges:dark_oak_bridge_pier",
+    "count": 3,
+    "ingredients": [
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_fence",
+      "minecraft:dark_oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:dark_oak_log_bridge_middle": {
+    "result": "mcwbridges:dark_oak_log_bridge_middle",
+    "count": 1,
+    "ingredients": [
+      "mcwbridges:dark_oak_log_bridge_stair",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:dark_oak_log_bridge_stair": {
+    "result": "mcwbridges:dark_oak_log_bridge_stair",
+    "count": 6,
+    "ingredients": [
+      "",
+      "",
+      "mcwbridges:dark_oak_log_bridge_middle",
+      "",
+      "mcwbridges:dark_oak_log_bridge_middle",
+      "mcwbridges:dark_oak_log_bridge_middle",
+      "mcwbridges:dark_oak_log_bridge_middle",
+      "mcwbridges:dark_oak_log_bridge_middle",
+      "mcwbridges:dark_oak_log_bridge_middle"
+    ]
+  },
+  "mcwbridges:dark_oak_rail_bridge": {
+    "result": "mcwbridges:dark_oak_rail_bridge",
+    "count": 4,
+    "ingredients": [
+      "minecraft:dark_oak_fence",
+      "",
+      "minecraft:dark_oak_fence",
+      "minecraft:dark_oak_fence",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_fence",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:dark_oak_rope_bridge_stair": {
+    "result": "mcwbridges:dark_oak_rope_bridge_stair",
+    "count": 6,
+    "ingredients": [
+      "",
+      "",
+      "mcwbridges:rope_dark_oak_bridge",
+      "",
+      "mcwbridges:rope_dark_oak_bridge",
+      "mcwbridges:rope_dark_oak_bridge",
+      "mcwbridges:rope_dark_oak_bridge",
+      "mcwbridges:rope_dark_oak_bridge",
+      "mcwbridges:rope_dark_oak_bridge"
+    ]
+  },
+  "mcwdoors:dark_oak_bamboo_door": {
+    "result": "mcwdoors:dark_oak_bamboo_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dark_oak_planks",
+      "",
+      "",
+      "mcwdoors:print_bamboo",
+      "",
+      "",
+      "minecraft:dark_oak_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwdoors:dark_oak_bark_glass_door": {
+    "result": "mcwdoors:dark_oak_bark_glass_door",
+    "count": 3,
+    "ingredients": [
+      "minecraft:dark_oak_log",
+      "minecraft:glass",
+      "",
+      "minecraft:glass",
+      "minecraft:glass",
+      "",
+      "minecraft:dark_oak_log",
+      "minecraft:glass",
+      ""
+    ]
+  },
+  "mcwdoors:dark_oak_barn_door": {
+    "result": "mcwdoors:dark_oak_barn_door",
+    "count": 2,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:stick",
+      "",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      "",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      ""
+    ]
+  },
+  "mcwdoors:dark_oak_barn_glass_door": {
+    "result": "mcwdoors:dark_oak_barn_glass_door",
+    "count": 3,
+    "ingredients": [
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      "",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      ""
+    ]
+  },
+  "mcwdoors:dark_oak_beach_door": {
+    "result": "mcwdoors:dark_oak_beach_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dark_oak_planks",
+      "",
+      "",
+      "mcwdoors:print_jungle",
+      "",
+      "",
+      "minecraft:dark_oak_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwdoors:dark_oak_classic_door": {
+    "result": "mcwdoors:dark_oak_classic_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dark_oak_planks",
+      "",
+      "",
+      "mcwdoors:print_oak",
+      "",
+      "",
+      "minecraft:dark_oak_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwdoors:dark_oak_cottage_door": {
+    "result": "mcwdoors:dark_oak_cottage_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dark_oak_planks",
+      "",
+      "",
+      "mcwdoors:print_spruce",
+      "",
+      "",
+      "minecraft:dark_oak_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwdoors:dark_oak_glass_door": {
+    "result": "mcwdoors:dark_oak_glass_door",
+    "count": 3,
+    "ingredients": [
+      "minecraft:dark_oak_planks",
+      "minecraft:glass_pane",
+      "",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "",
+      "minecraft:dark_oak_planks",
+      "minecraft:glass_pane",
+      ""
+    ]
+  },
+  "mcwdoors:dark_oak_japanese2_door": {
+    "result": "mcwdoors:dark_oak_japanese2_door",
+    "count": 3,
+    "ingredients": [
+      "minecraft:paper",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      "minecraft:paper",
+      "",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      ""
+    ]
+  },
+  "mcwdoors:dark_oak_japanese_door": {
+    "result": "mcwdoors:dark_oak_japanese_door",
+    "count": 3,
+    "ingredients": [
+      "minecraft:paper",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      "minecraft:paper",
+      "",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      ""
+    ]
+  },
+  "mcwdoors:dark_oak_modern_door": {
+    "result": "mcwdoors:dark_oak_modern_door",
+    "count": 3,
+    "ingredients": [
+      "minecraft:dark_oak_planks",
+      "minecraft:glass_pane",
+      "",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      "",
+      "minecraft:dark_oak_planks",
+      "minecraft:glass_pane",
+      ""
+    ]
+  },
+  "mcwdoors:dark_oak_mystic_door": {
+    "result": "mcwdoors:dark_oak_mystic_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dark_oak_planks",
+      "",
+      "",
+      "mcwdoors:print_mystic",
+      "",
+      "",
+      "minecraft:dark_oak_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwdoors:dark_oak_nether_door": {
+    "result": "mcwdoors:dark_oak_nether_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dark_oak_planks",
+      "",
+      "",
+      "mcwdoors:print_nether",
+      "",
+      "",
+      "minecraft:dark_oak_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwdoors:dark_oak_paper_door": {
+    "result": "mcwdoors:dark_oak_paper_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dark_oak_planks",
+      "",
+      "",
+      "mcwdoors:print_birch",
+      "",
+      "",
+      "minecraft:dark_oak_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwdoors:dark_oak_stable_door": {
+    "result": "mcwdoors:dark_oak_stable_door",
+    "count": 3,
+    "ingredients": [
+      "minecraft:iron_bars",
+      "minecraft:iron_bars",
+      "",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      "",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      ""
+    ]
+  },
+  "mcwdoors:dark_oak_stable_head_door": {
+    "result": "mcwdoors:dark_oak_stable_head_door",
+    "count": 1,
+    "ingredients": [
+      "mcwdoors:dark_oak_stable_door",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwdoors:dark_oak_swamp_door": {
+    "result": "mcwdoors:dark_oak_swamp_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dark_oak_planks",
+      "",
+      "",
+      "mcwdoors:print_swamp",
+      "",
+      "",
+      "minecraft:dark_oak_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwdoors:dark_oak_tropical_door": {
+    "result": "mcwdoors:dark_oak_tropical_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dark_oak_planks",
+      "",
+      "",
+      "mcwdoors:print_acacia",
+      "",
+      "",
+      "minecraft:dark_oak_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwdoors:dark_oak_waffle_door": {
+    "result": "mcwdoors:dark_oak_waffle_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dark_oak_planks",
+      "",
+      "",
+      "mcwdoors:print_waffle",
+      "",
+      "",
+      "minecraft:dark_oak_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwdoors:dark_oak_western_door": {
+    "result": "mcwdoors:dark_oak_western_door",
+    "count": 3,
+    "ingredients": [
+      "",
+      "",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks"
+    ]
+  },
+  "mcwdoors:dark_oak_whispering_door": {
+    "result": "mcwdoors:dark_oak_whispering_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dark_oak_planks",
+      "",
+      "",
+      "mcwdoors:print_whispering",
+      "",
+      "",
+      "minecraft:dark_oak_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwfences:dark_oak_curved_gate": {
+    "result": "mcwfences:dark_oak_curved_gate",
+    "count": 4,
+    "ingredients": [
+      "minecraft:dark_oak_log",
+      "",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfences:dark_oak_hedge": {
+    "result": "mcwfences:dark_oak_hedge",
+    "count": 4,
+    "ingredients": [
+      "minecraft:dark_oak_leaves",
+      "minecraft:dark_oak_leaves",
+      "",
+      "minecraft:dark_oak_leaves",
+      "minecraft:dark_oak_leaves",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfences:dark_oak_highley_gate": {
+    "result": "mcwfences:dark_oak_highley_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:dark_oak_log",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:dark_oak_log",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfences:dark_oak_horse_fence": {
+    "result": "mcwfences:dark_oak_horse_fence",
+    "count": 3,
+    "ingredients": [
+      "minecraft:dark_oak_log",
+      "minecraft:stick",
+      "minecraft:dark_oak_log",
+      "minecraft:stick",
+      "minecraft:dark_oak_log",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfences:dark_oak_picket_fence": {
+    "result": "mcwfences:dark_oak_picket_fence",
+    "count": 3,
+    "ingredients": [
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "minecraft:stick",
+      "minecraft:dark_oak_log",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfences:dark_oak_pyramid_gate": {
+    "result": "mcwfences:dark_oak_pyramid_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:dark_oak_log",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:dark_oak_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfences:dark_oak_stockade_fence": {
+    "result": "mcwfences:dark_oak_stockade_fence",
+    "count": 3,
+    "ingredients": [
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_log",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfences:dark_oak_wired_fence": {
+    "result": "mcwfences:dark_oak_wired_fence",
+    "count": 3,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:iron_bars",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:dark_oak_log",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfurnitures:dark_oak_bookshelf": {
+    "result": "mcwfurnitures:dark_oak_bookshelf",
+    "count": 4,
+    "ingredients": [
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log"
+    ]
+  },
+  "mcwfurnitures:dark_oak_bookshelf_cupboard": {
+    "result": "mcwfurnitures:dark_oak_bookshelf_cupboard",
+    "count": 4,
+    "ingredients": [
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "mcwfurnitures:cabinet_door",
+      "minecraft:dark_oak_log",
+      "minecraft:book",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log"
+    ]
+  },
+  "mcwfurnitures:dark_oak_bookshelf_drawer": {
+    "result": "mcwfurnitures:dark_oak_bookshelf_drawer",
+    "count": 4,
+    "ingredients": [
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "mcwfurnitures:cabinet_drawer",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "minecraft:book",
+      "minecraft:dark_oak_log"
+    ]
+  },
+  "mcwfurnitures:dark_oak_chair": {
+    "result": "mcwfurnitures:dark_oak_chair",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:dark_oak_log",
+      "",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_log",
+      "",
+      "minecraft:dark_oak_fence",
+      "minecraft:dark_oak_fence",
+      ""
+    ]
+  },
+  "mcwfurnitures:dark_oak_coffee_table": {
+    "result": "mcwfurnitures:dark_oak_coffee_table",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dark_oak_log",
+      "",
+      "",
+      "minecraft:dark_oak_fence",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfurnitures:dark_oak_counter": {
+    "result": "mcwfurnitures:dark_oak_counter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dark_oak_slab",
+      "",
+      "",
+      "minecraft:dark_oak_log",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfurnitures:dark_oak_covered_desk": {
+    "result": "mcwfurnitures:dark_oak_covered_desk",
+    "count": 2,
+    "ingredients": [
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "",
+      "minecraft:dark_oak_log",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfurnitures:dark_oak_cupboard_counter": {
+    "result": "mcwfurnitures:dark_oak_cupboard_counter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dark_oak_slab",
+      "",
+      "",
+      "mcwfurnitures:dark_oak_wardrobe",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfurnitures:dark_oak_desk": {
+    "result": "mcwfurnitures:dark_oak_desk",
+    "count": 2,
+    "ingredients": [
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_fence",
+      "",
+      "minecraft:dark_oak_fence",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfurnitures:dark_oak_double_drawer": {
+    "result": "mcwfurnitures:dark_oak_double_drawer",
+    "count": 4,
+    "ingredients": [
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "mcwfurnitures:cabinet_drawer",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "mcwfurnitures:cabinet_drawer",
+      "minecraft:dark_oak_log"
+    ]
+  },
+  "mcwfurnitures:dark_oak_double_drawer_counter": {
+    "result": "mcwfurnitures:dark_oak_double_drawer_counter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dark_oak_slab",
+      "",
+      "",
+      "mcwfurnitures:dark_oak_double_drawer",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfurnitures:dark_oak_double_kitchen_cabinet": {
+    "result": "mcwfurnitures:dark_oak_double_kitchen_cabinet",
+    "count": 4,
+    "ingredients": [
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "",
+      "mcwfurnitures:cabinet_door",
+      "mcwfurnitures:cabinet_door",
+      "",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      ""
+    ]
+  },
+  "mcwfurnitures:dark_oak_double_wardrobe": {
+    "result": "mcwfurnitures:dark_oak_double_wardrobe",
+    "count": 4,
+    "ingredients": [
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "mcwfurnitures:cabinet_door",
+      "minecraft:dark_oak_log",
+      "mcwfurnitures:cabinet_door",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log"
+    ]
+  },
+  "mcwfurnitures:dark_oak_drawer": {
+    "result": "mcwfurnitures:dark_oak_drawer",
+    "count": 4,
+    "ingredients": [
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "mcwfurnitures:cabinet_drawer",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log"
+    ]
+  },
+  "mcwfurnitures:dark_oak_drawer_counter": {
+    "result": "mcwfurnitures:dark_oak_drawer_counter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dark_oak_slab",
+      "",
+      "",
+      "mcwfurnitures:dark_oak_drawer",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfurnitures:dark_oak_end_table": {
+    "result": "mcwfurnitures:dark_oak_end_table",
+    "count": 1,
+    "ingredients": [
+      "mcwfurnitures:dark_oak_table",
+      "",
+      "",
+      "minecraft:dark_oak_log",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfurnitures:dark_oak_glass_kitchen_cabinet": {
+    "result": "mcwfurnitures:dark_oak_glass_kitchen_cabinet",
+    "count": 4,
+    "ingredients": [
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "",
+      "minecraft:glass",
+      "mcwfurnitures:cabinet_door",
+      "",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      ""
+    ]
+  },
+  "mcwfurnitures:dark_oak_glass_table": {
+    "result": "mcwfurnitures:dark_oak_glass_table",
+    "count": 1,
+    "ingredients": [
+      "mcwfurnitures:dark_oak_end_table",
+      "",
+      "",
+      "minecraft:glass",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfurnitures:dark_oak_kitchen_cabinet": {
+    "result": "mcwfurnitures:dark_oak_kitchen_cabinet",
+    "count": 4,
+    "ingredients": [
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "",
+      "minecraft:dark_oak_log",
+      "mcwfurnitures:cabinet_door",
+      "",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      ""
+    ]
+  },
+  "mcwfurnitures:dark_oak_kitchen_sink": {
+    "result": "mcwfurnitures:dark_oak_kitchen_sink",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dark_oak_slab",
+      "minecraft:cauldron",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_log",
+      "minecraft:water_bucket",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "minecraft:water_bucket",
+      "minecraft:dark_oak_log"
+    ]
+  },
+  "mcwfurnitures:dark_oak_large_drawer": {
+    "result": "mcwfurnitures:dark_oak_large_drawer",
+    "count": 4,
+    "ingredients": [
+      "minecraft:dark_oak_log",
+      "mcwfurnitures:cabinet_drawer",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log"
+    ]
+  },
+  "mcwfurnitures:dark_oak_lower_bookshelf_drawer": {
+    "result": "mcwfurnitures:dark_oak_lower_bookshelf_drawer",
+    "count": 4,
+    "ingredients": [
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "minecraft:book",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "mcwfurnitures:cabinet_drawer",
+      "minecraft:dark_oak_log"
+    ]
+  },
+  "mcwfurnitures:dark_oak_lower_triple_drawer": {
+    "result": "mcwfurnitures:dark_oak_lower_triple_drawer",
+    "count": 4,
+    "ingredients": [
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "mcwfurnitures:cabinet_drawer",
+      "minecraft:dark_oak_log",
+      "mcwfurnitures:cabinet_drawer",
+      "minecraft:dark_oak_log",
+      "mcwfurnitures:cabinet_drawer",
+      "minecraft:dark_oak_log"
+    ]
+  },
+  "mcwfurnitures:dark_oak_modern_chair": {
+    "result": "mcwfurnitures:dark_oak_modern_chair",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_log",
+      "",
+      "minecraft:dark_oak_fence",
+      "minecraft:dark_oak_fence",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfurnitures:dark_oak_modern_desk": {
+    "result": "mcwfurnitures:dark_oak_modern_desk",
+    "count": 2,
+    "ingredients": [
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_fence",
+      "minecraft:stick",
+      "minecraft:dark_oak_fence",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfurnitures:dark_oak_modern_wardrobe": {
+    "result": "mcwfurnitures:dark_oak_modern_wardrobe",
+    "count": 4,
+    "ingredients": [
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "mcwfurnitures:cabinet_door",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log"
+    ]
+  },
+  "mcwfurnitures:dark_oak_stool_chair": {
+    "result": "mcwfurnitures:dark_oak_stool_chair",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dark_oak_log",
+      "",
+      "",
+      "minecraft:dark_oak_log",
+      "",
+      "",
+      "minecraft:dark_oak_fence",
+      "",
+      ""
+    ]
+  },
+  "mcwfurnitures:dark_oak_striped_chair": {
+    "result": "mcwfurnitures:dark_oak_striped_chair",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:dark_oak_log",
+      "",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_fence",
+      "",
+      "minecraft:dark_oak_fence",
+      "minecraft:dark_oak_fence",
+      ""
+    ]
+  },
+  "mcwfurnitures:dark_oak_table": {
+    "result": "mcwfurnitures:dark_oak_table",
+    "count": 1,
+    "ingredients": [
+      "mcwfurnitures:dark_oak_coffee_table",
+      "",
+      "",
+      "minecraft:dark_oak_fence",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfurnitures:dark_oak_triple_drawer": {
+    "result": "mcwfurnitures:dark_oak_triple_drawer",
+    "count": 4,
+    "ingredients": [
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "mcwfurnitures:cabinet_drawer",
+      "minecraft:dark_oak_log",
+      "mcwfurnitures:cabinet_drawer",
+      "minecraft:dark_oak_log",
+      "mcwfurnitures:cabinet_drawer"
+    ]
+  },
+  "mcwfurnitures:dark_oak_wardrobe": {
+    "result": "mcwfurnitures:dark_oak_wardrobe",
+    "count": 4,
+    "ingredients": [
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "mcwfurnitures:cabinet_door",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log"
+    ]
+  },
+  "mcwholidays:dark_blue_present": {
+    "result": "mcwholidays:dark_blue_present",
+    "count": 2,
+    "ingredients": [
+      "mcwholidays:big_dark_blue_present",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwlights:dark_oak_ceiling_fan_light": {
+    "result": "mcwlights:dark_oak_ceiling_fan_light",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:iron_nugget",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:dark_oak_slab",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:glowstone_dust",
+      ""
+    ]
+  },
+  "mcwlights:dark_oak_tiki_torch": {
+    "result": "mcwlights:dark_oak_tiki_torch",
+    "count": 1,
+    "ingredients": [
+      "minecraft:torch",
+      "",
+      "",
+      "minecraft:dark_oak_fence",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwpaths:dark_oak_planks_path": {
+    "result": "mcwpaths:dark_oak_planks_path",
+    "count": 3,
+    "ingredients": [
+      "minecraft:dark_oak_slab",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:dark_oak_attic_roof": {
+    "result": "mcwroofs:dark_oak_attic_roof",
+    "count": 2,
+    "ingredients": [
+      "",
+      "minecraft:dark_oak_log",
+      "",
+      "minecraft:dark_oak_log",
+      "minecraft:glass",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:dark_oak_lower_roof": {
+    "result": "mcwroofs:dark_oak_lower_roof",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:dark_oak_planks_attic_roof": {
+    "result": "mcwroofs:dark_oak_planks_attic_roof",
+    "count": 2,
+    "ingredients": [
+      "",
+      "minecraft:dark_oak_planks",
+      "",
+      "minecraft:dark_oak_planks",
+      "minecraft:glass",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:dark_oak_planks_lower_roof": {
+    "result": "mcwroofs:dark_oak_planks_lower_roof",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:dark_oak_planks_roof": {
+    "result": "mcwroofs:dark_oak_planks_roof",
+    "count": 2,
+    "ingredients": [
+      "",
+      "minecraft:dark_oak_planks",
+      "",
+      "minecraft:dark_oak_planks",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:dark_oak_planks_steep_roof": {
+    "result": "mcwroofs:dark_oak_planks_steep_roof",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:dark_oak_planks",
+      "",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      "",
+      "minecraft:dark_oak_planks",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "mcwroofs:dark_oak_planks_top_roof": {
+    "result": "mcwroofs:dark_oak_planks_top_roof",
+    "count": 2,
+    "ingredients": [
+      "minecraft:dark_oak_planks",
+      "minecraft:stick",
+      "minecraft:dark_oak_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:dark_oak_planks_upper_lower_roof": {
+    "result": "mcwroofs:dark_oak_planks_upper_lower_roof",
+    "count": 3,
+    "ingredients": [
+      "",
+      "",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:dark_oak_planks_upper_steep_roof": {
+    "result": "mcwroofs:dark_oak_planks_upper_steep_roof",
+    "count": 3,
+    "ingredients": [
+      "",
+      "minecraft:dark_oak_planks",
+      "",
+      "",
+      "minecraft:dark_oak_planks",
+      "",
+      "minecraft:dark_oak_planks",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "mcwroofs:dark_oak_roof": {
+    "result": "mcwroofs:dark_oak_roof",
+    "count": 2,
+    "ingredients": [
+      "",
+      "minecraft:dark_oak_log",
+      "",
+      "minecraft:dark_oak_log",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:dark_oak_steep_roof": {
+    "result": "mcwroofs:dark_oak_steep_roof",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:dark_oak_log",
+      "",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "",
+      "minecraft:dark_oak_log",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "mcwroofs:dark_oak_top_roof": {
+    "result": "mcwroofs:dark_oak_top_roof",
+    "count": 2,
+    "ingredients": [
+      "minecraft:dark_oak_log",
+      "minecraft:stick",
+      "minecraft:dark_oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:dark_oak_upper_lower_roof": {
+    "result": "mcwroofs:dark_oak_upper_lower_roof",
+    "count": 3,
+    "ingredients": [
+      "",
+      "",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:dark_oak_upper_steep_roof": {
+    "result": "mcwroofs:dark_oak_upper_steep_roof",
+    "count": 3,
+    "ingredients": [
+      "",
+      "minecraft:dark_oak_log",
+      "",
+      "",
+      "minecraft:dark_oak_log",
+      "",
+      "minecraft:dark_oak_log",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "mcwstairs:dark_oak_balcony": {
+    "result": "mcwstairs:dark_oak_balcony",
+    "count": 6,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:dark_oak_fence",
+      "",
+      "minecraft:dark_oak_fence",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick"
+    ]
+  },
+  "mcwstairs:dark_oak_bulk_stairs": {
+    "result": "mcwstairs:dark_oak_bulk_stairs",
+    "count": 6,
+    "ingredients": [
+      "minecraft:stripped_dark_oak_log",
+      "",
+      "",
+      "minecraft:dark_oak_log",
+      "minecraft:stripped_dark_oak_log",
+      "",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "minecraft:stripped_dark_oak_log"
+    ]
+  },
+  "mcwstairs:dark_oak_compact_stairs": {
+    "result": "mcwstairs:dark_oak_compact_stairs",
+    "count": 6,
+    "ingredients": [
+      "minecraft:stripped_dark_oak_log",
+      "",
+      "",
+      "minecraft:stripped_dark_oak_log",
+      "minecraft:stripped_dark_oak_log",
+      "",
+      "minecraft:stripped_dark_oak_log",
+      "minecraft:stripped_dark_oak_log",
+      "minecraft:stripped_dark_oak_log"
+    ]
+  },
+  "mcwstairs:dark_oak_loft_stairs": {
+    "result": "mcwstairs:dark_oak_loft_stairs",
+    "count": 3,
+    "ingredients": [
+      "minecraft:stripped_dark_oak_log",
+      "",
+      "",
+      "",
+      "minecraft:stripped_dark_oak_log",
+      "",
+      "",
+      "",
+      "minecraft:stripped_dark_oak_log"
+    ]
+  },
+  "mcwstairs:dark_oak_platform": {
+    "result": "mcwstairs:dark_oak_platform",
+    "count": 12,
+    "ingredients": [
+      "",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwstairs:dark_oak_railing": {
+    "result": "mcwstairs:dark_oak_railing",
+    "count": 6,
+    "ingredients": [
+      "mcwstairs:dark_oak_balcony",
+      "",
+      "",
+      "mcwstairs:dark_oak_balcony",
+      "mcwstairs:dark_oak_balcony",
+      "",
+      "mcwstairs:dark_oak_balcony",
+      "mcwstairs:dark_oak_balcony",
+      "mcwstairs:dark_oak_balcony"
+    ]
+  },
+  "mcwstairs:dark_oak_skyline_stairs": {
+    "result": "mcwstairs:dark_oak_skyline_stairs",
+    "count": 4,
+    "ingredients": [
+      "minecraft:stripped_dark_oak_log",
+      "",
+      "",
+      "minecraft:dark_oak_log",
+      "minecraft:stripped_dark_oak_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwstairs:dark_oak_terrace_stairs": {
+    "result": "mcwstairs:dark_oak_terrace_stairs",
+    "count": 5,
+    "ingredients": [
+      "minecraft:stripped_dark_oak_log",
+      "",
+      "",
+      "minecraft:dark_oak_log",
+      "minecraft:stripped_dark_oak_log",
+      "",
+      "",
+      "minecraft:dark_oak_log",
+      "minecraft:stripped_dark_oak_log"
+    ]
+  },
+  "mcwtrpdoors:dark_oak_bamboo_trapdoor": {
+    "result": "mcwtrpdoors:dark_oak_bamboo_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dark_oak_planks",
+      "",
+      "",
+      "mcwtrpdoors:print_bamboo",
+      "",
+      "",
+      "minecraft:dark_oak_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwtrpdoors:dark_oak_bark_trapdoor": {
+    "result": "mcwtrpdoors:dark_oak_bark_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "minecraft:dark_oak_log",
+      "minecraft:glass_pane",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "minecraft:glass_pane",
+      "minecraft:dark_oak_log",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwtrpdoors:dark_oak_barn_trapdoor": {
+    "result": "mcwtrpdoors:dark_oak_barn_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dark_oak_planks",
+      "",
+      "",
+      "mcwtrpdoors:dark_oak_glass_trapdoor",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwtrpdoors:dark_oak_barred_trapdoor": {
+    "result": "mcwtrpdoors:dark_oak_barred_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dark_oak_planks",
+      "",
+      "",
+      "mcwtrpdoors:print_barred",
+      "",
+      "",
+      "minecraft:dark_oak_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwtrpdoors:dark_oak_barrel_trapdoor": {
+    "result": "mcwtrpdoors:dark_oak_barrel_trapdoor",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:dark_oak_planks",
+      "",
+      "minecraft:dark_oak_planks",
+      "minecraft:barrel",
+      "minecraft:dark_oak_planks",
+      "",
+      "minecraft:dark_oak_planks",
+      ""
+    ]
+  },
+  "mcwtrpdoors:dark_oak_beach_trapdoor": {
+    "result": "mcwtrpdoors:dark_oak_beach_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dark_oak_planks",
+      "",
+      "",
+      "mcwtrpdoors:print_beach",
+      "",
+      "",
+      "minecraft:dark_oak_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwtrpdoors:dark_oak_blossom_trapdoor": {
+    "result": "mcwtrpdoors:dark_oak_blossom_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dark_oak_planks",
+      "",
+      "",
+      "mcwtrpdoors:print_blossom",
+      "",
+      "",
+      "minecraft:dark_oak_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwtrpdoors:dark_oak_classic_trapdoor": {
+    "result": "mcwtrpdoors:dark_oak_classic_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dark_oak_planks",
+      "",
+      "",
+      "mcwtrpdoors:print_classic",
+      "",
+      "",
+      "minecraft:dark_oak_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwtrpdoors:dark_oak_cottage_trapdoor": {
+    "result": "mcwtrpdoors:dark_oak_cottage_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dark_oak_planks",
+      "",
+      "",
+      "mcwtrpdoors:print_cottage",
+      "",
+      "",
+      "minecraft:dark_oak_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwtrpdoors:dark_oak_glass_trapdoor": {
+    "result": "mcwtrpdoors:dark_oak_glass_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "minecraft:dark_oak_planks",
+      "minecraft:glass_pane",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      "minecraft:glass_pane",
+      "minecraft:dark_oak_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwtrpdoors:dark_oak_mystic_trapdoor": {
+    "result": "mcwtrpdoors:dark_oak_mystic_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dark_oak_planks",
+      "",
+      "",
+      "mcwtrpdoors:print_mystic",
+      "",
+      "",
+      "minecraft:dark_oak_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwtrpdoors:dark_oak_paper_trapdoor": {
+    "result": "mcwtrpdoors:dark_oak_paper_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dark_oak_planks",
+      "",
+      "",
+      "mcwtrpdoors:print_paper",
+      "",
+      "",
+      "minecraft:dark_oak_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwtrpdoors:dark_oak_ranch_trapdoor": {
+    "result": "mcwtrpdoors:dark_oak_ranch_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "minecraft:dark_oak_log",
+      "minecraft:stick",
+      "minecraft:dark_oak_log",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:dark_oak_log",
+      "minecraft:stick",
+      "minecraft:dark_oak_log"
+    ]
+  },
+  "mcwtrpdoors:dark_oak_swamp_trapdoor": {
+    "result": "mcwtrpdoors:dark_oak_swamp_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dark_oak_planks",
+      "",
+      "",
+      "mcwtrpdoors:print_swamp",
+      "",
+      "",
+      "minecraft:dark_oak_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwtrpdoors:dark_oak_tropical_trapdoor": {
+    "result": "mcwtrpdoors:dark_oak_tropical_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dark_oak_planks",
+      "",
+      "",
+      "mcwtrpdoors:print_tropical",
+      "",
+      "",
+      "minecraft:dark_oak_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwtrpdoors:dark_oak_whispering_trapdoor": {
+    "result": "mcwtrpdoors:dark_oak_whispering_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dark_oak_planks",
+      "",
+      "",
+      "mcwtrpdoors:print_whispering",
+      "",
+      "",
+      "minecraft:dark_oak_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwwindows:dark_oak_blinds": {
+    "result": "mcwwindows:dark_oak_blinds",
+    "count": 3,
+    "ingredients": [
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick"
+    ]
+  },
+  "mcwwindows:dark_oak_curtain_rod": {
+    "result": "mcwwindows:dark_oak_curtain_rod",
+    "count": 5,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:dark_oak_log",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwwindows:dark_oak_four_window": {
+    "result": "mcwwindows:dark_oak_four_window",
+    "count": 8,
+    "ingredients": [
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "minecraft:dark_oak_log",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base"
+    ]
+  },
+  "mcwwindows:dark_oak_log_parapet": {
+    "result": "mcwwindows:dark_oak_log_parapet",
+    "count": 5,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:dark_oak_log",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwwindows:dark_oak_louvered_shutter": {
+    "result": "mcwwindows:dark_oak_louvered_shutter",
+    "count": 3,
+    "ingredients": [
+      "minecraft:dark_oak_slab",
+      "",
+      "",
+      "minecraft:dark_oak_slab",
+      "",
+      "",
+      "minecraft:dark_oak_slab",
+      "",
+      ""
+    ]
+  },
+  "mcwwindows:dark_oak_pane_window": {
+    "result": "mcwwindows:dark_oak_pane_window",
+    "count": 8,
+    "ingredients": [
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "minecraft:dark_oak_log",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base"
+    ]
+  },
+  "mcwwindows:dark_oak_plank_four_window": {
+    "result": "mcwwindows:dark_oak_plank_four_window",
+    "count": 8,
+    "ingredients": [
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "minecraft:dark_oak_planks",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base"
+    ]
+  },
+  "mcwwindows:dark_oak_plank_pane_window": {
+    "result": "mcwwindows:dark_oak_plank_pane_window",
+    "count": 8,
+    "ingredients": [
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "minecraft:dark_oak_planks",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base"
+    ]
+  },
+  "mcwwindows:dark_oak_plank_parapet": {
+    "result": "mcwwindows:dark_oak_plank_parapet",
+    "count": 5,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:dark_oak_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwwindows:dark_oak_plank_window": {
+    "result": "mcwwindows:dark_oak_plank_window",
+    "count": 4,
+    "ingredients": [
+      "",
+      "mcwwindows:window_base",
+      "",
+      "mcwwindows:window_base",
+      "minecraft:dark_oak_planks",
+      "mcwwindows:window_base",
+      "",
+      "mcwwindows:window_base",
+      ""
+    ]
+  },
+  "mcwwindows:dark_oak_plank_window2": {
+    "result": "mcwwindows:dark_oak_plank_window2",
+    "count": 8,
+    "ingredients": [
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "minecraft:dark_oak_planks",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base"
+    ]
+  },
+  "mcwwindows:dark_oak_shutter": {
+    "result": "mcwwindows:dark_oak_shutter",
+    "count": 3,
+    "ingredients": [
+      "minecraft:dark_oak_trapdoor",
+      "",
+      "",
+      "minecraft:dark_oak_trapdoor",
+      "",
+      "",
+      "minecraft:dark_oak_trapdoor",
+      "",
+      ""
+    ]
+  },
+  "mcwwindows:dark_oak_window": {
+    "result": "mcwwindows:dark_oak_window",
+    "count": 4,
+    "ingredients": [
+      "",
+      "mcwwindows:window_base",
+      "",
+      "mcwwindows:window_base",
+      "minecraft:dark_oak_log",
+      "mcwwindows:window_base",
+      "",
+      "mcwwindows:window_base",
+      ""
+    ]
+  },
+  "mcwwindows:dark_oak_window2": {
+    "result": "mcwwindows:dark_oak_window2",
+    "count": 8,
+    "ingredients": [
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "minecraft:dark_oak_log",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base"
+    ]
+  },
+  "mcwwindows:dark_prismarine_brick_arrow_slit": {
+    "result": "mcwwindows:dark_prismarine_brick_arrow_slit",
+    "count": 3,
+    "ingredients": [
+      "",
+      "minecraft:dark_prismarine",
+      "minecraft:dark_prismarine",
+      "",
+      "minecraft:dark_prismarine_slab",
+      "minecraft:dark_prismarine_slab",
+      "",
+      "minecraft:dark_prismarine",
+      "minecraft:dark_prismarine"
+    ]
+  },
+  "mcwwindows:dark_prismarine_brick_gothic": {
+    "result": "mcwwindows:dark_prismarine_brick_gothic",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:dark_prismarine",
+      "",
+      "minecraft:dark_prismarine",
+      "minecraft:glass_pane",
+      "minecraft:dark_prismarine",
+      "",
+      "minecraft:dark_prismarine",
+      ""
+    ]
+  },
+  "mcwwindows:dark_prismarine_four_window": {
+    "result": "mcwwindows:dark_prismarine_four_window",
+    "count": 8,
+    "ingredients": [
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "minecraft:dark_prismarine",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base"
+    ]
+  },
+  "mcwwindows:dark_prismarine_pane_window": {
+    "result": "mcwwindows:dark_prismarine_pane_window",
+    "count": 8,
+    "ingredients": [
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "minecraft:dark_prismarine",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base"
+    ]
+  },
+  "mcwwindows:dark_prismarine_parapet": {
+    "result": "mcwwindows:dark_prismarine_parapet",
+    "count": 5,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:dark_prismarine",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwwindows:dark_prismarine_window": {
+    "result": "mcwwindows:dark_prismarine_window",
+    "count": 4,
+    "ingredients": [
+      "",
+      "mcwwindows:window_base",
+      "",
+      "mcwwindows:window_base",
+      "minecraft:dark_prismarine",
+      "mcwwindows:window_base",
+      "",
+      "mcwwindows:window_base",
+      ""
+    ]
+  },
+  "mcwwindows:dark_prismarine_window2": {
+    "result": "mcwwindows:dark_prismarine_window2",
+    "count": 8,
+    "ingredients": [
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "minecraft:dark_prismarine",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base"
+    ]
+  },
+  "merrymaking:dark_oak_mantel": {
+    "result": "merrymaking:dark_oak_mantel",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_planks",
+      "",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      "",
+      "minecraft:dark_oak_planks"
+    ]
+  },
+  "merrymaking:dark_oak_picket_fence": {
+    "result": "merrymaking:dark_oak_picket_fence",
+    "count": 3,
+    "ingredients": [
+      "minecraft:dark_oak_planks",
+      "minecraft:stick",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      "minecraft:stick",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      "minecraft:stick",
+      "minecraft:dark_oak_planks"
+    ]
+  },
+  "merrymaking:dark_oak_picket_fence_gate": {
+    "result": "merrymaking:dark_oak_picket_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:dark_oak_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:dark_oak_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:dark_oak_planks",
+      "minecraft:stick"
+    ]
+  },
+  "merrymaking:dark_oak_wreath_door": {
+    "result": "merrymaking:dark_oak_wreath_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dark_oak_door",
+      "merrymaking:christmas_wreath",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:dark_oak_wreath_fence": {
+    "result": "merrymaking:dark_oak_wreath_fence",
+    "count": 1,
+    "ingredients": [
+      "merrymaking:dark_oak_picket_fence",
+      "merrymaking:garland_horizontal",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:dark_oak_wreath_fence_gate": {
+    "result": "merrymaking:dark_oak_wreath_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "merrymaking:dark_oak_picket_fence_gate",
+      "merrymaking:christmas_wreath",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:dark_oak_wreath_lights_multi_door": {
+    "result": "merrymaking:dark_oak_wreath_lights_multi_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dark_oak_door",
+      "merrymaking:christmas_wreath_multi_lights",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:dark_oak_wreath_multi_fence": {
+    "result": "merrymaking:dark_oak_wreath_multi_fence",
+    "count": 1,
+    "ingredients": [
+      "merrymaking:dark_oak_picket_fence",
+      "merrymaking:garland_horizontal_multi",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:dark_oak_wreath_multi_fence_gate": {
+    "result": "merrymaking:dark_oak_wreath_multi_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "merrymaking:dark_oak_picket_fence_gate",
+      "merrymaking:christmas_wreath_multi_lights",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:dark_oak_wreath_lights_white_door": {
+    "result": "merrymaking:dark_oak_wreath_lights_white_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dark_oak_door",
+      "merrymaking:christmas_wreath_white_lights",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:dark_oak_wreath_lights_fence": {
+    "result": "merrymaking:dark_oak_wreath_lights_fence",
+    "count": 1,
+    "ingredients": [
+      "merrymaking:dark_oak_picket_fence",
+      "merrymaking:garland_horizontal_lights",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:dark_oak_wreath_lights_fence_gate": {
+    "result": "merrymaking:dark_oak_wreath_lights_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "merrymaking:dark_oak_picket_fence_gate",
+      "merrymaking:christmas_wreath_white_lights",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:dark_oak_roof_slab": {
+    "result": "merrymaking:dark_oak_roof_slab",
+    "count": 4,
+    "ingredients": [
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "merrymaking:roof_tiles",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:dark_oak_boat": {
+    "result": "minecraft:dark_oak_boat",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dark_oak_planks",
+      "",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:dark_oak_button": {
+    "result": "minecraft:dark_oak_button",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dark_oak_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:dark_oak_chest_boat": {
+    "result": "minecraft:dark_oak_chest_boat",
+    "count": 1,
+    "ingredients": [
+      "minecraft:chest",
+      "minecraft:dark_oak_boat",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:dark_oak_fence": {
+    "result": "minecraft:dark_oak_fence",
+    "count": 3,
+    "ingredients": [
+      "minecraft:dark_oak_planks",
+      "minecraft:stick",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      "minecraft:stick",
+      "minecraft:dark_oak_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:dark_oak_fence_gate": {
+    "result": "minecraft:dark_oak_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:dark_oak_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:dark_oak_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:dark_oak_hanging_sign": {
+    "result": "minecraft:dark_oak_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "minecraft:stripped_dark_oak_log",
+      "minecraft:stripped_dark_oak_log",
+      "minecraft:stripped_dark_oak_log",
+      "minecraft:stripped_dark_oak_log",
+      "minecraft:stripped_dark_oak_log",
+      "minecraft:stripped_dark_oak_log"
+    ]
+  },
+  "minecraft:dark_oak_pressure_plate": {
+    "result": "minecraft:dark_oak_pressure_plate",
+    "count": 4,
+    "ingredients": [
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:dark_oak_sign": {
+    "result": "minecraft:dark_oak_sign",
+    "count": 3,
+    "ingredients": [
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "minecraft:dark_oak_slab": {
+    "result": "minecraft:dark_oak_slab",
+    "count": 24,
+    "ingredients": [
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:dark_oak_stairs": {
+    "result": "minecraft:dark_oak_stairs",
+    "count": 16,
+    "ingredients": [
+      "minecraft:dark_oak_log",
+      "",
+      "",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log"
+    ]
+  },
+  "minecraft:dark_oak_wood": {
+    "result": "minecraft:dark_oak_wood",
+    "count": 3,
+    "ingredients": [
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "",
+      "minecraft:dark_oak_log",
+      "minecraft:dark_oak_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:dark_prismarine": {
+    "result": "minecraft:dark_prismarine",
+    "count": 1,
+    "ingredients": [
+      "minecraft:prismarine_shard",
+      "minecraft:prismarine_shard",
+      "minecraft:prismarine_shard",
+      "minecraft:prismarine_shard",
+      "minecraft:black_dye",
+      "minecraft:prismarine_shard",
+      "minecraft:prismarine_shard",
+      "minecraft:prismarine_shard",
+      "minecraft:prismarine_shard"
+    ]
+  },
+  "minecraft:dark_prismarine_slab": {
+    "result": "minecraft:dark_prismarine_slab",
+    "count": 6,
+    "ingredients": [
+      "minecraft:dark_prismarine",
+      "minecraft:dark_prismarine",
+      "minecraft:dark_prismarine",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:dark_prismarine_stairs": {
+    "result": "minecraft:dark_prismarine_stairs",
+    "count": 4,
+    "ingredients": [
+      "minecraft:dark_prismarine",
+      "",
+      "",
+      "minecraft:dark_prismarine",
+      "minecraft:dark_prismarine",
+      "",
+      "minecraft:dark_prismarine",
+      "minecraft:dark_prismarine",
+      "minecraft:dark_prismarine"
+    ]
+  },
+  "minecraft:dark_oak_sapling": {
+    "result": "minecraft:dark_oak_sapling",
+    "count": 2,
+    "ingredients": [
+      "regions_unexplored:dark_oak_shrub",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "occultism:dark_copper_sacrificial_bowl": {
+    "result": "occultism:dark_copper_sacrificial_bowl",
+    "count": 1,
+    "ingredients": [
+      "occultism:dark_sacrificial_bowl",
+      "minecraft:copper_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "occultism:dark_golden_sacrificial_bowl": {
+    "result": "occultism:dark_golden_sacrificial_bowl",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "occultism:dark_sacrificial_bowl",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot"
+    ]
+  },
+  "occultism:dark_sacrificial_bowl": {
+    "result": "occultism:dark_sacrificial_bowl",
+    "count": 1,
+    "ingredients": [
+      "occultism:otherrock",
+      "",
+      "occultism:otherrock",
+      "occultism:otherrock",
+      "occultism:otherrock",
+      "occultism:otherrock",
+      "",
+      "",
+      ""
+    ]
+  },
+  "occultism:dark_silver_sacrificial_bowl": {
+    "result": "occultism:dark_silver_sacrificial_bowl",
+    "count": 1,
+    "ingredients": [
+      "occultism:dark_sacrificial_bowl",
+      "modern_industrialization:silver_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:damperitem": {
+    "result": "pamhc2foodextended:damperitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:flour",
+      "minecraft:milk",
+      "minecraft:salt",
+      "minecraft:butter",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:dandelionteaitem": {
+    "result": "pamhc2foodextended:dandelionteaitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:tealeaf",
+      "minecraft:water",
+      "minecraft:dandelion",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:dangoitem": {
+    "result": "pamhc2foodextended:dangoitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "pamhc2foodextended:mochiitem",
+      "pamhc2foodextended:mochiitem",
+      "pamhc2foodextended:mochiitem",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:datejellyitem": {
+    "result": "pamhc2foodextended:datejellyitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:date",
+      "minecraft:sugar",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:datejellysandwichitem": {
+    "result": "pamhc2foodextended:datejellysandwichitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:datejelly",
+      "minecraft:bread",
+      "minecraft:nutbutters",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:datejellytoastitem": {
+    "result": "pamhc2foodextended:datejellytoastitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:datejelly",
+      "minecraft:toast",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:datejuiceitem": {
+    "result": "pamhc2foodextended:datejuiceitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_juicer",
+      "minecraft:date",
+      "minecraft:date",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:datepieitem": {
+    "result": "pamhc2foodextended:datepieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:date",
+      "minecraft:sugar",
+      "minecraft:dough",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:datesmoothieitem": {
+    "result": "pamhc2foodextended:datesmoothieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:date",
+      "minecraft:ices",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:dateyogurtitem": {
+    "result": "pamhc2foodextended:dateyogurtitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:date",
+      "minecraft:yogurt",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2trees:date_sapling": {
+    "result": "pamhc2trees:date_sapling",
+    "count": 1,
+    "ingredients": [
+      "pamhc2trees:dateitem",
+      "pamhc2trees:dateitem",
+      "pamhc2trees:dateitem",
+      "pamhc2trees:dateitem",
+      "pamhc2trees:dateitem",
+      "pamhc2trees:dateitem",
+      "pamhc2trees:dateitem",
+      "pamhc2trees:dateitem",
+      "minecraft:saplings"
+    ]
+  },
+  "productivebees:dark_oak_wood_nest": {
+    "result": "productivebees:dark_oak_wood_nest",
+    "count": 1,
+    "ingredients": [
+      "productivebees:dark_oak_wood_nest",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:date_palm_bookshelf": {
+    "result": "productivetrees:date_palm_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:date_palm_planks",
+      "productivetrees:date_palm_planks",
+      "productivetrees:date_palm_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:date_palm_planks",
+      "productivetrees:date_palm_planks",
+      "productivetrees:date_palm_planks"
+    ]
+  },
+  "productivetrees:date_palm_button": {
+    "result": "productivetrees:date_palm_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:date_palm_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:date_crate": {
+    "result": "productivetrees:date_crate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:date",
+      "minecraft:date",
+      "minecraft:date",
+      "minecraft:date",
+      "productivetrees:date",
+      "minecraft:date",
+      "minecraft:date",
+      "minecraft:date",
+      "minecraft:date"
+    ]
+  },
+  "productivetrees:date": {
+    "result": "productivetrees:date",
+    "count": 9,
+    "ingredients": [
+      "productivetrees:date_crate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:date_palm_door": {
+    "result": "productivetrees:date_palm_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:date_palm_planks",
+      "productivetrees:date_palm_planks",
+      "",
+      "productivetrees:date_palm_planks",
+      "productivetrees:date_palm_planks",
+      "",
+      "productivetrees:date_palm_planks",
+      "productivetrees:date_palm_planks",
+      ""
+    ]
+  },
+  "productivetrees:date_palm_fence": {
+    "result": "productivetrees:date_palm_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:date_palm_planks",
+      "minecraft:stick",
+      "productivetrees:date_palm_planks",
+      "productivetrees:date_palm_planks",
+      "minecraft:stick",
+      "productivetrees:date_palm_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:date_palm_fence_gate": {
+    "result": "productivetrees:date_palm_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:date_palm_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:date_palm_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:date_palm_hanging_sign": {
+    "result": "productivetrees:date_palm_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:date_palm_planks",
+      "productivetrees:date_palm_planks",
+      "productivetrees:date_palm_planks",
+      "productivetrees:date_palm_planks",
+      "productivetrees:date_palm_planks",
+      "productivetrees:date_palm_planks"
+    ]
+  },
+  "productivetrees:date_palm_planks": {
+    "result": "productivetrees:date_palm_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:date_palm_pressure_plate": {
+    "result": "productivetrees:date_palm_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:date_palm_planks",
+      "productivetrees:date_palm_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:date_palm_sign": {
+    "result": "productivetrees:date_palm_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:date_palm_planks",
+      "productivetrees:date_palm_planks",
+      "productivetrees:date_palm_planks",
+      "productivetrees:date_palm_planks",
+      "productivetrees:date_palm_planks",
+      "productivetrees:date_palm_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:date_palm_slab": {
+    "result": "productivetrees:date_palm_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:date_palm_planks",
+      "productivetrees:date_palm_planks",
+      "productivetrees:date_palm_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:date_palm_stairs": {
+    "result": "productivetrees:date_palm_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:date_palm_planks",
+      "",
+      "",
+      "productivetrees:date_palm_planks",
+      "productivetrees:date_palm_planks",
+      "",
+      "productivetrees:date_palm_planks",
+      "productivetrees:date_palm_planks",
+      "productivetrees:date_palm_planks"
+    ]
+  },
+  "productivetrees:date_palm_trapdoor": {
+    "result": "productivetrees:date_palm_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:date_palm_planks",
+      "productivetrees:date_palm_planks",
+      "productivetrees:date_palm_planks",
+      "productivetrees:date_palm_planks",
+      "productivetrees:date_palm_planks",
+      "productivetrees:date_palm_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:date_palm_wood": {
+    "result": "productivetrees:date_palm_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:date_palm_log",
+      "productivetrees:date_palm_log",
+      "",
+      "productivetrees:date_palm_log",
+      "productivetrees:date_palm_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "refurbished_furniture:dark_ceiling_light": {
+    "result": "refurbished_furniture:dark_ceiling_light",
+    "count": 1,
+    "ingredients": [
+      "refurbished_furniture:light_ceiling_light",
+      "minecraft:black_dye",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "refurbished_furniture:dark_electricity_generator": {
+    "result": "refurbished_furniture:dark_electricity_generator",
+    "count": 1,
+    "ingredients": [
+      "refurbished_furniture:light_electricity_generator",
+      "minecraft:black_dye",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "refurbished_furniture:dark_fridge": {
+    "result": "refurbished_furniture:dark_fridge",
+    "count": 1,
+    "ingredients": [
+      "refurbished_furniture:light_fridge",
+      "minecraft:black_dye",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "refurbished_furniture:dark_lightswitch": {
+    "result": "refurbished_furniture:dark_lightswitch",
+    "count": 1,
+    "ingredients": [
+      "refurbished_furniture:light_lightswitch",
+      "minecraft:black_dye",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "refurbished_furniture:dark_microwave": {
+    "result": "refurbished_furniture:dark_microwave",
+    "count": 1,
+    "ingredients": [
+      "refurbished_furniture:light_microwave",
+      "minecraft:black_dye",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "refurbished_furniture:dark_oak_dark_ceiling_fan": {
+    "result": "refurbished_furniture:dark_oak_dark_ceiling_fan",
+    "count": 1,
+    "ingredients": [
+      "refurbished_furniture:dark_oak_light_ceiling_fan",
+      "minecraft:black_dye",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "refurbished_furniture:dark_range_hood": {
+    "result": "refurbished_furniture:dark_range_hood",
+    "count": 1,
+    "ingredients": [
+      "refurbished_furniture:light_range_hood",
+      "minecraft:black_dye",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "refurbished_furniture:dark_stove": {
+    "result": "refurbished_furniture:dark_stove",
+    "count": 1,
+    "ingredients": [
+      "refurbished_furniture:light_stove",
+      "minecraft:black_dye",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "refurbished_furniture:dark_toaster": {
+    "result": "refurbished_furniture:dark_toaster",
+    "count": 1,
+    "ingredients": [
+      "refurbished_furniture:light_toaster",
+      "minecraft:black_dye",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:dark_oak_branch": {
+    "result": "regions_unexplored:dark_oak_branch",
+    "count": 2,
+    "ingredients": [
+      "minecraft:dark_oak_log",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:dark_oak_shrub": {
+    "result": "regions_unexplored:dark_oak_shrub",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dark_oak_sapling",
+      "",
+      "",
+      "minecraft:dark_oak_sapling",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "securitycraft:dark_oak_security_sea_boat": {
+    "result": "securitycraft:dark_oak_security_sea_boat",
+    "count": 1,
+    "ingredients": [
+      "securitycraft:reinforced_dark_oak_planks",
+      "securitycraft:keypad_chest",
+      "securitycraft:reinforced_dark_oak_planks",
+      "securitycraft:reinforced_dark_oak_planks",
+      "securitycraft:reinforced_dark_oak_planks",
+      "securitycraft:reinforced_dark_oak_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgear:dagger_blueprint": {
+    "result": "silentgear:dagger_blueprint",
+    "count": 1,
+    "ingredients": [
+      "minecraft:paper",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgear:dagger_template": {
+    "result": "silentgear:dagger_template",
+    "count": 1,
+    "ingredients": [
+      "minecraft:template_boards",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "sophisticatedstorage:dark_oak_storage_connector": {
+    "result": "sophisticatedstorage:dark_oak_storage_connector",
+    "count": 4,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:dark_oak_planks",
+      "minecraft:stick",
+      "minecraft:dark_oak_planks",
+      "minecraft:stick",
+      "minecraft:dark_oak_planks",
+      "minecraft:stick",
+      "minecraft:dark_oak_planks",
+      "minecraft:stick"
+    ]
+  },
+  "storagedelight:dark_oak_bookshelf_with_door": {
+    "result": "storagedelight:dark_oak_bookshelf_with_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_trapdoor",
+      "minecraft:dark_oak_slab",
+      "minecraft:bookshelf",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab"
+    ]
+  },
+  "storagedelight:dark_oak_cabinet_with_glass_doors": {
+    "result": "storagedelight:dark_oak_cabinet_with_glass_doors",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "minecraft:glass",
+      "minecraft:dark_oak_trapdoor",
+      "minecraft:glass",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab"
+    ]
+  },
+  "storagedelight:dark_oak_cabinet_with_polished_andesite_countertop": {
+    "result": "storagedelight:dark_oak_cabinet_with_polished_andesite_countertop",
+    "count": 1,
+    "ingredients": [
+      "minecraft:polished_andesite_slab",
+      "minecraft:polished_andesite_slab",
+      "minecraft:polished_andesite_slab",
+      "minecraft:dark_oak_trapdoor",
+      "",
+      "minecraft:dark_oak_trapdoor",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab"
+    ]
+  },
+  "storagedelight:dark_oak_cabinet_with_polished_deepslate_countertop": {
+    "result": "storagedelight:dark_oak_cabinet_with_polished_deepslate_countertop",
+    "count": 1,
+    "ingredients": [
+      "minecraft:polished_deepslate_slab",
+      "minecraft:polished_deepslate_slab",
+      "minecraft:polished_deepslate_slab",
+      "minecraft:dark_oak_trapdoor",
+      "",
+      "minecraft:dark_oak_trapdoor",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab"
+    ]
+  },
+  "storagedelight:dark_oak_cabinet_with_polished_tuff_countertop": {
+    "result": "storagedelight:dark_oak_cabinet_with_polished_tuff_countertop",
+    "count": 1,
+    "ingredients": [
+      "minecraft:polished_tuff_slab",
+      "minecraft:polished_tuff_slab",
+      "minecraft:polished_tuff_slab",
+      "minecraft:dark_oak_trapdoor",
+      "",
+      "minecraft:dark_oak_trapdoor",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab"
+    ]
+  },
+  "storagedelight:dark_oak_drawer": {
+    "result": "storagedelight:dark_oak_drawer",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_trapdoor",
+      "minecraft:dark_oak_trapdoor",
+      "minecraft:dark_oak_trapdoor",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab"
+    ]
+  },
+  "storagedelight:dark_oak_drawer_with_books": {
+    "result": "storagedelight:dark_oak_drawer_with_books",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_trapdoor",
+      "minecraft:dark_oak_trapdoor",
+      "minecraft:dark_oak_trapdoor",
+      "minecraft:dark_oak_slab",
+      "minecraft:bookshelf",
+      "minecraft:dark_oak_slab"
+    ]
+  },
+  "storagedelight:dark_oak_drawer_with_door": {
+    "result": "storagedelight:dark_oak_drawer_with_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_trapdoor",
+      "minecraft:dark_oak_trapdoor",
+      "minecraft:dark_oak_trapdoor",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_trapdoor",
+      "minecraft:dark_oak_slab"
+    ]
+  },
+  "storagedelight:dark_oak_single_door_cabinet": {
+    "result": "storagedelight:dark_oak_single_door_cabinet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "",
+      "minecraft:dark_oak_trapdoor",
+      "",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab"
+    ]
+  },
+  "supplementaries:daub": {
+    "result": "supplementaries:daub",
+    "count": 2,
+    "ingredients": [
+      "minecraft:straw",
+      "minecraft:clay_ball",
+      "",
+      "minecraft:clay_ball",
+      "minecraft:straw",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "supplementaries:daub_brace": {
+    "result": "supplementaries:daub_brace",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "minecraft:stick",
+      "minecraft:stick",
+      "supplementaries:daub",
+      "minecraft:stick",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "supplementaries:daub_cross_brace": {
+    "result": "supplementaries:daub_cross_brace",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "",
+      "minecraft:stick",
+      "",
+      "supplementaries:daub",
+      "",
+      "minecraft:stick",
+      "",
+      "minecraft:stick"
+    ]
+  },
+  "supplementaries:daub_frame": {
+    "result": "supplementaries:daub_frame",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "minecraft:stick",
+      "supplementaries:daub",
+      "minecraft:stick",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "tombstone:dark_marble": {
+    "result": "tombstone:dark_marble",
+    "count": 1,
+    "ingredients": [
+      "tombstone:grave_dust",
+      "minecraft:stone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "tombstone:dark_marble_slab": {
+    "result": "tombstone:dark_marble_slab",
+    "count": 2,
+    "ingredients": [
+      "tombstone:dark_marble",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "tombstone:dark_marble_stairs": {
+    "result": "tombstone:dark_marble_stairs",
+    "count": 4,
+    "ingredients": [
+      "tombstone:dark_marble",
+      "",
+      "",
+      "tombstone:dark_marble",
+      "tombstone:dark_marble",
+      "",
+      "tombstone:dark_marble",
+      "tombstone:dark_marble",
+      "tombstone:dark_marble"
+    ]
+  },
+  "tombstone:dark_marble_wall": {
+    "result": "tombstone:dark_marble_wall",
+    "count": 6,
+    "ingredients": [
+      "tombstone:dark_marble",
+      "tombstone:dark_marble",
+      "tombstone:dark_marble",
+      "tombstone:dark_marble",
+      "tombstone:dark_marble",
+      "tombstone:dark_marble",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:dark_boat": {
+    "result": "twilightforest:dark_boat",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:dark_planks",
+      "",
+      "twilightforest:dark_planks",
+      "twilightforest:dark_planks",
+      "twilightforest:dark_planks",
+      "twilightforest:dark_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:dark_chest_boat": {
+    "result": "twilightforest:dark_chest_boat",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:dark_boat",
+      "minecraft:chest",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:dark_banister": {
+    "result": "twilightforest:dark_banister",
+    "count": 3,
+    "ingredients": [
+      "twilightforest:dark_slab",
+      "twilightforest:dark_slab",
+      "twilightforest:dark_slab",
+      "minecraft:stick",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:dark_button": {
+    "result": "twilightforest:dark_button",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:dark_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:dark_chest": {
+    "result": "twilightforest:dark_chest",
+    "count": 2,
+    "ingredients": [
+      "twilightforest:dark_planks",
+      "twilightforest:dark_planks",
+      "twilightforest:dark_planks",
+      "twilightforest:dark_planks",
+      "minecraft:chest",
+      "twilightforest:dark_planks",
+      "twilightforest:dark_planks",
+      "twilightforest:dark_planks",
+      "twilightforest:dark_planks"
+    ]
+  },
+  "twilightforest:dark_door": {
+    "result": "twilightforest:dark_door",
+    "count": 3,
+    "ingredients": [
+      "twilightforest:dark_planks",
+      "twilightforest:dark_planks",
+      "",
+      "twilightforest:dark_planks",
+      "twilightforest:dark_planks",
+      "",
+      "twilightforest:dark_planks",
+      "twilightforest:dark_planks",
+      ""
+    ]
+  },
+  "twilightforest:dark_drying_rack": {
+    "result": "twilightforest:dark_drying_rack",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:dark_slab",
+      "twilightforest:dark_slab",
+      "twilightforest:dark_slab",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:dark_fence": {
+    "result": "twilightforest:dark_fence",
+    "count": 3,
+    "ingredients": [
+      "twilightforest:dark_planks",
+      "minecraft:stick",
+      "twilightforest:dark_planks",
+      "twilightforest:dark_planks",
+      "minecraft:stick",
+      "twilightforest:dark_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:dark_fence_gate": {
+    "result": "twilightforest:dark_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "twilightforest:dark_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "twilightforest:dark_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:dark_hanging_sign": {
+    "result": "twilightforest:dark_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "twilightforest:stripped_dark_log",
+      "twilightforest:stripped_dark_log",
+      "twilightforest:stripped_dark_log",
+      "twilightforest:stripped_dark_log",
+      "twilightforest:stripped_dark_log",
+      "twilightforest:stripped_dark_log"
+    ]
+  },
+  "twilightforest:dark_oak_banister": {
+    "result": "twilightforest:dark_oak_banister",
+    "count": 3,
+    "ingredients": [
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "minecraft:stick",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:dark_oak_drying_rack": {
+    "result": "twilightforest:dark_oak_drying_rack",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "minecraft:dark_oak_slab",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:dark_planks": {
+    "result": "twilightforest:dark_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:dark_pressure_plate": {
+    "result": "twilightforest:dark_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:dark_planks",
+      "twilightforest:dark_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:dark_sign": {
+    "result": "twilightforest:dark_sign",
+    "count": 3,
+    "ingredients": [
+      "twilightforest:dark_planks",
+      "twilightforest:dark_planks",
+      "twilightforest:dark_planks",
+      "twilightforest:dark_planks",
+      "twilightforest:dark_planks",
+      "twilightforest:dark_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "twilightforest:dark_slab": {
+    "result": "twilightforest:dark_slab",
+    "count": 6,
+    "ingredients": [
+      "twilightforest:dark_planks",
+      "twilightforest:dark_planks",
+      "twilightforest:dark_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:dark_stairs": {
+    "result": "twilightforest:dark_stairs",
+    "count": 8,
+    "ingredients": [
+      "twilightforest:dark_planks",
+      "",
+      "",
+      "twilightforest:dark_planks",
+      "twilightforest:dark_planks",
+      "",
+      "twilightforest:dark_planks",
+      "twilightforest:dark_planks",
+      "twilightforest:dark_planks"
+    ]
+  },
+  "twilightforest:dark_trapdoor": {
+    "result": "twilightforest:dark_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "twilightforest:dark_planks",
+      "twilightforest:dark_planks",
+      "twilightforest:dark_planks",
+      "twilightforest:dark_planks",
+      "twilightforest:dark_planks",
+      "twilightforest:dark_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:dark_trapped_chest": {
+    "result": "twilightforest:dark_trapped_chest",
+    "count": 2,
+    "ingredients": [
+      "twilightforest:dark_planks",
+      "twilightforest:dark_planks",
+      "twilightforest:dark_planks",
+      "twilightforest:dark_planks",
+      "minecraft:trapped_chest",
+      "twilightforest:dark_planks",
+      "twilightforest:dark_planks",
+      "twilightforest:dark_planks",
+      "twilightforest:dark_planks"
+    ]
+  },
+  "twilightforest:dark_wood": {
+    "result": "twilightforest:dark_wood",
+    "count": 3,
+    "ingredients": [
+      "twilightforest:dark_log",
+      "twilightforest:dark_log",
+      "",
+      "twilightforest:dark_log",
+      "twilightforest:dark_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

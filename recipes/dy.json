@@ -1,0 +1,92 @@
+{
+  "immersiveengineering:dynamo": {
+    "result": "immersiveengineering:dynamo",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "immersiveengineering:component_iron",
+      "minecraft:redstone",
+      "minecraft:iron_ingot",
+      "immersiveengineering:coil_lv",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      ""
+    ]
+  },
+  "industrialforegoing:dye_mixer": {
+    "result": "industrialforegoing:dye_mixer",
+    "count": 1,
+    "ingredients": [
+      "minecraft:plastics",
+      "minecraft:dyes",
+      "minecraft:plastics",
+      "minecraft:dyes",
+      "minecraft:pity",
+      "minecraft:dyes",
+      "minecraft:plastics",
+      "minecraft:gold",
+      "minecraft:plastics"
+    ]
+  },
+  "mekanism:dye_base": {
+    "result": "mekanism:dye_base",
+    "count": 3,
+    "ingredients": [
+      "minecraft:wood",
+      "minecraft:wood",
+      "minecraft:clay_ball",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mekanism:dynamic_tank": {
+    "result": "mekanism:dynamic_tank",
+    "count": 4,
+    "ingredients": [
+      "",
+      "modern_industrialization:steel_ingot",
+      "",
+      "modern_industrialization:steel_ingot",
+      "minecraft:bucket",
+      "modern_industrialization:steel_ingot",
+      "",
+      "modern_industrialization:steel_ingot",
+      ""
+    ]
+  },
+  "mekanism:dynamic_valve": {
+    "result": "mekanism:dynamic_valve",
+    "count": 2,
+    "ingredients": [
+      "",
+      "mekanism:dynamic_tank",
+      "",
+      "mekanism:dynamic_tank",
+      "minecraft:basic",
+      "mekanism:dynamic_tank",
+      "",
+      "mekanism:dynamic_tank",
+      ""
+    ]
+  },
+  "mysticalagriculture:dye_agglomeratio": {
+    "result": "mysticalagriculture:dye_agglomeratio",
+    "count": 1,
+    "ingredients": [
+      "minecraft:cyan",
+      "minecraft:orange",
+      "",
+      "minecraft:pink",
+      "minecraft:lime",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

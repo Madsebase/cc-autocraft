@@ -1,0 +1,857 @@
+{
+  "ae2:vibration_chamber": {
+    "result": "ae2:vibration_chamber",
+    "count": 1,
+    "ingredients": [
+      "minecraft:copper_ingot",
+      "minecraft:fluix",
+      "minecraft:copper_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:furnace",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "ae2:energy_acceptor",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "ae2:view_cell": {
+    "result": "ae2:view_cell",
+    "count": 1,
+    "ingredients": [
+      "ae2:item_cell_housing",
+      "minecraft:quartz",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:vibranium_allthemodium_alloy_block_1x": {
+    "result": "allthecompressed:vibranium_allthemodium_alloy_block_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:vibranium_allthemodium_alloy_block_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:vibranium_allthemodium_alloy_block_2x": {
+    "result": "allthecompressed:vibranium_allthemodium_alloy_block_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:vibranium_allthemodium_alloy_block_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:vibranium_allthemodium_alloy_block_3x": {
+    "result": "allthecompressed:vibranium_allthemodium_alloy_block_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:vibranium_allthemodium_alloy_block_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:vibranium_allthemodium_alloy_block_4x": {
+    "result": "allthecompressed:vibranium_allthemodium_alloy_block_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:vibranium_allthemodium_alloy_block_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:vibranium_allthemodium_alloy_block_5x": {
+    "result": "allthecompressed:vibranium_allthemodium_alloy_block_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:vibranium_allthemodium_alloy_block_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:vibranium_allthemodium_alloy_block_6x": {
+    "result": "allthecompressed:vibranium_allthemodium_alloy_block_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:vibranium_allthemodium_alloy_block_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:vibranium_allthemodium_alloy_block_7x": {
+    "result": "allthecompressed:vibranium_allthemodium_alloy_block_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:vibranium_allthemodium_alloy_block_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:vibranium_allthemodium_alloy_block_8x": {
+    "result": "allthecompressed:vibranium_allthemodium_alloy_block_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:vibranium_allthemodium_alloy_block_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:vibranium_allthemodium_alloy_block_9x": {
+    "result": "allthecompressed:vibranium_allthemodium_alloy_block_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:vibranium_allthemodium_alloy_block_8x",
+      "allthecompressed:vibranium_allthemodium_alloy_block_8x",
+      "allthecompressed:vibranium_allthemodium_alloy_block_8x",
+      "allthecompressed:vibranium_allthemodium_alloy_block_8x",
+      "allthecompressed:vibranium_allthemodium_alloy_block_8x",
+      "allthecompressed:vibranium_allthemodium_alloy_block_8x",
+      "allthecompressed:vibranium_allthemodium_alloy_block_8x",
+      "allthecompressed:vibranium_allthemodium_alloy_block_8x",
+      "allthecompressed:vibranium_allthemodium_alloy_block_8x"
+    ]
+  },
+  "allthecompressed:vibranium_block_1x": {
+    "result": "allthecompressed:vibranium_block_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:vibranium_block_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:vibranium_block_2x": {
+    "result": "allthecompressed:vibranium_block_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:vibranium_block_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:vibranium_block_3x": {
+    "result": "allthecompressed:vibranium_block_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:vibranium_block_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:vibranium_block_4x": {
+    "result": "allthecompressed:vibranium_block_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:vibranium_block_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:vibranium_block_5x": {
+    "result": "allthecompressed:vibranium_block_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:vibranium_block_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:vibranium_block_6x": {
+    "result": "allthecompressed:vibranium_block_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:vibranium_block_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:vibranium_block_7x": {
+    "result": "allthecompressed:vibranium_block_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:vibranium_block_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:vibranium_block_8x": {
+    "result": "allthecompressed:vibranium_block_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:vibranium_block_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:vibranium_block_9x": {
+    "result": "allthecompressed:vibranium_block_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:vibranium_block_8x",
+      "allthecompressed:vibranium_block_8x",
+      "allthecompressed:vibranium_block_8x",
+      "allthecompressed:vibranium_block_8x",
+      "allthecompressed:vibranium_block_8x",
+      "allthecompressed:vibranium_block_8x",
+      "allthecompressed:vibranium_block_8x",
+      "allthecompressed:vibranium_block_8x",
+      "allthecompressed:vibranium_block_8x"
+    ]
+  },
+  "allthecompressed:vibrant_alloy_block_1x": {
+    "result": "allthecompressed:vibrant_alloy_block_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:vibrant_alloy_block_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:vibrant_alloy_block_2x": {
+    "result": "allthecompressed:vibrant_alloy_block_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:vibrant_alloy_block_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:vibrant_alloy_block_3x": {
+    "result": "allthecompressed:vibrant_alloy_block_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:vibrant_alloy_block_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:vibrant_alloy_block_4x": {
+    "result": "allthecompressed:vibrant_alloy_block_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:vibrant_alloy_block_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:vibrant_alloy_block_5x": {
+    "result": "allthecompressed:vibrant_alloy_block_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:vibrant_alloy_block_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:vibrant_alloy_block_6x": {
+    "result": "allthecompressed:vibrant_alloy_block_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:vibrant_alloy_block_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:vibrant_alloy_block_7x": {
+    "result": "allthecompressed:vibrant_alloy_block_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:vibrant_alloy_block_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:vibrant_alloy_block_8x": {
+    "result": "allthecompressed:vibrant_alloy_block_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:vibrant_alloy_block_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:vibrant_alloy_block_9x": {
+    "result": "allthecompressed:vibrant_alloy_block_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:vibrant_alloy_block_8x",
+      "allthecompressed:vibrant_alloy_block_8x",
+      "allthecompressed:vibrant_alloy_block_8x",
+      "allthecompressed:vibrant_alloy_block_8x",
+      "allthecompressed:vibrant_alloy_block_8x",
+      "allthecompressed:vibrant_alloy_block_8x",
+      "allthecompressed:vibrant_alloy_block_8x",
+      "allthecompressed:vibrant_alloy_block_8x",
+      "allthecompressed:vibrant_alloy_block_8x"
+    ]
+  },
+  "allthemodium:vibranium_allthemodium_alloy_block": {
+    "result": "allthemodium:vibranium_allthemodium_alloy_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:vibranium_allthemodium_alloy",
+      "minecraft:vibranium_allthemodium_alloy",
+      "minecraft:vibranium_allthemodium_alloy",
+      "minecraft:vibranium_allthemodium_alloy",
+      "minecraft:vibranium_allthemodium_alloy",
+      "minecraft:vibranium_allthemodium_alloy",
+      "minecraft:vibranium_allthemodium_alloy",
+      "minecraft:vibranium_allthemodium_alloy",
+      "minecraft:vibranium_allthemodium_alloy"
+    ]
+  },
+  "allthemodium:vibranium_block": {
+    "result": "allthemodium:vibranium_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:vibranium",
+      "minecraft:vibranium",
+      "minecraft:vibranium",
+      "minecraft:vibranium",
+      "minecraft:vibranium",
+      "minecraft:vibranium",
+      "minecraft:vibranium",
+      "minecraft:vibranium",
+      "minecraft:vibranium"
+    ]
+  },
+  "enderio:vibrant_alloy_block": {
+    "result": "enderio:vibrant_alloy_block",
+    "count": 1,
+    "ingredients": [
+      "enderio:vibrant_alloy_ingot",
+      "enderio:vibrant_alloy_ingot",
+      "enderio:vibrant_alloy_ingot",
+      "enderio:vibrant_alloy_ingot",
+      "enderio:vibrant_alloy_ingot",
+      "enderio:vibrant_alloy_ingot",
+      "enderio:vibrant_alloy_ingot",
+      "enderio:vibrant_alloy_ingot",
+      "enderio:vibrant_alloy_ingot"
+    ]
+  },
+  "allthemodium:vibranium_allthemodium_alloy_ingot": {
+    "result": "allthemodium:vibranium_allthemodium_alloy_ingot",
+    "count": 9,
+    "ingredients": [
+      "minecraft:vibranium_allthemodium_alloy",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthemodium:vibranium_dust": {
+    "result": "allthemodium:vibranium_dust",
+    "count": 2,
+    "ingredients": [
+      "allthemodium:raw_vibranium",
+      "minecraft:ore_hammers",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthemodium:vibranium_gear": {
+    "result": "allthemodium:vibranium_gear",
+    "count": 1,
+    "ingredients": [
+      "minecraft:vibranium",
+      "minecraft:vibranium",
+      "minecraft:vibranium",
+      "minecraft:vibranium",
+      "",
+      "minecraft:vibranium",
+      "minecraft:vibranium",
+      "minecraft:vibranium",
+      "minecraft:vibranium"
+    ]
+  },
+  "allthemodium:vibranium_ingot": {
+    "result": "allthemodium:vibranium_ingot",
+    "count": 9,
+    "ingredients": [
+      "minecraft:vibranium",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthemodium:vibranium_nugget": {
+    "result": "allthemodium:vibranium_nugget",
+    "count": 9,
+    "ingredients": [
+      "minecraft:vibranium",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthemodium:vibranium_plate": {
+    "result": "allthemodium:vibranium_plate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:vibranium",
+      "minecraft:vibranium",
+      "",
+      "minecraft:vibranium",
+      "minecraft:vibranium",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthemodium:vibranium_rod": {
+    "result": "allthemodium:vibranium_rod",
+    "count": 1,
+    "ingredients": [
+      "minecraft:vibranium",
+      "",
+      "",
+      "minecraft:vibranium",
+      "",
+      "",
+      "minecraft:vibranium",
+      "",
+      ""
+    ]
+  },
+  "allthemodium:vibranium_upgrade_smithing_template": {
+    "result": "allthemodium:vibranium_upgrade_smithing_template",
+    "count": 2,
+    "ingredients": [
+      "allthemodium:allthemodium_ingot",
+      "allthemodium:vibranium_upgrade_smithing_template",
+      "allthemodium:allthemodium_ingot",
+      "allthemodium:allthemodium_ingot",
+      "allthemodium:ancient_stone",
+      "allthemodium:allthemodium_ingot",
+      "allthemodium:allthemodium_ingot",
+      "allthemodium:allthemodium_ingot",
+      "allthemodium:allthemodium_ingot"
+    ]
+  },
+  "ars_nouveau:vitalic_sourcelink": {
+    "result": "ars_nouveau:vitalic_sourcelink",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:source",
+      "",
+      "minecraft:gold_ingot",
+      "minecraft:glistering_melon_slice",
+      "minecraft:gold_ingot",
+      "",
+      "minecraft:source",
+      ""
+    ]
+  },
+  "bhc:vigor_bow": {
+    "result": "bhc:vigor_bow",
+    "count": 1,
+    "ingredients": [
+      "",
+      "bhc:soul_heart_crystal",
+      "minecraft:string",
+      "bhc:soul_heart_crystal",
+      "bhc:soul_heart_amulet",
+      "minecraft:string",
+      "",
+      "bhc:soul_heart_crystal",
+      "minecraft:string"
+    ]
+  },
+  "enderio:vibrant_capacitor_bank": {
+    "result": "enderio:vibrant_capacitor_bank",
+    "count": 1,
+    "ingredients": [
+      "minecraft:conductive_alloy",
+      "enderio:octadic_capacitor",
+      "minecraft:conductive_alloy",
+      "enderio:octadic_capacitor",
+      "minecraft:vibrant_crystal",
+      "enderio:octadic_capacitor",
+      "minecraft:conductive_alloy",
+      "enderio:octadic_capacitor",
+      "minecraft:conductive_alloy"
+    ]
+  },
+  "enderio:vibrant_photovoltaic_module": {
+    "result": "enderio:vibrant_photovoltaic_module",
+    "count": 1,
+    "ingredients": [
+      "minecraft:vibrant_alloy",
+      "minecraft:quartz",
+      "minecraft:vibrant_alloy",
+      "enderio:photovoltaic_plate",
+      "minecraft:glowstone",
+      "enderio:photovoltaic_plate",
+      "enderio:octadic_capacitor",
+      "enderio:pulsating_photovoltaic_module",
+      "enderio:octadic_capacitor"
+    ]
+  },
+  "enderio:vibrant_alloy_ingot": {
+    "result": "enderio:vibrant_alloy_ingot",
+    "count": 2,
+    "ingredients": [
+      "mysticalagriculture:vibrant_alloy_essence",
+      "mysticalagriculture:vibrant_alloy_essence",
+      "mysticalagriculture:vibrant_alloy_essence",
+      "mysticalagriculture:vibrant_alloy_essence",
+      "",
+      "mysticalagriculture:vibrant_alloy_essence",
+      "mysticalagriculture:vibrant_alloy_essence",
+      "mysticalagriculture:vibrant_alloy_essence",
+      "mysticalagriculture:vibrant_alloy_essence"
+    ]
+  },
+  "enderio:vibrant_alloy_grinding_ball": {
+    "result": "enderio:vibrant_alloy_grinding_ball",
+    "count": 24,
+    "ingredients": [
+      "",
+      "minecraft:vibrant_alloy",
+      "",
+      "minecraft:vibrant_alloy",
+      "minecraft:vibrant_alloy",
+      "minecraft:vibrant_alloy",
+      "",
+      "minecraft:vibrant_alloy",
+      ""
+    ]
+  },
+  "enderio:vibrant_alloy_nugget": {
+    "result": "enderio:vibrant_alloy_nugget",
+    "count": 9,
+    "ingredients": [
+      "enderio:vibrant_alloy_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "enderio:vibrant_crystal": {
+    "result": "enderio:vibrant_crystal",
+    "count": 1,
+    "ingredients": [
+      "minecraft:vibrant_alloy",
+      "minecraft:vibrant_alloy",
+      "minecraft:vibrant_alloy",
+      "minecraft:vibrant_alloy",
+      "minecraft:emerald",
+      "minecraft:vibrant_alloy",
+      "minecraft:vibrant_alloy",
+      "minecraft:vibrant_alloy",
+      "minecraft:vibrant_alloy"
+    ]
+  },
+  "enderio:vibrant_gear": {
+    "result": "enderio:vibrant_gear",
+    "count": 1,
+    "ingredients": [
+      "enderio:vibrant_alloy_nugget",
+      "enderio:vibrant_alloy_ingot",
+      "enderio:vibrant_alloy_nugget",
+      "enderio:vibrant_alloy_ingot",
+      "minecraft:energized",
+      "enderio:vibrant_alloy_ingot",
+      "enderio:vibrant_alloy_nugget",
+      "enderio:vibrant_alloy_ingot",
+      "enderio:vibrant_alloy_nugget"
+    ]
+  },
+  "handcrafted:vindicator_trophy": {
+    "result": "handcrafted:vindicator_trophy",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stone",
+      "",
+      "minecraft:stone",
+      "minecraft:iron_axe",
+      "minecraft:stone",
+      "minecraft:stone",
+      "",
+      "minecraft:stone"
+    ]
+  },
+  "ironfurnaces:vibranium_furnace": {
+    "result": "ironfurnaces:vibranium_furnace",
+    "count": 1,
+    "ingredients": [
+      "minecraft:vibranium",
+      "minecraft:vibranium",
+      "minecraft:vibranium",
+      "minecraft:vibranium",
+      "minecraft:allthemodium",
+      "minecraft:vibranium",
+      "minecraft:vibranium",
+      "minecraft:vibranium",
+      "minecraft:vibranium"
+    ]
+  },
+  "irons_spellbooks:visibility_ring": {
+    "result": "irons_spellbooks:visibility_ring",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spyglass",
+      "",
+      "",
+      "",
+      "irons_spellbooks:mithril_scrap",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:vine": {
+    "result": "minecraft:vine",
+    "count": 12,
+    "ingredients": [
+      "",
+      "mysticalagriculture:nature_essence",
+      "",
+      "",
+      "mysticalagriculture:nature_essence",
+      "",
+      "",
+      "mysticalagriculture:nature_essence",
+      ""
+    ]
+  },
+  "pamhc2foodcore:vinegaritem": {
+    "result": "pamhc2foodcore:vinegaritem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:vinegar_ingredients",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:vindalooitem": {
+    "result": "pamhc2foodextended:vindalooitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:rawmeats",
+      "minecraft:currypowder",
+      "minecraft:butter",
+      "minecraft:blackpepper",
+      "minecraft:onion",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:villager_detector": {
+    "result": "railcraft:villager_detector",
+    "count": 1,
+    "ingredients": [
+      "minecraft:leather",
+      "minecraft:leather",
+      "minecraft:leather",
+      "minecraft:leather",
+      "minecraft:stone_pressure_plate",
+      "minecraft:leather",
+      "minecraft:leather",
+      "minecraft:leather",
+      "minecraft:leather"
+    ]
+  },
+  "regions_unexplored:viridescent_nylium": {
+    "result": "regions_unexplored:viridescent_nylium",
+    "count": 1,
+    "ingredients": [
+      "minecraft:mushrooms",
+      "",
+      "",
+      "minecraft:stone",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

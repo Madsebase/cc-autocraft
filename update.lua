@@ -7,7 +7,6 @@
 --]]
 
 local files = {
-    ["recipes.json"] = "https://raw.githubusercontent.com/Madsebase/cc-autocraft/main/recipes.json",
     ["crafting_engine.lua"] = "https://raw.githubusercontent.com/Madsebase/cc-autocraft/main/crafting_engine.lua",
     ["main.lua"] = "https://raw.githubusercontent.com/Madsebase/cc-autocraft/main/main.lua"
 }

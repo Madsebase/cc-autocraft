@@ -1,0 +1,17 @@
+{
+  "pneumaticcraft:uv_light_box": {
+    "result": "pneumaticcraft:uv_light_box",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone_lamp",
+      "minecraft:redstone_lamp",
+      "minecraft:redstone_lamp",
+      "minecraft:iron_ingot",
+      "pneumaticcraft:pcb_blueprint",
+      "pneumaticcraft:pressure_tube",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot"
+    ]
+  }
+}

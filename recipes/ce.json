@@ -1,0 +1,1427 @@
+{
+  "ae2:certus_quartz_crystal": {
+    "result": "ae2:certus_quartz_crystal",
+    "count": 6,
+    "ingredients": [
+      "mysticalagriculture:certus_quartz_essence",
+      "mysticalagriculture:certus_quartz_essence",
+      "mysticalagriculture:certus_quartz_essence",
+      "mysticalagriculture:certus_quartz_essence",
+      "",
+      "mysticalagriculture:certus_quartz_essence",
+      "mysticalagriculture:certus_quartz_essence",
+      "mysticalagriculture:certus_quartz_essence",
+      "mysticalagriculture:certus_quartz_essence"
+    ]
+  },
+  "ae2:cell_workbench": {
+    "result": "ae2:cell_workbench",
+    "count": 1,
+    "ingredients": [
+      "minecraft:white_wool",
+      "ae2:calculation_processor",
+      "minecraft:white_wool",
+      "minecraft:iron_ingot",
+      "minecraft:chest",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "ae2:cell_component_16k": {
+    "result": "ae2:cell_component_16k",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone",
+      "ae2:calculation_processor",
+      "minecraft:stone",
+      "ae2:cell_component_4k",
+      "ae2:quartz_glass",
+      "ae2:cell_component_4k",
+      "minecraft:stone",
+      "ae2:cell_component_4k",
+      "minecraft:stone"
+    ]
+  },
+  "ae2:cell_component_1k": {
+    "result": "ae2:cell_component_1k",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "minecraft:quartz",
+      "minecraft:redstone",
+      "minecraft:quartz",
+      "ae2:logic_processor",
+      "minecraft:quartz",
+      "minecraft:redstone",
+      "minecraft:quartz",
+      "minecraft:redstone"
+    ]
+  },
+  "ae2:cell_component_256k": {
+    "result": "ae2:cell_component_256k",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone",
+      "ae2:calculation_processor",
+      "minecraft:stone",
+      "ae2:cell_component_64k",
+      "ae2:quartz_glass",
+      "ae2:cell_component_64k",
+      "minecraft:stone",
+      "ae2:cell_component_64k",
+      "minecraft:stone"
+    ]
+  },
+  "ae2:cell_component_4k": {
+    "result": "ae2:cell_component_4k",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "ae2:calculation_processor",
+      "minecraft:redstone",
+      "ae2:cell_component_1k",
+      "ae2:quartz_glass",
+      "ae2:cell_component_1k",
+      "minecraft:redstone",
+      "ae2:cell_component_1k",
+      "minecraft:redstone"
+    ]
+  },
+  "ae2:cell_component_64k": {
+    "result": "ae2:cell_component_64k",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone",
+      "ae2:calculation_processor",
+      "minecraft:stone",
+      "ae2:cell_component_16k",
+      "ae2:quartz_glass",
+      "ae2:cell_component_16k",
+      "minecraft:stone",
+      "ae2:cell_component_16k",
+      "minecraft:stone"
+    ]
+  },
+  "ae2:certus_quartz_axe": {
+    "result": "ae2:certus_quartz_axe",
+    "count": 1,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "",
+      "minecraft:quartz",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "ae2:certus_quartz_cutting_knife": {
+    "result": "ae2:certus_quartz_cutting_knife",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "minecraft:stick",
+      "minecraft:iron_ingot",
+      "minecraft:stick",
+      "",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      ""
+    ]
+  },
+  "ae2:certus_quartz_hoe": {
+    "result": "ae2:certus_quartz_hoe",
+    "count": 1,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "ae2:certus_quartz_pickaxe": {
+    "result": "ae2:certus_quartz_pickaxe",
+    "count": 1,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "ae2:certus_quartz_shovel": {
+    "result": "ae2:certus_quartz_shovel",
+    "count": 1,
+    "ingredients": [
+      "minecraft:quartz",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "ae2:certus_quartz_sword": {
+    "result": "ae2:certus_quartz_sword",
+    "count": 1,
+    "ingredients": [
+      "minecraft:quartz",
+      "",
+      "",
+      "minecraft:quartz",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "ae2:certus_quartz_wrench": {
+    "result": "ae2:certus_quartz_wrench",
+    "count": 1,
+    "ingredients": [
+      "minecraft:quartz",
+      "",
+      "minecraft:quartz",
+      "",
+      "minecraft:quartz",
+      "",
+      "minecraft:quartz",
+      "",
+      "minecraft:quartz"
+    ]
+  },
+  "allthecompressed:certus_quartz_block_1x": {
+    "result": "allthecompressed:certus_quartz_block_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:certus_quartz_block_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:certus_quartz_block_2x": {
+    "result": "allthecompressed:certus_quartz_block_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:certus_quartz_block_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:certus_quartz_block_3x": {
+    "result": "allthecompressed:certus_quartz_block_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:certus_quartz_block_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:certus_quartz_block_4x": {
+    "result": "allthecompressed:certus_quartz_block_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:certus_quartz_block_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:certus_quartz_block_5x": {
+    "result": "allthecompressed:certus_quartz_block_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:certus_quartz_block_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:certus_quartz_block_6x": {
+    "result": "allthecompressed:certus_quartz_block_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:certus_quartz_block_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:certus_quartz_block_7x": {
+    "result": "allthecompressed:certus_quartz_block_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:certus_quartz_block_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:certus_quartz_block_8x": {
+    "result": "allthecompressed:certus_quartz_block_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:certus_quartz_block_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:certus_quartz_block_9x": {
+    "result": "allthecompressed:certus_quartz_block_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:certus_quartz_block_8x",
+      "allthecompressed:certus_quartz_block_8x",
+      "allthecompressed:certus_quartz_block_8x",
+      "allthecompressed:certus_quartz_block_8x",
+      "allthecompressed:certus_quartz_block_8x",
+      "allthecompressed:certus_quartz_block_8x",
+      "allthecompressed:certus_quartz_block_8x",
+      "allthecompressed:certus_quartz_block_8x",
+      "allthecompressed:certus_quartz_block_8x"
+    ]
+  },
+  "cataclysm:ceraunus": {
+    "result": "cataclysm:ceraunus",
+    "count": 1,
+    "ingredients": [
+      "cataclysm:essence_of_the_storm",
+      "cataclysm:lacrima",
+      "cataclysm:essence_of_the_storm",
+      "",
+      "cataclysm:lacrima",
+      "",
+      "",
+      "cataclysm:lacrima",
+      ""
+    ]
+  },
+  "draconicevolution:celestial_manipulator": {
+    "result": "draconicevolution:celestial_manipulator",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "minecraft:clock",
+      "minecraft:redstone",
+      "minecraft:draconium",
+      "minecraft:dragon_egg",
+      "minecraft:draconium",
+      "minecraft:iron_ingot",
+      "draconicevolution:wyvern_core",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "herbsandharvest:celery_seeds": {
+    "result": "herbsandharvest:celery_seeds",
+    "count": 1,
+    "ingredients": [
+      "herbsandharvest:celery",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "justdirethings:celestigem_block": {
+    "result": "justdirethings:celestigem_block",
+    "count": 1,
+    "ingredients": [
+      "justdirethings:celestigem",
+      "justdirethings:celestigem",
+      "justdirethings:celestigem",
+      "justdirethings:celestigem",
+      "justdirethings:celestigem",
+      "justdirethings:celestigem",
+      "justdirethings:celestigem",
+      "justdirethings:celestigem",
+      "justdirethings:celestigem"
+    ]
+  },
+  "justdirethings:celestigem_axe": {
+    "result": "justdirethings:celestigem_axe",
+    "count": 1,
+    "ingredients": [
+      "justdirethings:celestigem",
+      "justdirethings:celestigem",
+      "",
+      "justdirethings:celestigem",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "justdirethings:celestigem": {
+    "result": "justdirethings:celestigem",
+    "count": 9,
+    "ingredients": [
+      "justdirethings:celestigem_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "justdirethings:celestigem_boots": {
+    "result": "justdirethings:celestigem_boots",
+    "count": 1,
+    "ingredients": [
+      "justdirethings:celestigem",
+      "",
+      "justdirethings:celestigem",
+      "justdirethings:celestigem",
+      "",
+      "justdirethings:celestigem",
+      "",
+      "",
+      ""
+    ]
+  },
+  "justdirethings:celestigem_chestplate": {
+    "result": "justdirethings:celestigem_chestplate",
+    "count": 1,
+    "ingredients": [
+      "justdirethings:celestigem",
+      "",
+      "justdirethings:celestigem",
+      "justdirethings:celestigem",
+      "justdirethings:celestigem",
+      "justdirethings:celestigem",
+      "justdirethings:celestigem",
+      "justdirethings:celestigem",
+      "justdirethings:celestigem"
+    ]
+  },
+  "justdirethings:celestigem_helmet": {
+    "result": "justdirethings:celestigem_helmet",
+    "count": 1,
+    "ingredients": [
+      "justdirethings:celestigem",
+      "justdirethings:celestigem",
+      "justdirethings:celestigem",
+      "justdirethings:celestigem",
+      "",
+      "justdirethings:celestigem",
+      "",
+      "",
+      ""
+    ]
+  },
+  "justdirethings:celestigem_hoe": {
+    "result": "justdirethings:celestigem_hoe",
+    "count": 1,
+    "ingredients": [
+      "justdirethings:celestigem",
+      "justdirethings:celestigem",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "justdirethings:celestigem_leggings": {
+    "result": "justdirethings:celestigem_leggings",
+    "count": 1,
+    "ingredients": [
+      "justdirethings:celestigem",
+      "justdirethings:celestigem",
+      "justdirethings:celestigem",
+      "justdirethings:celestigem",
+      "",
+      "justdirethings:celestigem",
+      "justdirethings:celestigem",
+      "",
+      "justdirethings:celestigem"
+    ]
+  },
+  "justdirethings:celestigem_pickaxe": {
+    "result": "justdirethings:celestigem_pickaxe",
+    "count": 1,
+    "ingredients": [
+      "justdirethings:celestigem",
+      "justdirethings:celestigem",
+      "justdirethings:celestigem",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "justdirethings:celestigem_shovel": {
+    "result": "justdirethings:celestigem_shovel",
+    "count": 1,
+    "ingredients": [
+      "",
+      "justdirethings:celestigem",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "justdirethings:celestigem_sword": {
+    "result": "justdirethings:celestigem_sword",
+    "count": 1,
+    "ingredients": [
+      "",
+      "justdirethings:celestigem",
+      "",
+      "",
+      "justdirethings:celestigem",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "megacells:cell_component_16m": {
+    "result": "megacells:cell_component_16m",
+    "count": 1,
+    "ingredients": [
+      "minecraft:ender_pearl",
+      "megacells:accumulation_processor",
+      "minecraft:ender_pearl",
+      "megacells:cell_component_4m",
+      "ae2:quartz_vibrant_glass",
+      "megacells:cell_component_4m",
+      "minecraft:ender_pearl",
+      "megacells:cell_component_4m",
+      "minecraft:ender_pearl"
+    ]
+  },
+  "megacells:cell_component_1m": {
+    "result": "megacells:cell_component_1m",
+    "count": 1,
+    "ingredients": [
+      "ae2:sky_dust",
+      "megacells:accumulation_processor",
+      "ae2:sky_dust",
+      "ae2:cell_component_256k",
+      "ae2:quartz_vibrant_glass",
+      "ae2:cell_component_256k",
+      "ae2:sky_dust",
+      "ae2:cell_component_256k",
+      "ae2:sky_dust"
+    ]
+  },
+  "megacells:cell_component_256m": {
+    "result": "megacells:cell_component_256m",
+    "count": 1,
+    "ingredients": [
+      "ae2:matter_ball",
+      "megacells:accumulation_processor",
+      "ae2:matter_ball",
+      "megacells:cell_component_64m",
+      "ae2:quartz_vibrant_glass",
+      "megacells:cell_component_64m",
+      "ae2:matter_ball",
+      "megacells:cell_component_64m",
+      "ae2:matter_ball"
+    ]
+  },
+  "megacells:cell_component_4m": {
+    "result": "megacells:cell_component_4m",
+    "count": 1,
+    "ingredients": [
+      "minecraft:ender_pearl",
+      "megacells:accumulation_processor",
+      "minecraft:ender_pearl",
+      "megacells:cell_component_1m",
+      "ae2:quartz_vibrant_glass",
+      "megacells:cell_component_1m",
+      "minecraft:ender_pearl",
+      "megacells:cell_component_1m",
+      "minecraft:ender_pearl"
+    ]
+  },
+  "megacells:cell_component_64m": {
+    "result": "megacells:cell_component_64m",
+    "count": 1,
+    "ingredients": [
+      "ae2:matter_ball",
+      "megacells:accumulation_processor",
+      "ae2:matter_ball",
+      "megacells:cell_component_16m",
+      "ae2:quartz_vibrant_glass",
+      "megacells:cell_component_16m",
+      "ae2:matter_ball",
+      "megacells:cell_component_16m",
+      "ae2:matter_ball"
+    ]
+  },
+  "megacells:cell_dock": {
+    "result": "megacells:cell_dock",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:copper_ingot",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:glass",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:centrifuge": {
+    "result": "modern_industrialization:centrifuge",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:large_motor",
+      "modern_industrialization:large_pump",
+      "modern_industrialization:large_motor",
+      "modern_industrialization:electrum_cable",
+      "modern_industrialization:basic_machine_hull",
+      "modern_industrialization:electrum_cable",
+      "modern_industrialization:large_motor",
+      "modern_industrialization:electronic_circuit",
+      "modern_industrialization:large_motor"
+    ]
+  },
+  "ae2:certus_quartz_dust": {
+    "result": "ae2:certus_quartz_dust",
+    "count": 3,
+    "ingredients": [
+      "mysticalagriculture:certus_quartz_essence",
+      "mysticalagriculture:certus_quartz_essence",
+      "mysticalagriculture:certus_quartz_essence",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "oritech:ceiling_light": {
+    "result": "oritech:ceiling_light",
+    "count": 6,
+    "ingredients": [
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "minecraft:glowstone_dust",
+      "minecraft:glowstone_dust",
+      "minecraft:glowstone_dust",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot"
+    ]
+  },
+  "oritech:centrifuge_block": {
+    "result": "oritech:centrifuge_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glass_bottle",
+      "minecraft:glass_bottle",
+      "minecraft:glass_bottle",
+      "minecraft:copper_ingot",
+      "oritech:motor",
+      "minecraft:copper_ingot",
+      "minecraft:iron",
+      "oritech:motor",
+      "minecraft:iron"
+    ]
+  },
+  "oritech:ceiling_light_hanging": {
+    "result": "oritech:ceiling_light_hanging",
+    "count": 1,
+    "ingredients": [
+      "minecraft:chains",
+      "oritech:ceiling_light",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2crops:celeryseeditem": {
+    "result": "pamhc2crops:celeryseeditem",
+    "count": 1,
+    "ingredients": [
+      "pamhc2crops:celeryitem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:ceasarsaladitem": {
+    "result": "pamhc2foodextended:ceasarsaladitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:lettuce",
+      "minecraft:toast",
+      "minecraft:cheese",
+      "minecraft:garlic",
+      "minecraft:blackpepper",
+      "minecraft:saladdressing",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:celeryandpeanutbutteritem": {
+    "result": "pamhc2foodextended:celeryandpeanutbutteritem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:celery",
+      "minecraft:nutbutters",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:cevicheitem": {
+    "result": "pamhc2foodextended:cevicheitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:rawfish",
+      "minecraft:salt",
+      "minecraft:lemon",
+      "minecraft:onion",
+      "minecraft:sweetpotato",
+      "minecraft:spiceleaf",
+      "",
+      ""
+    ]
+  },
+  "productivebees:centrifuge": {
+    "result": "productivebees:centrifuge",
+    "count": 1,
+    "ingredients": [
+      "minecraft:grindstone",
+      "",
+      "",
+      "minecraft:cauldron",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:cedar_bookshelf": {
+    "result": "productivetrees:cedar_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:cedar_planks",
+      "productivetrees:cedar_planks",
+      "productivetrees:cedar_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:cedar_planks",
+      "productivetrees:cedar_planks",
+      "productivetrees:cedar_planks"
+    ]
+  },
+  "productivetrees:cempedak_bookshelf": {
+    "result": "productivetrees:cempedak_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:cempedak_planks",
+      "productivetrees:cempedak_planks",
+      "productivetrees:cempedak_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:cempedak_planks",
+      "productivetrees:cempedak_planks",
+      "productivetrees:cempedak_planks"
+    ]
+  },
+  "productivetrees:ceylon_ebony_bookshelf": {
+    "result": "productivetrees:ceylon_ebony_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:ceylon_ebony_planks",
+      "productivetrees:ceylon_ebony_planks",
+      "productivetrees:ceylon_ebony_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:ceylon_ebony_planks",
+      "productivetrees:ceylon_ebony_planks",
+      "productivetrees:ceylon_ebony_planks"
+    ]
+  },
+  "productivetrees:cedar_button": {
+    "result": "productivetrees:cedar_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:cedar_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:cempedak_button": {
+    "result": "productivetrees:cempedak_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:cempedak_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:ceylon_ebony_button": {
+    "result": "productivetrees:ceylon_ebony_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:ceylon_ebony_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:cempedak_crate": {
+    "result": "productivetrees:cempedak_crate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:cempedak",
+      "minecraft:cempedak",
+      "minecraft:cempedak",
+      "minecraft:cempedak",
+      "productivetrees:cempedak",
+      "minecraft:cempedak",
+      "minecraft:cempedak",
+      "minecraft:cempedak",
+      "minecraft:cempedak"
+    ]
+  },
+  "productivetrees:cempedak": {
+    "result": "productivetrees:cempedak",
+    "count": 9,
+    "ingredients": [
+      "productivetrees:cempedak_crate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:cedar_door": {
+    "result": "productivetrees:cedar_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:cedar_planks",
+      "productivetrees:cedar_planks",
+      "",
+      "productivetrees:cedar_planks",
+      "productivetrees:cedar_planks",
+      "",
+      "productivetrees:cedar_planks",
+      "productivetrees:cedar_planks",
+      ""
+    ]
+  },
+  "productivetrees:cempedak_door": {
+    "result": "productivetrees:cempedak_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:cempedak_planks",
+      "productivetrees:cempedak_planks",
+      "",
+      "productivetrees:cempedak_planks",
+      "productivetrees:cempedak_planks",
+      "",
+      "productivetrees:cempedak_planks",
+      "productivetrees:cempedak_planks",
+      ""
+    ]
+  },
+  "productivetrees:ceylon_ebony_door": {
+    "result": "productivetrees:ceylon_ebony_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:ceylon_ebony_planks",
+      "productivetrees:ceylon_ebony_planks",
+      "",
+      "productivetrees:ceylon_ebony_planks",
+      "productivetrees:ceylon_ebony_planks",
+      "",
+      "productivetrees:ceylon_ebony_planks",
+      "productivetrees:ceylon_ebony_planks",
+      ""
+    ]
+  },
+  "productivetrees:cedar_fence": {
+    "result": "productivetrees:cedar_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:cedar_planks",
+      "minecraft:stick",
+      "productivetrees:cedar_planks",
+      "productivetrees:cedar_planks",
+      "minecraft:stick",
+      "productivetrees:cedar_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:cempedak_fence": {
+    "result": "productivetrees:cempedak_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:cempedak_planks",
+      "minecraft:stick",
+      "productivetrees:cempedak_planks",
+      "productivetrees:cempedak_planks",
+      "minecraft:stick",
+      "productivetrees:cempedak_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:ceylon_ebony_fence": {
+    "result": "productivetrees:ceylon_ebony_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:ceylon_ebony_planks",
+      "minecraft:stick",
+      "productivetrees:ceylon_ebony_planks",
+      "productivetrees:ceylon_ebony_planks",
+      "minecraft:stick",
+      "productivetrees:ceylon_ebony_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:cedar_fence_gate": {
+    "result": "productivetrees:cedar_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:cedar_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:cedar_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:cempedak_fence_gate": {
+    "result": "productivetrees:cempedak_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:cempedak_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:cempedak_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:ceylon_ebony_fence_gate": {
+    "result": "productivetrees:ceylon_ebony_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:ceylon_ebony_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:ceylon_ebony_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:cedar_hanging_sign": {
+    "result": "productivetrees:cedar_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:cedar_planks",
+      "productivetrees:cedar_planks",
+      "productivetrees:cedar_planks",
+      "productivetrees:cedar_planks",
+      "productivetrees:cedar_planks",
+      "productivetrees:cedar_planks"
+    ]
+  },
+  "productivetrees:cempedak_hanging_sign": {
+    "result": "productivetrees:cempedak_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:cempedak_planks",
+      "productivetrees:cempedak_planks",
+      "productivetrees:cempedak_planks",
+      "productivetrees:cempedak_planks",
+      "productivetrees:cempedak_planks",
+      "productivetrees:cempedak_planks"
+    ]
+  },
+  "productivetrees:ceylon_ebony_hanging_sign": {
+    "result": "productivetrees:ceylon_ebony_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:ceylon_ebony_planks",
+      "productivetrees:ceylon_ebony_planks",
+      "productivetrees:ceylon_ebony_planks",
+      "productivetrees:ceylon_ebony_planks",
+      "productivetrees:ceylon_ebony_planks",
+      "productivetrees:ceylon_ebony_planks"
+    ]
+  },
+  "productivetrees:cedar_planks": {
+    "result": "productivetrees:cedar_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:cempedak_planks": {
+    "result": "productivetrees:cempedak_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:ceylon_ebony_planks": {
+    "result": "productivetrees:ceylon_ebony_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:cedar_pressure_plate": {
+    "result": "productivetrees:cedar_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:cedar_planks",
+      "productivetrees:cedar_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:cempedak_pressure_plate": {
+    "result": "productivetrees:cempedak_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:cempedak_planks",
+      "productivetrees:cempedak_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:ceylon_ebony_pressure_plate": {
+    "result": "productivetrees:ceylon_ebony_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:ceylon_ebony_planks",
+      "productivetrees:ceylon_ebony_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:cedar_sign": {
+    "result": "productivetrees:cedar_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:cedar_planks",
+      "productivetrees:cedar_planks",
+      "productivetrees:cedar_planks",
+      "productivetrees:cedar_planks",
+      "productivetrees:cedar_planks",
+      "productivetrees:cedar_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:cempedak_sign": {
+    "result": "productivetrees:cempedak_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:cempedak_planks",
+      "productivetrees:cempedak_planks",
+      "productivetrees:cempedak_planks",
+      "productivetrees:cempedak_planks",
+      "productivetrees:cempedak_planks",
+      "productivetrees:cempedak_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:ceylon_ebony_sign": {
+    "result": "productivetrees:ceylon_ebony_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:ceylon_ebony_planks",
+      "productivetrees:ceylon_ebony_planks",
+      "productivetrees:ceylon_ebony_planks",
+      "productivetrees:ceylon_ebony_planks",
+      "productivetrees:ceylon_ebony_planks",
+      "productivetrees:ceylon_ebony_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:cedar_slab": {
+    "result": "productivetrees:cedar_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:cedar_planks",
+      "productivetrees:cedar_planks",
+      "productivetrees:cedar_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:cempedak_slab": {
+    "result": "productivetrees:cempedak_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:cempedak_planks",
+      "productivetrees:cempedak_planks",
+      "productivetrees:cempedak_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:ceylon_ebony_slab": {
+    "result": "productivetrees:ceylon_ebony_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:ceylon_ebony_planks",
+      "productivetrees:ceylon_ebony_planks",
+      "productivetrees:ceylon_ebony_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:cedar_stairs": {
+    "result": "productivetrees:cedar_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:cedar_planks",
+      "",
+      "",
+      "productivetrees:cedar_planks",
+      "productivetrees:cedar_planks",
+      "",
+      "productivetrees:cedar_planks",
+      "productivetrees:cedar_planks",
+      "productivetrees:cedar_planks"
+    ]
+  },
+  "productivetrees:cempedak_stairs": {
+    "result": "productivetrees:cempedak_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:cempedak_planks",
+      "",
+      "",
+      "productivetrees:cempedak_planks",
+      "productivetrees:cempedak_planks",
+      "",
+      "productivetrees:cempedak_planks",
+      "productivetrees:cempedak_planks",
+      "productivetrees:cempedak_planks"
+    ]
+  },
+  "productivetrees:ceylon_ebony_stairs": {
+    "result": "productivetrees:ceylon_ebony_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:ceylon_ebony_planks",
+      "",
+      "",
+      "productivetrees:ceylon_ebony_planks",
+      "productivetrees:ceylon_ebony_planks",
+      "",
+      "productivetrees:ceylon_ebony_planks",
+      "productivetrees:ceylon_ebony_planks",
+      "productivetrees:ceylon_ebony_planks"
+    ]
+  },
+  "productivetrees:cedar_trapdoor": {
+    "result": "productivetrees:cedar_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:cedar_planks",
+      "productivetrees:cedar_planks",
+      "productivetrees:cedar_planks",
+      "productivetrees:cedar_planks",
+      "productivetrees:cedar_planks",
+      "productivetrees:cedar_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:cempedak_trapdoor": {
+    "result": "productivetrees:cempedak_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:cempedak_planks",
+      "productivetrees:cempedak_planks",
+      "productivetrees:cempedak_planks",
+      "productivetrees:cempedak_planks",
+      "productivetrees:cempedak_planks",
+      "productivetrees:cempedak_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:ceylon_ebony_trapdoor": {
+    "result": "productivetrees:ceylon_ebony_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:ceylon_ebony_planks",
+      "productivetrees:ceylon_ebony_planks",
+      "productivetrees:ceylon_ebony_planks",
+      "productivetrees:ceylon_ebony_planks",
+      "productivetrees:ceylon_ebony_planks",
+      "productivetrees:ceylon_ebony_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:cedar_wood": {
+    "result": "productivetrees:cedar_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:cedar_log",
+      "productivetrees:cedar_log",
+      "",
+      "productivetrees:cedar_log",
+      "productivetrees:cedar_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:cempedak_wood": {
+    "result": "productivetrees:cempedak_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:cempedak_log",
+      "productivetrees:cempedak_log",
+      "",
+      "productivetrees:cempedak_log",
+      "productivetrees:cempedak_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:ceylon_ebony_wood": {
+    "result": "productivetrees:ceylon_ebony_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:ceylon_ebony_log",
+      "productivetrees:ceylon_ebony_log",
+      "",
+      "productivetrees:ceylon_ebony_log",
+      "productivetrees:ceylon_ebony_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "rftoolspower:cell1": {
+    "result": "rftoolspower:cell1",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "rftoolspower:power_core1",
+      "minecraft:redstone",
+      "rftoolspower:power_core1",
+      "rftoolsbase:machine_frame",
+      "rftoolspower:power_core1",
+      "minecraft:redstone",
+      "rftoolspower:power_core1",
+      "minecraft:redstone"
+    ]
+  }
+}

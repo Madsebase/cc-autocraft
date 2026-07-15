@@ -1,0 +1,1097 @@
+{
+  "advancedperipherals:weak_automata_core": {
+    "result": "advancedperipherals:weak_automata_core",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "advancedperipherals:peripheral_casing",
+      "minecraft:redstone",
+      "minecraft:diamond",
+      "minecraft:soul_lantern",
+      "minecraft:diamond",
+      "minecraft:redstone",
+      "minecraft:potion",
+      "minecraft:redstone"
+    ]
+  },
+  "apothic_enchanting:weapon_tome": {
+    "result": "apothic_enchanting:weapon_tome",
+    "count": 2,
+    "ingredients": [
+      "minecraft:book",
+      "",
+      "",
+      "minecraft:book",
+      "",
+      "",
+      "minecraft:blaze_powder",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:werewolves_jacaranda_bookcase": {
+    "result": "bibliocraft:werewolves_jacaranda_bookcase",
+    "count": 1,
+    "ingredients": [
+      "werewolves:jacaranda_planks",
+      "werewolves:jacaranda_slab",
+      "werewolves:jacaranda_planks",
+      "werewolves:jacaranda_planks",
+      "werewolves:jacaranda_slab",
+      "werewolves:jacaranda_planks",
+      "werewolves:jacaranda_planks",
+      "werewolves:jacaranda_slab",
+      "werewolves:jacaranda_planks"
+    ]
+  },
+  "bibliocraft:werewolves_jacaranda_fancy_armor_stand": {
+    "result": "bibliocraft:werewolves_jacaranda_fancy_armor_stand",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "werewolves:jacaranda_slab",
+      "werewolves:jacaranda_slab",
+      "werewolves:jacaranda_slab"
+    ]
+  },
+  "bibliocraft:werewolves_jacaranda_fancy_clock": {
+    "result": "bibliocraft:werewolves_jacaranda_fancy_clock",
+    "count": 1,
+    "ingredients": [
+      "werewolves:jacaranda_slab",
+      "minecraft:clock",
+      "werewolves:jacaranda_slab",
+      "werewolves:jacaranda_slab",
+      "minecraft:stick",
+      "werewolves:jacaranda_slab",
+      "werewolves:jacaranda_slab",
+      "minecraft:copper_ingot",
+      "werewolves:jacaranda_slab"
+    ]
+  },
+  "bibliocraft:werewolves_jacaranda_fancy_crafter": {
+    "result": "bibliocraft:werewolves_jacaranda_fancy_crafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black",
+      "minecraft:crafting_tables",
+      "minecraft:feather",
+      "werewolves:jacaranda_planks",
+      "minecraft:glass",
+      "werewolves:jacaranda_planks",
+      "werewolves:jacaranda_planks",
+      "minecraft:crafter",
+      "werewolves:jacaranda_planks"
+    ]
+  },
+  "bibliocraft:werewolves_jacaranda_fancy_sign": {
+    "result": "bibliocraft:werewolves_jacaranda_fancy_sign",
+    "count": 1,
+    "ingredients": [
+      "werewolves:jacaranda_planks",
+      "minecraft:paper",
+      "werewolves:jacaranda_planks",
+      "werewolves:jacaranda_planks",
+      "minecraft:paper",
+      "werewolves:jacaranda_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "bibliocraft:werewolves_jacaranda_grandfather_clock": {
+    "result": "bibliocraft:werewolves_jacaranda_grandfather_clock",
+    "count": 1,
+    "ingredients": [
+      "bibliocraft:werewolves_jacaranda_fancy_clock",
+      "bibliocraft:werewolves_jacaranda_fancy_clock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:werewolves_jacaranda_label": {
+    "result": "bibliocraft:werewolves_jacaranda_label",
+    "count": 1,
+    "ingredients": [
+      "werewolves:jacaranda_slab",
+      "werewolves:jacaranda_slab",
+      "werewolves:jacaranda_slab",
+      "werewolves:jacaranda_slab",
+      "werewolves:jacaranda_slab",
+      "werewolves:jacaranda_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:werewolves_jacaranda_potion_shelf": {
+    "result": "bibliocraft:werewolves_jacaranda_potion_shelf",
+    "count": 1,
+    "ingredients": [
+      "werewolves:jacaranda_slab",
+      "werewolves:jacaranda_slab",
+      "werewolves:jacaranda_slab",
+      "werewolves:jacaranda_planks",
+      "minecraft:glass_bottle",
+      "werewolves:jacaranda_planks",
+      "werewolves:jacaranda_slab",
+      "werewolves:jacaranda_slab",
+      "werewolves:jacaranda_slab"
+    ]
+  },
+  "bibliocraft:werewolves_jacaranda_shelf": {
+    "result": "bibliocraft:werewolves_jacaranda_shelf",
+    "count": 1,
+    "ingredients": [
+      "werewolves:jacaranda_slab",
+      "werewolves:jacaranda_slab",
+      "werewolves:jacaranda_slab",
+      "",
+      "werewolves:jacaranda_planks",
+      "",
+      "werewolves:jacaranda_slab",
+      "werewolves:jacaranda_slab",
+      "werewolves:jacaranda_slab"
+    ]
+  },
+  "bibliocraft:werewolves_jacaranda_table": {
+    "result": "bibliocraft:werewolves_jacaranda_table",
+    "count": 1,
+    "ingredients": [
+      "werewolves:jacaranda_slab",
+      "werewolves:jacaranda_slab",
+      "werewolves:jacaranda_slab",
+      "",
+      "werewolves:jacaranda_planks",
+      "",
+      "",
+      "werewolves:jacaranda_planks",
+      ""
+    ]
+  },
+  "bibliocraft:werewolves_jacaranda_tool_rack": {
+    "result": "bibliocraft:werewolves_jacaranda_tool_rack",
+    "count": 1,
+    "ingredients": [
+      "werewolves:jacaranda_slab",
+      "werewolves:jacaranda_slab",
+      "werewolves:jacaranda_slab",
+      "werewolves:jacaranda_slab",
+      "minecraft:iron_ingot",
+      "werewolves:jacaranda_slab",
+      "werewolves:jacaranda_slab",
+      "werewolves:jacaranda_slab",
+      "werewolves:jacaranda_slab"
+    ]
+  },
+  "bibliocraft:werewolves_magic_bookcase": {
+    "result": "bibliocraft:werewolves_magic_bookcase",
+    "count": 1,
+    "ingredients": [
+      "werewolves:magic_planks",
+      "werewolves:magic_slab",
+      "werewolves:magic_planks",
+      "werewolves:magic_planks",
+      "werewolves:magic_slab",
+      "werewolves:magic_planks",
+      "werewolves:magic_planks",
+      "werewolves:magic_slab",
+      "werewolves:magic_planks"
+    ]
+  },
+  "bibliocraft:werewolves_magic_fancy_armor_stand": {
+    "result": "bibliocraft:werewolves_magic_fancy_armor_stand",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "werewolves:magic_slab",
+      "werewolves:magic_slab",
+      "werewolves:magic_slab"
+    ]
+  },
+  "bibliocraft:werewolves_magic_fancy_clock": {
+    "result": "bibliocraft:werewolves_magic_fancy_clock",
+    "count": 1,
+    "ingredients": [
+      "werewolves:magic_slab",
+      "minecraft:clock",
+      "werewolves:magic_slab",
+      "werewolves:magic_slab",
+      "minecraft:stick",
+      "werewolves:magic_slab",
+      "werewolves:magic_slab",
+      "minecraft:copper_ingot",
+      "werewolves:magic_slab"
+    ]
+  },
+  "bibliocraft:werewolves_magic_fancy_crafter": {
+    "result": "bibliocraft:werewolves_magic_fancy_crafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black",
+      "minecraft:crafting_tables",
+      "minecraft:feather",
+      "werewolves:magic_planks",
+      "minecraft:glass",
+      "werewolves:magic_planks",
+      "werewolves:magic_planks",
+      "minecraft:crafter",
+      "werewolves:magic_planks"
+    ]
+  },
+  "bibliocraft:werewolves_magic_fancy_sign": {
+    "result": "bibliocraft:werewolves_magic_fancy_sign",
+    "count": 1,
+    "ingredients": [
+      "werewolves:magic_planks",
+      "minecraft:paper",
+      "werewolves:magic_planks",
+      "werewolves:magic_planks",
+      "minecraft:paper",
+      "werewolves:magic_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "bibliocraft:werewolves_magic_grandfather_clock": {
+    "result": "bibliocraft:werewolves_magic_grandfather_clock",
+    "count": 1,
+    "ingredients": [
+      "bibliocraft:werewolves_magic_fancy_clock",
+      "bibliocraft:werewolves_magic_fancy_clock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:werewolves_magic_label": {
+    "result": "bibliocraft:werewolves_magic_label",
+    "count": 1,
+    "ingredients": [
+      "werewolves:magic_slab",
+      "werewolves:magic_slab",
+      "werewolves:magic_slab",
+      "werewolves:magic_slab",
+      "werewolves:magic_slab",
+      "werewolves:magic_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:werewolves_magic_potion_shelf": {
+    "result": "bibliocraft:werewolves_magic_potion_shelf",
+    "count": 1,
+    "ingredients": [
+      "werewolves:magic_slab",
+      "werewolves:magic_slab",
+      "werewolves:magic_slab",
+      "werewolves:magic_planks",
+      "minecraft:glass_bottle",
+      "werewolves:magic_planks",
+      "werewolves:magic_slab",
+      "werewolves:magic_slab",
+      "werewolves:magic_slab"
+    ]
+  },
+  "bibliocraft:werewolves_magic_shelf": {
+    "result": "bibliocraft:werewolves_magic_shelf",
+    "count": 1,
+    "ingredients": [
+      "werewolves:magic_slab",
+      "werewolves:magic_slab",
+      "werewolves:magic_slab",
+      "",
+      "werewolves:magic_planks",
+      "",
+      "werewolves:magic_slab",
+      "werewolves:magic_slab",
+      "werewolves:magic_slab"
+    ]
+  },
+  "bibliocraft:werewolves_magic_table": {
+    "result": "bibliocraft:werewolves_magic_table",
+    "count": 1,
+    "ingredients": [
+      "werewolves:magic_slab",
+      "werewolves:magic_slab",
+      "werewolves:magic_slab",
+      "",
+      "werewolves:magic_planks",
+      "",
+      "",
+      "werewolves:magic_planks",
+      ""
+    ]
+  },
+  "bibliocraft:werewolves_magic_tool_rack": {
+    "result": "bibliocraft:werewolves_magic_tool_rack",
+    "count": 1,
+    "ingredients": [
+      "werewolves:magic_slab",
+      "werewolves:magic_slab",
+      "werewolves:magic_slab",
+      "werewolves:magic_slab",
+      "minecraft:iron_ingot",
+      "werewolves:magic_slab",
+      "werewolves:magic_slab",
+      "werewolves:magic_slab",
+      "werewolves:magic_slab"
+    ]
+  },
+  "create:weathered_copper_shingle_slab": {
+    "result": "create:weathered_copper_shingle_slab",
+    "count": 6,
+    "ingredients": [
+      "create:weathered_copper_shingles",
+      "create:weathered_copper_shingles",
+      "create:weathered_copper_shingles",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:weathered_copper_shingle_stairs": {
+    "result": "create:weathered_copper_shingle_stairs",
+    "count": 4,
+    "ingredients": [
+      "create:weathered_copper_shingles",
+      "",
+      "",
+      "create:weathered_copper_shingles",
+      "create:weathered_copper_shingles",
+      "",
+      "create:weathered_copper_shingles",
+      "create:weathered_copper_shingles",
+      "create:weathered_copper_shingles"
+    ]
+  },
+  "create:weathered_copper_tile_slab": {
+    "result": "create:weathered_copper_tile_slab",
+    "count": 6,
+    "ingredients": [
+      "create:weathered_copper_tiles",
+      "create:weathered_copper_tiles",
+      "create:weathered_copper_tiles",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:weathered_copper_tile_stairs": {
+    "result": "create:weathered_copper_tile_stairs",
+    "count": 4,
+    "ingredients": [
+      "create:weathered_copper_tiles",
+      "",
+      "",
+      "create:weathered_copper_tiles",
+      "create:weathered_copper_tiles",
+      "",
+      "create:weathered_copper_tiles",
+      "create:weathered_copper_tiles",
+      "create:weathered_copper_tiles"
+    ]
+  },
+  "create:weathered_iron_window": {
+    "result": "create:weathered_iron_window",
+    "count": 2,
+    "ingredients": [
+      "",
+      "create:weathered_iron_block",
+      "",
+      "create:weathered_iron_block",
+      "minecraft:glass",
+      "create:weathered_iron_block",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:weathered_iron_window_pane": {
+    "result": "create:weathered_iron_window_pane",
+    "count": 16,
+    "ingredients": [
+      "create:weathered_iron_window",
+      "create:weathered_iron_window",
+      "create:weathered_iron_window",
+      "create:weathered_iron_window",
+      "create:weathered_iron_window",
+      "create:weathered_iron_window",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:weighted_ejector": {
+    "result": "create:weighted_ejector",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold",
+      "",
+      "",
+      "create:depot",
+      "",
+      "",
+      "create:cogwheel",
+      "",
+      ""
+    ]
+  },
+  "enderio:weather_crystal": {
+    "result": "enderio:weather_crystal",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:pulsating_crystal",
+      "",
+      "minecraft:vibrant_crystal",
+      "minecraft:ender_crystal",
+      "minecraft:vibrant_crystal",
+      "",
+      "minecraft:pulsating_crystal",
+      ""
+    ]
+  },
+  "enderio:weather_obelisk": {
+    "result": "enderio:weather_obelisk",
+    "count": 1,
+    "ingredients": [
+      "",
+      "enderio:weather_crystal",
+      "",
+      "minecraft:energetic_alloy",
+      "minecraft:soularium",
+      "minecraft:energetic_alloy",
+      "minecraft:soularium",
+      "enderio:void_chassis",
+      "minecraft:soularium"
+    ]
+  },
+  "everythingcopper:weathering_station": {
+    "result": "everythingcopper:weathering_station",
+    "count": 1,
+    "ingredients": [
+      "minecraft:waxing_items",
+      "minecraft:composter",
+      "minecraft:waxing_items",
+      "minecraft:waxing_items",
+      "minecraft:waxing_items",
+      "minecraft:waxing_items",
+      "",
+      "",
+      ""
+    ]
+  },
+  "evilcraft:weather_container": {
+    "result": "evilcraft:weather_container",
+    "count": 1,
+    "ingredients": [
+      "evilcraft:dark_gem",
+      "minecraft:glass_bottle",
+      "minecraft:sugar",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "irons_spellbooks:weapon_parts": {
+    "result": "irons_spellbooks:weapon_parts",
+    "count": 1,
+    "ingredients": [
+      "",
+      "irons_spellbooks:arcane_ingot",
+      "minecraft:mithril",
+      "",
+      "minecraft:mithril",
+      "irons_spellbooks:arcane_ingot",
+      "minecraft:mithril",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:weathered_pine_mantel": {
+    "result": "merrymaking:weathered_pine_mantel",
+    "count": 1,
+    "ingredients": [
+      "happyhallows:weathered_pine_slab",
+      "happyhallows:weathered_pine_slab",
+      "happyhallows:weathered_pine_slab",
+      "happyhallows:weathered_pine_planks",
+      "",
+      "happyhallows:weathered_pine_planks",
+      "happyhallows:weathered_pine_planks",
+      "",
+      "happyhallows:weathered_pine_planks"
+    ]
+  },
+  "minecraft:weathered_chiseled_copper": {
+    "result": "minecraft:weathered_chiseled_copper",
+    "count": 1,
+    "ingredients": [
+      "minecraft:weathered_cut_copper_slab",
+      "",
+      "",
+      "minecraft:weathered_cut_copper_slab",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:weathered_copper_bulb": {
+    "result": "minecraft:weathered_copper_bulb",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:weathered_copper",
+      "",
+      "minecraft:weathered_copper",
+      "minecraft:blaze_rod",
+      "minecraft:weathered_copper",
+      "",
+      "minecraft:redstone",
+      ""
+    ]
+  },
+  "minecraft:weathered_copper_grate": {
+    "result": "minecraft:weathered_copper_grate",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:weathered_copper",
+      "",
+      "minecraft:weathered_copper",
+      "",
+      "minecraft:weathered_copper",
+      "",
+      "minecraft:weathered_copper",
+      ""
+    ]
+  },
+  "minecraft:weathered_cut_copper": {
+    "result": "minecraft:weathered_cut_copper",
+    "count": 4,
+    "ingredients": [
+      "minecraft:weathered_copper",
+      "minecraft:weathered_copper",
+      "",
+      "minecraft:weathered_copper",
+      "minecraft:weathered_copper",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:weathered_cut_copper_slab": {
+    "result": "minecraft:weathered_cut_copper_slab",
+    "count": 6,
+    "ingredients": [
+      "minecraft:weathered_cut_copper",
+      "minecraft:weathered_cut_copper",
+      "minecraft:weathered_cut_copper",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:weathered_cut_copper_stairs": {
+    "result": "minecraft:weathered_cut_copper_stairs",
+    "count": 4,
+    "ingredients": [
+      "minecraft:weathered_cut_copper",
+      "",
+      "",
+      "minecraft:weathered_cut_copper",
+      "minecraft:weathered_cut_copper",
+      "",
+      "minecraft:weathered_cut_copper",
+      "minecraft:weathered_cut_copper",
+      "minecraft:weathered_cut_copper"
+    ]
+  },
+  "naturesaura:weather_changer": {
+    "result": "naturesaura:weather_changer",
+    "count": 1,
+    "ingredients": [
+      "naturesaura:infused_brick",
+      "minecraft:fire_charge",
+      "naturesaura:infused_brick",
+      "minecraft:dark_prismarine",
+      "naturesaura:token_euphoria",
+      "minecraft:sunflower",
+      "naturesaura:infused_brick",
+      "naturesaura:token_terror",
+      "naturesaura:infused_brick"
+    ]
+  },
+  "oritech:weed_killer": {
+    "result": "oritech:weed_killer",
+    "count": 1,
+    "ingredients": [
+      "",
+      "oritech:raw_biopolymer",
+      "",
+      "oritech:raw_biopolymer",
+      "minecraft:glass_bottle",
+      "oritech:raw_biopolymer",
+      "minecraft:food_poisoning",
+      "minecraft:food_poisoning",
+      "minecraft:food_poisoning"
+    ]
+  },
+  "pamhc2foodextended:weekendpicnicitem": {
+    "result": "pamhc2foodextended:weekendpicnicitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "pamhc2foodcore:friedchickenitem",
+      "pamhc2foodextended:potatosaladitem",
+      "pamhc2foodcore:potatochipsitem",
+      "minecraft:sodas",
+      "pamhc2foodextended:springsaladitem",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:wenge_bookshelf": {
+    "result": "productivetrees:wenge_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:wenge_planks",
+      "productivetrees:wenge_planks",
+      "productivetrees:wenge_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:wenge_planks",
+      "productivetrees:wenge_planks",
+      "productivetrees:wenge_planks"
+    ]
+  },
+  "productivetrees:western_hemlock_bookshelf": {
+    "result": "productivetrees:western_hemlock_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:western_hemlock_planks",
+      "productivetrees:western_hemlock_planks",
+      "productivetrees:western_hemlock_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:western_hemlock_planks",
+      "productivetrees:western_hemlock_planks",
+      "productivetrees:western_hemlock_planks"
+    ]
+  },
+  "productivetrees:wenge_button": {
+    "result": "productivetrees:wenge_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:wenge_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:western_hemlock_button": {
+    "result": "productivetrees:western_hemlock_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:western_hemlock_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:wenge_door": {
+    "result": "productivetrees:wenge_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:wenge_planks",
+      "productivetrees:wenge_planks",
+      "",
+      "productivetrees:wenge_planks",
+      "productivetrees:wenge_planks",
+      "",
+      "productivetrees:wenge_planks",
+      "productivetrees:wenge_planks",
+      ""
+    ]
+  },
+  "productivetrees:western_hemlock_door": {
+    "result": "productivetrees:western_hemlock_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:western_hemlock_planks",
+      "productivetrees:western_hemlock_planks",
+      "",
+      "productivetrees:western_hemlock_planks",
+      "productivetrees:western_hemlock_planks",
+      "",
+      "productivetrees:western_hemlock_planks",
+      "productivetrees:western_hemlock_planks",
+      ""
+    ]
+  },
+  "productivetrees:wenge_fence": {
+    "result": "productivetrees:wenge_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:wenge_planks",
+      "minecraft:stick",
+      "productivetrees:wenge_planks",
+      "productivetrees:wenge_planks",
+      "minecraft:stick",
+      "productivetrees:wenge_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:western_hemlock_fence": {
+    "result": "productivetrees:western_hemlock_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:western_hemlock_planks",
+      "minecraft:stick",
+      "productivetrees:western_hemlock_planks",
+      "productivetrees:western_hemlock_planks",
+      "minecraft:stick",
+      "productivetrees:western_hemlock_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:wenge_fence_gate": {
+    "result": "productivetrees:wenge_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:wenge_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:wenge_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:western_hemlock_fence_gate": {
+    "result": "productivetrees:western_hemlock_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:western_hemlock_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:western_hemlock_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:wenge_hanging_sign": {
+    "result": "productivetrees:wenge_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:wenge_planks",
+      "productivetrees:wenge_planks",
+      "productivetrees:wenge_planks",
+      "productivetrees:wenge_planks",
+      "productivetrees:wenge_planks",
+      "productivetrees:wenge_planks"
+    ]
+  },
+  "productivetrees:western_hemlock_hanging_sign": {
+    "result": "productivetrees:western_hemlock_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:western_hemlock_planks",
+      "productivetrees:western_hemlock_planks",
+      "productivetrees:western_hemlock_planks",
+      "productivetrees:western_hemlock_planks",
+      "productivetrees:western_hemlock_planks",
+      "productivetrees:western_hemlock_planks"
+    ]
+  },
+  "productivetrees:wenge_planks": {
+    "result": "productivetrees:wenge_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:western_hemlock_planks": {
+    "result": "productivetrees:western_hemlock_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:wenge_pressure_plate": {
+    "result": "productivetrees:wenge_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:wenge_planks",
+      "productivetrees:wenge_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:western_hemlock_pressure_plate": {
+    "result": "productivetrees:western_hemlock_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:western_hemlock_planks",
+      "productivetrees:western_hemlock_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:wenge_sign": {
+    "result": "productivetrees:wenge_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:wenge_planks",
+      "productivetrees:wenge_planks",
+      "productivetrees:wenge_planks",
+      "productivetrees:wenge_planks",
+      "productivetrees:wenge_planks",
+      "productivetrees:wenge_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:western_hemlock_sign": {
+    "result": "productivetrees:western_hemlock_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:western_hemlock_planks",
+      "productivetrees:western_hemlock_planks",
+      "productivetrees:western_hemlock_planks",
+      "productivetrees:western_hemlock_planks",
+      "productivetrees:western_hemlock_planks",
+      "productivetrees:western_hemlock_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:wenge_slab": {
+    "result": "productivetrees:wenge_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:wenge_planks",
+      "productivetrees:wenge_planks",
+      "productivetrees:wenge_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:western_hemlock_slab": {
+    "result": "productivetrees:western_hemlock_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:western_hemlock_planks",
+      "productivetrees:western_hemlock_planks",
+      "productivetrees:western_hemlock_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:wenge_stairs": {
+    "result": "productivetrees:wenge_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:wenge_planks",
+      "",
+      "",
+      "productivetrees:wenge_planks",
+      "productivetrees:wenge_planks",
+      "",
+      "productivetrees:wenge_planks",
+      "productivetrees:wenge_planks",
+      "productivetrees:wenge_planks"
+    ]
+  },
+  "productivetrees:western_hemlock_stairs": {
+    "result": "productivetrees:western_hemlock_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:western_hemlock_planks",
+      "",
+      "",
+      "productivetrees:western_hemlock_planks",
+      "productivetrees:western_hemlock_planks",
+      "",
+      "productivetrees:western_hemlock_planks",
+      "productivetrees:western_hemlock_planks",
+      "productivetrees:western_hemlock_planks"
+    ]
+  },
+  "productivetrees:wenge_trapdoor": {
+    "result": "productivetrees:wenge_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:wenge_planks",
+      "productivetrees:wenge_planks",
+      "productivetrees:wenge_planks",
+      "productivetrees:wenge_planks",
+      "productivetrees:wenge_planks",
+      "productivetrees:wenge_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:western_hemlock_trapdoor": {
+    "result": "productivetrees:western_hemlock_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:western_hemlock_planks",
+      "productivetrees:western_hemlock_planks",
+      "productivetrees:western_hemlock_planks",
+      "productivetrees:western_hemlock_planks",
+      "productivetrees:western_hemlock_planks",
+      "productivetrees:western_hemlock_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:wenge_wood": {
+    "result": "productivetrees:wenge_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:wenge_log",
+      "productivetrees:wenge_log",
+      "",
+      "productivetrees:wenge_log",
+      "productivetrees:wenge_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:western_hemlock_wood": {
+    "result": "productivetrees:western_hemlock_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:western_hemlock_log",
+      "productivetrees:western_hemlock_log",
+      "",
+      "productivetrees:western_hemlock_log",
+      "productivetrees:western_hemlock_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "utilitarian:well_behaved_dropper": {
+    "result": "utilitarian:well_behaved_dropper",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:gold",
+      "",
+      "minecraft:gold",
+      "minecraft:dropper",
+      "minecraft:gold",
+      "",
+      "minecraft:gold",
+      ""
+    ]
+  }
+}

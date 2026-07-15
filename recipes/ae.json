@@ -1,0 +1,392 @@
+{
+  "aether:aerogel_slab": {
+    "result": "aether:aerogel_slab",
+    "count": 6,
+    "ingredients": [
+      "aether:aerogel",
+      "aether:aerogel",
+      "aether:aerogel",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "aether:aerogel_stairs": {
+    "result": "aether:aerogel_stairs",
+    "count": 4,
+    "ingredients": [
+      "aether:aerogel",
+      "",
+      "",
+      "aether:aerogel",
+      "aether:aerogel",
+      "",
+      "aether:aerogel",
+      "aether:aerogel",
+      "aether:aerogel"
+    ]
+  },
+  "aether:aerogel_wall": {
+    "result": "aether:aerogel_wall",
+    "count": 6,
+    "ingredients": [
+      "aether:aerogel",
+      "aether:aerogel",
+      "aether:aerogel",
+      "aether:aerogel",
+      "aether:aerogel",
+      "aether:aerogel",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:aether_skyroot_bookcase": {
+    "result": "bibliocraft:aether_skyroot_bookcase",
+    "count": 1,
+    "ingredients": [
+      "aether:skyroot_planks",
+      "aether:skyroot_slab",
+      "aether:skyroot_planks",
+      "aether:skyroot_planks",
+      "aether:skyroot_slab",
+      "aether:skyroot_planks",
+      "aether:skyroot_planks",
+      "aether:skyroot_slab",
+      "aether:skyroot_planks"
+    ]
+  },
+  "bibliocraft:aether_skyroot_fancy_armor_stand": {
+    "result": "bibliocraft:aether_skyroot_fancy_armor_stand",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "aether:skyroot_slab",
+      "aether:skyroot_slab",
+      "aether:skyroot_slab"
+    ]
+  },
+  "bibliocraft:aether_skyroot_fancy_clock": {
+    "result": "bibliocraft:aether_skyroot_fancy_clock",
+    "count": 1,
+    "ingredients": [
+      "aether:skyroot_slab",
+      "minecraft:clock",
+      "aether:skyroot_slab",
+      "aether:skyroot_slab",
+      "minecraft:stick",
+      "aether:skyroot_slab",
+      "aether:skyroot_slab",
+      "minecraft:copper_ingot",
+      "aether:skyroot_slab"
+    ]
+  },
+  "bibliocraft:aether_skyroot_fancy_crafter": {
+    "result": "bibliocraft:aether_skyroot_fancy_crafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black",
+      "minecraft:crafting_tables",
+      "minecraft:feather",
+      "aether:skyroot_planks",
+      "minecraft:glass",
+      "aether:skyroot_planks",
+      "aether:skyroot_planks",
+      "minecraft:crafter",
+      "aether:skyroot_planks"
+    ]
+  },
+  "bibliocraft:aether_skyroot_fancy_sign": {
+    "result": "bibliocraft:aether_skyroot_fancy_sign",
+    "count": 1,
+    "ingredients": [
+      "aether:skyroot_planks",
+      "minecraft:paper",
+      "aether:skyroot_planks",
+      "aether:skyroot_planks",
+      "minecraft:paper",
+      "aether:skyroot_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "bibliocraft:aether_skyroot_grandfather_clock": {
+    "result": "bibliocraft:aether_skyroot_grandfather_clock",
+    "count": 1,
+    "ingredients": [
+      "bibliocraft:aether_skyroot_fancy_clock",
+      "bibliocraft:aether_skyroot_fancy_clock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:aether_skyroot_label": {
+    "result": "bibliocraft:aether_skyroot_label",
+    "count": 1,
+    "ingredients": [
+      "aether:skyroot_slab",
+      "aether:skyroot_slab",
+      "aether:skyroot_slab",
+      "aether:skyroot_slab",
+      "aether:skyroot_slab",
+      "aether:skyroot_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:aether_skyroot_potion_shelf": {
+    "result": "bibliocraft:aether_skyroot_potion_shelf",
+    "count": 1,
+    "ingredients": [
+      "aether:skyroot_slab",
+      "aether:skyroot_slab",
+      "aether:skyroot_slab",
+      "aether:skyroot_planks",
+      "minecraft:glass_bottle",
+      "aether:skyroot_planks",
+      "aether:skyroot_slab",
+      "aether:skyroot_slab",
+      "aether:skyroot_slab"
+    ]
+  },
+  "bibliocraft:aether_skyroot_shelf": {
+    "result": "bibliocraft:aether_skyroot_shelf",
+    "count": 1,
+    "ingredients": [
+      "aether:skyroot_slab",
+      "aether:skyroot_slab",
+      "aether:skyroot_slab",
+      "",
+      "aether:skyroot_planks",
+      "",
+      "aether:skyroot_slab",
+      "aether:skyroot_slab",
+      "aether:skyroot_slab"
+    ]
+  },
+  "bibliocraft:aether_skyroot_table": {
+    "result": "bibliocraft:aether_skyroot_table",
+    "count": 1,
+    "ingredients": [
+      "aether:skyroot_slab",
+      "aether:skyroot_slab",
+      "aether:skyroot_slab",
+      "",
+      "aether:skyroot_planks",
+      "",
+      "",
+      "aether:skyroot_planks",
+      ""
+    ]
+  },
+  "bibliocraft:aether_skyroot_tool_rack": {
+    "result": "bibliocraft:aether_skyroot_tool_rack",
+    "count": 1,
+    "ingredients": [
+      "aether:skyroot_slab",
+      "aether:skyroot_slab",
+      "aether:skyroot_slab",
+      "aether:skyroot_slab",
+      "minecraft:iron_ingot",
+      "aether:skyroot_slab",
+      "aether:skyroot_slab",
+      "aether:skyroot_slab",
+      "aether:skyroot_slab"
+    ]
+  },
+  "eternal_starlight:aethersent_arrow": {
+    "result": "eternal_starlight:aethersent_arrow",
+    "count": 4,
+    "ingredients": [
+      "minecraft:aethersent",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:feather",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:aethersent_block": {
+    "result": "eternal_starlight:aethersent_block",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:aethersent_ingot",
+      "eternal_starlight:aethersent_ingot",
+      "eternal_starlight:aethersent_ingot",
+      "eternal_starlight:aethersent_ingot",
+      "eternal_starlight:aethersent_ingot",
+      "eternal_starlight:aethersent_ingot",
+      "eternal_starlight:aethersent_ingot",
+      "eternal_starlight:aethersent_ingot",
+      "eternal_starlight:aethersent_ingot"
+    ]
+  },
+  "eternal_starlight:aethersent_boots": {
+    "result": "eternal_starlight:aethersent_boots",
+    "count": 1,
+    "ingredients": [
+      "minecraft:aethersent",
+      "",
+      "minecraft:aethersent",
+      "eternal_starlight:creteor_hide",
+      "",
+      "eternal_starlight:creteor_hide",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:aethersent_bottoms": {
+    "result": "eternal_starlight:aethersent_bottoms",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:creteor_hide",
+      "eternal_starlight:creteor_hide",
+      "eternal_starlight:creteor_hide",
+      "minecraft:aethersent",
+      "",
+      "minecraft:aethersent",
+      "eternal_starlight:creteor_hide",
+      "",
+      "eternal_starlight:creteor_hide"
+    ]
+  },
+  "eternal_starlight:aethersent_cape": {
+    "result": "eternal_starlight:aethersent_cape",
+    "count": 1,
+    "ingredients": [
+      "minecraft:aethersent",
+      "",
+      "minecraft:aethersent",
+      "eternal_starlight:creteor_hide",
+      "minecraft:aethersent",
+      "eternal_starlight:creteor_hide",
+      "eternal_starlight:creteor_hide",
+      "eternal_starlight:creteor_hide",
+      "eternal_starlight:creteor_hide"
+    ]
+  },
+  "eternal_starlight:aethersent_hood": {
+    "result": "eternal_starlight:aethersent_hood",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:creteor_hide",
+      "minecraft:aethersent",
+      "eternal_starlight:creteor_hide",
+      "minecraft:aethersent",
+      "",
+      "minecraft:aethersent",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:aethersent_ingot": {
+    "result": "eternal_starlight:aethersent_ingot",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:aethersent_nugget",
+      "eternal_starlight:aethersent_nugget",
+      "eternal_starlight:aethersent_nugget",
+      "eternal_starlight:aethersent_nugget",
+      "eternal_starlight:aethersent_nugget",
+      "eternal_starlight:aethersent_nugget",
+      "eternal_starlight:aethersent_nugget",
+      "eternal_starlight:aethersent_nugget",
+      "eternal_starlight:aethersent_nugget"
+    ]
+  },
+  "eternal_starlight:aethersent_nugget": {
+    "result": "eternal_starlight:aethersent_nugget",
+    "count": 9,
+    "ingredients": [
+      "eternal_starlight:aethersent_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:aetherstrike_rocket": {
+    "result": "eternal_starlight:aetherstrike_rocket",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:creteor_hide",
+      "eternal_starlight:starcore",
+      "minecraft:paper",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:aebleskiversitem": {
+    "result": "pamhc2foodextended:aebleskiversitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:flour",
+      "minecraft:milk",
+      "minecraft:egg",
+      "minecraft:sugar",
+      "minecraft:salt",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pneumaticcraft:aerial_interface": {
+    "result": "pneumaticcraft:aerial_interface",
+    "count": 1,
+    "ingredients": [
+      "pneumaticcraft:pressure_chamber_wall",
+      "pneumaticcraft:omnidirectional_hopper",
+      "pneumaticcraft:pressure_chamber_wall",
+      "minecraft:ender_pearl",
+      "minecraft:nether_star",
+      "minecraft:ender_pearl",
+      "pneumaticcraft:pressure_chamber_wall",
+      "pneumaticcraft:advanced_pressure_tube",
+      "pneumaticcraft:pressure_chamber_wall"
+    ]
+  },
+  "powah:aerial_pearl": {
+    "result": "powah:aerial_pearl",
+    "count": 1,
+    "ingredients": [
+      "powah:dielectric_paste",
+      "minecraft:iron_bars",
+      "powah:dielectric_paste",
+      "minecraft:iron_bars",
+      "minecraft:ender_pearl",
+      "minecraft:iron_bars",
+      "powah:dielectric_paste",
+      "minecraft:iron_bars",
+      "powah:dielectric_paste"
+    ]
+  }
+}

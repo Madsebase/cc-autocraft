@@ -1,0 +1,1337 @@
+{
+  "actuallyadditions:teleport_staff": {
+    "result": "actuallyadditions:teleport_staff",
+    "count": 1,
+    "ingredients": [
+      "",
+      "actuallyadditions:empowered_diamatine_crystal",
+      "minecraft:ender_pearl",
+      "",
+      "actuallyadditions:ender_casing",
+      "",
+      "actuallyadditions:ender_casing",
+      "actuallyadditions:single_battery",
+      ""
+    ]
+  },
+  "ae2:terminal": {
+    "result": "ae2:terminal",
+    "count": 1,
+    "ingredients": [
+      "ae2:formation_core",
+      "minecraft:illuminated_panel",
+      "ae2:logic_processor",
+      "ae2:annihilation_core",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:terracotta_1x": {
+    "result": "allthecompressed:terracotta_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:terracotta_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:terracotta_2x": {
+    "result": "allthecompressed:terracotta_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:terracotta_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:terracotta_3x": {
+    "result": "allthecompressed:terracotta_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:terracotta_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:terracotta_4x": {
+    "result": "allthecompressed:terracotta_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:terracotta_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:terracotta_5x": {
+    "result": "allthecompressed:terracotta_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:terracotta_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:terracotta_6x": {
+    "result": "allthecompressed:terracotta_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:terracotta_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:terracotta_7x": {
+    "result": "allthecompressed:terracotta_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:terracotta_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:terracotta_8x": {
+    "result": "allthecompressed:terracotta_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:terracotta_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:terracotta_9x": {
+    "result": "allthecompressed:terracotta_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:terracotta_8x",
+      "allthecompressed:terracotta_8x",
+      "allthecompressed:terracotta_8x",
+      "allthecompressed:terracotta_8x",
+      "allthecompressed:terracotta_8x",
+      "allthecompressed:terracotta_8x",
+      "allthecompressed:terracotta_8x",
+      "allthecompressed:terracotta_8x",
+      "allthecompressed:terracotta_8x"
+    ]
+  },
+  "minecraft:terracotta": {
+    "result": "minecraft:terracotta",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:terracotta_1x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthemodium:teleport_pad": {
+    "result": "allthemodium:teleport_pad",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:allthemodium",
+      "",
+      "minecraft:allthemodium",
+      "minecraft:ender_pearl",
+      "minecraft:allthemodium",
+      "",
+      "minecraft:allthemodium",
+      ""
+    ]
+  },
+  "botanypots:terracotta_botany_pot": {
+    "result": "botanypots:terracotta_botany_pot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:terracotta",
+      "",
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:flower_pot",
+      "minecraft:terracotta",
+      "",
+      "minecraft:terracotta",
+      ""
+    ]
+  },
+  "botanypots:terracotta_hopper_botany_pot": {
+    "result": "botanypots:terracotta_hopper_botany_pot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:terracotta",
+      "minecraft:hopper",
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:flower_pot",
+      "minecraft:terracotta",
+      "",
+      "minecraft:terracotta",
+      ""
+    ]
+  },
+  "botanypots:terracotta_waxed_botany_pot": {
+    "result": "botanypots:terracotta_waxed_botany_pot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:honeycomb",
+      "botanypots:terracotta_botany_pot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "buildinggadgets2:template_manager": {
+    "result": "buildinggadgets2:template_manager",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:redstone",
+      "minecraft:iron_ingot",
+      "minecraft:paper",
+      "minecraft:redstone",
+      "minecraft:paper",
+      "minecraft:iron_ingot",
+      "minecraft:lapis_lazuli",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "constructionstick:template_angel": {
+    "result": "constructionstick:template_angel",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:glass",
+      "minecraft:gold_ingot",
+      "minecraft:glass",
+      "minecraft:feather",
+      "minecraft:glass",
+      "minecraft:gold_ingot",
+      "minecraft:glass",
+      ""
+    ]
+  },
+  "constructionstick:template_battery": {
+    "result": "constructionstick:template_battery",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:glass",
+      "minecraft:redstone",
+      "minecraft:glass",
+      "minecraft:potato",
+      "minecraft:glass",
+      "minecraft:redstone",
+      "minecraft:glass",
+      ""
+    ]
+  },
+  "constructionstick:template_destruction": {
+    "result": "constructionstick:template_destruction",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:glass",
+      "minecraft:diamond_pickaxe",
+      "minecraft:glass",
+      "minecraft:tnt",
+      "minecraft:glass",
+      "minecraft:diamond_pickaxe",
+      "minecraft:glass",
+      ""
+    ]
+  },
+  "constructionstick:template_replacement": {
+    "result": "constructionstick:template_replacement",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:glass",
+      "minecraft:sculk",
+      "minecraft:glass",
+      "minecraft:ender_pearl",
+      "minecraft:glass",
+      "minecraft:sculk",
+      "minecraft:glass",
+      ""
+    ]
+  },
+  "constructionstick:template_unbreakable": {
+    "result": "constructionstick:template_unbreakable",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:glass",
+      "minecraft:crying",
+      "minecraft:glass",
+      "minecraft:nether_stars",
+      "minecraft:glass",
+      "minecraft:crying",
+      "minecraft:glass",
+      ""
+    ]
+  },
+  "eternal_starlight:tear_bomb": {
+    "result": "eternal_starlight:tear_bomb",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:pungency_fruit",
+      "minecraft:gunpowder",
+      "eternal_starlight:pungency_fruit",
+      "minecraft:gunpowder",
+      "minecraft:malarite",
+      "minecraft:gunpowder",
+      "eternal_starlight:pungency_fruit",
+      "minecraft:gunpowder",
+      "eternal_starlight:pungency_fruit"
+    ]
+  },
+  "eternal_starlight:tentacle_spike": {
+    "result": "eternal_starlight:tentacle_spike",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:seeker_tentacle",
+      "eternal_starlight:seeker_tentacle",
+      "eternal_starlight:seeker_tentacle",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:terra_crystal": {
+    "result": "eternal_starlight:terra_crystal",
+    "count": 1,
+    "ingredients": [
+      "",
+      "eternal_starlight:red_starlight_crystal_shard",
+      "",
+      "eternal_starlight:red_starlight_crystal_shard",
+      "minecraft:terra_crystal_ingredients",
+      "eternal_starlight:red_starlight_crystal_shard",
+      "",
+      "eternal_starlight:red_starlight_crystal_shard",
+      ""
+    ]
+  },
+  "eternal_starlight:tear_bomb_minecart": {
+    "result": "eternal_starlight:tear_bomb_minecart",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:tear_bomb",
+      "minecraft:minecart",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "extended_industrialization:tesla_particle_generator": {
+    "result": "extended_industrialization:tesla_particle_generator",
+    "count": 1,
+    "ingredients": [
+      "extended_industrialization:silver_tesla_top_load",
+      "",
+      "",
+      "modern_industrialization:electronic_circuit",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "extended_industrialization:tesla_coil": {
+    "result": "extended_industrialization:tesla_coil",
+    "count": 1,
+    "ingredients": [
+      "extended_industrialization:tesla_receiver",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "extended_industrialization:tesla_receiver": {
+    "result": "extended_industrialization:tesla_receiver",
+    "count": 1,
+    "ingredients": [
+      "extended_industrialization:tesla_coil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "extended_industrialization:tesla_tower": {
+    "result": "extended_industrialization:tesla_tower",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:aluminum_cable",
+      "modern_industrialization:clean_stainless_steel_machine_casing",
+      "modern_industrialization:aluminum_cable",
+      "modern_industrialization:digital_circuit",
+      "modern_industrialization:turbo_machine_hull",
+      "modern_industrialization:digital_circuit",
+      "modern_industrialization:aluminum_cable",
+      "modern_industrialization:clean_stainless_steel_machine_casing",
+      "modern_industrialization:aluminum_cable"
+    ]
+  },
+  "extended_industrialization:tesla_calibrator": {
+    "result": "extended_industrialization:tesla_calibrator",
+    "count": 1,
+    "ingredients": [
+      "",
+      "modern_industrialization:silver_wire",
+      "",
+      "modern_industrialization:transistor",
+      "minecraft:glass",
+      "modern_industrialization:transistor",
+      "modern_industrialization:diode",
+      "modern_industrialization:electronic_circuit",
+      "modern_industrialization:diode"
+    ]
+  },
+  "extended_industrialization:tesla_handheld_receiver": {
+    "result": "extended_industrialization:tesla_handheld_receiver",
+    "count": 1,
+    "ingredients": [
+      "extended_industrialization:silver_tesla_top_load",
+      "",
+      "",
+      "extended_industrialization:annealed_copper_tesla_winding",
+      "modern_industrialization:transistor",
+      "modern_industrialization:transistor",
+      "modern_industrialization:electronic_circuit",
+      "modern_industrialization:diode",
+      "modern_industrialization:diode"
+    ]
+  },
+  "forbidden_arcanus:test_tube": {
+    "result": "forbidden_arcanus:test_tube",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glass_bottle",
+      "forbidden_arcanus:rune",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "handcrafted:terracotta_bowl": {
+    "result": "handcrafted:terracotta_bowl",
+    "count": 3,
+    "ingredients": [
+      "minecraft:terracotta",
+      "",
+      "minecraft:terracotta",
+      "",
+      "minecraft:terracotta",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "handcrafted:terracotta_crockery_combo": {
+    "result": "handcrafted:terracotta_crockery_combo",
+    "count": 1,
+    "ingredients": [
+      "handcrafted:terracotta_cup",
+      "handcrafted:terracotta_plate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "handcrafted:terracotta_cup": {
+    "result": "handcrafted:terracotta_cup",
+    "count": 3,
+    "ingredients": [
+      "minecraft:terracotta",
+      "",
+      "",
+      "minecraft:terracotta",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "handcrafted:terracotta_medium_pot": {
+    "result": "handcrafted:terracotta_medium_pot",
+    "count": 3,
+    "ingredients": [
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "",
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "",
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      ""
+    ]
+  },
+  "handcrafted:terracotta_plate": {
+    "result": "handcrafted:terracotta_plate",
+    "count": 3,
+    "ingredients": [
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "handcrafted:terracotta_thick_pot": {
+    "result": "handcrafted:terracotta_thick_pot",
+    "count": 3,
+    "ingredients": [
+      "minecraft:terracotta",
+      "",
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "",
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:terracotta"
+    ]
+  },
+  "handcrafted:terracotta_thin_pot": {
+    "result": "handcrafted:terracotta_thin_pot",
+    "count": 3,
+    "ingredients": [
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "",
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "handcrafted:terracotta_wide_pot": {
+    "result": "handcrafted:terracotta_wide_pot",
+    "count": 3,
+    "ingredients": [
+      "minecraft:terracotta",
+      "",
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "",
+      "minecraft:terracotta",
+      "",
+      "minecraft:terracotta",
+      ""
+    ]
+  },
+  "immersiveengineering:tesla_coil": {
+    "result": "immersiveengineering:tesla_coil",
+    "count": 1,
+    "ingredients": [
+      "minecraft:aluminum",
+      "minecraft:aluminum",
+      "minecraft:aluminum",
+      "",
+      "immersiveengineering:coil_mv",
+      "",
+      "immersiveengineering:component_electronic_adv",
+      "immersiveengineering:capacitor_hv",
+      "immersiveengineering:component_iron"
+    ]
+  },
+  "industrialization_overdrive:terminal": {
+    "result": "industrialization_overdrive:terminal",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:diode",
+      "minecraft:glass",
+      "modern_industrialization:diode",
+      "modern_industrialization:transistor",
+      "modern_industrialization:electronic_circuit",
+      "modern_industrialization:transistor",
+      "",
+      "",
+      ""
+    ]
+  },
+  "integratedterminals:terminal_storage_portable": {
+    "result": "integratedterminals:terminal_storage_portable",
+    "count": 1,
+    "ingredients": [
+      "integrateddynamics:crystalized_menril_chunk",
+      "integratedterminals:part_terminal_storage",
+      "integrateddynamics:crystalized_menril_chunk",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "justdirethings:template_blazegold": {
+    "result": "justdirethings:template_blazegold",
+    "count": 1,
+    "ingredients": [
+      "justdirethings:blazegold_ingot",
+      "",
+      "justdirethings:blazegold_ingot",
+      "justdirethings:blazegold_ingot",
+      "justdirethings:upgrade_blank",
+      "justdirethings:blazegold_ingot",
+      "",
+      "justdirethings:blazegold_ingot",
+      ""
+    ]
+  },
+  "justdirethings:template_celestigem": {
+    "result": "justdirethings:template_celestigem",
+    "count": 1,
+    "ingredients": [
+      "justdirethings:celestigem",
+      "",
+      "justdirethings:celestigem",
+      "justdirethings:celestigem",
+      "justdirethings:upgrade_blank",
+      "justdirethings:celestigem",
+      "",
+      "justdirethings:celestigem",
+      ""
+    ]
+  },
+  "justdirethings:template_eclipsealloy": {
+    "result": "justdirethings:template_eclipsealloy",
+    "count": 1,
+    "ingredients": [
+      "justdirethings:eclipsealloy_ingot",
+      "",
+      "justdirethings:eclipsealloy_ingot",
+      "justdirethings:eclipsealloy_ingot",
+      "justdirethings:upgrade_blank",
+      "justdirethings:eclipsealloy_ingot",
+      "",
+      "justdirethings:eclipsealloy_ingot",
+      ""
+    ]
+  },
+  "justdirethings:template_ferricore": {
+    "result": "justdirethings:template_ferricore",
+    "count": 1,
+    "ingredients": [
+      "justdirethings:ferricore_ingot",
+      "",
+      "justdirethings:ferricore_ingot",
+      "justdirethings:ferricore_ingot",
+      "justdirethings:upgrade_blank",
+      "justdirethings:ferricore_ingot",
+      "",
+      "justdirethings:ferricore_ingot",
+      ""
+    ]
+  },
+  "mekanism:teleportation_core": {
+    "result": "mekanism:teleportation_core",
+    "count": 1,
+    "ingredients": [
+      "minecraft:ender_pearl",
+      "minecraft:atomic",
+      "minecraft:ender_pearl",
+      "minecraft:gold_ingot",
+      "minecraft:diamond",
+      "minecraft:gold_ingot",
+      "minecraft:ender_pearl",
+      "minecraft:atomic",
+      "minecraft:ender_pearl"
+    ]
+  },
+  "mekanism:teleporter": {
+    "result": "mekanism:teleporter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:basic",
+      "mekanism:steel_casing",
+      "minecraft:basic",
+      "mekanism:steel_casing",
+      "mekanism:teleportation_core",
+      "mekanism:steel_casing",
+      "minecraft:basic",
+      "mekanism:steel_casing",
+      "minecraft:basic"
+    ]
+  },
+  "mekanism:teleporter_frame": {
+    "result": "mekanism:teleporter_frame",
+    "count": 9,
+    "ingredients": [
+      "minecraft:refined_obsidian",
+      "minecraft:refined_obsidian",
+      "minecraft:refined_obsidian",
+      "minecraft:refined_obsidian",
+      "minecraft:stone",
+      "minecraft:refined_obsidian",
+      "minecraft:refined_obsidian",
+      "minecraft:refined_obsidian",
+      "minecraft:refined_obsidian"
+    ]
+  },
+  "mysticalagradditions:tertium_apple": {
+    "result": "mysticalagradditions:tertium_apple",
+    "count": 1,
+    "ingredients": [
+      "",
+      "mysticalagriculture:tertium_essence",
+      "",
+      "mysticalagriculture:tertium_essence",
+      "minecraft:golden_apple",
+      "mysticalagriculture:tertium_essence",
+      "",
+      "mysticalagriculture:tertium_essence",
+      ""
+    ]
+  },
+  "mysticalagradditions:tertium_coal": {
+    "result": "mysticalagradditions:tertium_coal",
+    "count": 9,
+    "ingredients": [
+      "mysticalagradditions:tertium_coal_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mysticalagradditions:tertium_coal_block": {
+    "result": "mysticalagradditions:tertium_coal_block",
+    "count": 1,
+    "ingredients": [
+      "mysticalagradditions:tertium_coal",
+      "mysticalagradditions:tertium_coal",
+      "mysticalagradditions:tertium_coal",
+      "mysticalagradditions:tertium_coal",
+      "mysticalagradditions:tertium_coal",
+      "mysticalagradditions:tertium_coal",
+      "mysticalagradditions:tertium_coal",
+      "mysticalagradditions:tertium_coal",
+      "mysticalagradditions:tertium_coal"
+    ]
+  },
+  "mysticalagradditions:tertium_paxel": {
+    "result": "mysticalagradditions:tertium_paxel",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:tertium_axe",
+      "mysticalagriculture:tertium_pickaxe",
+      "mysticalagriculture:tertium_shovel",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "mysticalagriculture:tertium_essence": {
+    "result": "mysticalagriculture:tertium_essence",
+    "count": 1,
+    "ingredients": [
+      "",
+      "mysticalagriculture:prudentium_essence",
+      "",
+      "mysticalagriculture:prudentium_essence",
+      "minecraft:infusion_crystals",
+      "mysticalagriculture:prudentium_essence",
+      "",
+      "mysticalagriculture:prudentium_essence",
+      ""
+    ]
+  },
+  "mysticalagriculture:tertium_block": {
+    "result": "mysticalagriculture:tertium_block",
+    "count": 1,
+    "ingredients": [
+      "",
+      "mysticalagriculture:prudentium_block",
+      "",
+      "mysticalagriculture:prudentium_block",
+      "mysticalagriculture:master_infusion_crystal",
+      "mysticalagriculture:prudentium_block",
+      "",
+      "mysticalagriculture:prudentium_block",
+      ""
+    ]
+  },
+  "mysticalagriculture:tertium_farmland": {
+    "result": "mysticalagriculture:tertium_farmland",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:tertium_essence",
+      "minecraft:farmland",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mysticalagriculture:tertium_gemstone": {
+    "result": "mysticalagriculture:tertium_gemstone",
+    "count": 9,
+    "ingredients": [
+      "mysticalagriculture:tertium_gemstone_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mysticalagriculture:tertium_gemstone_block": {
+    "result": "mysticalagriculture:tertium_gemstone_block",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:tertium_gemstone",
+      "mysticalagriculture:tertium_gemstone",
+      "mysticalagriculture:tertium_gemstone",
+      "mysticalagriculture:tertium_gemstone",
+      "mysticalagriculture:tertium_gemstone",
+      "mysticalagriculture:tertium_gemstone",
+      "mysticalagriculture:tertium_gemstone",
+      "mysticalagriculture:tertium_gemstone",
+      "mysticalagriculture:tertium_gemstone"
+    ]
+  },
+  "mysticalagriculture:tertium_growth_accelerator": {
+    "result": "mysticalagriculture:tertium_growth_accelerator",
+    "count": 3,
+    "ingredients": [
+      "mysticalagriculture:tertium_essence",
+      "minecraft:stone",
+      "mysticalagriculture:tertium_essence",
+      "minecraft:stone",
+      "mysticalagriculture:tertium_gemstone",
+      "minecraft:stone",
+      "mysticalagriculture:tertium_essence",
+      "minecraft:stone",
+      "mysticalagriculture:tertium_essence"
+    ]
+  },
+  "mysticalagriculture:tertium_ingot": {
+    "result": "mysticalagriculture:tertium_ingot",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:tertium_nugget",
+      "mysticalagriculture:tertium_nugget",
+      "mysticalagriculture:tertium_nugget",
+      "mysticalagriculture:tertium_nugget",
+      "mysticalagriculture:tertium_nugget",
+      "mysticalagriculture:tertium_nugget",
+      "mysticalagriculture:tertium_nugget",
+      "mysticalagriculture:tertium_nugget",
+      "mysticalagriculture:tertium_nugget"
+    ]
+  },
+  "mysticalagriculture:tertium_ingot_block": {
+    "result": "mysticalagriculture:tertium_ingot_block",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:tertium_ingot",
+      "mysticalagriculture:tertium_ingot",
+      "mysticalagriculture:tertium_ingot",
+      "mysticalagriculture:tertium_ingot",
+      "mysticalagriculture:tertium_ingot",
+      "mysticalagriculture:tertium_ingot",
+      "mysticalagriculture:tertium_ingot",
+      "mysticalagriculture:tertium_ingot",
+      "mysticalagriculture:tertium_ingot"
+    ]
+  },
+  "mysticalagriculture:tertium_nugget": {
+    "result": "mysticalagriculture:tertium_nugget",
+    "count": 9,
+    "ingredients": [
+      "mysticalagriculture:tertium_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mysticalagriculture:tertium_upgrade": {
+    "result": "mysticalagriculture:tertium_upgrade",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:tertium_essence",
+      "mysticalagriculture:tertium_ingot",
+      "mysticalagriculture:tertium_essence",
+      "mysticalagriculture:tertium_ingot",
+      "mysticalagriculture:prudentium_upgrade",
+      "mysticalagriculture:tertium_ingot",
+      "mysticalagriculture:tertium_essence",
+      "mysticalagriculture:tertium_ingot",
+      "mysticalagriculture:tertium_essence"
+    ]
+  },
+  "botania:terrasteel_ingot": {
+    "result": "botania:terrasteel_ingot",
+    "count": 2,
+    "ingredients": [
+      "mysticalagriculture:terrasteel_essence",
+      "mysticalagriculture:terrasteel_essence",
+      "mysticalagriculture:terrasteel_essence",
+      "mysticalagriculture:terrasteel_essence",
+      "",
+      "mysticalagriculture:terrasteel_essence",
+      "mysticalagriculture:terrasteel_essence",
+      "mysticalagriculture:terrasteel_essence",
+      "mysticalagriculture:terrasteel_essence"
+    ]
+  },
+  "oritech:tech_button": {
+    "result": "oritech:tech_button",
+    "count": 1,
+    "ingredients": [
+      "minecraft:copper_ingot",
+      "",
+      "",
+      "modern_industrialization:steel_ingot",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "oritech:tech_door": {
+    "result": "oritech:tech_door",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      ""
+    ]
+  },
+  "oritech:tech_lever": {
+    "result": "oritech:tech_lever",
+    "count": 1,
+    "ingredients": [
+      "minecraft:carbon_fibre",
+      "",
+      "",
+      "modern_industrialization:steel_ingot",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2crops:tealeafseeditem": {
+    "result": "pamhc2crops:tealeafseeditem",
+    "count": 1,
+    "ingredients": [
+      "pamhc2crops:tealeafitem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:teriyakichickenitem": {
+    "result": "pamhc2foodextended:teriyakichickenitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_skillet",
+      "minecraft:rawchicken",
+      "minecraft:rice",
+      "minecraft:soysauce",
+      "minecraft:honey",
+      "minecraft:scallion",
+      "minecraft:cookingoil",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:teak_bookshelf": {
+    "result": "productivetrees:teak_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:teak_planks",
+      "productivetrees:teak_planks",
+      "productivetrees:teak_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:teak_planks",
+      "productivetrees:teak_planks",
+      "productivetrees:teak_planks"
+    ]
+  },
+  "productivetrees:teak_button": {
+    "result": "productivetrees:teak_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:teak_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:teak_door": {
+    "result": "productivetrees:teak_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:teak_planks",
+      "productivetrees:teak_planks",
+      "",
+      "productivetrees:teak_planks",
+      "productivetrees:teak_planks",
+      "",
+      "productivetrees:teak_planks",
+      "productivetrees:teak_planks",
+      ""
+    ]
+  },
+  "productivetrees:teak_fence": {
+    "result": "productivetrees:teak_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:teak_planks",
+      "minecraft:stick",
+      "productivetrees:teak_planks",
+      "productivetrees:teak_planks",
+      "minecraft:stick",
+      "productivetrees:teak_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:teak_fence_gate": {
+    "result": "productivetrees:teak_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:teak_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:teak_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:teak_hanging_sign": {
+    "result": "productivetrees:teak_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:teak_planks",
+      "productivetrees:teak_planks",
+      "productivetrees:teak_planks",
+      "productivetrees:teak_planks",
+      "productivetrees:teak_planks",
+      "productivetrees:teak_planks"
+    ]
+  },
+  "productivetrees:teak_planks": {
+    "result": "productivetrees:teak_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:teak_pressure_plate": {
+    "result": "productivetrees:teak_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:teak_planks",
+      "productivetrees:teak_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:teak_sign": {
+    "result": "productivetrees:teak_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:teak_planks",
+      "productivetrees:teak_planks",
+      "productivetrees:teak_planks",
+      "productivetrees:teak_planks",
+      "productivetrees:teak_planks",
+      "productivetrees:teak_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:teak_slab": {
+    "result": "productivetrees:teak_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:teak_planks",
+      "productivetrees:teak_planks",
+      "productivetrees:teak_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:teak_stairs": {
+    "result": "productivetrees:teak_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:teak_planks",
+      "",
+      "",
+      "productivetrees:teak_planks",
+      "productivetrees:teak_planks",
+      "",
+      "productivetrees:teak_planks",
+      "productivetrees:teak_planks",
+      "productivetrees:teak_planks"
+    ]
+  },
+  "productivetrees:teak_trapdoor": {
+    "result": "productivetrees:teak_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:teak_planks",
+      "productivetrees:teak_planks",
+      "productivetrees:teak_planks",
+      "productivetrees:teak_planks",
+      "productivetrees:teak_planks",
+      "productivetrees:teak_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:teak_wood": {
+    "result": "productivetrees:teak_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:teak_log",
+      "productivetrees:teak_log",
+      "",
+      "productivetrees:teak_log",
+      "productivetrees:teak_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "refurbished_furniture:television_remote": {
+    "result": "refurbished_furniture:television_remote",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_nugget",
+      "minecraft:redstone_lamp",
+      "minecraft:iron_nugget",
+      "minecraft:iron_nugget",
+      "minecraft:redstone",
+      "minecraft:iron_nugget",
+      "minecraft:iron_nugget",
+      "minecraft:copper_ingot",
+      "minecraft:iron_nugget"
+    ]
+  },
+  "rftoolsutility:text_module": {
+    "result": "rftoolsutility:text_module",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:paper",
+      "",
+      "minecraft:redstone",
+      "minecraft:iron_ingot",
+      "minecraft:redstone",
+      "",
+      "minecraft:black",
+      ""
+    ]
+  },
+  "silentgems:teleporter_anchor": {
+    "result": "silentgems:teleporter_anchor",
+    "count": 4,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "modern_industrialization:silver_ingot",
+      "minecraft:gold_ingot",
+      "modern_industrialization:silver_ingot",
+      "silentgems:chaos_essence_block",
+      "modern_industrialization:silver_ingot",
+      "",
+      "minecraft:ender_pearl",
+      ""
+    ]
+  },
+  "silentgems:teleporter_linker": {
+    "result": "silentgems:teleporter_linker",
+    "count": 1,
+    "ingredients": [
+      "silentgems:chaos_essence",
+      "",
+      "",
+      "minecraft:silver",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "tempad:tempad": {
+    "result": "tempad:tempad",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:quartz",
+      "minecraft:ender_pearl",
+      "minecraft:redstone_lamp",
+      "tempad:time_steel",
+      "tempad:chronon_battery",
+      "tempad:time_steel"
+    ]
+  }
+}

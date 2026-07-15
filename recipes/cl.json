@@ -1,0 +1,7157 @@
+{
+  "allthecompressed:clay_1x": {
+    "result": "allthecompressed:clay_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:clay_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:clay_2x": {
+    "result": "allthecompressed:clay_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:clay_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:clay_3x": {
+    "result": "allthecompressed:clay_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:clay_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:clay_4x": {
+    "result": "allthecompressed:clay_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:clay_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:clay_5x": {
+    "result": "allthecompressed:clay_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:clay_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:clay_6x": {
+    "result": "allthecompressed:clay_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:clay_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:clay_7x": {
+    "result": "allthecompressed:clay_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:clay_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:clay_8x": {
+    "result": "allthecompressed:clay_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:clay_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:clay_9x": {
+    "result": "allthecompressed:clay_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:clay_8x",
+      "allthecompressed:clay_8x",
+      "allthecompressed:clay_8x",
+      "allthecompressed:clay_8x",
+      "allthecompressed:clay_8x",
+      "allthecompressed:clay_8x",
+      "allthecompressed:clay_8x",
+      "allthecompressed:clay_8x",
+      "allthecompressed:clay_8x"
+    ]
+  },
+  "minecraft:clay": {
+    "result": "minecraft:clay",
+    "count": 1,
+    "ingredients": [
+      "minecraft:clay_ball",
+      "minecraft:clay_ball",
+      "",
+      "minecraft:clay_ball",
+      "minecraft:clay_ball",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:clipboard": {
+    "result": "bibliocraft:clipboard",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black",
+      "",
+      "minecraft:feather",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "",
+      "minecraft:wooden_pressure_plates",
+      ""
+    ]
+  },
+  "connectedglass:clear_glass": {
+    "result": "connectedglass:clear_glass",
+    "count": 4,
+    "ingredients": [
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "",
+      "connectedglass:borderless_glass",
+      "connectedglass:borderless_glass",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "connectedglass:clear_glass_black": {
+    "result": "connectedglass:clear_glass_black",
+    "count": 8,
+    "ingredients": [
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "minecraft:black",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass"
+    ]
+  },
+  "connectedglass:clear_glass_black_pane": {
+    "result": "connectedglass:clear_glass_black_pane",
+    "count": 16,
+    "ingredients": [
+      "connectedglass:clear_glass_black",
+      "connectedglass:clear_glass_black",
+      "connectedglass:clear_glass_black",
+      "connectedglass:clear_glass_black",
+      "connectedglass:clear_glass_black",
+      "connectedglass:clear_glass_black",
+      "",
+      "",
+      ""
+    ]
+  },
+  "connectedglass:clear_glass_blue": {
+    "result": "connectedglass:clear_glass_blue",
+    "count": 8,
+    "ingredients": [
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "minecraft:blue",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass"
+    ]
+  },
+  "connectedglass:clear_glass_blue_pane": {
+    "result": "connectedglass:clear_glass_blue_pane",
+    "count": 16,
+    "ingredients": [
+      "connectedglass:clear_glass_blue",
+      "connectedglass:clear_glass_blue",
+      "connectedglass:clear_glass_blue",
+      "connectedglass:clear_glass_blue",
+      "connectedglass:clear_glass_blue",
+      "connectedglass:clear_glass_blue",
+      "",
+      "",
+      ""
+    ]
+  },
+  "connectedglass:clear_glass_brown": {
+    "result": "connectedglass:clear_glass_brown",
+    "count": 8,
+    "ingredients": [
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "minecraft:brown",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass"
+    ]
+  },
+  "connectedglass:clear_glass_brown_pane": {
+    "result": "connectedglass:clear_glass_brown_pane",
+    "count": 16,
+    "ingredients": [
+      "connectedglass:clear_glass_brown",
+      "connectedglass:clear_glass_brown",
+      "connectedglass:clear_glass_brown",
+      "connectedglass:clear_glass_brown",
+      "connectedglass:clear_glass_brown",
+      "connectedglass:clear_glass_brown",
+      "",
+      "",
+      ""
+    ]
+  },
+  "connectedglass:clear_glass_cyan": {
+    "result": "connectedglass:clear_glass_cyan",
+    "count": 8,
+    "ingredients": [
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "minecraft:cyan",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass"
+    ]
+  },
+  "connectedglass:clear_glass_cyan_pane": {
+    "result": "connectedglass:clear_glass_cyan_pane",
+    "count": 16,
+    "ingredients": [
+      "connectedglass:clear_glass_cyan",
+      "connectedglass:clear_glass_cyan",
+      "connectedglass:clear_glass_cyan",
+      "connectedglass:clear_glass_cyan",
+      "connectedglass:clear_glass_cyan",
+      "connectedglass:clear_glass_cyan",
+      "",
+      "",
+      ""
+    ]
+  },
+  "connectedglass:clear_glass_gray": {
+    "result": "connectedglass:clear_glass_gray",
+    "count": 8,
+    "ingredients": [
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "minecraft:gray",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass"
+    ]
+  },
+  "connectedglass:clear_glass_gray_pane": {
+    "result": "connectedglass:clear_glass_gray_pane",
+    "count": 16,
+    "ingredients": [
+      "connectedglass:clear_glass_gray",
+      "connectedglass:clear_glass_gray",
+      "connectedglass:clear_glass_gray",
+      "connectedglass:clear_glass_gray",
+      "connectedglass:clear_glass_gray",
+      "connectedglass:clear_glass_gray",
+      "",
+      "",
+      ""
+    ]
+  },
+  "connectedglass:clear_glass_green": {
+    "result": "connectedglass:clear_glass_green",
+    "count": 8,
+    "ingredients": [
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "minecraft:green",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass"
+    ]
+  },
+  "connectedglass:clear_glass_green_pane": {
+    "result": "connectedglass:clear_glass_green_pane",
+    "count": 16,
+    "ingredients": [
+      "connectedglass:clear_glass_green",
+      "connectedglass:clear_glass_green",
+      "connectedglass:clear_glass_green",
+      "connectedglass:clear_glass_green",
+      "connectedglass:clear_glass_green",
+      "connectedglass:clear_glass_green",
+      "",
+      "",
+      ""
+    ]
+  },
+  "connectedglass:clear_glass_light_blue": {
+    "result": "connectedglass:clear_glass_light_blue",
+    "count": 8,
+    "ingredients": [
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "minecraft:light_blue",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass"
+    ]
+  },
+  "connectedglass:clear_glass_light_blue_pane": {
+    "result": "connectedglass:clear_glass_light_blue_pane",
+    "count": 16,
+    "ingredients": [
+      "connectedglass:clear_glass_light_blue",
+      "connectedglass:clear_glass_light_blue",
+      "connectedglass:clear_glass_light_blue",
+      "connectedglass:clear_glass_light_blue",
+      "connectedglass:clear_glass_light_blue",
+      "connectedglass:clear_glass_light_blue",
+      "",
+      "",
+      ""
+    ]
+  },
+  "connectedglass:clear_glass_light_gray": {
+    "result": "connectedglass:clear_glass_light_gray",
+    "count": 8,
+    "ingredients": [
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "minecraft:light_gray",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass"
+    ]
+  },
+  "connectedglass:clear_glass_light_gray_pane": {
+    "result": "connectedglass:clear_glass_light_gray_pane",
+    "count": 16,
+    "ingredients": [
+      "connectedglass:clear_glass_light_gray",
+      "connectedglass:clear_glass_light_gray",
+      "connectedglass:clear_glass_light_gray",
+      "connectedglass:clear_glass_light_gray",
+      "connectedglass:clear_glass_light_gray",
+      "connectedglass:clear_glass_light_gray",
+      "",
+      "",
+      ""
+    ]
+  },
+  "connectedglass:clear_glass_lime": {
+    "result": "connectedglass:clear_glass_lime",
+    "count": 8,
+    "ingredients": [
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "minecraft:lime",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass"
+    ]
+  },
+  "connectedglass:clear_glass_lime_pane": {
+    "result": "connectedglass:clear_glass_lime_pane",
+    "count": 16,
+    "ingredients": [
+      "connectedglass:clear_glass_lime",
+      "connectedglass:clear_glass_lime",
+      "connectedglass:clear_glass_lime",
+      "connectedglass:clear_glass_lime",
+      "connectedglass:clear_glass_lime",
+      "connectedglass:clear_glass_lime",
+      "",
+      "",
+      ""
+    ]
+  },
+  "connectedglass:clear_glass_magenta": {
+    "result": "connectedglass:clear_glass_magenta",
+    "count": 8,
+    "ingredients": [
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "minecraft:magenta",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass"
+    ]
+  },
+  "connectedglass:clear_glass_magenta_pane": {
+    "result": "connectedglass:clear_glass_magenta_pane",
+    "count": 16,
+    "ingredients": [
+      "connectedglass:clear_glass_magenta",
+      "connectedglass:clear_glass_magenta",
+      "connectedglass:clear_glass_magenta",
+      "connectedglass:clear_glass_magenta",
+      "connectedglass:clear_glass_magenta",
+      "connectedglass:clear_glass_magenta",
+      "",
+      "",
+      ""
+    ]
+  },
+  "connectedglass:clear_glass_orange": {
+    "result": "connectedglass:clear_glass_orange",
+    "count": 8,
+    "ingredients": [
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "minecraft:orange",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass"
+    ]
+  },
+  "connectedglass:clear_glass_orange_pane": {
+    "result": "connectedglass:clear_glass_orange_pane",
+    "count": 16,
+    "ingredients": [
+      "connectedglass:clear_glass_orange",
+      "connectedglass:clear_glass_orange",
+      "connectedglass:clear_glass_orange",
+      "connectedglass:clear_glass_orange",
+      "connectedglass:clear_glass_orange",
+      "connectedglass:clear_glass_orange",
+      "",
+      "",
+      ""
+    ]
+  },
+  "connectedglass:clear_glass_pane": {
+    "result": "connectedglass:clear_glass_pane",
+    "count": 16,
+    "ingredients": [
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "",
+      "",
+      ""
+    ]
+  },
+  "connectedglass:clear_glass_pink": {
+    "result": "connectedglass:clear_glass_pink",
+    "count": 8,
+    "ingredients": [
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "minecraft:pink",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass"
+    ]
+  },
+  "connectedglass:clear_glass_pink_pane": {
+    "result": "connectedglass:clear_glass_pink_pane",
+    "count": 16,
+    "ingredients": [
+      "connectedglass:clear_glass_pink",
+      "connectedglass:clear_glass_pink",
+      "connectedglass:clear_glass_pink",
+      "connectedglass:clear_glass_pink",
+      "connectedglass:clear_glass_pink",
+      "connectedglass:clear_glass_pink",
+      "",
+      "",
+      ""
+    ]
+  },
+  "connectedglass:clear_glass_purple": {
+    "result": "connectedglass:clear_glass_purple",
+    "count": 8,
+    "ingredients": [
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "minecraft:purple",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass"
+    ]
+  },
+  "connectedglass:clear_glass_purple_pane": {
+    "result": "connectedglass:clear_glass_purple_pane",
+    "count": 16,
+    "ingredients": [
+      "connectedglass:clear_glass_purple",
+      "connectedglass:clear_glass_purple",
+      "connectedglass:clear_glass_purple",
+      "connectedglass:clear_glass_purple",
+      "connectedglass:clear_glass_purple",
+      "connectedglass:clear_glass_purple",
+      "",
+      "",
+      ""
+    ]
+  },
+  "connectedglass:clear_glass_red": {
+    "result": "connectedglass:clear_glass_red",
+    "count": 8,
+    "ingredients": [
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "minecraft:red",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass"
+    ]
+  },
+  "connectedglass:clear_glass_red_pane": {
+    "result": "connectedglass:clear_glass_red_pane",
+    "count": 16,
+    "ingredients": [
+      "connectedglass:clear_glass_red",
+      "connectedglass:clear_glass_red",
+      "connectedglass:clear_glass_red",
+      "connectedglass:clear_glass_red",
+      "connectedglass:clear_glass_red",
+      "connectedglass:clear_glass_red",
+      "",
+      "",
+      ""
+    ]
+  },
+  "connectedglass:clear_glass_white": {
+    "result": "connectedglass:clear_glass_white",
+    "count": 8,
+    "ingredients": [
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "minecraft:white",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass"
+    ]
+  },
+  "connectedglass:clear_glass_white_pane": {
+    "result": "connectedglass:clear_glass_white_pane",
+    "count": 16,
+    "ingredients": [
+      "connectedglass:clear_glass_white",
+      "connectedglass:clear_glass_white",
+      "connectedglass:clear_glass_white",
+      "connectedglass:clear_glass_white",
+      "connectedglass:clear_glass_white",
+      "connectedglass:clear_glass_white",
+      "",
+      "",
+      ""
+    ]
+  },
+  "connectedglass:clear_glass_yellow": {
+    "result": "connectedglass:clear_glass_yellow",
+    "count": 8,
+    "ingredients": [
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "minecraft:yellow",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass",
+      "connectedglass:clear_glass"
+    ]
+  },
+  "connectedglass:clear_glass_yellow_pane": {
+    "result": "connectedglass:clear_glass_yellow_pane",
+    "count": 16,
+    "ingredients": [
+      "connectedglass:clear_glass_yellow",
+      "connectedglass:clear_glass_yellow",
+      "connectedglass:clear_glass_yellow",
+      "connectedglass:clear_glass_yellow",
+      "connectedglass:clear_glass_yellow",
+      "connectedglass:clear_glass_yellow",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:clipboard": {
+    "result": "create:clipboard",
+    "count": 1,
+    "ingredients": [
+      "create:clipboard",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:clockwork_bearing": {
+    "result": "create:clockwork_bearing",
+    "count": 1,
+    "ingredients": [
+      "minecraft:wooden_slabs",
+      "",
+      "",
+      "create:brass_casing",
+      "",
+      "",
+      "create:electron_tube",
+      "",
+      ""
+    ]
+  },
+  "create:clutch": {
+    "result": "create:clutch",
+    "count": 1,
+    "ingredients": [
+      "create:andesite_casing",
+      "create:shaft",
+      "minecraft:redstone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "crystalix:clear_crystalix_glass": {
+    "result": "crystalix:clear_crystalix_glass",
+    "count": 4,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:quartz",
+      "minecraft:glass",
+      "minecraft:quartz",
+      "",
+      "minecraft:quartz",
+      "minecraft:glass",
+      "minecraft:quartz",
+      "minecraft:glass"
+    ]
+  },
+  "enderio:clear_glass_a": {
+    "result": "enderio:clear_glass_a",
+    "count": 8,
+    "ingredients": [
+      "enderio:clear_glass_na",
+      "enderio:clear_glass_na",
+      "enderio:clear_glass_na",
+      "enderio:clear_glass_na",
+      "minecraft:redstone_torch",
+      "enderio:clear_glass_na",
+      "enderio:clear_glass_na",
+      "enderio:clear_glass_na",
+      "enderio:clear_glass_na"
+    ]
+  },
+  "enderio:clear_glass_da": {
+    "result": "enderio:clear_glass_da",
+    "count": 8,
+    "ingredients": [
+      "enderio:clear_glass_dna",
+      "enderio:clear_glass_dna",
+      "enderio:clear_glass_dna",
+      "enderio:clear_glass_dna",
+      "minecraft:redstone_torch",
+      "enderio:clear_glass_dna",
+      "enderio:clear_glass_dna",
+      "enderio:clear_glass_dna",
+      "enderio:clear_glass_dna"
+    ]
+  },
+  "enderio:clear_glass_dm": {
+    "result": "enderio:clear_glass_dm",
+    "count": 8,
+    "ingredients": [
+      "enderio:clear_glass_dnm",
+      "enderio:clear_glass_dnm",
+      "enderio:clear_glass_dnm",
+      "enderio:clear_glass_dnm",
+      "minecraft:redstone_torch",
+      "enderio:clear_glass_dnm",
+      "enderio:clear_glass_dnm",
+      "enderio:clear_glass_dnm",
+      "enderio:clear_glass_dnm"
+    ]
+  },
+  "enderio:clear_glass_dp": {
+    "result": "enderio:clear_glass_dp",
+    "count": 8,
+    "ingredients": [
+      "enderio:clear_glass_dnp",
+      "enderio:clear_glass_dnp",
+      "enderio:clear_glass_dnp",
+      "enderio:clear_glass_dnp",
+      "minecraft:redstone_torch",
+      "enderio:clear_glass_dnp",
+      "enderio:clear_glass_dnp",
+      "enderio:clear_glass_dnp",
+      "enderio:clear_glass_dnp"
+    ]
+  },
+  "enderio:clear_glass_ea": {
+    "result": "enderio:clear_glass_ea",
+    "count": 8,
+    "ingredients": [
+      "enderio:clear_glass_ena",
+      "enderio:clear_glass_ena",
+      "enderio:clear_glass_ena",
+      "enderio:clear_glass_ena",
+      "minecraft:redstone_torch",
+      "enderio:clear_glass_ena",
+      "enderio:clear_glass_ena",
+      "enderio:clear_glass_ena",
+      "enderio:clear_glass_ena"
+    ]
+  },
+  "enderio:clear_glass_em": {
+    "result": "enderio:clear_glass_em",
+    "count": 8,
+    "ingredients": [
+      "enderio:clear_glass_enm",
+      "enderio:clear_glass_enm",
+      "enderio:clear_glass_enm",
+      "enderio:clear_glass_enm",
+      "minecraft:redstone_torch",
+      "enderio:clear_glass_enm",
+      "enderio:clear_glass_enm",
+      "enderio:clear_glass_enm",
+      "enderio:clear_glass_enm"
+    ]
+  },
+  "enderio:clear_glass_ep": {
+    "result": "enderio:clear_glass_ep",
+    "count": 8,
+    "ingredients": [
+      "enderio:clear_glass_enp",
+      "enderio:clear_glass_enp",
+      "enderio:clear_glass_enp",
+      "enderio:clear_glass_enp",
+      "minecraft:redstone_torch",
+      "enderio:clear_glass_enp",
+      "enderio:clear_glass_enp",
+      "enderio:clear_glass_enp",
+      "enderio:clear_glass_enp"
+    ]
+  },
+  "enderio:clear_glass_m": {
+    "result": "enderio:clear_glass_m",
+    "count": 8,
+    "ingredients": [
+      "enderio:clear_glass_nm",
+      "enderio:clear_glass_nm",
+      "enderio:clear_glass_nm",
+      "enderio:clear_glass_nm",
+      "minecraft:redstone_torch",
+      "enderio:clear_glass_nm",
+      "enderio:clear_glass_nm",
+      "enderio:clear_glass_nm",
+      "enderio:clear_glass_nm"
+    ]
+  },
+  "enderio:clear_glass_p": {
+    "result": "enderio:clear_glass_p",
+    "count": 8,
+    "ingredients": [
+      "enderio:clear_glass_np",
+      "enderio:clear_glass_np",
+      "enderio:clear_glass_np",
+      "enderio:clear_glass_np",
+      "minecraft:redstone_torch",
+      "enderio:clear_glass_np",
+      "enderio:clear_glass_np",
+      "enderio:clear_glass_np",
+      "enderio:clear_glass_np"
+    ]
+  },
+  "enderio:clear_glass_dna": {
+    "result": "enderio:clear_glass_dna",
+    "count": 8,
+    "ingredients": [
+      "enderio:clear_glass_da",
+      "enderio:clear_glass_da",
+      "enderio:clear_glass_da",
+      "enderio:clear_glass_da",
+      "minecraft:redstone_torch",
+      "enderio:clear_glass_da",
+      "enderio:clear_glass_da",
+      "enderio:clear_glass_da",
+      "enderio:clear_glass_da"
+    ]
+  },
+  "enderio:clear_glass_dnm": {
+    "result": "enderio:clear_glass_dnm",
+    "count": 8,
+    "ingredients": [
+      "enderio:clear_glass_dm",
+      "enderio:clear_glass_dm",
+      "enderio:clear_glass_dm",
+      "enderio:clear_glass_dm",
+      "minecraft:redstone_torch",
+      "enderio:clear_glass_dm",
+      "enderio:clear_glass_dm",
+      "enderio:clear_glass_dm",
+      "enderio:clear_glass_dm"
+    ]
+  },
+  "enderio:clear_glass_dnp": {
+    "result": "enderio:clear_glass_dnp",
+    "count": 8,
+    "ingredients": [
+      "enderio:clear_glass_dp",
+      "enderio:clear_glass_dp",
+      "enderio:clear_glass_dp",
+      "enderio:clear_glass_dp",
+      "minecraft:redstone_torch",
+      "enderio:clear_glass_dp",
+      "enderio:clear_glass_dp",
+      "enderio:clear_glass_dp",
+      "enderio:clear_glass_dp"
+    ]
+  },
+  "enderio:clear_glass_ena": {
+    "result": "enderio:clear_glass_ena",
+    "count": 8,
+    "ingredients": [
+      "enderio:clear_glass_ea",
+      "enderio:clear_glass_ea",
+      "enderio:clear_glass_ea",
+      "enderio:clear_glass_ea",
+      "minecraft:redstone_torch",
+      "enderio:clear_glass_ea",
+      "enderio:clear_glass_ea",
+      "enderio:clear_glass_ea",
+      "enderio:clear_glass_ea"
+    ]
+  },
+  "enderio:clear_glass_enm": {
+    "result": "enderio:clear_glass_enm",
+    "count": 8,
+    "ingredients": [
+      "enderio:clear_glass_em",
+      "enderio:clear_glass_em",
+      "enderio:clear_glass_em",
+      "enderio:clear_glass_em",
+      "minecraft:redstone_torch",
+      "enderio:clear_glass_em",
+      "enderio:clear_glass_em",
+      "enderio:clear_glass_em",
+      "enderio:clear_glass_em"
+    ]
+  },
+  "enderio:clear_glass_enp": {
+    "result": "enderio:clear_glass_enp",
+    "count": 8,
+    "ingredients": [
+      "enderio:clear_glass_ep",
+      "enderio:clear_glass_ep",
+      "enderio:clear_glass_ep",
+      "enderio:clear_glass_ep",
+      "minecraft:redstone_torch",
+      "enderio:clear_glass_ep",
+      "enderio:clear_glass_ep",
+      "enderio:clear_glass_ep",
+      "enderio:clear_glass_ep"
+    ]
+  },
+  "enderio:clear_glass_na": {
+    "result": "enderio:clear_glass_na",
+    "count": 8,
+    "ingredients": [
+      "enderio:clear_glass_a",
+      "enderio:clear_glass_a",
+      "enderio:clear_glass_a",
+      "enderio:clear_glass_a",
+      "minecraft:redstone_torch",
+      "enderio:clear_glass_a",
+      "enderio:clear_glass_a",
+      "enderio:clear_glass_a",
+      "enderio:clear_glass_a"
+    ]
+  },
+  "enderio:clear_glass_nm": {
+    "result": "enderio:clear_glass_nm",
+    "count": 8,
+    "ingredients": [
+      "enderio:clear_glass_m",
+      "enderio:clear_glass_m",
+      "enderio:clear_glass_m",
+      "enderio:clear_glass_m",
+      "minecraft:redstone_torch",
+      "enderio:clear_glass_m",
+      "enderio:clear_glass_m",
+      "enderio:clear_glass_m",
+      "enderio:clear_glass_m"
+    ]
+  },
+  "enderio:clear_glass_np": {
+    "result": "enderio:clear_glass_np",
+    "count": 8,
+    "ingredients": [
+      "enderio:clear_glass_p",
+      "enderio:clear_glass_p",
+      "enderio:clear_glass_p",
+      "enderio:clear_glass_p",
+      "minecraft:redstone_torch",
+      "enderio:clear_glass_p",
+      "enderio:clear_glass_p",
+      "enderio:clear_glass_p",
+      "enderio:clear_glass_p"
+    ]
+  },
+  "enderio:clear_glass_a_black": {
+    "result": "enderio:clear_glass_a_black",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:black"
+    ]
+  },
+  "enderio:clear_glass_a_blue": {
+    "result": "enderio:clear_glass_a_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:blue"
+    ]
+  },
+  "enderio:clear_glass_a_brown": {
+    "result": "enderio:clear_glass_a_brown",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:brown"
+    ]
+  },
+  "enderio:clear_glass_a_cyan": {
+    "result": "enderio:clear_glass_a_cyan",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:cyan"
+    ]
+  },
+  "enderio:clear_glass_a_gray": {
+    "result": "enderio:clear_glass_a_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:gray"
+    ]
+  },
+  "enderio:clear_glass_a_green": {
+    "result": "enderio:clear_glass_a_green",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:green"
+    ]
+  },
+  "enderio:clear_glass_a_light_blue": {
+    "result": "enderio:clear_glass_a_light_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:light_blue"
+    ]
+  },
+  "enderio:clear_glass_a_light_gray": {
+    "result": "enderio:clear_glass_a_light_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:light_gray"
+    ]
+  },
+  "enderio:clear_glass_a_lime": {
+    "result": "enderio:clear_glass_a_lime",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:lime"
+    ]
+  },
+  "enderio:clear_glass_a_magenta": {
+    "result": "enderio:clear_glass_a_magenta",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:magenta"
+    ]
+  },
+  "enderio:clear_glass_a_orange": {
+    "result": "enderio:clear_glass_a_orange",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:orange"
+    ]
+  },
+  "enderio:clear_glass_a_pink": {
+    "result": "enderio:clear_glass_a_pink",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:pink"
+    ]
+  },
+  "enderio:clear_glass_a_purple": {
+    "result": "enderio:clear_glass_a_purple",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:purple"
+    ]
+  },
+  "enderio:clear_glass_a_red": {
+    "result": "enderio:clear_glass_a_red",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:red"
+    ]
+  },
+  "enderio:clear_glass_a_white": {
+    "result": "enderio:clear_glass_a_white",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:white"
+    ]
+  },
+  "enderio:clear_glass_a_yellow": {
+    "result": "enderio:clear_glass_a_yellow",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:yellow"
+    ]
+  },
+  "enderio:clear_glass_black": {
+    "result": "enderio:clear_glass_black",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:black"
+    ]
+  },
+  "enderio:clear_glass_blue": {
+    "result": "enderio:clear_glass_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:blue"
+    ]
+  },
+  "enderio:clear_glass_brown": {
+    "result": "enderio:clear_glass_brown",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:brown"
+    ]
+  },
+  "enderio:clear_glass_cyan": {
+    "result": "enderio:clear_glass_cyan",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:cyan"
+    ]
+  },
+  "enderio:clear_glass_da_black": {
+    "result": "enderio:clear_glass_da_black",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:black"
+    ]
+  },
+  "enderio:clear_glass_da_blue": {
+    "result": "enderio:clear_glass_da_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:blue"
+    ]
+  },
+  "enderio:clear_glass_da_brown": {
+    "result": "enderio:clear_glass_da_brown",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:brown"
+    ]
+  },
+  "enderio:clear_glass_da_cyan": {
+    "result": "enderio:clear_glass_da_cyan",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:cyan"
+    ]
+  },
+  "enderio:clear_glass_da_gray": {
+    "result": "enderio:clear_glass_da_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:gray"
+    ]
+  },
+  "enderio:clear_glass_da_green": {
+    "result": "enderio:clear_glass_da_green",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:green"
+    ]
+  },
+  "enderio:clear_glass_da_light_blue": {
+    "result": "enderio:clear_glass_da_light_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:light_blue"
+    ]
+  },
+  "enderio:clear_glass_da_light_gray": {
+    "result": "enderio:clear_glass_da_light_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:light_gray"
+    ]
+  },
+  "enderio:clear_glass_da_lime": {
+    "result": "enderio:clear_glass_da_lime",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:lime"
+    ]
+  },
+  "enderio:clear_glass_da_magenta": {
+    "result": "enderio:clear_glass_da_magenta",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:magenta"
+    ]
+  },
+  "enderio:clear_glass_da_orange": {
+    "result": "enderio:clear_glass_da_orange",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:orange"
+    ]
+  },
+  "enderio:clear_glass_da_pink": {
+    "result": "enderio:clear_glass_da_pink",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:pink"
+    ]
+  },
+  "enderio:clear_glass_da_purple": {
+    "result": "enderio:clear_glass_da_purple",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:purple"
+    ]
+  },
+  "enderio:clear_glass_da_red": {
+    "result": "enderio:clear_glass_da_red",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:red"
+    ]
+  },
+  "enderio:clear_glass_da_white": {
+    "result": "enderio:clear_glass_da_white",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:white"
+    ]
+  },
+  "enderio:clear_glass_da_yellow": {
+    "result": "enderio:clear_glass_da_yellow",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:yellow"
+    ]
+  },
+  "enderio:clear_glass_dm_black": {
+    "result": "enderio:clear_glass_dm_black",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:black"
+    ]
+  },
+  "enderio:clear_glass_dm_blue": {
+    "result": "enderio:clear_glass_dm_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:blue"
+    ]
+  },
+  "enderio:clear_glass_dm_brown": {
+    "result": "enderio:clear_glass_dm_brown",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:brown"
+    ]
+  },
+  "enderio:clear_glass_dm_cyan": {
+    "result": "enderio:clear_glass_dm_cyan",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:cyan"
+    ]
+  },
+  "enderio:clear_glass_dm_gray": {
+    "result": "enderio:clear_glass_dm_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:gray"
+    ]
+  },
+  "enderio:clear_glass_dm_green": {
+    "result": "enderio:clear_glass_dm_green",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:green"
+    ]
+  },
+  "enderio:clear_glass_dm_light_blue": {
+    "result": "enderio:clear_glass_dm_light_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:light_blue"
+    ]
+  },
+  "enderio:clear_glass_dm_light_gray": {
+    "result": "enderio:clear_glass_dm_light_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:light_gray"
+    ]
+  },
+  "enderio:clear_glass_dm_lime": {
+    "result": "enderio:clear_glass_dm_lime",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:lime"
+    ]
+  },
+  "enderio:clear_glass_dm_magenta": {
+    "result": "enderio:clear_glass_dm_magenta",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:magenta"
+    ]
+  },
+  "enderio:clear_glass_dm_orange": {
+    "result": "enderio:clear_glass_dm_orange",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:orange"
+    ]
+  },
+  "enderio:clear_glass_dm_pink": {
+    "result": "enderio:clear_glass_dm_pink",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:pink"
+    ]
+  },
+  "enderio:clear_glass_dm_purple": {
+    "result": "enderio:clear_glass_dm_purple",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:purple"
+    ]
+  },
+  "enderio:clear_glass_dm_red": {
+    "result": "enderio:clear_glass_dm_red",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:red"
+    ]
+  },
+  "enderio:clear_glass_dm_white": {
+    "result": "enderio:clear_glass_dm_white",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:white"
+    ]
+  },
+  "enderio:clear_glass_dm_yellow": {
+    "result": "enderio:clear_glass_dm_yellow",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:yellow"
+    ]
+  },
+  "enderio:clear_glass_dna_black": {
+    "result": "enderio:clear_glass_dna_black",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:black"
+    ]
+  },
+  "enderio:clear_glass_dna_blue": {
+    "result": "enderio:clear_glass_dna_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:blue"
+    ]
+  },
+  "enderio:clear_glass_dna_brown": {
+    "result": "enderio:clear_glass_dna_brown",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:brown"
+    ]
+  },
+  "enderio:clear_glass_dna_cyan": {
+    "result": "enderio:clear_glass_dna_cyan",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:cyan"
+    ]
+  },
+  "enderio:clear_glass_dna_gray": {
+    "result": "enderio:clear_glass_dna_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:gray"
+    ]
+  },
+  "enderio:clear_glass_dna_green": {
+    "result": "enderio:clear_glass_dna_green",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:green"
+    ]
+  },
+  "enderio:clear_glass_dna_light_blue": {
+    "result": "enderio:clear_glass_dna_light_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:light_blue"
+    ]
+  },
+  "enderio:clear_glass_dna_light_gray": {
+    "result": "enderio:clear_glass_dna_light_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:light_gray"
+    ]
+  },
+  "enderio:clear_glass_dna_lime": {
+    "result": "enderio:clear_glass_dna_lime",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:lime"
+    ]
+  },
+  "enderio:clear_glass_dna_magenta": {
+    "result": "enderio:clear_glass_dna_magenta",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:magenta"
+    ]
+  },
+  "enderio:clear_glass_dna_orange": {
+    "result": "enderio:clear_glass_dna_orange",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:orange"
+    ]
+  },
+  "enderio:clear_glass_dna_pink": {
+    "result": "enderio:clear_glass_dna_pink",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:pink"
+    ]
+  },
+  "enderio:clear_glass_dna_purple": {
+    "result": "enderio:clear_glass_dna_purple",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:purple"
+    ]
+  },
+  "enderio:clear_glass_dna_red": {
+    "result": "enderio:clear_glass_dna_red",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:red"
+    ]
+  },
+  "enderio:clear_glass_dna_white": {
+    "result": "enderio:clear_glass_dna_white",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:white"
+    ]
+  },
+  "enderio:clear_glass_dna_yellow": {
+    "result": "enderio:clear_glass_dna_yellow",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:yellow"
+    ]
+  },
+  "enderio:clear_glass_dnm_black": {
+    "result": "enderio:clear_glass_dnm_black",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:black"
+    ]
+  },
+  "enderio:clear_glass_dnm_blue": {
+    "result": "enderio:clear_glass_dnm_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:blue"
+    ]
+  },
+  "enderio:clear_glass_dnm_brown": {
+    "result": "enderio:clear_glass_dnm_brown",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:brown"
+    ]
+  },
+  "enderio:clear_glass_dnm_cyan": {
+    "result": "enderio:clear_glass_dnm_cyan",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:cyan"
+    ]
+  },
+  "enderio:clear_glass_dnm_gray": {
+    "result": "enderio:clear_glass_dnm_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:gray"
+    ]
+  },
+  "enderio:clear_glass_dnm_green": {
+    "result": "enderio:clear_glass_dnm_green",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:green"
+    ]
+  },
+  "enderio:clear_glass_dnm_light_blue": {
+    "result": "enderio:clear_glass_dnm_light_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:light_blue"
+    ]
+  },
+  "enderio:clear_glass_dnm_light_gray": {
+    "result": "enderio:clear_glass_dnm_light_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:light_gray"
+    ]
+  },
+  "enderio:clear_glass_dnm_lime": {
+    "result": "enderio:clear_glass_dnm_lime",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:lime"
+    ]
+  },
+  "enderio:clear_glass_dnm_magenta": {
+    "result": "enderio:clear_glass_dnm_magenta",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:magenta"
+    ]
+  },
+  "enderio:clear_glass_dnm_orange": {
+    "result": "enderio:clear_glass_dnm_orange",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:orange"
+    ]
+  },
+  "enderio:clear_glass_dnm_pink": {
+    "result": "enderio:clear_glass_dnm_pink",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:pink"
+    ]
+  },
+  "enderio:clear_glass_dnm_purple": {
+    "result": "enderio:clear_glass_dnm_purple",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:purple"
+    ]
+  },
+  "enderio:clear_glass_dnm_red": {
+    "result": "enderio:clear_glass_dnm_red",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:red"
+    ]
+  },
+  "enderio:clear_glass_dnm_white": {
+    "result": "enderio:clear_glass_dnm_white",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:white"
+    ]
+  },
+  "enderio:clear_glass_dnm_yellow": {
+    "result": "enderio:clear_glass_dnm_yellow",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:yellow"
+    ]
+  },
+  "enderio:clear_glass_dnp_black": {
+    "result": "enderio:clear_glass_dnp_black",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:black"
+    ]
+  },
+  "enderio:clear_glass_dnp_blue": {
+    "result": "enderio:clear_glass_dnp_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:blue"
+    ]
+  },
+  "enderio:clear_glass_dnp_brown": {
+    "result": "enderio:clear_glass_dnp_brown",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:brown"
+    ]
+  },
+  "enderio:clear_glass_dnp_cyan": {
+    "result": "enderio:clear_glass_dnp_cyan",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:cyan"
+    ]
+  },
+  "enderio:clear_glass_dnp_gray": {
+    "result": "enderio:clear_glass_dnp_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:gray"
+    ]
+  },
+  "enderio:clear_glass_dnp_green": {
+    "result": "enderio:clear_glass_dnp_green",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:green"
+    ]
+  },
+  "enderio:clear_glass_dnp_light_blue": {
+    "result": "enderio:clear_glass_dnp_light_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:light_blue"
+    ]
+  },
+  "enderio:clear_glass_dnp_light_gray": {
+    "result": "enderio:clear_glass_dnp_light_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:light_gray"
+    ]
+  },
+  "enderio:clear_glass_dnp_lime": {
+    "result": "enderio:clear_glass_dnp_lime",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:lime"
+    ]
+  },
+  "enderio:clear_glass_dnp_magenta": {
+    "result": "enderio:clear_glass_dnp_magenta",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:magenta"
+    ]
+  },
+  "enderio:clear_glass_dnp_orange": {
+    "result": "enderio:clear_glass_dnp_orange",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:orange"
+    ]
+  },
+  "enderio:clear_glass_dnp_pink": {
+    "result": "enderio:clear_glass_dnp_pink",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:pink"
+    ]
+  },
+  "enderio:clear_glass_dnp_purple": {
+    "result": "enderio:clear_glass_dnp_purple",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:purple"
+    ]
+  },
+  "enderio:clear_glass_dnp_red": {
+    "result": "enderio:clear_glass_dnp_red",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:red"
+    ]
+  },
+  "enderio:clear_glass_dnp_white": {
+    "result": "enderio:clear_glass_dnp_white",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:white"
+    ]
+  },
+  "enderio:clear_glass_dnp_yellow": {
+    "result": "enderio:clear_glass_dnp_yellow",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:yellow"
+    ]
+  },
+  "enderio:clear_glass_dp_black": {
+    "result": "enderio:clear_glass_dp_black",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:black"
+    ]
+  },
+  "enderio:clear_glass_dp_blue": {
+    "result": "enderio:clear_glass_dp_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:blue"
+    ]
+  },
+  "enderio:clear_glass_dp_brown": {
+    "result": "enderio:clear_glass_dp_brown",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:brown"
+    ]
+  },
+  "enderio:clear_glass_dp_cyan": {
+    "result": "enderio:clear_glass_dp_cyan",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:cyan"
+    ]
+  },
+  "enderio:clear_glass_dp_gray": {
+    "result": "enderio:clear_glass_dp_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:gray"
+    ]
+  },
+  "enderio:clear_glass_dp_green": {
+    "result": "enderio:clear_glass_dp_green",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:green"
+    ]
+  },
+  "enderio:clear_glass_dp_light_blue": {
+    "result": "enderio:clear_glass_dp_light_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:light_blue"
+    ]
+  },
+  "enderio:clear_glass_dp_light_gray": {
+    "result": "enderio:clear_glass_dp_light_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:light_gray"
+    ]
+  },
+  "enderio:clear_glass_dp_lime": {
+    "result": "enderio:clear_glass_dp_lime",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:lime"
+    ]
+  },
+  "enderio:clear_glass_dp_magenta": {
+    "result": "enderio:clear_glass_dp_magenta",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:magenta"
+    ]
+  },
+  "enderio:clear_glass_dp_orange": {
+    "result": "enderio:clear_glass_dp_orange",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:orange"
+    ]
+  },
+  "enderio:clear_glass_dp_pink": {
+    "result": "enderio:clear_glass_dp_pink",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:pink"
+    ]
+  },
+  "enderio:clear_glass_dp_purple": {
+    "result": "enderio:clear_glass_dp_purple",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:purple"
+    ]
+  },
+  "enderio:clear_glass_dp_red": {
+    "result": "enderio:clear_glass_dp_red",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:red"
+    ]
+  },
+  "enderio:clear_glass_dp_white": {
+    "result": "enderio:clear_glass_dp_white",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:white"
+    ]
+  },
+  "enderio:clear_glass_dp_yellow": {
+    "result": "enderio:clear_glass_dp_yellow",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:yellow"
+    ]
+  },
+  "enderio:clear_glass_d_black": {
+    "result": "enderio:clear_glass_d_black",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:black"
+    ]
+  },
+  "enderio:clear_glass_d_blue": {
+    "result": "enderio:clear_glass_d_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:blue"
+    ]
+  },
+  "enderio:clear_glass_d_brown": {
+    "result": "enderio:clear_glass_d_brown",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:brown"
+    ]
+  },
+  "enderio:clear_glass_d_cyan": {
+    "result": "enderio:clear_glass_d_cyan",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:cyan"
+    ]
+  },
+  "enderio:clear_glass_d_gray": {
+    "result": "enderio:clear_glass_d_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:gray"
+    ]
+  },
+  "enderio:clear_glass_d_green": {
+    "result": "enderio:clear_glass_d_green",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:green"
+    ]
+  },
+  "enderio:clear_glass_d_light_blue": {
+    "result": "enderio:clear_glass_d_light_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:light_blue"
+    ]
+  },
+  "enderio:clear_glass_d_light_gray": {
+    "result": "enderio:clear_glass_d_light_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:light_gray"
+    ]
+  },
+  "enderio:clear_glass_d_lime": {
+    "result": "enderio:clear_glass_d_lime",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:lime"
+    ]
+  },
+  "enderio:clear_glass_d_magenta": {
+    "result": "enderio:clear_glass_d_magenta",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:magenta"
+    ]
+  },
+  "enderio:clear_glass_d_orange": {
+    "result": "enderio:clear_glass_d_orange",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:orange"
+    ]
+  },
+  "enderio:clear_glass_d_pink": {
+    "result": "enderio:clear_glass_d_pink",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:pink"
+    ]
+  },
+  "enderio:clear_glass_d_purple": {
+    "result": "enderio:clear_glass_d_purple",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:purple"
+    ]
+  },
+  "enderio:clear_glass_d_red": {
+    "result": "enderio:clear_glass_d_red",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:red"
+    ]
+  },
+  "enderio:clear_glass_d_white": {
+    "result": "enderio:clear_glass_d_white",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:white"
+    ]
+  },
+  "enderio:clear_glass_d_yellow": {
+    "result": "enderio:clear_glass_d_yellow",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:yellow"
+    ]
+  },
+  "enderio:clear_glass_ea_black": {
+    "result": "enderio:clear_glass_ea_black",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:black"
+    ]
+  },
+  "enderio:clear_glass_ea_blue": {
+    "result": "enderio:clear_glass_ea_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:blue"
+    ]
+  },
+  "enderio:clear_glass_ea_brown": {
+    "result": "enderio:clear_glass_ea_brown",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:brown"
+    ]
+  },
+  "enderio:clear_glass_ea_cyan": {
+    "result": "enderio:clear_glass_ea_cyan",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:cyan"
+    ]
+  },
+  "enderio:clear_glass_ea_gray": {
+    "result": "enderio:clear_glass_ea_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:gray"
+    ]
+  },
+  "enderio:clear_glass_ea_green": {
+    "result": "enderio:clear_glass_ea_green",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:green"
+    ]
+  },
+  "enderio:clear_glass_ea_light_blue": {
+    "result": "enderio:clear_glass_ea_light_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:light_blue"
+    ]
+  },
+  "enderio:clear_glass_ea_light_gray": {
+    "result": "enderio:clear_glass_ea_light_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:light_gray"
+    ]
+  },
+  "enderio:clear_glass_ea_lime": {
+    "result": "enderio:clear_glass_ea_lime",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:lime"
+    ]
+  },
+  "enderio:clear_glass_ea_magenta": {
+    "result": "enderio:clear_glass_ea_magenta",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:magenta"
+    ]
+  },
+  "enderio:clear_glass_ea_orange": {
+    "result": "enderio:clear_glass_ea_orange",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:orange"
+    ]
+  },
+  "enderio:clear_glass_ea_pink": {
+    "result": "enderio:clear_glass_ea_pink",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:pink"
+    ]
+  },
+  "enderio:clear_glass_ea_purple": {
+    "result": "enderio:clear_glass_ea_purple",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:purple"
+    ]
+  },
+  "enderio:clear_glass_ea_red": {
+    "result": "enderio:clear_glass_ea_red",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:red"
+    ]
+  },
+  "enderio:clear_glass_ea_white": {
+    "result": "enderio:clear_glass_ea_white",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:white"
+    ]
+  },
+  "enderio:clear_glass_ea_yellow": {
+    "result": "enderio:clear_glass_ea_yellow",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:yellow"
+    ]
+  },
+  "enderio:clear_glass_em_black": {
+    "result": "enderio:clear_glass_em_black",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:black"
+    ]
+  },
+  "enderio:clear_glass_em_blue": {
+    "result": "enderio:clear_glass_em_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:blue"
+    ]
+  },
+  "enderio:clear_glass_em_brown": {
+    "result": "enderio:clear_glass_em_brown",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:brown"
+    ]
+  },
+  "enderio:clear_glass_em_cyan": {
+    "result": "enderio:clear_glass_em_cyan",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:cyan"
+    ]
+  },
+  "enderio:clear_glass_em_gray": {
+    "result": "enderio:clear_glass_em_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:gray"
+    ]
+  },
+  "enderio:clear_glass_em_green": {
+    "result": "enderio:clear_glass_em_green",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:green"
+    ]
+  },
+  "enderio:clear_glass_em_light_blue": {
+    "result": "enderio:clear_glass_em_light_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:light_blue"
+    ]
+  },
+  "enderio:clear_glass_em_light_gray": {
+    "result": "enderio:clear_glass_em_light_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:light_gray"
+    ]
+  },
+  "enderio:clear_glass_em_lime": {
+    "result": "enderio:clear_glass_em_lime",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:lime"
+    ]
+  },
+  "enderio:clear_glass_em_magenta": {
+    "result": "enderio:clear_glass_em_magenta",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:magenta"
+    ]
+  },
+  "enderio:clear_glass_em_orange": {
+    "result": "enderio:clear_glass_em_orange",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:orange"
+    ]
+  },
+  "enderio:clear_glass_em_pink": {
+    "result": "enderio:clear_glass_em_pink",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:pink"
+    ]
+  },
+  "enderio:clear_glass_em_purple": {
+    "result": "enderio:clear_glass_em_purple",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:purple"
+    ]
+  },
+  "enderio:clear_glass_em_red": {
+    "result": "enderio:clear_glass_em_red",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:red"
+    ]
+  },
+  "enderio:clear_glass_em_white": {
+    "result": "enderio:clear_glass_em_white",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:white"
+    ]
+  },
+  "enderio:clear_glass_em_yellow": {
+    "result": "enderio:clear_glass_em_yellow",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:yellow"
+    ]
+  },
+  "enderio:clear_glass_ena_black": {
+    "result": "enderio:clear_glass_ena_black",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:black"
+    ]
+  },
+  "enderio:clear_glass_ena_blue": {
+    "result": "enderio:clear_glass_ena_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:blue"
+    ]
+  },
+  "enderio:clear_glass_ena_brown": {
+    "result": "enderio:clear_glass_ena_brown",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:brown"
+    ]
+  },
+  "enderio:clear_glass_ena_cyan": {
+    "result": "enderio:clear_glass_ena_cyan",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:cyan"
+    ]
+  },
+  "enderio:clear_glass_ena_gray": {
+    "result": "enderio:clear_glass_ena_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:gray"
+    ]
+  },
+  "enderio:clear_glass_ena_green": {
+    "result": "enderio:clear_glass_ena_green",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:green"
+    ]
+  },
+  "enderio:clear_glass_ena_light_blue": {
+    "result": "enderio:clear_glass_ena_light_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:light_blue"
+    ]
+  },
+  "enderio:clear_glass_ena_light_gray": {
+    "result": "enderio:clear_glass_ena_light_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:light_gray"
+    ]
+  },
+  "enderio:clear_glass_ena_lime": {
+    "result": "enderio:clear_glass_ena_lime",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:lime"
+    ]
+  },
+  "enderio:clear_glass_ena_magenta": {
+    "result": "enderio:clear_glass_ena_magenta",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:magenta"
+    ]
+  },
+  "enderio:clear_glass_ena_orange": {
+    "result": "enderio:clear_glass_ena_orange",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:orange"
+    ]
+  },
+  "enderio:clear_glass_ena_pink": {
+    "result": "enderio:clear_glass_ena_pink",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:pink"
+    ]
+  },
+  "enderio:clear_glass_ena_purple": {
+    "result": "enderio:clear_glass_ena_purple",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:purple"
+    ]
+  },
+  "enderio:clear_glass_ena_red": {
+    "result": "enderio:clear_glass_ena_red",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:red"
+    ]
+  },
+  "enderio:clear_glass_ena_white": {
+    "result": "enderio:clear_glass_ena_white",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:white"
+    ]
+  },
+  "enderio:clear_glass_ena_yellow": {
+    "result": "enderio:clear_glass_ena_yellow",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:yellow"
+    ]
+  },
+  "enderio:clear_glass_enm_black": {
+    "result": "enderio:clear_glass_enm_black",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:black"
+    ]
+  },
+  "enderio:clear_glass_enm_blue": {
+    "result": "enderio:clear_glass_enm_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:blue"
+    ]
+  },
+  "enderio:clear_glass_enm_brown": {
+    "result": "enderio:clear_glass_enm_brown",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:brown"
+    ]
+  },
+  "enderio:clear_glass_enm_cyan": {
+    "result": "enderio:clear_glass_enm_cyan",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:cyan"
+    ]
+  },
+  "enderio:clear_glass_enm_gray": {
+    "result": "enderio:clear_glass_enm_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:gray"
+    ]
+  },
+  "enderio:clear_glass_enm_green": {
+    "result": "enderio:clear_glass_enm_green",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:green"
+    ]
+  },
+  "enderio:clear_glass_enm_light_blue": {
+    "result": "enderio:clear_glass_enm_light_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:light_blue"
+    ]
+  },
+  "enderio:clear_glass_enm_light_gray": {
+    "result": "enderio:clear_glass_enm_light_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:light_gray"
+    ]
+  },
+  "enderio:clear_glass_enm_lime": {
+    "result": "enderio:clear_glass_enm_lime",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:lime"
+    ]
+  },
+  "enderio:clear_glass_enm_magenta": {
+    "result": "enderio:clear_glass_enm_magenta",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:magenta"
+    ]
+  },
+  "enderio:clear_glass_enm_orange": {
+    "result": "enderio:clear_glass_enm_orange",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:orange"
+    ]
+  },
+  "enderio:clear_glass_enm_pink": {
+    "result": "enderio:clear_glass_enm_pink",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:pink"
+    ]
+  },
+  "enderio:clear_glass_enm_purple": {
+    "result": "enderio:clear_glass_enm_purple",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:purple"
+    ]
+  },
+  "enderio:clear_glass_enm_red": {
+    "result": "enderio:clear_glass_enm_red",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:red"
+    ]
+  },
+  "enderio:clear_glass_enm_white": {
+    "result": "enderio:clear_glass_enm_white",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:white"
+    ]
+  },
+  "enderio:clear_glass_enm_yellow": {
+    "result": "enderio:clear_glass_enm_yellow",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:yellow"
+    ]
+  },
+  "enderio:clear_glass_enp_black": {
+    "result": "enderio:clear_glass_enp_black",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:black"
+    ]
+  },
+  "enderio:clear_glass_enp_blue": {
+    "result": "enderio:clear_glass_enp_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:blue"
+    ]
+  },
+  "enderio:clear_glass_enp_brown": {
+    "result": "enderio:clear_glass_enp_brown",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:brown"
+    ]
+  },
+  "enderio:clear_glass_enp_cyan": {
+    "result": "enderio:clear_glass_enp_cyan",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:cyan"
+    ]
+  },
+  "enderio:clear_glass_enp_gray": {
+    "result": "enderio:clear_glass_enp_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:gray"
+    ]
+  },
+  "enderio:clear_glass_enp_green": {
+    "result": "enderio:clear_glass_enp_green",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:green"
+    ]
+  },
+  "enderio:clear_glass_enp_light_blue": {
+    "result": "enderio:clear_glass_enp_light_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:light_blue"
+    ]
+  },
+  "enderio:clear_glass_enp_light_gray": {
+    "result": "enderio:clear_glass_enp_light_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:light_gray"
+    ]
+  },
+  "enderio:clear_glass_enp_lime": {
+    "result": "enderio:clear_glass_enp_lime",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:lime"
+    ]
+  },
+  "enderio:clear_glass_enp_magenta": {
+    "result": "enderio:clear_glass_enp_magenta",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:magenta"
+    ]
+  },
+  "enderio:clear_glass_enp_orange": {
+    "result": "enderio:clear_glass_enp_orange",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:orange"
+    ]
+  },
+  "enderio:clear_glass_enp_pink": {
+    "result": "enderio:clear_glass_enp_pink",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:pink"
+    ]
+  },
+  "enderio:clear_glass_enp_purple": {
+    "result": "enderio:clear_glass_enp_purple",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:purple"
+    ]
+  },
+  "enderio:clear_glass_enp_red": {
+    "result": "enderio:clear_glass_enp_red",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:red"
+    ]
+  },
+  "enderio:clear_glass_enp_white": {
+    "result": "enderio:clear_glass_enp_white",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:white"
+    ]
+  },
+  "enderio:clear_glass_enp_yellow": {
+    "result": "enderio:clear_glass_enp_yellow",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:yellow"
+    ]
+  },
+  "enderio:clear_glass_ep_black": {
+    "result": "enderio:clear_glass_ep_black",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:black"
+    ]
+  },
+  "enderio:clear_glass_ep_blue": {
+    "result": "enderio:clear_glass_ep_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:blue"
+    ]
+  },
+  "enderio:clear_glass_ep_brown": {
+    "result": "enderio:clear_glass_ep_brown",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:brown"
+    ]
+  },
+  "enderio:clear_glass_ep_cyan": {
+    "result": "enderio:clear_glass_ep_cyan",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:cyan"
+    ]
+  },
+  "enderio:clear_glass_ep_gray": {
+    "result": "enderio:clear_glass_ep_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:gray"
+    ]
+  },
+  "enderio:clear_glass_ep_green": {
+    "result": "enderio:clear_glass_ep_green",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:green"
+    ]
+  },
+  "enderio:clear_glass_ep_light_blue": {
+    "result": "enderio:clear_glass_ep_light_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:light_blue"
+    ]
+  },
+  "enderio:clear_glass_ep_light_gray": {
+    "result": "enderio:clear_glass_ep_light_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:light_gray"
+    ]
+  },
+  "enderio:clear_glass_ep_lime": {
+    "result": "enderio:clear_glass_ep_lime",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:lime"
+    ]
+  },
+  "enderio:clear_glass_ep_magenta": {
+    "result": "enderio:clear_glass_ep_magenta",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:magenta"
+    ]
+  },
+  "enderio:clear_glass_ep_orange": {
+    "result": "enderio:clear_glass_ep_orange",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:orange"
+    ]
+  },
+  "enderio:clear_glass_ep_pink": {
+    "result": "enderio:clear_glass_ep_pink",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:pink"
+    ]
+  },
+  "enderio:clear_glass_ep_purple": {
+    "result": "enderio:clear_glass_ep_purple",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:purple"
+    ]
+  },
+  "enderio:clear_glass_ep_red": {
+    "result": "enderio:clear_glass_ep_red",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:red"
+    ]
+  },
+  "enderio:clear_glass_ep_white": {
+    "result": "enderio:clear_glass_ep_white",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:white"
+    ]
+  },
+  "enderio:clear_glass_ep_yellow": {
+    "result": "enderio:clear_glass_ep_yellow",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:yellow"
+    ]
+  },
+  "enderio:clear_glass_e_black": {
+    "result": "enderio:clear_glass_e_black",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:black"
+    ]
+  },
+  "enderio:clear_glass_e_blue": {
+    "result": "enderio:clear_glass_e_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:blue"
+    ]
+  },
+  "enderio:clear_glass_e_brown": {
+    "result": "enderio:clear_glass_e_brown",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:brown"
+    ]
+  },
+  "enderio:clear_glass_e_cyan": {
+    "result": "enderio:clear_glass_e_cyan",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:cyan"
+    ]
+  },
+  "enderio:clear_glass_e_gray": {
+    "result": "enderio:clear_glass_e_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:gray"
+    ]
+  },
+  "enderio:clear_glass_e_green": {
+    "result": "enderio:clear_glass_e_green",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:green"
+    ]
+  },
+  "enderio:clear_glass_e_light_blue": {
+    "result": "enderio:clear_glass_e_light_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:light_blue"
+    ]
+  },
+  "enderio:clear_glass_e_light_gray": {
+    "result": "enderio:clear_glass_e_light_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:light_gray"
+    ]
+  },
+  "enderio:clear_glass_e_lime": {
+    "result": "enderio:clear_glass_e_lime",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:lime"
+    ]
+  },
+  "enderio:clear_glass_e_magenta": {
+    "result": "enderio:clear_glass_e_magenta",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:magenta"
+    ]
+  },
+  "enderio:clear_glass_e_orange": {
+    "result": "enderio:clear_glass_e_orange",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:orange"
+    ]
+  },
+  "enderio:clear_glass_e_pink": {
+    "result": "enderio:clear_glass_e_pink",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:pink"
+    ]
+  },
+  "enderio:clear_glass_e_purple": {
+    "result": "enderio:clear_glass_e_purple",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:purple"
+    ]
+  },
+  "enderio:clear_glass_e_red": {
+    "result": "enderio:clear_glass_e_red",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:red"
+    ]
+  },
+  "enderio:clear_glass_e_white": {
+    "result": "enderio:clear_glass_e_white",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:white"
+    ]
+  },
+  "enderio:clear_glass_e_yellow": {
+    "result": "enderio:clear_glass_e_yellow",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:yellow"
+    ]
+  },
+  "enderio:clear_glass_gray": {
+    "result": "enderio:clear_glass_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:gray"
+    ]
+  },
+  "enderio:clear_glass_green": {
+    "result": "enderio:clear_glass_green",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:green"
+    ]
+  },
+  "enderio:clear_glass_light_blue": {
+    "result": "enderio:clear_glass_light_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:light_blue"
+    ]
+  },
+  "enderio:clear_glass_light_gray": {
+    "result": "enderio:clear_glass_light_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:light_gray"
+    ]
+  },
+  "enderio:clear_glass_lime": {
+    "result": "enderio:clear_glass_lime",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:lime"
+    ]
+  },
+  "enderio:clear_glass_magenta": {
+    "result": "enderio:clear_glass_magenta",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:magenta"
+    ]
+  },
+  "enderio:clear_glass_m_black": {
+    "result": "enderio:clear_glass_m_black",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:black"
+    ]
+  },
+  "enderio:clear_glass_m_blue": {
+    "result": "enderio:clear_glass_m_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:blue"
+    ]
+  },
+  "enderio:clear_glass_m_brown": {
+    "result": "enderio:clear_glass_m_brown",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:brown"
+    ]
+  },
+  "enderio:clear_glass_m_cyan": {
+    "result": "enderio:clear_glass_m_cyan",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:cyan"
+    ]
+  },
+  "enderio:clear_glass_m_gray": {
+    "result": "enderio:clear_glass_m_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:gray"
+    ]
+  },
+  "enderio:clear_glass_m_green": {
+    "result": "enderio:clear_glass_m_green",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:green"
+    ]
+  },
+  "enderio:clear_glass_m_light_blue": {
+    "result": "enderio:clear_glass_m_light_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:light_blue"
+    ]
+  },
+  "enderio:clear_glass_m_light_gray": {
+    "result": "enderio:clear_glass_m_light_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:light_gray"
+    ]
+  },
+  "enderio:clear_glass_m_lime": {
+    "result": "enderio:clear_glass_m_lime",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:lime"
+    ]
+  },
+  "enderio:clear_glass_m_magenta": {
+    "result": "enderio:clear_glass_m_magenta",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:magenta"
+    ]
+  },
+  "enderio:clear_glass_m_orange": {
+    "result": "enderio:clear_glass_m_orange",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:orange"
+    ]
+  },
+  "enderio:clear_glass_m_pink": {
+    "result": "enderio:clear_glass_m_pink",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:pink"
+    ]
+  },
+  "enderio:clear_glass_m_purple": {
+    "result": "enderio:clear_glass_m_purple",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:purple"
+    ]
+  },
+  "enderio:clear_glass_m_red": {
+    "result": "enderio:clear_glass_m_red",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:red"
+    ]
+  },
+  "enderio:clear_glass_m_white": {
+    "result": "enderio:clear_glass_m_white",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:white"
+    ]
+  },
+  "enderio:clear_glass_m_yellow": {
+    "result": "enderio:clear_glass_m_yellow",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:yellow"
+    ]
+  },
+  "enderio:clear_glass_na_black": {
+    "result": "enderio:clear_glass_na_black",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:black"
+    ]
+  },
+  "enderio:clear_glass_na_blue": {
+    "result": "enderio:clear_glass_na_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:blue"
+    ]
+  },
+  "enderio:clear_glass_na_brown": {
+    "result": "enderio:clear_glass_na_brown",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:brown"
+    ]
+  },
+  "enderio:clear_glass_na_cyan": {
+    "result": "enderio:clear_glass_na_cyan",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:cyan"
+    ]
+  },
+  "enderio:clear_glass_na_gray": {
+    "result": "enderio:clear_glass_na_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:gray"
+    ]
+  },
+  "enderio:clear_glass_na_green": {
+    "result": "enderio:clear_glass_na_green",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:green"
+    ]
+  },
+  "enderio:clear_glass_na_light_blue": {
+    "result": "enderio:clear_glass_na_light_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:light_blue"
+    ]
+  },
+  "enderio:clear_glass_na_light_gray": {
+    "result": "enderio:clear_glass_na_light_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:light_gray"
+    ]
+  },
+  "enderio:clear_glass_na_lime": {
+    "result": "enderio:clear_glass_na_lime",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:lime"
+    ]
+  },
+  "enderio:clear_glass_na_magenta": {
+    "result": "enderio:clear_glass_na_magenta",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:magenta"
+    ]
+  },
+  "enderio:clear_glass_na_orange": {
+    "result": "enderio:clear_glass_na_orange",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:orange"
+    ]
+  },
+  "enderio:clear_glass_na_pink": {
+    "result": "enderio:clear_glass_na_pink",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:pink"
+    ]
+  },
+  "enderio:clear_glass_na_purple": {
+    "result": "enderio:clear_glass_na_purple",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:purple"
+    ]
+  },
+  "enderio:clear_glass_na_red": {
+    "result": "enderio:clear_glass_na_red",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:red"
+    ]
+  },
+  "enderio:clear_glass_na_white": {
+    "result": "enderio:clear_glass_na_white",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:white"
+    ]
+  },
+  "enderio:clear_glass_na_yellow": {
+    "result": "enderio:clear_glass_na_yellow",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:yellow"
+    ]
+  },
+  "enderio:clear_glass_nm_black": {
+    "result": "enderio:clear_glass_nm_black",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:black"
+    ]
+  },
+  "enderio:clear_glass_nm_blue": {
+    "result": "enderio:clear_glass_nm_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:blue"
+    ]
+  },
+  "enderio:clear_glass_nm_brown": {
+    "result": "enderio:clear_glass_nm_brown",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:brown"
+    ]
+  },
+  "enderio:clear_glass_nm_cyan": {
+    "result": "enderio:clear_glass_nm_cyan",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:cyan"
+    ]
+  },
+  "enderio:clear_glass_nm_gray": {
+    "result": "enderio:clear_glass_nm_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:gray"
+    ]
+  },
+  "enderio:clear_glass_nm_green": {
+    "result": "enderio:clear_glass_nm_green",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:green"
+    ]
+  },
+  "enderio:clear_glass_nm_light_blue": {
+    "result": "enderio:clear_glass_nm_light_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:light_blue"
+    ]
+  },
+  "enderio:clear_glass_nm_light_gray": {
+    "result": "enderio:clear_glass_nm_light_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:light_gray"
+    ]
+  },
+  "enderio:clear_glass_nm_lime": {
+    "result": "enderio:clear_glass_nm_lime",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:lime"
+    ]
+  },
+  "enderio:clear_glass_nm_magenta": {
+    "result": "enderio:clear_glass_nm_magenta",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:magenta"
+    ]
+  },
+  "enderio:clear_glass_nm_orange": {
+    "result": "enderio:clear_glass_nm_orange",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:orange"
+    ]
+  },
+  "enderio:clear_glass_nm_pink": {
+    "result": "enderio:clear_glass_nm_pink",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:pink"
+    ]
+  },
+  "enderio:clear_glass_nm_purple": {
+    "result": "enderio:clear_glass_nm_purple",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:purple"
+    ]
+  },
+  "enderio:clear_glass_nm_red": {
+    "result": "enderio:clear_glass_nm_red",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:red"
+    ]
+  },
+  "enderio:clear_glass_nm_white": {
+    "result": "enderio:clear_glass_nm_white",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:white"
+    ]
+  },
+  "enderio:clear_glass_nm_yellow": {
+    "result": "enderio:clear_glass_nm_yellow",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:yellow"
+    ]
+  },
+  "enderio:clear_glass_np_black": {
+    "result": "enderio:clear_glass_np_black",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:black"
+    ]
+  },
+  "enderio:clear_glass_np_blue": {
+    "result": "enderio:clear_glass_np_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:blue"
+    ]
+  },
+  "enderio:clear_glass_np_brown": {
+    "result": "enderio:clear_glass_np_brown",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:brown"
+    ]
+  },
+  "enderio:clear_glass_np_cyan": {
+    "result": "enderio:clear_glass_np_cyan",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:cyan"
+    ]
+  },
+  "enderio:clear_glass_np_gray": {
+    "result": "enderio:clear_glass_np_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:gray"
+    ]
+  },
+  "enderio:clear_glass_np_green": {
+    "result": "enderio:clear_glass_np_green",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:green"
+    ]
+  },
+  "enderio:clear_glass_np_light_blue": {
+    "result": "enderio:clear_glass_np_light_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:light_blue"
+    ]
+  },
+  "enderio:clear_glass_np_light_gray": {
+    "result": "enderio:clear_glass_np_light_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:light_gray"
+    ]
+  },
+  "enderio:clear_glass_np_lime": {
+    "result": "enderio:clear_glass_np_lime",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:lime"
+    ]
+  },
+  "enderio:clear_glass_np_magenta": {
+    "result": "enderio:clear_glass_np_magenta",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:magenta"
+    ]
+  },
+  "enderio:clear_glass_np_orange": {
+    "result": "enderio:clear_glass_np_orange",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:orange"
+    ]
+  },
+  "enderio:clear_glass_np_pink": {
+    "result": "enderio:clear_glass_np_pink",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:pink"
+    ]
+  },
+  "enderio:clear_glass_np_purple": {
+    "result": "enderio:clear_glass_np_purple",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:purple"
+    ]
+  },
+  "enderio:clear_glass_np_red": {
+    "result": "enderio:clear_glass_np_red",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:red"
+    ]
+  },
+  "enderio:clear_glass_np_white": {
+    "result": "enderio:clear_glass_np_white",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:white"
+    ]
+  },
+  "enderio:clear_glass_np_yellow": {
+    "result": "enderio:clear_glass_np_yellow",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:yellow"
+    ]
+  },
+  "enderio:clear_glass_orange": {
+    "result": "enderio:clear_glass_orange",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:orange"
+    ]
+  },
+  "enderio:clear_glass_pink": {
+    "result": "enderio:clear_glass_pink",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:pink"
+    ]
+  },
+  "enderio:clear_glass_purple": {
+    "result": "enderio:clear_glass_purple",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:purple"
+    ]
+  },
+  "enderio:clear_glass_p_black": {
+    "result": "enderio:clear_glass_p_black",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:black"
+    ]
+  },
+  "enderio:clear_glass_p_blue": {
+    "result": "enderio:clear_glass_p_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:blue"
+    ]
+  },
+  "enderio:clear_glass_p_brown": {
+    "result": "enderio:clear_glass_p_brown",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:brown"
+    ]
+  },
+  "enderio:clear_glass_p_cyan": {
+    "result": "enderio:clear_glass_p_cyan",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:cyan"
+    ]
+  },
+  "enderio:clear_glass_p_gray": {
+    "result": "enderio:clear_glass_p_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:gray"
+    ]
+  },
+  "enderio:clear_glass_p_green": {
+    "result": "enderio:clear_glass_p_green",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:green"
+    ]
+  },
+  "enderio:clear_glass_p_light_blue": {
+    "result": "enderio:clear_glass_p_light_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:light_blue"
+    ]
+  },
+  "enderio:clear_glass_p_light_gray": {
+    "result": "enderio:clear_glass_p_light_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:light_gray"
+    ]
+  },
+  "enderio:clear_glass_p_lime": {
+    "result": "enderio:clear_glass_p_lime",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:lime"
+    ]
+  },
+  "enderio:clear_glass_p_magenta": {
+    "result": "enderio:clear_glass_p_magenta",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:magenta"
+    ]
+  },
+  "enderio:clear_glass_p_orange": {
+    "result": "enderio:clear_glass_p_orange",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:orange"
+    ]
+  },
+  "enderio:clear_glass_p_pink": {
+    "result": "enderio:clear_glass_p_pink",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:pink"
+    ]
+  },
+  "enderio:clear_glass_p_purple": {
+    "result": "enderio:clear_glass_p_purple",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:purple"
+    ]
+  },
+  "enderio:clear_glass_p_red": {
+    "result": "enderio:clear_glass_p_red",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:red"
+    ]
+  },
+  "enderio:clear_glass_p_white": {
+    "result": "enderio:clear_glass_p_white",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:white"
+    ]
+  },
+  "enderio:clear_glass_p_yellow": {
+    "result": "enderio:clear_glass_p_yellow",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:yellow"
+    ]
+  },
+  "enderio:clear_glass_red": {
+    "result": "enderio:clear_glass_red",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:red"
+    ]
+  },
+  "enderio:clear_glass_white": {
+    "result": "enderio:clear_glass_white",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:white"
+    ]
+  },
+  "enderio:clear_glass_yellow": {
+    "result": "enderio:clear_glass_yellow",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:yellow"
+    ]
+  },
+  "forbidden_arcanus:clibano_core": {
+    "result": "forbidden_arcanus:clibano_core",
+    "count": 1,
+    "ingredients": [
+      "forbidden_arcanus:darkstone",
+      "forbidden_arcanus:darkstone",
+      "forbidden_arcanus:darkstone",
+      "forbidden_arcanus:darkstone",
+      "minecraft:blast_furnace",
+      "forbidden_arcanus:darkstone",
+      "forbidden_arcanus:darkstone",
+      "forbidden_arcanus:darkstone",
+      "forbidden_arcanus:darkstone"
+    ]
+  },
+  "glassential:clear_fluid_fake_glass": {
+    "result": "glassential:clear_fluid_fake_glass",
+    "count": 8,
+    "ingredients": [
+      "glassential:clear_fluid_glass",
+      "glassential:clear_fluid_glass",
+      "glassential:clear_fluid_glass",
+      "glassential:clear_fluid_glass",
+      "minecraft:ender_eye",
+      "glassential:clear_fluid_glass",
+      "glassential:clear_fluid_glass",
+      "glassential:clear_fluid_glass",
+      "glassential:clear_fluid_glass"
+    ]
+  },
+  "glassential:clear_fluid_glass": {
+    "result": "glassential:clear_fluid_glass",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:prismarine_crystals",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass"
+    ]
+  },
+  "immersiveengineering:clinker_brick": {
+    "result": "immersiveengineering:clinker_brick",
+    "count": 1,
+    "ingredients": [
+      "immersiveengineering:slab_clinker_brick",
+      "",
+      "",
+      "immersiveengineering:slab_clinker_brick",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:clinker_brick_quoin": {
+    "result": "immersiveengineering:clinker_brick_quoin",
+    "count": 4,
+    "ingredients": [
+      "minecraft:white_terracotta",
+      "immersiveengineering:clinker_brick",
+      "",
+      "immersiveengineering:clinker_brick",
+      "immersiveengineering:clinker_brick",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:clinker_brick_sill": {
+    "result": "immersiveengineering:clinker_brick_sill",
+    "count": 4,
+    "ingredients": [
+      "minecraft:white_terracotta",
+      "minecraft:white_terracotta",
+      "",
+      "immersiveengineering:clinker_brick",
+      "immersiveengineering:clinker_brick",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:cloche": {
+    "result": "immersiveengineering:cloche",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glass",
+      "immersiveengineering:light_bulb",
+      "minecraft:glass",
+      "minecraft:glass",
+      "immersiveengineering:component_iron",
+      "minecraft:glass",
+      "",
+      "immersiveengineering:basic_engineering",
+      ""
+    ]
+  },
+  "justdirethings:clickert1": {
+    "result": "justdirethings:clickert1",
+    "count": 1,
+    "ingredients": [
+      "justdirethings:clickert1",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "justdirethings:clickert2": {
+    "result": "justdirethings:clickert2",
+    "count": 1,
+    "ingredients": [
+      "justdirethings:clickert2",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwlights:classic_street_lamp": {
+    "result": "mcwlights:classic_street_lamp",
+    "count": 3,
+    "ingredients": [
+      "minecraft:lantern",
+      "",
+      "",
+      "minecraft:wooden_fences",
+      "",
+      "",
+      "minecraft:stone_brick_wall",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:classic_lights_horizontal": {
+    "result": "merrymaking:classic_lights_horizontal",
+    "count": 3,
+    "ingredients": [
+      "merrymaking:classic_lights_white",
+      "merrymaking:classic_lights_white",
+      "merrymaking:classic_lights_white",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:classic_lights_cap": {
+    "result": "merrymaking:classic_lights_cap",
+    "count": 3,
+    "ingredients": [
+      "",
+      "merrymaking:classic_lights_white",
+      "",
+      "merrymaking:classic_lights_white",
+      "",
+      "merrymaking:classic_lights_white",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:classic_lights_diagonal_left": {
+    "result": "merrymaking:classic_lights_diagonal_left",
+    "count": 3,
+    "ingredients": [
+      "merrymaking:left_diag_template",
+      "merrymaking:classic_lights_white",
+      "merrymaking:classic_lights_white",
+      "merrymaking:classic_lights_white",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:classic_lights_diagonal_right": {
+    "result": "merrymaking:classic_lights_diagonal_right",
+    "count": 3,
+    "ingredients": [
+      "merrymaking:right_diag_template",
+      "merrymaking:classic_lights_white",
+      "merrymaking:classic_lights_white",
+      "merrymaking:classic_lights_white",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:classic_lights_multi": {
+    "result": "merrymaking:classic_lights_multi",
+    "count": 4,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:redstone",
+      "merrymaking:green_wires",
+      "merrymaking:multi_bulbs",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:classic_lights_vertical_corner_left": {
+    "result": "merrymaking:classic_lights_vertical_corner_left",
+    "count": 3,
+    "ingredients": [
+      "merrymaking:left_corner_template",
+      "merrymaking:classic_lights_white",
+      "merrymaking:classic_lights_white",
+      "merrymaking:classic_lights_white",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:classic_lights_vertical_corner_right": {
+    "result": "merrymaking:classic_lights_vertical_corner_right",
+    "count": 3,
+    "ingredients": [
+      "merrymaking:right_corner_template",
+      "merrymaking:classic_lights_white",
+      "merrymaking:classic_lights_white",
+      "merrymaking:classic_lights_white",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:classic_lights_vertical_left": {
+    "result": "merrymaking:classic_lights_vertical_left",
+    "count": 3,
+    "ingredients": [
+      "merrymaking:left_vert_template",
+      "merrymaking:classic_lights_white",
+      "merrymaking:classic_lights_white",
+      "merrymaking:classic_lights_white",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:classic_lights_vertical_right": {
+    "result": "merrymaking:classic_lights_vertical_right",
+    "count": 3,
+    "ingredients": [
+      "merrymaking:right_vert_template",
+      "merrymaking:classic_lights_white",
+      "merrymaking:classic_lights_white",
+      "merrymaking:classic_lights_white",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:classic_lights_white": {
+    "result": "merrymaking:classic_lights_white",
+    "count": 4,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:redstone",
+      "merrymaking:green_wires",
+      "merrymaking:white_bulbs",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:classic_multi_horizontal": {
+    "result": "merrymaking:classic_multi_horizontal",
+    "count": 3,
+    "ingredients": [
+      "merrymaking:classic_lights_multi",
+      "merrymaking:classic_lights_multi",
+      "merrymaking:classic_lights_multi",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:classic_multi_cap": {
+    "result": "merrymaking:classic_multi_cap",
+    "count": 3,
+    "ingredients": [
+      "",
+      "merrymaking:classic_lights_multi",
+      "",
+      "merrymaking:classic_lights_multi",
+      "",
+      "merrymaking:classic_lights_multi",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:classic_multi_diagonal_left": {
+    "result": "merrymaking:classic_multi_diagonal_left",
+    "count": 3,
+    "ingredients": [
+      "merrymaking:left_diag_template",
+      "merrymaking:classic_lights_multi",
+      "merrymaking:classic_lights_multi",
+      "merrymaking:classic_lights_multi",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:classic_multi_diagonal_right": {
+    "result": "merrymaking:classic_multi_diagonal_right",
+    "count": 3,
+    "ingredients": [
+      "merrymaking:right_diag_template",
+      "merrymaking:classic_lights_multi",
+      "merrymaking:classic_lights_multi",
+      "merrymaking:classic_lights_multi",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:classic_multi_vertical_corner_left": {
+    "result": "merrymaking:classic_multi_vertical_corner_left",
+    "count": 3,
+    "ingredients": [
+      "merrymaking:left_corner_template",
+      "merrymaking:classic_lights_multi",
+      "merrymaking:classic_lights_multi",
+      "merrymaking:classic_lights_multi",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:classic_multi_vertical_corner_right": {
+    "result": "merrymaking:classic_multi_vertical_corner_right",
+    "count": 3,
+    "ingredients": [
+      "merrymaking:right_corner_template",
+      "merrymaking:classic_lights_white",
+      "merrymaking:classic_lights_white",
+      "merrymaking:classic_lights_white",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:classic_multi_vertical_left": {
+    "result": "merrymaking:classic_multi_vertical_left",
+    "count": 3,
+    "ingredients": [
+      "merrymaking:left_vert_template",
+      "merrymaking:classic_lights_multi",
+      "merrymaking:classic_lights_multi",
+      "merrymaking:classic_lights_multi",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:classic_multi_vertical_right": {
+    "result": "merrymaking:classic_multi_vertical_right",
+    "count": 3,
+    "ingredients": [
+      "merrymaking:right_vert_template",
+      "merrymaking:classic_lights_multi",
+      "merrymaking:classic_lights_multi",
+      "merrymaking:classic_lights_multi",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecolonies:clipboard": {
+    "result": "minecolonies:clipboard",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "structurize:sceptergold",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:leather",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick"
+    ]
+  },
+  "minecraft:clock": {
+    "result": "minecraft:clock",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:gold_ingot",
+      "",
+      "minecraft:gold_ingot",
+      "minecraft:redstone",
+      "minecraft:gold_ingot",
+      "",
+      "minecraft:gold_ingot",
+      ""
+    ]
+  },
+  "modern_industrialization:clean_stainless_steel_machine_casing": {
+    "result": "modern_industrialization:clean_stainless_steel_machine_casing",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stainless_steel",
+      "minecraft:stainless_steel",
+      "minecraft:stainless_steel",
+      "minecraft:stainless_steel",
+      "minecraft:stainless_steel",
+      "minecraft:stainless_steel",
+      "minecraft:stainless_steel",
+      "minecraft:stainless_steel",
+      "minecraft:stainless_steel"
+    ]
+  },
+  "minecraft:clay_ball": {
+    "result": "minecraft:clay_ball",
+    "count": 24,
+    "ingredients": [
+      "mysticalagriculture:water_essence",
+      "mysticalagriculture:dirt_essence",
+      "",
+      "mysticalagriculture:dirt_essence",
+      "mysticalagriculture:water_essence",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "oritech:clay_catalyst_beads": {
+    "result": "oritech:clay_catalyst_beads",
+    "count": 8,
+    "ingredients": [
+      "minecraft:sand",
+      "minecraft:sand",
+      "",
+      "minecraft:redstone",
+      "minecraft:clay_ball",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2crops:cloudberryseeditem": {
+    "result": "pamhc2crops:cloudberryseeditem",
+    "count": 1,
+    "ingredients": [
+      "pamhc2crops:cloudberryitem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pneumaticcraft:classify_filter": {
+    "result": "pneumaticcraft:classify_filter",
+    "count": 1,
+    "ingredients": [
+      "pneumaticcraft:logistics_core",
+      "pneumaticcraft:plastic",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:clove_bookshelf": {
+    "result": "productivetrees:clove_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:clove_planks",
+      "productivetrees:clove_planks",
+      "productivetrees:clove_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:clove_planks",
+      "productivetrees:clove_planks",
+      "productivetrees:clove_planks"
+    ]
+  },
+  "productivetrees:clove_button": {
+    "result": "productivetrees:clove_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:clove_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:clove_crate": {
+    "result": "productivetrees:clove_crate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:clove",
+      "minecraft:clove",
+      "minecraft:clove",
+      "minecraft:clove",
+      "productivetrees:clove",
+      "minecraft:clove",
+      "minecraft:clove",
+      "minecraft:clove",
+      "minecraft:clove"
+    ]
+  },
+  "productivetrees:clove": {
+    "result": "productivetrees:clove",
+    "count": 9,
+    "ingredients": [
+      "productivetrees:clove_crate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:clove_door": {
+    "result": "productivetrees:clove_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:clove_planks",
+      "productivetrees:clove_planks",
+      "",
+      "productivetrees:clove_planks",
+      "productivetrees:clove_planks",
+      "",
+      "productivetrees:clove_planks",
+      "productivetrees:clove_planks",
+      ""
+    ]
+  },
+  "productivetrees:clove_fence": {
+    "result": "productivetrees:clove_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:clove_planks",
+      "minecraft:stick",
+      "productivetrees:clove_planks",
+      "productivetrees:clove_planks",
+      "minecraft:stick",
+      "productivetrees:clove_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:clove_fence_gate": {
+    "result": "productivetrees:clove_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:clove_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:clove_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:clove_hanging_sign": {
+    "result": "productivetrees:clove_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:clove_planks",
+      "productivetrees:clove_planks",
+      "productivetrees:clove_planks",
+      "productivetrees:clove_planks",
+      "productivetrees:clove_planks",
+      "productivetrees:clove_planks"
+    ]
+  },
+  "productivetrees:clove_planks": {
+    "result": "productivetrees:clove_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:clove_pressure_plate": {
+    "result": "productivetrees:clove_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:clove_planks",
+      "productivetrees:clove_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:clove_sign": {
+    "result": "productivetrees:clove_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:clove_planks",
+      "productivetrees:clove_planks",
+      "productivetrees:clove_planks",
+      "productivetrees:clove_planks",
+      "productivetrees:clove_planks",
+      "productivetrees:clove_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:clove_slab": {
+    "result": "productivetrees:clove_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:clove_planks",
+      "productivetrees:clove_planks",
+      "productivetrees:clove_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:clove_stairs": {
+    "result": "productivetrees:clove_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:clove_planks",
+      "",
+      "",
+      "productivetrees:clove_planks",
+      "productivetrees:clove_planks",
+      "",
+      "productivetrees:clove_planks",
+      "productivetrees:clove_planks",
+      "productivetrees:clove_planks"
+    ]
+  },
+  "productivetrees:clove_trapdoor": {
+    "result": "productivetrees:clove_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:clove_planks",
+      "productivetrees:clove_planks",
+      "productivetrees:clove_planks",
+      "productivetrees:clove_planks",
+      "productivetrees:clove_planks",
+      "productivetrees:clove_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:clove_wood": {
+    "result": "productivetrees:clove_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:clove_log",
+      "productivetrees:clove_log",
+      "",
+      "productivetrees:clove_log",
+      "productivetrees:clove_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "rftoolsutility:clock_module": {
+    "result": "rftoolsutility:clock_module",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:clock",
+      "",
+      "minecraft:redstone",
+      "minecraft:iron_ingot",
+      "minecraft:redstone",
+      "",
+      "minecraft:black",
+      ""
+    ]
+  },
+  "securitycraft:claymore": {
+    "result": "securitycraft:claymore",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tripwire_hook",
+      "minecraft:string",
+      "minecraft:tripwire_hook",
+      "minecraft:string",
+      "securitycraft:bouncing_betty",
+      "minecraft:string",
+      "minecraft:redstone",
+      "minecraft:gunpowder",
+      "minecraft:redstone"
+    ]
+  },
+  "supplementaries:clock_block": {
+    "result": "supplementaries:clock_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:clock",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks"
+    ]
+  },
+  "quark:clear_shard": {
+    "result": "quark:clear_shard",
+    "count": 1,
+    "ingredients": [
+      "quark:dirty_shard",
+      "supplementaries:soap",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "sushigocrafting:cleaver_knife": {
+    "result": "sushigocrafting:cleaver_knife",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "undergarden:cloggrum_axe": {
+    "result": "undergarden:cloggrum_axe",
+    "count": 1,
+    "ingredients": [
+      "undergarden:cloggrum_ingot",
+      "undergarden:cloggrum_ingot",
+      "",
+      "undergarden:cloggrum_ingot",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "undergarden:cloggrum_bars": {
+    "result": "undergarden:cloggrum_bars",
+    "count": 16,
+    "ingredients": [
+      "undergarden:cloggrum_ingot",
+      "undergarden:cloggrum_ingot",
+      "undergarden:cloggrum_ingot",
+      "undergarden:cloggrum_ingot",
+      "undergarden:cloggrum_ingot",
+      "undergarden:cloggrum_ingot",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:cloggrum_block": {
+    "result": "undergarden:cloggrum_block",
+    "count": 1,
+    "ingredients": [
+      "undergarden:cloggrum_ingot",
+      "undergarden:cloggrum_ingot",
+      "undergarden:cloggrum_ingot",
+      "undergarden:cloggrum_ingot",
+      "undergarden:cloggrum_ingot",
+      "undergarden:cloggrum_ingot",
+      "undergarden:cloggrum_ingot",
+      "undergarden:cloggrum_ingot",
+      "undergarden:cloggrum_ingot"
+    ]
+  },
+  "undergarden:cloggrum_ingot": {
+    "result": "undergarden:cloggrum_ingot",
+    "count": 1,
+    "ingredients": [
+      "undergarden:cloggrum_nugget",
+      "undergarden:cloggrum_nugget",
+      "undergarden:cloggrum_nugget",
+      "undergarden:cloggrum_nugget",
+      "undergarden:cloggrum_nugget",
+      "undergarden:cloggrum_nugget",
+      "undergarden:cloggrum_nugget",
+      "undergarden:cloggrum_nugget",
+      "undergarden:cloggrum_nugget"
+    ]
+  },
+  "undergarden:cloggrum_boots": {
+    "result": "undergarden:cloggrum_boots",
+    "count": 1,
+    "ingredients": [
+      "undergarden:cloggrum_ingot",
+      "",
+      "undergarden:cloggrum_ingot",
+      "undergarden:cloggrum_ingot",
+      "",
+      "undergarden:cloggrum_ingot",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:cloggrum_bucket": {
+    "result": "undergarden:cloggrum_bucket",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "minecraft:oak_log",
+      "",
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:cloggrum_chestplate": {
+    "result": "undergarden:cloggrum_chestplate",
+    "count": 1,
+    "ingredients": [
+      "undergarden:cloggrum_ingot",
+      "",
+      "undergarden:cloggrum_ingot",
+      "undergarden:cloggrum_ingot",
+      "undergarden:cloggrum_ingot",
+      "undergarden:cloggrum_ingot",
+      "undergarden:cloggrum_ingot",
+      "undergarden:cloggrum_ingot",
+      "undergarden:cloggrum_ingot"
+    ]
+  },
+  "undergarden:cloggrum_helmet": {
+    "result": "undergarden:cloggrum_helmet",
+    "count": 1,
+    "ingredients": [
+      "undergarden:cloggrum_ingot",
+      "undergarden:cloggrum_ingot",
+      "undergarden:cloggrum_ingot",
+      "undergarden:cloggrum_ingot",
+      "",
+      "undergarden:cloggrum_ingot",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:cloggrum_hoe": {
+    "result": "undergarden:cloggrum_hoe",
+    "count": 1,
+    "ingredients": [
+      "undergarden:cloggrum_ingot",
+      "undergarden:cloggrum_ingot",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "undergarden:cloggrum_nugget": {
+    "result": "undergarden:cloggrum_nugget",
+    "count": 9,
+    "ingredients": [
+      "undergarden:cloggrum_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:cloggrum_lantern": {
+    "result": "undergarden:cloggrum_lantern",
+    "count": 1,
+    "ingredients": [
+      "undergarden:cloggrum_nugget",
+      "undergarden:cloggrum_nugget",
+      "undergarden:cloggrum_nugget",
+      "undergarden:cloggrum_nugget",
+      "minecraft:torch",
+      "undergarden:cloggrum_nugget",
+      "undergarden:cloggrum_nugget",
+      "undergarden:cloggrum_nugget",
+      "undergarden:cloggrum_nugget"
+    ]
+  },
+  "undergarden:cloggrum_leggings": {
+    "result": "undergarden:cloggrum_leggings",
+    "count": 1,
+    "ingredients": [
+      "undergarden:cloggrum_ingot",
+      "undergarden:cloggrum_ingot",
+      "undergarden:cloggrum_ingot",
+      "undergarden:cloggrum_ingot",
+      "",
+      "undergarden:cloggrum_ingot",
+      "undergarden:cloggrum_ingot",
+      "",
+      "undergarden:cloggrum_ingot"
+    ]
+  },
+  "undergarden:cloggrum_pickaxe": {
+    "result": "undergarden:cloggrum_pickaxe",
+    "count": 1,
+    "ingredients": [
+      "undergarden:cloggrum_ingot",
+      "undergarden:cloggrum_ingot",
+      "undergarden:cloggrum_ingot",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "undergarden:cloggrum_shield": {
+    "result": "undergarden:cloggrum_shield",
+    "count": 1,
+    "ingredients": [
+      "undergarden:cloggrum_ingot",
+      "minecraft:oak_planks",
+      "undergarden:cloggrum_ingot",
+      "undergarden:cloggrum_ingot",
+      "undergarden:cloggrum_ingot",
+      "undergarden:cloggrum_ingot",
+      "",
+      "undergarden:cloggrum_ingot",
+      ""
+    ]
+  },
+  "undergarden:cloggrum_shovel": {
+    "result": "undergarden:cloggrum_shovel",
+    "count": 1,
+    "ingredients": [
+      "undergarden:cloggrum_ingot",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "undergarden:cloggrum_sword": {
+    "result": "undergarden:cloggrum_sword",
+    "count": 1,
+    "ingredients": [
+      "undergarden:cloggrum_ingot",
+      "",
+      "",
+      "undergarden:cloggrum_ingot",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "undergarden:cloggrum_tiles": {
+    "result": "undergarden:cloggrum_tiles",
+    "count": 4,
+    "ingredients": [
+      "undergarden:cloggrum_ingot",
+      "undergarden:cloggrum_ingot",
+      "",
+      "undergarden:cloggrum_ingot",
+      "undergarden:cloggrum_ingot",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:cloggrum_tile_slab": {
+    "result": "undergarden:cloggrum_tile_slab",
+    "count": 6,
+    "ingredients": [
+      "undergarden:cloggrum_tiles",
+      "undergarden:cloggrum_tiles",
+      "undergarden:cloggrum_tiles",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:cloggrum_tile_stairs": {
+    "result": "undergarden:cloggrum_tile_stairs",
+    "count": 4,
+    "ingredients": [
+      "undergarden:cloggrum_tiles",
+      "",
+      "",
+      "undergarden:cloggrum_tiles",
+      "undergarden:cloggrum_tiles",
+      "",
+      "undergarden:cloggrum_tiles",
+      "undergarden:cloggrum_tiles",
+      "undergarden:cloggrum_tiles"
+    ]
+  }
+}

@@ -1,0 +1,302 @@
+{
+  "ae2:64k_crafting_storage": {
+    "result": "ae2:64k_crafting_storage",
+    "count": 1,
+    "ingredients": [
+      "ae2:crafting_unit",
+      "ae2:cell_component_64k",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "megacells:64m_crafting_storage": {
+    "result": "megacells:64m_crafting_storage",
+    "count": 1,
+    "ingredients": [
+      "megacells:mega_crafting_unit",
+      "megacells:cell_component_64m",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "refinedstorage:64b_fluid_storage_block": {
+    "result": "refinedstorage:64b_fluid_storage_block",
+    "count": 1,
+    "ingredients": [
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:64b_fluid_storage_part",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:machine_casing",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:quartz_enriched_iron",
+      "minecraft:redstone",
+      "refinedstorage:quartz_enriched_iron"
+    ]
+  },
+  "refinedstorage:64b_fluid_storage_disk": {
+    "result": "refinedstorage:64b_fluid_storage_disk",
+    "count": 1,
+    "ingredients": [
+      "refinedstorage:storage_housing",
+      "refinedstorage:64b_fluid_storage_part",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "refinedstorage:64b_fluid_storage_part": {
+    "result": "refinedstorage:64b_fluid_storage_part",
+    "count": 1,
+    "ingredients": [
+      "minecraft:silicon",
+      "refinedstorage:quartz_enriched_iron",
+      "minecraft:silicon",
+      "minecraft:glass",
+      "minecraft:empty",
+      "minecraft:glass",
+      "minecraft:silicon",
+      "minecraft:glass",
+      "minecraft:silicon"
+    ]
+  },
+  "refinedstorage:64k_storage_block": {
+    "result": "refinedstorage:64k_storage_block",
+    "count": 1,
+    "ingredients": [
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:64k_storage_part",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:machine_casing",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:quartz_enriched_iron",
+      "minecraft:redstone",
+      "refinedstorage:quartz_enriched_iron"
+    ]
+  },
+  "refinedstorage:64k_storage_disk": {
+    "result": "refinedstorage:64k_storage_disk",
+    "count": 1,
+    "ingredients": [
+      "refinedstorage:storage_housing",
+      "refinedstorage:64k_storage_part",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "refinedstorage:64k_storage_part": {
+    "result": "refinedstorage:64k_storage_part",
+    "count": 1,
+    "ingredients": [
+      "refinedstorage:advanced_processor",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:advanced_processor",
+      "refinedstorage:16k_storage_part",
+      "minecraft:redstone",
+      "refinedstorage:16k_storage_part",
+      "refinedstorage:advanced_processor",
+      "refinedstorage:16k_storage_part",
+      "refinedstorage:advanced_processor"
+    ]
+  },
+  "refinedstorage_mekanism_integration:64b_chemical_storage_block": {
+    "result": "refinedstorage_mekanism_integration:64b_chemical_storage_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:osmium",
+      "refinedstorage_mekanism_integration:64b_chemical_storage_part",
+      "minecraft:osmium",
+      "minecraft:osmium",
+      "refinedstorage:machine_casing",
+      "minecraft:osmium",
+      "minecraft:osmium",
+      "minecraft:redstone",
+      "minecraft:osmium"
+    ]
+  },
+  "refinedstorage_mekanism_integration:64b_chemical_storage_disk": {
+    "result": "refinedstorage_mekanism_integration:64b_chemical_storage_disk",
+    "count": 1,
+    "ingredients": [
+      "refinedstorage:storage_housing",
+      "refinedstorage_mekanism_integration:64b_chemical_storage_part",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "refinedstorage_mekanism_integration:64b_chemical_storage_part": {
+    "result": "refinedstorage_mekanism_integration:64b_chemical_storage_part",
+    "count": 1,
+    "ingredients": [
+      "minecraft:silicon",
+      "minecraft:osmium",
+      "minecraft:silicon",
+      "minecraft:glass",
+      "minecraft:redstone",
+      "minecraft:glass",
+      "minecraft:silicon",
+      "minecraft:glass",
+      "minecraft:silicon"
+    ]
+  },
+  "refinedtypes:64b_source_storage_block": {
+    "result": "refinedtypes:64b_source_storage_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone_block",
+      "refinedtypes:64b_source_storage_part",
+      "minecraft:redstone_block",
+      "minecraft:redstone_block",
+      "refinedstorage:machine_casing",
+      "minecraft:redstone_block",
+      "minecraft:redstone_block",
+      "minecraft:redstone",
+      "minecraft:redstone_block"
+    ]
+  },
+  "refinedtypes:64k_energy_storage_block": {
+    "result": "refinedtypes:64k_energy_storage_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:copper_block",
+      "refinedtypes:64k_energy_storage_part",
+      "minecraft:copper_block",
+      "minecraft:copper_block",
+      "refinedstorage:machine_casing",
+      "minecraft:copper_block",
+      "minecraft:copper_block",
+      "minecraft:redstone",
+      "minecraft:copper_block"
+    ]
+  },
+  "refinedtypes:64k_soul_storage_block": {
+    "result": "refinedtypes:64k_soul_storage_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone_block",
+      "refinedtypes:64k_soul_storage_part",
+      "minecraft:redstone_block",
+      "minecraft:redstone_block",
+      "refinedstorage:machine_casing",
+      "minecraft:redstone_block",
+      "minecraft:redstone_block",
+      "minecraft:redstone",
+      "minecraft:redstone_block"
+    ]
+  },
+  "refinedtypes:64b_source_storage_disk": {
+    "result": "refinedtypes:64b_source_storage_disk",
+    "count": 1,
+    "ingredients": [
+      "refinedstorage:storage_housing",
+      "refinedtypes:64b_source_storage_part",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "refinedtypes:64k_energy_storage_disk": {
+    "result": "refinedtypes:64k_energy_storage_disk",
+    "count": 1,
+    "ingredients": [
+      "refinedstorage:storage_housing",
+      "refinedtypes:64k_energy_storage_part",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "refinedtypes:64k_soul_storage_disk": {
+    "result": "refinedtypes:64k_soul_storage_disk",
+    "count": 1,
+    "ingredients": [
+      "refinedstorage:storage_housing",
+      "refinedtypes:64k_soul_storage_part",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "refinedtypes:64b_source_storage_part": {
+    "result": "refinedtypes:64b_source_storage_part",
+    "count": 1,
+    "ingredients": [
+      "minecraft:silicon",
+      "ars_nouveau:magebloom_fiber",
+      "minecraft:silicon",
+      "minecraft:glass",
+      "minecraft:redstone",
+      "minecraft:glass",
+      "minecraft:silicon",
+      "minecraft:glass",
+      "minecraft:silicon"
+    ]
+  },
+  "refinedtypes:64k_energy_storage_part": {
+    "result": "refinedtypes:64k_energy_storage_part",
+    "count": 1,
+    "ingredients": [
+      "minecraft:silicon",
+      "minecraft:copper_block",
+      "minecraft:silicon",
+      "minecraft:glass",
+      "minecraft:redstone",
+      "minecraft:glass",
+      "minecraft:silicon",
+      "minecraft:glass",
+      "minecraft:silicon"
+    ]
+  },
+  "refinedtypes:64k_soul_storage_part": {
+    "result": "refinedtypes:64k_soul_storage_part",
+    "count": 1,
+    "ingredients": [
+      "refinedstorage:improved_processor",
+      "minecraft:redstone_block",
+      "refinedstorage:improved_processor",
+      "refinedtypes:8k_soul_storage_part",
+      "minecraft:gold_block",
+      "refinedtypes:8k_soul_storage_part",
+      "refinedstorage:improved_processor",
+      "refinedtypes:8k_soul_storage_part",
+      "refinedstorage:improved_processor"
+    ]
+  }
+}

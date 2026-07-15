@@ -1,0 +1,302 @@
+{
+  "enderio:aversion_obelisk": {
+    "result": "enderio:aversion_obelisk",
+    "count": 1,
+    "ingredients": [
+      "enderio:aversion_obelisk",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "herbsandharvest:avocado_toast": {
+    "result": "herbsandharvest:avocado_toast",
+    "count": 4,
+    "ingredients": [
+      "minecraft:avocado",
+      "herbsandharvest:pumpernickel_slice",
+      "herbsandharvest:feta_wedge",
+      "minecraft:tomato",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:avocadoburritoitem": {
+    "result": "pamhc2foodextended:avocadoburritoitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:avocado",
+      "minecraft:tortilla",
+      "minecraft:cheese",
+      "minecraft:rawchicken",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:avocadotoastitem": {
+    "result": "pamhc2foodextended:avocadotoastitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_skillet",
+      "minecraft:avocado",
+      "minecraft:toast",
+      "minecraft:salt",
+      "minecraft:spiceleaf",
+      "minecraft:garlic",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2trees:avocado_sapling": {
+    "result": "pamhc2trees:avocado_sapling",
+    "count": 1,
+    "ingredients": [
+      "pamhc2trees:avocadoitem",
+      "pamhc2trees:avocadoitem",
+      "pamhc2trees:avocadoitem",
+      "pamhc2trees:avocadoitem",
+      "pamhc2trees:avocadoitem",
+      "pamhc2trees:avocadoitem",
+      "pamhc2trees:avocadoitem",
+      "pamhc2trees:avocadoitem",
+      "minecraft:saplings"
+    ]
+  },
+  "productivetrees:avocado_bookshelf": {
+    "result": "productivetrees:avocado_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:avocado_planks",
+      "productivetrees:avocado_planks",
+      "productivetrees:avocado_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:avocado_planks",
+      "productivetrees:avocado_planks",
+      "productivetrees:avocado_planks"
+    ]
+  },
+  "productivetrees:avocado_button": {
+    "result": "productivetrees:avocado_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:avocado_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:avocado_crate": {
+    "result": "productivetrees:avocado_crate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:avocado",
+      "minecraft:avocado",
+      "minecraft:avocado",
+      "minecraft:avocado",
+      "productivetrees:avocado",
+      "minecraft:avocado",
+      "minecraft:avocado",
+      "minecraft:avocado",
+      "minecraft:avocado"
+    ]
+  },
+  "productivetrees:avocado": {
+    "result": "productivetrees:avocado",
+    "count": 9,
+    "ingredients": [
+      "productivetrees:avocado_crate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:avocado_door": {
+    "result": "productivetrees:avocado_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:avocado_planks",
+      "productivetrees:avocado_planks",
+      "",
+      "productivetrees:avocado_planks",
+      "productivetrees:avocado_planks",
+      "",
+      "productivetrees:avocado_planks",
+      "productivetrees:avocado_planks",
+      ""
+    ]
+  },
+  "productivetrees:avocado_fence": {
+    "result": "productivetrees:avocado_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:avocado_planks",
+      "minecraft:stick",
+      "productivetrees:avocado_planks",
+      "productivetrees:avocado_planks",
+      "minecraft:stick",
+      "productivetrees:avocado_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:avocado_fence_gate": {
+    "result": "productivetrees:avocado_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:avocado_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:avocado_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:avocado_hanging_sign": {
+    "result": "productivetrees:avocado_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:avocado_planks",
+      "productivetrees:avocado_planks",
+      "productivetrees:avocado_planks",
+      "productivetrees:avocado_planks",
+      "productivetrees:avocado_planks",
+      "productivetrees:avocado_planks"
+    ]
+  },
+  "productivetrees:avocado_planks": {
+    "result": "productivetrees:avocado_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:avocado_pressure_plate": {
+    "result": "productivetrees:avocado_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:avocado_planks",
+      "productivetrees:avocado_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:avocado_sign": {
+    "result": "productivetrees:avocado_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:avocado_planks",
+      "productivetrees:avocado_planks",
+      "productivetrees:avocado_planks",
+      "productivetrees:avocado_planks",
+      "productivetrees:avocado_planks",
+      "productivetrees:avocado_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:avocado_slab": {
+    "result": "productivetrees:avocado_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:avocado_planks",
+      "productivetrees:avocado_planks",
+      "productivetrees:avocado_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:avocado_stairs": {
+    "result": "productivetrees:avocado_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:avocado_planks",
+      "",
+      "",
+      "productivetrees:avocado_planks",
+      "productivetrees:avocado_planks",
+      "",
+      "productivetrees:avocado_planks",
+      "productivetrees:avocado_planks",
+      "productivetrees:avocado_planks"
+    ]
+  },
+  "productivetrees:avocado_trapdoor": {
+    "result": "productivetrees:avocado_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:avocado_planks",
+      "productivetrees:avocado_planks",
+      "productivetrees:avocado_planks",
+      "productivetrees:avocado_planks",
+      "productivetrees:avocado_planks",
+      "productivetrees:avocado_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:avocado_wood": {
+    "result": "productivetrees:avocado_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:avocado_log",
+      "productivetrees:avocado_log",
+      "",
+      "productivetrees:avocado_log",
+      "productivetrees:avocado_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

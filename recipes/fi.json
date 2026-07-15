@@ -1,0 +1,2672 @@
+{
+  "actuallyadditions:filter": {
+    "result": "actuallyadditions:filter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_bars",
+      "minecraft:iron_bars",
+      "minecraft:iron_bars",
+      "minecraft:iron_bars",
+      "actuallyadditions:black_quartz",
+      "minecraft:iron_bars",
+      "minecraft:iron_bars",
+      "minecraft:iron_bars",
+      "minecraft:iron_bars"
+    ]
+  },
+  "actuallyadditions:firework_box": {
+    "result": "actuallyadditions:firework_box",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gunpowder",
+      "minecraft:firework_rocket",
+      "minecraft:gunpowder",
+      "minecraft:stick",
+      "actuallyadditions:iron_casing",
+      "minecraft:stick",
+      "actuallyadditions:enori_crystal",
+      "actuallyadditions:enori_crystal",
+      "actuallyadditions:enori_crystal"
+    ]
+  },
+  "additional_lights:fire_for_fire_pit_l": {
+    "result": "additional_lights:fire_for_fire_pit_l",
+    "count": 2,
+    "ingredients": [
+      "minecraft:coal",
+      "minecraft:coal",
+      "",
+      "",
+      "minecraft:coal",
+      "",
+      "",
+      "minecraft:coal",
+      ""
+    ]
+  },
+  "additional_lights:fire_for_fire_pit_s": {
+    "result": "additional_lights:fire_for_fire_pit_s",
+    "count": 2,
+    "ingredients": [
+      "",
+      "minecraft:coal",
+      "",
+      "",
+      "minecraft:coal",
+      "",
+      "minecraft:coal",
+      "minecraft:coal",
+      ""
+    ]
+  },
+  "additional_lights:fire_for_standing_torch_l": {
+    "result": "additional_lights:fire_for_standing_torch_l",
+    "count": 2,
+    "ingredients": [
+      "minecraft:coal",
+      "",
+      "",
+      "minecraft:coal",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "additional_lights:fire_for_standing_torch_s": {
+    "result": "additional_lights:fire_for_standing_torch_s",
+    "count": 1,
+    "ingredients": [
+      "minecraft:coal",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "additional_lights:fire_pit_l_cobblestone": {
+    "result": "additional_lights:fire_pit_l_cobblestone",
+    "count": 1,
+    "ingredients": [
+      "minecraft:coal",
+      "minecraft:coal",
+      "",
+      "minecraft:cobblestone",
+      "minecraft:cobblestone",
+      "",
+      "minecraft:cobblestone",
+      "minecraft:cobblestone",
+      ""
+    ]
+  },
+  "additional_lights:fire_pit_l_cut_sandstone": {
+    "result": "additional_lights:fire_pit_l_cut_sandstone",
+    "count": 1,
+    "ingredients": [
+      "minecraft:coal",
+      "minecraft:coal",
+      "",
+      "minecraft:cut_sandstone",
+      "minecraft:cut_sandstone",
+      "",
+      "minecraft:cut_sandstone",
+      "minecraft:cut_sandstone",
+      ""
+    ]
+  },
+  "additional_lights:fire_pit_l_diamond_block": {
+    "result": "additional_lights:fire_pit_l_diamond_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:coal",
+      "minecraft:coal",
+      "",
+      "minecraft:diamond_block",
+      "minecraft:diamond_block",
+      "",
+      "minecraft:diamond_block",
+      "minecraft:diamond_block",
+      ""
+    ]
+  },
+  "additional_lights:fire_pit_l_end_stone": {
+    "result": "additional_lights:fire_pit_l_end_stone",
+    "count": 1,
+    "ingredients": [
+      "minecraft:coal",
+      "minecraft:coal",
+      "",
+      "minecraft:end_stone",
+      "minecraft:end_stone",
+      "",
+      "minecraft:end_stone",
+      "minecraft:end_stone",
+      ""
+    ]
+  },
+  "additional_lights:fire_pit_l_end_stone_bricks": {
+    "result": "additional_lights:fire_pit_l_end_stone_bricks",
+    "count": 1,
+    "ingredients": [
+      "minecraft:coal",
+      "minecraft:coal",
+      "",
+      "minecraft:end_stone_bricks",
+      "minecraft:end_stone_bricks",
+      "",
+      "minecraft:end_stone_bricks",
+      "minecraft:end_stone_bricks",
+      ""
+    ]
+  },
+  "additional_lights:fire_pit_l_gold_block": {
+    "result": "additional_lights:fire_pit_l_gold_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:coal",
+      "minecraft:coal",
+      "",
+      "minecraft:gold_block",
+      "minecraft:gold_block",
+      "",
+      "minecraft:gold_block",
+      "minecraft:gold_block",
+      ""
+    ]
+  },
+  "additional_lights:fire_pit_l_iron_block": {
+    "result": "additional_lights:fire_pit_l_iron_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:coal",
+      "minecraft:coal",
+      "",
+      "minecraft:iron_block",
+      "minecraft:iron_block",
+      "",
+      "minecraft:iron_block",
+      "minecraft:iron_block",
+      ""
+    ]
+  },
+  "additional_lights:fire_pit_l_magenta_wool": {
+    "result": "additional_lights:fire_pit_l_magenta_wool",
+    "count": 1,
+    "ingredients": [
+      "minecraft:coal",
+      "minecraft:coal",
+      "",
+      "minecraft:magenta_wool",
+      "minecraft:magenta_wool",
+      "",
+      "minecraft:magenta_wool",
+      "minecraft:magenta_wool",
+      ""
+    ]
+  },
+  "additional_lights:fire_pit_l_mossy_cobblestone": {
+    "result": "additional_lights:fire_pit_l_mossy_cobblestone",
+    "count": 1,
+    "ingredients": [
+      "minecraft:coal",
+      "minecraft:coal",
+      "",
+      "minecraft:mossy_cobblestone",
+      "minecraft:mossy_cobblestone",
+      "",
+      "minecraft:mossy_cobblestone",
+      "minecraft:mossy_cobblestone",
+      ""
+    ]
+  },
+  "additional_lights:fire_pit_l_mossy_stone_bricks": {
+    "result": "additional_lights:fire_pit_l_mossy_stone_bricks",
+    "count": 1,
+    "ingredients": [
+      "minecraft:coal",
+      "minecraft:coal",
+      "",
+      "minecraft:mossy_stone_bricks",
+      "minecraft:mossy_stone_bricks",
+      "",
+      "minecraft:mossy_stone_bricks",
+      "minecraft:mossy_stone_bricks",
+      ""
+    ]
+  },
+  "additional_lights:fire_pit_l_nether_bricks": {
+    "result": "additional_lights:fire_pit_l_nether_bricks",
+    "count": 1,
+    "ingredients": [
+      "minecraft:coal",
+      "minecraft:coal",
+      "",
+      "minecraft:nether_bricks",
+      "minecraft:nether_bricks",
+      "",
+      "minecraft:nether_bricks",
+      "minecraft:nether_bricks",
+      ""
+    ]
+  },
+  "additional_lights:fire_pit_l_packed_ice": {
+    "result": "additional_lights:fire_pit_l_packed_ice",
+    "count": 1,
+    "ingredients": [
+      "minecraft:coal",
+      "minecraft:coal",
+      "",
+      "minecraft:packed_ice",
+      "minecraft:packed_ice",
+      "",
+      "minecraft:packed_ice",
+      "minecraft:packed_ice",
+      ""
+    ]
+  },
+  "additional_lights:fire_pit_l_pink_wool": {
+    "result": "additional_lights:fire_pit_l_pink_wool",
+    "count": 1,
+    "ingredients": [
+      "minecraft:coal",
+      "minecraft:coal",
+      "",
+      "minecraft:pink_wool",
+      "minecraft:pink_wool",
+      "",
+      "minecraft:pink_wool",
+      "minecraft:pink_wool",
+      ""
+    ]
+  },
+  "additional_lights:fire_pit_l_polished_andesite": {
+    "result": "additional_lights:fire_pit_l_polished_andesite",
+    "count": 1,
+    "ingredients": [
+      "minecraft:coal",
+      "minecraft:coal",
+      "",
+      "minecraft:polished_andesite",
+      "minecraft:polished_andesite",
+      "",
+      "minecraft:polished_andesite",
+      "minecraft:polished_andesite",
+      ""
+    ]
+  },
+  "additional_lights:fire_pit_l_polished_blackstone": {
+    "result": "additional_lights:fire_pit_l_polished_blackstone",
+    "count": 1,
+    "ingredients": [
+      "minecraft:coal",
+      "minecraft:coal",
+      "",
+      "minecraft:polished_blackstone",
+      "minecraft:polished_blackstone",
+      "",
+      "minecraft:polished_blackstone",
+      "minecraft:polished_blackstone",
+      ""
+    ]
+  },
+  "additional_lights:fire_pit_l_polished_diorite": {
+    "result": "additional_lights:fire_pit_l_polished_diorite",
+    "count": 1,
+    "ingredients": [
+      "minecraft:coal",
+      "minecraft:coal",
+      "",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      ""
+    ]
+  },
+  "additional_lights:fire_pit_l_polished_granite": {
+    "result": "additional_lights:fire_pit_l_polished_granite",
+    "count": 1,
+    "ingredients": [
+      "minecraft:coal",
+      "minecraft:coal",
+      "",
+      "minecraft:polished_granite",
+      "minecraft:polished_granite",
+      "",
+      "minecraft:polished_granite",
+      "minecraft:polished_granite",
+      ""
+    ]
+  },
+  "additional_lights:fire_pit_l_red_nether_bricks": {
+    "result": "additional_lights:fire_pit_l_red_nether_bricks",
+    "count": 1,
+    "ingredients": [
+      "minecraft:coal",
+      "minecraft:coal",
+      "",
+      "minecraft:red_nether_bricks",
+      "minecraft:red_nether_bricks",
+      "",
+      "minecraft:red_nether_bricks",
+      "minecraft:red_nether_bricks",
+      ""
+    ]
+  },
+  "additional_lights:fire_pit_l_sandstone": {
+    "result": "additional_lights:fire_pit_l_sandstone",
+    "count": 1,
+    "ingredients": [
+      "minecraft:coal",
+      "minecraft:coal",
+      "",
+      "minecraft:sandstone",
+      "minecraft:sandstone",
+      "",
+      "minecraft:sandstone",
+      "minecraft:sandstone",
+      ""
+    ]
+  },
+  "additional_lights:fire_pit_l_smooth_stone": {
+    "result": "additional_lights:fire_pit_l_smooth_stone",
+    "count": 1,
+    "ingredients": [
+      "minecraft:coal",
+      "minecraft:coal",
+      "",
+      "minecraft:smooth_stone",
+      "minecraft:smooth_stone",
+      "",
+      "minecraft:smooth_stone",
+      "minecraft:smooth_stone",
+      ""
+    ]
+  },
+  "additional_lights:fire_pit_l_stone": {
+    "result": "additional_lights:fire_pit_l_stone",
+    "count": 1,
+    "ingredients": [
+      "minecraft:coal",
+      "minecraft:coal",
+      "",
+      "minecraft:stone",
+      "minecraft:stone",
+      "",
+      "minecraft:stone",
+      "minecraft:stone",
+      ""
+    ]
+  },
+  "additional_lights:fire_pit_l_stone_bricks": {
+    "result": "additional_lights:fire_pit_l_stone_bricks",
+    "count": 1,
+    "ingredients": [
+      "minecraft:coal",
+      "minecraft:coal",
+      "",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      ""
+    ]
+  },
+  "additional_lights:fire_pit_s_cobblestone": {
+    "result": "additional_lights:fire_pit_s_cobblestone",
+    "count": 1,
+    "ingredients": [
+      "minecraft:coal",
+      "minecraft:coal",
+      "",
+      "minecraft:cobblestone",
+      "minecraft:cobblestone",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "additional_lights:fire_pit_s_cut_sandstone": {
+    "result": "additional_lights:fire_pit_s_cut_sandstone",
+    "count": 1,
+    "ingredients": [
+      "minecraft:coal",
+      "minecraft:coal",
+      "",
+      "minecraft:cut_sandstone",
+      "minecraft:cut_sandstone",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "additional_lights:fire_pit_s_diamond_block": {
+    "result": "additional_lights:fire_pit_s_diamond_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:coal",
+      "minecraft:coal",
+      "",
+      "minecraft:diamond_block",
+      "minecraft:diamond_block",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "additional_lights:fire_pit_s_end_stone": {
+    "result": "additional_lights:fire_pit_s_end_stone",
+    "count": 1,
+    "ingredients": [
+      "minecraft:coal",
+      "minecraft:coal",
+      "",
+      "minecraft:end_stone",
+      "minecraft:end_stone",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "additional_lights:fire_pit_s_end_stone_bricks": {
+    "result": "additional_lights:fire_pit_s_end_stone_bricks",
+    "count": 1,
+    "ingredients": [
+      "minecraft:coal",
+      "minecraft:coal",
+      "",
+      "minecraft:end_stone_bricks",
+      "minecraft:end_stone_bricks",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "additional_lights:fire_pit_s_gold_block": {
+    "result": "additional_lights:fire_pit_s_gold_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:coal",
+      "minecraft:coal",
+      "",
+      "minecraft:gold_block",
+      "minecraft:gold_block",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "additional_lights:fire_pit_s_iron_block": {
+    "result": "additional_lights:fire_pit_s_iron_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:coal",
+      "minecraft:coal",
+      "",
+      "minecraft:iron_block",
+      "minecraft:iron_block",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "additional_lights:fire_pit_s_magenta_wool": {
+    "result": "additional_lights:fire_pit_s_magenta_wool",
+    "count": 1,
+    "ingredients": [
+      "minecraft:coal",
+      "minecraft:coal",
+      "",
+      "minecraft:magenta_wool",
+      "minecraft:magenta_wool",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "additional_lights:fire_pit_s_mossy_cobblestone": {
+    "result": "additional_lights:fire_pit_s_mossy_cobblestone",
+    "count": 1,
+    "ingredients": [
+      "minecraft:coal",
+      "minecraft:coal",
+      "",
+      "minecraft:mossy_cobblestone",
+      "minecraft:mossy_cobblestone",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "additional_lights:fire_pit_s_mossy_stone_bricks": {
+    "result": "additional_lights:fire_pit_s_mossy_stone_bricks",
+    "count": 1,
+    "ingredients": [
+      "minecraft:coal",
+      "minecraft:coal",
+      "",
+      "minecraft:mossy_stone_bricks",
+      "minecraft:mossy_stone_bricks",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "additional_lights:fire_pit_s_nether_bricks": {
+    "result": "additional_lights:fire_pit_s_nether_bricks",
+    "count": 1,
+    "ingredients": [
+      "minecraft:coal",
+      "minecraft:coal",
+      "",
+      "minecraft:nether_bricks",
+      "minecraft:nether_bricks",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "additional_lights:fire_pit_s_packed_ice": {
+    "result": "additional_lights:fire_pit_s_packed_ice",
+    "count": 1,
+    "ingredients": [
+      "minecraft:coal",
+      "minecraft:coal",
+      "",
+      "minecraft:packed_ice",
+      "minecraft:packed_ice",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "additional_lights:fire_pit_s_pink_wool": {
+    "result": "additional_lights:fire_pit_s_pink_wool",
+    "count": 1,
+    "ingredients": [
+      "minecraft:coal",
+      "minecraft:coal",
+      "",
+      "minecraft:pink_wool",
+      "minecraft:pink_wool",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "additional_lights:fire_pit_s_polished_andesite": {
+    "result": "additional_lights:fire_pit_s_polished_andesite",
+    "count": 1,
+    "ingredients": [
+      "minecraft:coal",
+      "minecraft:coal",
+      "",
+      "minecraft:polished_andesite",
+      "minecraft:polished_andesite",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "additional_lights:fire_pit_s_polished_blackstone": {
+    "result": "additional_lights:fire_pit_s_polished_blackstone",
+    "count": 1,
+    "ingredients": [
+      "minecraft:coal",
+      "minecraft:coal",
+      "",
+      "minecraft:polished_blackstone",
+      "minecraft:polished_blackstone",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "additional_lights:fire_pit_s_polished_diorite": {
+    "result": "additional_lights:fire_pit_s_polished_diorite",
+    "count": 1,
+    "ingredients": [
+      "minecraft:coal",
+      "minecraft:coal",
+      "",
+      "minecraft:polished_diorite",
+      "minecraft:polished_diorite",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "additional_lights:fire_pit_s_polished_granite": {
+    "result": "additional_lights:fire_pit_s_polished_granite",
+    "count": 1,
+    "ingredients": [
+      "minecraft:coal",
+      "minecraft:coal",
+      "",
+      "minecraft:polished_granite",
+      "minecraft:polished_granite",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "additional_lights:fire_pit_s_red_nether_bricks": {
+    "result": "additional_lights:fire_pit_s_red_nether_bricks",
+    "count": 1,
+    "ingredients": [
+      "minecraft:coal",
+      "minecraft:coal",
+      "",
+      "minecraft:red_nether_bricks",
+      "minecraft:red_nether_bricks",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "additional_lights:fire_pit_s_sandstone": {
+    "result": "additional_lights:fire_pit_s_sandstone",
+    "count": 1,
+    "ingredients": [
+      "minecraft:coal",
+      "minecraft:coal",
+      "",
+      "minecraft:sandstone",
+      "minecraft:sandstone",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "additional_lights:fire_pit_s_smooth_stone": {
+    "result": "additional_lights:fire_pit_s_smooth_stone",
+    "count": 1,
+    "ingredients": [
+      "minecraft:coal",
+      "minecraft:coal",
+      "",
+      "minecraft:smooth_stone",
+      "minecraft:smooth_stone",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "additional_lights:fire_pit_s_stone": {
+    "result": "additional_lights:fire_pit_s_stone",
+    "count": 1,
+    "ingredients": [
+      "minecraft:coal",
+      "minecraft:coal",
+      "",
+      "minecraft:stone",
+      "minecraft:stone",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "additional_lights:fire_pit_s_stone_bricks": {
+    "result": "additional_lights:fire_pit_s_stone_bricks",
+    "count": 1,
+    "ingredients": [
+      "minecraft:coal",
+      "minecraft:coal",
+      "",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "apothic_enchanting:filtering_shelf": {
+    "result": "apothic_enchanting:filtering_shelf",
+    "count": 1,
+    "ingredients": [
+      "minecraft:prismarine_bricks",
+      "apothic_enchanting:infused_seashelf",
+      "minecraft:prismarine_bricks",
+      "minecraft:prismarine_brick_slab",
+      "minecraft:prismarine_brick_slab",
+      "minecraft:prismarine_brick_slab",
+      "minecraft:prismarine_bricks",
+      "apothic_enchanting:infused_seashelf",
+      "minecraft:prismarine_bricks"
+    ]
+  },
+  "apothic_enchanting:fishing_tome": {
+    "result": "apothic_enchanting:fishing_tome",
+    "count": 2,
+    "ingredients": [
+      "",
+      "",
+      "minecraft:blaze_rod",
+      "",
+      "minecraft:stick",
+      "minecraft:book",
+      "minecraft:stick",
+      "",
+      "minecraft:book"
+    ]
+  },
+  "aquaculture:fishing_line": {
+    "result": "aquaculture:fishing_line",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:string",
+      "",
+      "minecraft:string",
+      "minecraft:iron_ingot",
+      "minecraft:string",
+      "",
+      "minecraft:string",
+      ""
+    ]
+  },
+  "minecraft:fire_charge": {
+    "result": "minecraft:fire_charge",
+    "count": 3,
+    "ingredients": [
+      "minecraft:gunpowder",
+      "minecraft:blaze_powder",
+      "minecraft:coal",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:fir_boat": {
+    "result": "biomeswevegone:fir_boat",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:fir_planks",
+      "",
+      "biomeswevegone:fir_planks",
+      "biomeswevegone:fir_planks",
+      "biomeswevegone:fir_planks",
+      "biomeswevegone:fir_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:fir_bookshelf": {
+    "result": "biomeswevegone:fir_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:fir_planks",
+      "biomeswevegone:fir_planks",
+      "biomeswevegone:fir_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "biomeswevegone:fir_planks",
+      "biomeswevegone:fir_planks",
+      "biomeswevegone:fir_planks"
+    ]
+  },
+  "biomeswevegone:fir_button": {
+    "result": "biomeswevegone:fir_button",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:fir_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:fir_chest_boat": {
+    "result": "biomeswevegone:fir_chest_boat",
+    "count": 1,
+    "ingredients": [
+      "minecraft:chest",
+      "biomeswevegone:fir_boat",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:fir_crafting_table": {
+    "result": "biomeswevegone:fir_crafting_table",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:fir_planks",
+      "biomeswevegone:fir_planks",
+      "",
+      "biomeswevegone:fir_planks",
+      "biomeswevegone:fir_planks",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:fir_door": {
+    "result": "biomeswevegone:fir_door",
+    "count": 3,
+    "ingredients": [
+      "biomeswevegone:fir_planks",
+      "biomeswevegone:fir_planks",
+      "",
+      "biomeswevegone:fir_planks",
+      "biomeswevegone:fir_planks",
+      "",
+      "biomeswevegone:fir_planks",
+      "biomeswevegone:fir_planks",
+      ""
+    ]
+  },
+  "biomeswevegone:fir_fence": {
+    "result": "biomeswevegone:fir_fence",
+    "count": 3,
+    "ingredients": [
+      "biomeswevegone:fir_planks",
+      "minecraft:stick",
+      "biomeswevegone:fir_planks",
+      "biomeswevegone:fir_planks",
+      "minecraft:stick",
+      "biomeswevegone:fir_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:fir_fence_gate": {
+    "result": "biomeswevegone:fir_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "biomeswevegone:fir_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "biomeswevegone:fir_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:fir_hanging_sign": {
+    "result": "biomeswevegone:fir_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "biomeswevegone:stripped_fir_log",
+      "biomeswevegone:stripped_fir_log",
+      "biomeswevegone:stripped_fir_log",
+      "biomeswevegone:stripped_fir_log",
+      "biomeswevegone:stripped_fir_log",
+      "biomeswevegone:stripped_fir_log"
+    ]
+  },
+  "biomeswevegone:fir_planks": {
+    "result": "biomeswevegone:fir_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:fir_pressure_plate": {
+    "result": "biomeswevegone:fir_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:fir_planks",
+      "biomeswevegone:fir_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:fir_sign": {
+    "result": "biomeswevegone:fir_sign",
+    "count": 3,
+    "ingredients": [
+      "biomeswevegone:fir_planks",
+      "biomeswevegone:fir_planks",
+      "biomeswevegone:fir_planks",
+      "biomeswevegone:fir_planks",
+      "biomeswevegone:fir_planks",
+      "biomeswevegone:fir_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "biomeswevegone:fir_slab": {
+    "result": "biomeswevegone:fir_slab",
+    "count": 6,
+    "ingredients": [
+      "biomeswevegone:fir_planks",
+      "biomeswevegone:fir_planks",
+      "biomeswevegone:fir_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:fir_stairs": {
+    "result": "biomeswevegone:fir_stairs",
+    "count": 4,
+    "ingredients": [
+      "biomeswevegone:fir_planks",
+      "",
+      "",
+      "biomeswevegone:fir_planks",
+      "biomeswevegone:fir_planks",
+      "",
+      "biomeswevegone:fir_planks",
+      "biomeswevegone:fir_planks",
+      "biomeswevegone:fir_planks"
+    ]
+  },
+  "biomeswevegone:fir_trapdoor": {
+    "result": "biomeswevegone:fir_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "biomeswevegone:fir_planks",
+      "biomeswevegone:fir_planks",
+      "biomeswevegone:fir_planks",
+      "biomeswevegone:fir_planks",
+      "biomeswevegone:fir_planks",
+      "biomeswevegone:fir_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:fir_wood": {
+    "result": "biomeswevegone:fir_wood",
+    "count": 3,
+    "ingredients": [
+      "biomeswevegone:fir_log",
+      "biomeswevegone:fir_log",
+      "",
+      "biomeswevegone:fir_log",
+      "biomeswevegone:fir_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:filter": {
+    "result": "create:filter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron",
+      "minecraft:white_wool",
+      "minecraft:iron",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:fire_coral_block": {
+    "result": "minecraft:fire_coral_block",
+    "count": 12,
+    "ingredients": [
+      "mysticalagriculture:coral_essence",
+      "mysticalagriculture:coral_essence",
+      "mysticalagriculture:coral_essence",
+      "mysticalagriculture:coral_essence",
+      "minecraft:red",
+      "mysticalagriculture:coral_essence",
+      "mysticalagriculture:coral_essence",
+      "mysticalagriculture:coral_essence",
+      "mysticalagriculture:coral_essence"
+    ]
+  },
+  "extendedae:fishbig": {
+    "result": "extendedae:fishbig",
+    "count": 1,
+    "ingredients": [
+      "minecraft:pufferfish",
+      "minecraft:pufferfish",
+      "minecraft:pufferfish",
+      "minecraft:pufferfish",
+      "",
+      "minecraft:pufferfish",
+      "minecraft:pufferfish",
+      "minecraft:pufferfish",
+      "minecraft:pufferfish"
+    ]
+  },
+  "twilightforest:firefly": {
+    "result": "twilightforest:firefly",
+    "count": 8,
+    "ingredients": [
+      "hostilenetworks:twilight_prediction",
+      "hostilenetworks:twilight_prediction",
+      "minecraft:torch",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:fire_stew": {
+    "result": "iceandfire:fire_stew",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bowl",
+      "minecraft:blaze_rod",
+      "iceandfire:fire_lily",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "irons_spellbooks:firefly_jar": {
+    "result": "irons_spellbooks:firefly_jar",
+    "count": 1,
+    "ingredients": [
+      "",
+      "irons_spellbooks:arcane_essence",
+      "",
+      "minecraft:glass",
+      "minecraft:lantern",
+      "minecraft:glass",
+      "",
+      "minecraft:glass",
+      ""
+    ]
+  },
+  "irons_spellbooks:fireward_ring": {
+    "result": "irons_spellbooks:fireward_ring",
+    "count": 1,
+    "ingredients": [
+      "",
+      "irons_spellbooks:cinder_essence",
+      "",
+      "irons_spellbooks:cinder_essence",
+      "irons_spellbooks:mithril_scrap",
+      "irons_spellbooks:cinder_essence",
+      "",
+      "irons_spellbooks:cinder_essence",
+      ""
+    ]
+  },
+  "irons_spellbooks:fire_rune": {
+    "result": "irons_spellbooks:fire_rune",
+    "count": 1,
+    "ingredients": [
+      "minecraft:fire_focus",
+      "minecraft:fire_focus",
+      "minecraft:fire_focus",
+      "minecraft:fire_focus",
+      "irons_spellbooks:blank_rune",
+      "minecraft:fire_focus",
+      "minecraft:fire_focus",
+      "minecraft:fire_focus",
+      "minecraft:fire_focus"
+    ]
+  },
+  "irons_spellbooks:fire_upgrade_orb": {
+    "result": "irons_spellbooks:fire_upgrade_orb",
+    "count": 1,
+    "ingredients": [
+      "irons_spellbooks:fire_rune",
+      "irons_spellbooks:fire_rune",
+      "irons_spellbooks:fire_rune",
+      "irons_spellbooks:fire_rune",
+      "irons_spellbooks:upgrade_orb",
+      "irons_spellbooks:fire_rune",
+      "irons_spellbooks:fire_rune",
+      "irons_spellbooks:fire_rune",
+      "irons_spellbooks:fire_rune"
+    ]
+  },
+  "laserio:filter_basic": {
+    "result": "laserio:filter_basic",
+    "count": 1,
+    "ingredients": [
+      "laserio:filter_basic",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "laserio:filter_count": {
+    "result": "laserio:filter_count",
+    "count": 1,
+    "ingredients": [
+      "laserio:filter_count",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "laserio:filter_mod": {
+    "result": "laserio:filter_mod",
+    "count": 1,
+    "ingredients": [
+      "laserio:filter_mod",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "laserio:filter_nbt": {
+    "result": "laserio:filter_nbt",
+    "count": 1,
+    "ingredients": [
+      "laserio:filter_nbt",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "laserio:filter_tag": {
+    "result": "laserio:filter_tag",
+    "count": 1,
+    "ingredients": [
+      "laserio:filter_tag",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mekanismgenerators:fission_reactor_casing": {
+    "result": "mekanismgenerators:fission_reactor_casing",
+    "count": 4,
+    "ingredients": [
+      "",
+      "modern_industrialization:lead_ingot",
+      "",
+      "modern_industrialization:lead_ingot",
+      "mekanism:steel_casing",
+      "modern_industrialization:lead_ingot",
+      "",
+      "modern_industrialization:lead_ingot",
+      ""
+    ]
+  },
+  "mekanismgenerators:fission_fuel_assembly": {
+    "result": "mekanismgenerators:fission_fuel_assembly",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:lead_ingot",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:lead_ingot",
+      "modern_industrialization:lead_ingot",
+      "mekanism:basic_chemical_tank",
+      "modern_industrialization:lead_ingot",
+      "modern_industrialization:lead_ingot",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:lead_ingot"
+    ]
+  },
+  "mekanismgenerators:fission_reactor_logic_adapter": {
+    "result": "mekanismgenerators:fission_reactor_logic_adapter",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:redstone",
+      "",
+      "minecraft:redstone",
+      "mekanismgenerators:fission_reactor_casing",
+      "minecraft:redstone",
+      "",
+      "minecraft:redstone",
+      ""
+    ]
+  },
+  "mekanismgenerators:fission_reactor_port": {
+    "result": "mekanismgenerators:fission_reactor_port",
+    "count": 2,
+    "ingredients": [
+      "",
+      "mekanismgenerators:fission_reactor_casing",
+      "",
+      "mekanismgenerators:fission_reactor_casing",
+      "minecraft:elite",
+      "mekanismgenerators:fission_reactor_casing",
+      "",
+      "mekanismgenerators:fission_reactor_casing",
+      ""
+    ]
+  },
+  "merrymaking:fireplace_logs": {
+    "result": "merrymaking:fireplace_logs",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_log",
+      "minecraft:oak_log",
+      "minecraft:oak_log",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecolonies:fish_n_chips": {
+    "result": "minecolonies:fish_n_chips",
+    "count": 1,
+    "ingredients": [
+      "minecolonies:garlic",
+      "minecolonies:onion",
+      "minecolonies:durum",
+      "minecraft:raw_fish",
+      "minecraft:potato",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:firework_rocket": {
+    "result": "minecraft:firework_rocket",
+    "count": 3,
+    "ingredients": [
+      "minecraft:gunpowder",
+      "minecraft:paper",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:fishing_rod": {
+    "result": "minecraft:fishing_rod",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "minecraft:stick",
+      "minecraft:string",
+      "minecraft:stick",
+      "",
+      "minecraft:string"
+    ]
+  },
+  "moderndynamics:filter": {
+    "result": "moderndynamics:filter",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:lapis_lazuli",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:redstone",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:paper",
+      ""
+    ]
+  },
+  "modern_industrialization:fire_clay_bricks": {
+    "result": "modern_industrialization:fire_clay_bricks",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:fire_clay_brick",
+      "modern_industrialization:fire_clay_brick",
+      "",
+      "modern_industrialization:fire_clay_brick",
+      "modern_industrialization:fire_clay_brick",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:fire_clay_dust": {
+    "result": "modern_industrialization:fire_clay_dust",
+    "count": 3,
+    "ingredients": [
+      "minecraft:clay_ball",
+      "modern_industrialization:brick_dust",
+      "",
+      "minecraft:clay_ball",
+      "modern_industrialization:brick_dust",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modularrouters:filter_round_robin_augment": {
+    "result": "modularrouters:filter_round_robin_augment",
+    "count": 1,
+    "ingredients": [
+      "modularrouters:augment_core",
+      "minecraft:clock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mysticalagriculture:fire_agglomeratio": {
+    "result": "mysticalagriculture:fire_agglomeratio",
+    "count": 1,
+    "ingredients": [
+      "minecraft:lava_bucket",
+      "minecraft:gravel",
+      "",
+      "minecraft:dirt",
+      "minecraft:clay_ball",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:fire_coral": {
+    "result": "minecraft:fire_coral",
+    "count": 8,
+    "ingredients": [
+      "",
+      "mysticalagriculture:coral_essence",
+      "",
+      "mysticalagriculture:coral_essence",
+      "minecraft:red",
+      "mysticalagriculture:coral_essence",
+      "",
+      "mysticalagriculture:coral_essence",
+      ""
+    ]
+  },
+  "minecraft:fire_coral_fan": {
+    "result": "minecraft:fire_coral_fan",
+    "count": 6,
+    "ingredients": [
+      "mysticalagriculture:coral_essence",
+      "",
+      "mysticalagriculture:coral_essence",
+      "",
+      "minecraft:red",
+      "",
+      "mysticalagriculture:coral_essence",
+      "",
+      "mysticalagriculture:coral_essence"
+    ]
+  },
+  "twilightforest:fiery_ingot": {
+    "result": "twilightforest:fiery_ingot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:fiery_vial",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "naturesaura:field_creator": {
+    "result": "naturesaura:field_creator",
+    "count": 2,
+    "ingredients": [
+      "minecraft:glass",
+      "naturesaura:sky_ingot",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:piston",
+      "minecraft:glass",
+      "minecraft:glass",
+      "naturesaura:token_rage",
+      "minecraft:glass"
+    ]
+  },
+  "naturesaura:firework_generator": {
+    "result": "naturesaura:firework_generator",
+    "count": 1,
+    "ingredients": [
+      "naturesaura:infused_stone",
+      "minecraft:firework_rocket",
+      "naturesaura:infused_stone",
+      "minecraft:gunpowder",
+      "naturesaura:sky_ingot",
+      "minecraft:gunpowder",
+      "naturesaura:token_rage",
+      "minecraft:lightning_rod",
+      "naturesaura:token_joy"
+    ]
+  },
+  "pamhc2foodcore:fishandchipsitem": {
+    "result": "pamhc2foodcore:fishandchipsitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:rawfish",
+      "minecraft:flour",
+      "pamhc2foodcore:friesitem",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:fishjerkyitem": {
+    "result": "pamhc2foodcore:fishjerkyitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:fishes",
+      "minecraft:salt",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:fishnoodlesoupitem": {
+    "result": "pamhc2foodcore:fishnoodlesoupitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:pasta",
+      "minecraft:stock",
+      "minecraft:vegetables",
+      "minecraft:rawfish",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:fishpotpieitem": {
+    "result": "pamhc2foodcore:fishpotpieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:rawfish",
+      "minecraft:potato",
+      "minecraft:carrot",
+      "minecraft:dough",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:fishsticksitem": {
+    "result": "pamhc2foodcore:fishsticksitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "pamhc2foodcore:groundfishitem",
+      "minecraft:flour",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:fiestacornsaladitem": {
+    "result": "pamhc2foodextended:fiestacornsaladitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:corn",
+      "minecraft:soybean",
+      "minecraft:onion",
+      "minecraft:lime",
+      "minecraft:garlic",
+      "minecraft:chilipepper",
+      "minecraft:tomato",
+      ""
+    ]
+  },
+  "pamhc2foodextended:figbaritem": {
+    "result": "pamhc2foodextended:figbaritem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:fig",
+      "minecraft:sugar",
+      "minecraft:dough",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:figjellyitem": {
+    "result": "pamhc2foodextended:figjellyitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:fig",
+      "minecraft:sugar",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:figjellysandwichitem": {
+    "result": "pamhc2foodextended:figjellysandwichitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:figjelly",
+      "minecraft:bread",
+      "minecraft:nutbutters",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:figjellytoastitem": {
+    "result": "pamhc2foodextended:figjellytoastitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:figjelly",
+      "minecraft:toast",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:figjuiceitem": {
+    "result": "pamhc2foodextended:figjuiceitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_juicer",
+      "minecraft:fig",
+      "minecraft:fig",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:figpieitem": {
+    "result": "pamhc2foodextended:figpieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:fig",
+      "minecraft:sugar",
+      "minecraft:dough",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:figsmoothieitem": {
+    "result": "pamhc2foodextended:figsmoothieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:fig",
+      "minecraft:ices",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:figyogurtitem": {
+    "result": "pamhc2foodextended:figyogurtitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:fig",
+      "minecraft:yogurt",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:firmtofuitem": {
+    "result": "pamhc2foodextended:firmtofuitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_roller",
+      "pamhc2foodextended:silkentofuitem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:fishcakesitem": {
+    "result": "pamhc2foodextended:fishcakesitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:groundfish",
+      "minecraft:egg",
+      "minecraft:toast",
+      "minecraft:scallion",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:fishdinneritem": {
+    "result": "pamhc2foodextended:fishdinneritem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_skillet",
+      "minecraft:lemon",
+      "minecraft:batter",
+      "minecraft:rawfish",
+      "minecraft:mayonaise",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:fishfingersandcustarditem": {
+    "result": "pamhc2foodextended:fishfingersandcustarditem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:groundfish",
+      "minecraft:batter",
+      "minecraft:mayonaise",
+      "minecraft:mustard",
+      "minecraft:garlic",
+      "minecraft:lemon",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:fishlettucewrapitem": {
+    "result": "pamhc2foodextended:fishlettucewrapitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:lettuce",
+      "minecraft:rawfish",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:fishtacoitem": {
+    "result": "pamhc2foodextended:fishtacoitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:rawfish",
+      "minecraft:lettuce",
+      "minecraft:cheese",
+      "minecraft:tortilla",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:fivespiceitem": {
+    "result": "pamhc2foodextended:fivespiceitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_grinder",
+      "minecraft:blackpepper",
+      "minecraft:spiceleaf",
+      "minecraft:groundcinnamon",
+      "minecraft:groundnutmeg",
+      "minecraft:ginger",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2trees:fig_sapling": {
+    "result": "pamhc2trees:fig_sapling",
+    "count": 1,
+    "ingredients": [
+      "pamhc2trees:figitem",
+      "pamhc2trees:figitem",
+      "pamhc2trees:figitem",
+      "pamhc2trees:figitem",
+      "pamhc2trees:figitem",
+      "pamhc2trees:figitem",
+      "pamhc2trees:figitem",
+      "pamhc2trees:figitem",
+      "minecraft:saplings"
+    ]
+  },
+  "pipez:filter_destination_tool": {
+    "result": "pipez:filter_destination_tool",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:redstone",
+      "minecraft:glass",
+      "minecraft:redstone",
+      "minecraft:iron_ingot",
+      "minecraft:buttons",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "productivemetalworks:fire_clay": {
+    "result": "productivemetalworks:fire_clay",
+    "count": 4,
+    "ingredients": [
+      "minecraft:clay_ball",
+      "minecraft:sands",
+      "minecraft:clay_ball",
+      "minecraft:sands",
+      "minecraft:clay_ball",
+      "minecraft:sands",
+      "minecraft:clay_ball",
+      "minecraft:sands",
+      "minecraft:clay_ball"
+    ]
+  },
+  "productivetrees:finger_lime_bookshelf": {
+    "result": "productivetrees:finger_lime_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:finger_lime_planks",
+      "productivetrees:finger_lime_planks",
+      "productivetrees:finger_lime_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:finger_lime_planks",
+      "productivetrees:finger_lime_planks",
+      "productivetrees:finger_lime_planks"
+    ]
+  },
+  "productivetrees:firecracker_bookshelf": {
+    "result": "productivetrees:firecracker_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:firecracker_planks",
+      "productivetrees:firecracker_planks",
+      "productivetrees:firecracker_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:firecracker_planks",
+      "productivetrees:firecracker_planks",
+      "productivetrees:firecracker_planks"
+    ]
+  },
+  "productivetrees:finger_lime_button": {
+    "result": "productivetrees:finger_lime_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:finger_lime_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:firecracker_button": {
+    "result": "productivetrees:firecracker_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:firecracker_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:fig_crate": {
+    "result": "productivetrees:fig_crate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:fig",
+      "minecraft:fig",
+      "minecraft:fig",
+      "minecraft:fig",
+      "productivetrees:fig",
+      "minecraft:fig",
+      "minecraft:fig",
+      "minecraft:fig",
+      "minecraft:fig"
+    ]
+  },
+  "productivetrees:fig": {
+    "result": "productivetrees:fig",
+    "count": 9,
+    "ingredients": [
+      "productivetrees:fig_crate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:finger_lime_crate": {
+    "result": "productivetrees:finger_lime_crate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:finger_lime",
+      "minecraft:finger_lime",
+      "minecraft:finger_lime",
+      "minecraft:finger_lime",
+      "productivetrees:finger_lime",
+      "minecraft:finger_lime",
+      "minecraft:finger_lime",
+      "minecraft:finger_lime",
+      "minecraft:finger_lime"
+    ]
+  },
+  "productivetrees:finger_lime": {
+    "result": "productivetrees:finger_lime",
+    "count": 9,
+    "ingredients": [
+      "productivetrees:finger_lime_crate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:finger_lime_door": {
+    "result": "productivetrees:finger_lime_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:finger_lime_planks",
+      "productivetrees:finger_lime_planks",
+      "",
+      "productivetrees:finger_lime_planks",
+      "productivetrees:finger_lime_planks",
+      "",
+      "productivetrees:finger_lime_planks",
+      "productivetrees:finger_lime_planks",
+      ""
+    ]
+  },
+  "productivetrees:firecracker_door": {
+    "result": "productivetrees:firecracker_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:firecracker_planks",
+      "productivetrees:firecracker_planks",
+      "",
+      "productivetrees:firecracker_planks",
+      "productivetrees:firecracker_planks",
+      "",
+      "productivetrees:firecracker_planks",
+      "productivetrees:firecracker_planks",
+      ""
+    ]
+  },
+  "productivetrees:finger_lime_fence": {
+    "result": "productivetrees:finger_lime_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:finger_lime_planks",
+      "minecraft:stick",
+      "productivetrees:finger_lime_planks",
+      "productivetrees:finger_lime_planks",
+      "minecraft:stick",
+      "productivetrees:finger_lime_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:firecracker_fence": {
+    "result": "productivetrees:firecracker_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:firecracker_planks",
+      "minecraft:stick",
+      "productivetrees:firecracker_planks",
+      "productivetrees:firecracker_planks",
+      "minecraft:stick",
+      "productivetrees:firecracker_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:finger_lime_fence_gate": {
+    "result": "productivetrees:finger_lime_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:finger_lime_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:finger_lime_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:firecracker_fence_gate": {
+    "result": "productivetrees:firecracker_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:firecracker_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:firecracker_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:finger_lime_hanging_sign": {
+    "result": "productivetrees:finger_lime_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:finger_lime_planks",
+      "productivetrees:finger_lime_planks",
+      "productivetrees:finger_lime_planks",
+      "productivetrees:finger_lime_planks",
+      "productivetrees:finger_lime_planks",
+      "productivetrees:finger_lime_planks"
+    ]
+  },
+  "productivetrees:firecracker_hanging_sign": {
+    "result": "productivetrees:firecracker_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:firecracker_planks",
+      "productivetrees:firecracker_planks",
+      "productivetrees:firecracker_planks",
+      "productivetrees:firecracker_planks",
+      "productivetrees:firecracker_planks",
+      "productivetrees:firecracker_planks"
+    ]
+  },
+  "productivetrees:finger_lime_planks": {
+    "result": "productivetrees:finger_lime_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:firecracker_planks": {
+    "result": "productivetrees:firecracker_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:finger_lime_pressure_plate": {
+    "result": "productivetrees:finger_lime_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:finger_lime_planks",
+      "productivetrees:finger_lime_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:firecracker_pressure_plate": {
+    "result": "productivetrees:firecracker_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:firecracker_planks",
+      "productivetrees:firecracker_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:finger_lime_sign": {
+    "result": "productivetrees:finger_lime_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:finger_lime_planks",
+      "productivetrees:finger_lime_planks",
+      "productivetrees:finger_lime_planks",
+      "productivetrees:finger_lime_planks",
+      "productivetrees:finger_lime_planks",
+      "productivetrees:finger_lime_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:firecracker_sign": {
+    "result": "productivetrees:firecracker_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:firecracker_planks",
+      "productivetrees:firecracker_planks",
+      "productivetrees:firecracker_planks",
+      "productivetrees:firecracker_planks",
+      "productivetrees:firecracker_planks",
+      "productivetrees:firecracker_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:finger_lime_slab": {
+    "result": "productivetrees:finger_lime_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:finger_lime_planks",
+      "productivetrees:finger_lime_planks",
+      "productivetrees:finger_lime_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:firecracker_slab": {
+    "result": "productivetrees:firecracker_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:firecracker_planks",
+      "productivetrees:firecracker_planks",
+      "productivetrees:firecracker_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:finger_lime_stairs": {
+    "result": "productivetrees:finger_lime_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:finger_lime_planks",
+      "",
+      "",
+      "productivetrees:finger_lime_planks",
+      "productivetrees:finger_lime_planks",
+      "",
+      "productivetrees:finger_lime_planks",
+      "productivetrees:finger_lime_planks",
+      "productivetrees:finger_lime_planks"
+    ]
+  },
+  "productivetrees:firecracker_stairs": {
+    "result": "productivetrees:firecracker_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:firecracker_planks",
+      "",
+      "",
+      "productivetrees:firecracker_planks",
+      "productivetrees:firecracker_planks",
+      "",
+      "productivetrees:firecracker_planks",
+      "productivetrees:firecracker_planks",
+      "productivetrees:firecracker_planks"
+    ]
+  },
+  "productivetrees:finger_lime_trapdoor": {
+    "result": "productivetrees:finger_lime_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:finger_lime_planks",
+      "productivetrees:finger_lime_planks",
+      "productivetrees:finger_lime_planks",
+      "productivetrees:finger_lime_planks",
+      "productivetrees:finger_lime_planks",
+      "productivetrees:finger_lime_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:firecracker_trapdoor": {
+    "result": "productivetrees:firecracker_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:firecracker_planks",
+      "productivetrees:firecracker_planks",
+      "productivetrees:firecracker_planks",
+      "productivetrees:firecracker_planks",
+      "productivetrees:firecracker_planks",
+      "productivetrees:firecracker_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:finger_lime_wood": {
+    "result": "productivetrees:finger_lime_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:finger_lime_log",
+      "productivetrees:finger_lime_log",
+      "",
+      "productivetrees:finger_lime_log",
+      "productivetrees:finger_lime_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:firecracker_wood": {
+    "result": "productivetrees:firecracker_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:firecracker_log",
+      "productivetrees:firecracker_log",
+      "",
+      "productivetrees:firecracker_log",
+      "productivetrees:firecracker_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "quarryplus:filter_module": {
+    "result": "quarryplus:filter_module",
+    "count": 1,
+    "ingredients": [
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:ender_pearl",
+      "minecraft:markers",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "rftoolsbase:filter_module": {
+    "result": "rftoolsbase:filter_module",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:hopper",
+      "",
+      "minecraft:redstone",
+      "minecraft:iron_ingot",
+      "minecraft:redstone",
+      "",
+      "minecraft:paper",
+      ""
+    ]
+  },
+  "silentgear:fine_silk": {
+    "result": "silentgear:fine_silk",
+    "count": 4,
+    "ingredients": [
+      "silentgear:fine_silk_cloth",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgear:fine_silk_cloth": {
+    "result": "silentgear:fine_silk_cloth",
+    "count": 1,
+    "ingredients": [
+      "silentgear:fine_silk",
+      "silentgear:fine_silk",
+      "",
+      "silentgear:fine_silk",
+      "silentgear:fine_silk",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgear:fishing_rod_blueprint": {
+    "result": "silentgear:fishing_rod_blueprint",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "minecraft:stick",
+      "minecraft:paper",
+      "minecraft:stick",
+      "",
+      "minecraft:paper"
+    ]
+  },
+  "silentgear:fishing_rod_template": {
+    "result": "silentgear:fishing_rod_template",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "minecraft:stick",
+      "minecraft:template_boards",
+      "minecraft:stick",
+      "",
+      "minecraft:template_boards"
+    ]
+  },
+  "sophisticatedbackpacks:filter_upgrade": {
+    "result": "sophisticatedbackpacks:filter_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:string",
+      "sophisticatedstorage:filter_upgrade",
+      "minecraft:string",
+      "",
+      "minecraft:leather",
+      "",
+      "minecraft:string",
+      "",
+      "minecraft:string"
+    ]
+  },
+  "sophisticatedstorage:filter_upgrade": {
+    "result": "sophisticatedstorage:filter_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "sophisticatedbackpacks:filter_upgrade",
+      "minecraft:oak_planks",
+      "",
+      "minecraft:oak_planks",
+      "",
+      "minecraft:oak_planks",
+      "",
+      "minecraft:oak_planks"
+    ]
+  },
+  "supplementaries:fine_wood": {
+    "result": "supplementaries:fine_wood",
+    "count": 8,
+    "ingredients": [
+      "minecraft:oak_log",
+      "minecraft:oak_log",
+      "minecraft:oak_log",
+      "minecraft:oak_log",
+      "minecraft:resin_clump",
+      "minecraft:oak_log",
+      "minecraft:oak_log",
+      "minecraft:oak_log",
+      "minecraft:oak_log"
+    ]
+  },
+  "supplementaries:fine_wood_slab": {
+    "result": "supplementaries:fine_wood_slab",
+    "count": 6,
+    "ingredients": [
+      "supplementaries:fine_wood",
+      "supplementaries:fine_wood",
+      "supplementaries:fine_wood",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "supplementaries:fine_wood_stairs": {
+    "result": "supplementaries:fine_wood_stairs",
+    "count": 4,
+    "ingredients": [
+      "supplementaries:fine_wood",
+      "",
+      "",
+      "supplementaries:fine_wood",
+      "supplementaries:fine_wood",
+      "",
+      "supplementaries:fine_wood",
+      "supplementaries:fine_wood",
+      "supplementaries:fine_wood"
+    ]
+  },
+  "supplementaries:fire_pit": {
+    "result": "supplementaries:fire_pit",
+    "count": 1,
+    "ingredients": [
+      "minecraft:copper_ingot",
+      "minecraft:coal",
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "",
+      "",
+      ""
+    ]
+  },
+  "tombstone:fishing_rod_of_misadventure": {
+    "result": "tombstone:fishing_rod_of_misadventure",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "dead_bush",
+      "",
+      "dead_bush",
+      "tombstone:grave_dust",
+      "dead_bush",
+      "",
+      "tombstone:grave_dust"
+    ]
+  },
+  "twilightforest:firefly_jar": {
+    "result": "twilightforest:firefly_jar",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:firefly",
+      "twilightforest:mason_jar",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:firefly_particle_spawner": {
+    "result": "twilightforest:firefly_particle_spawner",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:firefly_jar",
+      "twilightforest:firefly",
+      "minecraft:poppy",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:fiery_block": {
+    "result": "twilightforest:fiery_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:fiery",
+      "minecraft:fiery",
+      "minecraft:fiery",
+      "minecraft:fiery",
+      "twilightforest:fiery_ingot",
+      "minecraft:fiery",
+      "minecraft:fiery",
+      "minecraft:fiery",
+      "minecraft:fiery"
+    ]
+  },
+  "twilightforest:fiery_boots": {
+    "result": "twilightforest:fiery_boots",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_boots",
+      "minecraft:fiery_vial",
+      "minecraft:fiery_vial",
+      "minecraft:fiery_vial",
+      "minecraft:fiery_vial",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:fiery_chestplate": {
+    "result": "twilightforest:fiery_chestplate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_chestplate",
+      "minecraft:fiery_vial",
+      "minecraft:fiery_vial",
+      "minecraft:fiery_vial",
+      "minecraft:fiery_vial",
+      "minecraft:fiery_vial",
+      "minecraft:fiery_vial",
+      "minecraft:fiery_vial",
+      "minecraft:fiery_vial"
+    ]
+  },
+  "twilightforest:fiery_helmet": {
+    "result": "twilightforest:fiery_helmet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_helmet",
+      "minecraft:fiery_vial",
+      "minecraft:fiery_vial",
+      "minecraft:fiery_vial",
+      "minecraft:fiery_vial",
+      "minecraft:fiery_vial",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:fiery_leggings": {
+    "result": "twilightforest:fiery_leggings",
+    "count": 1,
+    "ingredients": [
+      "minecraft:fiery",
+      "minecraft:fiery",
+      "minecraft:fiery",
+      "minecraft:fiery",
+      "",
+      "minecraft:fiery",
+      "minecraft:fiery",
+      "",
+      "minecraft:fiery"
+    ]
+  },
+  "twilightforest:fiery_pickaxe": {
+    "result": "twilightforest:fiery_pickaxe",
+    "count": 1,
+    "ingredients": [
+      "minecraft:fiery",
+      "minecraft:fiery",
+      "minecraft:fiery",
+      "",
+      "minecraft:blaze",
+      "",
+      "",
+      "minecraft:blaze",
+      ""
+    ]
+  },
+  "twilightforest:fiery_sword": {
+    "result": "twilightforest:fiery_sword",
+    "count": 1,
+    "ingredients": [
+      "minecraft:fiery",
+      "",
+      "",
+      "minecraft:fiery",
+      "",
+      "",
+      "minecraft:blaze",
+      "",
+      ""
+    ]
+  }
+}

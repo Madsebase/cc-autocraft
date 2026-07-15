@@ -1,0 +1,4187 @@
+{
+  "ae2:dense_energy_cell": {
+    "result": "ae2:dense_energy_cell",
+    "count": 1,
+    "ingredients": [
+      "ae2:energy_cell",
+      "ae2:energy_cell",
+      "ae2:energy_cell",
+      "ae2:energy_cell",
+      "ae2:calculation_processor",
+      "ae2:energy_cell",
+      "ae2:energy_cell",
+      "ae2:energy_cell",
+      "ae2:energy_cell"
+    ]
+  },
+  "allthecompressed:deepslate_1x": {
+    "result": "allthecompressed:deepslate_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:deepslate_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:deepslate_2x": {
+    "result": "allthecompressed:deepslate_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:deepslate_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:deepslate_3x": {
+    "result": "allthecompressed:deepslate_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:deepslate_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:deepslate_4x": {
+    "result": "allthecompressed:deepslate_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:deepslate_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:deepslate_5x": {
+    "result": "allthecompressed:deepslate_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:deepslate_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:deepslate_6x": {
+    "result": "allthecompressed:deepslate_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:deepslate_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:deepslate_7x": {
+    "result": "allthecompressed:deepslate_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:deepslate_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:deepslate_8x": {
+    "result": "allthecompressed:deepslate_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:deepslate_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:deepslate_9x": {
+    "result": "allthecompressed:deepslate_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:deepslate_8x",
+      "allthecompressed:deepslate_8x",
+      "allthecompressed:deepslate_8x",
+      "allthecompressed:deepslate_8x",
+      "allthecompressed:deepslate_8x",
+      "allthecompressed:deepslate_8x",
+      "allthecompressed:deepslate_8x",
+      "allthecompressed:deepslate_8x",
+      "allthecompressed:deepslate_8x"
+    ]
+  },
+  "minecraft:deepslate": {
+    "result": "minecraft:deepslate",
+    "count": 20,
+    "ingredients": [
+      "mysticalagriculture:deepslate_essence",
+      "mysticalagriculture:deepslate_essence",
+      "mysticalagriculture:deepslate_essence",
+      "mysticalagriculture:deepslate_essence",
+      "mysticalagriculture:coal_essence",
+      "mysticalagriculture:deepslate_essence",
+      "mysticalagriculture:deepslate_essence",
+      "mysticalagriculture:deepslate_essence",
+      "mysticalagriculture:deepslate_essence"
+    ]
+  },
+  "allthemodium:demonic_bookshelf": {
+    "result": "allthemodium:demonic_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks"
+    ]
+  },
+  "allthemodium:demonic_door": {
+    "result": "allthemodium:demonic_door",
+    "count": 3,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      ""
+    ]
+  },
+  "allthemodium:demonic_planks": {
+    "result": "allthemodium:demonic_planks",
+    "count": 4,
+    "ingredients": [
+      "allthemodium:demonic_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthemodium:demonic_trap_door": {
+    "result": "allthemodium:demonic_trap_door",
+    "count": 2,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks"
+    ]
+  },
+  "allthemodium:demonic_wooden_fence": {
+    "result": "allthemodium:demonic_wooden_fence",
+    "count": 3,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "minecraft:oak_planks",
+      "minecraft:stick",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:stick",
+      "minecraft:oak_planks"
+    ]
+  },
+  "allthemodium:demonic_wooden_fence_gate": {
+    "result": "allthemodium:demonic_wooden_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "minecraft:stick",
+      "minecraft:oak_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:oak_planks",
+      "minecraft:stick"
+    ]
+  },
+  "allthemodium:demonic_wooden_slabs": {
+    "result": "allthemodium:demonic_wooden_slabs",
+    "count": 6,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks"
+    ]
+  },
+  "allthemodium:demonic_wooden_stairs": {
+    "result": "allthemodium:demonic_wooden_stairs",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "",
+      "",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks"
+    ]
+  },
+  "ars_nouveau:deny_scroll": {
+    "result": "ars_nouveau:deny_scroll",
+    "count": 1,
+    "ingredients": [
+      "ars_nouveau:blank_parchment",
+      "minecraft:cobblestone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:desk_bell": {
+    "result": "bibliocraft:desk_bell",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stone_button",
+      "",
+      "",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:redstone",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "bibliocraft:deeperdarker_bloom_bookcase": {
+    "result": "bibliocraft:deeperdarker_bloom_bookcase",
+    "count": 1,
+    "ingredients": [
+      "deeperdarker:bloom_planks",
+      "deeperdarker:bloom_slab",
+      "deeperdarker:bloom_planks",
+      "deeperdarker:bloom_planks",
+      "deeperdarker:bloom_slab",
+      "deeperdarker:bloom_planks",
+      "deeperdarker:bloom_planks",
+      "deeperdarker:bloom_slab",
+      "deeperdarker:bloom_planks"
+    ]
+  },
+  "bibliocraft:deeperdarker_bloom_fancy_armor_stand": {
+    "result": "bibliocraft:deeperdarker_bloom_fancy_armor_stand",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "deeperdarker:bloom_slab",
+      "deeperdarker:bloom_slab",
+      "deeperdarker:bloom_slab"
+    ]
+  },
+  "bibliocraft:deeperdarker_bloom_fancy_clock": {
+    "result": "bibliocraft:deeperdarker_bloom_fancy_clock",
+    "count": 1,
+    "ingredients": [
+      "deeperdarker:bloom_slab",
+      "minecraft:clock",
+      "deeperdarker:bloom_slab",
+      "deeperdarker:bloom_slab",
+      "minecraft:stick",
+      "deeperdarker:bloom_slab",
+      "deeperdarker:bloom_slab",
+      "minecraft:copper_ingot",
+      "deeperdarker:bloom_slab"
+    ]
+  },
+  "bibliocraft:deeperdarker_bloom_fancy_crafter": {
+    "result": "bibliocraft:deeperdarker_bloom_fancy_crafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black",
+      "minecraft:crafting_tables",
+      "minecraft:feather",
+      "deeperdarker:bloom_planks",
+      "minecraft:glass",
+      "deeperdarker:bloom_planks",
+      "deeperdarker:bloom_planks",
+      "minecraft:crafter",
+      "deeperdarker:bloom_planks"
+    ]
+  },
+  "bibliocraft:deeperdarker_bloom_fancy_sign": {
+    "result": "bibliocraft:deeperdarker_bloom_fancy_sign",
+    "count": 1,
+    "ingredients": [
+      "deeperdarker:bloom_planks",
+      "minecraft:paper",
+      "deeperdarker:bloom_planks",
+      "deeperdarker:bloom_planks",
+      "minecraft:paper",
+      "deeperdarker:bloom_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "bibliocraft:deeperdarker_bloom_grandfather_clock": {
+    "result": "bibliocraft:deeperdarker_bloom_grandfather_clock",
+    "count": 1,
+    "ingredients": [
+      "bibliocraft:deeperdarker_bloom_fancy_clock",
+      "bibliocraft:deeperdarker_bloom_fancy_clock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:deeperdarker_bloom_label": {
+    "result": "bibliocraft:deeperdarker_bloom_label",
+    "count": 1,
+    "ingredients": [
+      "deeperdarker:bloom_slab",
+      "deeperdarker:bloom_slab",
+      "deeperdarker:bloom_slab",
+      "deeperdarker:bloom_slab",
+      "deeperdarker:bloom_slab",
+      "deeperdarker:bloom_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:deeperdarker_bloom_potion_shelf": {
+    "result": "bibliocraft:deeperdarker_bloom_potion_shelf",
+    "count": 1,
+    "ingredients": [
+      "deeperdarker:bloom_slab",
+      "deeperdarker:bloom_slab",
+      "deeperdarker:bloom_slab",
+      "deeperdarker:bloom_planks",
+      "minecraft:glass_bottle",
+      "deeperdarker:bloom_planks",
+      "deeperdarker:bloom_slab",
+      "deeperdarker:bloom_slab",
+      "deeperdarker:bloom_slab"
+    ]
+  },
+  "bibliocraft:deeperdarker_bloom_shelf": {
+    "result": "bibliocraft:deeperdarker_bloom_shelf",
+    "count": 1,
+    "ingredients": [
+      "deeperdarker:bloom_slab",
+      "deeperdarker:bloom_slab",
+      "deeperdarker:bloom_slab",
+      "",
+      "deeperdarker:bloom_planks",
+      "",
+      "deeperdarker:bloom_slab",
+      "deeperdarker:bloom_slab",
+      "deeperdarker:bloom_slab"
+    ]
+  },
+  "bibliocraft:deeperdarker_bloom_table": {
+    "result": "bibliocraft:deeperdarker_bloom_table",
+    "count": 1,
+    "ingredients": [
+      "deeperdarker:bloom_slab",
+      "deeperdarker:bloom_slab",
+      "deeperdarker:bloom_slab",
+      "",
+      "deeperdarker:bloom_planks",
+      "",
+      "",
+      "deeperdarker:bloom_planks",
+      ""
+    ]
+  },
+  "bibliocraft:deeperdarker_bloom_tool_rack": {
+    "result": "bibliocraft:deeperdarker_bloom_tool_rack",
+    "count": 1,
+    "ingredients": [
+      "deeperdarker:bloom_slab",
+      "deeperdarker:bloom_slab",
+      "deeperdarker:bloom_slab",
+      "deeperdarker:bloom_slab",
+      "minecraft:iron_ingot",
+      "deeperdarker:bloom_slab",
+      "deeperdarker:bloom_slab",
+      "deeperdarker:bloom_slab",
+      "deeperdarker:bloom_slab"
+    ]
+  },
+  "bibliocraft:deeperdarker_echo_bookcase": {
+    "result": "bibliocraft:deeperdarker_echo_bookcase",
+    "count": 1,
+    "ingredients": [
+      "deeperdarker:echo_planks",
+      "deeperdarker:echo_slab",
+      "deeperdarker:echo_planks",
+      "deeperdarker:echo_planks",
+      "deeperdarker:echo_slab",
+      "deeperdarker:echo_planks",
+      "deeperdarker:echo_planks",
+      "deeperdarker:echo_slab",
+      "deeperdarker:echo_planks"
+    ]
+  },
+  "bibliocraft:deeperdarker_echo_fancy_armor_stand": {
+    "result": "bibliocraft:deeperdarker_echo_fancy_armor_stand",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "deeperdarker:echo_slab",
+      "deeperdarker:echo_slab",
+      "deeperdarker:echo_slab"
+    ]
+  },
+  "bibliocraft:deeperdarker_echo_fancy_clock": {
+    "result": "bibliocraft:deeperdarker_echo_fancy_clock",
+    "count": 1,
+    "ingredients": [
+      "deeperdarker:echo_slab",
+      "minecraft:clock",
+      "deeperdarker:echo_slab",
+      "deeperdarker:echo_slab",
+      "minecraft:stick",
+      "deeperdarker:echo_slab",
+      "deeperdarker:echo_slab",
+      "minecraft:copper_ingot",
+      "deeperdarker:echo_slab"
+    ]
+  },
+  "bibliocraft:deeperdarker_echo_fancy_crafter": {
+    "result": "bibliocraft:deeperdarker_echo_fancy_crafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black",
+      "minecraft:crafting_tables",
+      "minecraft:feather",
+      "deeperdarker:echo_planks",
+      "minecraft:glass",
+      "deeperdarker:echo_planks",
+      "deeperdarker:echo_planks",
+      "minecraft:crafter",
+      "deeperdarker:echo_planks"
+    ]
+  },
+  "bibliocraft:deeperdarker_echo_fancy_sign": {
+    "result": "bibliocraft:deeperdarker_echo_fancy_sign",
+    "count": 1,
+    "ingredients": [
+      "deeperdarker:echo_planks",
+      "minecraft:paper",
+      "deeperdarker:echo_planks",
+      "deeperdarker:echo_planks",
+      "minecraft:paper",
+      "deeperdarker:echo_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "bibliocraft:deeperdarker_echo_grandfather_clock": {
+    "result": "bibliocraft:deeperdarker_echo_grandfather_clock",
+    "count": 1,
+    "ingredients": [
+      "bibliocraft:deeperdarker_echo_fancy_clock",
+      "bibliocraft:deeperdarker_echo_fancy_clock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:deeperdarker_echo_label": {
+    "result": "bibliocraft:deeperdarker_echo_label",
+    "count": 1,
+    "ingredients": [
+      "deeperdarker:echo_slab",
+      "deeperdarker:echo_slab",
+      "deeperdarker:echo_slab",
+      "deeperdarker:echo_slab",
+      "deeperdarker:echo_slab",
+      "deeperdarker:echo_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:deeperdarker_echo_potion_shelf": {
+    "result": "bibliocraft:deeperdarker_echo_potion_shelf",
+    "count": 1,
+    "ingredients": [
+      "deeperdarker:echo_slab",
+      "deeperdarker:echo_slab",
+      "deeperdarker:echo_slab",
+      "deeperdarker:echo_planks",
+      "minecraft:glass_bottle",
+      "deeperdarker:echo_planks",
+      "deeperdarker:echo_slab",
+      "deeperdarker:echo_slab",
+      "deeperdarker:echo_slab"
+    ]
+  },
+  "bibliocraft:deeperdarker_echo_shelf": {
+    "result": "bibliocraft:deeperdarker_echo_shelf",
+    "count": 1,
+    "ingredients": [
+      "deeperdarker:echo_slab",
+      "deeperdarker:echo_slab",
+      "deeperdarker:echo_slab",
+      "",
+      "deeperdarker:echo_planks",
+      "",
+      "deeperdarker:echo_slab",
+      "deeperdarker:echo_slab",
+      "deeperdarker:echo_slab"
+    ]
+  },
+  "bibliocraft:deeperdarker_echo_table": {
+    "result": "bibliocraft:deeperdarker_echo_table",
+    "count": 1,
+    "ingredients": [
+      "deeperdarker:echo_slab",
+      "deeperdarker:echo_slab",
+      "deeperdarker:echo_slab",
+      "",
+      "deeperdarker:echo_planks",
+      "",
+      "",
+      "deeperdarker:echo_planks",
+      ""
+    ]
+  },
+  "bibliocraft:deeperdarker_echo_tool_rack": {
+    "result": "bibliocraft:deeperdarker_echo_tool_rack",
+    "count": 1,
+    "ingredients": [
+      "deeperdarker:echo_slab",
+      "deeperdarker:echo_slab",
+      "deeperdarker:echo_slab",
+      "deeperdarker:echo_slab",
+      "minecraft:iron_ingot",
+      "deeperdarker:echo_slab",
+      "deeperdarker:echo_slab",
+      "deeperdarker:echo_slab",
+      "deeperdarker:echo_slab"
+    ]
+  },
+  "bibliocraft:deep_aether_conberry_bookcase": {
+    "result": "bibliocraft:deep_aether_conberry_bookcase",
+    "count": 1,
+    "ingredients": [
+      "deep_aether:conberry_planks",
+      "deep_aether:conberry_slab",
+      "deep_aether:conberry_planks",
+      "deep_aether:conberry_planks",
+      "deep_aether:conberry_slab",
+      "deep_aether:conberry_planks",
+      "deep_aether:conberry_planks",
+      "deep_aether:conberry_slab",
+      "deep_aether:conberry_planks"
+    ]
+  },
+  "bibliocraft:deep_aether_conberry_fancy_armor_stand": {
+    "result": "bibliocraft:deep_aether_conberry_fancy_armor_stand",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "deep_aether:conberry_slab",
+      "deep_aether:conberry_slab",
+      "deep_aether:conberry_slab"
+    ]
+  },
+  "bibliocraft:deep_aether_conberry_fancy_clock": {
+    "result": "bibliocraft:deep_aether_conberry_fancy_clock",
+    "count": 1,
+    "ingredients": [
+      "deep_aether:conberry_slab",
+      "minecraft:clock",
+      "deep_aether:conberry_slab",
+      "deep_aether:conberry_slab",
+      "minecraft:stick",
+      "deep_aether:conberry_slab",
+      "deep_aether:conberry_slab",
+      "minecraft:copper_ingot",
+      "deep_aether:conberry_slab"
+    ]
+  },
+  "bibliocraft:deep_aether_conberry_fancy_crafter": {
+    "result": "bibliocraft:deep_aether_conberry_fancy_crafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black",
+      "minecraft:crafting_tables",
+      "minecraft:feather",
+      "deep_aether:conberry_planks",
+      "minecraft:glass",
+      "deep_aether:conberry_planks",
+      "deep_aether:conberry_planks",
+      "minecraft:crafter",
+      "deep_aether:conberry_planks"
+    ]
+  },
+  "bibliocraft:deep_aether_conberry_fancy_sign": {
+    "result": "bibliocraft:deep_aether_conberry_fancy_sign",
+    "count": 1,
+    "ingredients": [
+      "deep_aether:conberry_planks",
+      "minecraft:paper",
+      "deep_aether:conberry_planks",
+      "deep_aether:conberry_planks",
+      "minecraft:paper",
+      "deep_aether:conberry_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "bibliocraft:deep_aether_conberry_grandfather_clock": {
+    "result": "bibliocraft:deep_aether_conberry_grandfather_clock",
+    "count": 1,
+    "ingredients": [
+      "bibliocraft:deep_aether_conberry_fancy_clock",
+      "bibliocraft:deep_aether_conberry_fancy_clock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:deep_aether_conberry_label": {
+    "result": "bibliocraft:deep_aether_conberry_label",
+    "count": 1,
+    "ingredients": [
+      "deep_aether:conberry_slab",
+      "deep_aether:conberry_slab",
+      "deep_aether:conberry_slab",
+      "deep_aether:conberry_slab",
+      "deep_aether:conberry_slab",
+      "deep_aether:conberry_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:deep_aether_conberry_potion_shelf": {
+    "result": "bibliocraft:deep_aether_conberry_potion_shelf",
+    "count": 1,
+    "ingredients": [
+      "deep_aether:conberry_slab",
+      "deep_aether:conberry_slab",
+      "deep_aether:conberry_slab",
+      "deep_aether:conberry_planks",
+      "minecraft:glass_bottle",
+      "deep_aether:conberry_planks",
+      "deep_aether:conberry_slab",
+      "deep_aether:conberry_slab",
+      "deep_aether:conberry_slab"
+    ]
+  },
+  "bibliocraft:deep_aether_conberry_shelf": {
+    "result": "bibliocraft:deep_aether_conberry_shelf",
+    "count": 1,
+    "ingredients": [
+      "deep_aether:conberry_slab",
+      "deep_aether:conberry_slab",
+      "deep_aether:conberry_slab",
+      "",
+      "deep_aether:conberry_planks",
+      "",
+      "deep_aether:conberry_slab",
+      "deep_aether:conberry_slab",
+      "deep_aether:conberry_slab"
+    ]
+  },
+  "bibliocraft:deep_aether_conberry_table": {
+    "result": "bibliocraft:deep_aether_conberry_table",
+    "count": 1,
+    "ingredients": [
+      "deep_aether:conberry_slab",
+      "deep_aether:conberry_slab",
+      "deep_aether:conberry_slab",
+      "",
+      "deep_aether:conberry_planks",
+      "",
+      "",
+      "deep_aether:conberry_planks",
+      ""
+    ]
+  },
+  "bibliocraft:deep_aether_conberry_tool_rack": {
+    "result": "bibliocraft:deep_aether_conberry_tool_rack",
+    "count": 1,
+    "ingredients": [
+      "deep_aether:conberry_slab",
+      "deep_aether:conberry_slab",
+      "deep_aether:conberry_slab",
+      "deep_aether:conberry_slab",
+      "minecraft:iron_ingot",
+      "deep_aether:conberry_slab",
+      "deep_aether:conberry_slab",
+      "deep_aether:conberry_slab",
+      "deep_aether:conberry_slab"
+    ]
+  },
+  "bibliocraft:deep_aether_cruderoot_bookcase": {
+    "result": "bibliocraft:deep_aether_cruderoot_bookcase",
+    "count": 1,
+    "ingredients": [
+      "deep_aether:cruderoot_planks",
+      "deep_aether:cruderoot_slab",
+      "deep_aether:cruderoot_planks",
+      "deep_aether:cruderoot_planks",
+      "deep_aether:cruderoot_slab",
+      "deep_aether:cruderoot_planks",
+      "deep_aether:cruderoot_planks",
+      "deep_aether:cruderoot_slab",
+      "deep_aether:cruderoot_planks"
+    ]
+  },
+  "bibliocraft:deep_aether_cruderoot_fancy_armor_stand": {
+    "result": "bibliocraft:deep_aether_cruderoot_fancy_armor_stand",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "deep_aether:cruderoot_slab",
+      "deep_aether:cruderoot_slab",
+      "deep_aether:cruderoot_slab"
+    ]
+  },
+  "bibliocraft:deep_aether_cruderoot_fancy_clock": {
+    "result": "bibliocraft:deep_aether_cruderoot_fancy_clock",
+    "count": 1,
+    "ingredients": [
+      "deep_aether:cruderoot_slab",
+      "minecraft:clock",
+      "deep_aether:cruderoot_slab",
+      "deep_aether:cruderoot_slab",
+      "minecraft:stick",
+      "deep_aether:cruderoot_slab",
+      "deep_aether:cruderoot_slab",
+      "minecraft:copper_ingot",
+      "deep_aether:cruderoot_slab"
+    ]
+  },
+  "bibliocraft:deep_aether_cruderoot_fancy_crafter": {
+    "result": "bibliocraft:deep_aether_cruderoot_fancy_crafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black",
+      "minecraft:crafting_tables",
+      "minecraft:feather",
+      "deep_aether:cruderoot_planks",
+      "minecraft:glass",
+      "deep_aether:cruderoot_planks",
+      "deep_aether:cruderoot_planks",
+      "minecraft:crafter",
+      "deep_aether:cruderoot_planks"
+    ]
+  },
+  "bibliocraft:deep_aether_cruderoot_fancy_sign": {
+    "result": "bibliocraft:deep_aether_cruderoot_fancy_sign",
+    "count": 1,
+    "ingredients": [
+      "deep_aether:cruderoot_planks",
+      "minecraft:paper",
+      "deep_aether:cruderoot_planks",
+      "deep_aether:cruderoot_planks",
+      "minecraft:paper",
+      "deep_aether:cruderoot_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "bibliocraft:deep_aether_cruderoot_grandfather_clock": {
+    "result": "bibliocraft:deep_aether_cruderoot_grandfather_clock",
+    "count": 1,
+    "ingredients": [
+      "bibliocraft:deep_aether_cruderoot_fancy_clock",
+      "bibliocraft:deep_aether_cruderoot_fancy_clock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:deep_aether_cruderoot_label": {
+    "result": "bibliocraft:deep_aether_cruderoot_label",
+    "count": 1,
+    "ingredients": [
+      "deep_aether:cruderoot_slab",
+      "deep_aether:cruderoot_slab",
+      "deep_aether:cruderoot_slab",
+      "deep_aether:cruderoot_slab",
+      "deep_aether:cruderoot_slab",
+      "deep_aether:cruderoot_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:deep_aether_cruderoot_potion_shelf": {
+    "result": "bibliocraft:deep_aether_cruderoot_potion_shelf",
+    "count": 1,
+    "ingredients": [
+      "deep_aether:cruderoot_slab",
+      "deep_aether:cruderoot_slab",
+      "deep_aether:cruderoot_slab",
+      "deep_aether:cruderoot_planks",
+      "minecraft:glass_bottle",
+      "deep_aether:cruderoot_planks",
+      "deep_aether:cruderoot_slab",
+      "deep_aether:cruderoot_slab",
+      "deep_aether:cruderoot_slab"
+    ]
+  },
+  "bibliocraft:deep_aether_cruderoot_shelf": {
+    "result": "bibliocraft:deep_aether_cruderoot_shelf",
+    "count": 1,
+    "ingredients": [
+      "deep_aether:cruderoot_slab",
+      "deep_aether:cruderoot_slab",
+      "deep_aether:cruderoot_slab",
+      "",
+      "deep_aether:cruderoot_planks",
+      "",
+      "deep_aether:cruderoot_slab",
+      "deep_aether:cruderoot_slab",
+      "deep_aether:cruderoot_slab"
+    ]
+  },
+  "bibliocraft:deep_aether_cruderoot_table": {
+    "result": "bibliocraft:deep_aether_cruderoot_table",
+    "count": 1,
+    "ingredients": [
+      "deep_aether:cruderoot_slab",
+      "deep_aether:cruderoot_slab",
+      "deep_aether:cruderoot_slab",
+      "",
+      "deep_aether:cruderoot_planks",
+      "",
+      "",
+      "deep_aether:cruderoot_planks",
+      ""
+    ]
+  },
+  "bibliocraft:deep_aether_cruderoot_tool_rack": {
+    "result": "bibliocraft:deep_aether_cruderoot_tool_rack",
+    "count": 1,
+    "ingredients": [
+      "deep_aether:cruderoot_slab",
+      "deep_aether:cruderoot_slab",
+      "deep_aether:cruderoot_slab",
+      "deep_aether:cruderoot_slab",
+      "minecraft:iron_ingot",
+      "deep_aether:cruderoot_slab",
+      "deep_aether:cruderoot_slab",
+      "deep_aether:cruderoot_slab",
+      "deep_aether:cruderoot_slab"
+    ]
+  },
+  "bibliocraft:deep_aether_roseroot_bookcase": {
+    "result": "bibliocraft:deep_aether_roseroot_bookcase",
+    "count": 1,
+    "ingredients": [
+      "deep_aether:roseroot_planks",
+      "deep_aether:roseroot_slab",
+      "deep_aether:roseroot_planks",
+      "deep_aether:roseroot_planks",
+      "deep_aether:roseroot_slab",
+      "deep_aether:roseroot_planks",
+      "deep_aether:roseroot_planks",
+      "deep_aether:roseroot_slab",
+      "deep_aether:roseroot_planks"
+    ]
+  },
+  "bibliocraft:deep_aether_roseroot_fancy_armor_stand": {
+    "result": "bibliocraft:deep_aether_roseroot_fancy_armor_stand",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "deep_aether:roseroot_slab",
+      "deep_aether:roseroot_slab",
+      "deep_aether:roseroot_slab"
+    ]
+  },
+  "bibliocraft:deep_aether_roseroot_fancy_clock": {
+    "result": "bibliocraft:deep_aether_roseroot_fancy_clock",
+    "count": 1,
+    "ingredients": [
+      "deep_aether:roseroot_slab",
+      "minecraft:clock",
+      "deep_aether:roseroot_slab",
+      "deep_aether:roseroot_slab",
+      "minecraft:stick",
+      "deep_aether:roseroot_slab",
+      "deep_aether:roseroot_slab",
+      "minecraft:copper_ingot",
+      "deep_aether:roseroot_slab"
+    ]
+  },
+  "bibliocraft:deep_aether_roseroot_fancy_crafter": {
+    "result": "bibliocraft:deep_aether_roseroot_fancy_crafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black",
+      "minecraft:crafting_tables",
+      "minecraft:feather",
+      "deep_aether:roseroot_planks",
+      "minecraft:glass",
+      "deep_aether:roseroot_planks",
+      "deep_aether:roseroot_planks",
+      "minecraft:crafter",
+      "deep_aether:roseroot_planks"
+    ]
+  },
+  "bibliocraft:deep_aether_roseroot_fancy_sign": {
+    "result": "bibliocraft:deep_aether_roseroot_fancy_sign",
+    "count": 1,
+    "ingredients": [
+      "deep_aether:roseroot_planks",
+      "minecraft:paper",
+      "deep_aether:roseroot_planks",
+      "deep_aether:roseroot_planks",
+      "minecraft:paper",
+      "deep_aether:roseroot_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "bibliocraft:deep_aether_roseroot_grandfather_clock": {
+    "result": "bibliocraft:deep_aether_roseroot_grandfather_clock",
+    "count": 1,
+    "ingredients": [
+      "bibliocraft:deep_aether_roseroot_fancy_clock",
+      "bibliocraft:deep_aether_roseroot_fancy_clock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:deep_aether_roseroot_label": {
+    "result": "bibliocraft:deep_aether_roseroot_label",
+    "count": 1,
+    "ingredients": [
+      "deep_aether:roseroot_slab",
+      "deep_aether:roseroot_slab",
+      "deep_aether:roseroot_slab",
+      "deep_aether:roseroot_slab",
+      "deep_aether:roseroot_slab",
+      "deep_aether:roseroot_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:deep_aether_roseroot_potion_shelf": {
+    "result": "bibliocraft:deep_aether_roseroot_potion_shelf",
+    "count": 1,
+    "ingredients": [
+      "deep_aether:roseroot_slab",
+      "deep_aether:roseroot_slab",
+      "deep_aether:roseroot_slab",
+      "deep_aether:roseroot_planks",
+      "minecraft:glass_bottle",
+      "deep_aether:roseroot_planks",
+      "deep_aether:roseroot_slab",
+      "deep_aether:roseroot_slab",
+      "deep_aether:roseroot_slab"
+    ]
+  },
+  "bibliocraft:deep_aether_roseroot_shelf": {
+    "result": "bibliocraft:deep_aether_roseroot_shelf",
+    "count": 1,
+    "ingredients": [
+      "deep_aether:roseroot_slab",
+      "deep_aether:roseroot_slab",
+      "deep_aether:roseroot_slab",
+      "",
+      "deep_aether:roseroot_planks",
+      "",
+      "deep_aether:roseroot_slab",
+      "deep_aether:roseroot_slab",
+      "deep_aether:roseroot_slab"
+    ]
+  },
+  "bibliocraft:deep_aether_roseroot_table": {
+    "result": "bibliocraft:deep_aether_roseroot_table",
+    "count": 1,
+    "ingredients": [
+      "deep_aether:roseroot_slab",
+      "deep_aether:roseroot_slab",
+      "deep_aether:roseroot_slab",
+      "",
+      "deep_aether:roseroot_planks",
+      "",
+      "",
+      "deep_aether:roseroot_planks",
+      ""
+    ]
+  },
+  "bibliocraft:deep_aether_roseroot_tool_rack": {
+    "result": "bibliocraft:deep_aether_roseroot_tool_rack",
+    "count": 1,
+    "ingredients": [
+      "deep_aether:roseroot_slab",
+      "deep_aether:roseroot_slab",
+      "deep_aether:roseroot_slab",
+      "deep_aether:roseroot_slab",
+      "minecraft:iron_ingot",
+      "deep_aether:roseroot_slab",
+      "deep_aether:roseroot_slab",
+      "deep_aether:roseroot_slab",
+      "deep_aether:roseroot_slab"
+    ]
+  },
+  "bibliocraft:deep_aether_sunroot_bookcase": {
+    "result": "bibliocraft:deep_aether_sunroot_bookcase",
+    "count": 1,
+    "ingredients": [
+      "deep_aether:sunroot_planks",
+      "deep_aether:sunroot_slab",
+      "deep_aether:sunroot_planks",
+      "deep_aether:sunroot_planks",
+      "deep_aether:sunroot_slab",
+      "deep_aether:sunroot_planks",
+      "deep_aether:sunroot_planks",
+      "deep_aether:sunroot_slab",
+      "deep_aether:sunroot_planks"
+    ]
+  },
+  "bibliocraft:deep_aether_sunroot_fancy_armor_stand": {
+    "result": "bibliocraft:deep_aether_sunroot_fancy_armor_stand",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "deep_aether:sunroot_slab",
+      "deep_aether:sunroot_slab",
+      "deep_aether:sunroot_slab"
+    ]
+  },
+  "bibliocraft:deep_aether_sunroot_fancy_clock": {
+    "result": "bibliocraft:deep_aether_sunroot_fancy_clock",
+    "count": 1,
+    "ingredients": [
+      "deep_aether:sunroot_slab",
+      "minecraft:clock",
+      "deep_aether:sunroot_slab",
+      "deep_aether:sunroot_slab",
+      "minecraft:stick",
+      "deep_aether:sunroot_slab",
+      "deep_aether:sunroot_slab",
+      "minecraft:copper_ingot",
+      "deep_aether:sunroot_slab"
+    ]
+  },
+  "bibliocraft:deep_aether_sunroot_fancy_crafter": {
+    "result": "bibliocraft:deep_aether_sunroot_fancy_crafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black",
+      "minecraft:crafting_tables",
+      "minecraft:feather",
+      "deep_aether:sunroot_planks",
+      "minecraft:glass",
+      "deep_aether:sunroot_planks",
+      "deep_aether:sunroot_planks",
+      "minecraft:crafter",
+      "deep_aether:sunroot_planks"
+    ]
+  },
+  "bibliocraft:deep_aether_sunroot_fancy_sign": {
+    "result": "bibliocraft:deep_aether_sunroot_fancy_sign",
+    "count": 1,
+    "ingredients": [
+      "deep_aether:sunroot_planks",
+      "minecraft:paper",
+      "deep_aether:sunroot_planks",
+      "deep_aether:sunroot_planks",
+      "minecraft:paper",
+      "deep_aether:sunroot_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "bibliocraft:deep_aether_sunroot_grandfather_clock": {
+    "result": "bibliocraft:deep_aether_sunroot_grandfather_clock",
+    "count": 1,
+    "ingredients": [
+      "bibliocraft:deep_aether_sunroot_fancy_clock",
+      "bibliocraft:deep_aether_sunroot_fancy_clock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:deep_aether_sunroot_label": {
+    "result": "bibliocraft:deep_aether_sunroot_label",
+    "count": 1,
+    "ingredients": [
+      "deep_aether:sunroot_slab",
+      "deep_aether:sunroot_slab",
+      "deep_aether:sunroot_slab",
+      "deep_aether:sunroot_slab",
+      "deep_aether:sunroot_slab",
+      "deep_aether:sunroot_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:deep_aether_sunroot_potion_shelf": {
+    "result": "bibliocraft:deep_aether_sunroot_potion_shelf",
+    "count": 1,
+    "ingredients": [
+      "deep_aether:sunroot_slab",
+      "deep_aether:sunroot_slab",
+      "deep_aether:sunroot_slab",
+      "deep_aether:sunroot_planks",
+      "minecraft:glass_bottle",
+      "deep_aether:sunroot_planks",
+      "deep_aether:sunroot_slab",
+      "deep_aether:sunroot_slab",
+      "deep_aether:sunroot_slab"
+    ]
+  },
+  "bibliocraft:deep_aether_sunroot_shelf": {
+    "result": "bibliocraft:deep_aether_sunroot_shelf",
+    "count": 1,
+    "ingredients": [
+      "deep_aether:sunroot_slab",
+      "deep_aether:sunroot_slab",
+      "deep_aether:sunroot_slab",
+      "",
+      "deep_aether:sunroot_planks",
+      "",
+      "deep_aether:sunroot_slab",
+      "deep_aether:sunroot_slab",
+      "deep_aether:sunroot_slab"
+    ]
+  },
+  "bibliocraft:deep_aether_sunroot_table": {
+    "result": "bibliocraft:deep_aether_sunroot_table",
+    "count": 1,
+    "ingredients": [
+      "deep_aether:sunroot_slab",
+      "deep_aether:sunroot_slab",
+      "deep_aether:sunroot_slab",
+      "",
+      "deep_aether:sunroot_planks",
+      "",
+      "",
+      "deep_aether:sunroot_planks",
+      ""
+    ]
+  },
+  "bibliocraft:deep_aether_sunroot_tool_rack": {
+    "result": "bibliocraft:deep_aether_sunroot_tool_rack",
+    "count": 1,
+    "ingredients": [
+      "deep_aether:sunroot_slab",
+      "deep_aether:sunroot_slab",
+      "deep_aether:sunroot_slab",
+      "deep_aether:sunroot_slab",
+      "minecraft:iron_ingot",
+      "deep_aether:sunroot_slab",
+      "deep_aether:sunroot_slab",
+      "deep_aether:sunroot_slab",
+      "deep_aether:sunroot_slab"
+    ]
+  },
+  "bibliocraft:deep_aether_yagroot_bookcase": {
+    "result": "bibliocraft:deep_aether_yagroot_bookcase",
+    "count": 1,
+    "ingredients": [
+      "deep_aether:yagroot_planks",
+      "deep_aether:yagroot_slab",
+      "deep_aether:yagroot_planks",
+      "deep_aether:yagroot_planks",
+      "deep_aether:yagroot_slab",
+      "deep_aether:yagroot_planks",
+      "deep_aether:yagroot_planks",
+      "deep_aether:yagroot_slab",
+      "deep_aether:yagroot_planks"
+    ]
+  },
+  "bibliocraft:deep_aether_yagroot_fancy_armor_stand": {
+    "result": "bibliocraft:deep_aether_yagroot_fancy_armor_stand",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "deep_aether:yagroot_slab",
+      "deep_aether:yagroot_slab",
+      "deep_aether:yagroot_slab"
+    ]
+  },
+  "bibliocraft:deep_aether_yagroot_fancy_clock": {
+    "result": "bibliocraft:deep_aether_yagroot_fancy_clock",
+    "count": 1,
+    "ingredients": [
+      "deep_aether:yagroot_slab",
+      "minecraft:clock",
+      "deep_aether:yagroot_slab",
+      "deep_aether:yagroot_slab",
+      "minecraft:stick",
+      "deep_aether:yagroot_slab",
+      "deep_aether:yagroot_slab",
+      "minecraft:copper_ingot",
+      "deep_aether:yagroot_slab"
+    ]
+  },
+  "bibliocraft:deep_aether_yagroot_fancy_crafter": {
+    "result": "bibliocraft:deep_aether_yagroot_fancy_crafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black",
+      "minecraft:crafting_tables",
+      "minecraft:feather",
+      "deep_aether:yagroot_planks",
+      "minecraft:glass",
+      "deep_aether:yagroot_planks",
+      "deep_aether:yagroot_planks",
+      "minecraft:crafter",
+      "deep_aether:yagroot_planks"
+    ]
+  },
+  "bibliocraft:deep_aether_yagroot_fancy_sign": {
+    "result": "bibliocraft:deep_aether_yagroot_fancy_sign",
+    "count": 1,
+    "ingredients": [
+      "deep_aether:yagroot_planks",
+      "minecraft:paper",
+      "deep_aether:yagroot_planks",
+      "deep_aether:yagroot_planks",
+      "minecraft:paper",
+      "deep_aether:yagroot_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "bibliocraft:deep_aether_yagroot_grandfather_clock": {
+    "result": "bibliocraft:deep_aether_yagroot_grandfather_clock",
+    "count": 1,
+    "ingredients": [
+      "bibliocraft:deep_aether_yagroot_fancy_clock",
+      "bibliocraft:deep_aether_yagroot_fancy_clock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:deep_aether_yagroot_label": {
+    "result": "bibliocraft:deep_aether_yagroot_label",
+    "count": 1,
+    "ingredients": [
+      "deep_aether:yagroot_slab",
+      "deep_aether:yagroot_slab",
+      "deep_aether:yagroot_slab",
+      "deep_aether:yagroot_slab",
+      "deep_aether:yagroot_slab",
+      "deep_aether:yagroot_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:deep_aether_yagroot_potion_shelf": {
+    "result": "bibliocraft:deep_aether_yagroot_potion_shelf",
+    "count": 1,
+    "ingredients": [
+      "deep_aether:yagroot_slab",
+      "deep_aether:yagroot_slab",
+      "deep_aether:yagroot_slab",
+      "deep_aether:yagroot_planks",
+      "minecraft:glass_bottle",
+      "deep_aether:yagroot_planks",
+      "deep_aether:yagroot_slab",
+      "deep_aether:yagroot_slab",
+      "deep_aether:yagroot_slab"
+    ]
+  },
+  "bibliocraft:deep_aether_yagroot_shelf": {
+    "result": "bibliocraft:deep_aether_yagroot_shelf",
+    "count": 1,
+    "ingredients": [
+      "deep_aether:yagroot_slab",
+      "deep_aether:yagroot_slab",
+      "deep_aether:yagroot_slab",
+      "",
+      "deep_aether:yagroot_planks",
+      "",
+      "deep_aether:yagroot_slab",
+      "deep_aether:yagroot_slab",
+      "deep_aether:yagroot_slab"
+    ]
+  },
+  "bibliocraft:deep_aether_yagroot_table": {
+    "result": "bibliocraft:deep_aether_yagroot_table",
+    "count": 1,
+    "ingredients": [
+      "deep_aether:yagroot_slab",
+      "deep_aether:yagroot_slab",
+      "deep_aether:yagroot_slab",
+      "",
+      "deep_aether:yagroot_planks",
+      "",
+      "",
+      "deep_aether:yagroot_planks",
+      ""
+    ]
+  },
+  "bibliocraft:deep_aether_yagroot_tool_rack": {
+    "result": "bibliocraft:deep_aether_yagroot_tool_rack",
+    "count": 1,
+    "ingredients": [
+      "deep_aether:yagroot_slab",
+      "deep_aether:yagroot_slab",
+      "deep_aether:yagroot_slab",
+      "deep_aether:yagroot_slab",
+      "minecraft:iron_ingot",
+      "deep_aether:yagroot_slab",
+      "deep_aether:yagroot_slab",
+      "deep_aether:yagroot_slab",
+      "deep_aether:yagroot_slab"
+    ]
+  },
+  "botanypots:deepslate_bricks_botany_pot": {
+    "result": "botanypots:deepslate_bricks_botany_pot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:deepslate_bricks",
+      "",
+      "minecraft:deepslate_bricks",
+      "minecraft:deepslate_bricks",
+      "minecraft:flower_pot",
+      "minecraft:deepslate_bricks",
+      "",
+      "minecraft:deepslate_bricks",
+      ""
+    ]
+  },
+  "botanypots:deepslate_bricks_hopper_botany_pot": {
+    "result": "botanypots:deepslate_bricks_hopper_botany_pot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:deepslate_bricks",
+      "minecraft:hopper",
+      "minecraft:deepslate_bricks",
+      "minecraft:deepslate_bricks",
+      "minecraft:flower_pot",
+      "minecraft:deepslate_bricks",
+      "",
+      "minecraft:deepslate_bricks",
+      ""
+    ]
+  },
+  "botanypots:deepslate_bricks_waxed_botany_pot": {
+    "result": "botanypots:deepslate_bricks_waxed_botany_pot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:honeycomb",
+      "botanypots:deepslate_bricks_botany_pot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "cataclysm:desert_eye": {
+    "result": "cataclysm:desert_eye",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "minecraft:chiseled_sandstone",
+      "minecraft:emerald",
+      "minecraft:dead_bush",
+      "minecraft:ender_eye",
+      "minecraft:cactus",
+      "minecraft:rotten_flesh",
+      "minecraft:chiseled_sandstone",
+      "minecraft:bone"
+    ]
+  },
+  "create:deployer": {
+    "result": "create:deployer",
+    "count": 1,
+    "ingredients": [
+      "create:electron_tube",
+      "",
+      "",
+      "create:andesite_casing",
+      "",
+      "",
+      "create:brass_hand",
+      "",
+      ""
+    ]
+  },
+  "create:depot": {
+    "result": "create:depot",
+    "count": 1,
+    "ingredients": [
+      "create:andesite_alloy",
+      "create:andesite_casing",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:desk_bell": {
+    "result": "create:desk_bell",
+    "count": 1,
+    "ingredients": [
+      "create:andesite_casing",
+      "minecraft:gold",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:deepsilver_axe": {
+    "result": "eternal_starlight:deepsilver_axe",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot",
+      "",
+      "modern_industrialization:silver_ingot",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "eternal_starlight:deepsilver_bars": {
+    "result": "eternal_starlight:deepsilver_bars",
+    "count": 16,
+    "ingredients": [
+      "eternal_starlight:deepsilver_ingot",
+      "eternal_starlight:deepsilver_ingot",
+      "eternal_starlight:deepsilver_ingot",
+      "eternal_starlight:deepsilver_ingot",
+      "eternal_starlight:deepsilver_ingot",
+      "eternal_starlight:deepsilver_ingot",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:deepsilver_block": {
+    "result": "eternal_starlight:deepsilver_block",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:deepsilver_ingot",
+      "eternal_starlight:deepsilver_ingot",
+      "eternal_starlight:deepsilver_ingot",
+      "eternal_starlight:deepsilver_ingot",
+      "eternal_starlight:deepsilver_ingot",
+      "eternal_starlight:deepsilver_ingot",
+      "eternal_starlight:deepsilver_ingot",
+      "eternal_starlight:deepsilver_ingot",
+      "eternal_starlight:deepsilver_ingot"
+    ]
+  },
+  "eternal_starlight:deepsilver_boots": {
+    "result": "eternal_starlight:deepsilver_boots",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:silver_ingot",
+      "",
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot",
+      "",
+      "modern_industrialization:silver_ingot",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:deepsilver_brush": {
+    "result": "eternal_starlight:deepsilver_brush",
+    "count": 1,
+    "ingredients": [
+      "minecraft:feather",
+      "",
+      "",
+      "modern_industrialization:silver_ingot",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:deepsilver_chestplate": {
+    "result": "eternal_starlight:deepsilver_chestplate",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:silver_ingot",
+      "",
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot"
+    ]
+  },
+  "eternal_starlight:deepsilver_grate": {
+    "result": "eternal_starlight:deepsilver_grate",
+    "count": 4,
+    "ingredients": [
+      "",
+      "eternal_starlight:deepsilver_block",
+      "",
+      "eternal_starlight:deepsilver_block",
+      "",
+      "eternal_starlight:deepsilver_block",
+      "",
+      "eternal_starlight:deepsilver_block",
+      ""
+    ]
+  },
+  "eternal_starlight:deepsilver_helmet": {
+    "result": "eternal_starlight:deepsilver_helmet",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot",
+      "",
+      "modern_industrialization:silver_ingot",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:deepsilver_hoe": {
+    "result": "eternal_starlight:deepsilver_hoe",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "eternal_starlight:deepsilver_ingot": {
+    "result": "eternal_starlight:deepsilver_ingot",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:deepsilver_nugget",
+      "eternal_starlight:deepsilver_nugget",
+      "eternal_starlight:deepsilver_nugget",
+      "eternal_starlight:deepsilver_nugget",
+      "eternal_starlight:deepsilver_nugget",
+      "eternal_starlight:deepsilver_nugget",
+      "eternal_starlight:deepsilver_nugget",
+      "eternal_starlight:deepsilver_nugget",
+      "eternal_starlight:deepsilver_nugget"
+    ]
+  },
+  "eternal_starlight:deepsilver_leggings": {
+    "result": "eternal_starlight:deepsilver_leggings",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot",
+      "",
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot",
+      "",
+      "modern_industrialization:silver_ingot"
+    ]
+  },
+  "eternal_starlight:deepsilver_nugget": {
+    "result": "eternal_starlight:deepsilver_nugget",
+    "count": 9,
+    "ingredients": [
+      "eternal_starlight:deepsilver_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:deepsilver_pickaxe": {
+    "result": "eternal_starlight:deepsilver_pickaxe",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "eternal_starlight:deepsilver_shovel": {
+    "result": "eternal_starlight:deepsilver_shovel",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:silver_ingot",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:deepsilver_sickle": {
+    "result": "eternal_starlight:deepsilver_sickle",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot",
+      "",
+      "",
+      "modern_industrialization:silver_ingot",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "eternal_starlight:deepsilver_sword": {
+    "result": "eternal_starlight:deepsilver_sword",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:silver_ingot",
+      "",
+      "",
+      "modern_industrialization:silver_ingot",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "forbidden_arcanus:deorum_block": {
+    "result": "forbidden_arcanus:deorum_block",
+    "count": 1,
+    "ingredients": [
+      "forbidden_arcanus:deorum_ingot",
+      "forbidden_arcanus:deorum_ingot",
+      "forbidden_arcanus:deorum_ingot",
+      "forbidden_arcanus:deorum_ingot",
+      "forbidden_arcanus:deorum_ingot",
+      "forbidden_arcanus:deorum_ingot",
+      "forbidden_arcanus:deorum_ingot",
+      "forbidden_arcanus:deorum_ingot",
+      "forbidden_arcanus:deorum_ingot"
+    ]
+  },
+  "forbidden_arcanus:deorum_chain": {
+    "result": "forbidden_arcanus:deorum_chain",
+    "count": 1,
+    "ingredients": [
+      "minecraft:deorum",
+      "",
+      "",
+      "minecraft:deorum",
+      "",
+      "",
+      "minecraft:deorum",
+      "",
+      ""
+    ]
+  },
+  "forbidden_arcanus:deorum_door": {
+    "result": "forbidden_arcanus:deorum_door",
+    "count": 3,
+    "ingredients": [
+      "minecraft:deorum",
+      "minecraft:deorum",
+      "",
+      "minecraft:deorum",
+      "minecraft:deorum",
+      "",
+      "minecraft:deorum",
+      "minecraft:deorum",
+      ""
+    ]
+  },
+  "forbidden_arcanus:deorum_glass": {
+    "result": "forbidden_arcanus:deorum_glass",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:deorum",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass"
+    ]
+  },
+  "forbidden_arcanus:deorum_glass_pane": {
+    "result": "forbidden_arcanus:deorum_glass_pane",
+    "count": 16,
+    "ingredients": [
+      "forbidden_arcanus:deorum_glass",
+      "forbidden_arcanus:deorum_glass",
+      "forbidden_arcanus:deorum_glass",
+      "forbidden_arcanus:deorum_glass",
+      "forbidden_arcanus:deorum_glass",
+      "forbidden_arcanus:deorum_glass",
+      "",
+      "",
+      ""
+    ]
+  },
+  "forbidden_arcanus:deorum_ingot": {
+    "result": "forbidden_arcanus:deorum_ingot",
+    "count": 1,
+    "ingredients": [
+      "forbidden_arcanus:deorum_nugget",
+      "forbidden_arcanus:deorum_nugget",
+      "forbidden_arcanus:deorum_nugget",
+      "forbidden_arcanus:deorum_nugget",
+      "forbidden_arcanus:deorum_nugget",
+      "forbidden_arcanus:deorum_nugget",
+      "forbidden_arcanus:deorum_nugget",
+      "forbidden_arcanus:deorum_nugget",
+      "forbidden_arcanus:deorum_nugget"
+    ]
+  },
+  "forbidden_arcanus:deorum_lantern": {
+    "result": "forbidden_arcanus:deorum_lantern",
+    "count": 1,
+    "ingredients": [
+      "minecraft:deorum",
+      "minecraft:deorum",
+      "minecraft:deorum",
+      "minecraft:deorum",
+      "minecraft:torch",
+      "minecraft:deorum",
+      "minecraft:deorum",
+      "minecraft:deorum",
+      "minecraft:deorum"
+    ]
+  },
+  "forbidden_arcanus:deorum_nugget": {
+    "result": "forbidden_arcanus:deorum_nugget",
+    "count": 9,
+    "ingredients": [
+      "forbidden_arcanus:deorum_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "forbidden_arcanus:deorum_soul_lantern": {
+    "result": "forbidden_arcanus:deorum_soul_lantern",
+    "count": 1,
+    "ingredients": [
+      "minecraft:deorum",
+      "minecraft:deorum",
+      "minecraft:deorum",
+      "minecraft:deorum",
+      "minecraft:soul_torch",
+      "minecraft:deorum",
+      "minecraft:deorum",
+      "minecraft:deorum",
+      "minecraft:deorum"
+    ]
+  },
+  "forbidden_arcanus:deorum_trapdoor": {
+    "result": "forbidden_arcanus:deorum_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "minecraft:deorum",
+      "minecraft:deorum",
+      "minecraft:deorum",
+      "minecraft:deorum",
+      "minecraft:deorum",
+      "minecraft:deorum",
+      "",
+      "",
+      ""
+    ]
+  },
+  "handcrafted:deepslate_corner_trim": {
+    "result": "handcrafted:deepslate_corner_trim",
+    "count": 4,
+    "ingredients": [
+      "minecraft:deepslate",
+      "",
+      "",
+      "minecraft:deepslate",
+      "",
+      "",
+      "minecraft:deepslate",
+      "minecraft:deepslate",
+      "minecraft:deepslate"
+    ]
+  },
+  "handcrafted:deepslate_pillar_trim": {
+    "result": "handcrafted:deepslate_pillar_trim",
+    "count": 4,
+    "ingredients": [
+      "minecraft:deepslate",
+      "",
+      "",
+      "minecraft:deepslate",
+      "",
+      "",
+      "minecraft:deepslate",
+      "",
+      ""
+    ]
+  },
+  "herbsandharvest:delftware_dinner_plate": {
+    "result": "herbsandharvest:delftware_dinner_plate",
+    "count": 4,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:blue_dye",
+      "minecraft:quartz",
+      "minecraft:blue_dye",
+      "minecraft:quartz",
+      "minecraft:blue_dye",
+      "minecraft:quartz",
+      "minecraft:blue_dye",
+      "minecraft:quartz"
+    ]
+  },
+  "hostilenetworks:deep_learner": {
+    "result": "hostilenetworks:deep_learner",
+    "count": 1,
+    "ingredients": [
+      "minecraft:obsidians",
+      "minecraft:repeater",
+      "minecraft:obsidians",
+      "minecraft:repeater",
+      "minecraft:glass",
+      "minecraft:repeater",
+      "minecraft:obsidians",
+      "minecraft:redstone",
+      "minecraft:obsidians"
+    ]
+  },
+  "iceandfire:deathworm_gauntlet_red": {
+    "result": "iceandfire:deathworm_gauntlet_red",
+    "count": 1,
+    "ingredients": [
+      "",
+      "iceandfire:deathworm_tounge",
+      "",
+      "iceandfire:deathworm_chitin_red",
+      "iceandfire:chain",
+      "iceandfire:deathworm_chitin_red",
+      "iceandfire:deathworm_chitin_red",
+      "iceandfire:deathworm_chitin_red",
+      "iceandfire:deathworm_chitin_red"
+    ]
+  },
+  "iceandfire:deathworm_gauntlet_white": {
+    "result": "iceandfire:deathworm_gauntlet_white",
+    "count": 1,
+    "ingredients": [
+      "",
+      "iceandfire:deathworm_tounge",
+      "",
+      "iceandfire:deathworm_chitin_white",
+      "iceandfire:chain",
+      "iceandfire:deathworm_chitin_white",
+      "iceandfire:deathworm_chitin_white",
+      "iceandfire:deathworm_chitin_white",
+      "iceandfire:deathworm_chitin_white"
+    ]
+  },
+  "iceandfire:deathworm_gauntlet_yellow": {
+    "result": "iceandfire:deathworm_gauntlet_yellow",
+    "count": 1,
+    "ingredients": [
+      "",
+      "iceandfire:deathworm_tounge",
+      "",
+      "iceandfire:deathworm_chitin_yellow",
+      "iceandfire:chain",
+      "iceandfire:deathworm_chitin_yellow",
+      "iceandfire:deathworm_chitin_yellow",
+      "iceandfire:deathworm_chitin_yellow",
+      "iceandfire:deathworm_chitin_yellow"
+    ]
+  },
+  "iceandfire:deathworm_red_boots": {
+    "result": "iceandfire:deathworm_red_boots",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:deathworm_chitin_red",
+      "",
+      "iceandfire:deathworm_chitin_red",
+      "iceandfire:deathworm_chitin_red",
+      "",
+      "iceandfire:deathworm_chitin_red",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:deathworm_red_chestplate": {
+    "result": "iceandfire:deathworm_red_chestplate",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:deathworm_chitin_red",
+      "",
+      "iceandfire:deathworm_chitin_red",
+      "iceandfire:deathworm_chitin_red",
+      "iceandfire:deathworm_chitin_red",
+      "iceandfire:deathworm_chitin_red",
+      "iceandfire:deathworm_chitin_red",
+      "iceandfire:deathworm_chitin_red",
+      "iceandfire:deathworm_chitin_red"
+    ]
+  },
+  "iceandfire:deathworm_red_helmet": {
+    "result": "iceandfire:deathworm_red_helmet",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:deathworm_chitin_red",
+      "iceandfire:deathworm_chitin_red",
+      "iceandfire:deathworm_chitin_red",
+      "iceandfire:deathworm_chitin_red",
+      "",
+      "iceandfire:deathworm_chitin_red",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:deathworm_red_leggings": {
+    "result": "iceandfire:deathworm_red_leggings",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:deathworm_chitin_red",
+      "iceandfire:deathworm_chitin_red",
+      "iceandfire:deathworm_chitin_red",
+      "iceandfire:deathworm_chitin_red",
+      "",
+      "iceandfire:deathworm_chitin_red",
+      "iceandfire:deathworm_chitin_red",
+      "",
+      "iceandfire:deathworm_chitin_red"
+    ]
+  },
+  "iceandfire:deathworm_white_boots": {
+    "result": "iceandfire:deathworm_white_boots",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:deathworm_chitin_white",
+      "",
+      "iceandfire:deathworm_chitin_white",
+      "iceandfire:deathworm_chitin_white",
+      "",
+      "iceandfire:deathworm_chitin_white",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:deathworm_white_chestplate": {
+    "result": "iceandfire:deathworm_white_chestplate",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:deathworm_chitin_white",
+      "",
+      "iceandfire:deathworm_chitin_white",
+      "iceandfire:deathworm_chitin_white",
+      "iceandfire:deathworm_chitin_white",
+      "iceandfire:deathworm_chitin_white",
+      "iceandfire:deathworm_chitin_white",
+      "iceandfire:deathworm_chitin_white",
+      "iceandfire:deathworm_chitin_white"
+    ]
+  },
+  "iceandfire:deathworm_white_helmet": {
+    "result": "iceandfire:deathworm_white_helmet",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:deathworm_chitin_white",
+      "iceandfire:deathworm_chitin_white",
+      "iceandfire:deathworm_chitin_white",
+      "iceandfire:deathworm_chitin_white",
+      "",
+      "iceandfire:deathworm_chitin_white",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:deathworm_white_leggings": {
+    "result": "iceandfire:deathworm_white_leggings",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:deathworm_chitin_white",
+      "iceandfire:deathworm_chitin_white",
+      "iceandfire:deathworm_chitin_white",
+      "iceandfire:deathworm_chitin_white",
+      "",
+      "iceandfire:deathworm_chitin_white",
+      "iceandfire:deathworm_chitin_white",
+      "",
+      "iceandfire:deathworm_chitin_white"
+    ]
+  },
+  "iceandfire:deathworm_yellow_boots": {
+    "result": "iceandfire:deathworm_yellow_boots",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:deathworm_chitin_yellow",
+      "",
+      "iceandfire:deathworm_chitin_yellow",
+      "iceandfire:deathworm_chitin_yellow",
+      "",
+      "iceandfire:deathworm_chitin_yellow",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:deathworm_yellow_chestplate": {
+    "result": "iceandfire:deathworm_yellow_chestplate",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:deathworm_chitin_yellow",
+      "",
+      "iceandfire:deathworm_chitin_yellow",
+      "iceandfire:deathworm_chitin_yellow",
+      "iceandfire:deathworm_chitin_yellow",
+      "iceandfire:deathworm_chitin_yellow",
+      "iceandfire:deathworm_chitin_yellow",
+      "iceandfire:deathworm_chitin_yellow",
+      "iceandfire:deathworm_chitin_yellow"
+    ]
+  },
+  "iceandfire:deathworm_yellow_helmet": {
+    "result": "iceandfire:deathworm_yellow_helmet",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:deathworm_chitin_yellow",
+      "iceandfire:deathworm_chitin_yellow",
+      "iceandfire:deathworm_chitin_yellow",
+      "iceandfire:deathworm_chitin_yellow",
+      "",
+      "iceandfire:deathworm_chitin_yellow",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:deathworm_yellow_leggings": {
+    "result": "iceandfire:deathworm_yellow_leggings",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:deathworm_chitin_yellow",
+      "iceandfire:deathworm_chitin_yellow",
+      "iceandfire:deathworm_chitin_yellow",
+      "iceandfire:deathworm_chitin_yellow",
+      "",
+      "iceandfire:deathworm_chitin_yellow",
+      "iceandfire:deathworm_chitin_yellow",
+      "",
+      "iceandfire:deathworm_chitin_yellow"
+    ]
+  },
+  "integrateddynamics:delay": {
+    "result": "integrateddynamics:delay",
+    "count": 1,
+    "ingredients": [
+      "integrateddynamics:variable",
+      "integrateddynamics:crystalized_menril_chunk",
+      "integrateddynamics:variable",
+      "minecraft:clock",
+      "integrateddynamics:variablestore",
+      "minecraft:clock",
+      "integrateddynamics:variable",
+      "integrateddynamics:crystalized_menril_chunk",
+      "integrateddynamics:variable"
+    ]
+  },
+  "irons_spellbooks:dead_king_phylactery": {
+    "result": "irons_spellbooks:dead_king_phylactery",
+    "count": 1,
+    "ingredients": [
+      "irons_spellbooks:dead_king_phylactery_shard",
+      "irons_spellbooks:dead_king_phylactery_shard",
+      "irons_spellbooks:dead_king_phylactery_shard",
+      "irons_spellbooks:dead_king_phylactery_shard",
+      "minecraft:soul_lantern",
+      "irons_spellbooks:dead_king_phylactery_shard",
+      "irons_spellbooks:dead_king_phylactery_shard",
+      "irons_spellbooks:dead_king_phylactery_shard",
+      "irons_spellbooks:dead_king_phylactery_shard"
+    ]
+  },
+  "mcwbridges:deepslate_brick_bridge": {
+    "result": "mcwbridges:deepslate_brick_bridge",
+    "count": 1,
+    "ingredients": [
+      "mcwbridges:deepslate_brick_bridge_stair",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:deepslate_brick_bridge_pier": {
+    "result": "mcwbridges:deepslate_brick_bridge_pier",
+    "count": 3,
+    "ingredients": [
+      "minecraft:deepslate_bricks",
+      "minecraft:deepslate_brick_wall",
+      "minecraft:deepslate_bricks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:deepslate_brick_bridge_stair": {
+    "result": "mcwbridges:deepslate_brick_bridge_stair",
+    "count": 6,
+    "ingredients": [
+      "",
+      "",
+      "mcwbridges:deepslate_brick_bridge",
+      "",
+      "mcwbridges:deepslate_brick_bridge",
+      "mcwbridges:deepslate_brick_bridge",
+      "mcwbridges:deepslate_brick_bridge",
+      "mcwbridges:deepslate_brick_bridge",
+      "mcwbridges:deepslate_brick_bridge"
+    ]
+  },
+  "mcwbridges:deepslate_tile_bridge": {
+    "result": "mcwbridges:deepslate_tile_bridge",
+    "count": 1,
+    "ingredients": [
+      "mcwbridges:deepslate_tile_bridge_stair",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:deepslate_tile_bridge_pier": {
+    "result": "mcwbridges:deepslate_tile_bridge_pier",
+    "count": 3,
+    "ingredients": [
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tile_wall",
+      "minecraft:deepslate_tiles",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:deepslate_tile_bridge_stair": {
+    "result": "mcwbridges:deepslate_tile_bridge_stair",
+    "count": 6,
+    "ingredients": [
+      "",
+      "",
+      "mcwbridges:deepslate_tile_bridge",
+      "",
+      "mcwbridges:deepslate_tile_bridge",
+      "mcwbridges:deepslate_tile_bridge",
+      "mcwbridges:deepslate_tile_bridge",
+      "mcwbridges:deepslate_tile_bridge",
+      "mcwbridges:deepslate_tile_bridge"
+    ]
+  },
+  "mcwfences:deepslate_brick_grass_topped_wall": {
+    "result": "mcwfences:deepslate_brick_grass_topped_wall",
+    "count": 6,
+    "ingredients": [
+      "minecraft:deepslate_tiles",
+      "minecraft:dirt",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_bricks",
+      "minecraft:deepslate_bricks",
+      "minecraft:deepslate_bricks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfences:deepslate_brick_pillar_wall": {
+    "result": "mcwfences:deepslate_brick_pillar_wall",
+    "count": 5,
+    "ingredients": [
+      "minecraft:deepslate_bricks",
+      "minecraft:deepslate_bricks",
+      "minecraft:deepslate_bricks",
+      "minecraft:deepslate_tiles",
+      "",
+      "minecraft:deepslate_tiles",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfences:deepslate_brick_railing_gate": {
+    "result": "mcwfences:deepslate_brick_railing_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_bars",
+      "minecraft:deepslate_bricks",
+      "minecraft:iron_bars",
+      "minecraft:iron_bars",
+      "minecraft:deepslate_bricks",
+      "minecraft:iron_bars",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfences:deepslate_grass_topped_wall": {
+    "result": "mcwfences:deepslate_grass_topped_wall",
+    "count": 6,
+    "ingredients": [
+      "minecraft:deepslate",
+      "minecraft:dirt",
+      "minecraft:deepslate",
+      "minecraft:polished_deepslate",
+      "minecraft:polished_deepslate",
+      "minecraft:polished_deepslate",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfences:deepslate_pillar_wall": {
+    "result": "mcwfences:deepslate_pillar_wall",
+    "count": 5,
+    "ingredients": [
+      "minecraft:polished_deepslate",
+      "minecraft:polished_deepslate",
+      "minecraft:polished_deepslate",
+      "minecraft:deepslate",
+      "",
+      "minecraft:deepslate",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfences:deepslate_railing_gate": {
+    "result": "mcwfences:deepslate_railing_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_bars",
+      "minecraft:deepslate",
+      "minecraft:iron_bars",
+      "minecraft:iron_bars",
+      "minecraft:deepslate",
+      "minecraft:iron_bars",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwwindows:deepslate_four_window": {
+    "result": "mcwwindows:deepslate_four_window",
+    "count": 8,
+    "ingredients": [
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "minecraft:deepslate",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base"
+    ]
+  },
+  "mcwwindows:deepslate_pane_window": {
+    "result": "mcwwindows:deepslate_pane_window",
+    "count": 8,
+    "ingredients": [
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "minecraft:deepslate",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base"
+    ]
+  },
+  "mcwwindows:deepslate_window": {
+    "result": "mcwwindows:deepslate_window",
+    "count": 4,
+    "ingredients": [
+      "",
+      "mcwwindows:window_base",
+      "",
+      "mcwwindows:window_base",
+      "minecraft:deepslate",
+      "mcwwindows:window_base",
+      "",
+      "mcwwindows:window_base",
+      ""
+    ]
+  },
+  "mcwwindows:deepslate_window2": {
+    "result": "mcwwindows:deepslate_window2",
+    "count": 8,
+    "ingredients": [
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "minecraft:deepslate",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base"
+    ]
+  },
+  "megacells:decompression_module": {
+    "result": "megacells:decompression_module",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "megacells:accumulation_processor",
+      "minecraft:iron_ingot",
+      "ae2:calculation_processor",
+      "megacells:compression_card",
+      "ae2:engineering_processor",
+      "minecraft:iron_ingot",
+      "ae2:logic_processor",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "merrymaking:deepslate_brick_garland_wall": {
+    "result": "merrymaking:deepslate_brick_garland_wall",
+    "count": 1,
+    "ingredients": [
+      "minecraft:deepslate_brick_wall",
+      "merrymaking:garland_horizontal",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:deepslate_brick_garland_multi_wall": {
+    "result": "merrymaking:deepslate_brick_garland_multi_wall",
+    "count": 1,
+    "ingredients": [
+      "minecraft:deepslate_brick_wall",
+      "merrymaking:garland_horizontal_multi",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:deepslate_brick_garland_lights_wall": {
+    "result": "merrymaking:deepslate_brick_garland_lights_wall",
+    "count": 1,
+    "ingredients": [
+      "minecraft:deepslate_brick_wall",
+      "merrymaking:garland_horizontal_lights",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:deepslate_tile_garland_wall": {
+    "result": "merrymaking:deepslate_tile_garland_wall",
+    "count": 1,
+    "ingredients": [
+      "minecraft:deepslate_tile_wall",
+      "merrymaking:garland_horizontal",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:deepslate_tile_garland_multi_wall": {
+    "result": "merrymaking:deepslate_tile_garland_multi_wall",
+    "count": 1,
+    "ingredients": [
+      "minecraft:deepslate_tile_wall",
+      "merrymaking:garland_horizontal_multi",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:deepslate_tile_garland_lights_wall": {
+    "result": "merrymaking:deepslate_tile_garland_lights_wall",
+    "count": 1,
+    "ingredients": [
+      "minecraft:deepslate_tile_wall",
+      "merrymaking:garland_horizontal_lights",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:deepslate_brick_roof_slab": {
+    "result": "merrymaking:deepslate_brick_roof_slab",
+    "count": 4,
+    "ingredients": [
+      "minecraft:deepslate_brick_slab",
+      "minecraft:deepslate_brick_slab",
+      "minecraft:deepslate_brick_slab",
+      "minecraft:deepslate_brick_slab",
+      "merrymaking:roof_tiles",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:decorated_pot": {
+    "result": "minecraft:decorated_pot",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:brick",
+      "",
+      "minecraft:brick",
+      "",
+      "minecraft:brick",
+      "",
+      "minecraft:brick",
+      ""
+    ]
+  },
+  "minecraft:deepslate_bricks": {
+    "result": "minecraft:deepslate_bricks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:polished_deepslate",
+      "minecraft:polished_deepslate",
+      "",
+      "minecraft:polished_deepslate",
+      "minecraft:polished_deepslate",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:deepslate_brick_slab": {
+    "result": "minecraft:deepslate_brick_slab",
+    "count": 6,
+    "ingredients": [
+      "minecraft:deepslate_bricks",
+      "minecraft:deepslate_bricks",
+      "minecraft:deepslate_bricks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:deepslate_brick_stairs": {
+    "result": "minecraft:deepslate_brick_stairs",
+    "count": 4,
+    "ingredients": [
+      "minecraft:deepslate_bricks",
+      "",
+      "",
+      "minecraft:deepslate_bricks",
+      "minecraft:deepslate_bricks",
+      "",
+      "minecraft:deepslate_bricks",
+      "minecraft:deepslate_bricks",
+      "minecraft:deepslate_bricks"
+    ]
+  },
+  "minecraft:deepslate_brick_wall": {
+    "result": "minecraft:deepslate_brick_wall",
+    "count": 6,
+    "ingredients": [
+      "minecraft:deepslate_bricks",
+      "minecraft:deepslate_bricks",
+      "minecraft:deepslate_bricks",
+      "minecraft:deepslate_bricks",
+      "minecraft:deepslate_bricks",
+      "minecraft:deepslate_bricks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:deepslate_tiles": {
+    "result": "minecraft:deepslate_tiles",
+    "count": 4,
+    "ingredients": [
+      "minecraft:deepslate_bricks",
+      "minecraft:deepslate_bricks",
+      "",
+      "minecraft:deepslate_bricks",
+      "minecraft:deepslate_bricks",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:deepslate_tile_slab": {
+    "result": "minecraft:deepslate_tile_slab",
+    "count": 6,
+    "ingredients": [
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:deepslate_tile_stairs": {
+    "result": "minecraft:deepslate_tile_stairs",
+    "count": 4,
+    "ingredients": [
+      "minecraft:deepslate_tiles",
+      "",
+      "",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles"
+    ]
+  },
+  "minecraft:deepslate_tile_wall": {
+    "result": "minecraft:deepslate_tile_wall",
+    "count": 6,
+    "ingredients": [
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:detector_rail": {
+    "result": "minecraft:detector_rail",
+    "count": 6,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:stone_pressure_plate",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:redstone",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "modularrouters:detector_module": {
+    "result": "modularrouters:detector_module",
+    "count": 1,
+    "ingredients": [
+      "modularrouters:blank_module",
+      "minecraft:comparator",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "naturesaura:depth_axe": {
+    "result": "naturesaura:depth_axe",
+    "count": 1,
+    "ingredients": [
+      "naturesaura:depth_ingot",
+      "naturesaura:depth_ingot",
+      "",
+      "naturesaura:depth_ingot",
+      "naturesaura:ancient_stick",
+      "",
+      "",
+      "naturesaura:ancient_stick",
+      ""
+    ]
+  },
+  "naturesaura:depth_chest": {
+    "result": "naturesaura:depth_chest",
+    "count": 1,
+    "ingredients": [
+      "naturesaura:depth_ingot",
+      "naturesaura:ancient_stick",
+      "naturesaura:depth_ingot",
+      "naturesaura:depth_ingot",
+      "naturesaura:depth_ingot",
+      "naturesaura:depth_ingot",
+      "naturesaura:depth_ingot",
+      "naturesaura:depth_ingot",
+      "naturesaura:depth_ingot"
+    ]
+  },
+  "naturesaura:depth_helmet": {
+    "result": "naturesaura:depth_helmet",
+    "count": 1,
+    "ingredients": [
+      "naturesaura:depth_ingot",
+      "naturesaura:depth_ingot",
+      "naturesaura:depth_ingot",
+      "naturesaura:depth_ingot",
+      "naturesaura:ancient_stick",
+      "naturesaura:depth_ingot",
+      "",
+      "",
+      ""
+    ]
+  },
+  "naturesaura:depth_hoe": {
+    "result": "naturesaura:depth_hoe",
+    "count": 1,
+    "ingredients": [
+      "naturesaura:depth_ingot",
+      "naturesaura:depth_ingot",
+      "",
+      "",
+      "naturesaura:ancient_stick",
+      "",
+      "",
+      "naturesaura:ancient_stick",
+      ""
+    ]
+  },
+  "naturesaura:depth_ingot": {
+    "result": "naturesaura:depth_ingot",
+    "count": 1,
+    "ingredients": [
+      "",
+      "naturesaura:sky_ingot",
+      "",
+      "naturesaura:tainted_gold",
+      "minecraft:netherite_scrap",
+      "naturesaura:tainted_gold",
+      "",
+      "naturesaura:sky_ingot",
+      ""
+    ]
+  },
+  "naturesaura:depth_ingot_block": {
+    "result": "naturesaura:depth_ingot_block",
+    "count": 1,
+    "ingredients": [
+      "naturesaura:depth_ingot",
+      "naturesaura:depth_ingot",
+      "naturesaura:depth_ingot",
+      "naturesaura:depth_ingot",
+      "naturesaura:depth_ingot",
+      "naturesaura:depth_ingot",
+      "naturesaura:depth_ingot",
+      "naturesaura:depth_ingot",
+      "naturesaura:depth_ingot"
+    ]
+  },
+  "naturesaura:depth_pants": {
+    "result": "naturesaura:depth_pants",
+    "count": 1,
+    "ingredients": [
+      "naturesaura:depth_ingot",
+      "naturesaura:depth_ingot",
+      "naturesaura:depth_ingot",
+      "naturesaura:depth_ingot",
+      "",
+      "naturesaura:depth_ingot",
+      "naturesaura:depth_ingot",
+      "",
+      "naturesaura:depth_ingot"
+    ]
+  },
+  "naturesaura:depth_pickaxe": {
+    "result": "naturesaura:depth_pickaxe",
+    "count": 1,
+    "ingredients": [
+      "naturesaura:depth_ingot",
+      "naturesaura:depth_ingot",
+      "naturesaura:depth_ingot",
+      "",
+      "naturesaura:ancient_stick",
+      "",
+      "",
+      "naturesaura:ancient_stick",
+      ""
+    ]
+  },
+  "naturesaura:depth_shoes": {
+    "result": "naturesaura:depth_shoes",
+    "count": 1,
+    "ingredients": [
+      "naturesaura:depth_ingot",
+      "",
+      "naturesaura:depth_ingot",
+      "naturesaura:depth_ingot",
+      "",
+      "naturesaura:depth_ingot",
+      "",
+      "",
+      ""
+    ]
+  },
+  "naturesaura:depth_shovel": {
+    "result": "naturesaura:depth_shovel",
+    "count": 1,
+    "ingredients": [
+      "naturesaura:depth_ingot",
+      "",
+      "",
+      "naturesaura:ancient_stick",
+      "",
+      "",
+      "naturesaura:ancient_stick",
+      "",
+      ""
+    ]
+  },
+  "naturesaura:depth_sword": {
+    "result": "naturesaura:depth_sword",
+    "count": 1,
+    "ingredients": [
+      "naturesaura:depth_ingot",
+      "",
+      "",
+      "naturesaura:depth_ingot",
+      "",
+      "",
+      "naturesaura:ancient_stick",
+      "",
+      ""
+    ]
+  },
+  "occultism:demons_dream_essence": {
+    "result": "occultism:demons_dream_essence",
+    "count": 1,
+    "ingredients": [
+      "minecraft:datura",
+      "minecraft:datura",
+      "minecraft:datura",
+      "minecraft:datura",
+      "minecraft:datura",
+      "minecraft:datura",
+      "minecraft:datura",
+      "minecraft:datura",
+      "minecraft:datura"
+    ]
+  },
+  "oritech:deep_drill_block": {
+    "result": "oritech:deep_drill_block",
+    "count": 1,
+    "ingredients": [
+      "oritech:duratium_ingot",
+      "oritech:overcharged_crystal",
+      "oritech:duratium_ingot",
+      "oritech:motor",
+      "oritech:heisenberg_compensator",
+      "oritech:motor",
+      "minecraft:plating",
+      "minecraft:plating",
+      "minecraft:plating"
+    ]
+  },
+  "oritech:destroyer_block": {
+    "result": "oritech:destroyer_block",
+    "count": 1,
+    "ingredients": [
+      "oritech:motor",
+      "oritech:laser_arm_block",
+      "oritech:motor",
+      "oritech:motor",
+      "oritech:pulverizer_block",
+      "oritech:motor",
+      "minecraft:plating",
+      "minecraft:plating",
+      "minecraft:plating"
+    ]
+  },
+  "pamhc2foodextended:delightedmealitem": {
+    "result": "pamhc2foodextended:delightedmealitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:sodas",
+      "pamhc2foodextended:mcpamitem",
+      "pamhc2foodcore:friesitem",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:deluxecheeseburgeritem": {
+    "result": "pamhc2foodextended:deluxecheeseburgeritem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_skillet",
+      "minecraft:groundbeef",
+      "minecraft:cheese",
+      "minecraft:lettuce",
+      "minecraft:onion",
+      "minecraft:condiments",
+      "minecraft:bread",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:deluxechickencurryitem": {
+    "result": "pamhc2foodextended:deluxechickencurryitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "pamhc2foodextended:chickencurryitem",
+      "minecraft:rice",
+      "pamhc2foodextended:naanitem",
+      "pamhc2foodextended:mangochutneyitem",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:deluxenachoesitem": {
+    "result": "pamhc2foodextended:deluxenachoesitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:tortillachips",
+      "minecraft:salsa",
+      "minecraft:cheese",
+      "minecraft:rawmeats",
+      "minecraft:chilipepper",
+      "minecraft:cream",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:deviledeggitem": {
+    "result": "pamhc2foodextended:deviledeggitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:boiledegg",
+      "minecraft:mayonaise",
+      "minecraft:mustard",
+      "minecraft:spiceleaf",
+      "minecraft:saltandpepper",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:detector_track_kit": {
+    "result": "railcraft:detector_track_kit",
+    "count": 8,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "railcraft:track_parts",
+      "minecraft:stone_pressure_plate",
+      "minecraft:redstone",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "refinedstorage:destruction_core": {
+    "result": "refinedstorage:destruction_core",
+    "count": 1,
+    "ingredients": [
+      "refinedstorage:basic_processor",
+      "minecraft:quartz",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "refinedstorage:destructor": {
+    "result": "refinedstorage:destructor",
+    "count": 1,
+    "ingredients": [
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:destruction_core",
+      "refinedstorage:quartz_enriched_iron",
+      "minecraft:diamond",
+      "refinedstorage:cable",
+      "minecraft:diamond",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:improved_processor",
+      "refinedstorage:quartz_enriched_iron"
+    ]
+  },
+  "refinedstorage:detector": {
+    "result": "refinedstorage:detector",
+    "count": 1,
+    "ingredients": [
+      "refinedstorage:quartz_enriched_iron",
+      "minecraft:redstone_torch",
+      "refinedstorage:quartz_enriched_iron",
+      "minecraft:comparator",
+      "refinedstorage:machine_casing",
+      "minecraft:comparator",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:improved_processor",
+      "refinedstorage:quartz_enriched_iron"
+    ]
+  },
+  "regions_unexplored:dead_boat": {
+    "result": "regions_unexplored:dead_boat",
+    "count": 1,
+    "ingredients": [
+      "regions_unexplored:dead_planks",
+      "",
+      "regions_unexplored:dead_planks",
+      "regions_unexplored:dead_planks",
+      "regions_unexplored:dead_planks",
+      "regions_unexplored:dead_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:dead_branch": {
+    "result": "regions_unexplored:dead_branch",
+    "count": 2,
+    "ingredients": [
+      "regions_unexplored:dead_log",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:dead_button": {
+    "result": "regions_unexplored:dead_button",
+    "count": 1,
+    "ingredients": [
+      "regions_unexplored:dead_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:dead_chest_boat": {
+    "result": "regions_unexplored:dead_chest_boat",
+    "count": 1,
+    "ingredients": [
+      "minecraft:chest",
+      "regions_unexplored:dead_boat",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:dead_door": {
+    "result": "regions_unexplored:dead_door",
+    "count": 3,
+    "ingredients": [
+      "regions_unexplored:dead_planks",
+      "regions_unexplored:dead_planks",
+      "",
+      "regions_unexplored:dead_planks",
+      "regions_unexplored:dead_planks",
+      "",
+      "regions_unexplored:dead_planks",
+      "regions_unexplored:dead_planks",
+      ""
+    ]
+  },
+  "regions_unexplored:dead_fence": {
+    "result": "regions_unexplored:dead_fence",
+    "count": 3,
+    "ingredients": [
+      "regions_unexplored:dead_planks",
+      "minecraft:stick",
+      "regions_unexplored:dead_planks",
+      "regions_unexplored:dead_planks",
+      "minecraft:stick",
+      "regions_unexplored:dead_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:dead_fence_gate": {
+    "result": "regions_unexplored:dead_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "regions_unexplored:dead_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "regions_unexplored:dead_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:dead_hanging_sign": {
+    "result": "regions_unexplored:dead_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "regions_unexplored:stripped_dead_log",
+      "regions_unexplored:stripped_dead_log",
+      "regions_unexplored:stripped_dead_log",
+      "regions_unexplored:stripped_dead_log",
+      "regions_unexplored:stripped_dead_log",
+      "regions_unexplored:stripped_dead_log"
+    ]
+  },
+  "regions_unexplored:dead_pine_sapling": {
+    "result": "regions_unexplored:dead_pine_sapling",
+    "count": 2,
+    "ingredients": [
+      "regions_unexplored:dead_pine_shrub",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:dead_pine_shrub": {
+    "result": "regions_unexplored:dead_pine_shrub",
+    "count": 1,
+    "ingredients": [
+      "regions_unexplored:dead_pine_sapling",
+      "",
+      "",
+      "regions_unexplored:dead_pine_sapling",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:dead_planks": {
+    "result": "regions_unexplored:dead_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:dead_pressure_plate": {
+    "result": "regions_unexplored:dead_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "regions_unexplored:dead_planks",
+      "regions_unexplored:dead_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:dead_sapling": {
+    "result": "regions_unexplored:dead_sapling",
+    "count": 2,
+    "ingredients": [
+      "regions_unexplored:dead_shrub",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:dead_shrub": {
+    "result": "regions_unexplored:dead_shrub",
+    "count": 1,
+    "ingredients": [
+      "regions_unexplored:dead_sapling",
+      "",
+      "",
+      "regions_unexplored:dead_sapling",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:dead_sign": {
+    "result": "regions_unexplored:dead_sign",
+    "count": 3,
+    "ingredients": [
+      "regions_unexplored:dead_planks",
+      "regions_unexplored:dead_planks",
+      "regions_unexplored:dead_planks",
+      "regions_unexplored:dead_planks",
+      "regions_unexplored:dead_planks",
+      "regions_unexplored:dead_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "regions_unexplored:dead_slab": {
+    "result": "regions_unexplored:dead_slab",
+    "count": 6,
+    "ingredients": [
+      "regions_unexplored:dead_planks",
+      "regions_unexplored:dead_planks",
+      "regions_unexplored:dead_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:dead_stairs": {
+    "result": "regions_unexplored:dead_stairs",
+    "count": 4,
+    "ingredients": [
+      "regions_unexplored:dead_planks",
+      "",
+      "",
+      "regions_unexplored:dead_planks",
+      "regions_unexplored:dead_planks",
+      "",
+      "regions_unexplored:dead_planks",
+      "regions_unexplored:dead_planks",
+      "regions_unexplored:dead_planks"
+    ]
+  },
+  "regions_unexplored:dead_trapdoor": {
+    "result": "regions_unexplored:dead_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "regions_unexplored:dead_planks",
+      "regions_unexplored:dead_planks",
+      "regions_unexplored:dead_planks",
+      "regions_unexplored:dead_planks",
+      "regions_unexplored:dead_planks",
+      "regions_unexplored:dead_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:dead_wood": {
+    "result": "regions_unexplored:dead_wood",
+    "count": 3,
+    "ingredients": [
+      "regions_unexplored:dead_log",
+      "regions_unexplored:dead_log",
+      "",
+      "regions_unexplored:dead_log",
+      "regions_unexplored:dead_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:deepslate_grass_block": {
+    "result": "regions_unexplored:deepslate_grass_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:grass",
+      "",
+      "",
+      "minecraft:deepslate",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:deepslate_prismoss": {
+    "result": "regions_unexplored:deepslate_prismoss",
+    "count": 1,
+    "ingredients": [
+      "regions_unexplored:prismoss_sprout",
+      "",
+      "",
+      "minecraft:deepslate",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:deepslate_viridescent_nylium": {
+    "result": "regions_unexplored:deepslate_viridescent_nylium",
+    "count": 1,
+    "ingredients": [
+      "minecraft:mushrooms",
+      "",
+      "",
+      "minecraft:deepslate",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "reliquary:destruction_catalyst": {
+    "result": "reliquary:destruction_catalyst",
+    "count": 1,
+    "ingredients": [
+      "minecraft:flint_and_steel",
+      "reliquary:molten_core",
+      "reliquary:catalyzing_gland",
+      "reliquary:infernal_tear",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "rftoolsutility:destination_analyzer": {
+    "result": "rftoolsutility:destination_analyzer",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "minecraft:ender_pearl",
+      "minecraft:redstone",
+      "minecraft:comparator",
+      "rftoolsbase:machine_frame",
+      "minecraft:repeater",
+      "minecraft:quartz",
+      "minecraft:redstone",
+      "minecraft:quartz"
+    ]
+  },
+  "securitycraft:deepslate_coal_mine": {
+    "result": "securitycraft:deepslate_coal_mine",
+    "count": 1,
+    "ingredients": [
+      "minecraft:deepslate_coal_ore",
+      "securitycraft:mine",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "securitycraft:deepslate_copper_mine": {
+    "result": "securitycraft:deepslate_copper_mine",
+    "count": 1,
+    "ingredients": [
+      "minecraft:deepslate_copper_ore",
+      "securitycraft:mine",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "securitycraft:deepslate_diamond_mine": {
+    "result": "securitycraft:deepslate_diamond_mine",
+    "count": 1,
+    "ingredients": [
+      "minecraft:deepslate_diamond_ore",
+      "securitycraft:mine",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "securitycraft:deepslate_emerald_mine": {
+    "result": "securitycraft:deepslate_emerald_mine",
+    "count": 1,
+    "ingredients": [
+      "minecraft:deepslate_emerald_ore",
+      "securitycraft:mine",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "securitycraft:deepslate_gold_mine": {
+    "result": "securitycraft:deepslate_gold_mine",
+    "count": 1,
+    "ingredients": [
+      "minecraft:deepslate_gold_ore",
+      "securitycraft:mine",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "securitycraft:deepslate_iron_mine": {
+    "result": "securitycraft:deepslate_iron_mine",
+    "count": 1,
+    "ingredients": [
+      "minecraft:deepslate_iron_ore",
+      "securitycraft:mine",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "securitycraft:deepslate_lapis_mine": {
+    "result": "securitycraft:deepslate_lapis_mine",
+    "count": 1,
+    "ingredients": [
+      "minecraft:deepslate_lapis_ore",
+      "securitycraft:mine",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "securitycraft:deepslate_mine": {
+    "result": "securitycraft:deepslate_mine",
+    "count": 1,
+    "ingredients": [
+      "minecraft:deepslate",
+      "securitycraft:mine",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "securitycraft:deepslate_redstone_mine": {
+    "result": "securitycraft:deepslate_redstone_mine",
+    "count": 1,
+    "ingredients": [
+      "minecraft:deepslate_redstone_ore",
+      "securitycraft:mine",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "sophisticatedbackpacks:deposit_upgrade": {
+    "result": "sophisticatedbackpacks:deposit_upgrade",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:piston",
+      "",
+      "minecraft:iron_ingot",
+      "sophisticatedbackpacks:upgrade_base",
+      "minecraft:iron_ingot",
+      "minecraft:redstone",
+      "minecraft:chest",
+      "minecraft:redstone"
+    ]
+  },
+  "sophisticatedstorage:decoration_table": {
+    "result": "sophisticatedstorage:decoration_table",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_log",
+      "minecraft:oak_log",
+      "minecraft:oak_log",
+      "minecraft:oak_planks",
+      "sophisticatedstorage:upgrade_base",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "",
+      "minecraft:oak_planks"
+    ]
+  },
+  "supplementaries:deepslate_lamp": {
+    "result": "supplementaries:deepslate_lamp",
+    "count": 1,
+    "ingredients": [
+      "minecraft:deepslate",
+      "minecraft:deepslate",
+      "minecraft:deepslate",
+      "minecraft:deepslate",
+      "minecraft:torch",
+      "minecraft:deepslate",
+      "minecraft:deepslate",
+      "minecraft:deepslate",
+      "minecraft:deepslate"
+    ]
+  },
+  "tombstone:decorative_grave_cross": {
+    "result": "tombstone:decorative_grave_cross",
+    "count": 1,
+    "ingredients": [
+      "",
+      "tombstone:white_marble",
+      "",
+      "tombstone:white_marble",
+      "minecraft:stone",
+      "tombstone:white_marble",
+      "",
+      "tombstone:white_marble",
+      ""
+    ]
+  },
+  "tombstone:decorative_grave_normal": {
+    "result": "tombstone:decorative_grave_normal",
+    "count": 1,
+    "ingredients": [
+      "",
+      "tombstone:white_marble",
+      "",
+      "",
+      "tombstone:white_marble",
+      "",
+      "tombstone:white_marble",
+      "minecraft:stone",
+      "tombstone:white_marble"
+    ]
+  },
+  "tombstone:decorative_grave_original": {
+    "result": "tombstone:decorative_grave_original",
+    "count": 1,
+    "ingredients": [
+      "tombstone:white_marble",
+      "minecraft:stone",
+      "tombstone:white_marble",
+      "tombstone:white_marble",
+      "tombstone:white_marble",
+      "tombstone:white_marble",
+      "",
+      "",
+      ""
+    ]
+  },
+  "tombstone:decorative_grave_simple": {
+    "result": "tombstone:decorative_grave_simple",
+    "count": 1,
+    "ingredients": [
+      "",
+      "tombstone:white_marble",
+      "",
+      "tombstone:white_marble",
+      "minecraft:stone",
+      "tombstone:white_marble",
+      "",
+      "",
+      ""
+    ]
+  },
+  "tombstone:decorative_subaraki_grave": {
+    "result": "tombstone:decorative_subaraki_grave",
+    "count": 1,
+    "ingredients": [
+      "tombstone:white_marble",
+      "",
+      "tombstone:white_marble",
+      "",
+      "minecraft:stone",
+      "",
+      "tombstone:white_marble",
+      "",
+      "tombstone:white_marble"
+    ]
+  },
+  "tombstone:decorative_tombstone": {
+    "result": "tombstone:decorative_tombstone",
+    "count": 1,
+    "ingredients": [
+      "tombstone:white_marble",
+      "tombstone:white_marble",
+      "tombstone:white_marble",
+      "tombstone:white_marble",
+      "minecraft:stone",
+      "tombstone:white_marble",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:deepsoil": {
+    "result": "undergarden:deepsoil",
+    "count": 1,
+    "ingredients": [
+      "undergarden:coarse_deepsoil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:depthrock_bed": {
+    "result": "undergarden:depthrock_bed",
+    "count": 1,
+    "ingredients": [
+      "undergarden:mogmoss",
+      "undergarden:mogmoss",
+      "undergarden:mogmoss",
+      "undergarden:depthrock",
+      "undergarden:depthrock",
+      "undergarden:depthrock",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:depthrock_bricks": {
+    "result": "undergarden:depthrock_bricks",
+    "count": 4,
+    "ingredients": [
+      "undergarden:polished_depthrock",
+      "undergarden:polished_depthrock",
+      "",
+      "undergarden:polished_depthrock",
+      "undergarden:polished_depthrock",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:depthrock_brick_slab": {
+    "result": "undergarden:depthrock_brick_slab",
+    "count": 6,
+    "ingredients": [
+      "undergarden:depthrock_bricks",
+      "undergarden:depthrock_bricks",
+      "undergarden:depthrock_bricks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:depthrock_brick_stairs": {
+    "result": "undergarden:depthrock_brick_stairs",
+    "count": 4,
+    "ingredients": [
+      "undergarden:depthrock_bricks",
+      "",
+      "",
+      "undergarden:depthrock_bricks",
+      "undergarden:depthrock_bricks",
+      "",
+      "undergarden:depthrock_bricks",
+      "undergarden:depthrock_bricks",
+      "undergarden:depthrock_bricks"
+    ]
+  },
+  "undergarden:depthrock_brick_wall": {
+    "result": "undergarden:depthrock_brick_wall",
+    "count": 6,
+    "ingredients": [
+      "undergarden:depthrock_bricks",
+      "undergarden:depthrock_bricks",
+      "undergarden:depthrock_bricks",
+      "undergarden:depthrock_bricks",
+      "undergarden:depthrock_bricks",
+      "undergarden:depthrock_bricks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:depthrock_button": {
+    "result": "undergarden:depthrock_button",
+    "count": 1,
+    "ingredients": [
+      "undergarden:depthrock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:depthrock_pressure_plate": {
+    "result": "undergarden:depthrock_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "undergarden:depthrock",
+      "undergarden:depthrock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:depthrock_slab": {
+    "result": "undergarden:depthrock_slab",
+    "count": 6,
+    "ingredients": [
+      "undergarden:depthrock",
+      "undergarden:depthrock",
+      "undergarden:depthrock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:depthrock_stairs": {
+    "result": "undergarden:depthrock_stairs",
+    "count": 4,
+    "ingredients": [
+      "undergarden:depthrock",
+      "",
+      "",
+      "undergarden:depthrock",
+      "undergarden:depthrock",
+      "",
+      "undergarden:depthrock",
+      "undergarden:depthrock",
+      "undergarden:depthrock"
+    ]
+  },
+  "undergarden:depthrock_tiles": {
+    "result": "undergarden:depthrock_tiles",
+    "count": 4,
+    "ingredients": [
+      "undergarden:depthrock_bricks",
+      "undergarden:depthrock_bricks",
+      "",
+      "undergarden:depthrock_bricks",
+      "undergarden:depthrock_bricks",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:depthrock_tile_slab": {
+    "result": "undergarden:depthrock_tile_slab",
+    "count": 6,
+    "ingredients": [
+      "undergarden:depthrock_tiles",
+      "undergarden:depthrock_tiles",
+      "undergarden:depthrock_tiles",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:depthrock_tile_stairs": {
+    "result": "undergarden:depthrock_tile_stairs",
+    "count": 4,
+    "ingredients": [
+      "undergarden:depthrock_tiles",
+      "",
+      "",
+      "undergarden:depthrock_tiles",
+      "undergarden:depthrock_tiles",
+      "",
+      "undergarden:depthrock_tiles",
+      "undergarden:depthrock_tiles",
+      "undergarden:depthrock_tiles"
+    ]
+  },
+  "undergarden:depthrock_wall": {
+    "result": "undergarden:depthrock_wall",
+    "count": 6,
+    "ingredients": [
+      "undergarden:depthrock",
+      "undergarden:depthrock",
+      "undergarden:depthrock",
+      "undergarden:depthrock",
+      "undergarden:depthrock",
+      "undergarden:depthrock",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:depthrock": {
+    "result": "undergarden:depthrock",
+    "count": 1,
+    "ingredients": [
+      "undergarden:depthrock_pebble",
+      "undergarden:depthrock_pebble",
+      "undergarden:depthrock_pebble",
+      "undergarden:depthrock_pebble",
+      "undergarden:depthrock_pebble",
+      "undergarden:depthrock_pebble",
+      "undergarden:depthrock_pebble",
+      "undergarden:depthrock_pebble",
+      "undergarden:depthrock_pebble"
+    ]
+  },
+  "waystones:deepslate_shard": {
+    "result": "waystones:deepslate_shard",
+    "count": 1,
+    "ingredients": [
+      "minecraft:deepslate",
+      "minecraft:flint",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "waystones:deepslate_waystone": {
+    "result": "waystones:deepslate_waystone",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:deepslate",
+      "",
+      "minecraft:deepslate",
+      "waystones:warp_stone",
+      "minecraft:deepslate",
+      "minecraft:obsidian",
+      "minecraft:obsidian",
+      "minecraft:obsidian"
+    ]
+  },
+  "xycraft_override:deepslate_bricks_blue": {
+    "result": "xycraft_override:deepslate_bricks_blue",
+    "count": 2,
+    "ingredients": [
+      "xycraft_world:xychorium_gem_blue",
+      "minecraft:polished_deepslate",
+      "",
+      "minecraft:polished_deepslate",
+      "xycraft_world:xychorium_gem_blue",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xycraft_override:deepslate_bricks_dark": {
+    "result": "xycraft_override:deepslate_bricks_dark",
+    "count": 2,
+    "ingredients": [
+      "xycraft_world:xychorium_gem_dark",
+      "minecraft:polished_deepslate",
+      "",
+      "minecraft:polished_deepslate",
+      "xycraft_world:xychorium_gem_dark",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xycraft_override:deepslate_bricks_green": {
+    "result": "xycraft_override:deepslate_bricks_green",
+    "count": 2,
+    "ingredients": [
+      "xycraft_world:xychorium_gem_green",
+      "minecraft:polished_deepslate",
+      "",
+      "minecraft:polished_deepslate",
+      "xycraft_world:xychorium_gem_green",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xycraft_override:deepslate_bricks_light": {
+    "result": "xycraft_override:deepslate_bricks_light",
+    "count": 2,
+    "ingredients": [
+      "xycraft_world:xychorium_gem_light",
+      "minecraft:polished_deepslate",
+      "",
+      "minecraft:polished_deepslate",
+      "xycraft_world:xychorium_gem_light",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xycraft_override:deepslate_bricks_red": {
+    "result": "xycraft_override:deepslate_bricks_red",
+    "count": 2,
+    "ingredients": [
+      "xycraft_world:xychorium_gem_red",
+      "minecraft:polished_deepslate",
+      "",
+      "minecraft:polished_deepslate",
+      "xycraft_world:xychorium_gem_red",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xycraft_override:deepslate_tiles_blue": {
+    "result": "xycraft_override:deepslate_tiles_blue",
+    "count": 2,
+    "ingredients": [
+      "xycraft_world:xychorium_gem_blue",
+      "minecraft:deepslate_tiles",
+      "",
+      "minecraft:deepslate_tiles",
+      "xycraft_world:xychorium_gem_blue",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xycraft_override:deepslate_tiles_dark": {
+    "result": "xycraft_override:deepslate_tiles_dark",
+    "count": 2,
+    "ingredients": [
+      "xycraft_world:xychorium_gem_dark",
+      "minecraft:deepslate_tiles",
+      "",
+      "minecraft:deepslate_tiles",
+      "xycraft_world:xychorium_gem_dark",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xycraft_override:deepslate_tiles_green": {
+    "result": "xycraft_override:deepslate_tiles_green",
+    "count": 2,
+    "ingredients": [
+      "xycraft_world:xychorium_gem_green",
+      "minecraft:deepslate_tiles",
+      "",
+      "minecraft:deepslate_tiles",
+      "xycraft_world:xychorium_gem_green",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xycraft_override:deepslate_tiles_light": {
+    "result": "xycraft_override:deepslate_tiles_light",
+    "count": 2,
+    "ingredients": [
+      "xycraft_world:xychorium_gem_light",
+      "minecraft:deepslate_tiles",
+      "",
+      "minecraft:deepslate_tiles",
+      "xycraft_world:xychorium_gem_light",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xycraft_override:deepslate_tiles_red": {
+    "result": "xycraft_override:deepslate_tiles_red",
+    "count": 2,
+    "ingredients": [
+      "xycraft_world:xychorium_gem_red",
+      "minecraft:deepslate_tiles",
+      "",
+      "minecraft:deepslate_tiles",
+      "xycraft_world:xychorium_gem_red",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

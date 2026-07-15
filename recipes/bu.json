@@ -1,0 +1,1817 @@
+{
+  "bibliocraft:butchercraft_barn_wood_bookcase": {
+    "result": "bibliocraft:butchercraft_barn_wood_bookcase",
+    "count": 1,
+    "ingredients": [
+      "butchercraft:barn_wood_block_item",
+      "butchercraft:barn_wood_slab_item",
+      "butchercraft:barn_wood_block_item",
+      "butchercraft:barn_wood_block_item",
+      "butchercraft:barn_wood_slab_item",
+      "butchercraft:barn_wood_block_item",
+      "butchercraft:barn_wood_block_item",
+      "butchercraft:barn_wood_slab_item",
+      "butchercraft:barn_wood_block_item"
+    ]
+  },
+  "bibliocraft:butchercraft_barn_wood_fancy_armor_stand": {
+    "result": "bibliocraft:butchercraft_barn_wood_fancy_armor_stand",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "butchercraft:barn_wood_slab_item",
+      "butchercraft:barn_wood_slab_item",
+      "butchercraft:barn_wood_slab_item"
+    ]
+  },
+  "bibliocraft:butchercraft_barn_wood_fancy_clock": {
+    "result": "bibliocraft:butchercraft_barn_wood_fancy_clock",
+    "count": 1,
+    "ingredients": [
+      "butchercraft:barn_wood_slab_item",
+      "minecraft:clock",
+      "butchercraft:barn_wood_slab_item",
+      "butchercraft:barn_wood_slab_item",
+      "minecraft:stick",
+      "butchercraft:barn_wood_slab_item",
+      "butchercraft:barn_wood_slab_item",
+      "minecraft:copper_ingot",
+      "butchercraft:barn_wood_slab_item"
+    ]
+  },
+  "bibliocraft:butchercraft_barn_wood_fancy_crafter": {
+    "result": "bibliocraft:butchercraft_barn_wood_fancy_crafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black",
+      "minecraft:crafting_tables",
+      "minecraft:feather",
+      "butchercraft:barn_wood_block_item",
+      "minecraft:glass",
+      "butchercraft:barn_wood_block_item",
+      "butchercraft:barn_wood_block_item",
+      "minecraft:crafter",
+      "butchercraft:barn_wood_block_item"
+    ]
+  },
+  "bibliocraft:butchercraft_barn_wood_fancy_sign": {
+    "result": "bibliocraft:butchercraft_barn_wood_fancy_sign",
+    "count": 1,
+    "ingredients": [
+      "butchercraft:barn_wood_block_item",
+      "minecraft:paper",
+      "butchercraft:barn_wood_block_item",
+      "butchercraft:barn_wood_block_item",
+      "minecraft:paper",
+      "butchercraft:barn_wood_block_item",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "bibliocraft:butchercraft_barn_wood_grandfather_clock": {
+    "result": "bibliocraft:butchercraft_barn_wood_grandfather_clock",
+    "count": 1,
+    "ingredients": [
+      "bibliocraft:butchercraft_barn_wood_fancy_clock",
+      "bibliocraft:butchercraft_barn_wood_fancy_clock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:butchercraft_barn_wood_label": {
+    "result": "bibliocraft:butchercraft_barn_wood_label",
+    "count": 1,
+    "ingredients": [
+      "butchercraft:barn_wood_slab_item",
+      "butchercraft:barn_wood_slab_item",
+      "butchercraft:barn_wood_slab_item",
+      "butchercraft:barn_wood_slab_item",
+      "butchercraft:barn_wood_slab_item",
+      "butchercraft:barn_wood_slab_item",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:butchercraft_barn_wood_potion_shelf": {
+    "result": "bibliocraft:butchercraft_barn_wood_potion_shelf",
+    "count": 1,
+    "ingredients": [
+      "butchercraft:barn_wood_slab_item",
+      "butchercraft:barn_wood_slab_item",
+      "butchercraft:barn_wood_slab_item",
+      "butchercraft:barn_wood_block_item",
+      "minecraft:glass_bottle",
+      "butchercraft:barn_wood_block_item",
+      "butchercraft:barn_wood_slab_item",
+      "butchercraft:barn_wood_slab_item",
+      "butchercraft:barn_wood_slab_item"
+    ]
+  },
+  "bibliocraft:butchercraft_barn_wood_shelf": {
+    "result": "bibliocraft:butchercraft_barn_wood_shelf",
+    "count": 1,
+    "ingredients": [
+      "butchercraft:barn_wood_slab_item",
+      "butchercraft:barn_wood_slab_item",
+      "butchercraft:barn_wood_slab_item",
+      "",
+      "butchercraft:barn_wood_block_item",
+      "",
+      "butchercraft:barn_wood_slab_item",
+      "butchercraft:barn_wood_slab_item",
+      "butchercraft:barn_wood_slab_item"
+    ]
+  },
+  "bibliocraft:butchercraft_barn_wood_table": {
+    "result": "bibliocraft:butchercraft_barn_wood_table",
+    "count": 1,
+    "ingredients": [
+      "butchercraft:barn_wood_slab_item",
+      "butchercraft:barn_wood_slab_item",
+      "butchercraft:barn_wood_slab_item",
+      "",
+      "butchercraft:barn_wood_block_item",
+      "",
+      "",
+      "butchercraft:barn_wood_block_item",
+      ""
+    ]
+  },
+  "bibliocraft:butchercraft_barn_wood_tool_rack": {
+    "result": "bibliocraft:butchercraft_barn_wood_tool_rack",
+    "count": 1,
+    "ingredients": [
+      "butchercraft:barn_wood_slab_item",
+      "butchercraft:barn_wood_slab_item",
+      "butchercraft:barn_wood_slab_item",
+      "butchercraft:barn_wood_slab_item",
+      "minecraft:iron_ingot",
+      "butchercraft:barn_wood_slab_item",
+      "butchercraft:barn_wood_slab_item",
+      "butchercraft:barn_wood_slab_item",
+      "butchercraft:barn_wood_slab_item"
+    ]
+  },
+  "cataclysm:bulwark_of_the_flame": {
+    "result": "cataclysm:bulwark_of_the_flame",
+    "count": 1,
+    "ingredients": [
+      "minecraft:nether_brick",
+      "cataclysm:ignitium_ingot",
+      "minecraft:nether_brick",
+      "minecraft:blaze_rod",
+      "minecraft:shield",
+      "minecraft:blaze_rod",
+      "minecraft:nether_brick",
+      "cataclysm:ignitium_ingot",
+      "minecraft:nether_brick"
+    ]
+  },
+  "cataclysm:burning_ashes": {
+    "result": "cataclysm:burning_ashes",
+    "count": 1,
+    "ingredients": [
+      "cataclysm:dying_ember",
+      "cataclysm:dying_ember",
+      "",
+      "cataclysm:dying_ember",
+      "cataclysm:dying_ember",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:bubble_coral_block": {
+    "result": "minecraft:bubble_coral_block",
+    "count": 12,
+    "ingredients": [
+      "mysticalagriculture:coral_essence",
+      "mysticalagriculture:coral_essence",
+      "mysticalagriculture:coral_essence",
+      "mysticalagriculture:coral_essence",
+      "minecraft:magenta",
+      "mysticalagriculture:coral_essence",
+      "mysticalagriculture:coral_essence",
+      "mysticalagriculture:coral_essence",
+      "mysticalagriculture:coral_essence"
+    ]
+  },
+  "dyenamics:bubblegum_candle": {
+    "result": "dyenamics:bubblegum_candle",
+    "count": 1,
+    "ingredients": [
+      "minecraft:candle",
+      "minecraft:bubblegum",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:bubblegum_carpet": {
+    "result": "dyenamics:bubblegum_carpet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:white_wool",
+      "minecraft:bubblegum",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:bubblegum_concrete_powder": {
+    "result": "dyenamics:bubblegum_concrete_powder",
+    "count": 8,
+    "ingredients": [
+      "minecraft:bubblegum",
+      "minecraft:sand",
+      "minecraft:sand",
+      "minecraft:sand",
+      "minecraft:sand",
+      "minecraft:gravel",
+      "minecraft:gravel",
+      "minecraft:gravel",
+      "minecraft:gravel"
+    ]
+  },
+  "dyenamics:bubblegum_dye": {
+    "result": "dyenamics:bubblegum_dye",
+    "count": 2,
+    "ingredients": [
+      "minecraft:pink",
+      "minecraft:magenta",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:bubblegum_stained_glass": {
+    "result": "dyenamics:bubblegum_stained_glass",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:bubblegum",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass"
+    ]
+  },
+  "dyenamics:bubblegum_stained_glass_pane": {
+    "result": "dyenamics:bubblegum_stained_glass_pane",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:bubblegum",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane"
+    ]
+  },
+  "dyenamics:bubblegum_terracotta": {
+    "result": "dyenamics:bubblegum_terracotta",
+    "count": 8,
+    "ingredients": [
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:bubblegum",
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:terracotta"
+    ]
+  },
+  "dyenamics:bubblegum_wool": {
+    "result": "dyenamics:bubblegum_wool",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bubblegum",
+      "minecraft:white_wool",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:bubblegum_banner": {
+    "result": "dyenamics:bubblegum_banner",
+    "count": 1,
+    "ingredients": [
+      "dyenamics:bubblegum_wool",
+      "dyenamics:bubblegum_wool",
+      "dyenamics:bubblegum_wool",
+      "dyenamics:bubblegum_wool",
+      "dyenamics:bubblegum_wool",
+      "dyenamics:bubblegum_wool",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "dyenamics:bubblegum_bed": {
+    "result": "dyenamics:bubblegum_bed",
+    "count": 1,
+    "ingredients": [
+      "minecraft:beds",
+      "minecraft:bubblegum",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:bubblegum_rockwool": {
+    "result": "dyenamics:bubblegum_rockwool",
+    "count": 1,
+    "ingredients": [
+      "thermal:white_rockwool",
+      "minecraft:bubblegum",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:bucket": {
+    "result": "minecraft:bucket",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "evilcraft:bucket_poison": {
+    "result": "evilcraft:bucket_poison",
+    "count": 1,
+    "ingredients": [
+      "minecraft:poisonous",
+      "minecraft:poisonous",
+      "minecraft:poisonous",
+      "minecraft:poisonous",
+      "minecraft:bucket",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "herbsandharvest:burrito": {
+    "result": "herbsandharvest:burrito",
+    "count": 3,
+    "ingredients": [
+      "minecraft:cooked_beef",
+      "minecraft:beans",
+      "minecraft:wheat",
+      "minecraft:sour_cream",
+      "herbsandharvest:guacamole",
+      "minecraft:tomato",
+      "minecraft:onion",
+      "",
+      ""
+    ]
+  },
+  "herbsandharvest:butter_churn": {
+    "result": "herbsandharvest:butter_churn",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks"
+    ]
+  },
+  "immersiveengineering:buzzsaw": {
+    "result": "immersiveengineering:buzzsaw",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "immersiveengineering:wooden_grip",
+      "minecraft:steel",
+      "immersiveengineering:heavy_engineering",
+      "immersiveengineering:wooden_grip",
+      "minecraft:steel",
+      "",
+      ""
+    ]
+  },
+  "megacells:bulk_item_cell": {
+    "result": "megacells:bulk_item_cell",
+    "count": 1,
+    "ingredients": [
+      "ae2:quartz_vibrant_glass",
+      "ae2:sky_dust",
+      "ae2:quartz_vibrant_glass",
+      "ae2:sky_dust",
+      "megacells:bulk_cell_component",
+      "ae2:sky_dust",
+      "minecraft:netherite_ingot",
+      "minecraft:netherite_ingot",
+      "minecraft:netherite_ingot"
+    ]
+  },
+  "megacells:bulk_cell_component": {
+    "result": "megacells:bulk_cell_component",
+    "count": 1,
+    "ingredients": [
+      "ae2:sky_dust",
+      "ae2:spatial_cell_component_2",
+      "ae2:sky_dust",
+      "megacells:accumulation_processor",
+      "ae2:quartz_vibrant_glass",
+      "megacells:accumulation_processor",
+      "ae2:sky_dust",
+      "megacells:cell_component_1m",
+      "ae2:sky_dust"
+    ]
+  },
+  "minecolonies:build_goggles": {
+    "result": "minecolonies:build_goggles",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_nugget",
+      "minecraft:iron_ingot",
+      "minecraft:gold_nugget",
+      "minecraft:glass_pane",
+      "structurize:sceptergold",
+      "minecraft:glass_pane",
+      "minecraft:leather",
+      "",
+      "minecraft:leather"
+    ]
+  },
+  "minecolonies:butter": {
+    "result": "minecolonies:butter",
+    "count": 3,
+    "ingredients": [
+      "minecolonies:large_soy_milk_bottle",
+      "minecolonies:large_soy_milk_bottle",
+      "minecolonies:large_soy_milk_bottle",
+      "minecolonies:large_soy_milk_bottle",
+      "minecolonies:large_soy_milk_bottle",
+      "minecolonies:large_soy_milk_bottle",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modularrouters:bulk_item_filter": {
+    "result": "modularrouters:bulk_item_filter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:glass",
+      "minecraft:iron_ingot",
+      "modularrouters:blank_module",
+      "minecraft:diamond",
+      "modularrouters:blank_module",
+      "minecraft:iron_ingot",
+      "minecraft:glass",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "morered:bundled_cable_post": {
+    "result": "morered:bundled_cable_post",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bundled_network_cables",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "morered:bundled_cable_relay_plate": {
+    "result": "morered:bundled_cable_relay_plate",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:bundled_network_cables",
+      "",
+      "minecraft:bundled_network_cables",
+      "minecraft:iron_ingot",
+      "minecraft:bundled_network_cables",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone"
+    ]
+  },
+  "morered:bundled_cable_spool": {
+    "result": "morered:bundled_cable_spool",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bundled_network_cables",
+      "minecraft:iron_ingot",
+      "minecraft:stick",
+      "minecraft:iron_ingot",
+      "minecraft:bundled_network_cables",
+      "minecraft:iron_ingot",
+      "minecraft:stick",
+      "minecraft:iron_ingot",
+      "minecraft:bundled_network_cables"
+    ]
+  },
+  "morered:bundled_network_cable": {
+    "result": "morered:bundled_network_cable",
+    "count": 3,
+    "ingredients": [
+      "minecraft:network_cables",
+      "",
+      "",
+      "minecraft:network_cables",
+      "",
+      "",
+      "minecraft:network_cables",
+      "",
+      ""
+    ]
+  },
+  "minecraft:bubble_coral": {
+    "result": "minecraft:bubble_coral",
+    "count": 8,
+    "ingredients": [
+      "",
+      "mysticalagriculture:coral_essence",
+      "",
+      "mysticalagriculture:coral_essence",
+      "minecraft:magenta",
+      "mysticalagriculture:coral_essence",
+      "",
+      "mysticalagriculture:coral_essence",
+      ""
+    ]
+  },
+  "minecraft:bubble_coral_fan": {
+    "result": "minecraft:bubble_coral_fan",
+    "count": 6,
+    "ingredients": [
+      "mysticalagriculture:coral_essence",
+      "",
+      "mysticalagriculture:coral_essence",
+      "",
+      "minecraft:magenta",
+      "",
+      "mysticalagriculture:coral_essence",
+      "",
+      "mysticalagriculture:coral_essence"
+    ]
+  },
+  "occultism:butcher_knife": {
+    "result": "occultism:butcher_knife",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:stick",
+      "minecraft:iron_ingot",
+      "minecraft:stick",
+      "",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:butteredbakedpotatoitem": {
+    "result": "pamhc2foodcore:butteredbakedpotatoitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:baked_potato",
+      "minecraft:butter",
+      "minecraft:salt",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:butteritem": {
+    "result": "pamhc2foodcore:butteritem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:milk",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:bulgogiitem": {
+    "result": "pamhc2foodextended:bulgogiitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_skillet",
+      "minecraft:rawbeef",
+      "minecraft:garlic",
+      "minecraft:soysauce",
+      "minecraft:sugar",
+      "minecraft:blackpepper",
+      "minecraft:scallion",
+      "minecraft:ginger",
+      ""
+    ]
+  },
+  "pamhc2foodextended:buttertartitem": {
+    "result": "pamhc2foodextended:buttertartitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:dough",
+      "minecraft:butter",
+      "pamhc2foodextended:raisinsitem",
+      "minecraft:coconut",
+      "minecraft:egg",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivebees:bumble_bee_nest": {
+    "result": "productivebees:bumble_bee_nest",
+    "count": 1,
+    "ingredients": [
+      "minecraft:wooden_sword",
+      "minecraft:grass_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:buddhas_hand_bookshelf": {
+    "result": "productivetrees:buddhas_hand_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:buddhas_hand_planks",
+      "productivetrees:buddhas_hand_planks",
+      "productivetrees:buddhas_hand_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:buddhas_hand_planks",
+      "productivetrees:buddhas_hand_planks",
+      "productivetrees:buddhas_hand_planks"
+    ]
+  },
+  "productivetrees:bull_pine_bookshelf": {
+    "result": "productivetrees:bull_pine_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:bull_pine_planks",
+      "productivetrees:bull_pine_planks",
+      "productivetrees:bull_pine_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:bull_pine_planks",
+      "productivetrees:bull_pine_planks",
+      "productivetrees:bull_pine_planks"
+    ]
+  },
+  "productivetrees:butternut_bookshelf": {
+    "result": "productivetrees:butternut_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:butternut_planks",
+      "productivetrees:butternut_planks",
+      "productivetrees:butternut_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:butternut_planks",
+      "productivetrees:butternut_planks",
+      "productivetrees:butternut_planks"
+    ]
+  },
+  "productivetrees:buddhas_hand_button": {
+    "result": "productivetrees:buddhas_hand_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:buddhas_hand_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:bull_pine_button": {
+    "result": "productivetrees:bull_pine_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:bull_pine_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:butternut_button": {
+    "result": "productivetrees:butternut_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:butternut_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:buddhas_hand_crate": {
+    "result": "productivetrees:buddhas_hand_crate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:buddhas_hand",
+      "minecraft:buddhas_hand",
+      "minecraft:buddhas_hand",
+      "minecraft:buddhas_hand",
+      "productivetrees:buddhas_hand",
+      "minecraft:buddhas_hand",
+      "minecraft:buddhas_hand",
+      "minecraft:buddhas_hand",
+      "minecraft:buddhas_hand"
+    ]
+  },
+  "productivetrees:buddhas_hand": {
+    "result": "productivetrees:buddhas_hand",
+    "count": 9,
+    "ingredients": [
+      "productivetrees:buddhas_hand_crate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:butternut_crate": {
+    "result": "productivetrees:butternut_crate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:butternut",
+      "minecraft:butternut",
+      "minecraft:butternut",
+      "minecraft:butternut",
+      "productivetrees:butternut",
+      "minecraft:butternut",
+      "minecraft:butternut",
+      "minecraft:butternut",
+      "minecraft:butternut"
+    ]
+  },
+  "productivetrees:butternut": {
+    "result": "productivetrees:butternut",
+    "count": 9,
+    "ingredients": [
+      "productivetrees:butternut_crate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:buddhas_hand_door": {
+    "result": "productivetrees:buddhas_hand_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:buddhas_hand_planks",
+      "productivetrees:buddhas_hand_planks",
+      "",
+      "productivetrees:buddhas_hand_planks",
+      "productivetrees:buddhas_hand_planks",
+      "",
+      "productivetrees:buddhas_hand_planks",
+      "productivetrees:buddhas_hand_planks",
+      ""
+    ]
+  },
+  "productivetrees:bull_pine_door": {
+    "result": "productivetrees:bull_pine_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:bull_pine_planks",
+      "productivetrees:bull_pine_planks",
+      "",
+      "productivetrees:bull_pine_planks",
+      "productivetrees:bull_pine_planks",
+      "",
+      "productivetrees:bull_pine_planks",
+      "productivetrees:bull_pine_planks",
+      ""
+    ]
+  },
+  "productivetrees:butternut_door": {
+    "result": "productivetrees:butternut_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:butternut_planks",
+      "productivetrees:butternut_planks",
+      "",
+      "productivetrees:butternut_planks",
+      "productivetrees:butternut_planks",
+      "",
+      "productivetrees:butternut_planks",
+      "productivetrees:butternut_planks",
+      ""
+    ]
+  },
+  "productivetrees:buddhas_hand_fence": {
+    "result": "productivetrees:buddhas_hand_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:buddhas_hand_planks",
+      "minecraft:stick",
+      "productivetrees:buddhas_hand_planks",
+      "productivetrees:buddhas_hand_planks",
+      "minecraft:stick",
+      "productivetrees:buddhas_hand_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:bull_pine_fence": {
+    "result": "productivetrees:bull_pine_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:bull_pine_planks",
+      "minecraft:stick",
+      "productivetrees:bull_pine_planks",
+      "productivetrees:bull_pine_planks",
+      "minecraft:stick",
+      "productivetrees:bull_pine_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:butternut_fence": {
+    "result": "productivetrees:butternut_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:butternut_planks",
+      "minecraft:stick",
+      "productivetrees:butternut_planks",
+      "productivetrees:butternut_planks",
+      "minecraft:stick",
+      "productivetrees:butternut_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:buddhas_hand_fence_gate": {
+    "result": "productivetrees:buddhas_hand_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:buddhas_hand_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:buddhas_hand_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:bull_pine_fence_gate": {
+    "result": "productivetrees:bull_pine_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:bull_pine_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:bull_pine_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:butternut_fence_gate": {
+    "result": "productivetrees:butternut_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:butternut_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:butternut_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:buddhas_hand_hanging_sign": {
+    "result": "productivetrees:buddhas_hand_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:buddhas_hand_planks",
+      "productivetrees:buddhas_hand_planks",
+      "productivetrees:buddhas_hand_planks",
+      "productivetrees:buddhas_hand_planks",
+      "productivetrees:buddhas_hand_planks",
+      "productivetrees:buddhas_hand_planks"
+    ]
+  },
+  "productivetrees:bull_pine_hanging_sign": {
+    "result": "productivetrees:bull_pine_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:bull_pine_planks",
+      "productivetrees:bull_pine_planks",
+      "productivetrees:bull_pine_planks",
+      "productivetrees:bull_pine_planks",
+      "productivetrees:bull_pine_planks",
+      "productivetrees:bull_pine_planks"
+    ]
+  },
+  "productivetrees:butternut_hanging_sign": {
+    "result": "productivetrees:butternut_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:butternut_planks",
+      "productivetrees:butternut_planks",
+      "productivetrees:butternut_planks",
+      "productivetrees:butternut_planks",
+      "productivetrees:butternut_planks",
+      "productivetrees:butternut_planks"
+    ]
+  },
+  "productivetrees:buddhas_hand_planks": {
+    "result": "productivetrees:buddhas_hand_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:bull_pine_planks": {
+    "result": "productivetrees:bull_pine_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:butternut_planks": {
+    "result": "productivetrees:butternut_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:buddhas_hand_pressure_plate": {
+    "result": "productivetrees:buddhas_hand_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:buddhas_hand_planks",
+      "productivetrees:buddhas_hand_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:bull_pine_pressure_plate": {
+    "result": "productivetrees:bull_pine_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:bull_pine_planks",
+      "productivetrees:bull_pine_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:butternut_pressure_plate": {
+    "result": "productivetrees:butternut_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:butternut_planks",
+      "productivetrees:butternut_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:buddhas_hand_sign": {
+    "result": "productivetrees:buddhas_hand_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:buddhas_hand_planks",
+      "productivetrees:buddhas_hand_planks",
+      "productivetrees:buddhas_hand_planks",
+      "productivetrees:buddhas_hand_planks",
+      "productivetrees:buddhas_hand_planks",
+      "productivetrees:buddhas_hand_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:bull_pine_sign": {
+    "result": "productivetrees:bull_pine_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:bull_pine_planks",
+      "productivetrees:bull_pine_planks",
+      "productivetrees:bull_pine_planks",
+      "productivetrees:bull_pine_planks",
+      "productivetrees:bull_pine_planks",
+      "productivetrees:bull_pine_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:butternut_sign": {
+    "result": "productivetrees:butternut_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:butternut_planks",
+      "productivetrees:butternut_planks",
+      "productivetrees:butternut_planks",
+      "productivetrees:butternut_planks",
+      "productivetrees:butternut_planks",
+      "productivetrees:butternut_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:buddhas_hand_slab": {
+    "result": "productivetrees:buddhas_hand_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:buddhas_hand_planks",
+      "productivetrees:buddhas_hand_planks",
+      "productivetrees:buddhas_hand_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:bull_pine_slab": {
+    "result": "productivetrees:bull_pine_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:bull_pine_planks",
+      "productivetrees:bull_pine_planks",
+      "productivetrees:bull_pine_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:butternut_slab": {
+    "result": "productivetrees:butternut_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:butternut_planks",
+      "productivetrees:butternut_planks",
+      "productivetrees:butternut_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:buddhas_hand_stairs": {
+    "result": "productivetrees:buddhas_hand_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:buddhas_hand_planks",
+      "",
+      "",
+      "productivetrees:buddhas_hand_planks",
+      "productivetrees:buddhas_hand_planks",
+      "",
+      "productivetrees:buddhas_hand_planks",
+      "productivetrees:buddhas_hand_planks",
+      "productivetrees:buddhas_hand_planks"
+    ]
+  },
+  "productivetrees:bull_pine_stairs": {
+    "result": "productivetrees:bull_pine_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:bull_pine_planks",
+      "",
+      "",
+      "productivetrees:bull_pine_planks",
+      "productivetrees:bull_pine_planks",
+      "",
+      "productivetrees:bull_pine_planks",
+      "productivetrees:bull_pine_planks",
+      "productivetrees:bull_pine_planks"
+    ]
+  },
+  "productivetrees:butternut_stairs": {
+    "result": "productivetrees:butternut_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:butternut_planks",
+      "",
+      "",
+      "productivetrees:butternut_planks",
+      "productivetrees:butternut_planks",
+      "",
+      "productivetrees:butternut_planks",
+      "productivetrees:butternut_planks",
+      "productivetrees:butternut_planks"
+    ]
+  },
+  "productivetrees:buddhas_hand_trapdoor": {
+    "result": "productivetrees:buddhas_hand_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:buddhas_hand_planks",
+      "productivetrees:buddhas_hand_planks",
+      "productivetrees:buddhas_hand_planks",
+      "productivetrees:buddhas_hand_planks",
+      "productivetrees:buddhas_hand_planks",
+      "productivetrees:buddhas_hand_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:bull_pine_trapdoor": {
+    "result": "productivetrees:bull_pine_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:bull_pine_planks",
+      "productivetrees:bull_pine_planks",
+      "productivetrees:bull_pine_planks",
+      "productivetrees:bull_pine_planks",
+      "productivetrees:bull_pine_planks",
+      "productivetrees:bull_pine_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:butternut_trapdoor": {
+    "result": "productivetrees:butternut_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:butternut_planks",
+      "productivetrees:butternut_planks",
+      "productivetrees:butternut_planks",
+      "productivetrees:butternut_planks",
+      "productivetrees:butternut_planks",
+      "productivetrees:butternut_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:buddhas_hand_wood": {
+    "result": "productivetrees:buddhas_hand_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:buddhas_hand_log",
+      "productivetrees:buddhas_hand_log",
+      "",
+      "productivetrees:buddhas_hand_log",
+      "productivetrees:buddhas_hand_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:bull_pine_wood": {
+    "result": "productivetrees:bull_pine_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:bull_pine_log",
+      "productivetrees:bull_pine_log",
+      "",
+      "productivetrees:bull_pine_log",
+      "productivetrees:bull_pine_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:butternut_wood": {
+    "result": "productivetrees:butternut_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:butternut_log",
+      "productivetrees:butternut_log",
+      "",
+      "productivetrees:butternut_log",
+      "productivetrees:butternut_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:buffer_stop_track_kit": {
+    "result": "railcraft:buffer_stop_track_kit",
+    "count": 2,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "railcraft:track_parts",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:bushing_gear": {
+    "result": "railcraft:bushing_gear",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:bronze_ingot",
+      "modern_industrialization:bronze_ingot",
+      "",
+      "modern_industrialization:bronze_ingot",
+      "modern_industrialization:bronze_ingot",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "reliquary:bullets/blaze_bullet": {
+    "result": "reliquary:bullets/blaze_bullet",
+    "count": 8,
+    "ingredients": [
+      "minecraft:blaze_powder",
+      "minecraft:blaze",
+      "minecraft:gold",
+      "minecraft:gold",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "reliquary:bullets/buster_bullet": {
+    "result": "reliquary:bullets/buster_bullet",
+    "count": 8,
+    "ingredients": [
+      "reliquary:bullets/concussive_bullet",
+      "reliquary:bullets/concussive_bullet",
+      "reliquary:bullets/concussive_bullet",
+      "reliquary:bullets/concussive_bullet",
+      "reliquary:bullets/concussive_bullet",
+      "reliquary:bullets/concussive_bullet",
+      "reliquary:bullets/concussive_bullet",
+      "reliquary:bullets/concussive_bullet",
+      "reliquary:catalyzing_gland"
+    ]
+  },
+  "reliquary:bullets/concussive_bullet": {
+    "result": "reliquary:bullets/concussive_bullet",
+    "count": 8,
+    "ingredients": [
+      "minecraft:slime_ball",
+      "minecraft:gold",
+      "minecraft:gold",
+      "minecraft:gunpowder",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "reliquary:bullets/ender_bullet": {
+    "result": "reliquary:bullets/ender_bullet",
+    "count": 8,
+    "ingredients": [
+      "reliquary:bullets/seeker_bullet",
+      "reliquary:bullets/seeker_bullet",
+      "reliquary:bullets/seeker_bullet",
+      "reliquary:bullets/seeker_bullet",
+      "reliquary:bullets/seeker_bullet",
+      "reliquary:bullets/seeker_bullet",
+      "reliquary:bullets/seeker_bullet",
+      "reliquary:bullets/seeker_bullet",
+      "reliquary:nebulous_heart"
+    ]
+  },
+  "reliquary:bullets/exorcism_bullet": {
+    "result": "reliquary:bullets/exorcism_bullet",
+    "count": 8,
+    "ingredients": [
+      "reliquary:bullets/neutral_bullet",
+      "reliquary:bullets/neutral_bullet",
+      "reliquary:bullets/neutral_bullet",
+      "reliquary:bullets/neutral_bullet",
+      "reliquary:bullets/neutral_bullet",
+      "reliquary:bullets/neutral_bullet",
+      "reliquary:bullets/neutral_bullet",
+      "reliquary:bullets/neutral_bullet",
+      "reliquary:zombie_heart"
+    ]
+  },
+  "reliquary:bullets/neutral_bullet": {
+    "result": "reliquary:bullets/neutral_bullet",
+    "count": 8,
+    "ingredients": [
+      "minecraft:flint",
+      "minecraft:gold",
+      "minecraft:gold",
+      "minecraft:gunpowder",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "reliquary:bullets/sand_bullet": {
+    "result": "reliquary:bullets/sand_bullet",
+    "count": 8,
+    "ingredients": [
+      "minecraft:stone",
+      "minecraft:slime_ball",
+      "minecraft:gold",
+      "minecraft:gunpowder",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "reliquary:bullets/seeker_bullet": {
+    "result": "reliquary:bullets/seeker_bullet",
+    "count": 8,
+    "ingredients": [
+      "minecraft:lapis_lazuli",
+      "minecraft:gold",
+      "minecraft:gold",
+      "minecraft:gunpowder",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "reliquary:bullets/storm_bullet": {
+    "result": "reliquary:bullets/storm_bullet",
+    "count": 8,
+    "ingredients": [
+      "reliquary:catalyzing_gland",
+      "reliquary:catalyzing_gland",
+      "minecraft:gold",
+      "minecraft:gold",
+      "minecraft:gunpowder",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "rftoolsbuilder:builder": {
+    "result": "rftoolsbuilder:builder",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bricks",
+      "minecraft:ender_pearl",
+      "minecraft:bricks",
+      "minecraft:redstone",
+      "rftoolsbase:machine_frame",
+      "minecraft:redstone",
+      "minecraft:bricks",
+      "minecraft:redstone",
+      "minecraft:bricks"
+    ]
+  },
+  "rftoolsutility:button_module": {
+    "result": "rftoolsutility:button_module",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stone_button",
+      "",
+      "minecraft:redstone",
+      "minecraft:iron_ingot",
+      "minecraft:redstone",
+      "",
+      "minecraft:black",
+      ""
+    ]
+  },
+  "supplementaries:bubble_blower": {
+    "result": "supplementaries:bubble_blower",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:iron",
+      "minecraft:iron",
+      "",
+      "minecraft:iron",
+      "minecraft:iron",
+      "minecraft:iron_ingot",
+      "",
+      ""
+    ]
+  },
+  "supplementaries:bunting_black": {
+    "result": "supplementaries:bunting_black",
+    "count": 6,
+    "ingredients": [
+      "minecraft:string",
+      "minecraft:string",
+      "minecraft:string",
+      "minecraft:black_wool",
+      "minecraft:black_wool",
+      "minecraft:black_wool",
+      "",
+      "minecraft:black_wool",
+      ""
+    ]
+  },
+  "supplementaries:bunting_blue": {
+    "result": "supplementaries:bunting_blue",
+    "count": 6,
+    "ingredients": [
+      "minecraft:string",
+      "minecraft:string",
+      "minecraft:string",
+      "minecraft:blue_wool",
+      "minecraft:blue_wool",
+      "minecraft:blue_wool",
+      "",
+      "minecraft:blue_wool",
+      ""
+    ]
+  },
+  "supplementaries:bunting_brown": {
+    "result": "supplementaries:bunting_brown",
+    "count": 6,
+    "ingredients": [
+      "minecraft:string",
+      "minecraft:string",
+      "minecraft:string",
+      "minecraft:brown_wool",
+      "minecraft:brown_wool",
+      "minecraft:brown_wool",
+      "",
+      "minecraft:brown_wool",
+      ""
+    ]
+  },
+  "supplementaries:bunting_cyan": {
+    "result": "supplementaries:bunting_cyan",
+    "count": 6,
+    "ingredients": [
+      "minecraft:string",
+      "minecraft:string",
+      "minecraft:string",
+      "minecraft:cyan_wool",
+      "minecraft:cyan_wool",
+      "minecraft:cyan_wool",
+      "",
+      "minecraft:cyan_wool",
+      ""
+    ]
+  },
+  "supplementaries:bunting_gray": {
+    "result": "supplementaries:bunting_gray",
+    "count": 6,
+    "ingredients": [
+      "minecraft:string",
+      "minecraft:string",
+      "minecraft:string",
+      "minecraft:gray_wool",
+      "minecraft:gray_wool",
+      "minecraft:gray_wool",
+      "",
+      "minecraft:gray_wool",
+      ""
+    ]
+  },
+  "supplementaries:bunting_green": {
+    "result": "supplementaries:bunting_green",
+    "count": 6,
+    "ingredients": [
+      "minecraft:string",
+      "minecraft:string",
+      "minecraft:string",
+      "minecraft:green_wool",
+      "minecraft:green_wool",
+      "minecraft:green_wool",
+      "",
+      "minecraft:green_wool",
+      ""
+    ]
+  },
+  "supplementaries:bunting_light_blue": {
+    "result": "supplementaries:bunting_light_blue",
+    "count": 6,
+    "ingredients": [
+      "minecraft:string",
+      "minecraft:string",
+      "minecraft:string",
+      "minecraft:light_blue_wool",
+      "minecraft:light_blue_wool",
+      "minecraft:light_blue_wool",
+      "",
+      "minecraft:light_blue_wool",
+      ""
+    ]
+  },
+  "supplementaries:bunting_light_gray": {
+    "result": "supplementaries:bunting_light_gray",
+    "count": 6,
+    "ingredients": [
+      "minecraft:string",
+      "minecraft:string",
+      "minecraft:string",
+      "minecraft:light_gray_wool",
+      "minecraft:light_gray_wool",
+      "minecraft:light_gray_wool",
+      "",
+      "minecraft:light_gray_wool",
+      ""
+    ]
+  },
+  "supplementaries:bunting_lime": {
+    "result": "supplementaries:bunting_lime",
+    "count": 6,
+    "ingredients": [
+      "minecraft:string",
+      "minecraft:string",
+      "minecraft:string",
+      "minecraft:lime_wool",
+      "minecraft:lime_wool",
+      "minecraft:lime_wool",
+      "",
+      "minecraft:lime_wool",
+      ""
+    ]
+  },
+  "supplementaries:bunting_magenta": {
+    "result": "supplementaries:bunting_magenta",
+    "count": 6,
+    "ingredients": [
+      "minecraft:string",
+      "minecraft:string",
+      "minecraft:string",
+      "minecraft:magenta_wool",
+      "minecraft:magenta_wool",
+      "minecraft:magenta_wool",
+      "",
+      "minecraft:magenta_wool",
+      ""
+    ]
+  },
+  "supplementaries:bunting_orange": {
+    "result": "supplementaries:bunting_orange",
+    "count": 6,
+    "ingredients": [
+      "minecraft:string",
+      "minecraft:string",
+      "minecraft:string",
+      "minecraft:orange_wool",
+      "minecraft:orange_wool",
+      "minecraft:orange_wool",
+      "",
+      "minecraft:orange_wool",
+      ""
+    ]
+  },
+  "supplementaries:bunting_pink": {
+    "result": "supplementaries:bunting_pink",
+    "count": 6,
+    "ingredients": [
+      "minecraft:string",
+      "minecraft:string",
+      "minecraft:string",
+      "minecraft:pink_wool",
+      "minecraft:pink_wool",
+      "minecraft:pink_wool",
+      "",
+      "minecraft:pink_wool",
+      ""
+    ]
+  },
+  "supplementaries:bunting_purple": {
+    "result": "supplementaries:bunting_purple",
+    "count": 6,
+    "ingredients": [
+      "minecraft:string",
+      "minecraft:string",
+      "minecraft:string",
+      "minecraft:purple_wool",
+      "minecraft:purple_wool",
+      "minecraft:purple_wool",
+      "",
+      "minecraft:purple_wool",
+      ""
+    ]
+  },
+  "supplementaries:bunting_red": {
+    "result": "supplementaries:bunting_red",
+    "count": 6,
+    "ingredients": [
+      "minecraft:string",
+      "minecraft:string",
+      "minecraft:string",
+      "minecraft:red_wool",
+      "minecraft:red_wool",
+      "minecraft:red_wool",
+      "",
+      "minecraft:red_wool",
+      ""
+    ]
+  },
+  "supplementaries:bunting_white": {
+    "result": "supplementaries:bunting_white",
+    "count": 6,
+    "ingredients": [
+      "minecraft:string",
+      "minecraft:string",
+      "minecraft:string",
+      "minecraft:white_wool",
+      "minecraft:white_wool",
+      "minecraft:white_wool",
+      "",
+      "minecraft:white_wool",
+      ""
+    ]
+  },
+  "supplementaries:bunting_yellow": {
+    "result": "supplementaries:bunting_yellow",
+    "count": 6,
+    "ingredients": [
+      "minecraft:string",
+      "minecraft:string",
+      "minecraft:string",
+      "minecraft:yellow_wool",
+      "minecraft:yellow_wool",
+      "minecraft:yellow_wool",
+      "",
+      "minecraft:yellow_wool",
+      ""
+    ]
+  },
+  "xycraft_machines:buffer": {
+    "result": "xycraft_machines:buffer",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "xycraft_machines:port_item",
+      "minecraft:oak_planks",
+      "xycraft_machines:port_item",
+      "minecraft:chest",
+      "xycraft_machines:port_item",
+      "minecraft:oak_planks",
+      "xycraft_machines:port_item",
+      "minecraft:oak_planks"
+    ]
+  }
+}

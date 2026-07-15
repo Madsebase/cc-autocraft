@@ -1,0 +1,617 @@
+{
+  "modern_industrialization:kanthal_block": {
+    "result": "modern_industrialization:kanthal_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:kanthal",
+      "minecraft:kanthal",
+      "minecraft:kanthal",
+      "minecraft:kanthal",
+      "modern_industrialization:kanthal_ingot",
+      "minecraft:kanthal",
+      "minecraft:kanthal",
+      "minecraft:kanthal",
+      "minecraft:kanthal"
+    ]
+  },
+  "modern_industrialization:kanthal_cable": {
+    "result": "modern_industrialization:kanthal_cable",
+    "count": 3,
+    "ingredients": [
+      "modern_industrialization:rubber_sheet",
+      "modern_industrialization:rubber_sheet",
+      "modern_industrialization:rubber_sheet",
+      "modern_industrialization:kanthal_wire",
+      "modern_industrialization:kanthal_wire",
+      "modern_industrialization:kanthal_wire",
+      "modern_industrialization:rubber_sheet",
+      "modern_industrialization:rubber_sheet",
+      "modern_industrialization:rubber_sheet"
+    ]
+  },
+  "modern_industrialization:kanthal_coil": {
+    "result": "modern_industrialization:kanthal_coil",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:kanthal_cable",
+      "modern_industrialization:kanthal_cable",
+      "modern_industrialization:kanthal_cable",
+      "modern_industrialization:kanthal_cable",
+      "",
+      "modern_industrialization:kanthal_cable",
+      "modern_industrialization:kanthal_cable",
+      "modern_industrialization:kanthal_cable",
+      "modern_industrialization:kanthal_cable"
+    ]
+  },
+  "modern_industrialization:kanthal_dust": {
+    "result": "modern_industrialization:kanthal_dust",
+    "count": 1,
+    "ingredients": [
+      "minecraft:kanthal",
+      "minecraft:kanthal",
+      "minecraft:kanthal",
+      "minecraft:kanthal",
+      "modern_industrialization:kanthal_tiny_dust",
+      "minecraft:kanthal",
+      "minecraft:kanthal",
+      "minecraft:kanthal",
+      "minecraft:kanthal"
+    ]
+  },
+  "modern_industrialization:kanthal_ingot": {
+    "result": "modern_industrialization:kanthal_ingot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:kanthal",
+      "minecraft:kanthal",
+      "minecraft:kanthal",
+      "minecraft:kanthal",
+      "modern_industrialization:kanthal_nugget",
+      "minecraft:kanthal",
+      "minecraft:kanthal",
+      "minecraft:kanthal",
+      "minecraft:kanthal"
+    ]
+  },
+  "modern_industrialization:kanthal_nugget": {
+    "result": "modern_industrialization:kanthal_nugget",
+    "count": 9,
+    "ingredients": [
+      "modern_industrialization:kanthal_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:kanthal_tiny_dust": {
+    "result": "modern_industrialization:kanthal_tiny_dust",
+    "count": 9,
+    "ingredients": [
+      "modern_industrialization:kanthal_dust",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2crops:kaleseeditem": {
+    "result": "pamhc2crops:kaleseeditem",
+    "count": 1,
+    "ingredients": [
+      "pamhc2crops:kaleitem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:kalechipsitem": {
+    "result": "pamhc2foodextended:kalechipsitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:kale",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:kapok_bookshelf": {
+    "result": "productivetrees:kapok_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:kapok_planks",
+      "productivetrees:kapok_planks",
+      "productivetrees:kapok_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:kapok_planks",
+      "productivetrees:kapok_planks",
+      "productivetrees:kapok_planks"
+    ]
+  },
+  "productivetrees:kapok_button": {
+    "result": "productivetrees:kapok_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:kapok_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:kapok_door": {
+    "result": "productivetrees:kapok_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:kapok_planks",
+      "productivetrees:kapok_planks",
+      "",
+      "productivetrees:kapok_planks",
+      "productivetrees:kapok_planks",
+      "",
+      "productivetrees:kapok_planks",
+      "productivetrees:kapok_planks",
+      ""
+    ]
+  },
+  "productivetrees:kapok_fence": {
+    "result": "productivetrees:kapok_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:kapok_planks",
+      "minecraft:stick",
+      "productivetrees:kapok_planks",
+      "productivetrees:kapok_planks",
+      "minecraft:stick",
+      "productivetrees:kapok_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:kapok_fence_gate": {
+    "result": "productivetrees:kapok_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:kapok_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:kapok_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:kapok_hanging_sign": {
+    "result": "productivetrees:kapok_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:kapok_planks",
+      "productivetrees:kapok_planks",
+      "productivetrees:kapok_planks",
+      "productivetrees:kapok_planks",
+      "productivetrees:kapok_planks",
+      "productivetrees:kapok_planks"
+    ]
+  },
+  "productivetrees:kapok_planks": {
+    "result": "productivetrees:kapok_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:kapok_pressure_plate": {
+    "result": "productivetrees:kapok_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:kapok_planks",
+      "productivetrees:kapok_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:kapok_sign": {
+    "result": "productivetrees:kapok_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:kapok_planks",
+      "productivetrees:kapok_planks",
+      "productivetrees:kapok_planks",
+      "productivetrees:kapok_planks",
+      "productivetrees:kapok_planks",
+      "productivetrees:kapok_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:kapok_slab": {
+    "result": "productivetrees:kapok_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:kapok_planks",
+      "productivetrees:kapok_planks",
+      "productivetrees:kapok_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:kapok_stairs": {
+    "result": "productivetrees:kapok_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:kapok_planks",
+      "",
+      "",
+      "productivetrees:kapok_planks",
+      "productivetrees:kapok_planks",
+      "",
+      "productivetrees:kapok_planks",
+      "productivetrees:kapok_planks",
+      "productivetrees:kapok_planks"
+    ]
+  },
+  "productivetrees:kapok_trapdoor": {
+    "result": "productivetrees:kapok_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:kapok_planks",
+      "productivetrees:kapok_planks",
+      "productivetrees:kapok_planks",
+      "productivetrees:kapok_planks",
+      "productivetrees:kapok_planks",
+      "productivetrees:kapok_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:kapok_wood": {
+    "result": "productivetrees:kapok_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:kapok_log",
+      "productivetrees:kapok_log",
+      "",
+      "productivetrees:kapok_log",
+      "productivetrees:kapok_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:kapok_boat": {
+    "result": "regions_unexplored:kapok_boat",
+    "count": 1,
+    "ingredients": [
+      "regions_unexplored:kapok_planks",
+      "",
+      "regions_unexplored:kapok_planks",
+      "regions_unexplored:kapok_planks",
+      "regions_unexplored:kapok_planks",
+      "regions_unexplored:kapok_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:kapok_branch": {
+    "result": "regions_unexplored:kapok_branch",
+    "count": 2,
+    "ingredients": [
+      "regions_unexplored:kapok_log",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:kapok_button": {
+    "result": "regions_unexplored:kapok_button",
+    "count": 1,
+    "ingredients": [
+      "regions_unexplored:kapok_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:kapok_chest_boat": {
+    "result": "regions_unexplored:kapok_chest_boat",
+    "count": 1,
+    "ingredients": [
+      "minecraft:chest",
+      "regions_unexplored:kapok_boat",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:kapok_door": {
+    "result": "regions_unexplored:kapok_door",
+    "count": 3,
+    "ingredients": [
+      "regions_unexplored:kapok_planks",
+      "regions_unexplored:kapok_planks",
+      "",
+      "regions_unexplored:kapok_planks",
+      "regions_unexplored:kapok_planks",
+      "",
+      "regions_unexplored:kapok_planks",
+      "regions_unexplored:kapok_planks",
+      ""
+    ]
+  },
+  "regions_unexplored:kapok_fence": {
+    "result": "regions_unexplored:kapok_fence",
+    "count": 3,
+    "ingredients": [
+      "regions_unexplored:kapok_planks",
+      "minecraft:stick",
+      "regions_unexplored:kapok_planks",
+      "regions_unexplored:kapok_planks",
+      "minecraft:stick",
+      "regions_unexplored:kapok_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:kapok_fence_gate": {
+    "result": "regions_unexplored:kapok_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "regions_unexplored:kapok_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "regions_unexplored:kapok_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:kapok_hanging_sign": {
+    "result": "regions_unexplored:kapok_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "regions_unexplored:stripped_kapok_log",
+      "regions_unexplored:stripped_kapok_log",
+      "regions_unexplored:stripped_kapok_log",
+      "regions_unexplored:stripped_kapok_log",
+      "regions_unexplored:stripped_kapok_log",
+      "regions_unexplored:stripped_kapok_log"
+    ]
+  },
+  "regions_unexplored:kapok_planks": {
+    "result": "regions_unexplored:kapok_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:kapok_pressure_plate": {
+    "result": "regions_unexplored:kapok_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "regions_unexplored:kapok_planks",
+      "regions_unexplored:kapok_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:kapok_sapling": {
+    "result": "regions_unexplored:kapok_sapling",
+    "count": 2,
+    "ingredients": [
+      "regions_unexplored:kapok_shrub",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:kapok_shrub": {
+    "result": "regions_unexplored:kapok_shrub",
+    "count": 1,
+    "ingredients": [
+      "regions_unexplored:kapok_sapling",
+      "",
+      "",
+      "regions_unexplored:kapok_sapling",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:kapok_sign": {
+    "result": "regions_unexplored:kapok_sign",
+    "count": 3,
+    "ingredients": [
+      "regions_unexplored:kapok_planks",
+      "regions_unexplored:kapok_planks",
+      "regions_unexplored:kapok_planks",
+      "regions_unexplored:kapok_planks",
+      "regions_unexplored:kapok_planks",
+      "regions_unexplored:kapok_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "regions_unexplored:kapok_slab": {
+    "result": "regions_unexplored:kapok_slab",
+    "count": 6,
+    "ingredients": [
+      "regions_unexplored:kapok_planks",
+      "regions_unexplored:kapok_planks",
+      "regions_unexplored:kapok_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:kapok_stairs": {
+    "result": "regions_unexplored:kapok_stairs",
+    "count": 4,
+    "ingredients": [
+      "regions_unexplored:kapok_planks",
+      "",
+      "",
+      "regions_unexplored:kapok_planks",
+      "regions_unexplored:kapok_planks",
+      "",
+      "regions_unexplored:kapok_planks",
+      "regions_unexplored:kapok_planks",
+      "regions_unexplored:kapok_planks"
+    ]
+  },
+  "regions_unexplored:kapok_trapdoor": {
+    "result": "regions_unexplored:kapok_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "regions_unexplored:kapok_planks",
+      "regions_unexplored:kapok_planks",
+      "regions_unexplored:kapok_planks",
+      "regions_unexplored:kapok_planks",
+      "regions_unexplored:kapok_planks",
+      "regions_unexplored:kapok_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:kapok_wood": {
+    "result": "regions_unexplored:kapok_wood",
+    "count": 3,
+    "ingredients": [
+      "regions_unexplored:kapok_log",
+      "regions_unexplored:kapok_log",
+      "",
+      "regions_unexplored:kapok_log",
+      "regions_unexplored:kapok_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgear:katana_blueprint": {
+    "result": "silentgear:katana_blueprint",
+    "count": 1,
+    "ingredients": [
+      "minecraft:paper",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "silentgear:katana_template": {
+    "result": "silentgear:katana_template",
+    "count": 1,
+    "ingredients": [
+      "minecraft:template_boards",
+      "minecraft:template_boards",
+      "",
+      "minecraft:template_boards",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  }
+}

@@ -1,0 +1,1262 @@
+{
+  "allthecompressed:tuff_1x": {
+    "result": "allthecompressed:tuff_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:tuff_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:tuff_2x": {
+    "result": "allthecompressed:tuff_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:tuff_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:tuff_3x": {
+    "result": "allthecompressed:tuff_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:tuff_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:tuff_4x": {
+    "result": "allthecompressed:tuff_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:tuff_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:tuff_5x": {
+    "result": "allthecompressed:tuff_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:tuff_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:tuff_6x": {
+    "result": "allthecompressed:tuff_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:tuff_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:tuff_7x": {
+    "result": "allthecompressed:tuff_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:tuff_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:tuff_8x": {
+    "result": "allthecompressed:tuff_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:tuff_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:tuff_9x": {
+    "result": "allthecompressed:tuff_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:tuff_8x",
+      "allthecompressed:tuff_8x",
+      "allthecompressed:tuff_8x",
+      "allthecompressed:tuff_8x",
+      "allthecompressed:tuff_8x",
+      "allthecompressed:tuff_8x",
+      "allthecompressed:tuff_8x",
+      "allthecompressed:tuff_8x",
+      "allthecompressed:tuff_8x"
+    ]
+  },
+  "minecraft:tuff": {
+    "result": "minecraft:tuff",
+    "count": 12,
+    "ingredients": [
+      "",
+      "mysticalagriculture:stone_essence",
+      "",
+      "mysticalagriculture:stone_essence",
+      "mysticalagriculture:fire_essence",
+      "mysticalagriculture:stone_essence",
+      "",
+      "mysticalagriculture:stone_essence",
+      ""
+    ]
+  },
+  "aquaculture:turtle_soup": {
+    "result": "aquaculture:turtle_soup",
+    "count": 1,
+    "ingredients": [
+      "minecraft:turtle",
+      "minecraft:water_bucket",
+      "minecraft:bowl",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "botanypots:tuff_bricks_botany_pot": {
+    "result": "botanypots:tuff_bricks_botany_pot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tuff_bricks",
+      "",
+      "minecraft:tuff_bricks",
+      "minecraft:tuff_bricks",
+      "minecraft:flower_pot",
+      "minecraft:tuff_bricks",
+      "",
+      "minecraft:tuff_bricks",
+      ""
+    ]
+  },
+  "botanypots:tuff_bricks_hopper_botany_pot": {
+    "result": "botanypots:tuff_bricks_hopper_botany_pot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tuff_bricks",
+      "minecraft:hopper",
+      "minecraft:tuff_bricks",
+      "minecraft:tuff_bricks",
+      "minecraft:flower_pot",
+      "minecraft:tuff_bricks",
+      "",
+      "minecraft:tuff_bricks",
+      ""
+    ]
+  },
+  "botanypots:tuff_bricks_waxed_botany_pot": {
+    "result": "botanypots:tuff_bricks_waxed_botany_pot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:honeycomb",
+      "botanypots:tuff_bricks_botany_pot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:turntable": {
+    "result": "create:turntable",
+    "count": 1,
+    "ingredients": [
+      "minecraft:wooden_slabs",
+      "",
+      "",
+      "create:shaft",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:tube_coral_block": {
+    "result": "minecraft:tube_coral_block",
+    "count": 12,
+    "ingredients": [
+      "mysticalagriculture:coral_essence",
+      "mysticalagriculture:coral_essence",
+      "mysticalagriculture:coral_essence",
+      "mysticalagriculture:coral_essence",
+      "minecraft:blue",
+      "mysticalagriculture:coral_essence",
+      "mysticalagriculture:coral_essence",
+      "mysticalagriculture:coral_essence",
+      "mysticalagriculture:coral_essence"
+    ]
+  },
+  "herbsandharvest:turnip_seeds": {
+    "result": "herbsandharvest:turnip_seeds",
+    "count": 1,
+    "ingredients": [
+      "herbsandharvest:turnip",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:turntable": {
+    "result": "immersiveengineering:turntable",
+    "count": 1,
+    "ingredients": [
+      "",
+      "immersiveengineering:component_iron",
+      "",
+      "immersiveengineering:wirecoil_copper",
+      "immersiveengineering:basic_engineering",
+      "immersiveengineering:wirecoil_copper",
+      "",
+      "minecraft:redstone",
+      ""
+    ]
+  },
+  "immersiveengineering:turret_chem": {
+    "result": "immersiveengineering:turret_chem",
+    "count": 1,
+    "ingredients": [
+      "",
+      "immersiveengineering:toolupgrade_railgun_scope",
+      "",
+      "",
+      "immersiveengineering:chemthrower",
+      "immersiveengineering:component_electronic_adv",
+      "immersiveengineering:metal_barrel",
+      "immersiveengineering:turntable",
+      "immersiveengineering:rs_engineering"
+    ]
+  },
+  "immersiveengineering:turret_gun": {
+    "result": "immersiveengineering:turret_gun",
+    "count": 1,
+    "ingredients": [
+      "",
+      "immersiveengineering:toolupgrade_railgun_scope",
+      "",
+      "",
+      "immersiveengineering:revolver",
+      "immersiveengineering:component_electronic_adv",
+      "immersiveengineering:toolupgrade_revolver_magazine",
+      "immersiveengineering:turntable",
+      "immersiveengineering:rs_engineering"
+    ]
+  },
+  "mekanismgenerators:turbine_blade": {
+    "result": "mekanismgenerators:turbine_blade",
+    "count": 1,
+    "ingredients": [
+      "",
+      "modern_industrialization:steel_ingot",
+      "",
+      "modern_industrialization:steel_ingot",
+      "minecraft:infused",
+      "modern_industrialization:steel_ingot",
+      "",
+      "modern_industrialization:steel_ingot",
+      ""
+    ]
+  },
+  "mekanismgenerators:turbine_casing": {
+    "result": "mekanismgenerators:turbine_casing",
+    "count": 4,
+    "ingredients": [
+      "",
+      "modern_industrialization:steel_ingot",
+      "",
+      "modern_industrialization:steel_ingot",
+      "minecraft:osmium",
+      "modern_industrialization:steel_ingot",
+      "",
+      "modern_industrialization:steel_ingot",
+      ""
+    ]
+  },
+  "mekanismgenerators:turbine_rotor": {
+    "result": "mekanismgenerators:turbine_rotor",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:steel_ingot",
+      "minecraft:infused",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "minecraft:infused",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "minecraft:infused",
+      "modern_industrialization:steel_ingot"
+    ]
+  },
+  "mekanismgenerators:turbine_valve": {
+    "result": "mekanismgenerators:turbine_valve",
+    "count": 2,
+    "ingredients": [
+      "",
+      "mekanismgenerators:turbine_casing",
+      "",
+      "mekanismgenerators:turbine_casing",
+      "minecraft:advanced",
+      "mekanismgenerators:turbine_casing",
+      "",
+      "mekanismgenerators:turbine_casing",
+      ""
+    ]
+  },
+  "mekanismgenerators:turbine_vent": {
+    "result": "mekanismgenerators:turbine_vent",
+    "count": 2,
+    "ingredients": [
+      "",
+      "mekanismgenerators:turbine_casing",
+      "",
+      "mekanismgenerators:turbine_casing",
+      "minecraft:iron_bars",
+      "mekanismgenerators:turbine_casing",
+      "",
+      "mekanismgenerators:turbine_casing",
+      ""
+    ]
+  },
+  "mffs:tube_mode": {
+    "result": "mffs:tube_mode",
+    "count": 1,
+    "ingredients": [
+      "mffs:focus_matrix",
+      "mffs:focus_matrix",
+      "mffs:focus_matrix",
+      "",
+      "",
+      "",
+      "mffs:focus_matrix",
+      "mffs:focus_matrix",
+      "mffs:focus_matrix"
+    ]
+  },
+  "minecraft:tuff_bricks": {
+    "result": "minecraft:tuff_bricks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:polished_tuff",
+      "minecraft:polished_tuff",
+      "",
+      "minecraft:polished_tuff",
+      "minecraft:polished_tuff",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:tuff_brick_slab": {
+    "result": "minecraft:tuff_brick_slab",
+    "count": 6,
+    "ingredients": [
+      "minecraft:tuff_bricks",
+      "minecraft:tuff_bricks",
+      "minecraft:tuff_bricks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:tuff_brick_stairs": {
+    "result": "minecraft:tuff_brick_stairs",
+    "count": 4,
+    "ingredients": [
+      "minecraft:tuff_bricks",
+      "",
+      "",
+      "minecraft:tuff_bricks",
+      "minecraft:tuff_bricks",
+      "",
+      "minecraft:tuff_bricks",
+      "minecraft:tuff_bricks",
+      "minecraft:tuff_bricks"
+    ]
+  },
+  "minecraft:tuff_brick_wall": {
+    "result": "minecraft:tuff_brick_wall",
+    "count": 6,
+    "ingredients": [
+      "minecraft:tuff_bricks",
+      "minecraft:tuff_bricks",
+      "minecraft:tuff_bricks",
+      "minecraft:tuff_bricks",
+      "minecraft:tuff_bricks",
+      "minecraft:tuff_bricks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:tuff_slab": {
+    "result": "minecraft:tuff_slab",
+    "count": 6,
+    "ingredients": [
+      "minecraft:tuff",
+      "minecraft:tuff",
+      "minecraft:tuff",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:tuff_stairs": {
+    "result": "minecraft:tuff_stairs",
+    "count": 4,
+    "ingredients": [
+      "minecraft:tuff",
+      "",
+      "",
+      "minecraft:tuff",
+      "minecraft:tuff",
+      "",
+      "minecraft:tuff",
+      "minecraft:tuff",
+      "minecraft:tuff"
+    ]
+  },
+  "minecraft:tuff_wall": {
+    "result": "minecraft:tuff_wall",
+    "count": 6,
+    "ingredients": [
+      "minecraft:tuff",
+      "minecraft:tuff",
+      "minecraft:tuff",
+      "minecraft:tuff",
+      "minecraft:tuff",
+      "minecraft:tuff",
+      "",
+      "",
+      ""
+    ]
+  },
+  "sfm:tunnelled_cable": {
+    "result": "sfm:tunnelled_cable",
+    "count": 1,
+    "ingredients": [
+      "minecraft:fences",
+      "",
+      "minecraft:fences",
+      "minecraft:fences",
+      "sfm:cable",
+      "minecraft:fences",
+      "minecraft:fences",
+      "",
+      "minecraft:fences"
+    ]
+  },
+  "sfm:tunnelled_fancy_cable": {
+    "result": "sfm:tunnelled_fancy_cable",
+    "count": 1,
+    "ingredients": [
+      "minecraft:fences",
+      "",
+      "minecraft:fences",
+      "minecraft:fences",
+      "sfm:fancy_cable",
+      "minecraft:fences",
+      "minecraft:fences",
+      "",
+      "minecraft:fences"
+    ]
+  },
+  "sfm:tunnelled_manager": {
+    "result": "sfm:tunnelled_manager",
+    "count": 1,
+    "ingredients": [
+      "minecraft:fences",
+      "",
+      "minecraft:fences",
+      "minecraft:fences",
+      "sfm:manager",
+      "minecraft:fences",
+      "minecraft:fences",
+      "",
+      "minecraft:fences"
+    ]
+  },
+  "minecraft:turtle_helmet": {
+    "result": "minecraft:turtle_helmet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:turtle_scute",
+      "minecraft:turtle_scute",
+      "minecraft:turtle_scute",
+      "minecraft:turtle_scute",
+      "",
+      "minecraft:turtle_scute",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:turbo_machine_casing": {
+    "result": "modern_industrialization:turbo_machine_casing",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stainless_steel",
+      "minecraft:stainless_steel",
+      "minecraft:stainless_steel",
+      "minecraft:stainless_steel",
+      "modern_industrialization:advanced_machine_hull",
+      "minecraft:stainless_steel",
+      "minecraft:stainless_steel",
+      "minecraft:stainless_steel",
+      "minecraft:stainless_steel"
+    ]
+  },
+  "modern_industrialization:turbo_machine_hull": {
+    "result": "modern_industrialization:turbo_machine_hull",
+    "count": 1,
+    "ingredients": [
+      "",
+      "modern_industrialization:digital_circuit",
+      "",
+      "modern_industrialization:sodium_battery",
+      "modern_industrialization:turbo_machine_casing",
+      "modern_industrialization:sodium_battery",
+      "modern_industrialization:aluminum_cable",
+      "modern_industrialization:aluminum_cable",
+      "modern_industrialization:aluminum_cable"
+    ]
+  },
+  "modern_industrialization:turbo_fluid_input_hatch": {
+    "result": "modern_industrialization:turbo_fluid_input_hatch",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:stainless_steel_tank",
+      "",
+      "",
+      "modern_industrialization:turbo_machine_hull",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:turbo_fluid_output_hatch": {
+    "result": "modern_industrialization:turbo_fluid_output_hatch",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:turbo_machine_hull",
+      "",
+      "",
+      "modern_industrialization:stainless_steel_tank",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:turbo_item_input_hatch": {
+    "result": "modern_industrialization:turbo_item_input_hatch",
+    "count": 1,
+    "ingredients": [
+      "minecraft:hopper",
+      "",
+      "",
+      "modern_industrialization:turbo_machine_hull",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:turbo_item_output_hatch": {
+    "result": "modern_industrialization:turbo_item_output_hatch",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:turbo_machine_hull",
+      "",
+      "",
+      "minecraft:hopper",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:tungsten_block": {
+    "result": "modern_industrialization:tungsten_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tungsten",
+      "minecraft:tungsten",
+      "minecraft:tungsten",
+      "minecraft:tungsten",
+      "modern_industrialization:tungsten_ingot",
+      "minecraft:tungsten",
+      "minecraft:tungsten",
+      "minecraft:tungsten",
+      "minecraft:tungsten"
+    ]
+  },
+  "modern_industrialization:tungsten_ore": {
+    "result": "modern_industrialization:tungsten_ore",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:deepslate_tungsten_ore",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:tungsten_dust": {
+    "result": "modern_industrialization:tungsten_dust",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tungsten",
+      "minecraft:tungsten",
+      "minecraft:tungsten",
+      "minecraft:tungsten",
+      "modern_industrialization:tungsten_tiny_dust",
+      "minecraft:tungsten",
+      "minecraft:tungsten",
+      "minecraft:tungsten",
+      "minecraft:tungsten"
+    ]
+  },
+  "modern_industrialization:tungsten_ingot": {
+    "result": "modern_industrialization:tungsten_ingot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tungsten",
+      "minecraft:tungsten",
+      "minecraft:tungsten",
+      "minecraft:tungsten",
+      "modern_industrialization:tungsten_nugget",
+      "minecraft:tungsten",
+      "minecraft:tungsten",
+      "minecraft:tungsten",
+      "minecraft:tungsten"
+    ]
+  },
+  "modern_industrialization:tungsten_large_plate": {
+    "result": "modern_industrialization:tungsten_large_plate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tungsten",
+      "minecraft:tungsten",
+      "",
+      "minecraft:tungsten",
+      "minecraft:tungsten",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:tungsten_nugget": {
+    "result": "modern_industrialization:tungsten_nugget",
+    "count": 9,
+    "ingredients": [
+      "modern_industrialization:tungsten_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:tungsten_tiny_dust": {
+    "result": "modern_industrialization:tungsten_tiny_dust",
+    "count": 9,
+    "ingredients": [
+      "modern_industrialization:tungsten_dust",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:tube_coral": {
+    "result": "minecraft:tube_coral",
+    "count": 8,
+    "ingredients": [
+      "",
+      "mysticalagriculture:coral_essence",
+      "",
+      "mysticalagriculture:coral_essence",
+      "minecraft:blue",
+      "mysticalagriculture:coral_essence",
+      "",
+      "mysticalagriculture:coral_essence",
+      ""
+    ]
+  },
+  "minecraft:tube_coral_fan": {
+    "result": "minecraft:tube_coral_fan",
+    "count": 6,
+    "ingredients": [
+      "mysticalagriculture:coral_essence",
+      "",
+      "mysticalagriculture:coral_essence",
+      "",
+      "minecraft:blue",
+      "",
+      "mysticalagriculture:coral_essence",
+      "",
+      "mysticalagriculture:coral_essence"
+    ]
+  },
+  "minecraft:turtle_scute": {
+    "result": "minecraft:turtle_scute",
+    "count": 4,
+    "ingredients": [
+      "mysticalagriculture:turtle_essence",
+      "mysticalagriculture:turtle_essence",
+      "mysticalagriculture:turtle_essence",
+      "mysticalagriculture:turtle_essence",
+      "",
+      "mysticalagriculture:turtle_essence",
+      "mysticalagriculture:turtle_essence",
+      "mysticalagriculture:turtle_essence",
+      "mysticalagriculture:turtle_essence"
+    ]
+  },
+  "pamhc2crops:turnipseeditem": {
+    "result": "pamhc2crops:turnipseeditem",
+    "count": 1,
+    "ingredients": [
+      "pamhc2crops:turnipitem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:turkishdelightitem": {
+    "result": "pamhc2foodextended:turkishdelightitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:water",
+      "minecraft:sugar",
+      "minecraft:orange",
+      "minecraft:vanillabean",
+      "minecraft:pistachio",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pneumaticcraft:tube_junction": {
+    "result": "pneumaticcraft:tube_junction",
+    "count": 1,
+    "ingredients": [
+      "pneumaticcraft:reinforced_brick_wall",
+      "pneumaticcraft:pressure_tube",
+      "pneumaticcraft:reinforced_brick_wall",
+      "pneumaticcraft:pressure_tube",
+      "pneumaticcraft:pressure_tube",
+      "pneumaticcraft:pressure_tube",
+      "pneumaticcraft:reinforced_brick_wall",
+      "pneumaticcraft:pressure_tube",
+      "pneumaticcraft:reinforced_brick_wall"
+    ]
+  },
+  "pneumaticcraft:turbine_rotor": {
+    "result": "pneumaticcraft:turbine_rotor",
+    "count": 1,
+    "ingredients": [
+      "",
+      "pneumaticcraft:turbine_blade",
+      "",
+      "",
+      "minecraft:iron_ingot",
+      "",
+      "pneumaticcraft:turbine_blade",
+      "",
+      "pneumaticcraft:turbine_blade"
+    ]
+  },
+  "productivetrees:tuscarora_crepe_myrtle_bookshelf": {
+    "result": "productivetrees:tuscarora_crepe_myrtle_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:tuscarora_crepe_myrtle_planks",
+      "productivetrees:tuscarora_crepe_myrtle_planks",
+      "productivetrees:tuscarora_crepe_myrtle_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:tuscarora_crepe_myrtle_planks",
+      "productivetrees:tuscarora_crepe_myrtle_planks",
+      "productivetrees:tuscarora_crepe_myrtle_planks"
+    ]
+  },
+  "productivetrees:tuscarora_crepe_myrtle_button": {
+    "result": "productivetrees:tuscarora_crepe_myrtle_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:tuscarora_crepe_myrtle_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:tuscarora_crepe_myrtle_door": {
+    "result": "productivetrees:tuscarora_crepe_myrtle_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:tuscarora_crepe_myrtle_planks",
+      "productivetrees:tuscarora_crepe_myrtle_planks",
+      "",
+      "productivetrees:tuscarora_crepe_myrtle_planks",
+      "productivetrees:tuscarora_crepe_myrtle_planks",
+      "",
+      "productivetrees:tuscarora_crepe_myrtle_planks",
+      "productivetrees:tuscarora_crepe_myrtle_planks",
+      ""
+    ]
+  },
+  "productivetrees:tuscarora_crepe_myrtle_fence": {
+    "result": "productivetrees:tuscarora_crepe_myrtle_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:tuscarora_crepe_myrtle_planks",
+      "minecraft:stick",
+      "productivetrees:tuscarora_crepe_myrtle_planks",
+      "productivetrees:tuscarora_crepe_myrtle_planks",
+      "minecraft:stick",
+      "productivetrees:tuscarora_crepe_myrtle_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:tuscarora_crepe_myrtle_fence_gate": {
+    "result": "productivetrees:tuscarora_crepe_myrtle_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:tuscarora_crepe_myrtle_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:tuscarora_crepe_myrtle_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:tuscarora_crepe_myrtle_hanging_sign": {
+    "result": "productivetrees:tuscarora_crepe_myrtle_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:tuscarora_crepe_myrtle_planks",
+      "productivetrees:tuscarora_crepe_myrtle_planks",
+      "productivetrees:tuscarora_crepe_myrtle_planks",
+      "productivetrees:tuscarora_crepe_myrtle_planks",
+      "productivetrees:tuscarora_crepe_myrtle_planks",
+      "productivetrees:tuscarora_crepe_myrtle_planks"
+    ]
+  },
+  "productivetrees:tuscarora_crepe_myrtle_planks": {
+    "result": "productivetrees:tuscarora_crepe_myrtle_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:tuscarora_crepe_myrtle_pressure_plate": {
+    "result": "productivetrees:tuscarora_crepe_myrtle_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:tuscarora_crepe_myrtle_planks",
+      "productivetrees:tuscarora_crepe_myrtle_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:tuscarora_crepe_myrtle_sign": {
+    "result": "productivetrees:tuscarora_crepe_myrtle_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:tuscarora_crepe_myrtle_planks",
+      "productivetrees:tuscarora_crepe_myrtle_planks",
+      "productivetrees:tuscarora_crepe_myrtle_planks",
+      "productivetrees:tuscarora_crepe_myrtle_planks",
+      "productivetrees:tuscarora_crepe_myrtle_planks",
+      "productivetrees:tuscarora_crepe_myrtle_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:tuscarora_crepe_myrtle_slab": {
+    "result": "productivetrees:tuscarora_crepe_myrtle_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:tuscarora_crepe_myrtle_planks",
+      "productivetrees:tuscarora_crepe_myrtle_planks",
+      "productivetrees:tuscarora_crepe_myrtle_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:tuscarora_crepe_myrtle_stairs": {
+    "result": "productivetrees:tuscarora_crepe_myrtle_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:tuscarora_crepe_myrtle_planks",
+      "",
+      "",
+      "productivetrees:tuscarora_crepe_myrtle_planks",
+      "productivetrees:tuscarora_crepe_myrtle_planks",
+      "",
+      "productivetrees:tuscarora_crepe_myrtle_planks",
+      "productivetrees:tuscarora_crepe_myrtle_planks",
+      "productivetrees:tuscarora_crepe_myrtle_planks"
+    ]
+  },
+  "productivetrees:tuscarora_crepe_myrtle_trapdoor": {
+    "result": "productivetrees:tuscarora_crepe_myrtle_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:tuscarora_crepe_myrtle_planks",
+      "productivetrees:tuscarora_crepe_myrtle_planks",
+      "productivetrees:tuscarora_crepe_myrtle_planks",
+      "productivetrees:tuscarora_crepe_myrtle_planks",
+      "productivetrees:tuscarora_crepe_myrtle_planks",
+      "productivetrees:tuscarora_crepe_myrtle_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:tuscarora_crepe_myrtle_wood": {
+    "result": "productivetrees:tuscarora_crepe_myrtle_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:tuscarora_crepe_myrtle_log",
+      "productivetrees:tuscarora_crepe_myrtle_log",
+      "",
+      "productivetrees:tuscarora_crepe_myrtle_log",
+      "productivetrees:tuscarora_crepe_myrtle_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:tunnel_bore": {
+    "result": "railcraft:tunnel_bore",
+    "count": 1,
+    "ingredients": [
+      "minecraft:steel",
+      "minecraft:minecart",
+      "minecraft:steel",
+      "minecraft:furnace",
+      "minecraft:minecart",
+      "minecraft:furnace",
+      "",
+      "minecraft:chest_minecart",
+      ""
+    ]
+  },
+  "railcraft:turbine_disk": {
+    "result": "railcraft:turbine_disk",
+    "count": 1,
+    "ingredients": [
+      "railcraft:turbine_blade",
+      "railcraft:turbine_blade",
+      "railcraft:turbine_blade",
+      "railcraft:turbine_blade",
+      "modern_industrialization:steel_ingot",
+      "railcraft:turbine_blade",
+      "railcraft:turbine_blade",
+      "railcraft:turbine_blade",
+      "railcraft:turbine_blade"
+    ]
+  },
+  "railcraft:turbine_rotor": {
+    "result": "railcraft:turbine_rotor",
+    "count": 1,
+    "ingredients": [
+      "railcraft:turbine_disk",
+      "railcraft:turbine_disk",
+      "railcraft:turbine_disk",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgems:turquoise": {
+    "result": "silentgems:turquoise",
+    "count": 9,
+    "ingredients": [
+      "silentgems:turquoise_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgems:turquoise_bricks": {
+    "result": "silentgems:turquoise_bricks",
+    "count": 12,
+    "ingredients": [
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:turquoise",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks"
+    ]
+  },
+  "silentgems:turquoise_block": {
+    "result": "silentgems:turquoise_block",
+    "count": 1,
+    "ingredients": [
+      "silentgems:turquoise",
+      "silentgems:turquoise",
+      "silentgems:turquoise",
+      "silentgems:turquoise",
+      "silentgems:turquoise",
+      "silentgems:turquoise",
+      "silentgems:turquoise",
+      "silentgems:turquoise",
+      "silentgems:turquoise"
+    ]
+  },
+  "silentgems:turquoise_glass": {
+    "result": "silentgems:turquoise_glass",
+    "count": 12,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:turquoise",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass"
+    ]
+  },
+  "silentgems:turquoise_lamp": {
+    "result": "silentgems:turquoise_lamp",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:turquoise",
+      "minecraft:stone",
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:redstone"
+    ]
+  },
+  "silentgems:turquoise_lamp_inverted_on": {
+    "result": "silentgems:turquoise_lamp_inverted_on",
+    "count": 1,
+    "ingredients": [
+      "silentgems:turquoise_lamp",
+      "minecraft:redstone_torch",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgems:turquoise_redstone_teleporter": {
+    "result": "silentgems:turquoise_redstone_teleporter",
+    "count": 1,
+    "ingredients": [
+      "silentgems:turquoise_teleporter",
+      "minecraft:redstone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgems:turquoise_small_bricks": {
+    "result": "silentgems:turquoise_small_bricks",
+    "count": 12,
+    "ingredients": [
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:turquoise",
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:bricks"
+    ]
+  },
+  "silentgems:turquoise_teleporter": {
+    "result": "silentgems:turquoise_teleporter",
+    "count": 2,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "minecraft:turquoise",
+      "minecraft:gold_ingot",
+      "minecraft:turquoise",
+      "silentgems:chaos_essence_block",
+      "minecraft:turquoise",
+      "",
+      "minecraft:ender_pearl",
+      ""
+    ]
+  },
+  "silentgems:turquoise_tiles": {
+    "result": "silentgems:turquoise_tiles",
+    "count": 12,
+    "ingredients": [
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:turquoise",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles"
+    ]
+  },
+  "supplementaries:turn_table": {
+    "result": "supplementaries:turn_table",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:cobblestone",
+      "minecraft:copper_ingot",
+      "minecraft:cobblestone",
+      "minecraft:cobblestone",
+      "minecraft:redstone",
+      "minecraft:cobblestone"
+    ]
+  }
+}

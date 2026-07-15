@@ -1,0 +1,572 @@
+{
+  "aether:icestone_slab": {
+    "result": "aether:icestone_slab",
+    "count": 6,
+    "ingredients": [
+      "aether:icestone",
+      "aether:icestone",
+      "aether:icestone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "aether:icestone_stairs": {
+    "result": "aether:icestone_stairs",
+    "count": 4,
+    "ingredients": [
+      "aether:icestone",
+      "",
+      "",
+      "aether:icestone",
+      "aether:icestone",
+      "",
+      "aether:icestone",
+      "aether:icestone",
+      "aether:icestone"
+    ]
+  },
+  "aether:icestone_wall": {
+    "result": "aether:icestone_wall",
+    "count": 6,
+    "ingredients": [
+      "aether:icestone",
+      "aether:icestone",
+      "aether:icestone",
+      "aether:icestone",
+      "aether:icestone",
+      "aether:icestone",
+      "",
+      "",
+      ""
+    ]
+  },
+  "cookingforblockheads:ice_unit": {
+    "result": "cookingforblockheads:ice_unit",
+    "count": 1,
+    "ingredients": [
+      "minecraft:snowball",
+      "minecraft:snowball",
+      "minecraft:snowball",
+      "minecraft:iron_ingot",
+      "minecraft:comparator",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:icy_blue_carpet": {
+    "result": "dyenamics:icy_blue_carpet",
+    "count": 3,
+    "ingredients": [
+      "dyenamics:icy_blue_wool",
+      "dyenamics:icy_blue_wool",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:icy_blue_candle": {
+    "result": "dyenamics:icy_blue_candle",
+    "count": 1,
+    "ingredients": [
+      "minecraft:candle",
+      "minecraft:icy_blue",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:icy_blue_concrete_powder": {
+    "result": "dyenamics:icy_blue_concrete_powder",
+    "count": 8,
+    "ingredients": [
+      "minecraft:icy_blue",
+      "minecraft:sand",
+      "minecraft:sand",
+      "minecraft:sand",
+      "minecraft:sand",
+      "minecraft:gravel",
+      "minecraft:gravel",
+      "minecraft:gravel",
+      "minecraft:gravel"
+    ]
+  },
+  "dyenamics:icy_blue_dye": {
+    "result": "dyenamics:icy_blue_dye",
+    "count": 2,
+    "ingredients": [
+      "minecraft:white",
+      "minecraft:light_blue",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:icy_blue_stained_glass": {
+    "result": "dyenamics:icy_blue_stained_glass",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:icy_blue",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass"
+    ]
+  },
+  "dyenamics:icy_blue_stained_glass_pane": {
+    "result": "dyenamics:icy_blue_stained_glass_pane",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:icy_blue",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane"
+    ]
+  },
+  "dyenamics:icy_blue_terracotta": {
+    "result": "dyenamics:icy_blue_terracotta",
+    "count": 8,
+    "ingredients": [
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:icy_blue",
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:terracotta"
+    ]
+  },
+  "dyenamics:icy_blue_wool": {
+    "result": "dyenamics:icy_blue_wool",
+    "count": 1,
+    "ingredients": [
+      "minecraft:icy_blue",
+      "minecraft:white_wool",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:icy_blue_banner": {
+    "result": "dyenamics:icy_blue_banner",
+    "count": 1,
+    "ingredients": [
+      "dyenamics:icy_blue_wool",
+      "dyenamics:icy_blue_wool",
+      "dyenamics:icy_blue_wool",
+      "dyenamics:icy_blue_wool",
+      "dyenamics:icy_blue_wool",
+      "dyenamics:icy_blue_wool",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "dyenamics:icy_blue_bed": {
+    "result": "dyenamics:icy_blue_bed",
+    "count": 1,
+    "ingredients": [
+      "minecraft:beds",
+      "minecraft:icy_blue",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:icy_blue_rockwool": {
+    "result": "dyenamics:icy_blue_rockwool",
+    "count": 1,
+    "ingredients": [
+      "thermal:white_rockwool",
+      "minecraft:icy_blue",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "glassential:ice_glass": {
+    "result": "glassential:ice_glass",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:ice",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass"
+    ]
+  },
+  "irons_spellbooks:ice_rune": {
+    "result": "irons_spellbooks:ice_rune",
+    "count": 1,
+    "ingredients": [
+      "minecraft:ice_focus",
+      "minecraft:ice_focus",
+      "minecraft:ice_focus",
+      "minecraft:ice_focus",
+      "irons_spellbooks:blank_rune",
+      "minecraft:ice_focus",
+      "minecraft:ice_focus",
+      "minecraft:ice_focus",
+      "minecraft:ice_focus"
+    ]
+  },
+  "irons_spellbooks:ice_spell_book": {
+    "result": "irons_spellbooks:ice_spell_book",
+    "count": 1,
+    "ingredients": [
+      "irons_spellbooks:ice_venom_vial",
+      "irons_spellbooks:ice_venom_vial",
+      "irons_spellbooks:ice_venom_vial",
+      "irons_spellbooks:mithril_scrap",
+      "irons_spellbooks:ruined_book",
+      "irons_spellbooks:mithril_scrap",
+      "irons_spellbooks:magic_cloth",
+      "irons_spellbooks:magic_cloth",
+      "irons_spellbooks:magic_cloth"
+    ]
+  },
+  "irons_spellbooks:ice_staff": {
+    "result": "irons_spellbooks:ice_staff",
+    "count": 1,
+    "ingredients": [
+      "irons_spellbooks:frosted_helve",
+      "irons_spellbooks:permafrost_shard",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "irons_spellbooks:ice_upgrade_orb": {
+    "result": "irons_spellbooks:ice_upgrade_orb",
+    "count": 1,
+    "ingredients": [
+      "irons_spellbooks:ice_rune",
+      "irons_spellbooks:ice_rune",
+      "irons_spellbooks:ice_rune",
+      "irons_spellbooks:ice_rune",
+      "irons_spellbooks:upgrade_orb",
+      "irons_spellbooks:ice_rune",
+      "irons_spellbooks:ice_rune",
+      "irons_spellbooks:ice_rune",
+      "irons_spellbooks:ice_rune"
+    ]
+  },
+  "mcwholidays:icicle": {
+    "result": "mcwholidays:icicle",
+    "count": 10,
+    "ingredients": [
+      "minecraft:ice",
+      "minecraft:ice",
+      "minecraft:ice",
+      "minecraft:ice",
+      "",
+      "minecraft:ice",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwholidays:icicle_big": {
+    "result": "mcwholidays:icicle_big",
+    "count": 12,
+    "ingredients": [
+      "minecraft:ice",
+      "minecraft:ice",
+      "minecraft:ice",
+      "minecraft:ice",
+      "",
+      "minecraft:ice",
+      "minecraft:ice",
+      "",
+      ""
+    ]
+  },
+  "mcwholidays:icicle_sharp": {
+    "result": "mcwholidays:icicle_sharp",
+    "count": 12,
+    "ingredients": [
+      "minecraft:ice",
+      "minecraft:ice",
+      "minecraft:ice",
+      "",
+      "minecraft:ice",
+      "minecraft:ice",
+      "",
+      "minecraft:ice",
+      ""
+    ]
+  },
+  "mcwholidays:icicle_straight": {
+    "result": "mcwholidays:icicle_straight",
+    "count": 6,
+    "ingredients": [
+      "minecraft:ice",
+      "minecraft:ice",
+      "minecraft:ice",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwholidays:icicle_thick": {
+    "result": "mcwholidays:icicle_thick",
+    "count": 14,
+    "ingredients": [
+      "minecraft:ice",
+      "minecraft:ice",
+      "minecraft:ice",
+      "minecraft:ice",
+      "minecraft:ice",
+      "minecraft:ice",
+      "",
+      "minecraft:ice",
+      ""
+    ]
+  },
+  "merrymaking:icicle_lights_horizontal": {
+    "result": "merrymaking:icicle_lights_horizontal",
+    "count": 3,
+    "ingredients": [
+      "merrymaking:icicle_lights_white",
+      "merrymaking:icicle_lights_white",
+      "merrymaking:icicle_lights_white",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:icicle_lights_cap": {
+    "result": "merrymaking:icicle_lights_cap",
+    "count": 3,
+    "ingredients": [
+      "",
+      "merrymaking:icicle_lights_white",
+      "",
+      "merrymaking:icicle_lights_white",
+      "",
+      "merrymaking:icicle_lights_white",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:icicle_lights_diagonal_left": {
+    "result": "merrymaking:icicle_lights_diagonal_left",
+    "count": 3,
+    "ingredients": [
+      "merrymaking:left_diag_template",
+      "merrymaking:icicle_lights_white",
+      "merrymaking:icicle_lights_white",
+      "merrymaking:icicle_lights_white",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:icicle_lights_diagonal_right": {
+    "result": "merrymaking:icicle_lights_diagonal_right",
+    "count": 3,
+    "ingredients": [
+      "merrymaking:right_diag_template",
+      "merrymaking:icicle_lights_white",
+      "merrymaking:icicle_lights_white",
+      "merrymaking:icicle_lights_white",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:icicle_lights_multi": {
+    "result": "merrymaking:icicle_lights_multi",
+    "count": 4,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:glowstone_dust",
+      "merrymaking:white_wires",
+      "merrymaking:multi_bulbs",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:icicle_lights_white": {
+    "result": "merrymaking:icicle_lights_white",
+    "count": 4,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:glowstone_dust",
+      "merrymaking:white_wires",
+      "merrymaking:white_bulbs",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:icicle_multi_horizontal": {
+    "result": "merrymaking:icicle_multi_horizontal",
+    "count": 3,
+    "ingredients": [
+      "merrymaking:icicle_lights_multi",
+      "merrymaking:icicle_lights_multi",
+      "merrymaking:icicle_lights_multi",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:icicle_multi_cap": {
+    "result": "merrymaking:icicle_multi_cap",
+    "count": 3,
+    "ingredients": [
+      "",
+      "merrymaking:icicle_lights_multi",
+      "",
+      "merrymaking:icicle_lights_multi",
+      "",
+      "merrymaking:icicle_lights_multi",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:icicle_multi_diagonal_left": {
+    "result": "merrymaking:icicle_multi_diagonal_left",
+    "count": 3,
+    "ingredients": [
+      "merrymaking:left_diag_template",
+      "merrymaking:icicle_lights_multi",
+      "merrymaking:icicle_lights_multi",
+      "merrymaking:icicle_lights_multi",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:icicle_multi_diagonal_right": {
+    "result": "merrymaking:icicle_multi_diagonal_right",
+    "count": 3,
+    "ingredients": [
+      "merrymaking:right_diag_template",
+      "merrymaking:icicle_lights_multi",
+      "merrymaking:icicle_lights_multi",
+      "merrymaking:icicle_lights_multi",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:icing": {
+    "result": "merrymaking:icing",
+    "count": 8,
+    "ingredients": [
+      "minecraft:sugar",
+      "minecraft:milk_bucket",
+      "minecraft:bowl",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:ice": {
+    "result": "minecraft:ice",
+    "count": 9,
+    "ingredients": [
+      "minecraft:packed_ice",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:icecreamitem": {
+    "result": "pamhc2foodcore:icecreamitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:milk",
+      "minecraft:salt",
+      "minecraft:ices",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

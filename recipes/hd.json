@@ -1,0 +1,47 @@
+{
+  "mekanism:hdpe_elytra": {
+    "result": "mekanism:hdpe_elytra",
+    "count": 1,
+    "ingredients": [
+      "minecraft:atomic",
+      "mekanism:hdpe_sheet",
+      "minecraft:atomic",
+      "mekanism:hdpe_sheet",
+      "minecraft:elytra",
+      "mekanism:hdpe_sheet",
+      "mekanism:hdpe_sheet",
+      "",
+      "mekanism:hdpe_sheet"
+    ]
+  },
+  "mekanism:hdpe_rod": {
+    "result": "mekanism:hdpe_rod",
+    "count": 1,
+    "ingredients": [
+      "mekanism:hdpe_pellet",
+      "mekanism:hdpe_pellet",
+      "",
+      "mekanism:hdpe_pellet",
+      "mekanism:hdpe_pellet",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mekanism:hdpe_stick": {
+    "result": "mekanism:hdpe_stick",
+    "count": 1,
+    "ingredients": [
+      "mekanism:hdpe_rod",
+      "",
+      "",
+      "mekanism:hdpe_rod",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

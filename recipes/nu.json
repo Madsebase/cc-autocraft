@@ -1,0 +1,647 @@
+{
+  "immersiveengineering:nugget_copper": {
+    "result": "immersiveengineering:nugget_copper",
+    "count": 9,
+    "ingredients": [
+      "minecraft:copper_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:nugget_aluminum": {
+    "result": "immersiveengineering:nugget_aluminum",
+    "count": 9,
+    "ingredients": [
+      "immersiveengineering:ingot_aluminum",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:nugget_constantan": {
+    "result": "immersiveengineering:nugget_constantan",
+    "count": 9,
+    "ingredients": [
+      "immersiveengineering:ingot_constantan",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:nugget_electrum": {
+    "result": "immersiveengineering:nugget_electrum",
+    "count": 9,
+    "ingredients": [
+      "immersiveengineering:ingot_electrum",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:nugget_lead": {
+    "result": "immersiveengineering:nugget_lead",
+    "count": 9,
+    "ingredients": [
+      "immersiveengineering:ingot_lead",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:nugget_nickel": {
+    "result": "immersiveengineering:nugget_nickel",
+    "count": 9,
+    "ingredients": [
+      "immersiveengineering:ingot_nickel",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:nugget_silver": {
+    "result": "immersiveengineering:nugget_silver",
+    "count": 9,
+    "ingredients": [
+      "immersiveengineering:ingot_silver",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:nugget_steel": {
+    "result": "immersiveengineering:nugget_steel",
+    "count": 9,
+    "ingredients": [
+      "immersiveengineering:ingot_steel",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:nugget_uranium": {
+    "result": "immersiveengineering:nugget_uranium",
+    "count": 9,
+    "ingredients": [
+      "immersiveengineering:ingot_uranium",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:nugget_netherite": {
+    "result": "immersiveengineering:nugget_netherite",
+    "count": 9,
+    "ingredients": [
+      "minecraft:netherite_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mekanism:nutritional_liquifier": {
+    "result": "mekanism:nutritional_liquifier",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "minecraft:basic",
+      "minecraft:redstone",
+      "minecraft:bowl",
+      "mekanism:steel_casing",
+      "minecraft:bowl",
+      "minecraft:redstone",
+      "minecraft:basic",
+      "minecraft:redstone"
+    ]
+  },
+  "mekanism:nugget_bronze": {
+    "result": "mekanism:nugget_bronze",
+    "count": 9,
+    "ingredients": [
+      "mekanism:ingot_bronze",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mekanism:nugget_refined_glowstone": {
+    "result": "mekanism:nugget_refined_glowstone",
+    "count": 9,
+    "ingredients": [
+      "mekanism:ingot_refined_glowstone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mekanism:nugget_refined_obsidian": {
+    "result": "mekanism:nugget_refined_obsidian",
+    "count": 9,
+    "ingredients": [
+      "mekanism:ingot_refined_obsidian",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mekanism:nugget_steel": {
+    "result": "mekanism:nugget_steel",
+    "count": 9,
+    "ingredients": [
+      "mekanism:ingot_steel",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mekanism:nugget_lead": {
+    "result": "mekanism:nugget_lead",
+    "count": 9,
+    "ingredients": [
+      "mekanism:ingot_lead",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mekanism:nugget_osmium": {
+    "result": "mekanism:nugget_osmium",
+    "count": 9,
+    "ingredients": [
+      "mekanism:ingot_osmium",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mekanism:nugget_tin": {
+    "result": "mekanism:nugget_tin",
+    "count": 9,
+    "ingredients": [
+      "mekanism:ingot_tin",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mekanism:nugget_uranium": {
+    "result": "mekanism:nugget_uranium",
+    "count": 9,
+    "ingredients": [
+      "mekanism:ingot_uranium",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:nuclear_casing": {
+    "result": "modern_industrialization:nuclear_casing",
+    "count": 1,
+    "ingredients": [
+      "minecraft:nuclear_alloy",
+      "minecraft:nuclear_alloy",
+      "minecraft:nuclear_alloy",
+      "minecraft:nuclear_alloy",
+      "modern_industrialization:turbo_machine_hull",
+      "minecraft:nuclear_alloy",
+      "minecraft:nuclear_alloy",
+      "minecraft:nuclear_alloy",
+      "minecraft:nuclear_alloy"
+    ]
+  },
+  "modern_industrialization:nuclear_fluid_hatch": {
+    "result": "modern_industrialization:nuclear_fluid_hatch",
+    "count": 1,
+    "ingredients": [
+      "minecraft:nuclear_alloy",
+      "minecraft:nuclear_alloy",
+      "minecraft:nuclear_alloy",
+      "minecraft:nuclear_alloy",
+      "modern_industrialization:highly_advanced_fluid_input_hatch",
+      "minecraft:nuclear_alloy",
+      "minecraft:nuclear_alloy",
+      "minecraft:nuclear_alloy",
+      "minecraft:nuclear_alloy"
+    ]
+  },
+  "modern_industrialization:nuclear_item_hatch": {
+    "result": "modern_industrialization:nuclear_item_hatch",
+    "count": 1,
+    "ingredients": [
+      "minecraft:nuclear_alloy",
+      "minecraft:nuclear_alloy",
+      "minecraft:nuclear_alloy",
+      "minecraft:nuclear_alloy",
+      "modern_industrialization:highly_advanced_item_input_hatch",
+      "minecraft:nuclear_alloy",
+      "minecraft:nuclear_alloy",
+      "minecraft:nuclear_alloy",
+      "minecraft:nuclear_alloy"
+    ]
+  },
+  "modern_industrialization:nuclear_alloy_machine_casing_pipe": {
+    "result": "modern_industrialization:nuclear_alloy_machine_casing_pipe",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:blastproof_alloy_curved_plate",
+      "modern_industrialization:advanced_pump",
+      "modern_industrialization:blastproof_alloy_curved_plate",
+      "modern_industrialization:blastproof_alloy_curved_plate",
+      "modern_industrialization:nuclear_casing",
+      "modern_industrialization:blastproof_alloy_curved_plate",
+      "modern_industrialization:blastproof_alloy_curved_plate",
+      "modern_industrialization:advanced_pump",
+      "modern_industrialization:blastproof_alloy_curved_plate"
+    ]
+  },
+  "modern_industrialization:nuclear_reactor": {
+    "result": "modern_industrialization:nuclear_reactor",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:nuclear_alloy_large_plate",
+      "modern_industrialization:processing_unit",
+      "modern_industrialization:nuclear_alloy_large_plate",
+      "modern_industrialization:cadmium_control_rod",
+      "modern_industrialization:highly_advanced_machine_hull",
+      "modern_industrialization:cadmium_control_rod",
+      "modern_industrialization:nuclear_alloy_large_plate",
+      "modern_industrialization:processing_unit",
+      "modern_industrialization:nuclear_alloy_large_plate"
+    ]
+  },
+  "modern_industrialization:nuclear_alloy_large_plate": {
+    "result": "modern_industrialization:nuclear_alloy_large_plate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:nuclear_alloy",
+      "minecraft:nuclear_alloy",
+      "",
+      "minecraft:nuclear_alloy",
+      "minecraft:nuclear_alloy",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "oritech:nuke": {
+    "result": "oritech:nuke",
+    "count": 1,
+    "ingredients": [
+      "oritech:plutonium_pellet",
+      "oritech:heisenberg_compensator",
+      "oritech:plutonium_pellet",
+      "oritech:heisenberg_compensator",
+      "minecraft:tnt",
+      "oritech:heisenberg_compensator",
+      "oritech:plutonium_pellet",
+      "oritech:heisenberg_compensator",
+      "oritech:plutonium_pellet"
+    ]
+  },
+  "pamhc2foodextended:nuttoppedicecreamitem": {
+    "result": "pamhc2foodextended:nuttoppedicecreamitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:icecreams",
+      "minecraft:nuts",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2trees:nutmeg_sapling": {
+    "result": "pamhc2trees:nutmeg_sapling",
+    "count": 1,
+    "ingredients": [
+      "pamhc2trees:nutmegitem",
+      "pamhc2trees:nutmegitem",
+      "pamhc2trees:nutmegitem",
+      "pamhc2trees:nutmegitem",
+      "pamhc2trees:nutmegitem",
+      "pamhc2trees:nutmegitem",
+      "pamhc2trees:nutmegitem",
+      "pamhc2trees:nutmegitem",
+      "minecraft:saplings"
+    ]
+  },
+  "productivetrees:nutmeg_bookshelf": {
+    "result": "productivetrees:nutmeg_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:nutmeg_planks",
+      "productivetrees:nutmeg_planks",
+      "productivetrees:nutmeg_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:nutmeg_planks",
+      "productivetrees:nutmeg_planks",
+      "productivetrees:nutmeg_planks"
+    ]
+  },
+  "productivetrees:nutmeg_button": {
+    "result": "productivetrees:nutmeg_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:nutmeg_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:nutmeg_crate": {
+    "result": "productivetrees:nutmeg_crate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:nutmeg",
+      "minecraft:nutmeg",
+      "minecraft:nutmeg",
+      "minecraft:nutmeg",
+      "productivetrees:nutmeg",
+      "minecraft:nutmeg",
+      "minecraft:nutmeg",
+      "minecraft:nutmeg",
+      "minecraft:nutmeg"
+    ]
+  },
+  "productivetrees:nutmeg": {
+    "result": "productivetrees:nutmeg",
+    "count": 9,
+    "ingredients": [
+      "productivetrees:nutmeg_crate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:nutmeg_door": {
+    "result": "productivetrees:nutmeg_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:nutmeg_planks",
+      "productivetrees:nutmeg_planks",
+      "",
+      "productivetrees:nutmeg_planks",
+      "productivetrees:nutmeg_planks",
+      "",
+      "productivetrees:nutmeg_planks",
+      "productivetrees:nutmeg_planks",
+      ""
+    ]
+  },
+  "productivetrees:nutmeg_fence": {
+    "result": "productivetrees:nutmeg_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:nutmeg_planks",
+      "minecraft:stick",
+      "productivetrees:nutmeg_planks",
+      "productivetrees:nutmeg_planks",
+      "minecraft:stick",
+      "productivetrees:nutmeg_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:nutmeg_fence_gate": {
+    "result": "productivetrees:nutmeg_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:nutmeg_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:nutmeg_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:nutmeg_hanging_sign": {
+    "result": "productivetrees:nutmeg_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:nutmeg_planks",
+      "productivetrees:nutmeg_planks",
+      "productivetrees:nutmeg_planks",
+      "productivetrees:nutmeg_planks",
+      "productivetrees:nutmeg_planks",
+      "productivetrees:nutmeg_planks"
+    ]
+  },
+  "productivetrees:nutmeg_planks": {
+    "result": "productivetrees:nutmeg_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:nutmeg_pressure_plate": {
+    "result": "productivetrees:nutmeg_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:nutmeg_planks",
+      "productivetrees:nutmeg_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:nutmeg_sign": {
+    "result": "productivetrees:nutmeg_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:nutmeg_planks",
+      "productivetrees:nutmeg_planks",
+      "productivetrees:nutmeg_planks",
+      "productivetrees:nutmeg_planks",
+      "productivetrees:nutmeg_planks",
+      "productivetrees:nutmeg_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:nutmeg_slab": {
+    "result": "productivetrees:nutmeg_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:nutmeg_planks",
+      "productivetrees:nutmeg_planks",
+      "productivetrees:nutmeg_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:nutmeg_stairs": {
+    "result": "productivetrees:nutmeg_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:nutmeg_planks",
+      "",
+      "",
+      "productivetrees:nutmeg_planks",
+      "productivetrees:nutmeg_planks",
+      "",
+      "productivetrees:nutmeg_planks",
+      "productivetrees:nutmeg_planks",
+      "productivetrees:nutmeg_planks"
+    ]
+  },
+  "productivetrees:nutmeg_trapdoor": {
+    "result": "productivetrees:nutmeg_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:nutmeg_planks",
+      "productivetrees:nutmeg_planks",
+      "productivetrees:nutmeg_planks",
+      "productivetrees:nutmeg_planks",
+      "productivetrees:nutmeg_planks",
+      "productivetrees:nutmeg_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:nutmeg_wood": {
+    "result": "productivetrees:nutmeg_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:nutmeg_log",
+      "productivetrees:nutmeg_log",
+      "",
+      "productivetrees:nutmeg_log",
+      "productivetrees:nutmeg_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

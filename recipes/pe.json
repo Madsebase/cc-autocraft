@@ -1,0 +1,3092 @@
+{
+  "advancedperipherals:peripheral_casing": {
+    "result": "advancedperipherals:peripheral_casing",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:iron_bars",
+      "minecraft:iron_ingot",
+      "minecraft:iron_bars",
+      "minecraft:redstone",
+      "minecraft:iron_bars",
+      "minecraft:iron_ingot",
+      "minecraft:iron_bars",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "allthecompressed:peridot_block_1x": {
+    "result": "allthecompressed:peridot_block_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:peridot_block_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:peridot_block_2x": {
+    "result": "allthecompressed:peridot_block_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:peridot_block_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:peridot_block_3x": {
+    "result": "allthecompressed:peridot_block_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:peridot_block_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:peridot_block_4x": {
+    "result": "allthecompressed:peridot_block_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:peridot_block_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:peridot_block_5x": {
+    "result": "allthecompressed:peridot_block_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:peridot_block_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:peridot_block_6x": {
+    "result": "allthecompressed:peridot_block_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:peridot_block_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:peridot_block_7x": {
+    "result": "allthecompressed:peridot_block_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:peridot_block_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:peridot_block_8x": {
+    "result": "allthecompressed:peridot_block_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:peridot_block_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:peridot_block_9x": {
+    "result": "allthecompressed:peridot_block_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:peridot_block_8x",
+      "allthecompressed:peridot_block_8x",
+      "allthecompressed:peridot_block_8x",
+      "allthecompressed:peridot_block_8x",
+      "allthecompressed:peridot_block_8x",
+      "allthecompressed:peridot_block_8x",
+      "allthecompressed:peridot_block_8x",
+      "allthecompressed:peridot_block_8x",
+      "allthecompressed:peridot_block_8x"
+    ]
+  },
+  "mekanism:pellet_antimatter": {
+    "result": "mekanism:pellet_antimatter",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:antimatter_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "alltheores:peridot_block": {
+    "result": "alltheores:peridot_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:peridot",
+      "minecraft:peridot",
+      "minecraft:peridot",
+      "minecraft:peridot",
+      "minecraft:peridot",
+      "minecraft:peridot",
+      "minecraft:peridot",
+      "minecraft:peridot",
+      "minecraft:peridot"
+    ]
+  },
+  "alltheores:peridot_dust": {
+    "result": "alltheores:peridot_dust",
+    "count": 1,
+    "ingredients": [
+      "minecraft:ore_hammers",
+      "minecraft:peridot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "alltheores:peridot": {
+    "result": "alltheores:peridot",
+    "count": 9,
+    "ingredients": [
+      "minecraft:peridot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "apothic_enchanting:pearl_endshelf": {
+    "result": "apothic_enchanting:pearl_endshelf",
+    "count": 1,
+    "ingredients": [
+      "minecraft:end_rod",
+      "",
+      "minecraft:end_rod",
+      "minecraft:ender_pearl",
+      "apothic_enchanting:endshelf",
+      "minecraft:ender_pearl",
+      "minecraft:end_rod",
+      "",
+      "minecraft:end_rod"
+    ]
+  },
+  "biomeswevegone:petal_wreath": {
+    "result": "biomeswevegone:petal_wreath",
+    "count": 1,
+    "ingredients": [
+      "",
+      "biomeswevegone:white_sakura_petals",
+      "",
+      "biomeswevegone:yellow_sakura_petals",
+      "biomeswevegone:wreath",
+      "biomeswevegone:yellow_sakura_petals",
+      "",
+      "minecraft:pink_petals",
+      ""
+    ]
+  },
+  "compactmachines:personal_shrinking_device": {
+    "result": "compactmachines:personal_shrinking_device",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron",
+      "minecraft:glass",
+      "minecraft:iron",
+      "compactmachines:enlarging_module",
+      "minecraft:ender_eye",
+      "compactmachines:shrinking_module",
+      "minecraft:iron_ingot",
+      "minecraft:copper_ingot",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "create:peculiar_bell": {
+    "result": "create:peculiar_bell",
+    "count": 1,
+    "ingredients": [
+      "minecraft:brass",
+      "",
+      "",
+      "minecraft:brass",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:peach_carpet": {
+    "result": "dyenamics:peach_carpet",
+    "count": 3,
+    "ingredients": [
+      "dyenamics:peach_wool",
+      "dyenamics:peach_wool",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:persimmon_carpet": {
+    "result": "dyenamics:persimmon_carpet",
+    "count": 3,
+    "ingredients": [
+      "dyenamics:persimmon_wool",
+      "dyenamics:persimmon_wool",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:peach_candle": {
+    "result": "dyenamics:peach_candle",
+    "count": 1,
+    "ingredients": [
+      "minecraft:candle",
+      "minecraft:peach",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:peach_concrete_powder": {
+    "result": "dyenamics:peach_concrete_powder",
+    "count": 8,
+    "ingredients": [
+      "minecraft:peach",
+      "minecraft:sand",
+      "minecraft:sand",
+      "minecraft:sand",
+      "minecraft:sand",
+      "minecraft:gravel",
+      "minecraft:gravel",
+      "minecraft:gravel",
+      "minecraft:gravel"
+    ]
+  },
+  "dyenamics:peach_dye": {
+    "result": "dyenamics:peach_dye",
+    "count": 2,
+    "ingredients": [
+      "minecraft:orange",
+      "minecraft:white",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:peach_stained_glass": {
+    "result": "dyenamics:peach_stained_glass",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:peach",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass"
+    ]
+  },
+  "dyenamics:peach_stained_glass_pane": {
+    "result": "dyenamics:peach_stained_glass_pane",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:peach",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane"
+    ]
+  },
+  "dyenamics:peach_terracotta": {
+    "result": "dyenamics:peach_terracotta",
+    "count": 8,
+    "ingredients": [
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:peach",
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:terracotta"
+    ]
+  },
+  "dyenamics:peach_wool": {
+    "result": "dyenamics:peach_wool",
+    "count": 1,
+    "ingredients": [
+      "minecraft:peach",
+      "minecraft:white_wool",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:persimmon_candle": {
+    "result": "dyenamics:persimmon_candle",
+    "count": 1,
+    "ingredients": [
+      "minecraft:candle",
+      "minecraft:persimmon",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:persimmon_concrete_powder": {
+    "result": "dyenamics:persimmon_concrete_powder",
+    "count": 8,
+    "ingredients": [
+      "minecraft:persimmon",
+      "minecraft:sand",
+      "minecraft:sand",
+      "minecraft:sand",
+      "minecraft:sand",
+      "minecraft:gravel",
+      "minecraft:gravel",
+      "minecraft:gravel",
+      "minecraft:gravel"
+    ]
+  },
+  "dyenamics:persimmon_dye": {
+    "result": "dyenamics:persimmon_dye",
+    "count": 2,
+    "ingredients": [
+      "minecraft:orange",
+      "minecraft:red",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:persimmon_stained_glass": {
+    "result": "dyenamics:persimmon_stained_glass",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:persimmon",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass"
+    ]
+  },
+  "dyenamics:persimmon_stained_glass_pane": {
+    "result": "dyenamics:persimmon_stained_glass_pane",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:persimmon",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane"
+    ]
+  },
+  "dyenamics:persimmon_terracotta": {
+    "result": "dyenamics:persimmon_terracotta",
+    "count": 8,
+    "ingredients": [
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:persimmon",
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:terracotta"
+    ]
+  },
+  "dyenamics:persimmon_wool": {
+    "result": "dyenamics:persimmon_wool",
+    "count": 1,
+    "ingredients": [
+      "minecraft:persimmon",
+      "minecraft:white_wool",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:peach_banner": {
+    "result": "dyenamics:peach_banner",
+    "count": 1,
+    "ingredients": [
+      "dyenamics:peach_wool",
+      "dyenamics:peach_wool",
+      "dyenamics:peach_wool",
+      "dyenamics:peach_wool",
+      "dyenamics:peach_wool",
+      "dyenamics:peach_wool",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "dyenamics:persimmon_banner": {
+    "result": "dyenamics:persimmon_banner",
+    "count": 1,
+    "ingredients": [
+      "dyenamics:persimmon_wool",
+      "dyenamics:persimmon_wool",
+      "dyenamics:persimmon_wool",
+      "dyenamics:persimmon_wool",
+      "dyenamics:persimmon_wool",
+      "dyenamics:persimmon_wool",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "dyenamics:peach_bed": {
+    "result": "dyenamics:peach_bed",
+    "count": 1,
+    "ingredients": [
+      "minecraft:beds",
+      "minecraft:peach",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:persimmon_bed": {
+    "result": "dyenamics:persimmon_bed",
+    "count": 1,
+    "ingredients": [
+      "minecraft:beds",
+      "minecraft:persimmon",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:peach_rockwool": {
+    "result": "dyenamics:peach_rockwool",
+    "count": 1,
+    "ingredients": [
+      "thermal:white_rockwool",
+      "minecraft:peach",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:persimmon_rockwool": {
+    "result": "dyenamics:persimmon_rockwool",
+    "count": 1,
+    "ingredients": [
+      "thermal:white_rockwool",
+      "minecraft:persimmon",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:petal_scythe": {
+    "result": "eternal_starlight:petal_scythe",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:tenacious_petal",
+      "eternal_starlight:tenacious_petal",
+      "eternal_starlight:tenacious_petal",
+      "",
+      "eternal_starlight:tenacious_vine",
+      "eternal_starlight:tenacious_petal",
+      "eternal_starlight:tenacious_vine",
+      "",
+      ""
+    ]
+  },
+  "herbsandharvest:peach_pie": {
+    "result": "herbsandharvest:peach_pie",
+    "count": 1,
+    "ingredients": [
+      "minecraft:wheat",
+      "minecraft:butter",
+      "minecraft:milk",
+      "herbsandharvest:peach",
+      "minecraft:sugar",
+      "herbsandharvest:ground_cinnamon",
+      "herbsandharvest:ground_ginger",
+      "",
+      ""
+    ]
+  },
+  "herbsandharvest:peanuts": {
+    "result": "herbsandharvest:peanuts",
+    "count": 1,
+    "ingredients": [
+      "herbsandharvest:peanut",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "herbsandharvest:peanut_butter": {
+    "result": "herbsandharvest:peanut_butter",
+    "count": 1,
+    "ingredients": [
+      "herbsandharvest:spice_jar_item",
+      "minecraft:peanut_seeds",
+      "minecraft:peanut_seeds",
+      "minecraft:peanut_seeds",
+      "minecraft:peanut_seeds",
+      "minecraft:salt",
+      "",
+      "",
+      ""
+    ]
+  },
+  "herbsandharvest:peanut_butter_cookie": {
+    "result": "herbsandharvest:peanut_butter_cookie",
+    "count": 8,
+    "ingredients": [
+      "minecraft:wheat",
+      "minecraft:egg",
+      "minecraft:sugar",
+      "minecraft:butter",
+      "minecraft:salt",
+      "minecraft:peanut_butter",
+      "",
+      "",
+      ""
+    ]
+  },
+  "herbsandharvest:peanut_butter_jelly": {
+    "result": "herbsandharvest:peanut_butter_jelly",
+    "count": 1,
+    "ingredients": [
+      "minecraft:peanut_butter",
+      "herbsandharvest:bread_slice",
+      "minecraft:jams",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "herbsandharvest:pea_soup_pot": {
+    "result": "herbsandharvest:pea_soup_pot",
+    "count": 1,
+    "ingredients": [
+      "herbsandharvest:empty_pot",
+      "minecraft:peas",
+      "minecraft:cream",
+      "minecraft:onion",
+      "minecraft:salt",
+      "minecraft:pepper",
+      "herbsandharvest:chopped_bay_leaf",
+      "herbsandharvest:chopped_thyme",
+      ""
+    ]
+  },
+  "herbsandharvest:pepperoni": {
+    "result": "herbsandharvest:pepperoni",
+    "count": 1,
+    "ingredients": [
+      "minecraft:raw_beef",
+      "minecraft:raw_pork",
+      "minecraft:minced_garlic",
+      "minecraft:pepper",
+      "herbsandharvest:mustard_seeds",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "herbsandharvest:pepperoni_slice": {
+    "result": "herbsandharvest:pepperoni_slice",
+    "count": 8,
+    "ingredients": [
+      "minecraft:pepperoni",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mahoutsukai:pestle": {
+    "result": "mahoutsukai:pestle",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "minecraft:stick",
+      "minecraft:diamond",
+      "minecraft:stick",
+      "",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      ""
+    ]
+  },
+  "mekanism:personal_barrel": {
+    "result": "mekanism:personal_barrel",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:steel_ingot",
+      "minecraft:glass",
+      "modern_industrialization:steel_ingot",
+      "minecraft:wooden",
+      "minecraft:basic",
+      "minecraft:wooden",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot"
+    ]
+  },
+  "mekanism:personal_chest": {
+    "result": "mekanism:personal_chest",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:steel_ingot",
+      "minecraft:glass",
+      "modern_industrialization:steel_ingot",
+      "minecraft:chest",
+      "minecraft:basic",
+      "minecraft:chest",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot"
+    ]
+  },
+  "merrymaking:peppermint_cocoa": {
+    "result": "merrymaking:peppermint_cocoa",
+    "count": 1,
+    "ingredients": [
+      "merrymaking:hot_cocoa",
+      "merrymaking:peppermint_extract",
+      "merrymaking:candy_cane",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecolonies:pea_soup": {
+    "result": "minecolonies:pea_soup",
+    "count": 2,
+    "ingredients": [
+      "minecolonies:garlic",
+      "minecolonies:onion",
+      "minecolonies:peas",
+      "minecolonies:large_soy_milk_bottle",
+      "minecraft:bowl",
+      "minecraft:bowl",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecolonies:pepper_hummus": {
+    "result": "minecolonies:pepper_hummus",
+    "count": 2,
+    "ingredients": [
+      "minecolonies:bell_pepper",
+      "minecolonies:bell_pepper",
+      "minecolonies:garlic",
+      "minecolonies:onion",
+      "minecolonies:chickpea",
+      "minecolonies:chickpea",
+      "",
+      "",
+      ""
+    ]
+  },
+  "naturesaura:pet_reviver": {
+    "result": "naturesaura:pet_reviver",
+    "count": 1,
+    "ingredients": [
+      "naturesaura:token_grief",
+      "minecraft:gold_ingot",
+      "naturesaura:token_joy",
+      "naturesaura:sky_ingot",
+      "minecraft:bone",
+      "naturesaura:sky_ingot",
+      "",
+      "minecraft:gold_ingot",
+      ""
+    ]
+  },
+  "pamhc2crops:peanutseeditem": {
+    "result": "pamhc2crops:peanutseeditem",
+    "count": 1,
+    "ingredients": [
+      "pamhc2crops:peanutitem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2crops:peasseeditem": {
+    "result": "pamhc2crops:peasseeditem",
+    "count": 1,
+    "ingredients": [
+      "pamhc2crops:peasitem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:peaandhamsoupitem": {
+    "result": "pamhc2foodextended:peaandhamsoupitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:peas",
+      "minecraft:rawpork",
+      "minecraft:onion",
+      "minecraft:carrot",
+      "minecraft:celery",
+      "minecraft:blackpepper",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:peachcobbleritem": {
+    "result": "pamhc2foodextended:peachcobbleritem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:peach",
+      "minecraft:sugar",
+      "minecraft:dough",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:peachesandcreamoatmealitem": {
+    "result": "pamhc2foodextended:peachesandcreamoatmealitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:oats",
+      "minecraft:peach",
+      "minecraft:cream",
+      "minecraft:water",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:peachjellyitem": {
+    "result": "pamhc2foodextended:peachjellyitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:peach",
+      "minecraft:sugar",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:peachjellysandwichitem": {
+    "result": "pamhc2foodextended:peachjellysandwichitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:peachjelly",
+      "minecraft:bread",
+      "minecraft:nutbutters",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:peachjellytoastitem": {
+    "result": "pamhc2foodextended:peachjellytoastitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:peachjelly",
+      "minecraft:toast",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:peachjuiceitem": {
+    "result": "pamhc2foodextended:peachjuiceitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_juicer",
+      "minecraft:peach",
+      "minecraft:peach",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:peachpieitem": {
+    "result": "pamhc2foodextended:peachpieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:peach",
+      "minecraft:sugar",
+      "minecraft:dough",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:peachsmoothieitem": {
+    "result": "pamhc2foodextended:peachsmoothieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:peach",
+      "minecraft:ices",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:peachyogurtitem": {
+    "result": "pamhc2foodextended:peachyogurtitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:peach",
+      "minecraft:yogurt",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:peanutbutterbananapancakesitem": {
+    "result": "pamhc2foodextended:peanutbutterbananapancakesitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_skillet",
+      "minecraft:nutbutters",
+      "minecraft:banana",
+      "minecraft:cookingoil",
+      "minecraft:batter",
+      "minecraft:butter",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:peanutbutterbananasandwichitem": {
+    "result": "pamhc2foodextended:peanutbutterbananasandwichitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:nutbutters",
+      "minecraft:banana",
+      "minecraft:bread",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:peanutbuttercookiesitem": {
+    "result": "pamhc2foodextended:peanutbuttercookiesitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:nutbutters",
+      "minecraft:batter",
+      "minecraft:sugar",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:peanutbuttercupitem": {
+    "result": "pamhc2foodextended:peanutbuttercupitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:chocolatebar",
+      "minecraft:nutbutters",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:peanutbutteritem": {
+    "result": "pamhc2foodextended:peanutbutteritem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_grinder",
+      "minecraft:peanut",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:peanutchocolatebaritem": {
+    "result": "pamhc2foodextended:peanutchocolatebaritem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:chocolatebar",
+      "minecraft:peanut",
+      "minecraft:cookingoil",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:pearjellyitem": {
+    "result": "pamhc2foodextended:pearjellyitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:pear",
+      "minecraft:sugar",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:pearjellysandwichitem": {
+    "result": "pamhc2foodextended:pearjellysandwichitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:pearjelly",
+      "minecraft:bread",
+      "minecraft:nutbutters",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:pearjellytoastitem": {
+    "result": "pamhc2foodextended:pearjellytoastitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:pearjelly",
+      "minecraft:toast",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:pearjuiceitem": {
+    "result": "pamhc2foodextended:pearjuiceitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_juicer",
+      "minecraft:pear",
+      "minecraft:pear",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:pearpieitem": {
+    "result": "pamhc2foodextended:pearpieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:pear",
+      "minecraft:sugar",
+      "minecraft:dough",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:pearsmoothieitem": {
+    "result": "pamhc2foodextended:pearsmoothieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:pear",
+      "minecraft:ices",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:pearyogurtitem": {
+    "result": "pamhc2foodextended:pearyogurtitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:pear",
+      "minecraft:yogurt",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:peasandceleryitem": {
+    "result": "pamhc2foodextended:peasandceleryitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:celery",
+      "minecraft:peas",
+      "minecraft:lemon",
+      "minecraft:blackpepper",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:pecanbutteritem": {
+    "result": "pamhc2foodextended:pecanbutteritem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_grinder",
+      "minecraft:pecan",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:pecanpieitem": {
+    "result": "pamhc2foodextended:pecanpieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:pecan",
+      "minecraft:dough",
+      "minecraft:sugar",
+      "minecraft:butter",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:pemmicanitem": {
+    "result": "pamhc2foodextended:pemmicanitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:peanut",
+      "minecraft:fruits",
+      "minecraft:rawmeats",
+      "minecraft:honey",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:peppermintitem": {
+    "result": "pamhc2foodextended:peppermintitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:sugar",
+      "minecraft:spiceleaf",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:pepperoniitem": {
+    "result": "pamhc2foodextended:pepperoniitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_grinder",
+      "minecraft:rawpork",
+      "minecraft:spiceleaf",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:pepperonipizzaitem": {
+    "result": "pamhc2foodextended:pepperonipizzaitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:dough",
+      "minecraft:tomato",
+      "minecraft:cheese",
+      "minecraft:pepperoni",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:pepperstirfryitem": {
+    "result": "pamhc2foodextended:pepperstirfryitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_skillet",
+      "minecraft:bellpepper",
+      "minecraft:chilipepper",
+      "minecraft:garlic",
+      "minecraft:soysauce",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:persimmonjellyitem": {
+    "result": "pamhc2foodextended:persimmonjellyitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:persimmon",
+      "minecraft:sugar",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:persimmonjellysandwichitem": {
+    "result": "pamhc2foodextended:persimmonjellysandwichitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:persimmonjelly",
+      "minecraft:bread",
+      "minecraft:nutbutters",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:persimmonjellytoastitem": {
+    "result": "pamhc2foodextended:persimmonjellytoastitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:persimmonjelly",
+      "minecraft:toast",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:persimmonjuiceitem": {
+    "result": "pamhc2foodextended:persimmonjuiceitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_juicer",
+      "minecraft:persimmon",
+      "minecraft:persimmon",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:persimmonpieitem": {
+    "result": "pamhc2foodextended:persimmonpieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:persimmon",
+      "minecraft:sugar",
+      "minecraft:dough",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:persimmonsmoothieitem": {
+    "result": "pamhc2foodextended:persimmonsmoothieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:persimmon",
+      "minecraft:ices",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:persimmonyogurtitem": {
+    "result": "pamhc2foodextended:persimmonyogurtitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:persimmon",
+      "minecraft:yogurt",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2trees:peach_sapling": {
+    "result": "pamhc2trees:peach_sapling",
+    "count": 1,
+    "ingredients": [
+      "pamhc2trees:peachitem",
+      "pamhc2trees:peachitem",
+      "pamhc2trees:peachitem",
+      "pamhc2trees:peachitem",
+      "pamhc2trees:peachitem",
+      "pamhc2trees:peachitem",
+      "pamhc2trees:peachitem",
+      "pamhc2trees:peachitem",
+      "minecraft:saplings"
+    ]
+  },
+  "pamhc2trees:pear_sapling": {
+    "result": "pamhc2trees:pear_sapling",
+    "count": 1,
+    "ingredients": [
+      "pamhc2trees:pearitem",
+      "pamhc2trees:pearitem",
+      "pamhc2trees:pearitem",
+      "pamhc2trees:pearitem",
+      "pamhc2trees:pearitem",
+      "pamhc2trees:pearitem",
+      "pamhc2trees:pearitem",
+      "pamhc2trees:pearitem",
+      "minecraft:saplings"
+    ]
+  },
+  "pamhc2trees:pecan_sapling": {
+    "result": "pamhc2trees:pecan_sapling",
+    "count": 1,
+    "ingredients": [
+      "pamhc2trees:pecanitem",
+      "pamhc2trees:pecanitem",
+      "pamhc2trees:pecanitem",
+      "pamhc2trees:pecanitem",
+      "pamhc2trees:pecanitem",
+      "pamhc2trees:pecanitem",
+      "pamhc2trees:pecanitem",
+      "pamhc2trees:pecanitem",
+      "minecraft:saplings"
+    ]
+  },
+  "pamhc2trees:peppercorn_sapling": {
+    "result": "pamhc2trees:peppercorn_sapling",
+    "count": 1,
+    "ingredients": [
+      "pamhc2trees:peppercornitem",
+      "pamhc2trees:peppercornitem",
+      "pamhc2trees:peppercornitem",
+      "pamhc2trees:peppercornitem",
+      "pamhc2trees:peppercornitem",
+      "pamhc2trees:peppercornitem",
+      "pamhc2trees:peppercornitem",
+      "pamhc2trees:peppercornitem",
+      "minecraft:saplings"
+    ]
+  },
+  "pamhc2trees:persimmon_sapling": {
+    "result": "pamhc2trees:persimmon_sapling",
+    "count": 1,
+    "ingredients": [
+      "pamhc2trees:persimmonitem",
+      "pamhc2trees:persimmonitem",
+      "pamhc2trees:persimmonitem",
+      "pamhc2trees:persimmonitem",
+      "pamhc2trees:persimmonitem",
+      "pamhc2trees:persimmonitem",
+      "pamhc2trees:persimmonitem",
+      "pamhc2trees:persimmonitem",
+      "minecraft:saplings"
+    ]
+  },
+  "potionsmaster:pestle": {
+    "result": "potionsmaster:pestle",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:quartz",
+      "",
+      "",
+      "minecraft:quartz",
+      "",
+      "",
+      "minecraft:diamond",
+      ""
+    ]
+  },
+  "productivetrees:peach_bookshelf": {
+    "result": "productivetrees:peach_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:peach_planks",
+      "productivetrees:peach_planks",
+      "productivetrees:peach_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:peach_planks",
+      "productivetrees:peach_planks",
+      "productivetrees:peach_planks"
+    ]
+  },
+  "productivetrees:pecan_bookshelf": {
+    "result": "productivetrees:pecan_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:pecan_planks",
+      "productivetrees:pecan_planks",
+      "productivetrees:pecan_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:pecan_planks",
+      "productivetrees:pecan_planks",
+      "productivetrees:pecan_planks"
+    ]
+  },
+  "productivetrees:persimmon_bookshelf": {
+    "result": "productivetrees:persimmon_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:persimmon_planks",
+      "productivetrees:persimmon_planks",
+      "productivetrees:persimmon_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:persimmon_planks",
+      "productivetrees:persimmon_planks",
+      "productivetrees:persimmon_planks"
+    ]
+  },
+  "productivetrees:peach_button": {
+    "result": "productivetrees:peach_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:peach_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:pecan_button": {
+    "result": "productivetrees:pecan_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:pecan_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:persimmon_button": {
+    "result": "productivetrees:persimmon_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:persimmon_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:peach_crate": {
+    "result": "productivetrees:peach_crate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:peach",
+      "minecraft:peach",
+      "minecraft:peach",
+      "minecraft:peach",
+      "productivetrees:peach",
+      "minecraft:peach",
+      "minecraft:peach",
+      "minecraft:peach",
+      "minecraft:peach"
+    ]
+  },
+  "productivetrees:peach": {
+    "result": "productivetrees:peach",
+    "count": 9,
+    "ingredients": [
+      "productivetrees:peach_crate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:pear_crate": {
+    "result": "productivetrees:pear_crate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:pear",
+      "minecraft:pear",
+      "minecraft:pear",
+      "minecraft:pear",
+      "productivetrees:pear",
+      "minecraft:pear",
+      "minecraft:pear",
+      "minecraft:pear",
+      "minecraft:pear"
+    ]
+  },
+  "productivetrees:pear": {
+    "result": "productivetrees:pear",
+    "count": 9,
+    "ingredients": [
+      "productivetrees:pear_crate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:pecan_crate": {
+    "result": "productivetrees:pecan_crate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:pecan",
+      "minecraft:pecan",
+      "minecraft:pecan",
+      "minecraft:pecan",
+      "productivetrees:pecan",
+      "minecraft:pecan",
+      "minecraft:pecan",
+      "minecraft:pecan",
+      "minecraft:pecan"
+    ]
+  },
+  "productivetrees:pecan": {
+    "result": "productivetrees:pecan",
+    "count": 9,
+    "ingredients": [
+      "productivetrees:pecan_crate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:persimmon_crate": {
+    "result": "productivetrees:persimmon_crate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:persimmon",
+      "minecraft:persimmon",
+      "minecraft:persimmon",
+      "minecraft:persimmon",
+      "productivetrees:persimmon",
+      "minecraft:persimmon",
+      "minecraft:persimmon",
+      "minecraft:persimmon",
+      "minecraft:persimmon"
+    ]
+  },
+  "productivetrees:persimmon": {
+    "result": "productivetrees:persimmon",
+    "count": 9,
+    "ingredients": [
+      "productivetrees:persimmon_crate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:peach_door": {
+    "result": "productivetrees:peach_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:peach_planks",
+      "productivetrees:peach_planks",
+      "",
+      "productivetrees:peach_planks",
+      "productivetrees:peach_planks",
+      "",
+      "productivetrees:peach_planks",
+      "productivetrees:peach_planks",
+      ""
+    ]
+  },
+  "productivetrees:pecan_door": {
+    "result": "productivetrees:pecan_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:pecan_planks",
+      "productivetrees:pecan_planks",
+      "",
+      "productivetrees:pecan_planks",
+      "productivetrees:pecan_planks",
+      "",
+      "productivetrees:pecan_planks",
+      "productivetrees:pecan_planks",
+      ""
+    ]
+  },
+  "productivetrees:persimmon_door": {
+    "result": "productivetrees:persimmon_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:persimmon_planks",
+      "productivetrees:persimmon_planks",
+      "",
+      "productivetrees:persimmon_planks",
+      "productivetrees:persimmon_planks",
+      "",
+      "productivetrees:persimmon_planks",
+      "productivetrees:persimmon_planks",
+      ""
+    ]
+  },
+  "productivetrees:peach_fence": {
+    "result": "productivetrees:peach_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:peach_planks",
+      "minecraft:stick",
+      "productivetrees:peach_planks",
+      "productivetrees:peach_planks",
+      "minecraft:stick",
+      "productivetrees:peach_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:pecan_fence": {
+    "result": "productivetrees:pecan_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:pecan_planks",
+      "minecraft:stick",
+      "productivetrees:pecan_planks",
+      "productivetrees:pecan_planks",
+      "minecraft:stick",
+      "productivetrees:pecan_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:persimmon_fence": {
+    "result": "productivetrees:persimmon_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:persimmon_planks",
+      "minecraft:stick",
+      "productivetrees:persimmon_planks",
+      "productivetrees:persimmon_planks",
+      "minecraft:stick",
+      "productivetrees:persimmon_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:peach_fence_gate": {
+    "result": "productivetrees:peach_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:peach_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:peach_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:pecan_fence_gate": {
+    "result": "productivetrees:pecan_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:pecan_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:pecan_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:persimmon_fence_gate": {
+    "result": "productivetrees:persimmon_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:persimmon_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:persimmon_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:peach_hanging_sign": {
+    "result": "productivetrees:peach_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:peach_planks",
+      "productivetrees:peach_planks",
+      "productivetrees:peach_planks",
+      "productivetrees:peach_planks",
+      "productivetrees:peach_planks",
+      "productivetrees:peach_planks"
+    ]
+  },
+  "productivetrees:pecan_hanging_sign": {
+    "result": "productivetrees:pecan_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:pecan_planks",
+      "productivetrees:pecan_planks",
+      "productivetrees:pecan_planks",
+      "productivetrees:pecan_planks",
+      "productivetrees:pecan_planks",
+      "productivetrees:pecan_planks"
+    ]
+  },
+  "productivetrees:persimmon_hanging_sign": {
+    "result": "productivetrees:persimmon_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:persimmon_planks",
+      "productivetrees:persimmon_planks",
+      "productivetrees:persimmon_planks",
+      "productivetrees:persimmon_planks",
+      "productivetrees:persimmon_planks",
+      "productivetrees:persimmon_planks"
+    ]
+  },
+  "productivetrees:peach_planks": {
+    "result": "productivetrees:peach_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:pecan_planks": {
+    "result": "productivetrees:pecan_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:persimmon_planks": {
+    "result": "productivetrees:persimmon_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:peach_pressure_plate": {
+    "result": "productivetrees:peach_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:peach_planks",
+      "productivetrees:peach_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:pecan_pressure_plate": {
+    "result": "productivetrees:pecan_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:pecan_planks",
+      "productivetrees:pecan_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:persimmon_pressure_plate": {
+    "result": "productivetrees:persimmon_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:persimmon_planks",
+      "productivetrees:persimmon_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:peach_sign": {
+    "result": "productivetrees:peach_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:peach_planks",
+      "productivetrees:peach_planks",
+      "productivetrees:peach_planks",
+      "productivetrees:peach_planks",
+      "productivetrees:peach_planks",
+      "productivetrees:peach_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:pecan_sign": {
+    "result": "productivetrees:pecan_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:pecan_planks",
+      "productivetrees:pecan_planks",
+      "productivetrees:pecan_planks",
+      "productivetrees:pecan_planks",
+      "productivetrees:pecan_planks",
+      "productivetrees:pecan_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:persimmon_sign": {
+    "result": "productivetrees:persimmon_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:persimmon_planks",
+      "productivetrees:persimmon_planks",
+      "productivetrees:persimmon_planks",
+      "productivetrees:persimmon_planks",
+      "productivetrees:persimmon_planks",
+      "productivetrees:persimmon_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:peach_slab": {
+    "result": "productivetrees:peach_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:peach_planks",
+      "productivetrees:peach_planks",
+      "productivetrees:peach_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:pecan_slab": {
+    "result": "productivetrees:pecan_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:pecan_planks",
+      "productivetrees:pecan_planks",
+      "productivetrees:pecan_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:persimmon_slab": {
+    "result": "productivetrees:persimmon_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:persimmon_planks",
+      "productivetrees:persimmon_planks",
+      "productivetrees:persimmon_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:peach_stairs": {
+    "result": "productivetrees:peach_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:peach_planks",
+      "",
+      "",
+      "productivetrees:peach_planks",
+      "productivetrees:peach_planks",
+      "",
+      "productivetrees:peach_planks",
+      "productivetrees:peach_planks",
+      "productivetrees:peach_planks"
+    ]
+  },
+  "productivetrees:pecan_stairs": {
+    "result": "productivetrees:pecan_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:pecan_planks",
+      "",
+      "",
+      "productivetrees:pecan_planks",
+      "productivetrees:pecan_planks",
+      "",
+      "productivetrees:pecan_planks",
+      "productivetrees:pecan_planks",
+      "productivetrees:pecan_planks"
+    ]
+  },
+  "productivetrees:persimmon_stairs": {
+    "result": "productivetrees:persimmon_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:persimmon_planks",
+      "",
+      "",
+      "productivetrees:persimmon_planks",
+      "productivetrees:persimmon_planks",
+      "",
+      "productivetrees:persimmon_planks",
+      "productivetrees:persimmon_planks",
+      "productivetrees:persimmon_planks"
+    ]
+  },
+  "productivetrees:peach_trapdoor": {
+    "result": "productivetrees:peach_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:peach_planks",
+      "productivetrees:peach_planks",
+      "productivetrees:peach_planks",
+      "productivetrees:peach_planks",
+      "productivetrees:peach_planks",
+      "productivetrees:peach_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:pecan_trapdoor": {
+    "result": "productivetrees:pecan_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:pecan_planks",
+      "productivetrees:pecan_planks",
+      "productivetrees:pecan_planks",
+      "productivetrees:pecan_planks",
+      "productivetrees:pecan_planks",
+      "productivetrees:pecan_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:persimmon_trapdoor": {
+    "result": "productivetrees:persimmon_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:persimmon_planks",
+      "productivetrees:persimmon_planks",
+      "productivetrees:persimmon_planks",
+      "productivetrees:persimmon_planks",
+      "productivetrees:persimmon_planks",
+      "productivetrees:persimmon_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:peach_wood": {
+    "result": "productivetrees:peach_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:peach_log",
+      "productivetrees:peach_log",
+      "",
+      "productivetrees:peach_log",
+      "productivetrees:peach_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:pecan_wood": {
+    "result": "productivetrees:pecan_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:pecan_log",
+      "productivetrees:pecan_log",
+      "",
+      "productivetrees:pecan_log",
+      "productivetrees:pecan_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:persimmon_wood": {
+    "result": "productivetrees:persimmon_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:persimmon_log",
+      "productivetrees:persimmon_log",
+      "",
+      "productivetrees:persimmon_log",
+      "productivetrees:persimmon_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:personal_world_spike": {
+    "result": "railcraft:personal_world_spike",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "minecraft:obsidian",
+      "minecraft:gold_ingot",
+      "minecraft:emerald",
+      "minecraft:ender_pearl",
+      "minecraft:emerald",
+      "minecraft:gold_ingot",
+      "minecraft:obsidian",
+      "minecraft:gold_ingot"
+    ]
+  },
+  "regions_unexplored:peat_coarse_dirt": {
+    "result": "regions_unexplored:peat_coarse_dirt",
+    "count": 4,
+    "ingredients": [
+      "regions_unexplored:peat_dirt",
+      "minecraft:gravel",
+      "",
+      "minecraft:gravel",
+      "regions_unexplored:peat_dirt",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "reliquary:pedestals/black_pedestal": {
+    "result": "reliquary:pedestals/black_pedestal",
+    "count": 1,
+    "ingredients": [
+      "minecraft:diamond",
+      "",
+      "minecraft:diamond",
+      "",
+      "reliquary:pedestals/passive/black_passive_pedestal",
+      "",
+      "minecraft:diamond",
+      "",
+      "minecraft:diamond"
+    ]
+  },
+  "reliquary:pedestals/blue_pedestal": {
+    "result": "reliquary:pedestals/blue_pedestal",
+    "count": 1,
+    "ingredients": [
+      "minecraft:diamond",
+      "",
+      "minecraft:diamond",
+      "",
+      "reliquary:pedestals/passive/blue_passive_pedestal",
+      "",
+      "minecraft:diamond",
+      "",
+      "minecraft:diamond"
+    ]
+  },
+  "reliquary:pedestals/brown_pedestal": {
+    "result": "reliquary:pedestals/brown_pedestal",
+    "count": 1,
+    "ingredients": [
+      "minecraft:diamond",
+      "",
+      "minecraft:diamond",
+      "",
+      "reliquary:pedestals/passive/brown_passive_pedestal",
+      "",
+      "minecraft:diamond",
+      "",
+      "minecraft:diamond"
+    ]
+  },
+  "reliquary:pedestals/cyan_pedestal": {
+    "result": "reliquary:pedestals/cyan_pedestal",
+    "count": 1,
+    "ingredients": [
+      "minecraft:diamond",
+      "",
+      "minecraft:diamond",
+      "",
+      "reliquary:pedestals/passive/cyan_passive_pedestal",
+      "",
+      "minecraft:diamond",
+      "",
+      "minecraft:diamond"
+    ]
+  },
+  "reliquary:pedestals/gray_pedestal": {
+    "result": "reliquary:pedestals/gray_pedestal",
+    "count": 1,
+    "ingredients": [
+      "minecraft:diamond",
+      "",
+      "minecraft:diamond",
+      "",
+      "reliquary:pedestals/passive/gray_passive_pedestal",
+      "",
+      "minecraft:diamond",
+      "",
+      "minecraft:diamond"
+    ]
+  },
+  "reliquary:pedestals/green_pedestal": {
+    "result": "reliquary:pedestals/green_pedestal",
+    "count": 1,
+    "ingredients": [
+      "minecraft:diamond",
+      "",
+      "minecraft:diamond",
+      "",
+      "reliquary:pedestals/passive/green_passive_pedestal",
+      "",
+      "minecraft:diamond",
+      "",
+      "minecraft:diamond"
+    ]
+  },
+  "reliquary:pedestals/light_blue_pedestal": {
+    "result": "reliquary:pedestals/light_blue_pedestal",
+    "count": 1,
+    "ingredients": [
+      "minecraft:diamond",
+      "",
+      "minecraft:diamond",
+      "",
+      "reliquary:pedestals/passive/light_blue_passive_pedestal",
+      "",
+      "minecraft:diamond",
+      "",
+      "minecraft:diamond"
+    ]
+  },
+  "reliquary:pedestals/light_gray_pedestal": {
+    "result": "reliquary:pedestals/light_gray_pedestal",
+    "count": 1,
+    "ingredients": [
+      "minecraft:diamond",
+      "",
+      "minecraft:diamond",
+      "",
+      "reliquary:pedestals/passive/light_gray_passive_pedestal",
+      "",
+      "minecraft:diamond",
+      "",
+      "minecraft:diamond"
+    ]
+  },
+  "reliquary:pedestals/lime_pedestal": {
+    "result": "reliquary:pedestals/lime_pedestal",
+    "count": 1,
+    "ingredients": [
+      "minecraft:diamond",
+      "",
+      "minecraft:diamond",
+      "",
+      "reliquary:pedestals/passive/lime_passive_pedestal",
+      "",
+      "minecraft:diamond",
+      "",
+      "minecraft:diamond"
+    ]
+  },
+  "reliquary:pedestals/magenta_pedestal": {
+    "result": "reliquary:pedestals/magenta_pedestal",
+    "count": 1,
+    "ingredients": [
+      "minecraft:diamond",
+      "",
+      "minecraft:diamond",
+      "",
+      "reliquary:pedestals/passive/magenta_passive_pedestal",
+      "",
+      "minecraft:diamond",
+      "",
+      "minecraft:diamond"
+    ]
+  },
+  "reliquary:pedestals/orange_pedestal": {
+    "result": "reliquary:pedestals/orange_pedestal",
+    "count": 1,
+    "ingredients": [
+      "minecraft:diamond",
+      "",
+      "minecraft:diamond",
+      "",
+      "reliquary:pedestals/passive/orange_passive_pedestal",
+      "",
+      "minecraft:diamond",
+      "",
+      "minecraft:diamond"
+    ]
+  },
+  "reliquary:pedestals/pink_pedestal": {
+    "result": "reliquary:pedestals/pink_pedestal",
+    "count": 1,
+    "ingredients": [
+      "minecraft:diamond",
+      "",
+      "minecraft:diamond",
+      "",
+      "reliquary:pedestals/passive/pink_passive_pedestal",
+      "",
+      "minecraft:diamond",
+      "",
+      "minecraft:diamond"
+    ]
+  },
+  "reliquary:pedestals/purple_pedestal": {
+    "result": "reliquary:pedestals/purple_pedestal",
+    "count": 1,
+    "ingredients": [
+      "minecraft:diamond",
+      "",
+      "minecraft:diamond",
+      "",
+      "reliquary:pedestals/passive/purple_passive_pedestal",
+      "",
+      "minecraft:diamond",
+      "",
+      "minecraft:diamond"
+    ]
+  },
+  "reliquary:pedestals/red_pedestal": {
+    "result": "reliquary:pedestals/red_pedestal",
+    "count": 1,
+    "ingredients": [
+      "minecraft:diamond",
+      "",
+      "minecraft:diamond",
+      "",
+      "reliquary:pedestals/passive/red_passive_pedestal",
+      "",
+      "minecraft:diamond",
+      "",
+      "minecraft:diamond"
+    ]
+  },
+  "reliquary:pedestals/white_pedestal": {
+    "result": "reliquary:pedestals/white_pedestal",
+    "count": 1,
+    "ingredients": [
+      "minecraft:diamond",
+      "",
+      "minecraft:diamond",
+      "",
+      "reliquary:pedestals/passive/white_passive_pedestal",
+      "",
+      "minecraft:diamond",
+      "",
+      "minecraft:diamond"
+    ]
+  },
+  "reliquary:pedestals/yellow_pedestal": {
+    "result": "reliquary:pedestals/yellow_pedestal",
+    "count": 1,
+    "ingredients": [
+      "minecraft:diamond",
+      "",
+      "minecraft:diamond",
+      "",
+      "reliquary:pedestals/passive/yellow_passive_pedestal",
+      "",
+      "minecraft:diamond",
+      "",
+      "minecraft:diamond"
+    ]
+  },
+  "reliquary:pedestals/passive/black_passive_pedestal": {
+    "result": "reliquary:pedestals/passive/black_passive_pedestal",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:black_carpet",
+      "",
+      "minecraft:gold",
+      "minecraft:quartz_block",
+      "minecraft:gold",
+      "minecraft:quartz_slab",
+      "minecraft:quartz_slab",
+      "minecraft:quartz_slab"
+    ]
+  },
+  "reliquary:pedestals/passive/blue_passive_pedestal": {
+    "result": "reliquary:pedestals/passive/blue_passive_pedestal",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:blue_carpet",
+      "",
+      "minecraft:gold",
+      "minecraft:quartz_block",
+      "minecraft:gold",
+      "minecraft:quartz_slab",
+      "minecraft:quartz_slab",
+      "minecraft:quartz_slab"
+    ]
+  },
+  "reliquary:pedestals/passive/brown_passive_pedestal": {
+    "result": "reliquary:pedestals/passive/brown_passive_pedestal",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:brown_carpet",
+      "",
+      "minecraft:gold",
+      "minecraft:quartz_block",
+      "minecraft:gold",
+      "minecraft:quartz_slab",
+      "minecraft:quartz_slab",
+      "minecraft:quartz_slab"
+    ]
+  },
+  "reliquary:pedestals/passive/cyan_passive_pedestal": {
+    "result": "reliquary:pedestals/passive/cyan_passive_pedestal",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:cyan_carpet",
+      "",
+      "minecraft:gold",
+      "minecraft:quartz_block",
+      "minecraft:gold",
+      "minecraft:quartz_slab",
+      "minecraft:quartz_slab",
+      "minecraft:quartz_slab"
+    ]
+  },
+  "reliquary:pedestals/passive/gray_passive_pedestal": {
+    "result": "reliquary:pedestals/passive/gray_passive_pedestal",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:gray_carpet",
+      "",
+      "minecraft:gold",
+      "minecraft:quartz_block",
+      "minecraft:gold",
+      "minecraft:quartz_slab",
+      "minecraft:quartz_slab",
+      "minecraft:quartz_slab"
+    ]
+  },
+  "reliquary:pedestals/passive/green_passive_pedestal": {
+    "result": "reliquary:pedestals/passive/green_passive_pedestal",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:green_carpet",
+      "",
+      "minecraft:gold",
+      "minecraft:quartz_block",
+      "minecraft:gold",
+      "minecraft:quartz_slab",
+      "minecraft:quartz_slab",
+      "minecraft:quartz_slab"
+    ]
+  },
+  "reliquary:pedestals/passive/light_blue_passive_pedestal": {
+    "result": "reliquary:pedestals/passive/light_blue_passive_pedestal",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:light_blue_carpet",
+      "",
+      "minecraft:gold",
+      "minecraft:quartz_block",
+      "minecraft:gold",
+      "minecraft:quartz_slab",
+      "minecraft:quartz_slab",
+      "minecraft:quartz_slab"
+    ]
+  },
+  "reliquary:pedestals/passive/light_gray_passive_pedestal": {
+    "result": "reliquary:pedestals/passive/light_gray_passive_pedestal",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:light_gray_carpet",
+      "",
+      "minecraft:gold",
+      "minecraft:quartz_block",
+      "minecraft:gold",
+      "minecraft:quartz_slab",
+      "minecraft:quartz_slab",
+      "minecraft:quartz_slab"
+    ]
+  },
+  "reliquary:pedestals/passive/lime_passive_pedestal": {
+    "result": "reliquary:pedestals/passive/lime_passive_pedestal",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:lime_carpet",
+      "",
+      "minecraft:gold",
+      "minecraft:quartz_block",
+      "minecraft:gold",
+      "minecraft:quartz_slab",
+      "minecraft:quartz_slab",
+      "minecraft:quartz_slab"
+    ]
+  },
+  "reliquary:pedestals/passive/magenta_passive_pedestal": {
+    "result": "reliquary:pedestals/passive/magenta_passive_pedestal",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:magenta_carpet",
+      "",
+      "minecraft:gold",
+      "minecraft:quartz_block",
+      "minecraft:gold",
+      "minecraft:quartz_slab",
+      "minecraft:quartz_slab",
+      "minecraft:quartz_slab"
+    ]
+  },
+  "reliquary:pedestals/passive/orange_passive_pedestal": {
+    "result": "reliquary:pedestals/passive/orange_passive_pedestal",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:orange_carpet",
+      "",
+      "minecraft:gold",
+      "minecraft:quartz_block",
+      "minecraft:gold",
+      "minecraft:quartz_slab",
+      "minecraft:quartz_slab",
+      "minecraft:quartz_slab"
+    ]
+  },
+  "reliquary:pedestals/passive/pink_passive_pedestal": {
+    "result": "reliquary:pedestals/passive/pink_passive_pedestal",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:pink_carpet",
+      "",
+      "minecraft:gold",
+      "minecraft:quartz_block",
+      "minecraft:gold",
+      "minecraft:quartz_slab",
+      "minecraft:quartz_slab",
+      "minecraft:quartz_slab"
+    ]
+  },
+  "reliquary:pedestals/passive/purple_passive_pedestal": {
+    "result": "reliquary:pedestals/passive/purple_passive_pedestal",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:purple_carpet",
+      "",
+      "minecraft:gold",
+      "minecraft:quartz_block",
+      "minecraft:gold",
+      "minecraft:quartz_slab",
+      "minecraft:quartz_slab",
+      "minecraft:quartz_slab"
+    ]
+  },
+  "reliquary:pedestals/passive/red_passive_pedestal": {
+    "result": "reliquary:pedestals/passive/red_passive_pedestal",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:red_carpet",
+      "",
+      "minecraft:gold",
+      "minecraft:quartz_block",
+      "minecraft:gold",
+      "minecraft:quartz_slab",
+      "minecraft:quartz_slab",
+      "minecraft:quartz_slab"
+    ]
+  },
+  "reliquary:pedestals/passive/white_passive_pedestal": {
+    "result": "reliquary:pedestals/passive/white_passive_pedestal",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:white_carpet",
+      "",
+      "minecraft:gold",
+      "minecraft:quartz_block",
+      "minecraft:gold",
+      "minecraft:quartz_slab",
+      "minecraft:quartz_slab",
+      "minecraft:quartz_slab"
+    ]
+  },
+  "reliquary:pedestals/passive/yellow_passive_pedestal": {
+    "result": "reliquary:pedestals/passive/yellow_passive_pedestal",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:yellow_carpet",
+      "",
+      "minecraft:gold",
+      "minecraft:quartz_block",
+      "minecraft:gold",
+      "minecraft:quartz_slab",
+      "minecraft:quartz_slab",
+      "minecraft:quartz_slab"
+    ]
+  },
+  "rftoolspower:pearl_injector": {
+    "result": "rftoolspower:pearl_injector",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:chest",
+      "",
+      "minecraft:redstone",
+      "rftoolsbase:machine_frame",
+      "minecraft:redstone",
+      "",
+      "minecraft:hopper",
+      ""
+    ]
+  },
+  "rootsclassic:pestle": {
+    "result": "rootsclassic:pestle",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "minecraft:diorite",
+      "minecraft:diorite",
+      "minecraft:diorite",
+      "",
+      "minecraft:diorite",
+      "minecraft:diorite",
+      ""
+    ]
+  },
+  "silentgems:pearl": {
+    "result": "silentgems:pearl",
+    "count": 9,
+    "ingredients": [
+      "silentgems:pearl_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgems:pearl_bricks": {
+    "result": "silentgems:pearl_bricks",
+    "count": 12,
+    "ingredients": [
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:pearl",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks"
+    ]
+  },
+  "silentgems:pearl_block": {
+    "result": "silentgems:pearl_block",
+    "count": 1,
+    "ingredients": [
+      "silentgems:pearl",
+      "silentgems:pearl",
+      "silentgems:pearl",
+      "silentgems:pearl",
+      "silentgems:pearl",
+      "silentgems:pearl",
+      "silentgems:pearl",
+      "silentgems:pearl",
+      "silentgems:pearl"
+    ]
+  },
+  "silentgems:pearl_glass": {
+    "result": "silentgems:pearl_glass",
+    "count": 12,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:pearl",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass"
+    ]
+  },
+  "silentgems:pearl_lamp": {
+    "result": "silentgems:pearl_lamp",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:pearl",
+      "minecraft:stone",
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:redstone"
+    ]
+  },
+  "silentgems:pearl_lamp_inverted_on": {
+    "result": "silentgems:pearl_lamp_inverted_on",
+    "count": 1,
+    "ingredients": [
+      "silentgems:pearl_lamp",
+      "minecraft:redstone_torch",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgems:pearl_redstone_teleporter": {
+    "result": "silentgems:pearl_redstone_teleporter",
+    "count": 1,
+    "ingredients": [
+      "silentgems:pearl_teleporter",
+      "minecraft:redstone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgems:pearl_small_bricks": {
+    "result": "silentgems:pearl_small_bricks",
+    "count": 12,
+    "ingredients": [
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:pearl",
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:bricks"
+    ]
+  },
+  "silentgems:pearl_teleporter": {
+    "result": "silentgems:pearl_teleporter",
+    "count": 2,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "minecraft:pearl",
+      "minecraft:gold_ingot",
+      "minecraft:pearl",
+      "silentgems:chaos_essence_block",
+      "minecraft:pearl",
+      "",
+      "minecraft:ender_pearl",
+      ""
+    ]
+  },
+  "silentgems:pearl_tiles": {
+    "result": "silentgems:pearl_tiles",
+    "count": 12,
+    "ingredients": [
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:pearl",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles"
+    ]
+  },
+  "silentgems:peridot": {
+    "result": "silentgems:peridot",
+    "count": 9,
+    "ingredients": [
+      "silentgems:peridot_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgems:peridot_bricks": {
+    "result": "silentgems:peridot_bricks",
+    "count": 12,
+    "ingredients": [
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:peridot",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks"
+    ]
+  },
+  "silentgems:peridot_block": {
+    "result": "silentgems:peridot_block",
+    "count": 1,
+    "ingredients": [
+      "silentgems:peridot",
+      "silentgems:peridot",
+      "silentgems:peridot",
+      "silentgems:peridot",
+      "silentgems:peridot",
+      "silentgems:peridot",
+      "silentgems:peridot",
+      "silentgems:peridot",
+      "silentgems:peridot"
+    ]
+  },
+  "silentgems:peridot_glass": {
+    "result": "silentgems:peridot_glass",
+    "count": 12,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:peridot",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass"
+    ]
+  },
+  "silentgems:peridot_lamp": {
+    "result": "silentgems:peridot_lamp",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:peridot",
+      "minecraft:stone",
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:redstone"
+    ]
+  },
+  "silentgems:peridot_lamp_inverted_on": {
+    "result": "silentgems:peridot_lamp_inverted_on",
+    "count": 1,
+    "ingredients": [
+      "silentgems:peridot_lamp",
+      "minecraft:redstone_torch",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgems:peridot_redstone_teleporter": {
+    "result": "silentgems:peridot_redstone_teleporter",
+    "count": 1,
+    "ingredients": [
+      "silentgems:peridot_teleporter",
+      "minecraft:redstone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgems:peridot_small_bricks": {
+    "result": "silentgems:peridot_small_bricks",
+    "count": 12,
+    "ingredients": [
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:peridot",
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:bricks"
+    ]
+  },
+  "silentgems:peridot_teleporter": {
+    "result": "silentgems:peridot_teleporter",
+    "count": 2,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "minecraft:peridot",
+      "minecraft:gold_ingot",
+      "minecraft:peridot",
+      "silentgems:chaos_essence_block",
+      "minecraft:peridot",
+      "",
+      "minecraft:ender_pearl",
+      ""
+    ]
+  },
+  "silentgems:peridot_tiles": {
+    "result": "silentgems:peridot_tiles",
+    "count": 12,
+    "ingredients": [
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:peridot",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles"
+    ]
+  },
+  "supplementaries:pedestal": {
+    "result": "supplementaries:pedestal",
+    "count": 2,
+    "ingredients": [
+      "minecraft:stone_brick_slab",
+      "minecraft:stone_brick_slab",
+      "minecraft:stone_brick_slab",
+      "",
+      "minecraft:stone_bricks",
+      "",
+      "minecraft:stone_brick_slab",
+      "minecraft:stone_brick_slab",
+      "minecraft:stone_brick_slab"
+    ]
+  }
+}

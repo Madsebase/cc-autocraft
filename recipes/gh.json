@@ -1,0 +1,182 @@
+{
+  "ars_nouveau:ghostweave": {
+    "result": "ars_nouveau:ghostweave",
+    "count": 8,
+    "ingredients": [
+      "ars_nouveau:magebloom_block",
+      "ars_nouveau:magebloom_block",
+      "ars_nouveau:magebloom_block",
+      "ars_nouveau:magebloom_block",
+      "ars_nouveau:abjuration_essence",
+      "ars_nouveau:magebloom_block",
+      "ars_nouveau:magebloom_block",
+      "ars_nouveau:magebloom_block",
+      "ars_nouveau:magebloom_block"
+    ]
+  },
+  "glassential:ghostly_door": {
+    "result": "glassential:ghostly_door",
+    "count": 3,
+    "ingredients": [
+      "glassential:glass_ghostly",
+      "glassential:glass_ghostly",
+      "",
+      "glassential:glass_ghostly",
+      "glassential:glass_ghostly",
+      "",
+      "glassential:glass_ghostly",
+      "glassential:glass_ghostly",
+      ""
+    ]
+  },
+  "glassential:ghostly_trapdoor": {
+    "result": "glassential:ghostly_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "glassential:glass_ghostly",
+      "glassential:glass_ghostly",
+      "",
+      "glassential:glass_ghostly",
+      "glassential:glass_ghostly",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:ghast_tear": {
+    "result": "minecraft:ghast_tear",
+    "count": 1,
+    "ingredients": [
+      "reliquary:catalyzing_gland",
+      "reliquary:catalyzing_gland",
+      "reliquary:catalyzing_gland",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:ghost_chest": {
+    "result": "iceandfire:ghost_chest",
+    "count": 1,
+    "ingredients": [
+      "",
+      "iceandfire:ectoplasm",
+      "",
+      "iceandfire:ectoplasm",
+      "minecraft:stick",
+      "iceandfire:ectoplasm",
+      "",
+      "iceandfire:ectoplasm",
+      ""
+    ]
+  },
+  "iceandfire:ghost_sword": {
+    "result": "iceandfire:ghost_sword",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonbone_sword",
+      "iceandfire:ghost_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwholidays:ghost": {
+    "result": "mcwholidays:ghost",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:white_wool",
+      "",
+      "minecraft:white_carpet",
+      "minecraft:white_wool",
+      "minecraft:white_carpet",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwholidays:ghost_balloon": {
+    "result": "mcwholidays:ghost_balloon",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black_dye",
+      "",
+      "",
+      "minecraft:white_wool",
+      "",
+      "",
+      "minecraft:string",
+      "",
+      ""
+    ]
+  },
+  "mcwholidays:ghost_doormat": {
+    "result": "mcwholidays:ghost_doormat",
+    "count": 8,
+    "ingredients": [
+      "minecraft:brown_carpet",
+      "minecraft:brown_carpet",
+      "minecraft:brown_carpet",
+      "minecraft:brown_carpet",
+      "minecraft:white_dye",
+      "minecraft:brown_carpet",
+      "minecraft:brown_carpet",
+      "minecraft:brown_carpet",
+      "minecraft:brown_carpet"
+    ]
+  },
+  "mcwholidays:ghost_wall_deco_1": {
+    "result": "mcwholidays:ghost_wall_deco_1",
+    "count": 1,
+    "ingredients": [
+      "minecraft:paper",
+      "",
+      "",
+      "minecraft:white_dye",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwholidays:ghost_wall_deco_2": {
+    "result": "mcwholidays:ghost_wall_deco_2",
+    "count": 1,
+    "ingredients": [
+      "mcwholidays:ghost_wall_deco_1",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:gherkinitem": {
+    "result": "pamhc2foodextended:gherkinitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:vinegar",
+      "minecraft:salt",
+      "minecraft:spiceleaf",
+      "minecraft:cucumber",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

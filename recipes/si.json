@@ -1,0 +1,2672 @@
+{
+  "actuallyadditions:single_battery": {
+    "result": "actuallyadditions:single_battery",
+    "count": 1,
+    "ingredients": [
+      "",
+      "actuallyadditions:restonia_crystal",
+      "",
+      "actuallyadditions:enori_crystal",
+      "actuallyadditions:advanced_coil",
+      "actuallyadditions:enori_crystal",
+      "actuallyadditions:enori_crystal",
+      "actuallyadditions:enori_crystal",
+      "actuallyadditions:enori_crystal"
+    ]
+  },
+  "allthecompressed:signalum_block_1x": {
+    "result": "allthecompressed:signalum_block_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:signalum_block_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:signalum_block_2x": {
+    "result": "allthecompressed:signalum_block_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:signalum_block_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:signalum_block_3x": {
+    "result": "allthecompressed:signalum_block_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:signalum_block_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:signalum_block_4x": {
+    "result": "allthecompressed:signalum_block_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:signalum_block_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:signalum_block_5x": {
+    "result": "allthecompressed:signalum_block_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:signalum_block_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:signalum_block_6x": {
+    "result": "allthecompressed:signalum_block_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:signalum_block_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:signalum_block_7x": {
+    "result": "allthecompressed:signalum_block_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:signalum_block_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:signalum_block_8x": {
+    "result": "allthecompressed:signalum_block_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:signalum_block_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:signalum_block_9x": {
+    "result": "allthecompressed:signalum_block_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:signalum_block_8x",
+      "allthecompressed:signalum_block_8x",
+      "allthecompressed:signalum_block_8x",
+      "allthecompressed:signalum_block_8x",
+      "allthecompressed:signalum_block_8x",
+      "allthecompressed:signalum_block_8x",
+      "allthecompressed:signalum_block_8x",
+      "allthecompressed:signalum_block_8x",
+      "allthecompressed:signalum_block_8x"
+    ]
+  },
+  "allthecompressed:silicon_block_1x": {
+    "result": "allthecompressed:silicon_block_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:silicon_block_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:silicon_block_2x": {
+    "result": "allthecompressed:silicon_block_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:silicon_block_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:silicon_block_3x": {
+    "result": "allthecompressed:silicon_block_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:silicon_block_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:silicon_block_4x": {
+    "result": "allthecompressed:silicon_block_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:silicon_block_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:silicon_block_5x": {
+    "result": "allthecompressed:silicon_block_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:silicon_block_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:silicon_block_6x": {
+    "result": "allthecompressed:silicon_block_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:silicon_block_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:silicon_block_7x": {
+    "result": "allthecompressed:silicon_block_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:silicon_block_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:silicon_block_8x": {
+    "result": "allthecompressed:silicon_block_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:silicon_block_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:silicon_block_9x": {
+    "result": "allthecompressed:silicon_block_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:silicon_block_8x",
+      "allthecompressed:silicon_block_8x",
+      "allthecompressed:silicon_block_8x",
+      "allthecompressed:silicon_block_8x",
+      "allthecompressed:silicon_block_8x",
+      "allthecompressed:silicon_block_8x",
+      "allthecompressed:silicon_block_8x",
+      "allthecompressed:silicon_block_8x",
+      "allthecompressed:silicon_block_8x"
+    ]
+  },
+  "allthecompressed:silver_block_1x": {
+    "result": "allthecompressed:silver_block_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:silver_block_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:silver_block_2x": {
+    "result": "allthecompressed:silver_block_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:silver_block_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:silver_block_3x": {
+    "result": "allthecompressed:silver_block_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:silver_block_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:silver_block_4x": {
+    "result": "allthecompressed:silver_block_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:silver_block_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:silver_block_5x": {
+    "result": "allthecompressed:silver_block_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:silver_block_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:silver_block_6x": {
+    "result": "allthecompressed:silver_block_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:silver_block_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:silver_block_7x": {
+    "result": "allthecompressed:silver_block_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:silver_block_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:silver_block_8x": {
+    "result": "allthecompressed:silver_block_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:silver_block_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:silver_block_9x": {
+    "result": "allthecompressed:silver_block_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:silver_block_8x",
+      "allthecompressed:silver_block_8x",
+      "allthecompressed:silver_block_8x",
+      "allthecompressed:silver_block_8x",
+      "allthecompressed:silver_block_8x",
+      "allthecompressed:silver_block_8x",
+      "allthecompressed:silver_block_8x",
+      "allthecompressed:silver_block_8x",
+      "allthecompressed:silver_block_8x"
+    ]
+  },
+  "alltheores:signalum_block": {
+    "result": "alltheores:signalum_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:signalum",
+      "minecraft:signalum",
+      "minecraft:signalum",
+      "minecraft:signalum",
+      "minecraft:signalum",
+      "minecraft:signalum",
+      "minecraft:signalum",
+      "minecraft:signalum",
+      "minecraft:signalum"
+    ]
+  },
+  "extendedae:silicon_block": {
+    "result": "extendedae:silicon_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:silicon",
+      "minecraft:silicon",
+      "minecraft:silicon",
+      "minecraft:silicon",
+      "ae2:silicon",
+      "minecraft:silicon",
+      "minecraft:silicon",
+      "minecraft:silicon",
+      "minecraft:silicon"
+    ]
+  },
+  "alltheores:silver_block": {
+    "result": "alltheores:silver_block",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot"
+    ]
+  },
+  "alltheores:signalum_dust": {
+    "result": "alltheores:signalum_dust",
+    "count": 4,
+    "ingredients": [
+      "alltheores:copper_dust",
+      "alltheores:copper_dust",
+      "alltheores:copper_dust",
+      "minecraft:silver",
+      "minecraft:redstone",
+      "minecraft:redstone",
+      "minecraft:redstone",
+      "minecraft:redstone",
+      ""
+    ]
+  },
+  "alltheores:silver_dust": {
+    "result": "alltheores:silver_dust",
+    "count": 2,
+    "ingredients": [
+      "minecraft:ore_hammers",
+      "minecraft:silver",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "alltheores:signalum_gear": {
+    "result": "alltheores:signalum_gear",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:signalum",
+      "",
+      "minecraft:signalum",
+      "minecraft:iron",
+      "minecraft:signalum",
+      "",
+      "minecraft:signalum",
+      ""
+    ]
+  },
+  "alltheores:signalum_ingot": {
+    "result": "alltheores:signalum_ingot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:signalum",
+      "minecraft:signalum",
+      "minecraft:signalum",
+      "minecraft:signalum",
+      "minecraft:signalum",
+      "minecraft:signalum",
+      "minecraft:signalum",
+      "minecraft:signalum",
+      "minecraft:signalum"
+    ]
+  },
+  "alltheores:signalum_nugget": {
+    "result": "alltheores:signalum_nugget",
+    "count": 9,
+    "ingredients": [
+      "minecraft:signalum",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "alltheores:signalum_plate": {
+    "result": "alltheores:signalum_plate",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "minecraft:ore_hammers",
+      "minecraft:signalum",
+      "",
+      "minecraft:signalum",
+      "",
+      ""
+    ]
+  },
+  "alltheores:signalum_rod": {
+    "result": "alltheores:signalum_rod",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "minecraft:signalum",
+      "minecraft:ore_hammers",
+      "minecraft:signalum",
+      ""
+    ]
+  },
+  "alltheores:silver_gear": {
+    "result": "alltheores:silver_gear",
+    "count": 1,
+    "ingredients": [
+      "",
+      "modern_industrialization:silver_ingot",
+      "",
+      "modern_industrialization:silver_ingot",
+      "minecraft:iron",
+      "modern_industrialization:silver_ingot",
+      "",
+      "modern_industrialization:silver_ingot",
+      ""
+    ]
+  },
+  "alltheores:silver_ingot": {
+    "result": "alltheores:silver_ingot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:silver",
+      "minecraft:silver",
+      "minecraft:silver",
+      "minecraft:silver",
+      "minecraft:silver",
+      "minecraft:silver",
+      "minecraft:silver",
+      "minecraft:silver",
+      "minecraft:silver"
+    ]
+  },
+  "alltheores:silver_nugget": {
+    "result": "alltheores:silver_nugget",
+    "count": 9,
+    "ingredients": [
+      "modern_industrialization:silver_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "alltheores:silver_plate": {
+    "result": "alltheores:silver_plate",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "minecraft:ore_hammers",
+      "modern_industrialization:silver_ingot",
+      "",
+      "modern_industrialization:silver_ingot",
+      "",
+      ""
+    ]
+  },
+  "alltheores:silver_rod": {
+    "result": "alltheores:silver_rod",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "modern_industrialization:silver_ingot",
+      "minecraft:ore_hammers",
+      "modern_industrialization:silver_ingot",
+      ""
+    ]
+  },
+  "apotheosis:sigil_of_enhancement": {
+    "result": "apotheosis:sigil_of_enhancement",
+    "count": 4,
+    "ingredients": [
+      "apotheosis:gem_dust",
+      "apotheosis:gem_fused_slate",
+      "apotheosis:gem_dust",
+      "apotheosis:gem_fused_slate",
+      "apotheosis:mythic_material",
+      "apotheosis:gem_fused_slate",
+      "apotheosis:gem_dust",
+      "apotheosis:gem_fused_slate",
+      "apotheosis:gem_dust"
+    ]
+  },
+  "apotheosis:sigil_of_rebirth": {
+    "result": "apotheosis:sigil_of_rebirth",
+    "count": 6,
+    "ingredients": [
+      "apotheosis:gem_fused_slate",
+      "apotheosis:gem_fused_slate",
+      "apotheosis:gem_fused_slate",
+      "apotheosis:gem_dust",
+      "apotheosis:gem_dust",
+      "apotheosis:gem_dust",
+      "apotheosis:gem_fused_slate",
+      "apotheosis:gem_fused_slate",
+      "apotheosis:gem_fused_slate"
+    ]
+  },
+  "apotheosis:sigil_of_socketing": {
+    "result": "apotheosis:sigil_of_socketing",
+    "count": 3,
+    "ingredients": [
+      "apotheosis:gem_dust",
+      "minecraft:gunpowder",
+      "apotheosis:gem_dust",
+      "apotheosis:gem_fused_slate",
+      "apotheosis:gem_fused_slate",
+      "apotheosis:gem_fused_slate",
+      "apotheosis:gem_dust",
+      "minecraft:amethyst_shard",
+      "apotheosis:gem_dust"
+    ]
+  },
+  "apotheosis:sigil_of_unnaming": {
+    "result": "apotheosis:sigil_of_unnaming",
+    "count": 6,
+    "ingredients": [
+      "apotheosis:gem_fused_slate",
+      "apotheosis:gem_fused_slate",
+      "apotheosis:gem_fused_slate",
+      "minecraft:flint",
+      "minecraft:flint",
+      "minecraft:flint",
+      "apotheosis:gem_fused_slate",
+      "apotheosis:gem_fused_slate",
+      "apotheosis:gem_fused_slate"
+    ]
+  },
+  "apotheosis:sigil_of_withdrawal": {
+    "result": "apotheosis:sigil_of_withdrawal",
+    "count": 4,
+    "ingredients": [
+      "apotheosis:gem_fused_slate",
+      "minecraft:blaze_rod",
+      "apotheosis:gem_fused_slate",
+      "minecraft:ender_pearl",
+      "minecraft:lava_bucket",
+      "minecraft:ender_pearl",
+      "apotheosis:gem_fused_slate",
+      "apotheosis:gem_dust",
+      "apotheosis:gem_fused_slate"
+    ]
+  },
+  "apotheosis:simple_reforging_table": {
+    "result": "apotheosis:simple_reforging_table",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:iron_ingot",
+      "",
+      "apotheosis:gem_dust",
+      "minecraft:enchanting_table",
+      "apotheosis:gem_dust",
+      "minecraft:smooth_stone",
+      "minecraft:smooth_stone",
+      "minecraft:smooth_stone"
+    ]
+  },
+  "bibliocraft:silentgear_netherwood_bookcase": {
+    "result": "bibliocraft:silentgear_netherwood_bookcase",
+    "count": 1,
+    "ingredients": [
+      "silentgear:netherwood_planks",
+      "silentgear:netherwood_slab",
+      "silentgear:netherwood_planks",
+      "silentgear:netherwood_planks",
+      "silentgear:netherwood_slab",
+      "silentgear:netherwood_planks",
+      "silentgear:netherwood_planks",
+      "silentgear:netherwood_slab",
+      "silentgear:netherwood_planks"
+    ]
+  },
+  "bibliocraft:silentgear_netherwood_fancy_armor_stand": {
+    "result": "bibliocraft:silentgear_netherwood_fancy_armor_stand",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "silentgear:netherwood_slab",
+      "silentgear:netherwood_slab",
+      "silentgear:netherwood_slab"
+    ]
+  },
+  "bibliocraft:silentgear_netherwood_fancy_clock": {
+    "result": "bibliocraft:silentgear_netherwood_fancy_clock",
+    "count": 1,
+    "ingredients": [
+      "silentgear:netherwood_slab",
+      "minecraft:clock",
+      "silentgear:netherwood_slab",
+      "silentgear:netherwood_slab",
+      "minecraft:stick",
+      "silentgear:netherwood_slab",
+      "silentgear:netherwood_slab",
+      "minecraft:copper_ingot",
+      "silentgear:netherwood_slab"
+    ]
+  },
+  "bibliocraft:silentgear_netherwood_fancy_crafter": {
+    "result": "bibliocraft:silentgear_netherwood_fancy_crafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black",
+      "minecraft:crafting_tables",
+      "minecraft:feather",
+      "silentgear:netherwood_planks",
+      "minecraft:glass",
+      "silentgear:netherwood_planks",
+      "silentgear:netherwood_planks",
+      "minecraft:crafter",
+      "silentgear:netherwood_planks"
+    ]
+  },
+  "bibliocraft:silentgear_netherwood_fancy_sign": {
+    "result": "bibliocraft:silentgear_netherwood_fancy_sign",
+    "count": 1,
+    "ingredients": [
+      "silentgear:netherwood_planks",
+      "minecraft:paper",
+      "silentgear:netherwood_planks",
+      "silentgear:netherwood_planks",
+      "minecraft:paper",
+      "silentgear:netherwood_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "bibliocraft:silentgear_netherwood_grandfather_clock": {
+    "result": "bibliocraft:silentgear_netherwood_grandfather_clock",
+    "count": 1,
+    "ingredients": [
+      "bibliocraft:silentgear_netherwood_fancy_clock",
+      "bibliocraft:silentgear_netherwood_fancy_clock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:silentgear_netherwood_label": {
+    "result": "bibliocraft:silentgear_netherwood_label",
+    "count": 1,
+    "ingredients": [
+      "silentgear:netherwood_slab",
+      "silentgear:netherwood_slab",
+      "silentgear:netherwood_slab",
+      "silentgear:netherwood_slab",
+      "silentgear:netherwood_slab",
+      "silentgear:netherwood_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:silentgear_netherwood_potion_shelf": {
+    "result": "bibliocraft:silentgear_netherwood_potion_shelf",
+    "count": 1,
+    "ingredients": [
+      "silentgear:netherwood_slab",
+      "silentgear:netherwood_slab",
+      "silentgear:netherwood_slab",
+      "silentgear:netherwood_planks",
+      "minecraft:glass_bottle",
+      "silentgear:netherwood_planks",
+      "silentgear:netherwood_slab",
+      "silentgear:netherwood_slab",
+      "silentgear:netherwood_slab"
+    ]
+  },
+  "bibliocraft:silentgear_netherwood_shelf": {
+    "result": "bibliocraft:silentgear_netherwood_shelf",
+    "count": 1,
+    "ingredients": [
+      "silentgear:netherwood_slab",
+      "silentgear:netherwood_slab",
+      "silentgear:netherwood_slab",
+      "",
+      "silentgear:netherwood_planks",
+      "",
+      "silentgear:netherwood_slab",
+      "silentgear:netherwood_slab",
+      "silentgear:netherwood_slab"
+    ]
+  },
+  "bibliocraft:silentgear_netherwood_table": {
+    "result": "bibliocraft:silentgear_netherwood_table",
+    "count": 1,
+    "ingredients": [
+      "silentgear:netherwood_slab",
+      "silentgear:netherwood_slab",
+      "silentgear:netherwood_slab",
+      "",
+      "silentgear:netherwood_planks",
+      "",
+      "",
+      "silentgear:netherwood_planks",
+      ""
+    ]
+  },
+  "bibliocraft:silentgear_netherwood_tool_rack": {
+    "result": "bibliocraft:silentgear_netherwood_tool_rack",
+    "count": 1,
+    "ingredients": [
+      "silentgear:netherwood_slab",
+      "silentgear:netherwood_slab",
+      "silentgear:netherwood_slab",
+      "silentgear:netherwood_slab",
+      "minecraft:iron_ingot",
+      "silentgear:netherwood_slab",
+      "silentgear:netherwood_slab",
+      "silentgear:netherwood_slab",
+      "silentgear:netherwood_slab"
+    ]
+  },
+  "cookingforblockheads:sink": {
+    "result": "cookingforblockheads:sink",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:terracotta",
+      "minecraft:water_bucket",
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:terracotta"
+    ]
+  },
+  "enderio:silent_acacia_pressure_plate": {
+    "result": "enderio:silent_acacia_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:white_wool",
+      "",
+      "",
+      "minecraft:acacia_pressure_plate",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "enderio:silent_birch_pressure_plate": {
+    "result": "enderio:silent_birch_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:white_wool",
+      "",
+      "",
+      "minecraft:birch_pressure_plate",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "enderio:silent_crimson_pressure_plate": {
+    "result": "enderio:silent_crimson_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:white_wool",
+      "",
+      "",
+      "minecraft:crimson_pressure_plate",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "enderio:silent_dark_oak_pressure_plate": {
+    "result": "enderio:silent_dark_oak_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:white_wool",
+      "",
+      "",
+      "minecraft:dark_oak_pressure_plate",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "enderio:silent_dark_steel_pressure_plate": {
+    "result": "enderio:silent_dark_steel_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:white_wool",
+      "",
+      "",
+      "enderio:dark_steel_pressure_plate",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "enderio:silent_heavy_weighted_pressure_plate": {
+    "result": "enderio:silent_heavy_weighted_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:white_wool",
+      "",
+      "",
+      "minecraft:heavy_weighted_pressure_plate",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "enderio:silent_jungle_pressure_plate": {
+    "result": "enderio:silent_jungle_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:white_wool",
+      "",
+      "",
+      "minecraft:jungle_pressure_plate",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "enderio:silent_light_weighted_pressure_plate": {
+    "result": "enderio:silent_light_weighted_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:white_wool",
+      "",
+      "",
+      "minecraft:light_weighted_pressure_plate",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "enderio:silent_oak_pressure_plate": {
+    "result": "enderio:silent_oak_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:white_wool",
+      "",
+      "",
+      "minecraft:oak_pressure_plate",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "enderio:silent_polished_blackstone_pressure_plate": {
+    "result": "enderio:silent_polished_blackstone_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:white_wool",
+      "",
+      "",
+      "minecraft:polished_blackstone_pressure_plate",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "enderio:silent_soularium_pressure_plate": {
+    "result": "enderio:silent_soularium_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:white_wool",
+      "",
+      "",
+      "enderio:soularium_pressure_plate",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "enderio:silent_spruce_pressure_plate": {
+    "result": "enderio:silent_spruce_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:white_wool",
+      "",
+      "",
+      "minecraft:spruce_pressure_plate",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "enderio:silent_stone_pressure_plate": {
+    "result": "enderio:silent_stone_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:white_wool",
+      "",
+      "",
+      "minecraft:stone_pressure_plate",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "enderio:silent_warped_pressure_plate": {
+    "result": "enderio:silent_warped_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:white_wool",
+      "",
+      "",
+      "minecraft:warped_pressure_plate",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:silver_pungency_fruit": {
+    "result": "eternal_starlight:silver_pungency_fruit",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:deepsilver_ingot",
+      "eternal_starlight:deepsilver_ingot",
+      "eternal_starlight:deepsilver_ingot",
+      "eternal_starlight:deepsilver_ingot",
+      "eternal_starlight:pungency_fruit",
+      "eternal_starlight:deepsilver_ingot",
+      "eternal_starlight:deepsilver_ingot",
+      "eternal_starlight:deepsilver_ingot",
+      "eternal_starlight:deepsilver_ingot"
+    ]
+  },
+  "ae2:silicon": {
+    "result": "ae2:silicon",
+    "count": 9,
+    "ingredients": [
+      "extendedae:silicon_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "forbidden_arcanus:silver_dragon_scale": {
+    "result": "forbidden_arcanus:silver_dragon_scale",
+    "count": 1,
+    "ingredients": [
+      "forbidden_arcanus:arcane_crystal_dust",
+      "minecraft:iron_ingot",
+      "forbidden_arcanus:arcane_crystal_dust",
+      "minecraft:iron_ingot",
+      "forbidden_arcanus:dragon_scale",
+      "minecraft:iron_ingot",
+      "forbidden_arcanus:arcane_crystal_dust",
+      "minecraft:iron_ingot",
+      "forbidden_arcanus:arcane_crystal_dust"
+    ]
+  },
+  "functionalstorage:simple_compacting_drawer": {
+    "result": "functionalstorage:simple_compacting_drawer",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:drawer",
+      "minecraft:piston",
+      "minecraft:stone",
+      "minecraft:iron_ingot",
+      "minecraft:stone"
+    ]
+  },
+  "handcrafted:silverfish_trophy": {
+    "result": "handcrafted:silverfish_trophy",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:chiseled_stone_bricks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks"
+    ]
+  },
+  "hostilenetworks:sim_chamber": {
+    "result": "hostilenetworks:sim_chamber",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:glass",
+      "",
+      "minecraft:ender_pearl",
+      "minecraft:obsidians",
+      "minecraft:ender_pearl",
+      "minecraft:lapis_lazuli",
+      "minecraft:comparator",
+      "minecraft:lapis_lazuli"
+    ]
+  },
+  "iceandfire:sickly_dragon_meal": {
+    "result": "iceandfire:sickly_dragon_meal",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spider_eye",
+      "minecraft:poisonous_potato",
+      "minecraft:spider_eye",
+      "minecraft:poisonous_potato",
+      "iceandfire:dragon_meal",
+      "minecraft:poisonous_potato",
+      "minecraft:spider_eye",
+      "minecraft:poisonous_potato",
+      "minecraft:spider_eye"
+    ]
+  },
+  "iceandfire:silver_axe": {
+    "result": "iceandfire:silver_axe",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot",
+      "",
+      "modern_industrialization:silver_ingot",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "iceandfire:silver_ingot": {
+    "result": "iceandfire:silver_ingot",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:silver_nugget",
+      "iceandfire:silver_nugget",
+      "iceandfire:silver_nugget",
+      "iceandfire:silver_nugget",
+      "iceandfire:silver_nugget",
+      "iceandfire:silver_nugget",
+      "iceandfire:silver_nugget",
+      "iceandfire:silver_nugget",
+      "iceandfire:silver_nugget"
+    ]
+  },
+  "iceandfire:silver_hoe": {
+    "result": "iceandfire:silver_hoe",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "iceandfire:silver_block": {
+    "result": "iceandfire:silver_block",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:silver_ingot",
+      "iceandfire:silver_ingot",
+      "iceandfire:silver_ingot",
+      "iceandfire:silver_ingot",
+      "iceandfire:silver_ingot",
+      "iceandfire:silver_ingot",
+      "iceandfire:silver_ingot",
+      "iceandfire:silver_ingot",
+      "iceandfire:silver_ingot"
+    ]
+  },
+  "iceandfire:silver_nugget": {
+    "result": "iceandfire:silver_nugget",
+    "count": 9,
+    "ingredients": [
+      "iceandfire:silver_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:silver_pickaxe": {
+    "result": "iceandfire:silver_pickaxe",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "iceandfire:silver_pile": {
+    "result": "iceandfire:silver_pile",
+    "count": 1,
+    "ingredients": [
+      "minecraft:silver",
+      "minecraft:silver",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:silver_shovel": {
+    "result": "iceandfire:silver_shovel",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:silver_ingot",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:silver_sword": {
+    "result": "iceandfire:silver_sword",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:silver_ingot",
+      "",
+      "",
+      "modern_industrialization:silver_ingot",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:siren_flute": {
+    "result": "iceandfire:siren_flute",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:shiny_scales",
+      "iceandfire:siren_tear",
+      "iceandfire:shiny_scales",
+      "iceandfire:shiny_scales",
+      "iceandfire:dragon_flute",
+      "iceandfire:shiny_scales",
+      "iceandfire:shiny_scales",
+      "iceandfire:shiny_scales",
+      "iceandfire:shiny_scales"
+    ]
+  },
+  "immersiveengineering:siren": {
+    "result": "immersiveengineering:siren",
+    "count": 1,
+    "ingredients": [
+      "",
+      "immersiveengineering:connector_redstone",
+      "",
+      "minecraft:iron",
+      "immersiveengineering:component_iron",
+      "minecraft:iron",
+      "",
+      "minecraft:iron",
+      ""
+    ]
+  },
+  "industrialforegoing:simulated_hydroponic_bed": {
+    "result": "industrialforegoing:simulated_hydroponic_bed",
+    "count": 1,
+    "ingredients": [
+      "minecraft:plastics",
+      "industrialforegoing:hydroponic_simulation_processor",
+      "minecraft:plastics",
+      "minecraft:iron_hoe",
+      "industrialforegoing:fertilizer",
+      "minecraft:iron_hoe",
+      "minecraft:gold",
+      "minecraft:simple",
+      "minecraft:gold"
+    ]
+  },
+  "ironfurnaces:silver_furnace": {
+    "result": "ironfurnaces:silver_furnace",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot",
+      "minecraft:copper",
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot"
+    ]
+  },
+  "mcwholidays:silver_ornament": {
+    "result": "mcwholidays:silver_ornament",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:glass",
+      "",
+      "minecraft:glass",
+      "minecraft:light_gray_dye",
+      "minecraft:glass",
+      "",
+      "minecraft:glass",
+      ""
+    ]
+  },
+  "mcwholidays:single_bell": {
+    "result": "mcwholidays:single_bell",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:gold_nugget",
+      "",
+      "minecraft:gold_nugget",
+      "minecraft:gold_ingot",
+      "minecraft:gold_nugget",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot"
+    ]
+  },
+  "mcwholidays:single_potion": {
+    "result": "mcwholidays:single_potion",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:glass_bottle",
+      "",
+      "",
+      "minecraft:green_dye",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwholidays:sitting_skeleton": {
+    "result": "mcwholidays:sitting_skeleton",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:bone_block",
+      "",
+      "",
+      "minecraft:bone",
+      "",
+      "minecraft:bone",
+      "minecraft:bone",
+      "minecraft:bone"
+    ]
+  },
+  "mffs:silence_module": {
+    "result": "mffs:silence_module",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:note_block",
+      "",
+      "minecraft:note_block",
+      "mffs:focus_matrix",
+      "minecraft:note_block",
+      "",
+      "minecraft:note_block",
+      ""
+    ]
+  },
+  "minecolonies:simplequarry": {
+    "result": "minecolonies:simplequarry",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "structurize:sceptergold",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:iron_pickaxe",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:barrel",
+      "minecraft:oak_planks"
+    ]
+  },
+  "minecraft:silence_armor_trim_smithing_template": {
+    "result": "minecraft:silence_armor_trim_smithing_template",
+    "count": 2,
+    "ingredients": [
+      "minecraft:diamond",
+      "minecraft:silence_armor_trim_smithing_template",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:cobbled_deepslate",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond"
+    ]
+  },
+  "modern_industrialization:silicon_battery": {
+    "result": "modern_industrialization:silicon_battery",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:electrum_cable",
+      "minecraft:battery_alloy",
+      "modern_industrialization:electrum_cable",
+      "modern_industrialization:battery_alloy_curved_plate",
+      "minecraft:silicon",
+      "modern_industrialization:battery_alloy_curved_plate",
+      "modern_industrialization:battery_alloy_curved_plate",
+      "minecraft:silicon",
+      "modern_industrialization:battery_alloy_curved_plate"
+    ]
+  },
+  "modern_industrialization:silicon_block": {
+    "result": "modern_industrialization:silicon_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:silicon",
+      "minecraft:silicon",
+      "minecraft:silicon",
+      "minecraft:silicon",
+      "modern_industrialization:silicon_ingot",
+      "minecraft:silicon",
+      "minecraft:silicon",
+      "minecraft:silicon",
+      "minecraft:silicon"
+    ]
+  },
+  "modern_industrialization:silicon_dust": {
+    "result": "modern_industrialization:silicon_dust",
+    "count": 1,
+    "ingredients": [
+      "minecraft:silicon",
+      "minecraft:silicon",
+      "minecraft:silicon",
+      "minecraft:silicon",
+      "modern_industrialization:silicon_tiny_dust",
+      "minecraft:silicon",
+      "minecraft:silicon",
+      "minecraft:silicon",
+      "minecraft:silicon"
+    ]
+  },
+  "modern_industrialization:silicon_ingot": {
+    "result": "modern_industrialization:silicon_ingot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:silicon",
+      "minecraft:silicon",
+      "minecraft:silicon",
+      "minecraft:silicon",
+      "modern_industrialization:silicon_nugget",
+      "minecraft:silicon",
+      "minecraft:silicon",
+      "minecraft:silicon",
+      "minecraft:silicon"
+    ]
+  },
+  "modern_industrialization:silicon_nugget": {
+    "result": "modern_industrialization:silicon_nugget",
+    "count": 9,
+    "ingredients": [
+      "modern_industrialization:silicon_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:silicon_tiny_dust": {
+    "result": "modern_industrialization:silicon_tiny_dust",
+    "count": 9,
+    "ingredients": [
+      "modern_industrialization:silicon_dust",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:silver_block": {
+    "result": "modern_industrialization:silver_block",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot"
+    ]
+  },
+  "modern_industrialization:silver_cable": {
+    "result": "modern_industrialization:silver_cable",
+    "count": 3,
+    "ingredients": [
+      "modern_industrialization:rubber_sheet",
+      "modern_industrialization:rubber_sheet",
+      "modern_industrialization:rubber_sheet",
+      "modern_industrialization:silver_wire",
+      "modern_industrialization:silver_wire",
+      "modern_industrialization:silver_wire",
+      "modern_industrialization:rubber_sheet",
+      "modern_industrialization:rubber_sheet",
+      "modern_industrialization:rubber_sheet"
+    ]
+  },
+  "modern_industrialization:silver_dust": {
+    "result": "modern_industrialization:silver_dust",
+    "count": 1,
+    "ingredients": [
+      "minecraft:silver",
+      "minecraft:silver",
+      "minecraft:silver",
+      "minecraft:silver",
+      "modern_industrialization:silver_tiny_dust",
+      "minecraft:silver",
+      "minecraft:silver",
+      "minecraft:silver",
+      "minecraft:silver"
+    ]
+  },
+  "modern_industrialization:silver_ingot": {
+    "result": "modern_industrialization:silver_ingot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:silver",
+      "minecraft:silver",
+      "minecraft:silver",
+      "minecraft:silver",
+      "modern_industrialization:silver_nugget",
+      "minecraft:silver",
+      "minecraft:silver",
+      "minecraft:silver",
+      "minecraft:silver"
+    ]
+  },
+  "modern_industrialization:silver_nugget": {
+    "result": "modern_industrialization:silver_nugget",
+    "count": 9,
+    "ingredients": [
+      "modern_industrialization:silver_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:silver_tiny_dust": {
+    "result": "modern_industrialization:silver_tiny_dust",
+    "count": 9,
+    "ingredients": [
+      "modern_industrialization:silver_dust",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ae2:silicon_press": {
+    "result": "ae2:silicon_press",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:certus_quartz_essence",
+      "mysticalagriculture:certus_quartz_essence",
+      "mysticalagriculture:certus_quartz_essence",
+      "mysticalagriculture:certus_quartz_essence",
+      "ae2:silicon",
+      "mysticalagriculture:certus_quartz_essence",
+      "mysticalagriculture:certus_quartz_essence",
+      "mysticalagriculture:certus_quartz_essence",
+      "mysticalagriculture:certus_quartz_essence"
+    ]
+  },
+  "occultism:silver_block": {
+    "result": "occultism:silver_block",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot"
+    ]
+  },
+  "occultism:silver_ingot": {
+    "result": "occultism:silver_ingot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:silver",
+      "minecraft:silver",
+      "minecraft:silver",
+      "minecraft:silver",
+      "minecraft:silver",
+      "minecraft:silver",
+      "minecraft:silver",
+      "minecraft:silver",
+      "minecraft:silver"
+    ]
+  },
+  "occultism:silver_nugget": {
+    "result": "occultism:silver_nugget",
+    "count": 9,
+    "ingredients": [
+      "modern_industrialization:silver_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "occultism:silver_sacrificial_bowl": {
+    "result": "occultism:silver_sacrificial_bowl",
+    "count": 1,
+    "ingredients": [
+      "occultism:sacrificial_bowl",
+      "modern_industrialization:silver_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "oritech:silicon_block": {
+    "result": "oritech:silicon_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:silicon",
+      "minecraft:silicon",
+      "minecraft:silicon",
+      "minecraft:silicon",
+      "minecraft:silicon",
+      "minecraft:silicon",
+      "minecraft:silicon",
+      "minecraft:silicon",
+      "minecraft:silicon"
+    ]
+  },
+  "oritech:silicon": {
+    "result": "oritech:silicon",
+    "count": 9,
+    "ingredients": [
+      "minecraft:silicon",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "oritech:simple_augment_station": {
+    "result": "oritech:simple_augment_station",
+    "count": 1,
+    "ingredients": [
+      "minecraft:electrum",
+      "minecraft:electrum",
+      "minecraft:electrum",
+      "minecraft:electrum",
+      "minecraft:redstone",
+      "minecraft:electrum",
+      "minecraft:plating",
+      "minecraft:brewing_stand",
+      "minecraft:plating"
+    ]
+  },
+  "pamhc2crops:sisalseeditem": {
+    "result": "pamhc2crops:sisalseeditem",
+    "count": 1,
+    "ingredients": [
+      "pamhc2crops:sisalitem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:silkentofuitem": {
+    "result": "pamhc2foodextended:silkentofuitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:soybean",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:silver_fir_bookshelf": {
+    "result": "productivetrees:silver_fir_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:silver_fir_planks",
+      "productivetrees:silver_fir_planks",
+      "productivetrees:silver_fir_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:silver_fir_planks",
+      "productivetrees:silver_fir_planks",
+      "productivetrees:silver_fir_planks"
+    ]
+  },
+  "productivetrees:silver_lime_bookshelf": {
+    "result": "productivetrees:silver_lime_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:silver_lime_planks",
+      "productivetrees:silver_lime_planks",
+      "productivetrees:silver_lime_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:silver_lime_planks",
+      "productivetrees:silver_lime_planks",
+      "productivetrees:silver_lime_planks"
+    ]
+  },
+  "productivetrees:silver_fir_button": {
+    "result": "productivetrees:silver_fir_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:silver_fir_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:silver_lime_button": {
+    "result": "productivetrees:silver_lime_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:silver_lime_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:silver_fir_door": {
+    "result": "productivetrees:silver_fir_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:silver_fir_planks",
+      "productivetrees:silver_fir_planks",
+      "",
+      "productivetrees:silver_fir_planks",
+      "productivetrees:silver_fir_planks",
+      "",
+      "productivetrees:silver_fir_planks",
+      "productivetrees:silver_fir_planks",
+      ""
+    ]
+  },
+  "productivetrees:silver_lime_door": {
+    "result": "productivetrees:silver_lime_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:silver_lime_planks",
+      "productivetrees:silver_lime_planks",
+      "",
+      "productivetrees:silver_lime_planks",
+      "productivetrees:silver_lime_planks",
+      "",
+      "productivetrees:silver_lime_planks",
+      "productivetrees:silver_lime_planks",
+      ""
+    ]
+  },
+  "productivetrees:silver_fir_fence": {
+    "result": "productivetrees:silver_fir_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:silver_fir_planks",
+      "minecraft:stick",
+      "productivetrees:silver_fir_planks",
+      "productivetrees:silver_fir_planks",
+      "minecraft:stick",
+      "productivetrees:silver_fir_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:silver_lime_fence": {
+    "result": "productivetrees:silver_lime_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:silver_lime_planks",
+      "minecraft:stick",
+      "productivetrees:silver_lime_planks",
+      "productivetrees:silver_lime_planks",
+      "minecraft:stick",
+      "productivetrees:silver_lime_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:silver_fir_fence_gate": {
+    "result": "productivetrees:silver_fir_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:silver_fir_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:silver_fir_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:silver_lime_fence_gate": {
+    "result": "productivetrees:silver_lime_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:silver_lime_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:silver_lime_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:silver_fir_hanging_sign": {
+    "result": "productivetrees:silver_fir_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:silver_fir_planks",
+      "productivetrees:silver_fir_planks",
+      "productivetrees:silver_fir_planks",
+      "productivetrees:silver_fir_planks",
+      "productivetrees:silver_fir_planks",
+      "productivetrees:silver_fir_planks"
+    ]
+  },
+  "productivetrees:silver_lime_hanging_sign": {
+    "result": "productivetrees:silver_lime_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:silver_lime_planks",
+      "productivetrees:silver_lime_planks",
+      "productivetrees:silver_lime_planks",
+      "productivetrees:silver_lime_planks",
+      "productivetrees:silver_lime_planks",
+      "productivetrees:silver_lime_planks"
+    ]
+  },
+  "productivetrees:silver_fir_planks": {
+    "result": "productivetrees:silver_fir_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:silver_lime_planks": {
+    "result": "productivetrees:silver_lime_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:silver_fir_pressure_plate": {
+    "result": "productivetrees:silver_fir_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:silver_fir_planks",
+      "productivetrees:silver_fir_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:silver_lime_pressure_plate": {
+    "result": "productivetrees:silver_lime_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:silver_lime_planks",
+      "productivetrees:silver_lime_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:silver_fir_sign": {
+    "result": "productivetrees:silver_fir_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:silver_fir_planks",
+      "productivetrees:silver_fir_planks",
+      "productivetrees:silver_fir_planks",
+      "productivetrees:silver_fir_planks",
+      "productivetrees:silver_fir_planks",
+      "productivetrees:silver_fir_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:silver_lime_sign": {
+    "result": "productivetrees:silver_lime_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:silver_lime_planks",
+      "productivetrees:silver_lime_planks",
+      "productivetrees:silver_lime_planks",
+      "productivetrees:silver_lime_planks",
+      "productivetrees:silver_lime_planks",
+      "productivetrees:silver_lime_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:silver_fir_slab": {
+    "result": "productivetrees:silver_fir_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:silver_fir_planks",
+      "productivetrees:silver_fir_planks",
+      "productivetrees:silver_fir_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:silver_lime_slab": {
+    "result": "productivetrees:silver_lime_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:silver_lime_planks",
+      "productivetrees:silver_lime_planks",
+      "productivetrees:silver_lime_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:silver_fir_stairs": {
+    "result": "productivetrees:silver_fir_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:silver_fir_planks",
+      "",
+      "",
+      "productivetrees:silver_fir_planks",
+      "productivetrees:silver_fir_planks",
+      "",
+      "productivetrees:silver_fir_planks",
+      "productivetrees:silver_fir_planks",
+      "productivetrees:silver_fir_planks"
+    ]
+  },
+  "productivetrees:silver_lime_stairs": {
+    "result": "productivetrees:silver_lime_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:silver_lime_planks",
+      "",
+      "",
+      "productivetrees:silver_lime_planks",
+      "productivetrees:silver_lime_planks",
+      "",
+      "productivetrees:silver_lime_planks",
+      "productivetrees:silver_lime_planks",
+      "productivetrees:silver_lime_planks"
+    ]
+  },
+  "productivetrees:silver_fir_trapdoor": {
+    "result": "productivetrees:silver_fir_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:silver_fir_planks",
+      "productivetrees:silver_fir_planks",
+      "productivetrees:silver_fir_planks",
+      "productivetrees:silver_fir_planks",
+      "productivetrees:silver_fir_planks",
+      "productivetrees:silver_fir_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:silver_lime_trapdoor": {
+    "result": "productivetrees:silver_lime_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:silver_lime_planks",
+      "productivetrees:silver_lime_planks",
+      "productivetrees:silver_lime_planks",
+      "productivetrees:silver_lime_planks",
+      "productivetrees:silver_lime_planks",
+      "productivetrees:silver_lime_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:silver_fir_wood": {
+    "result": "productivetrees:silver_fir_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:silver_fir_log",
+      "productivetrees:silver_fir_log",
+      "",
+      "productivetrees:silver_fir_log",
+      "productivetrees:silver_fir_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:silver_lime_wood": {
+    "result": "productivetrees:silver_lime_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:silver_lime_log",
+      "productivetrees:silver_lime_log",
+      "",
+      "productivetrees:silver_lime_log",
+      "productivetrees:silver_lime_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:signal_block_relay_box": {
+    "result": "railcraft:signal_block_relay_box",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:redstone",
+      "",
+      "minecraft:iron_ingot",
+      "railcraft:signal_circuit",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:redstone",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "railcraft:signal_block_surveyor": {
+    "result": "railcraft:signal_block_surveyor",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:compass",
+      "",
+      "minecraft:stone_button",
+      "minecraft:glass",
+      "minecraft:stone_button",
+      "",
+      "minecraft:redstone",
+      ""
+    ]
+  },
+  "railcraft:signal_capacitor_box": {
+    "result": "railcraft:signal_capacitor_box",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:repeater",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:redstone",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:signal_circuit": {
+    "result": "railcraft:signal_circuit",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:repeater",
+      "minecraft:yellow_wool",
+      "minecraft:slime_ball",
+      "minecraft:gold_ingot",
+      "minecraft:redstone",
+      "minecraft:yellow_wool",
+      "minecraft:redstone",
+      "minecraft:lapis_lazuli"
+    ]
+  },
+  "railcraft:signal_controller_box": {
+    "result": "railcraft:signal_controller_box",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "railcraft:controller_circuit",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:redstone",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:signal_interlock_box": {
+    "result": "railcraft:signal_interlock_box",
+    "count": 1,
+    "ingredients": [
+      "",
+      "railcraft:receiver_circuit",
+      "",
+      "minecraft:iron_ingot",
+      "railcraft:controller_circuit",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:redstone",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "railcraft:signal_label": {
+    "result": "railcraft:signal_label",
+    "count": 1,
+    "ingredients": [
+      "minecraft:paper",
+      "minecraft:steel",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:signal_lamp": {
+    "result": "railcraft:signal_lamp",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glass_pane",
+      "minecraft:lime",
+      "",
+      "minecraft:glass_pane",
+      "minecraft:yellow",
+      "minecraft:glowstone_dust",
+      "minecraft:glass_pane",
+      "minecraft:red",
+      "minecraft:redstone"
+    ]
+  },
+  "railcraft:signal_receiver_box": {
+    "result": "railcraft:signal_receiver_box",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "railcraft:receiver_circuit",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:redstone",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:signal_sequencer_box": {
+    "result": "railcraft:signal_sequencer_box",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:comparator",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:redstone",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:signal_tuner": {
+    "result": "railcraft:signal_tuner",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:redstone_torch",
+      "",
+      "minecraft:stone_button",
+      "railcraft:receiver_circuit",
+      "minecraft:stone_button",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:silver_block": {
+    "result": "railcraft:silver_block",
+    "count": 1,
+    "ingredients": [
+      "railcraft:silver_ingot",
+      "railcraft:silver_ingot",
+      "railcraft:silver_ingot",
+      "railcraft:silver_ingot",
+      "railcraft:silver_ingot",
+      "railcraft:silver_ingot",
+      "railcraft:silver_ingot",
+      "railcraft:silver_ingot",
+      "railcraft:silver_ingot"
+    ]
+  },
+  "railcraft:silver_gear": {
+    "result": "railcraft:silver_gear",
+    "count": 1,
+    "ingredients": [
+      "",
+      "modern_industrialization:silver_ingot",
+      "",
+      "modern_industrialization:silver_ingot",
+      "railcraft:bushing_gear",
+      "modern_industrialization:silver_ingot",
+      "",
+      "modern_industrialization:silver_ingot",
+      ""
+    ]
+  },
+  "railcraft:silver_ingot": {
+    "result": "railcraft:silver_ingot",
+    "count": 1,
+    "ingredients": [
+      "railcraft:silver_nugget",
+      "railcraft:silver_nugget",
+      "railcraft:silver_nugget",
+      "railcraft:silver_nugget",
+      "railcraft:silver_nugget",
+      "railcraft:silver_nugget",
+      "railcraft:silver_nugget",
+      "railcraft:silver_nugget",
+      "railcraft:silver_nugget"
+    ]
+  },
+  "railcraft:silver_nugget": {
+    "result": "railcraft:silver_nugget",
+    "count": 9,
+    "ingredients": [
+      "railcraft:silver_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:silt_coarse_dirt": {
+    "result": "regions_unexplored:silt_coarse_dirt",
+    "count": 4,
+    "ingredients": [
+      "regions_unexplored:silt_dirt",
+      "minecraft:gravel",
+      "",
+      "minecraft:gravel",
+      "regions_unexplored:silt_dirt",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:silver_birch_branch": {
+    "result": "regions_unexplored:silver_birch_branch",
+    "count": 2,
+    "ingredients": [
+      "regions_unexplored:silver_birch_log",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:silver_birch_sapling": {
+    "result": "regions_unexplored:silver_birch_sapling",
+    "count": 2,
+    "ingredients": [
+      "regions_unexplored:silver_birch_shrub",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:silver_birch_shrub": {
+    "result": "regions_unexplored:silver_birch_shrub",
+    "count": 1,
+    "ingredients": [
+      "regions_unexplored:silver_birch_sapling",
+      "",
+      "",
+      "regions_unexplored:silver_birch_sapling",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:silver_birch_wood": {
+    "result": "regions_unexplored:silver_birch_wood",
+    "count": 3,
+    "ingredients": [
+      "regions_unexplored:silver_birch_log",
+      "regions_unexplored:silver_birch_log",
+      "",
+      "regions_unexplored:silver_birch_log",
+      "regions_unexplored:silver_birch_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "rftoolsutility:simple_dialer": {
+    "result": "rftoolsutility:simple_dialer",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "minecraft:redstone_block",
+      "minecraft:redstone",
+      "minecraft:redstone_torch",
+      "rftoolsbase:machine_base",
+      "minecraft:redstone_torch",
+      "minecraft:redstone",
+      "minecraft:redstone_block",
+      "minecraft:redstone"
+    ]
+  },
+  "silentgear:sickle_blueprint": {
+    "result": "silentgear:sickle_blueprint",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      "minecraft:paper",
+      "",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "silentgear:sickle_template": {
+    "result": "silentgear:sickle_template",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:template_boards",
+      "",
+      "minecraft:template_boards",
+      "minecraft:template_boards",
+      "",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "silentgear:sinew_fiber": {
+    "result": "silentgear:sinew_fiber",
+    "count": 3,
+    "ingredients": [
+      "silentgear:dried_sinew",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgems:silver_ingot": {
+    "result": "silentgems:silver_ingot",
+    "count": 1,
+    "ingredients": [
+      "silentgems:silver_nugget",
+      "silentgems:silver_nugget",
+      "silentgems:silver_nugget",
+      "silentgems:silver_nugget",
+      "silentgems:silver_nugget",
+      "silentgems:silver_nugget",
+      "silentgems:silver_nugget",
+      "silentgems:silver_nugget",
+      "silentgems:silver_nugget"
+    ]
+  },
+  "silentgems:silver_block": {
+    "result": "silentgems:silver_block",
+    "count": 1,
+    "ingredients": [
+      "silentgems:silver_ingot",
+      "silentgems:silver_ingot",
+      "silentgems:silver_ingot",
+      "silentgems:silver_ingot",
+      "silentgems:silver_ingot",
+      "silentgems:silver_ingot",
+      "silentgems:silver_ingot",
+      "silentgems:silver_ingot",
+      "silentgems:silver_ingot"
+    ]
+  },
+  "silentgems:silver_nugget": {
+    "result": "silentgems:silver_nugget",
+    "count": 9,
+    "ingredients": [
+      "silentgems:silver_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgems:silver_rod": {
+    "result": "silentgems:silver_rod",
+    "count": 4,
+    "ingredients": [
+      "modern_industrialization:silver_ingot",
+      "",
+      "",
+      "modern_industrialization:silver_ingot",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

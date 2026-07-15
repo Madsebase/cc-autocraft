@@ -1,0 +1,632 @@
+{
+  "allthecompressed:osmium_block_1x": {
+    "result": "allthecompressed:osmium_block_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:osmium_block_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:osmium_block_2x": {
+    "result": "allthecompressed:osmium_block_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:osmium_block_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:osmium_block_3x": {
+    "result": "allthecompressed:osmium_block_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:osmium_block_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:osmium_block_4x": {
+    "result": "allthecompressed:osmium_block_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:osmium_block_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:osmium_block_5x": {
+    "result": "allthecompressed:osmium_block_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:osmium_block_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:osmium_block_6x": {
+    "result": "allthecompressed:osmium_block_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:osmium_block_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:osmium_block_7x": {
+    "result": "allthecompressed:osmium_block_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:osmium_block_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:osmium_block_8x": {
+    "result": "allthecompressed:osmium_block_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:osmium_block_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:osmium_block_9x": {
+    "result": "allthecompressed:osmium_block_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:osmium_block_8x",
+      "allthecompressed:osmium_block_8x",
+      "allthecompressed:osmium_block_8x",
+      "allthecompressed:osmium_block_8x",
+      "allthecompressed:osmium_block_8x",
+      "allthecompressed:osmium_block_8x",
+      "allthecompressed:osmium_block_8x",
+      "allthecompressed:osmium_block_8x",
+      "allthecompressed:osmium_block_8x"
+    ]
+  },
+  "alltheores:osmium_block": {
+    "result": "alltheores:osmium_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:osmium",
+      "minecraft:osmium",
+      "minecraft:osmium",
+      "minecraft:osmium",
+      "minecraft:osmium",
+      "minecraft:osmium",
+      "minecraft:osmium",
+      "minecraft:osmium",
+      "minecraft:osmium"
+    ]
+  },
+  "alltheores:osmium_dust": {
+    "result": "alltheores:osmium_dust",
+    "count": 2,
+    "ingredients": [
+      "minecraft:ore_hammers",
+      "minecraft:osmium",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "alltheores:osmium_gear": {
+    "result": "alltheores:osmium_gear",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:osmium",
+      "",
+      "minecraft:osmium",
+      "minecraft:iron",
+      "minecraft:osmium",
+      "",
+      "minecraft:osmium",
+      ""
+    ]
+  },
+  "alltheores:osmium_ingot": {
+    "result": "alltheores:osmium_ingot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:osmium",
+      "minecraft:osmium",
+      "minecraft:osmium",
+      "minecraft:osmium",
+      "minecraft:osmium",
+      "minecraft:osmium",
+      "minecraft:osmium",
+      "minecraft:osmium",
+      "minecraft:osmium"
+    ]
+  },
+  "alltheores:osmium_nugget": {
+    "result": "alltheores:osmium_nugget",
+    "count": 9,
+    "ingredients": [
+      "minecraft:osmium",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "alltheores:osmium_plate": {
+    "result": "alltheores:osmium_plate",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "minecraft:ore_hammers",
+      "minecraft:osmium",
+      "",
+      "minecraft:osmium",
+      "",
+      ""
+    ]
+  },
+  "alltheores:osmium_rod": {
+    "result": "alltheores:osmium_rod",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "minecraft:osmium",
+      "minecraft:ore_hammers",
+      "minecraft:osmium",
+      ""
+    ]
+  },
+  "mekanism:osmium_compressor": {
+    "result": "mekanism:osmium_compressor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:infused",
+      "minecraft:advanced",
+      "minecraft:infused",
+      "minecraft:bucket",
+      "mekanism:steel_casing",
+      "minecraft:bucket",
+      "minecraft:infused",
+      "minecraft:advanced",
+      "minecraft:infused"
+    ]
+  },
+  "mekanismtools:osmium_shield": {
+    "result": "mekanismtools:osmium_shield",
+    "count": 1,
+    "ingredients": [
+      "minecraft:osmium",
+      "minecraft:shield",
+      "minecraft:osmium",
+      "minecraft:osmium",
+      "minecraft:osmium",
+      "minecraft:osmium",
+      "",
+      "minecraft:osmium",
+      ""
+    ]
+  },
+  "mekanismtools:osmium_boots": {
+    "result": "mekanismtools:osmium_boots",
+    "count": 1,
+    "ingredients": [
+      "minecraft:osmium",
+      "",
+      "minecraft:osmium",
+      "minecraft:osmium",
+      "",
+      "minecraft:osmium",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mekanismtools:osmium_chestplate": {
+    "result": "mekanismtools:osmium_chestplate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:osmium",
+      "",
+      "minecraft:osmium",
+      "minecraft:osmium",
+      "minecraft:osmium",
+      "minecraft:osmium",
+      "minecraft:osmium",
+      "minecraft:osmium",
+      "minecraft:osmium"
+    ]
+  },
+  "mekanismtools:osmium_helmet": {
+    "result": "mekanismtools:osmium_helmet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:osmium",
+      "minecraft:osmium",
+      "minecraft:osmium",
+      "minecraft:osmium",
+      "",
+      "minecraft:osmium",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mekanismtools:osmium_leggings": {
+    "result": "mekanismtools:osmium_leggings",
+    "count": 1,
+    "ingredients": [
+      "minecraft:osmium",
+      "minecraft:osmium",
+      "minecraft:osmium",
+      "minecraft:osmium",
+      "",
+      "minecraft:osmium",
+      "minecraft:osmium",
+      "",
+      "minecraft:osmium"
+    ]
+  },
+  "mekanismtools:osmium_axe": {
+    "result": "mekanismtools:osmium_axe",
+    "count": 1,
+    "ingredients": [
+      "minecraft:osmium",
+      "minecraft:osmium",
+      "",
+      "minecraft:osmium",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "mekanismtools:osmium_hoe": {
+    "result": "mekanismtools:osmium_hoe",
+    "count": 1,
+    "ingredients": [
+      "minecraft:osmium",
+      "minecraft:osmium",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "mekanismtools:osmium_pickaxe": {
+    "result": "mekanismtools:osmium_pickaxe",
+    "count": 1,
+    "ingredients": [
+      "minecraft:osmium",
+      "minecraft:osmium",
+      "minecraft:osmium",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "mekanismtools:osmium_shovel": {
+    "result": "mekanismtools:osmium_shovel",
+    "count": 1,
+    "ingredients": [
+      "minecraft:osmium",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "mekanismtools:osmium_sword": {
+    "result": "mekanismtools:osmium_sword",
+    "count": 1,
+    "ingredients": [
+      "minecraft:osmium",
+      "",
+      "",
+      "minecraft:osmium",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:osage_orange_bookshelf": {
+    "result": "productivetrees:osage_orange_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:osage_orange_planks",
+      "productivetrees:osage_orange_planks",
+      "productivetrees:osage_orange_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:osage_orange_planks",
+      "productivetrees:osage_orange_planks",
+      "productivetrees:osage_orange_planks"
+    ]
+  },
+  "productivetrees:osage_orange_button": {
+    "result": "productivetrees:osage_orange_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:osage_orange_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:osage_orange_crate": {
+    "result": "productivetrees:osage_orange_crate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:osage_orange",
+      "minecraft:osage_orange",
+      "minecraft:osage_orange",
+      "minecraft:osage_orange",
+      "productivetrees:osage_orange",
+      "minecraft:osage_orange",
+      "minecraft:osage_orange",
+      "minecraft:osage_orange",
+      "minecraft:osage_orange"
+    ]
+  },
+  "productivetrees:osage_orange": {
+    "result": "productivetrees:osage_orange",
+    "count": 9,
+    "ingredients": [
+      "productivetrees:osage_orange_crate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:osage_orange_door": {
+    "result": "productivetrees:osage_orange_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:osage_orange_planks",
+      "productivetrees:osage_orange_planks",
+      "",
+      "productivetrees:osage_orange_planks",
+      "productivetrees:osage_orange_planks",
+      "",
+      "productivetrees:osage_orange_planks",
+      "productivetrees:osage_orange_planks",
+      ""
+    ]
+  },
+  "productivetrees:osage_orange_fence": {
+    "result": "productivetrees:osage_orange_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:osage_orange_planks",
+      "minecraft:stick",
+      "productivetrees:osage_orange_planks",
+      "productivetrees:osage_orange_planks",
+      "minecraft:stick",
+      "productivetrees:osage_orange_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:osage_orange_fence_gate": {
+    "result": "productivetrees:osage_orange_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:osage_orange_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:osage_orange_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:osage_orange_hanging_sign": {
+    "result": "productivetrees:osage_orange_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:osage_orange_planks",
+      "productivetrees:osage_orange_planks",
+      "productivetrees:osage_orange_planks",
+      "productivetrees:osage_orange_planks",
+      "productivetrees:osage_orange_planks",
+      "productivetrees:osage_orange_planks"
+    ]
+  },
+  "productivetrees:osage_orange_planks": {
+    "result": "productivetrees:osage_orange_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:osage_orange_pressure_plate": {
+    "result": "productivetrees:osage_orange_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:osage_orange_planks",
+      "productivetrees:osage_orange_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:osage_orange_sign": {
+    "result": "productivetrees:osage_orange_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:osage_orange_planks",
+      "productivetrees:osage_orange_planks",
+      "productivetrees:osage_orange_planks",
+      "productivetrees:osage_orange_planks",
+      "productivetrees:osage_orange_planks",
+      "productivetrees:osage_orange_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:osage_orange_slab": {
+    "result": "productivetrees:osage_orange_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:osage_orange_planks",
+      "productivetrees:osage_orange_planks",
+      "productivetrees:osage_orange_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:osage_orange_stairs": {
+    "result": "productivetrees:osage_orange_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:osage_orange_planks",
+      "",
+      "",
+      "productivetrees:osage_orange_planks",
+      "productivetrees:osage_orange_planks",
+      "",
+      "productivetrees:osage_orange_planks",
+      "productivetrees:osage_orange_planks",
+      "productivetrees:osage_orange_planks"
+    ]
+  },
+  "productivetrees:osage_orange_trapdoor": {
+    "result": "productivetrees:osage_orange_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:osage_orange_planks",
+      "productivetrees:osage_orange_planks",
+      "productivetrees:osage_orange_planks",
+      "productivetrees:osage_orange_planks",
+      "productivetrees:osage_orange_planks",
+      "productivetrees:osage_orange_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:osage_orange_wood": {
+    "result": "productivetrees:osage_orange_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:osage_orange_log",
+      "productivetrees:osage_orange_log",
+      "",
+      "productivetrees:osage_orange_log",
+      "productivetrees:osage_orange_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

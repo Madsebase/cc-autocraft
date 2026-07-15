@@ -1,0 +1,692 @@
+{
+  "forbidden_arcanus:edelwood_boat": {
+    "result": "forbidden_arcanus:edelwood_boat",
+    "count": 1,
+    "ingredients": [
+      "forbidden_arcanus:edelwood_planks",
+      "",
+      "forbidden_arcanus:edelwood_planks",
+      "forbidden_arcanus:edelwood_planks",
+      "forbidden_arcanus:edelwood_planks",
+      "forbidden_arcanus:edelwood_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "forbidden_arcanus:edelwood_bucket": {
+    "result": "forbidden_arcanus:edelwood_bucket",
+    "count": 1,
+    "ingredients": [
+      "forbidden_arcanus:edelwood_planks",
+      "",
+      "forbidden_arcanus:edelwood_planks",
+      "forbidden_arcanus:edelwood_planks",
+      "",
+      "forbidden_arcanus:edelwood_planks",
+      "",
+      "forbidden_arcanus:edelwood_planks",
+      ""
+    ]
+  },
+  "forbidden_arcanus:edelwood_button": {
+    "result": "forbidden_arcanus:edelwood_button",
+    "count": 1,
+    "ingredients": [
+      "forbidden_arcanus:edelwood_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "forbidden_arcanus:edelwood_chest_boat": {
+    "result": "forbidden_arcanus:edelwood_chest_boat",
+    "count": 1,
+    "ingredients": [
+      "forbidden_arcanus:edelwood_boat",
+      "minecraft:chest",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "forbidden_arcanus:edelwood_door": {
+    "result": "forbidden_arcanus:edelwood_door",
+    "count": 3,
+    "ingredients": [
+      "forbidden_arcanus:edelwood_planks",
+      "forbidden_arcanus:edelwood_planks",
+      "",
+      "forbidden_arcanus:edelwood_planks",
+      "forbidden_arcanus:edelwood_planks",
+      "",
+      "forbidden_arcanus:edelwood_planks",
+      "forbidden_arcanus:edelwood_planks",
+      ""
+    ]
+  },
+  "forbidden_arcanus:edelwood_fence": {
+    "result": "forbidden_arcanus:edelwood_fence",
+    "count": 3,
+    "ingredients": [
+      "forbidden_arcanus:edelwood_planks",
+      "minecraft:stick",
+      "forbidden_arcanus:edelwood_planks",
+      "forbidden_arcanus:edelwood_planks",
+      "minecraft:stick",
+      "forbidden_arcanus:edelwood_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "forbidden_arcanus:edelwood_fence_gate": {
+    "result": "forbidden_arcanus:edelwood_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "forbidden_arcanus:edelwood_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "forbidden_arcanus:edelwood_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "forbidden_arcanus:edelwood_ladder": {
+    "result": "forbidden_arcanus:edelwood_ladder",
+    "count": 3,
+    "ingredients": [
+      "minecraft:stick",
+      "",
+      "minecraft:stick",
+      "minecraft:stick",
+      "forbidden_arcanus:edelwood_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "",
+      "minecraft:stick"
+    ]
+  },
+  "forbidden_arcanus:edelwood_planks": {
+    "result": "forbidden_arcanus:edelwood_planks",
+    "count": 2,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "forbidden_arcanus:edelwood_pressure_plate": {
+    "result": "forbidden_arcanus:edelwood_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "forbidden_arcanus:edelwood_planks",
+      "forbidden_arcanus:edelwood_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "forbidden_arcanus:edelwood_slab": {
+    "result": "forbidden_arcanus:edelwood_slab",
+    "count": 6,
+    "ingredients": [
+      "forbidden_arcanus:edelwood_planks",
+      "forbidden_arcanus:edelwood_planks",
+      "forbidden_arcanus:edelwood_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "forbidden_arcanus:edelwood_stairs": {
+    "result": "forbidden_arcanus:edelwood_stairs",
+    "count": 4,
+    "ingredients": [
+      "forbidden_arcanus:edelwood_planks",
+      "",
+      "",
+      "forbidden_arcanus:edelwood_planks",
+      "forbidden_arcanus:edelwood_planks",
+      "",
+      "forbidden_arcanus:edelwood_planks",
+      "forbidden_arcanus:edelwood_planks",
+      "forbidden_arcanus:edelwood_planks"
+    ]
+  },
+  "forbidden_arcanus:edelwood_trapdoor": {
+    "result": "forbidden_arcanus:edelwood_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "forbidden_arcanus:edelwood_planks",
+      "forbidden_arcanus:edelwood_planks",
+      "forbidden_arcanus:edelwood_planks",
+      "forbidden_arcanus:edelwood_planks",
+      "forbidden_arcanus:edelwood_planks",
+      "forbidden_arcanus:edelwood_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:ediblerootitem": {
+    "result": "pamhc2foodextended:ediblerootitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:spiceleaf",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "simplylight:edge_light": {
+    "result": "simplylight:edge_light",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:white_dye",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light"
+    ]
+  },
+  "simplylight:edge_light_black": {
+    "result": "simplylight:edge_light_black",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:black_dye",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light"
+    ]
+  },
+  "simplylight:edge_light_blue": {
+    "result": "simplylight:edge_light_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:blue_dye",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light"
+    ]
+  },
+  "simplylight:edge_light_brown": {
+    "result": "simplylight:edge_light_brown",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:brown_dye",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light"
+    ]
+  },
+  "simplylight:edge_light_cyan": {
+    "result": "simplylight:edge_light_cyan",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:cyan_dye",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light"
+    ]
+  },
+  "simplylight:edge_light_gray": {
+    "result": "simplylight:edge_light_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:gray_dye",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light"
+    ]
+  },
+  "simplylight:edge_light_green": {
+    "result": "simplylight:edge_light_green",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:green_dye",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light"
+    ]
+  },
+  "simplylight:edge_light_light_blue": {
+    "result": "simplylight:edge_light_light_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:light_blue_dye",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light"
+    ]
+  },
+  "simplylight:edge_light_light_gray": {
+    "result": "simplylight:edge_light_light_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:light_gray_dye",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light"
+    ]
+  },
+  "simplylight:edge_light_lime": {
+    "result": "simplylight:edge_light_lime",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:lime_dye",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light"
+    ]
+  },
+  "simplylight:edge_light_magenta": {
+    "result": "simplylight:edge_light_magenta",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:magenta_dye",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light"
+    ]
+  },
+  "simplylight:edge_light_orange": {
+    "result": "simplylight:edge_light_orange",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:orange_dye",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light"
+    ]
+  },
+  "simplylight:edge_light_pink": {
+    "result": "simplylight:edge_light_pink",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:pink_dye",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light"
+    ]
+  },
+  "simplylight:edge_light_purple": {
+    "result": "simplylight:edge_light_purple",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:purple_dye",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light"
+    ]
+  },
+  "simplylight:edge_light_red": {
+    "result": "simplylight:edge_light_red",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:red_dye",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light"
+    ]
+  },
+  "simplylight:edge_light_top": {
+    "result": "simplylight:edge_light_top",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:white_dye",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top"
+    ]
+  },
+  "simplylight:edge_light_top_black": {
+    "result": "simplylight:edge_light_top_black",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:black_dye",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top"
+    ]
+  },
+  "simplylight:edge_light_top_blue": {
+    "result": "simplylight:edge_light_top_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:blue_dye",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top"
+    ]
+  },
+  "simplylight:edge_light_top_brown": {
+    "result": "simplylight:edge_light_top_brown",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:brown_dye",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top"
+    ]
+  },
+  "simplylight:edge_light_top_cyan": {
+    "result": "simplylight:edge_light_top_cyan",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:cyan_dye",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top"
+    ]
+  },
+  "simplylight:edge_light_top_gray": {
+    "result": "simplylight:edge_light_top_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:gray_dye",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top"
+    ]
+  },
+  "simplylight:edge_light_top_green": {
+    "result": "simplylight:edge_light_top_green",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:green_dye",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top"
+    ]
+  },
+  "simplylight:edge_light_top_light_blue": {
+    "result": "simplylight:edge_light_top_light_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:light_blue_dye",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top"
+    ]
+  },
+  "simplylight:edge_light_top_light_gray": {
+    "result": "simplylight:edge_light_top_light_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:light_gray_dye",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top"
+    ]
+  },
+  "simplylight:edge_light_top_lime": {
+    "result": "simplylight:edge_light_top_lime",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:lime_dye",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top"
+    ]
+  },
+  "simplylight:edge_light_top_magenta": {
+    "result": "simplylight:edge_light_top_magenta",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:magenta_dye",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top"
+    ]
+  },
+  "simplylight:edge_light_top_orange": {
+    "result": "simplylight:edge_light_top_orange",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:orange_dye",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top"
+    ]
+  },
+  "simplylight:edge_light_top_pink": {
+    "result": "simplylight:edge_light_top_pink",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:pink_dye",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top"
+    ]
+  },
+  "simplylight:edge_light_top_purple": {
+    "result": "simplylight:edge_light_top_purple",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:purple_dye",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top"
+    ]
+  },
+  "simplylight:edge_light_top_red": {
+    "result": "simplylight:edge_light_top_red",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:red_dye",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top"
+    ]
+  },
+  "simplylight:edge_light_top_yellow": {
+    "result": "simplylight:edge_light_top_yellow",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:yellow_dye",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top",
+      "minecraft:any_edge_light_top"
+    ]
+  },
+  "simplylight:edge_light_yellow": {
+    "result": "simplylight:edge_light_yellow",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:yellow_dye",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light",
+      "minecraft:any_edge_light"
+    ]
+  }
+}

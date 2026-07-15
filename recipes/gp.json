@@ -1,0 +1,32 @@
+{
+  "pneumaticcraft:gps_area_tool": {
+    "result": "pneumaticcraft:gps_area_tool",
+    "count": 1,
+    "ingredients": [
+      "pneumaticcraft:gps_tool",
+      "pneumaticcraft:gps_tool",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pneumaticcraft:gps_tool": {
+    "result": "pneumaticcraft:gps_tool",
+    "count": 2,
+    "ingredients": [
+      "pneumaticcraft:gps_area_tool",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

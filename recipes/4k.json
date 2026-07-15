@@ -1,0 +1,62 @@
+{
+  "ae2:4k_crafting_storage": {
+    "result": "ae2:4k_crafting_storage",
+    "count": 1,
+    "ingredients": [
+      "ae2:crafting_unit",
+      "ae2:cell_component_4k",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "refinedstorage:4k_storage_block": {
+    "result": "refinedstorage:4k_storage_block",
+    "count": 1,
+    "ingredients": [
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:4k_storage_part",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:machine_casing",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:quartz_enriched_iron",
+      "minecraft:redstone",
+      "refinedstorage:quartz_enriched_iron"
+    ]
+  },
+  "refinedstorage:4k_storage_disk": {
+    "result": "refinedstorage:4k_storage_disk",
+    "count": 1,
+    "ingredients": [
+      "refinedstorage:storage_housing",
+      "refinedstorage:4k_storage_part",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "refinedstorage:4k_storage_part": {
+    "result": "refinedstorage:4k_storage_part",
+    "count": 1,
+    "ingredients": [
+      "refinedstorage:basic_processor",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:basic_processor",
+      "refinedstorage:1k_storage_part",
+      "minecraft:redstone",
+      "refinedstorage:1k_storage_part",
+      "refinedstorage:basic_processor",
+      "refinedstorage:1k_storage_part",
+      "refinedstorage:basic_processor"
+    ]
+  }
+}

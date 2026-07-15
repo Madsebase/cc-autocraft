@@ -1,0 +1,47 @@
+{
+  "cataclysm:ignitium_block": {
+    "result": "cataclysm:ignitium_block",
+    "count": 1,
+    "ingredients": [
+      "cataclysm:ignitium_ingot",
+      "cataclysm:ignitium_ingot",
+      "cataclysm:ignitium_ingot",
+      "cataclysm:ignitium_ingot",
+      "cataclysm:ignitium_ingot",
+      "cataclysm:ignitium_ingot",
+      "cataclysm:ignitium_ingot",
+      "cataclysm:ignitium_ingot",
+      "cataclysm:ignitium_ingot"
+    ]
+  },
+  "cataclysm:ignitium_ingot": {
+    "result": "cataclysm:ignitium_ingot",
+    "count": 9,
+    "ingredients": [
+      "cataclysm:ignitium_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "cataclysm:ignitium_upgrade_smithing_template": {
+    "result": "cataclysm:ignitium_upgrade_smithing_template",
+    "count": 1,
+    "ingredients": [
+      "minecraft:nether_bricks",
+      "minecraft:blaze_powder",
+      "minecraft:nether_bricks",
+      "minecraft:blaze_powder",
+      "minecraft:netherite_upgrade_smithing_template",
+      "minecraft:blaze_powder",
+      "minecraft:nether_bricks",
+      "minecraft:blaze_powder",
+      "minecraft:nether_bricks"
+    ]
+  }
+}

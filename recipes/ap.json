@@ -1,0 +1,737 @@
+{
+  "farmersdelight:apple_pie": {
+    "result": "farmersdelight:apple_pie",
+    "count": 1,
+    "ingredients": [
+      "farmersdelight:apple_pie_slice",
+      "farmersdelight:apple_pie_slice",
+      "",
+      "farmersdelight:apple_pie_slice",
+      "farmersdelight:apple_pie_slice",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "forbidden_arcanus:apply_modifier_smithing_template": {
+    "result": "forbidden_arcanus:apply_modifier_smithing_template",
+    "count": 1,
+    "ingredients": [
+      "forbidden_arcanus:darkstone",
+      "forbidden_arcanus:darkstone",
+      "forbidden_arcanus:darkstone",
+      "forbidden_arcanus:darkstone",
+      "minecraft:netherite_upgrade_smithing_template",
+      "forbidden_arcanus:darkstone",
+      "forbidden_arcanus:darkstone",
+      "forbidden_arcanus:darkstone",
+      "forbidden_arcanus:darkstone"
+    ]
+  },
+  "herbsandharvest:apple_muffin": {
+    "result": "herbsandharvest:apple_muffin",
+    "count": 8,
+    "ingredients": [
+      "minecraft:wheat",
+      "minecraft:wheat",
+      "minecraft:egg",
+      "minecraft:milk",
+      "minecraft:sugar",
+      "minecraft:butter",
+      "minecraft:apple",
+      "herbsandharvest:ground_cinnamon",
+      "minecraft:paper"
+    ]
+  },
+  "herbsandharvest:apple_pie": {
+    "result": "herbsandharvest:apple_pie",
+    "count": 1,
+    "ingredients": [
+      "minecraft:wheat",
+      "minecraft:butter",
+      "minecraft:apple",
+      "minecraft:sugar",
+      "herbsandharvest:ground_cinnamon",
+      "herbsandharvest:ground_ginger",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecolonies:apple_pie": {
+    "result": "minecolonies:apple_pie",
+    "count": 1,
+    "ingredients": [
+      "minecolonies:durum",
+      "minecolonies:durum",
+      "minecolonies:durum",
+      "minecraft:apple",
+      "minecraft:apple",
+      "minecraft:sugar",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:apple": {
+    "result": "minecraft:apple",
+    "count": 9,
+    "ingredients": [
+      "productivetrees:red_delicious_apple_crate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:appledonutitem": {
+    "result": "pamhc2foodcore:appledonutitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:cookingoil",
+      "minecraft:batter",
+      "minecraft:apple",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:applejellyitem": {
+    "result": "pamhc2foodcore:applejellyitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:applejuice",
+      "minecraft:sugar",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:applejellytoastitem": {
+    "result": "pamhc2foodcore:applejellytoastitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:toast",
+      "minecraft:applejelly",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:applejuiceitem": {
+    "result": "pamhc2foodcore:applejuiceitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_juicer",
+      "minecraft:apple",
+      "minecraft:apple",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:applemuffinitem": {
+    "result": "pamhc2foodcore:applemuffinitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:apple",
+      "minecraft:batter",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:applepieitem": {
+    "result": "pamhc2foodcore:applepieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:sugar",
+      "minecraft:apple",
+      "minecraft:dough",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:applepopsicleitem": {
+    "result": "pamhc2foodcore:applepopsicleitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:applejuice",
+      "minecraft:ices",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:applesauceitem": {
+    "result": "pamhc2foodcore:applesauceitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:apple",
+      "minecraft:apple",
+      "minecraft:sugar",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:applesmoothieitem": {
+    "result": "pamhc2foodcore:applesmoothieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:applejuice",
+      "minecraft:ices",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:appleyogurtitem": {
+    "result": "pamhc2foodcore:appleyogurtitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:yogurt",
+      "minecraft:apple",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:applecideritem": {
+    "result": "pamhc2foodextended:applecideritem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:apple",
+      "minecraft:sugar",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:applefritteritem": {
+    "result": "pamhc2foodextended:applefritteritem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:apple",
+      "minecraft:dough",
+      "minecraft:sugar",
+      "minecraft:cookingoil",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:applejellysandwichitem": {
+    "result": "pamhc2foodextended:applejellysandwichitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:applejelly",
+      "minecraft:bread",
+      "minecraft:nutbutters",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:applesnowitem": {
+    "result": "pamhc2foodextended:applesnowitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:meringue",
+      "minecraft:butter",
+      "minecraft:apple",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:apricotglazedporkitem": {
+    "result": "pamhc2foodextended:apricotglazedporkitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:rawpork",
+      "minecraft:apricotjelly",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:apricotjellyitem": {
+    "result": "pamhc2foodextended:apricotjellyitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:apricot",
+      "minecraft:sugar",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:apricotjellysandwichitem": {
+    "result": "pamhc2foodextended:apricotjellysandwichitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:apricotjelly",
+      "minecraft:bread",
+      "minecraft:nutbutters",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:apricotjellytoastitem": {
+    "result": "pamhc2foodextended:apricotjellytoastitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:apricotjelly",
+      "minecraft:toast",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:apricotjuiceitem": {
+    "result": "pamhc2foodextended:apricotjuiceitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_juicer",
+      "minecraft:apricot",
+      "minecraft:apricot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:apricotpieitem": {
+    "result": "pamhc2foodextended:apricotpieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:apricot",
+      "minecraft:sugar",
+      "minecraft:dough",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:apricotsmoothieitem": {
+    "result": "pamhc2foodextended:apricotsmoothieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:apricot",
+      "minecraft:ices",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:apricotyogurtitem": {
+    "result": "pamhc2foodextended:apricotyogurtitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:apricot",
+      "minecraft:yogurt",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2trees:apple_sapling": {
+    "result": "pamhc2trees:apple_sapling",
+    "count": 1,
+    "ingredients": [
+      "minecraft:apple",
+      "minecraft:apple",
+      "minecraft:apple",
+      "minecraft:apple",
+      "minecraft:apple",
+      "minecraft:apple",
+      "minecraft:apple",
+      "minecraft:apple",
+      "minecraft:saplings"
+    ]
+  },
+  "pamhc2trees:apricot_sapling": {
+    "result": "pamhc2trees:apricot_sapling",
+    "count": 1,
+    "ingredients": [
+      "pamhc2trees:apricotitem",
+      "pamhc2trees:apricotitem",
+      "pamhc2trees:apricotitem",
+      "pamhc2trees:apricotitem",
+      "pamhc2trees:apricotitem",
+      "pamhc2trees:apricotitem",
+      "pamhc2trees:apricotitem",
+      "pamhc2trees:apricotitem",
+      "minecraft:saplings"
+    ]
+  },
+  "pneumaticcraft:aphorism_tile": {
+    "result": "pneumaticcraft:aphorism_tile",
+    "count": 1,
+    "ingredients": [
+      "pneumaticcraft:aphorism_tile",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:apricot_bookshelf": {
+    "result": "productivetrees:apricot_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:apricot_planks",
+      "productivetrees:apricot_planks",
+      "productivetrees:apricot_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:apricot_planks",
+      "productivetrees:apricot_planks",
+      "productivetrees:apricot_planks"
+    ]
+  },
+  "productivetrees:apricot_button": {
+    "result": "productivetrees:apricot_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:apricot_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:apricot_crate": {
+    "result": "productivetrees:apricot_crate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:apricot",
+      "minecraft:apricot",
+      "minecraft:apricot",
+      "minecraft:apricot",
+      "productivetrees:apricot",
+      "minecraft:apricot",
+      "minecraft:apricot",
+      "minecraft:apricot",
+      "minecraft:apricot"
+    ]
+  },
+  "productivetrees:apricot": {
+    "result": "productivetrees:apricot",
+    "count": 9,
+    "ingredients": [
+      "productivetrees:apricot_crate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:apricot_door": {
+    "result": "productivetrees:apricot_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:apricot_planks",
+      "productivetrees:apricot_planks",
+      "",
+      "productivetrees:apricot_planks",
+      "productivetrees:apricot_planks",
+      "",
+      "productivetrees:apricot_planks",
+      "productivetrees:apricot_planks",
+      ""
+    ]
+  },
+  "productivetrees:apricot_fence": {
+    "result": "productivetrees:apricot_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:apricot_planks",
+      "minecraft:stick",
+      "productivetrees:apricot_planks",
+      "productivetrees:apricot_planks",
+      "minecraft:stick",
+      "productivetrees:apricot_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:apricot_fence_gate": {
+    "result": "productivetrees:apricot_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:apricot_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:apricot_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:apricot_hanging_sign": {
+    "result": "productivetrees:apricot_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:apricot_planks",
+      "productivetrees:apricot_planks",
+      "productivetrees:apricot_planks",
+      "productivetrees:apricot_planks",
+      "productivetrees:apricot_planks",
+      "productivetrees:apricot_planks"
+    ]
+  },
+  "productivetrees:apricot_planks": {
+    "result": "productivetrees:apricot_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:apricot_pressure_plate": {
+    "result": "productivetrees:apricot_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:apricot_planks",
+      "productivetrees:apricot_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:apricot_sign": {
+    "result": "productivetrees:apricot_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:apricot_planks",
+      "productivetrees:apricot_planks",
+      "productivetrees:apricot_planks",
+      "productivetrees:apricot_planks",
+      "productivetrees:apricot_planks",
+      "productivetrees:apricot_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:apricot_slab": {
+    "result": "productivetrees:apricot_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:apricot_planks",
+      "productivetrees:apricot_planks",
+      "productivetrees:apricot_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:apricot_stairs": {
+    "result": "productivetrees:apricot_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:apricot_planks",
+      "",
+      "",
+      "productivetrees:apricot_planks",
+      "productivetrees:apricot_planks",
+      "",
+      "productivetrees:apricot_planks",
+      "productivetrees:apricot_planks",
+      "productivetrees:apricot_planks"
+    ]
+  },
+  "productivetrees:apricot_trapdoor": {
+    "result": "productivetrees:apricot_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:apricot_planks",
+      "productivetrees:apricot_planks",
+      "productivetrees:apricot_planks",
+      "productivetrees:apricot_planks",
+      "productivetrees:apricot_planks",
+      "productivetrees:apricot_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:apricot_wood": {
+    "result": "productivetrees:apricot_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:apricot_log",
+      "productivetrees:apricot_log",
+      "",
+      "productivetrees:apricot_log",
+      "productivetrees:apricot_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "reliquary:aphrodite_potion": {
+    "result": "reliquary:aphrodite_potion",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:water_bucket",
+      "minecraft:glass",
+      "minecraft:glass",
+      "reliquary:fertile_essence",
+      "minecraft:glass",
+      "minecraft:red",
+      "minecraft:glass",
+      "minecraft:cocoa_beans"
+    ]
+  },
+  "reliquary:apothecary_cauldron": {
+    "result": "reliquary:apothecary_cauldron",
+    "count": 1,
+    "ingredients": [
+      "reliquary:catalyzing_gland",
+      "reliquary:nebulous_heart",
+      "reliquary:catalyzing_gland",
+      "reliquary:infernal_claw",
+      "minecraft:cauldron",
+      "reliquary:infernal_claw",
+      "reliquary:nebulous_heart",
+      "reliquary:molten_core",
+      "reliquary:nebulous_heart"
+    ]
+  },
+  "reliquary:apothecary_mortar": {
+    "result": "reliquary:apothecary_mortar",
+    "count": 1,
+    "ingredients": [
+      "reliquary:catalyzing_gland",
+      "minecraft:quartz_block",
+      "reliquary:catalyzing_gland",
+      "minecraft:quartz_block",
+      "reliquary:catalyzing_gland",
+      "minecraft:quartz_block",
+      "minecraft:quartz_block",
+      "minecraft:quartz_block",
+      "minecraft:quartz_block"
+    ]
+  }
+}

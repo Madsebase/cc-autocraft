@@ -1,0 +1,992 @@
+{
+  "patchouli:guide_book": {
+    "result": "patchouli:guide_book",
+    "count": 1,
+    "ingredients": [
+      "minecraft:book",
+      "minecraft:kelp",
+      "minecraft:kelp",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "herbsandharvest:guacamole": {
+    "result": "herbsandharvest:guacamole",
+    "count": 1,
+    "ingredients": [
+      "minecraft:avocado",
+      "herbsandharvest:fresh_cilantro",
+      "minecraft:lime",
+      "minecraft:tomato",
+      "minecraft:onion",
+      "minecraft:bowl",
+      "",
+      "",
+      ""
+    ]
+  },
+  "herbsandharvest:guacamole_chips": {
+    "result": "herbsandharvest:guacamole_chips",
+    "count": 1,
+    "ingredients": [
+      "herbsandharvest:guacamole",
+      "herbsandharvest:chips",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "herbsandharvest:guide_book": {
+    "result": "herbsandharvest:guide_book",
+    "count": 1,
+    "ingredients": [
+      "minecraft:writable_book",
+      "minecraft:blue_dye",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:gunpowder": {
+    "result": "minecraft:gunpowder",
+    "count": 6,
+    "ingredients": [
+      "reliquary:witch_hat",
+      "",
+      "",
+      "",
+      "reliquary:witch_hat",
+      "",
+      "",
+      "",
+      "reliquary:witch_hat"
+    ]
+  },
+  "immersiveengineering:gunpart_barrel": {
+    "result": "immersiveengineering:gunpart_barrel",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "minecraft:hammers",
+      "",
+      "minecraft:steel",
+      "",
+      "modern_industrialization:steel_ingot",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:gunpart_drum": {
+    "result": "immersiveengineering:gunpart_drum",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:steel",
+      "",
+      "minecraft:steel",
+      "minecraft:steel",
+      "minecraft:steel",
+      "",
+      "minecraft:steel",
+      ""
+    ]
+  },
+  "immersiveengineering:gunpart_hammer": {
+    "result": "immersiveengineering:gunpart_hammer",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "minecraft:flint",
+      "",
+      "minecraft:steel",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:gunpowder_barrel": {
+    "result": "immersiveengineering:gunpowder_barrel",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gunpowder",
+      "immersiveengineering:hemp_fiber",
+      "minecraft:gunpowder",
+      "minecraft:gunpowder",
+      "immersiveengineering:wooden_barrel",
+      "minecraft:gunpowder",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mahoutsukai:guidebook": {
+    "result": "mahoutsukai:guidebook",
+    "count": 1,
+    "ingredients": [
+      "minecraft:red_dye",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:red_dye",
+      "minecraft:leather",
+      "minecraft:paper",
+      "minecraft:red_dye",
+      "minecraft:red_dye",
+      "minecraft:red_dye"
+    ]
+  },
+  "mcwroofs:gutter_base": {
+    "result": "mcwroofs:gutter_base",
+    "count": 1,
+    "ingredients": [
+      "mcwroofs:rain_gutter",
+      "mcwroofs:rain_gutter",
+      "mcwroofs:rain_gutter",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:gutter_base_black": {
+    "result": "mcwroofs:gutter_base_black",
+    "count": 8,
+    "ingredients": [
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "minecraft:black_dye",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base"
+    ]
+  },
+  "mcwroofs:gutter_base_blue": {
+    "result": "mcwroofs:gutter_base_blue",
+    "count": 8,
+    "ingredients": [
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "minecraft:blue_dye",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base"
+    ]
+  },
+  "mcwroofs:gutter_base_brown": {
+    "result": "mcwroofs:gutter_base_brown",
+    "count": 8,
+    "ingredients": [
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "minecraft:brown_dye",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base"
+    ]
+  },
+  "mcwroofs:gutter_base_cyan": {
+    "result": "mcwroofs:gutter_base_cyan",
+    "count": 8,
+    "ingredients": [
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "minecraft:cyan_dye",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base"
+    ]
+  },
+  "mcwroofs:gutter_base_gray": {
+    "result": "mcwroofs:gutter_base_gray",
+    "count": 8,
+    "ingredients": [
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "minecraft:gray_dye",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base"
+    ]
+  },
+  "mcwroofs:gutter_base_green": {
+    "result": "mcwroofs:gutter_base_green",
+    "count": 8,
+    "ingredients": [
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "minecraft:green_dye",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base"
+    ]
+  },
+  "mcwroofs:gutter_base_light_blue": {
+    "result": "mcwroofs:gutter_base_light_blue",
+    "count": 8,
+    "ingredients": [
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "minecraft:light_blue_dye",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base"
+    ]
+  },
+  "mcwroofs:gutter_base_light_gray": {
+    "result": "mcwroofs:gutter_base_light_gray",
+    "count": 8,
+    "ingredients": [
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "minecraft:light_gray_dye",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base"
+    ]
+  },
+  "mcwroofs:gutter_base_lime": {
+    "result": "mcwroofs:gutter_base_lime",
+    "count": 8,
+    "ingredients": [
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "minecraft:lime_dye",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base"
+    ]
+  },
+  "mcwroofs:gutter_base_magenta": {
+    "result": "mcwroofs:gutter_base_magenta",
+    "count": 8,
+    "ingredients": [
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "minecraft:magenta_dye",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base"
+    ]
+  },
+  "mcwroofs:gutter_base_orange": {
+    "result": "mcwroofs:gutter_base_orange",
+    "count": 8,
+    "ingredients": [
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "minecraft:orange_dye",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base"
+    ]
+  },
+  "mcwroofs:gutter_base_pink": {
+    "result": "mcwroofs:gutter_base_pink",
+    "count": 8,
+    "ingredients": [
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "minecraft:pink_dye",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base"
+    ]
+  },
+  "mcwroofs:gutter_base_purple": {
+    "result": "mcwroofs:gutter_base_purple",
+    "count": 8,
+    "ingredients": [
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "minecraft:purple_dye",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base"
+    ]
+  },
+  "mcwroofs:gutter_base_red": {
+    "result": "mcwroofs:gutter_base_red",
+    "count": 8,
+    "ingredients": [
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "minecraft:red_dye",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base"
+    ]
+  },
+  "mcwroofs:gutter_base_white": {
+    "result": "mcwroofs:gutter_base_white",
+    "count": 8,
+    "ingredients": [
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "minecraft:white_dye",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base"
+    ]
+  },
+  "mcwroofs:gutter_base_yellow": {
+    "result": "mcwroofs:gutter_base_yellow",
+    "count": 8,
+    "ingredients": [
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "minecraft:yellow_dye",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base",
+      "mcwroofs:gutter_base"
+    ]
+  },
+  "mcwroofs:gutter_middle": {
+    "result": "mcwroofs:gutter_middle",
+    "count": 1,
+    "ingredients": [
+      "",
+      "mcwroofs:rain_gutter",
+      "",
+      "",
+      "mcwroofs:rain_gutter",
+      "",
+      "",
+      "mcwroofs:rain_gutter",
+      ""
+    ]
+  },
+  "mcwroofs:gutter_middle_black": {
+    "result": "mcwroofs:gutter_middle_black",
+    "count": 8,
+    "ingredients": [
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "minecraft:black_dye",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle"
+    ]
+  },
+  "mcwroofs:gutter_middle_blue": {
+    "result": "mcwroofs:gutter_middle_blue",
+    "count": 8,
+    "ingredients": [
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "minecraft:blue_dye",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle"
+    ]
+  },
+  "mcwroofs:gutter_middle_brown": {
+    "result": "mcwroofs:gutter_middle_brown",
+    "count": 8,
+    "ingredients": [
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "minecraft:brown_dye",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle"
+    ]
+  },
+  "mcwroofs:gutter_middle_cyan": {
+    "result": "mcwroofs:gutter_middle_cyan",
+    "count": 8,
+    "ingredients": [
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "minecraft:cyan_dye",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle"
+    ]
+  },
+  "mcwroofs:gutter_middle_gray": {
+    "result": "mcwroofs:gutter_middle_gray",
+    "count": 8,
+    "ingredients": [
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "minecraft:gray_dye",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle"
+    ]
+  },
+  "mcwroofs:gutter_middle_green": {
+    "result": "mcwroofs:gutter_middle_green",
+    "count": 8,
+    "ingredients": [
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "minecraft:green_dye",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle"
+    ]
+  },
+  "mcwroofs:gutter_middle_light_blue": {
+    "result": "mcwroofs:gutter_middle_light_blue",
+    "count": 8,
+    "ingredients": [
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "minecraft:light_blue_dye",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle"
+    ]
+  },
+  "mcwroofs:gutter_middle_light_gray": {
+    "result": "mcwroofs:gutter_middle_light_gray",
+    "count": 8,
+    "ingredients": [
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "minecraft:light_gray_dye",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle"
+    ]
+  },
+  "mcwroofs:gutter_middle_lime": {
+    "result": "mcwroofs:gutter_middle_lime",
+    "count": 8,
+    "ingredients": [
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "minecraft:lime_dye",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle"
+    ]
+  },
+  "mcwroofs:gutter_middle_magenta": {
+    "result": "mcwroofs:gutter_middle_magenta",
+    "count": 8,
+    "ingredients": [
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "minecraft:magenta_dye",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle"
+    ]
+  },
+  "mcwroofs:gutter_middle_orange": {
+    "result": "mcwroofs:gutter_middle_orange",
+    "count": 8,
+    "ingredients": [
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "minecraft:orange_dye",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle"
+    ]
+  },
+  "mcwroofs:gutter_middle_pink": {
+    "result": "mcwroofs:gutter_middle_pink",
+    "count": 8,
+    "ingredients": [
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "minecraft:pink_dye",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle"
+    ]
+  },
+  "mcwroofs:gutter_middle_purple": {
+    "result": "mcwroofs:gutter_middle_purple",
+    "count": 8,
+    "ingredients": [
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "minecraft:purple_dye",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle"
+    ]
+  },
+  "mcwroofs:gutter_middle_red": {
+    "result": "mcwroofs:gutter_middle_red",
+    "count": 8,
+    "ingredients": [
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "minecraft:red_dye",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle"
+    ]
+  },
+  "mcwroofs:gutter_middle_white": {
+    "result": "mcwroofs:gutter_middle_white",
+    "count": 8,
+    "ingredients": [
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "minecraft:white_dye",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle"
+    ]
+  },
+  "mcwroofs:gutter_middle_yellow": {
+    "result": "mcwroofs:gutter_middle_yellow",
+    "count": 8,
+    "ingredients": [
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "minecraft:yellow_dye",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle",
+      "mcwroofs:gutter_middle"
+    ]
+  },
+  "modern_industrialization:guidebook": {
+    "result": "modern_industrialization:guidebook",
+    "count": 1,
+    "ingredients": [
+      "minecraft:copper",
+      "minecraft:copper",
+      "minecraft:copper",
+      "minecraft:copper",
+      "minecraft:book",
+      "minecraft:copper",
+      "minecraft:copper",
+      "minecraft:copper",
+      "minecraft:copper"
+    ]
+  },
+  "pamhc2crops:guaranaseeditem": {
+    "result": "pamhc2crops:guaranaseeditem",
+    "count": 1,
+    "ingredients": [
+      "pamhc2crops:guaranaitem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:gummycreepersitem": {
+    "result": "pamhc2foodcore:gummycreepersitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:sugar",
+      "minecraft:red",
+      "minecraft:green",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:guacamoleitem": {
+    "result": "pamhc2foodextended:guacamoleitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:avocado",
+      "minecraft:chilipepper",
+      "minecraft:tomato",
+      "minecraft:onion",
+      "minecraft:spiceleaf",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:guavajellyitem": {
+    "result": "pamhc2foodextended:guavajellyitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:guava",
+      "minecraft:sugar",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:guavajellysandwichitem": {
+    "result": "pamhc2foodextended:guavajellysandwichitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:guavajelly",
+      "minecraft:bread",
+      "minecraft:nutbutters",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:guavajellytoastitem": {
+    "result": "pamhc2foodextended:guavajellytoastitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:guavajelly",
+      "minecraft:toast",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:guavajuiceitem": {
+    "result": "pamhc2foodextended:guavajuiceitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_juicer",
+      "minecraft:guava",
+      "minecraft:guava",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:guavapieitem": {
+    "result": "pamhc2foodextended:guavapieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:guava",
+      "minecraft:sugar",
+      "minecraft:dough",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:guavasmoothieitem": {
+    "result": "pamhc2foodextended:guavasmoothieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:guava",
+      "minecraft:ices",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:guavayogurtitem": {
+    "result": "pamhc2foodextended:guavayogurtitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:guava",
+      "minecraft:yogurt",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:guisoitem": {
+    "result": "pamhc2foodextended:guisoitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:rawbeef",
+      "minecraft:tomato",
+      "minecraft:pasta",
+      "minecraft:peas",
+      "minecraft:potato",
+      "minecraft:sweetpotato",
+      "minecraft:spiceleaf",
+      ""
+    ]
+  },
+  "pamhc2trees:guava_sapling": {
+    "result": "pamhc2trees:guava_sapling",
+    "count": 1,
+    "ingredients": [
+      "pamhc2trees:guavaitem",
+      "pamhc2trees:guavaitem",
+      "pamhc2trees:guavaitem",
+      "pamhc2trees:guavaitem",
+      "pamhc2trees:guavaitem",
+      "pamhc2trees:guavaitem",
+      "pamhc2trees:guavaitem",
+      "pamhc2trees:guavaitem",
+      "minecraft:saplings"
+    ]
+  },
+  "pneumaticcraft:guard_drone": {
+    "result": "pneumaticcraft:guard_drone",
+    "count": 1,
+    "ingredients": [
+      "",
+      "pneumaticcraft:turbine_rotor",
+      "",
+      "pneumaticcraft:turbine_rotor",
+      "minecraft:iron_sword",
+      "pneumaticcraft:turbine_rotor",
+      "",
+      "pneumaticcraft:turbine_rotor",
+      ""
+    ]
+  },
+  "pneumaticcraft:gun_ammo": {
+    "result": "pneumaticcraft:gun_ammo",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gunpowder",
+      "minecraft:iron_ingot",
+      "minecraft:copper_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pneumaticcraft:gun_ammo_ap": {
+    "result": "pneumaticcraft:gun_ammo_ap",
+    "count": 1,
+    "ingredients": [
+      "",
+      "pneumaticcraft:gun_ammo",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:diamond",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:diamond",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "pneumaticcraft:gun_ammo_explosive": {
+    "result": "pneumaticcraft:gun_ammo_explosive",
+    "count": 1,
+    "ingredients": [
+      "",
+      "pneumaticcraft:gun_ammo",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:tnt",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:tnt",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "pneumaticcraft:gun_ammo_freezing": {
+    "result": "pneumaticcraft:gun_ammo_freezing",
+    "count": 1,
+    "ingredients": [
+      "",
+      "pneumaticcraft:gun_ammo",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:ice",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:ice",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "pneumaticcraft:gun_ammo_incendiary": {
+    "result": "pneumaticcraft:gun_ammo_incendiary",
+    "count": 1,
+    "ingredients": [
+      "",
+      "pneumaticcraft:gun_ammo",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:blaze",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:blaze",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "pneumaticcraft:gun_ammo_weighted": {
+    "result": "pneumaticcraft:gun_ammo_weighted",
+    "count": 1,
+    "ingredients": [
+      "",
+      "pneumaticcraft:gun_ammo",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:gold",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:obsidians",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "reliquary:guardian_spike": {
+    "result": "reliquary:guardian_spike",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:prismarine_shard",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot"
+    ]
+  },
+  "silentgear:guide_book": {
+    "result": "silentgear:guide_book",
+    "count": 1,
+    "ingredients": [
+      "minecraft:book",
+      "minecraft:template_boards",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

@@ -1,0 +1,5792 @@
+{
+  "advanced_ae:sprint_speed_card": {
+    "result": "advanced_ae:sprint_speed_card",
+    "count": 1,
+    "ingredients": [
+      "ae2:speed_card",
+      "minecraft:redstone",
+      "ae2:speed_card",
+      "minecraft:redstone",
+      "advanced_ae:quantum_upgrade_base",
+      "minecraft:redstone",
+      "ae2:speed_card",
+      "minecraft:redstone",
+      "ae2:speed_card"
+    ]
+  },
+  "ae2:speed_card": {
+    "result": "ae2:speed_card",
+    "count": 1,
+    "ingredients": [
+      "ae2:advanced_card",
+      "minecraft:all_fluix",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ae2:spatial_anchor": {
+    "result": "ae2:spatial_anchor",
+    "count": 1,
+    "ingredients": [
+      "ae2:spatial_pylon",
+      "ae2:spatial_pylon",
+      "ae2:spatial_pylon",
+      "ae2:fluix_glass_cable",
+      "ae2:spatial_cell_component_128",
+      "ae2:fluix_glass_cable",
+      "minecraft:iron_ingot",
+      "ae2:engineering_processor",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "ae2:spatial_io_port": {
+    "result": "ae2:spatial_io_port",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "ae2:fluix_glass_cable",
+      "ae2:io_port",
+      "ae2:fluix_glass_cable",
+      "minecraft:iron_ingot",
+      "ae2:engineering_processor",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "ae2:spatial_pylon": {
+    "result": "ae2:spatial_pylon",
+    "count": 1,
+    "ingredients": [
+      "ae2:quartz_glass",
+      "ae2:fluix_glass_cable",
+      "ae2:quartz_glass",
+      "minecraft:fluix",
+      "minecraft:all_fluix",
+      "minecraft:fluix",
+      "ae2:quartz_glass",
+      "ae2:fluix_glass_cable",
+      "ae2:quartz_glass"
+    ]
+  },
+  "ae2:spatial_cell_component_2": {
+    "result": "ae2:spatial_cell_component_2",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone",
+      "ae2:fluix_pearl",
+      "minecraft:stone",
+      "ae2:fluix_pearl",
+      "ae2:engineering_processor",
+      "ae2:fluix_pearl",
+      "minecraft:stone",
+      "ae2:fluix_pearl",
+      "minecraft:stone"
+    ]
+  },
+  "ae2:spatial_cell_component_16": {
+    "result": "ae2:spatial_cell_component_16",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone",
+      "ae2:spatial_cell_component_2",
+      "minecraft:stone",
+      "ae2:spatial_cell_component_2",
+      "ae2:engineering_processor",
+      "ae2:spatial_cell_component_2",
+      "minecraft:stone",
+      "ae2:spatial_cell_component_2",
+      "minecraft:stone"
+    ]
+  },
+  "ae2:spatial_cell_component_128": {
+    "result": "ae2:spatial_cell_component_128",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone",
+      "ae2:spatial_cell_component_16",
+      "minecraft:stone",
+      "ae2:spatial_cell_component_16",
+      "ae2:engineering_processor",
+      "ae2:spatial_cell_component_16",
+      "minecraft:stone",
+      "ae2:spatial_cell_component_16",
+      "minecraft:stone"
+    ]
+  },
+  "ae2:spatial_storage_cell_128": {
+    "result": "ae2:spatial_storage_cell_128",
+    "count": 1,
+    "ingredients": [
+      "ae2:item_cell_housing",
+      "ae2:spatial_cell_component_128",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ae2:spatial_storage_cell_16": {
+    "result": "ae2:spatial_storage_cell_16",
+    "count": 1,
+    "ingredients": [
+      "ae2:item_cell_housing",
+      "ae2:spatial_cell_component_16",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ae2:spatial_storage_cell_2": {
+    "result": "ae2:spatial_storage_cell_2",
+    "count": 1,
+    "ingredients": [
+      "ae2:item_cell_housing",
+      "ae2:spatial_cell_component_2",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:spirited_crystal_block_1x": {
+    "result": "allthecompressed:spirited_crystal_block_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:spirited_crystal_block_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:spirited_crystal_block_2x": {
+    "result": "allthecompressed:spirited_crystal_block_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:spirited_crystal_block_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:spirited_crystal_block_3x": {
+    "result": "allthecompressed:spirited_crystal_block_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:spirited_crystal_block_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:spirited_crystal_block_4x": {
+    "result": "allthecompressed:spirited_crystal_block_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:spirited_crystal_block_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:spirited_crystal_block_5x": {
+    "result": "allthecompressed:spirited_crystal_block_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:spirited_crystal_block_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:spirited_crystal_block_6x": {
+    "result": "allthecompressed:spirited_crystal_block_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:spirited_crystal_block_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:spirited_crystal_block_7x": {
+    "result": "allthecompressed:spirited_crystal_block_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:spirited_crystal_block_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:spirited_crystal_block_8x": {
+    "result": "allthecompressed:spirited_crystal_block_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:spirited_crystal_block_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:spirited_crystal_block_9x": {
+    "result": "allthecompressed:spirited_crystal_block_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:spirited_crystal_block_8x",
+      "allthecompressed:spirited_crystal_block_8x",
+      "allthecompressed:spirited_crystal_block_8x",
+      "allthecompressed:spirited_crystal_block_8x",
+      "allthecompressed:spirited_crystal_block_8x",
+      "allthecompressed:spirited_crystal_block_8x",
+      "allthecompressed:spirited_crystal_block_8x",
+      "allthecompressed:spirited_crystal_block_8x",
+      "allthecompressed:spirited_crystal_block_8x"
+    ]
+  },
+  "allthecompressed:sponge_1x": {
+    "result": "allthecompressed:sponge_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:sponge_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:sponge_2x": {
+    "result": "allthecompressed:sponge_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:sponge_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:sponge_3x": {
+    "result": "allthecompressed:sponge_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:sponge_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:sponge_4x": {
+    "result": "allthecompressed:sponge_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:sponge_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:sponge_5x": {
+    "result": "allthecompressed:sponge_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:sponge_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:sponge_6x": {
+    "result": "allthecompressed:sponge_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:sponge_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:sponge_7x": {
+    "result": "allthecompressed:sponge_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:sponge_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:sponge_8x": {
+    "result": "allthecompressed:sponge_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:sponge_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:sponge_9x": {
+    "result": "allthecompressed:sponge_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:sponge_8x",
+      "allthecompressed:sponge_8x",
+      "allthecompressed:sponge_8x",
+      "allthecompressed:sponge_8x",
+      "allthecompressed:sponge_8x",
+      "allthecompressed:sponge_8x",
+      "allthecompressed:sponge_8x",
+      "allthecompressed:sponge_8x",
+      "allthecompressed:sponge_8x"
+    ]
+  },
+  "allthecompressed:spruce_log_1x": {
+    "result": "allthecompressed:spruce_log_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:spruce_log_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:spruce_log_2x": {
+    "result": "allthecompressed:spruce_log_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:spruce_log_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:spruce_log_3x": {
+    "result": "allthecompressed:spruce_log_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:spruce_log_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:spruce_log_4x": {
+    "result": "allthecompressed:spruce_log_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:spruce_log_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:spruce_log_5x": {
+    "result": "allthecompressed:spruce_log_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:spruce_log_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:spruce_log_6x": {
+    "result": "allthecompressed:spruce_log_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:spruce_log_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:spruce_log_7x": {
+    "result": "allthecompressed:spruce_log_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:spruce_log_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:spruce_log_8x": {
+    "result": "allthecompressed:spruce_log_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:spruce_log_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:spruce_log_9x": {
+    "result": "allthecompressed:spruce_log_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:spruce_log_8x",
+      "allthecompressed:spruce_log_8x",
+      "allthecompressed:spruce_log_8x",
+      "allthecompressed:spruce_log_8x",
+      "allthecompressed:spruce_log_8x",
+      "allthecompressed:spruce_log_8x",
+      "allthecompressed:spruce_log_8x",
+      "allthecompressed:spruce_log_8x",
+      "allthecompressed:spruce_log_8x"
+    ]
+  },
+  "allthecompressed:spruce_planks_1x": {
+    "result": "allthecompressed:spruce_planks_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:spruce_planks_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:spruce_planks_2x": {
+    "result": "allthecompressed:spruce_planks_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:spruce_planks_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:spruce_planks_3x": {
+    "result": "allthecompressed:spruce_planks_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:spruce_planks_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:spruce_planks_4x": {
+    "result": "allthecompressed:spruce_planks_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:spruce_planks_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:spruce_planks_5x": {
+    "result": "allthecompressed:spruce_planks_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:spruce_planks_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:spruce_planks_6x": {
+    "result": "allthecompressed:spruce_planks_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:spruce_planks_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:spruce_planks_7x": {
+    "result": "allthecompressed:spruce_planks_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:spruce_planks_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:spruce_planks_8x": {
+    "result": "allthecompressed:spruce_planks_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:spruce_planks_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:spruce_planks_9x": {
+    "result": "allthecompressed:spruce_planks_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:spruce_planks_8x",
+      "allthecompressed:spruce_planks_8x",
+      "allthecompressed:spruce_planks_8x",
+      "allthecompressed:spruce_planks_8x",
+      "allthecompressed:spruce_planks_8x",
+      "allthecompressed:spruce_planks_8x",
+      "allthecompressed:spruce_planks_8x",
+      "allthecompressed:spruce_planks_8x",
+      "allthecompressed:spruce_planks_8x"
+    ]
+  },
+  "powah:spirited_crystal_block": {
+    "result": "powah:spirited_crystal_block",
+    "count": 1,
+    "ingredients": [
+      "powah:crystal_spirited",
+      "powah:crystal_spirited",
+      "powah:crystal_spirited",
+      "powah:crystal_spirited",
+      "powah:crystal_spirited",
+      "powah:crystal_spirited",
+      "powah:crystal_spirited",
+      "powah:crystal_spirited",
+      "powah:crystal_spirited"
+    ]
+  },
+  "minecraft:sponge": {
+    "result": "minecraft:sponge",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:sponge_1x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:spruce_log": {
+    "result": "minecraft:spruce_log",
+    "count": 16,
+    "ingredients": [
+      "",
+      "mysticalagriculture:wood_essence",
+      "mysticalagriculture:wood_essence",
+      "mysticalagriculture:wood_essence",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:spruce_planks": {
+    "result": "minecraft:spruce_planks",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spruce_slab",
+      "",
+      "",
+      "",
+      "minecraft:spruce_slab",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "aquaculture:spruce_fish_mount": {
+    "result": "aquaculture:spruce_fish_mount",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spruce_button",
+      "aquaculture:iron_hook",
+      "minecraft:spruce_button",
+      "minecraft:spruce_button",
+      "minecraft:spruce_button",
+      "minecraft:spruce_button",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:spore_blossom": {
+    "result": "minecraft:spore_blossom",
+    "count": 1,
+    "ingredients": [
+      "ars_elemental:spore_blossom_up",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_elemental:spore_blossom_up": {
+    "result": "ars_elemental:spore_blossom_up",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spore_blossom",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_nouveau:spell_prism": {
+    "result": "ars_nouveau:spell_prism",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "ars_nouveau:archwood_planks",
+      "minecraft:gold_ingot",
+      "ars_nouveau:archwood_planks",
+      "minecraft:quartz",
+      "ars_nouveau:archwood_planks",
+      "minecraft:gold_ingot",
+      "ars_nouveau:archwood_planks",
+      "minecraft:gold_ingot"
+    ]
+  },
+  "bibliocraft:spruce_bookcase": {
+    "result": "bibliocraft:spruce_bookcase",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spruce_planks",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_planks"
+    ]
+  },
+  "bibliocraft:spruce_fancy_armor_stand": {
+    "result": "bibliocraft:spruce_fancy_armor_stand",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab"
+    ]
+  },
+  "bibliocraft:spruce_fancy_clock": {
+    "result": "bibliocraft:spruce_fancy_clock",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spruce_slab",
+      "minecraft:clock",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      "minecraft:stick",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      "minecraft:copper_ingot",
+      "minecraft:spruce_slab"
+    ]
+  },
+  "bibliocraft:spruce_fancy_crafter": {
+    "result": "bibliocraft:spruce_fancy_crafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black",
+      "minecraft:crafting_tables",
+      "minecraft:feather",
+      "minecraft:spruce_planks",
+      "minecraft:glass",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks",
+      "minecraft:crafter",
+      "minecraft:spruce_planks"
+    ]
+  },
+  "bibliocraft:spruce_fancy_sign": {
+    "result": "bibliocraft:spruce_fancy_sign",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spruce_planks",
+      "minecraft:paper",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks",
+      "minecraft:paper",
+      "minecraft:spruce_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "bibliocraft:spruce_grandfather_clock": {
+    "result": "bibliocraft:spruce_grandfather_clock",
+    "count": 1,
+    "ingredients": [
+      "bibliocraft:spruce_fancy_clock",
+      "bibliocraft:spruce_fancy_clock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:spruce_label": {
+    "result": "bibliocraft:spruce_label",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:spruce_potion_shelf": {
+    "result": "bibliocraft:spruce_potion_shelf",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_planks",
+      "minecraft:glass_bottle",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab"
+    ]
+  },
+  "bibliocraft:spruce_shelf": {
+    "result": "bibliocraft:spruce_shelf",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      "",
+      "minecraft:spruce_planks",
+      "",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab"
+    ]
+  },
+  "bibliocraft:spruce_table": {
+    "result": "bibliocraft:spruce_table",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      "",
+      "minecraft:spruce_planks",
+      "",
+      "",
+      "minecraft:spruce_planks",
+      ""
+    ]
+  },
+  "bibliocraft:spruce_tool_rack": {
+    "result": "bibliocraft:spruce_tool_rack",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      "minecraft:iron_ingot",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab"
+    ]
+  },
+  "biomeswevegone:spirit_boat": {
+    "result": "biomeswevegone:spirit_boat",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:spirit_planks",
+      "",
+      "biomeswevegone:spirit_planks",
+      "biomeswevegone:spirit_planks",
+      "biomeswevegone:spirit_planks",
+      "biomeswevegone:spirit_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:spirit_bookshelf": {
+    "result": "biomeswevegone:spirit_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:spirit_planks",
+      "biomeswevegone:spirit_planks",
+      "biomeswevegone:spirit_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "biomeswevegone:spirit_planks",
+      "biomeswevegone:spirit_planks",
+      "biomeswevegone:spirit_planks"
+    ]
+  },
+  "biomeswevegone:spirit_button": {
+    "result": "biomeswevegone:spirit_button",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:spirit_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:spirit_chest_boat": {
+    "result": "biomeswevegone:spirit_chest_boat",
+    "count": 1,
+    "ingredients": [
+      "minecraft:chest",
+      "biomeswevegone:spirit_boat",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:spirit_crafting_table": {
+    "result": "biomeswevegone:spirit_crafting_table",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:spirit_planks",
+      "biomeswevegone:spirit_planks",
+      "",
+      "biomeswevegone:spirit_planks",
+      "biomeswevegone:spirit_planks",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:spirit_door": {
+    "result": "biomeswevegone:spirit_door",
+    "count": 3,
+    "ingredients": [
+      "biomeswevegone:spirit_planks",
+      "biomeswevegone:spirit_planks",
+      "",
+      "biomeswevegone:spirit_planks",
+      "biomeswevegone:spirit_planks",
+      "",
+      "biomeswevegone:spirit_planks",
+      "biomeswevegone:spirit_planks",
+      ""
+    ]
+  },
+  "biomeswevegone:spirit_fence": {
+    "result": "biomeswevegone:spirit_fence",
+    "count": 3,
+    "ingredients": [
+      "biomeswevegone:spirit_planks",
+      "minecraft:stick",
+      "biomeswevegone:spirit_planks",
+      "biomeswevegone:spirit_planks",
+      "minecraft:stick",
+      "biomeswevegone:spirit_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:spirit_fence_gate": {
+    "result": "biomeswevegone:spirit_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "biomeswevegone:spirit_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "biomeswevegone:spirit_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:spirit_hanging_sign": {
+    "result": "biomeswevegone:spirit_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "biomeswevegone:stripped_spirit_log",
+      "biomeswevegone:stripped_spirit_log",
+      "biomeswevegone:stripped_spirit_log",
+      "biomeswevegone:stripped_spirit_log",
+      "biomeswevegone:stripped_spirit_log",
+      "biomeswevegone:stripped_spirit_log"
+    ]
+  },
+  "biomeswevegone:spirit_planks": {
+    "result": "biomeswevegone:spirit_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:spirit_pressure_plate": {
+    "result": "biomeswevegone:spirit_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:spirit_planks",
+      "biomeswevegone:spirit_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:spirit_sign": {
+    "result": "biomeswevegone:spirit_sign",
+    "count": 3,
+    "ingredients": [
+      "biomeswevegone:spirit_planks",
+      "biomeswevegone:spirit_planks",
+      "biomeswevegone:spirit_planks",
+      "biomeswevegone:spirit_planks",
+      "biomeswevegone:spirit_planks",
+      "biomeswevegone:spirit_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "biomeswevegone:spirit_slab": {
+    "result": "biomeswevegone:spirit_slab",
+    "count": 6,
+    "ingredients": [
+      "biomeswevegone:spirit_planks",
+      "biomeswevegone:spirit_planks",
+      "biomeswevegone:spirit_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:spirit_stairs": {
+    "result": "biomeswevegone:spirit_stairs",
+    "count": 4,
+    "ingredients": [
+      "biomeswevegone:spirit_planks",
+      "",
+      "",
+      "biomeswevegone:spirit_planks",
+      "biomeswevegone:spirit_planks",
+      "",
+      "biomeswevegone:spirit_planks",
+      "biomeswevegone:spirit_planks",
+      "biomeswevegone:spirit_planks"
+    ]
+  },
+  "biomeswevegone:spirit_trapdoor": {
+    "result": "biomeswevegone:spirit_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "biomeswevegone:spirit_planks",
+      "biomeswevegone:spirit_planks",
+      "biomeswevegone:spirit_planks",
+      "biomeswevegone:spirit_planks",
+      "biomeswevegone:spirit_planks",
+      "biomeswevegone:spirit_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:spirit_wood": {
+    "result": "biomeswevegone:spirit_wood",
+    "count": 3,
+    "ingredients": [
+      "biomeswevegone:spirit_log",
+      "biomeswevegone:spirit_log",
+      "",
+      "biomeswevegone:spirit_log",
+      "biomeswevegone:spirit_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "computercraft:speaker": {
+    "result": "computercraft:speaker",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:note_block",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:redstone",
+      "minecraft:stone"
+    ]
+  },
+  "cookingforblockheads:spice_rack": {
+    "result": "cookingforblockheads:spice_rack",
+    "count": 1,
+    "ingredients": [
+      "minecraft:wooden_slabs",
+      "minecraft:wooden_slabs",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:spruce_window": {
+    "result": "create:spruce_window",
+    "count": 2,
+    "ingredients": [
+      "",
+      "minecraft:spruce_planks",
+      "",
+      "minecraft:spruce_planks",
+      "minecraft:glass",
+      "minecraft:spruce_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:spruce_window_pane": {
+    "result": "create:spruce_window_pane",
+    "count": 16,
+    "ingredients": [
+      "create:spruce_window",
+      "create:spruce_window",
+      "create:spruce_window",
+      "create:spruce_window",
+      "create:spruce_window",
+      "create:spruce_window",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:speedometer": {
+    "result": "create:speedometer",
+    "count": 1,
+    "ingredients": [
+      "create:stressometer",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:spout": {
+    "result": "create:spout",
+    "count": 1,
+    "ingredients": [
+      "create:copper_casing",
+      "",
+      "",
+      "minecraft:dried_kelp",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "createaddition:spool": {
+    "result": "createaddition:spool",
+    "count": 24,
+    "ingredients": [
+      "minecraft:iron",
+      "",
+      "",
+      "minecraft:iron",
+      "",
+      "",
+      "minecraft:iron",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:spring_green_carpet": {
+    "result": "dyenamics:spring_green_carpet",
+    "count": 3,
+    "ingredients": [
+      "dyenamics:spring_green_wool",
+      "dyenamics:spring_green_wool",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:spring_green_candle": {
+    "result": "dyenamics:spring_green_candle",
+    "count": 1,
+    "ingredients": [
+      "minecraft:candle",
+      "minecraft:spring_green",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:spring_green_concrete_powder": {
+    "result": "dyenamics:spring_green_concrete_powder",
+    "count": 8,
+    "ingredients": [
+      "minecraft:spring_green",
+      "minecraft:sand",
+      "minecraft:sand",
+      "minecraft:sand",
+      "minecraft:sand",
+      "minecraft:gravel",
+      "minecraft:gravel",
+      "minecraft:gravel",
+      "minecraft:gravel"
+    ]
+  },
+  "dyenamics:spring_green_dye": {
+    "result": "dyenamics:spring_green_dye",
+    "count": 2,
+    "ingredients": [
+      "minecraft:lime",
+      "minecraft:mint",
+      "minecraft:stone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:spring_green_stained_glass": {
+    "result": "dyenamics:spring_green_stained_glass",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:spring_green",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass"
+    ]
+  },
+  "dyenamics:spring_green_stained_glass_pane": {
+    "result": "dyenamics:spring_green_stained_glass_pane",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:spring_green",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane"
+    ]
+  },
+  "dyenamics:spring_green_terracotta": {
+    "result": "dyenamics:spring_green_terracotta",
+    "count": 8,
+    "ingredients": [
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:spring_green",
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:terracotta"
+    ]
+  },
+  "dyenamics:spring_green_wool": {
+    "result": "dyenamics:spring_green_wool",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spring_green",
+      "minecraft:white_wool",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:spring_green_banner": {
+    "result": "dyenamics:spring_green_banner",
+    "count": 1,
+    "ingredients": [
+      "dyenamics:spring_green_wool",
+      "dyenamics:spring_green_wool",
+      "dyenamics:spring_green_wool",
+      "dyenamics:spring_green_wool",
+      "dyenamics:spring_green_wool",
+      "dyenamics:spring_green_wool",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "dyenamics:spring_green_bed": {
+    "result": "dyenamics:spring_green_bed",
+    "count": 1,
+    "ingredients": [
+      "minecraft:beds",
+      "minecraft:spring_green",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:spring_green_rockwool": {
+    "result": "dyenamics:spring_green_rockwool",
+    "count": 1,
+    "ingredients": [
+      "thermal:white_rockwool",
+      "minecraft:spring_green",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:springstone_bricks": {
+    "result": "eternal_starlight:springstone_bricks",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:polished_springstone",
+      "eternal_starlight:polished_springstone",
+      "",
+      "eternal_starlight:polished_springstone",
+      "eternal_starlight:polished_springstone",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:springstone_brick_slab": {
+    "result": "eternal_starlight:springstone_brick_slab",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:springstone_bricks",
+      "eternal_starlight:springstone_bricks",
+      "eternal_starlight:springstone_bricks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:springstone_brick_stairs": {
+    "result": "eternal_starlight:springstone_brick_stairs",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:springstone_bricks",
+      "",
+      "",
+      "eternal_starlight:springstone_bricks",
+      "eternal_starlight:springstone_bricks",
+      "",
+      "eternal_starlight:springstone_bricks",
+      "eternal_starlight:springstone_bricks",
+      "eternal_starlight:springstone_bricks"
+    ]
+  },
+  "eternal_starlight:springstone_brick_wall": {
+    "result": "eternal_starlight:springstone_brick_wall",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:springstone_bricks",
+      "eternal_starlight:springstone_bricks",
+      "eternal_starlight:springstone_bricks",
+      "eternal_starlight:springstone_bricks",
+      "eternal_starlight:springstone_bricks",
+      "eternal_starlight:springstone_bricks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:springstone_slab": {
+    "result": "eternal_starlight:springstone_slab",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:springstone",
+      "eternal_starlight:springstone",
+      "eternal_starlight:springstone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:springstone_stairs": {
+    "result": "eternal_starlight:springstone_stairs",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:springstone",
+      "",
+      "",
+      "eternal_starlight:springstone",
+      "eternal_starlight:springstone",
+      "",
+      "eternal_starlight:springstone",
+      "eternal_starlight:springstone",
+      "eternal_starlight:springstone"
+    ]
+  },
+  "eternal_starlight:springstone_wall": {
+    "result": "eternal_starlight:springstone_wall",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:springstone",
+      "eternal_starlight:springstone",
+      "eternal_starlight:springstone",
+      "eternal_starlight:springstone",
+      "eternal_starlight:springstone",
+      "eternal_starlight:springstone",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:spruce_starfire_bird_aviary": {
+    "result": "eternal_starlight:spruce_starfire_bird_aviary",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks",
+      "eternal_starlight:starfire",
+      "eternal_starlight:starfire",
+      "eternal_starlight:starfire",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks"
+    ]
+  },
+  "evilcraft:spectral_glasses": {
+    "result": "evilcraft:spectral_glasses",
+    "count": 1,
+    "ingredients": [
+      "evilcraft:vengeance_ring",
+      "evilcraft:garmonbozia",
+      "evilcraft:vengeance_ring",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "evilcraft:spiked_plate": {
+    "result": "evilcraft:spiked_plate",
+    "count": 1,
+    "ingredients": [
+      "evilcraft:dark_spike",
+      "evilcraft:dark_spike",
+      "evilcraft:dark_spike",
+      "",
+      "minecraft:heavy_weighted_pressure_plate",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "evilcraft:spikey_claws": {
+    "result": "evilcraft:spikey_claws",
+    "count": 1,
+    "ingredients": [
+      "evilcraft:dark_spike",
+      "evilcraft:dark_spike",
+      "evilcraft:dark_spike",
+      "",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "evilcraft:spirit_furnace": {
+    "result": "evilcraft:spirit_furnace",
+    "count": 1,
+    "ingredients": [
+      "",
+      "evilcraft:dark_blood_brick",
+      "",
+      "evilcraft:dark_blood_brick",
+      "evilcraft:blood_infusion_core",
+      "evilcraft:dark_blood_brick",
+      "",
+      "evilcraft:dark_blood_brick",
+      ""
+    ]
+  },
+  "evilcraft:spirit_reanimator": {
+    "result": "evilcraft:spirit_reanimator",
+    "count": 1,
+    "ingredients": [
+      "minecraft:cobblestone",
+      "minecraft:iron_ingot",
+      "minecraft:cobblestone",
+      "minecraft:cobblestone",
+      "evilcraft:blood_infusion_core",
+      "minecraft:cobblestone",
+      "minecraft:cobblestone",
+      "minecraft:iron",
+      "minecraft:cobblestone"
+    ]
+  },
+  "farmersdelight:spruce_cabinet": {
+    "result": "farmersdelight:spruce_cabinet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_trapdoor",
+      "",
+      "minecraft:spruce_trapdoor",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab"
+    ]
+  },
+  "forbidden_arcanus:spectral_eye_amulet": {
+    "result": "forbidden_arcanus:spectral_eye_amulet",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:string",
+      "",
+      "minecraft:string",
+      "minecraft:nether_star",
+      "minecraft:string",
+      "forbidden_arcanus:deorum_ingot",
+      "minecraft:ender_eye",
+      "forbidden_arcanus:deorum_ingot"
+    ]
+  },
+  "functionalstorage:spruce_1": {
+    "result": "functionalstorage:spruce_1",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks",
+      "minecraft:chest",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks"
+    ]
+  },
+  "functionalstorage:spruce_2": {
+    "result": "functionalstorage:spruce_2",
+    "count": 2,
+    "ingredients": [
+      "minecraft:spruce_planks",
+      "minecraft:chest",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks",
+      "minecraft:chest",
+      "minecraft:spruce_planks"
+    ]
+  },
+  "functionalstorage:spruce_4": {
+    "result": "functionalstorage:spruce_4",
+    "count": 4,
+    "ingredients": [
+      "minecraft:chest",
+      "minecraft:spruce_planks",
+      "minecraft:chest",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks",
+      "minecraft:chest",
+      "minecraft:spruce_planks",
+      "minecraft:chest"
+    ]
+  },
+  "minecraft:spruce_door": {
+    "result": "minecraft:spruce_door",
+    "count": 12,
+    "ingredients": [
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "",
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "",
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      ""
+    ]
+  },
+  "glassential:spruce_glass_door": {
+    "result": "glassential:spruce_glass_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spruce_door",
+      "minecraft:glass_pane",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "glassential:spruce_glass_trapdoor": {
+    "result": "glassential:spruce_glass_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spruce_trapdoor",
+      "minecraft:glass_pane",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:spruce_trapdoor": {
+    "result": "minecraft:spruce_trapdoor",
+    "count": 12,
+    "ingredients": [
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "",
+      "",
+      ""
+    ]
+  },
+  "handcrafted:spider_trophy": {
+    "result": "handcrafted:spider_trophy",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:spider_eye",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks"
+    ]
+  },
+  "handcrafted:spruce_bench": {
+    "result": "handcrafted:spruce_bench",
+    "count": 2,
+    "ingredients": [
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_planks",
+      "",
+      "minecraft:spruce_planks"
+    ]
+  },
+  "handcrafted:spruce_chair": {
+    "result": "handcrafted:spruce_chair",
+    "count": 2,
+    "ingredients": [
+      "minecraft:spruce_slab",
+      "",
+      "",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks",
+      "",
+      "minecraft:stick",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "handcrafted:spruce_corner_trim": {
+    "result": "handcrafted:spruce_corner_trim",
+    "count": 4,
+    "ingredients": [
+      "minecraft:spruce_planks",
+      "",
+      "",
+      "minecraft:spruce_planks",
+      "",
+      "",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks"
+    ]
+  },
+  "handcrafted:spruce_couch": {
+    "result": "handcrafted:spruce_couch",
+    "count": 2,
+    "ingredients": [
+      "minecraft:white_wool",
+      "minecraft:cushions",
+      "minecraft:white_wool",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "handcrafted:spruce_counter": {
+    "result": "handcrafted:spruce_counter",
+    "count": 3,
+    "ingredients": [
+      "minecraft:calcite",
+      "minecraft:calcite",
+      "minecraft:calcite",
+      "minecraft:spruce_planks",
+      "minecraft:chest",
+      "minecraft:spruce_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "handcrafted:spruce_cupboard": {
+    "result": "handcrafted:spruce_cupboard",
+    "count": 3,
+    "ingredients": [
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks",
+      "minecraft:chest",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks"
+    ]
+  },
+  "handcrafted:spruce_desk": {
+    "result": "handcrafted:spruce_desk",
+    "count": 2,
+    "ingredients": [
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_planks",
+      "minecraft:chest",
+      "minecraft:spruce_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "handcrafted:spruce_dining_bench": {
+    "result": "handcrafted:spruce_dining_bench",
+    "count": 2,
+    "ingredients": [
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_planks",
+      "",
+      "minecraft:spruce_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "handcrafted:spruce_drawer": {
+    "result": "handcrafted:spruce_drawer",
+    "count": 2,
+    "ingredients": [
+      "minecraft:spruce_planks",
+      "minecraft:chest",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab"
+    ]
+  },
+  "handcrafted:spruce_fancy_bed": {
+    "result": "handcrafted:spruce_fancy_bed",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:cushions",
+      "minecraft:sheets",
+      "minecraft:spruce_planks",
+      "minecraft:white_wool",
+      "minecraft:white_wool",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks"
+    ]
+  },
+  "handcrafted:spruce_nightstand": {
+    "result": "handcrafted:spruce_nightstand",
+    "count": 2,
+    "ingredients": [
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks",
+      "minecraft:chest",
+      "minecraft:spruce_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "handcrafted:spruce_pillar_trim": {
+    "result": "handcrafted:spruce_pillar_trim",
+    "count": 4,
+    "ingredients": [
+      "minecraft:spruce_planks",
+      "",
+      "",
+      "minecraft:spruce_planks",
+      "",
+      "",
+      "minecraft:spruce_planks",
+      "",
+      ""
+    ]
+  },
+  "handcrafted:spruce_shelf": {
+    "result": "handcrafted:spruce_shelf",
+    "count": 2,
+    "ingredients": [
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_planks",
+      "minecraft:chest",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab"
+    ]
+  },
+  "handcrafted:spruce_side_table": {
+    "result": "handcrafted:spruce_side_table",
+    "count": 2,
+    "ingredients": [
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_planks",
+      "minecraft:chest",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks",
+      "",
+      "minecraft:spruce_planks"
+    ]
+  },
+  "handcrafted:spruce_table": {
+    "result": "handcrafted:spruce_table",
+    "count": 2,
+    "ingredients": [
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks",
+      "minecraft:stick",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "herbsandharvest:spice_jar_item": {
+    "result": "herbsandharvest:spice_jar_item",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:oak_button",
+      "",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      ""
+    ]
+  },
+  "minecraft:spider_eye": {
+    "result": "minecraft:spider_eye",
+    "count": 2,
+    "ingredients": [
+      "reliquary:chelicerae",
+      "reliquary:chelicerae",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:speedloader": {
+    "result": "immersiveengineering:speedloader",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron",
+      "minecraft:plastic",
+      "",
+      "minecraft:plastic",
+      "immersiveengineering:component_iron",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "industrialforegoing:spores_recreator": {
+    "result": "industrialforegoing:spores_recreator",
+    "count": 1,
+    "ingredients": [
+      "minecraft:plastics",
+      "minecraft:iron",
+      "minecraft:plastics",
+      "minecraft:mushrooms",
+      "minecraft:pity",
+      "minecraft:mushrooms",
+      "minecraft:plastics",
+      "minecraft:iron",
+      "minecraft:plastics"
+    ]
+  },
+  "irons_spellbooks:speed_boots": {
+    "result": "irons_spellbooks:speed_boots",
+    "count": 1,
+    "ingredients": [
+      "",
+      "irons_spellbooks:mithril_weave",
+      "",
+      "minecraft:feather",
+      "irons_spellbooks:archevoker_boots",
+      "minecraft:feather",
+      "",
+      "irons_spellbooks:divine_soulshard",
+      ""
+    ]
+  },
+  "irons_spellbooks:spellbreaker": {
+    "result": "irons_spellbooks:spellbreaker",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "minecraft:mithril",
+      "minecraft:diamond",
+      "minecraft:mithril",
+      "",
+      "irons_spellbooks:weapon_parts",
+      "minecraft:diamond",
+      ""
+    ]
+  },
+  "mahoutsukai:spell_cloth": {
+    "result": "mahoutsukai:spell_cloth",
+    "count": 4,
+    "ingredients": [
+      "minecraft:white_wool",
+      "mahoutsukai:dagger",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:spruce_bridge_pier": {
+    "result": "mcwbridges:spruce_bridge_pier",
+    "count": 3,
+    "ingredients": [
+      "minecraft:spruce_log",
+      "minecraft:spruce_fence",
+      "minecraft:spruce_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:spruce_log_bridge_middle": {
+    "result": "mcwbridges:spruce_log_bridge_middle",
+    "count": 1,
+    "ingredients": [
+      "mcwbridges:spruce_log_bridge_stair",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:spruce_log_bridge_stair": {
+    "result": "mcwbridges:spruce_log_bridge_stair",
+    "count": 6,
+    "ingredients": [
+      "",
+      "",
+      "mcwbridges:spruce_log_bridge_middle",
+      "",
+      "mcwbridges:spruce_log_bridge_middle",
+      "mcwbridges:spruce_log_bridge_middle",
+      "mcwbridges:spruce_log_bridge_middle",
+      "mcwbridges:spruce_log_bridge_middle",
+      "mcwbridges:spruce_log_bridge_middle"
+    ]
+  },
+  "mcwbridges:spruce_rail_bridge": {
+    "result": "mcwbridges:spruce_rail_bridge",
+    "count": 4,
+    "ingredients": [
+      "minecraft:spruce_fence",
+      "",
+      "minecraft:spruce_fence",
+      "minecraft:spruce_fence",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_fence",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:spruce_rope_bridge_stair": {
+    "result": "mcwbridges:spruce_rope_bridge_stair",
+    "count": 6,
+    "ingredients": [
+      "",
+      "",
+      "mcwbridges:rope_spruce_bridge",
+      "",
+      "mcwbridges:rope_spruce_bridge",
+      "mcwbridges:rope_spruce_bridge",
+      "mcwbridges:rope_spruce_bridge",
+      "mcwbridges:rope_spruce_bridge",
+      "mcwbridges:rope_spruce_bridge"
+    ]
+  },
+  "mcwdoors:spruce_bamboo_door": {
+    "result": "mcwdoors:spruce_bamboo_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spruce_planks",
+      "",
+      "",
+      "mcwdoors:print_bamboo",
+      "",
+      "",
+      "minecraft:spruce_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwdoors:spruce_bark_glass_door": {
+    "result": "mcwdoors:spruce_bark_glass_door",
+    "count": 3,
+    "ingredients": [
+      "minecraft:spruce_log",
+      "minecraft:glass",
+      "",
+      "minecraft:glass",
+      "minecraft:glass",
+      "",
+      "minecraft:spruce_log",
+      "minecraft:glass",
+      ""
+    ]
+  },
+  "mcwdoors:spruce_barn_door": {
+    "result": "mcwdoors:spruce_barn_door",
+    "count": 2,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:stick",
+      "",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks",
+      "",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks",
+      ""
+    ]
+  },
+  "mcwdoors:spruce_barn_glass_door": {
+    "result": "mcwdoors:spruce_barn_glass_door",
+    "count": 3,
+    "ingredients": [
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks",
+      "",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks",
+      ""
+    ]
+  },
+  "mcwdoors:spruce_beach_door": {
+    "result": "mcwdoors:spruce_beach_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spruce_planks",
+      "",
+      "",
+      "mcwdoors:print_jungle",
+      "",
+      "",
+      "minecraft:spruce_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwdoors:spruce_classic_door": {
+    "result": "mcwdoors:spruce_classic_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spruce_planks",
+      "",
+      "",
+      "mcwdoors:print_oak",
+      "",
+      "",
+      "minecraft:spruce_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwdoors:spruce_four_panel_door": {
+    "result": "mcwdoors:spruce_four_panel_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spruce_planks",
+      "",
+      "",
+      "mcwdoors:print_dark_oak",
+      "",
+      "",
+      "minecraft:spruce_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwdoors:spruce_glass_door": {
+    "result": "mcwdoors:spruce_glass_door",
+    "count": 3,
+    "ingredients": [
+      "minecraft:spruce_planks",
+      "minecraft:glass_pane",
+      "",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "",
+      "minecraft:spruce_planks",
+      "minecraft:glass_pane",
+      ""
+    ]
+  },
+  "mcwdoors:spruce_japanese2_door": {
+    "result": "mcwdoors:spruce_japanese2_door",
+    "count": 3,
+    "ingredients": [
+      "minecraft:paper",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      "minecraft:paper",
+      "",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      ""
+    ]
+  },
+  "mcwdoors:spruce_japanese_door": {
+    "result": "mcwdoors:spruce_japanese_door",
+    "count": 3,
+    "ingredients": [
+      "minecraft:paper",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      "minecraft:paper",
+      "",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks",
+      ""
+    ]
+  },
+  "mcwdoors:spruce_modern_door": {
+    "result": "mcwdoors:spruce_modern_door",
+    "count": 3,
+    "ingredients": [
+      "minecraft:spruce_planks",
+      "minecraft:glass_pane",
+      "",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks",
+      "",
+      "minecraft:spruce_planks",
+      "minecraft:glass_pane",
+      ""
+    ]
+  },
+  "mcwdoors:spruce_mystic_door": {
+    "result": "mcwdoors:spruce_mystic_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spruce_planks",
+      "",
+      "",
+      "mcwdoors:print_mystic",
+      "",
+      "",
+      "minecraft:spruce_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwdoors:spruce_nether_door": {
+    "result": "mcwdoors:spruce_nether_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spruce_planks",
+      "",
+      "",
+      "mcwdoors:print_nether",
+      "",
+      "",
+      "minecraft:spruce_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwdoors:spruce_paper_door": {
+    "result": "mcwdoors:spruce_paper_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spruce_planks",
+      "",
+      "",
+      "mcwdoors:print_birch",
+      "",
+      "",
+      "minecraft:spruce_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwdoors:spruce_stable_door": {
+    "result": "mcwdoors:spruce_stable_door",
+    "count": 3,
+    "ingredients": [
+      "minecraft:iron_bars",
+      "minecraft:iron_bars",
+      "",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks",
+      "",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks",
+      ""
+    ]
+  },
+  "mcwdoors:spruce_stable_head_door": {
+    "result": "mcwdoors:spruce_stable_head_door",
+    "count": 1,
+    "ingredients": [
+      "mcwdoors:spruce_stable_door",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwdoors:spruce_swamp_door": {
+    "result": "mcwdoors:spruce_swamp_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spruce_planks",
+      "",
+      "",
+      "mcwdoors:print_swamp",
+      "",
+      "",
+      "minecraft:spruce_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwdoors:spruce_tropical_door": {
+    "result": "mcwdoors:spruce_tropical_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spruce_planks",
+      "",
+      "",
+      "mcwdoors:print_acacia",
+      "",
+      "",
+      "minecraft:spruce_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwdoors:spruce_waffle_door": {
+    "result": "mcwdoors:spruce_waffle_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spruce_planks",
+      "",
+      "",
+      "mcwdoors:print_waffle",
+      "",
+      "",
+      "minecraft:spruce_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwdoors:spruce_western_door": {
+    "result": "mcwdoors:spruce_western_door",
+    "count": 3,
+    "ingredients": [
+      "",
+      "",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks"
+    ]
+  },
+  "mcwdoors:spruce_whispering_door": {
+    "result": "mcwdoors:spruce_whispering_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spruce_planks",
+      "",
+      "",
+      "mcwdoors:print_whispering",
+      "",
+      "",
+      "minecraft:spruce_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwfences:spruce_curved_gate": {
+    "result": "mcwfences:spruce_curved_gate",
+    "count": 4,
+    "ingredients": [
+      "minecraft:spruce_log",
+      "",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_log",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfences:spruce_hedge": {
+    "result": "mcwfences:spruce_hedge",
+    "count": 4,
+    "ingredients": [
+      "minecraft:spruce_leaves",
+      "minecraft:spruce_leaves",
+      "",
+      "minecraft:spruce_leaves",
+      "minecraft:spruce_leaves",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfences:spruce_highley_gate": {
+    "result": "mcwfences:spruce_highley_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:spruce_log",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:spruce_log",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfences:spruce_horse_fence": {
+    "result": "mcwfences:spruce_horse_fence",
+    "count": 3,
+    "ingredients": [
+      "minecraft:spruce_log",
+      "minecraft:stick",
+      "minecraft:spruce_log",
+      "minecraft:stick",
+      "minecraft:spruce_log",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfences:spruce_picket_fence": {
+    "result": "mcwfences:spruce_picket_fence",
+    "count": 3,
+    "ingredients": [
+      "minecraft:spruce_log",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "minecraft:stick",
+      "minecraft:spruce_log",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfences:spruce_pyramid_gate": {
+    "result": "mcwfences:spruce_pyramid_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:spruce_log",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:spruce_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfences:spruce_stockade_fence": {
+    "result": "mcwfences:spruce_stockade_fence",
+    "count": 3,
+    "ingredients": [
+      "minecraft:spruce_log",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_log",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfences:spruce_wired_fence": {
+    "result": "mcwfences:spruce_wired_fence",
+    "count": 3,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:iron_bars",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:spruce_log",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfurnitures:spruce_bookshelf": {
+    "result": "mcwfurnitures:spruce_bookshelf",
+    "count": 4,
+    "ingredients": [
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "minecraft:spruce_log"
+    ]
+  },
+  "mcwfurnitures:spruce_bookshelf_cupboard": {
+    "result": "mcwfurnitures:spruce_bookshelf_cupboard",
+    "count": 4,
+    "ingredients": [
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "mcwfurnitures:cabinet_door",
+      "minecraft:spruce_log",
+      "minecraft:book",
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "minecraft:spruce_log"
+    ]
+  },
+  "mcwfurnitures:spruce_bookshelf_drawer": {
+    "result": "mcwfurnitures:spruce_bookshelf_drawer",
+    "count": 4,
+    "ingredients": [
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "mcwfurnitures:cabinet_drawer",
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "minecraft:book",
+      "minecraft:spruce_log"
+    ]
+  },
+  "mcwfurnitures:spruce_chair": {
+    "result": "mcwfurnitures:spruce_chair",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:spruce_log",
+      "",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_log",
+      "",
+      "minecraft:spruce_fence",
+      "minecraft:spruce_fence",
+      ""
+    ]
+  },
+  "mcwfurnitures:spruce_coffee_table": {
+    "result": "mcwfurnitures:spruce_coffee_table",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spruce_log",
+      "",
+      "",
+      "minecraft:spruce_fence",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfurnitures:spruce_counter": {
+    "result": "mcwfurnitures:spruce_counter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spruce_slab",
+      "",
+      "",
+      "minecraft:spruce_log",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfurnitures:spruce_covered_desk": {
+    "result": "mcwfurnitures:spruce_covered_desk",
+    "count": 2,
+    "ingredients": [
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "",
+      "minecraft:spruce_log",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfurnitures:spruce_cupboard_counter": {
+    "result": "mcwfurnitures:spruce_cupboard_counter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spruce_slab",
+      "",
+      "",
+      "mcwfurnitures:spruce_wardrobe",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfurnitures:spruce_desk": {
+    "result": "mcwfurnitures:spruce_desk",
+    "count": 2,
+    "ingredients": [
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "minecraft:spruce_fence",
+      "",
+      "minecraft:spruce_fence",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfurnitures:spruce_double_drawer": {
+    "result": "mcwfurnitures:spruce_double_drawer",
+    "count": 4,
+    "ingredients": [
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "mcwfurnitures:cabinet_drawer",
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "mcwfurnitures:cabinet_drawer",
+      "minecraft:spruce_log"
+    ]
+  },
+  "mcwfurnitures:spruce_double_drawer_counter": {
+    "result": "mcwfurnitures:spruce_double_drawer_counter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spruce_slab",
+      "",
+      "",
+      "mcwfurnitures:spruce_double_drawer",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfurnitures:spruce_double_kitchen_cabinet": {
+    "result": "mcwfurnitures:spruce_double_kitchen_cabinet",
+    "count": 4,
+    "ingredients": [
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "",
+      "mcwfurnitures:cabinet_door",
+      "mcwfurnitures:cabinet_door",
+      "",
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      ""
+    ]
+  },
+  "mcwfurnitures:spruce_double_wardrobe": {
+    "result": "mcwfurnitures:spruce_double_wardrobe",
+    "count": 4,
+    "ingredients": [
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "mcwfurnitures:cabinet_door",
+      "minecraft:spruce_log",
+      "mcwfurnitures:cabinet_door",
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "minecraft:spruce_log"
+    ]
+  },
+  "mcwfurnitures:spruce_drawer": {
+    "result": "mcwfurnitures:spruce_drawer",
+    "count": 4,
+    "ingredients": [
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "mcwfurnitures:cabinet_drawer",
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "minecraft:spruce_log"
+    ]
+  },
+  "mcwfurnitures:spruce_drawer_counter": {
+    "result": "mcwfurnitures:spruce_drawer_counter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spruce_slab",
+      "",
+      "",
+      "mcwfurnitures:spruce_drawer",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfurnitures:spruce_end_table": {
+    "result": "mcwfurnitures:spruce_end_table",
+    "count": 1,
+    "ingredients": [
+      "mcwfurnitures:spruce_table",
+      "",
+      "",
+      "minecraft:spruce_log",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfurnitures:spruce_glass_kitchen_cabinet": {
+    "result": "mcwfurnitures:spruce_glass_kitchen_cabinet",
+    "count": 4,
+    "ingredients": [
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "",
+      "minecraft:glass",
+      "mcwfurnitures:cabinet_door",
+      "",
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      ""
+    ]
+  },
+  "mcwfurnitures:spruce_glass_table": {
+    "result": "mcwfurnitures:spruce_glass_table",
+    "count": 1,
+    "ingredients": [
+      "mcwfurnitures:spruce_end_table",
+      "",
+      "",
+      "minecraft:glass",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfurnitures:spruce_kitchen_cabinet": {
+    "result": "mcwfurnitures:spruce_kitchen_cabinet",
+    "count": 4,
+    "ingredients": [
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "",
+      "minecraft:spruce_log",
+      "mcwfurnitures:cabinet_door",
+      "",
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      ""
+    ]
+  },
+  "mcwfurnitures:spruce_kitchen_sink": {
+    "result": "mcwfurnitures:spruce_kitchen_sink",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spruce_slab",
+      "minecraft:cauldron",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_log",
+      "minecraft:water_bucket",
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "minecraft:water_bucket",
+      "minecraft:spruce_log"
+    ]
+  },
+  "mcwfurnitures:spruce_large_drawer": {
+    "result": "mcwfurnitures:spruce_large_drawer",
+    "count": 4,
+    "ingredients": [
+      "minecraft:spruce_log",
+      "mcwfurnitures:cabinet_drawer",
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "minecraft:spruce_log"
+    ]
+  },
+  "mcwfurnitures:spruce_lower_bookshelf_drawer": {
+    "result": "mcwfurnitures:spruce_lower_bookshelf_drawer",
+    "count": 4,
+    "ingredients": [
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "minecraft:book",
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "mcwfurnitures:cabinet_drawer",
+      "minecraft:spruce_log"
+    ]
+  },
+  "mcwfurnitures:spruce_lower_triple_drawer": {
+    "result": "mcwfurnitures:spruce_lower_triple_drawer",
+    "count": 4,
+    "ingredients": [
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "mcwfurnitures:cabinet_drawer",
+      "minecraft:spruce_log",
+      "mcwfurnitures:cabinet_drawer",
+      "minecraft:spruce_log",
+      "mcwfurnitures:cabinet_drawer",
+      "minecraft:spruce_log"
+    ]
+  },
+  "mcwfurnitures:spruce_modern_chair": {
+    "result": "mcwfurnitures:spruce_modern_chair",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spruce_slab",
+      "minecraft:spruce_log",
+      "",
+      "minecraft:spruce_fence",
+      "minecraft:spruce_fence",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfurnitures:spruce_modern_desk": {
+    "result": "mcwfurnitures:spruce_modern_desk",
+    "count": 2,
+    "ingredients": [
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "minecraft:spruce_fence",
+      "minecraft:stick",
+      "minecraft:spruce_fence",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfurnitures:spruce_modern_wardrobe": {
+    "result": "mcwfurnitures:spruce_modern_wardrobe",
+    "count": 4,
+    "ingredients": [
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "mcwfurnitures:cabinet_door",
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "minecraft:spruce_log"
+    ]
+  },
+  "mcwfurnitures:spruce_stool_chair": {
+    "result": "mcwfurnitures:spruce_stool_chair",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spruce_log",
+      "",
+      "",
+      "minecraft:spruce_log",
+      "",
+      "",
+      "minecraft:spruce_fence",
+      "",
+      ""
+    ]
+  },
+  "mcwfurnitures:spruce_striped_chair": {
+    "result": "mcwfurnitures:spruce_striped_chair",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:spruce_log",
+      "",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_fence",
+      "",
+      "minecraft:spruce_fence",
+      "minecraft:spruce_fence",
+      ""
+    ]
+  },
+  "mcwfurnitures:spruce_table": {
+    "result": "mcwfurnitures:spruce_table",
+    "count": 1,
+    "ingredients": [
+      "mcwfurnitures:spruce_coffee_table",
+      "",
+      "",
+      "minecraft:spruce_fence",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfurnitures:spruce_triple_drawer": {
+    "result": "mcwfurnitures:spruce_triple_drawer",
+    "count": 4,
+    "ingredients": [
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "mcwfurnitures:cabinet_drawer",
+      "minecraft:spruce_log",
+      "mcwfurnitures:cabinet_drawer",
+      "minecraft:spruce_log",
+      "mcwfurnitures:cabinet_drawer"
+    ]
+  },
+  "mcwfurnitures:spruce_wardrobe": {
+    "result": "mcwfurnitures:spruce_wardrobe",
+    "count": 4,
+    "ingredients": [
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "mcwfurnitures:cabinet_door",
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "minecraft:spruce_log"
+    ]
+  },
+  "mcwholidays:spider_balloon": {
+    "result": "mcwholidays:spider_balloon",
+    "count": 1,
+    "ingredients": [
+      "minecraft:red_dye",
+      "",
+      "",
+      "minecraft:black_wool",
+      "",
+      "",
+      "minecraft:string",
+      "",
+      ""
+    ]
+  },
+  "mcwholidays:spider_wall_deco_1": {
+    "result": "mcwholidays:spider_wall_deco_1",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black_dye",
+      "",
+      "minecraft:black_dye",
+      "",
+      "minecraft:paper",
+      "",
+      "minecraft:black_dye",
+      "",
+      "minecraft:black_dye"
+    ]
+  },
+  "mcwholidays:spider_wall_deco_2": {
+    "result": "mcwholidays:spider_wall_deco_2",
+    "count": 1,
+    "ingredients": [
+      "mcwholidays:spider_wall_deco_1",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwholidays:spooky_cobweb": {
+    "result": "mcwholidays:spooky_cobweb",
+    "count": 5,
+    "ingredients": [
+      "minecraft:cobweb",
+      "minecraft:cobweb",
+      "minecraft:cobweb",
+      "minecraft:cobweb",
+      "",
+      "minecraft:cobweb",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwlights:spruce_ceiling_fan_light": {
+    "result": "mcwlights:spruce_ceiling_fan_light",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:iron_nugget",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:spruce_slab",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:glowstone_dust",
+      ""
+    ]
+  },
+  "mcwlights:spruce_tiki_torch": {
+    "result": "mcwlights:spruce_tiki_torch",
+    "count": 1,
+    "ingredients": [
+      "minecraft:torch",
+      "",
+      "",
+      "minecraft:spruce_fence",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwpaths:spruce_planks_path": {
+    "result": "mcwpaths:spruce_planks_path",
+    "count": 3,
+    "ingredients": [
+      "minecraft:spruce_slab",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:spruce_attic_roof": {
+    "result": "mcwroofs:spruce_attic_roof",
+    "count": 2,
+    "ingredients": [
+      "",
+      "minecraft:spruce_log",
+      "",
+      "minecraft:spruce_log",
+      "minecraft:glass",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:spruce_lower_roof": {
+    "result": "mcwroofs:spruce_lower_roof",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:spruce_planks_attic_roof": {
+    "result": "mcwroofs:spruce_planks_attic_roof",
+    "count": 2,
+    "ingredients": [
+      "",
+      "minecraft:spruce_planks",
+      "",
+      "minecraft:spruce_planks",
+      "minecraft:glass",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:spruce_planks_lower_roof": {
+    "result": "mcwroofs:spruce_planks_lower_roof",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:spruce_planks_roof": {
+    "result": "mcwroofs:spruce_planks_roof",
+    "count": 2,
+    "ingredients": [
+      "",
+      "minecraft:spruce_planks",
+      "",
+      "minecraft:spruce_planks",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:spruce_planks_steep_roof": {
+    "result": "mcwroofs:spruce_planks_steep_roof",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:spruce_planks",
+      "",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks",
+      "",
+      "minecraft:spruce_planks",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "mcwroofs:spruce_planks_top_roof": {
+    "result": "mcwroofs:spruce_planks_top_roof",
+    "count": 2,
+    "ingredients": [
+      "minecraft:spruce_planks",
+      "minecraft:stick",
+      "minecraft:spruce_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:spruce_planks_upper_lower_roof": {
+    "result": "mcwroofs:spruce_planks_upper_lower_roof",
+    "count": 3,
+    "ingredients": [
+      "",
+      "",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:spruce_planks_upper_steep_roof": {
+    "result": "mcwroofs:spruce_planks_upper_steep_roof",
+    "count": 3,
+    "ingredients": [
+      "",
+      "minecraft:spruce_planks",
+      "",
+      "",
+      "minecraft:spruce_planks",
+      "",
+      "minecraft:spruce_planks",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "mcwroofs:spruce_roof": {
+    "result": "mcwroofs:spruce_roof",
+    "count": 2,
+    "ingredients": [
+      "",
+      "minecraft:spruce_log",
+      "",
+      "minecraft:spruce_log",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:spruce_steep_roof": {
+    "result": "mcwroofs:spruce_steep_roof",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:spruce_log",
+      "",
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "",
+      "minecraft:spruce_log",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "mcwroofs:spruce_top_roof": {
+    "result": "mcwroofs:spruce_top_roof",
+    "count": 2,
+    "ingredients": [
+      "minecraft:spruce_log",
+      "minecraft:stick",
+      "minecraft:spruce_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:spruce_upper_lower_roof": {
+    "result": "mcwroofs:spruce_upper_lower_roof",
+    "count": 3,
+    "ingredients": [
+      "",
+      "",
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:spruce_upper_steep_roof": {
+    "result": "mcwroofs:spruce_upper_steep_roof",
+    "count": 3,
+    "ingredients": [
+      "",
+      "minecraft:spruce_log",
+      "",
+      "",
+      "minecraft:spruce_log",
+      "",
+      "minecraft:spruce_log",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "mcwstairs:spruce_balcony": {
+    "result": "mcwstairs:spruce_balcony",
+    "count": 6,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:spruce_fence",
+      "",
+      "minecraft:spruce_fence",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick"
+    ]
+  },
+  "mcwstairs:spruce_bulk_stairs": {
+    "result": "mcwstairs:spruce_bulk_stairs",
+    "count": 6,
+    "ingredients": [
+      "minecraft:stripped_spruce_log",
+      "",
+      "",
+      "minecraft:spruce_log",
+      "minecraft:stripped_spruce_log",
+      "",
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "minecraft:stripped_spruce_log"
+    ]
+  },
+  "mcwstairs:spruce_compact_stairs": {
+    "result": "mcwstairs:spruce_compact_stairs",
+    "count": 6,
+    "ingredients": [
+      "minecraft:stripped_spruce_log",
+      "",
+      "",
+      "minecraft:stripped_spruce_log",
+      "minecraft:stripped_spruce_log",
+      "",
+      "minecraft:stripped_spruce_log",
+      "minecraft:stripped_spruce_log",
+      "minecraft:stripped_spruce_log"
+    ]
+  },
+  "mcwstairs:spruce_loft_stairs": {
+    "result": "mcwstairs:spruce_loft_stairs",
+    "count": 3,
+    "ingredients": [
+      "minecraft:stripped_spruce_log",
+      "",
+      "",
+      "",
+      "minecraft:stripped_spruce_log",
+      "",
+      "",
+      "",
+      "minecraft:stripped_spruce_log"
+    ]
+  },
+  "mcwstairs:spruce_platform": {
+    "result": "mcwstairs:spruce_platform",
+    "count": 12,
+    "ingredients": [
+      "",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      "",
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwstairs:spruce_railing": {
+    "result": "mcwstairs:spruce_railing",
+    "count": 6,
+    "ingredients": [
+      "mcwstairs:spruce_balcony",
+      "",
+      "",
+      "mcwstairs:spruce_balcony",
+      "mcwstairs:spruce_balcony",
+      "",
+      "mcwstairs:spruce_balcony",
+      "mcwstairs:spruce_balcony",
+      "mcwstairs:spruce_balcony"
+    ]
+  },
+  "mcwstairs:spruce_skyline_stairs": {
+    "result": "mcwstairs:spruce_skyline_stairs",
+    "count": 4,
+    "ingredients": [
+      "minecraft:stripped_spruce_log",
+      "",
+      "",
+      "minecraft:spruce_log",
+      "minecraft:stripped_spruce_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwstairs:spruce_terrace_stairs": {
+    "result": "mcwstairs:spruce_terrace_stairs",
+    "count": 5,
+    "ingredients": [
+      "minecraft:stripped_spruce_log",
+      "",
+      "",
+      "minecraft:spruce_log",
+      "minecraft:stripped_spruce_log",
+      "",
+      "",
+      "minecraft:spruce_log",
+      "minecraft:stripped_spruce_log"
+    ]
+  },
+  "mcwtrpdoors:spruce_bamboo_trapdoor": {
+    "result": "mcwtrpdoors:spruce_bamboo_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spruce_planks",
+      "",
+      "",
+      "mcwtrpdoors:print_bamboo",
+      "",
+      "",
+      "minecraft:spruce_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwtrpdoors:spruce_bark_trapdoor": {
+    "result": "mcwtrpdoors:spruce_bark_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "minecraft:spruce_log",
+      "minecraft:glass_pane",
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "minecraft:glass_pane",
+      "minecraft:spruce_log",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwtrpdoors:spruce_barn_trapdoor": {
+    "result": "mcwtrpdoors:spruce_barn_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spruce_planks",
+      "",
+      "",
+      "mcwtrpdoors:spruce_glass_trapdoor",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwtrpdoors:spruce_barred_trapdoor": {
+    "result": "mcwtrpdoors:spruce_barred_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spruce_planks",
+      "",
+      "",
+      "mcwtrpdoors:print_barred",
+      "",
+      "",
+      "minecraft:spruce_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwtrpdoors:spruce_barrel_trapdoor": {
+    "result": "mcwtrpdoors:spruce_barrel_trapdoor",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:spruce_planks",
+      "",
+      "minecraft:spruce_planks",
+      "minecraft:barrel",
+      "minecraft:spruce_planks",
+      "",
+      "minecraft:spruce_planks",
+      ""
+    ]
+  },
+  "mcwtrpdoors:spruce_beach_trapdoor": {
+    "result": "mcwtrpdoors:spruce_beach_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spruce_planks",
+      "",
+      "",
+      "mcwtrpdoors:print_beach",
+      "",
+      "",
+      "minecraft:spruce_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwtrpdoors:spruce_blossom_trapdoor": {
+    "result": "mcwtrpdoors:spruce_blossom_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spruce_planks",
+      "",
+      "",
+      "mcwtrpdoors:print_blossom",
+      "",
+      "",
+      "minecraft:spruce_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwtrpdoors:spruce_classic_trapdoor": {
+    "result": "mcwtrpdoors:spruce_classic_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spruce_planks",
+      "",
+      "",
+      "mcwtrpdoors:print_classic",
+      "",
+      "",
+      "minecraft:spruce_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwtrpdoors:spruce_four_panel_trapdoor": {
+    "result": "mcwtrpdoors:spruce_four_panel_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spruce_planks",
+      "",
+      "",
+      "mcwtrpdoors:print_four_panel",
+      "",
+      "",
+      "minecraft:spruce_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwtrpdoors:spruce_glass_trapdoor": {
+    "result": "mcwtrpdoors:spruce_glass_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "minecraft:spruce_planks",
+      "minecraft:glass_pane",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks",
+      "minecraft:glass_pane",
+      "minecraft:spruce_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwtrpdoors:spruce_mystic_trapdoor": {
+    "result": "mcwtrpdoors:spruce_mystic_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spruce_planks",
+      "",
+      "",
+      "mcwtrpdoors:print_mystic",
+      "",
+      "",
+      "minecraft:spruce_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwtrpdoors:spruce_paper_trapdoor": {
+    "result": "mcwtrpdoors:spruce_paper_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spruce_planks",
+      "",
+      "",
+      "mcwtrpdoors:print_paper",
+      "",
+      "",
+      "minecraft:spruce_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwtrpdoors:spruce_ranch_trapdoor": {
+    "result": "mcwtrpdoors:spruce_ranch_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "minecraft:spruce_log",
+      "minecraft:stick",
+      "minecraft:spruce_log",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:spruce_log",
+      "minecraft:stick",
+      "minecraft:spruce_log"
+    ]
+  },
+  "mcwtrpdoors:spruce_swamp_trapdoor": {
+    "result": "mcwtrpdoors:spruce_swamp_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spruce_planks",
+      "",
+      "",
+      "mcwtrpdoors:print_swamp",
+      "",
+      "",
+      "minecraft:spruce_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwtrpdoors:spruce_tropical_trapdoor": {
+    "result": "mcwtrpdoors:spruce_tropical_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spruce_planks",
+      "",
+      "",
+      "mcwtrpdoors:print_tropical",
+      "",
+      "",
+      "minecraft:spruce_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwtrpdoors:spruce_whispering_trapdoor": {
+    "result": "mcwtrpdoors:spruce_whispering_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spruce_planks",
+      "",
+      "",
+      "mcwtrpdoors:print_whispering",
+      "",
+      "",
+      "minecraft:spruce_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwwindows:spruce_blinds": {
+    "result": "mcwwindows:spruce_blinds",
+    "count": 3,
+    "ingredients": [
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick"
+    ]
+  },
+  "mcwwindows:spruce_curtain_rod": {
+    "result": "mcwwindows:spruce_curtain_rod",
+    "count": 5,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:spruce_log",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwwindows:spruce_four_window": {
+    "result": "mcwwindows:spruce_four_window",
+    "count": 8,
+    "ingredients": [
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "minecraft:spruce_log",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base"
+    ]
+  },
+  "mcwwindows:spruce_log_parapet": {
+    "result": "mcwwindows:spruce_log_parapet",
+    "count": 5,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:spruce_log",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwwindows:spruce_louvered_shutter": {
+    "result": "mcwwindows:spruce_louvered_shutter",
+    "count": 3,
+    "ingredients": [
+      "minecraft:spruce_slab",
+      "",
+      "",
+      "minecraft:spruce_slab",
+      "",
+      "",
+      "minecraft:spruce_slab",
+      "",
+      ""
+    ]
+  },
+  "mcwwindows:spruce_pane_window": {
+    "result": "mcwwindows:spruce_pane_window",
+    "count": 8,
+    "ingredients": [
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "minecraft:spruce_log",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base"
+    ]
+  },
+  "mcwwindows:spruce_plank_four_window": {
+    "result": "mcwwindows:spruce_plank_four_window",
+    "count": 8,
+    "ingredients": [
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "minecraft:spruce_planks",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base"
+    ]
+  },
+  "mcwwindows:spruce_plank_pane_window": {
+    "result": "mcwwindows:spruce_plank_pane_window",
+    "count": 8,
+    "ingredients": [
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "minecraft:spruce_planks",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base"
+    ]
+  },
+  "mcwwindows:spruce_plank_parapet": {
+    "result": "mcwwindows:spruce_plank_parapet",
+    "count": 5,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:spruce_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwwindows:spruce_plank_window": {
+    "result": "mcwwindows:spruce_plank_window",
+    "count": 4,
+    "ingredients": [
+      "",
+      "mcwwindows:window_base",
+      "",
+      "mcwwindows:window_base",
+      "minecraft:spruce_planks",
+      "mcwwindows:window_base",
+      "",
+      "mcwwindows:window_base",
+      ""
+    ]
+  },
+  "mcwwindows:spruce_plank_window2": {
+    "result": "mcwwindows:spruce_plank_window2",
+    "count": 8,
+    "ingredients": [
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "minecraft:spruce_planks",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base"
+    ]
+  },
+  "mcwwindows:spruce_shutter": {
+    "result": "mcwwindows:spruce_shutter",
+    "count": 3,
+    "ingredients": [
+      "minecraft:spruce_trapdoor",
+      "",
+      "",
+      "minecraft:spruce_trapdoor",
+      "",
+      "",
+      "minecraft:spruce_trapdoor",
+      "",
+      ""
+    ]
+  },
+  "mcwwindows:spruce_window": {
+    "result": "mcwwindows:spruce_window",
+    "count": 4,
+    "ingredients": [
+      "",
+      "mcwwindows:window_base",
+      "",
+      "mcwwindows:window_base",
+      "minecraft:spruce_log",
+      "mcwwindows:window_base",
+      "",
+      "mcwwindows:window_base",
+      ""
+    ]
+  },
+  "mcwwindows:spruce_window2": {
+    "result": "mcwwindows:spruce_window2",
+    "count": 8,
+    "ingredients": [
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "minecraft:spruce_log",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base"
+    ]
+  },
+  "mekanism:sps_casing": {
+    "result": "mekanism:sps_casing",
+    "count": 1,
+    "ingredients": [
+      "mekanism:hdpe_sheet",
+      "minecraft:polonium",
+      "mekanism:hdpe_sheet",
+      "minecraft:polonium",
+      "minecraft:plutonium",
+      "minecraft:polonium",
+      "mekanism:hdpe_sheet",
+      "minecraft:polonium",
+      "mekanism:hdpe_sheet"
+    ]
+  },
+  "mekanism:sps_port": {
+    "result": "mekanism:sps_port",
+    "count": 1,
+    "ingredients": [
+      "",
+      "mekanism:sps_casing",
+      "",
+      "mekanism:sps_casing",
+      "minecraft:ultimate",
+      "mekanism:sps_casing",
+      "",
+      "mekanism:sps_casing",
+      ""
+    ]
+  },
+  "merrymaking:spruce_leaves_lights_large_multi": {
+    "result": "merrymaking:spruce_leaves_lights_large_multi",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spruce_leaves",
+      "merrymaking:classic_lights_multi",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:spruce_leaves_lights_large_white": {
+    "result": "merrymaking:spruce_leaves_lights_large_white",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spruce_leaves",
+      "merrymaking:classic_lights_white",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:spruce_leaves_lights_multi": {
+    "result": "merrymaking:spruce_leaves_lights_multi",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spruce_leaves",
+      "merrymaking:tree_lights_multi",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:spruce_leaves_lights_white": {
+    "result": "merrymaking:spruce_leaves_lights_white",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spruce_leaves",
+      "merrymaking:tree_lights_white",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:spruce_roof_slab": {
+    "result": "merrymaking:spruce_roof_slab",
+    "count": 4,
+    "ingredients": [
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      "merrymaking:roof_tiles",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:spruce_mantel": {
+    "result": "merrymaking:spruce_mantel",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_planks",
+      "",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks",
+      "",
+      "minecraft:spruce_planks"
+    ]
+  },
+  "merrymaking:spruce_picket_fence": {
+    "result": "merrymaking:spruce_picket_fence",
+    "count": 3,
+    "ingredients": [
+      "minecraft:spruce_planks",
+      "minecraft:stick",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks",
+      "minecraft:stick",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks",
+      "minecraft:stick",
+      "minecraft:spruce_planks"
+    ]
+  },
+  "merrymaking:spruce_picket_fence_gate": {
+    "result": "merrymaking:spruce_picket_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:spruce_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:spruce_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:spruce_planks",
+      "minecraft:stick"
+    ]
+  },
+  "merrymaking:spruce_wreath_door": {
+    "result": "merrymaking:spruce_wreath_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spruce_door",
+      "merrymaking:christmas_wreath",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:spruce_wreath_fence": {
+    "result": "merrymaking:spruce_wreath_fence",
+    "count": 1,
+    "ingredients": [
+      "merrymaking:spruce_picket_fence",
+      "merrymaking:garland_horizontal",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:spruce_wreath_fence_gate": {
+    "result": "merrymaking:spruce_wreath_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "merrymaking:spruce_picket_fence_gate",
+      "merrymaking:christmas_wreath",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:spruce_wreath_lights_multi_door": {
+    "result": "merrymaking:spruce_wreath_lights_multi_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spruce_door",
+      "merrymaking:christmas_wreath_multi_lights",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:spruce_wreath_multi_fence": {
+    "result": "merrymaking:spruce_wreath_multi_fence",
+    "count": 1,
+    "ingredients": [
+      "merrymaking:spruce_picket_fence",
+      "merrymaking:garland_horizontal_multi",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:spruce_wreath_multi_fence_gate": {
+    "result": "merrymaking:spruce_wreath_multi_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "merrymaking:spruce_picket_fence_gate",
+      "merrymaking:christmas_wreath_multi_lights",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:spruce_wreath_lights_white_door": {
+    "result": "merrymaking:spruce_wreath_lights_white_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spruce_door",
+      "merrymaking:christmas_wreath_white_lights",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:spruce_wreath_lights_fence": {
+    "result": "merrymaking:spruce_wreath_lights_fence",
+    "count": 1,
+    "ingredients": [
+      "merrymaking:spruce_picket_fence",
+      "merrymaking:garland_horizontal_lights",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:spruce_wreath_lights_fence_gate": {
+    "result": "merrymaking:spruce_wreath_lights_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "merrymaking:spruce_picket_fence_gate",
+      "merrymaking:christmas_wreath_white_lights",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mffs:speed_module": {
+    "result": "mffs:speed_module",
+    "count": 2,
+    "ingredients": [
+      "mffs:focus_matrix",
+      "mffs:focus_matrix",
+      "mffs:focus_matrix",
+      "minecraft:redstone",
+      "minecraft:redstone",
+      "minecraft:redstone",
+      "mffs:focus_matrix",
+      "mffs:focus_matrix",
+      "mffs:focus_matrix"
+    ]
+  },
+  "mffs:sphere_mode": {
+    "result": "mffs:sphere_mode",
+    "count": 1,
+    "ingredients": [
+      "",
+      "mffs:focus_matrix",
+      "",
+      "mffs:focus_matrix",
+      "mffs:focus_matrix",
+      "mffs:focus_matrix",
+      "",
+      "mffs:focus_matrix",
+      ""
+    ]
+  },
+  "mffs:sponge_module": {
+    "result": "mffs:sponge_module",
+    "count": 1,
+    "ingredients": [
+      "minecraft:sponge",
+      "minecraft:sponge",
+      "minecraft:sponge",
+      "minecraft:sponge",
+      "mffs:focus_matrix",
+      "minecraft:sponge",
+      "minecraft:sponge",
+      "minecraft:sponge",
+      "minecraft:sponge"
+    ]
+  },
+  "minecolonies:spear": {
+    "result": "minecolonies:spear",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "minecraft:iron_ingot",
+      "",
+      "structurize:sceptergold",
+      "",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "minecolonies:spicy_grilled_chicken": {
+    "result": "minecolonies:spicy_grilled_chicken",
+    "count": 2,
+    "ingredients": [
+      "minecolonies:garlic",
+      "minecraft:chicken",
+      "minecraft:chicken",
+      "minecolonies:nether_pepper",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:spectral_arrow": {
+    "result": "minecraft:spectral_arrow",
+    "count": 2,
+    "ingredients": [
+      "",
+      "minecraft:glowstone_dust",
+      "",
+      "minecraft:glowstone_dust",
+      "minecraft:arrow",
+      "minecraft:glowstone_dust",
+      "",
+      "minecraft:glowstone_dust",
+      ""
+    ]
+  },
+  "minecraft:spire_armor_trim_smithing_template": {
+    "result": "minecraft:spire_armor_trim_smithing_template",
+    "count": 2,
+    "ingredients": [
+      "minecraft:diamond",
+      "minecraft:spire_armor_trim_smithing_template",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:purpur_block",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond"
+    ]
+  },
+  "minecraft:spruce_boat": {
+    "result": "minecraft:spruce_boat",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spruce_planks",
+      "",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:spruce_button": {
+    "result": "minecraft:spruce_button",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spruce_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:spruce_chest_boat": {
+    "result": "minecraft:spruce_chest_boat",
+    "count": 1,
+    "ingredients": [
+      "minecraft:chest",
+      "minecraft:spruce_boat",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:spruce_fence": {
+    "result": "minecraft:spruce_fence",
+    "count": 3,
+    "ingredients": [
+      "minecraft:spruce_planks",
+      "minecraft:stick",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks",
+      "minecraft:stick",
+      "minecraft:spruce_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:spruce_fence_gate": {
+    "result": "minecraft:spruce_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:spruce_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:spruce_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:spruce_hanging_sign": {
+    "result": "minecraft:spruce_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "minecraft:stripped_spruce_log",
+      "minecraft:stripped_spruce_log",
+      "minecraft:stripped_spruce_log",
+      "minecraft:stripped_spruce_log",
+      "minecraft:stripped_spruce_log",
+      "minecraft:stripped_spruce_log"
+    ]
+  },
+  "minecraft:spruce_pressure_plate": {
+    "result": "minecraft:spruce_pressure_plate",
+    "count": 4,
+    "ingredients": [
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:spruce_sign": {
+    "result": "minecraft:spruce_sign",
+    "count": 3,
+    "ingredients": [
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks",
+      "minecraft:spruce_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "minecraft:spruce_slab": {
+    "result": "minecraft:spruce_slab",
+    "count": 24,
+    "ingredients": [
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:spruce_stairs": {
+    "result": "minecraft:spruce_stairs",
+    "count": 16,
+    "ingredients": [
+      "minecraft:spruce_log",
+      "",
+      "",
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "",
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "minecraft:spruce_log"
+    ]
+  },
+  "minecraft:spruce_wood": {
+    "result": "minecraft:spruce_wood",
+    "count": 3,
+    "ingredients": [
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "",
+      "minecraft:spruce_log",
+      "minecraft:spruce_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:spyglass": {
+    "result": "minecraft:spyglass",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:amethyst_shard",
+      "",
+      "",
+      "minecraft:copper_ingot",
+      "",
+      "",
+      "minecraft:copper_ingot",
+      ""
+    ]
+  },
+  "mob_grinding_utils:spikes": {
+    "result": "mob_grinding_utils:spikes",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:iron_sword",
+      "",
+      "minecraft:iron_sword",
+      "minecraft:iron",
+      "minecraft:iron_sword",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modularrouters:speed_upgrade": {
+    "result": "modularrouters:speed_upgrade",
+    "count": 3,
+    "ingredients": [
+      "minecraft:redstone",
+      "minecraft:gold_ingot",
+      "minecraft:redstone",
+      "minecraft:gold",
+      "modularrouters:blank_upgrade",
+      "minecraft:gold",
+      "minecraft:gunpowder",
+      "minecraft:blaze",
+      "minecraft:gunpowder"
+    ]
+  },
+  "minecraft:spruce_sapling": {
+    "result": "minecraft:spruce_sapling",
+    "count": 2,
+    "ingredients": [
+      "regions_unexplored:spruce_shrub",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "naturesaura:spring": {
+    "result": "naturesaura:spring",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone_bricks",
+      "minecraft:water_bucket",
+      "minecraft:stone_bricks",
+      "minecraft:water_bucket",
+      "naturesaura:token_euphoria",
+      "minecraft:water_bucket",
+      "minecraft:stone_bricks",
+      "minecraft:water_bucket",
+      "minecraft:stone_bricks"
+    ]
+  },
+  "occultism:spirit_attuned_crystal": {
+    "result": "occultism:spirit_attuned_crystal",
+    "count": 1,
+    "ingredients": [
+      "occultism:spirit_attuned_gem",
+      "occultism:spirit_attuned_gem",
+      "",
+      "occultism:spirit_attuned_gem",
+      "occultism:spirit_attuned_gem",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "occultism:spirit_attuned_pickaxe_head": {
+    "result": "occultism:spirit_attuned_pickaxe_head",
+    "count": 1,
+    "ingredients": [
+      "occultism:spirit_attuned_gem",
+      "occultism:spirit_attuned_gem",
+      "occultism:spirit_attuned_gem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "occultism:spirit_campfire": {
+    "result": "occultism:spirit_campfire",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "minecraft:stick",
+      "minecraft:datura",
+      "minecraft:stick",
+      "minecraft:oak_log",
+      "minecraft:oak_log",
+      "minecraft:oak_log"
+    ]
+  },
+  "occultism:spirit_lantern": {
+    "result": "occultism:spirit_lantern",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron",
+      "minecraft:iron",
+      "minecraft:iron",
+      "minecraft:iron",
+      "occultism:spirit_torch",
+      "minecraft:iron",
+      "minecraft:iron",
+      "minecraft:iron",
+      "minecraft:iron"
+    ]
+  },
+  "occultism:spirit_torch": {
+    "result": "occultism:spirit_torch",
+    "count": 1,
+    "ingredients": [
+      "minecraft:coal",
+      "",
+      "",
+      "minecraft:datura",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "oritech:spawner_cage_block": {
+    "result": "oritech:spawner_cage_block",
+    "count": 2,
+    "ingredients": [
+      "minecraft:iron_bars",
+      "minecraft:iron_bars",
+      "minecraft:iron_bars",
+      "minecraft:plastic",
+      "minecraft:plastic",
+      "minecraft:plastic",
+      "minecraft:iron_bars",
+      "minecraft:iron_bars",
+      "minecraft:iron_bars"
+    ]
+  },
+  "oritech:spawner_controller_block": {
+    "result": "oritech:spawner_controller_block",
+    "count": 1,
+    "ingredients": [
+      "oritech:spawner_cage_block",
+      "oritech:spawner_cage_block",
+      "oritech:spawner_cage_block",
+      "oritech:enchantment_catalyst_block",
+      "minecraft:respawn_anchor",
+      "oritech:enchantment_catalyst_block",
+      "oritech:spawner_cage_block",
+      "oritech:spawner_cage_block",
+      "oritech:spawner_cage_block"
+    ]
+  },
+  "pamhc2crops:spiceleafseeditem": {
+    "result": "pamhc2crops:spiceleafseeditem",
+    "count": 1,
+    "ingredients": [
+      "pamhc2crops:spiceleafitem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2crops:spinachseeditem": {
+    "result": "pamhc2crops:spinachseeditem",
+    "count": 1,
+    "ingredients": [
+      "pamhc2crops:spinachitem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:sprinklesdonutitem": {
+    "result": "pamhc2foodcore:sprinklesdonutitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:cookingoil",
+      "minecraft:batter",
+      "minecraft:sugar",
+      "minecraft:red",
+      "minecraft:green",
+      "minecraft:yellow",
+      "minecraft:blue",
+      ""
+    ]
+  },
+  "pamhc2foodextended:spagettiandmeatballsitem": {
+    "result": "pamhc2foodextended:spagettiandmeatballsitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:tomato",
+      "minecraft:pasta",
+      "minecraft:spiceleaf",
+      "minecraft:rawbeef",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:spagettiitem": {
+    "result": "pamhc2foodextended:spagettiitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:tomato",
+      "minecraft:pasta",
+      "minecraft:spiceleaf",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:spaghettidinneritem": {
+    "result": "pamhc2foodextended:spaghettidinneritem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "pamhc2foodextended:spagettiandmeatballsitem",
+      "pamhc2foodextended:garlicbreaditem",
+      "minecraft:milk",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:spicebunitem": {
+    "result": "pamhc2foodextended:spicebunitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:flour",
+      "minecraft:milk",
+      "minecraft:groundnutmeg",
+      "minecraft:groundcinnamon",
+      "pamhc2foodextended:raisinsitem",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:spicygreensitem": {
+    "result": "pamhc2foodextended:spicygreensitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:mustard",
+      "minecraft:broccoli",
+      "minecraft:blackpepper",
+      "minecraft:garlic",
+      "minecraft:cookingoil",
+      "minecraft:onion",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:spicymustardporkitem": {
+    "result": "pamhc2foodextended:spicymustardporkitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:mustard",
+      "minecraft:rawpork",
+      "minecraft:garlic",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:spinachpieitem": {
+    "result": "pamhc2foodextended:spinachpieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:dough",
+      "minecraft:spinach",
+      "minecraft:cheese",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:splitpeasoupitem": {
+    "result": "pamhc2foodextended:splitpeasoupitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:peas",
+      "minecraft:rawpork",
+      "minecraft:blackpepper",
+      "minecraft:stock",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:springfieldcashewchickenitem": {
+    "result": "pamhc2foodextended:springfieldcashewchickenitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_skillet",
+      "pamhc2foodcore:friedchickenitem",
+      "minecraft:cashew",
+      "minecraft:oystersauce",
+      "minecraft:rice",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:springrollitem": {
+    "result": "pamhc2foodextended:springrollitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:rice",
+      "minecraft:hoisinsauce",
+      "minecraft:peanut",
+      "minecraft:garlic",
+      "minecraft:lime",
+      "minecraft:spiceleaf",
+      "minecraft:cabbage",
+      ""
+    ]
+  },
+  "pamhc2foodextended:springsaladitem": {
+    "result": "pamhc2foodextended:springsaladitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:lettuce",
+      "minecraft:vegetables",
+      "minecraft:saladdressing",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:sprinklescupcakeitem": {
+    "result": "pamhc2foodextended:sprinklescupcakeitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:batter",
+      "minecraft:sugar",
+      "minecraft:cream",
+      "minecraft:butter",
+      "minecraft:dyes",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2trees:spiderweb_sapling": {
+    "result": "pamhc2trees:spiderweb_sapling",
+    "count": 1,
+    "ingredients": [
+      "minecraft:string",
+      "minecraft:string",
+      "minecraft:string",
+      "minecraft:string",
+      "minecraft:string",
+      "minecraft:string",
+      "minecraft:string",
+      "minecraft:string",
+      "minecraft:saplings"
+    ]
+  },
+  "pneumaticcraft:spawner_agitator": {
+    "result": "pneumaticcraft:spawner_agitator",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:ghast_tear",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "pneumaticcraft:spawner_core_shell": {
+    "result": "pneumaticcraft:spawner_core_shell",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "pneumaticcraft:pressure_chamber_glass",
+      "minecraft:iron_ingot",
+      "pneumaticcraft:pressure_chamber_glass",
+      "minecraft:emerald",
+      "pneumaticcraft:pressure_chamber_glass",
+      "minecraft:iron_ingot",
+      "pneumaticcraft:pressure_chamber_glass",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "pneumaticcraft:spawner_extractor": {
+    "result": "pneumaticcraft:spawner_extractor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "pneumaticcraft:pressure_tube",
+      "minecraft:iron_ingot",
+      "pneumaticcraft:pressure_chamber_wall",
+      "pneumaticcraft:spawner_agitator",
+      "pneumaticcraft:pressure_chamber_wall",
+      "minecraft:obsidians",
+      "pneumaticcraft:drill_pipe",
+      "minecraft:obsidians"
+    ]
+  },
+  "productivebees:spawn_egg_configurable_bee": {
+    "result": "productivebees:spawn_egg_configurable_bee",
+    "count": 1,
+    "ingredients": [
+      "minecraft:cobalt",
+      "minecraft:cobalt",
+      "minecraft:cobalt",
+      "minecraft:cobalt",
+      "productivebees:spawn_egg_configurable_bee",
+      "minecraft:cobalt",
+      "minecraft:cobalt",
+      "minecraft:cobalt",
+      "minecraft:cobalt"
+    ]
+  },
+  "productivebees:spruce_wood_nest": {
+    "result": "productivebees:spruce_wood_nest",
+    "count": 1,
+    "ingredients": [
+      "productivebees:spruce_wood_nest",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sparkle_cherry_bookshelf": {
+    "result": "productivetrees:sparkle_cherry_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:sparkle_cherry_planks",
+      "productivetrees:sparkle_cherry_planks",
+      "productivetrees:sparkle_cherry_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:sparkle_cherry_planks",
+      "productivetrees:sparkle_cherry_planks",
+      "productivetrees:sparkle_cherry_planks"
+    ]
+  },
+  "productivetrees:sparkle_cherry_button": {
+    "result": "productivetrees:sparkle_cherry_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:sparkle_cherry_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sparkling_cherry_crate": {
+    "result": "productivetrees:sparkling_cherry_crate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:sparkling_cherry",
+      "minecraft:sparkling_cherry",
+      "minecraft:sparkling_cherry",
+      "minecraft:sparkling_cherry",
+      "productivetrees:sparkling_cherry",
+      "minecraft:sparkling_cherry",
+      "minecraft:sparkling_cherry",
+      "minecraft:sparkling_cherry",
+      "minecraft:sparkling_cherry"
+    ]
+  },
+  "productivetrees:sparkling_cherry": {
+    "result": "productivetrees:sparkling_cherry",
+    "count": 9,
+    "ingredients": [
+      "productivetrees:sparkling_cherry_crate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sparkle_cherry_door": {
+    "result": "productivetrees:sparkle_cherry_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:sparkle_cherry_planks",
+      "productivetrees:sparkle_cherry_planks",
+      "",
+      "productivetrees:sparkle_cherry_planks",
+      "productivetrees:sparkle_cherry_planks",
+      "",
+      "productivetrees:sparkle_cherry_planks",
+      "productivetrees:sparkle_cherry_planks",
+      ""
+    ]
+  },
+  "productivetrees:sparkle_cherry_fence": {
+    "result": "productivetrees:sparkle_cherry_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:sparkle_cherry_planks",
+      "minecraft:stick",
+      "productivetrees:sparkle_cherry_planks",
+      "productivetrees:sparkle_cherry_planks",
+      "minecraft:stick",
+      "productivetrees:sparkle_cherry_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sparkle_cherry_fence_gate": {
+    "result": "productivetrees:sparkle_cherry_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:sparkle_cherry_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:sparkle_cherry_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sparkle_cherry_hanging_sign": {
+    "result": "productivetrees:sparkle_cherry_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:sparkle_cherry_planks",
+      "productivetrees:sparkle_cherry_planks",
+      "productivetrees:sparkle_cherry_planks",
+      "productivetrees:sparkle_cherry_planks",
+      "productivetrees:sparkle_cherry_planks",
+      "productivetrees:sparkle_cherry_planks"
+    ]
+  },
+  "productivetrees:sparkle_cherry_planks": {
+    "result": "productivetrees:sparkle_cherry_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sparkle_cherry_pressure_plate": {
+    "result": "productivetrees:sparkle_cherry_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:sparkle_cherry_planks",
+      "productivetrees:sparkle_cherry_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sparkle_cherry_sign": {
+    "result": "productivetrees:sparkle_cherry_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:sparkle_cherry_planks",
+      "productivetrees:sparkle_cherry_planks",
+      "productivetrees:sparkle_cherry_planks",
+      "productivetrees:sparkle_cherry_planks",
+      "productivetrees:sparkle_cherry_planks",
+      "productivetrees:sparkle_cherry_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:sparkle_cherry_slab": {
+    "result": "productivetrees:sparkle_cherry_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:sparkle_cherry_planks",
+      "productivetrees:sparkle_cherry_planks",
+      "productivetrees:sparkle_cherry_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sparkle_cherry_stairs": {
+    "result": "productivetrees:sparkle_cherry_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:sparkle_cherry_planks",
+      "",
+      "",
+      "productivetrees:sparkle_cherry_planks",
+      "productivetrees:sparkle_cherry_planks",
+      "",
+      "productivetrees:sparkle_cherry_planks",
+      "productivetrees:sparkle_cherry_planks",
+      "productivetrees:sparkle_cherry_planks"
+    ]
+  },
+  "productivetrees:sparkle_cherry_trapdoor": {
+    "result": "productivetrees:sparkle_cherry_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:sparkle_cherry_planks",
+      "productivetrees:sparkle_cherry_planks",
+      "productivetrees:sparkle_cherry_planks",
+      "productivetrees:sparkle_cherry_planks",
+      "productivetrees:sparkle_cherry_planks",
+      "productivetrees:sparkle_cherry_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sparkle_cherry_wood": {
+    "result": "productivetrees:sparkle_cherry_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:sparkle_cherry_log",
+      "productivetrees:sparkle_cherry_log",
+      "",
+      "productivetrees:sparkle_cherry_log",
+      "productivetrees:sparkle_cherry_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "refinedstorage:speed_upgrade": {
+    "result": "refinedstorage:speed_upgrade",
+    "count": 1,
+    "ingredients": [
+      "refinedstorage:quartz_enriched_iron",
+      "minecraft:sugar",
+      "refinedstorage:quartz_enriched_iron",
+      "minecraft:sugar",
+      "refinedstorage:upgrade",
+      "minecraft:sugar",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:quartz_enriched_iron"
+    ]
+  },
+  "refurbished_furniture:spatula": {
+    "result": "refurbished_furniture:spatula",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:string",
+      "minecraft:iron_ingot",
+      "minecraft:string",
+      "",
+      "minecraft:leather",
+      ""
+    ]
+  },
+  "refurbished_furniture:spruce_dark_ceiling_fan": {
+    "result": "refurbished_furniture:spruce_dark_ceiling_fan",
+    "count": 1,
+    "ingredients": [
+      "refurbished_furniture:spruce_light_ceiling_fan",
+      "minecraft:black_dye",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:spruce_branch": {
+    "result": "regions_unexplored:spruce_branch",
+    "count": 2,
+    "ingredients": [
+      "minecraft:spruce_log",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:spruce_shrub": {
+    "result": "regions_unexplored:spruce_shrub",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spruce_sapling",
+      "",
+      "",
+      "minecraft:spruce_sapling",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "rftoolsbuilder:space_chamber": {
+    "result": "rftoolsbuilder:space_chamber",
+    "count": 1,
+    "ingredients": [
+      "minecraft:blue",
+      "minecraft:glass",
+      "minecraft:blue",
+      "minecraft:glass",
+      "rftoolsbase:machine_frame",
+      "minecraft:glass",
+      "minecraft:blue",
+      "minecraft:glass",
+      "minecraft:blue"
+    ]
+  },
+  "rftoolsbuilder:space_chamber_card": {
+    "result": "rftoolsbuilder:space_chamber_card",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:bricks",
+      "",
+      "minecraft:redstone",
+      "minecraft:iron_ingot",
+      "minecraft:redstone",
+      "",
+      "minecraft:bricks",
+      ""
+    ]
+  },
+  "rftoolsbuilder:space_chamber_controller": {
+    "result": "rftoolsbuilder:space_chamber_controller",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:ender_pearl",
+      "",
+      "minecraft:redstone_torch",
+      "rftoolsbuilder:space_chamber",
+      "minecraft:redstone_torch",
+      "",
+      "minecraft:ender_pearl",
+      ""
+    ]
+  },
+  "rftoolsutility:spawner": {
+    "result": "rftoolsutility:spawner",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "minecraft:rotten_flesh",
+      "minecraft:redstone",
+      "minecraft:ender_pearl",
+      "rftoolsbase:machine_frame",
+      "minecraft:blaze",
+      "minecraft:redstone",
+      "minecraft:bone",
+      "minecraft:redstone"
+    ]
+  },
+  "rftoolsutility:speedplus_module": {
+    "result": "rftoolsutility:speedplus_module",
+    "count": 1,
+    "ingredients": [
+      "minecraft:powered_rail",
+      "rftoolsutility:speed_module",
+      "minecraft:powered_rail",
+      "rftoolsbase:infused_enderpearl",
+      "rftoolsutility:moduleplus_template",
+      "rftoolsbase:infused_enderpearl",
+      "minecraft:powered_rail",
+      "rftoolsbase:infused_enderpearl",
+      "minecraft:powered_rail"
+    ]
+  },
+  "securitycraft:speed_module": {
+    "result": "securitycraft:speed_module",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:paper",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:sugar",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "securitycraft:spruce_security_sea_boat": {
+    "result": "securitycraft:spruce_security_sea_boat",
+    "count": 1,
+    "ingredients": [
+      "securitycraft:reinforced_spruce_planks",
+      "securitycraft:keypad_chest",
+      "securitycraft:reinforced_spruce_planks",
+      "securitycraft:reinforced_spruce_planks",
+      "securitycraft:reinforced_spruce_planks",
+      "securitycraft:reinforced_spruce_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgear:spear_blueprint": {
+    "result": "silentgear:spear_blueprint",
+    "count": 1,
+    "ingredients": [
+      "minecraft:paper",
+      "",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      "minecraft:stick"
+    ]
+  },
+  "silentgear:spear_template": {
+    "result": "silentgear:spear_template",
+    "count": 1,
+    "ingredients": [
+      "minecraft:template_boards",
+      "",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      "minecraft:stick"
+    ]
+  },
+  "silentgear:spoon_upgrade": {
+    "result": "silentgear:spoon_upgrade",
+    "count": 1,
+    "ingredients": [
+      "silentgear:advanced_upgrade_base",
+      "minecraft:diamond_shovel",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgems:sparkling_bone_meal": {
+    "result": "silentgems:sparkling_bone_meal",
+    "count": 8,
+    "ingredients": [
+      "minecraft:gems",
+      "minecraft:bone_meal",
+      "minecraft:bone_meal",
+      "minecraft:bone_meal",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "sophisticatedstorage:spruce_storage_connector": {
+    "result": "sophisticatedstorage:spruce_storage_connector",
+    "count": 4,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:spruce_planks",
+      "minecraft:stick",
+      "minecraft:spruce_planks",
+      "minecraft:stick",
+      "minecraft:spruce_planks",
+      "minecraft:stick",
+      "minecraft:spruce_planks",
+      "minecraft:stick"
+    ]
+  },
+  "storagedelight:spruce_bookshelf_with_door": {
+    "result": "storagedelight:spruce_bookshelf_with_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_trapdoor",
+      "minecraft:spruce_slab",
+      "minecraft:bookshelf",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab"
+    ]
+  },
+  "storagedelight:spruce_cabinet_with_glass_doors": {
+    "result": "storagedelight:spruce_cabinet_with_glass_doors",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      "minecraft:glass",
+      "minecraft:spruce_trapdoor",
+      "minecraft:glass",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab"
+    ]
+  },
+  "storagedelight:spruce_cabinet_with_polished_andesite_countertop": {
+    "result": "storagedelight:spruce_cabinet_with_polished_andesite_countertop",
+    "count": 1,
+    "ingredients": [
+      "minecraft:polished_andesite_slab",
+      "minecraft:polished_andesite_slab",
+      "minecraft:polished_andesite_slab",
+      "minecraft:spruce_trapdoor",
+      "",
+      "minecraft:spruce_trapdoor",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab"
+    ]
+  },
+  "storagedelight:spruce_cabinet_with_polished_deepslate_countertop": {
+    "result": "storagedelight:spruce_cabinet_with_polished_deepslate_countertop",
+    "count": 1,
+    "ingredients": [
+      "minecraft:polished_deepslate_slab",
+      "minecraft:polished_deepslate_slab",
+      "minecraft:polished_deepslate_slab",
+      "minecraft:spruce_trapdoor",
+      "",
+      "minecraft:spruce_trapdoor",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab"
+    ]
+  },
+  "storagedelight:spruce_cabinet_with_polished_tuff_countertop": {
+    "result": "storagedelight:spruce_cabinet_with_polished_tuff_countertop",
+    "count": 1,
+    "ingredients": [
+      "minecraft:polished_tuff_slab",
+      "minecraft:polished_tuff_slab",
+      "minecraft:polished_tuff_slab",
+      "minecraft:spruce_trapdoor",
+      "",
+      "minecraft:spruce_trapdoor",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab"
+    ]
+  },
+  "storagedelight:spruce_drawer": {
+    "result": "storagedelight:spruce_drawer",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_trapdoor",
+      "minecraft:spruce_trapdoor",
+      "minecraft:spruce_trapdoor",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab"
+    ]
+  },
+  "storagedelight:spruce_drawer_with_books": {
+    "result": "storagedelight:spruce_drawer_with_books",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_trapdoor",
+      "minecraft:spruce_trapdoor",
+      "minecraft:spruce_trapdoor",
+      "minecraft:spruce_slab",
+      "minecraft:bookshelf",
+      "minecraft:spruce_slab"
+    ]
+  },
+  "storagedelight:spruce_drawer_with_door": {
+    "result": "storagedelight:spruce_drawer_with_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_trapdoor",
+      "minecraft:spruce_trapdoor",
+      "minecraft:spruce_trapdoor",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_trapdoor",
+      "minecraft:spruce_slab"
+    ]
+  },
+  "storagedelight:spruce_single_door_cabinet": {
+    "result": "storagedelight:spruce_single_door_cabinet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      "",
+      "minecraft:spruce_trapdoor",
+      "",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab"
+    ]
+  },
+  "supplementaries:speaker_block": {
+    "result": "supplementaries:speaker_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:emerald",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks"
+    ]
+  },
+  "supplementaries:spring_launcher": {
+    "result": "supplementaries:spring_launcher",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:slime_block",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:sticky_piston",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:gunpowder",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "twilightforest:spiral_bricks": {
+    "result": "twilightforest:spiral_bricks",
+    "count": 8,
+    "ingredients": [
+      "minecraft:stone_bricks",
+      "minecraft:stone_slab",
+      "minecraft:stone_slab",
+      "minecraft:stone_bricks",
+      "minecraft:stone_slab",
+      "minecraft:stone_slab",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks"
+    ]
+  },
+  "twilightforest:spruce_banister": {
+    "result": "twilightforest:spruce_banister",
+    "count": 3,
+    "ingredients": [
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      "minecraft:stick",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:spruce_drying_rack": {
+    "result": "twilightforest:spruce_drying_rack",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      "minecraft:spruce_slab",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:spear": {
+    "result": "undergarden:spear",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "undergarden:rogdorium",
+      "",
+      "minecraft:stick",
+      "",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "eternal_starlight:air_sac_arrow": {
+    "result": "eternal_starlight:air_sac_arrow",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:dusted_shard",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "eternal_starlight:rookfish_air_sac",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:air_sac_boots": {
+    "result": "eternal_starlight:air_sac_boots",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:rookfish_air_sac",
+      "",
+      "eternal_starlight:rookfish_air_sac",
+      "eternal_starlight:rookfish_air_sac",
+      "",
+      "eternal_starlight:rookfish_air_sac",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:air_sac_mask": {
+    "result": "eternal_starlight:air_sac_mask",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:jinglestem_log",
+      "eternal_starlight:jinglestem_log",
+      "eternal_starlight:jinglestem_log",
+      "eternal_starlight:jinglestem_log",
+      "eternal_starlight:amaramber_mask",
+      "eternal_starlight:jinglestem_log",
+      "eternal_starlight:rookfish_air_sac",
+      "eternal_starlight:velvetumoss_ball",
+      "eternal_starlight:rookfish_air_sac"
+    ]
+  },
+  "modern_industrialization:air_intake": {
+    "result": "modern_industrialization:air_intake",
+    "count": 1,
+    "ingredients": [
+      "minecraft:aluminum",
+      "minecraft:stainless_steel",
+      "minecraft:aluminum",
+      "minecraft:stainless_steel",
+      "modern_industrialization:stainless_steel_rotor",
+      "minecraft:stainless_steel",
+      "minecraft:aluminum",
+      "minecraft:stainless_steel",
+      "minecraft:aluminum"
+    ]
+  },
+  "mysticalagriculture:air_agglomeratio": {
+    "result": "mysticalagriculture:air_agglomeratio",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glass_bottle",
+      "minecraft:gravel",
+      "",
+      "minecraft:dirt",
+      "minecraft:clay_ball",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pneumaticcraft:air_canister": {
+    "result": "pneumaticcraft:air_canister",
+    "count": 1,
+    "ingredients": [
+      "",
+      "pneumaticcraft:pressure_tube",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:redstone",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:redstone",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "pneumaticcraft:air_canister_array": {
+    "result": "pneumaticcraft:air_canister_array",
+    "count": 1,
+    "ingredients": [
+      "pneumaticcraft:air_canister",
+      "pneumaticcraft:air_canister",
+      "",
+      "pneumaticcraft:air_canister",
+      "pneumaticcraft:air_canister",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pneumaticcraft:air_cannon": {
+    "result": "pneumaticcraft:air_cannon",
+    "count": 1,
+    "ingredients": [
+      "",
+      "pneumaticcraft:cannon_barrel",
+      "",
+      "",
+      "pneumaticcraft:stone_base",
+      "pneumaticcraft:pressure_tube",
+      "pneumaticcraft:reinforced_stone_slab",
+      "pneumaticcraft:reinforced_stone_slab",
+      "pneumaticcraft:reinforced_stone_slab"
+    ]
+  },
+  "pneumaticcraft:air_compressor": {
+    "result": "pneumaticcraft:air_compressor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "",
+      "pneumaticcraft:pressure_tube",
+      "minecraft:stone",
+      "minecraft:furnace",
+      "minecraft:stone"
+    ]
+  },
+  "pneumaticcraft:air_conditioning_upgrade": {
+    "result": "pneumaticcraft:air_conditioning_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:upgrade_components",
+      "minecraft:magma_block",
+      "minecraft:upgrade_components",
+      "pneumaticcraft:heat_sink",
+      "pneumaticcraft:heat_pipe",
+      "pneumaticcraft:heat_sink",
+      "minecraft:upgrade_components",
+      "minecraft:blue_ice",
+      "minecraft:upgrade_components"
+    ]
+  },
+  "pneumaticcraft:air_grate_module": {
+    "result": "pneumaticcraft:air_grate_module",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:iron_bars",
+      "",
+      "minecraft:iron_bars",
+      "pneumaticcraft:pressure_tube",
+      "minecraft:iron_bars",
+      "",
+      "minecraft:iron_bars",
+      ""
+    ]
+  }
+}

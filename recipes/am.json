@@ -1,0 +1,947 @@
+{
+  "aether:ambrosium_block": {
+    "result": "aether:ambrosium_block",
+    "count": 1,
+    "ingredients": [
+      "aether:ambrosium_shard",
+      "aether:ambrosium_shard",
+      "aether:ambrosium_shard",
+      "aether:ambrosium_shard",
+      "aether:ambrosium_shard",
+      "aether:ambrosium_shard",
+      "aether:ambrosium_shard",
+      "aether:ambrosium_shard",
+      "aether:ambrosium_shard"
+    ]
+  },
+  "aether:ambrosium_shard": {
+    "result": "aether:ambrosium_shard",
+    "count": 9,
+    "ingredients": [
+      "aether:ambrosium_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "aether:ambrosium_torch": {
+    "result": "aether:ambrosium_torch",
+    "count": 4,
+    "ingredients": [
+      "minecraft:ambrosium",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:amethyst_block_1x": {
+    "result": "allthecompressed:amethyst_block_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:amethyst_block_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:amethyst_block_2x": {
+    "result": "allthecompressed:amethyst_block_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:amethyst_block_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:amethyst_block_3x": {
+    "result": "allthecompressed:amethyst_block_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:amethyst_block_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:amethyst_block_4x": {
+    "result": "allthecompressed:amethyst_block_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:amethyst_block_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:amethyst_block_5x": {
+    "result": "allthecompressed:amethyst_block_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:amethyst_block_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:amethyst_block_6x": {
+    "result": "allthecompressed:amethyst_block_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:amethyst_block_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:amethyst_block_7x": {
+    "result": "allthecompressed:amethyst_block_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:amethyst_block_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:amethyst_block_8x": {
+    "result": "allthecompressed:amethyst_block_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:amethyst_block_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:amethyst_block_9x": {
+    "result": "allthecompressed:amethyst_block_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:amethyst_block_8x",
+      "allthecompressed:amethyst_block_8x",
+      "allthecompressed:amethyst_block_8x",
+      "allthecompressed:amethyst_block_8x",
+      "allthecompressed:amethyst_block_8x",
+      "allthecompressed:amethyst_block_8x",
+      "allthecompressed:amethyst_block_8x",
+      "allthecompressed:amethyst_block_8x",
+      "allthecompressed:amethyst_block_8x"
+    ]
+  },
+  "minecraft:amethyst_block": {
+    "result": "minecraft:amethyst_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:amethyst_shard",
+      "minecraft:amethyst_shard",
+      "",
+      "minecraft:amethyst_shard",
+      "minecraft:amethyst_shard",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_nouveau:amethyst_golem_charm": {
+    "result": "ars_nouveau:amethyst_golem_charm",
+    "count": 1,
+    "ingredients": [
+      "ars_nouveau:amethyst_golem_charm",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:amber_candle": {
+    "result": "dyenamics:amber_candle",
+    "count": 1,
+    "ingredients": [
+      "minecraft:candle",
+      "minecraft:amber",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:amber_carpet": {
+    "result": "dyenamics:amber_carpet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:white_wool",
+      "minecraft:amber",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:amber_concrete_powder": {
+    "result": "dyenamics:amber_concrete_powder",
+    "count": 8,
+    "ingredients": [
+      "minecraft:amber",
+      "minecraft:sand",
+      "minecraft:sand",
+      "minecraft:sand",
+      "minecraft:sand",
+      "minecraft:gravel",
+      "minecraft:gravel",
+      "minecraft:gravel",
+      "minecraft:gravel"
+    ]
+  },
+  "dyenamics:amber_dye": {
+    "result": "dyenamics:amber_dye",
+    "count": 2,
+    "ingredients": [
+      "minecraft:orange",
+      "minecraft:persimmon",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:amber_stained_glass": {
+    "result": "dyenamics:amber_stained_glass",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:amber",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass"
+    ]
+  },
+  "dyenamics:amber_stained_glass_pane": {
+    "result": "dyenamics:amber_stained_glass_pane",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:amber",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane"
+    ]
+  },
+  "dyenamics:amber_terracotta": {
+    "result": "dyenamics:amber_terracotta",
+    "count": 8,
+    "ingredients": [
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:amber",
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:terracotta"
+    ]
+  },
+  "dyenamics:amber_wool": {
+    "result": "dyenamics:amber_wool",
+    "count": 1,
+    "ingredients": [
+      "minecraft:amber",
+      "minecraft:white_wool",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:amber_banner": {
+    "result": "dyenamics:amber_banner",
+    "count": 1,
+    "ingredients": [
+      "dyenamics:amber_wool",
+      "dyenamics:amber_wool",
+      "dyenamics:amber_wool",
+      "dyenamics:amber_wool",
+      "dyenamics:amber_wool",
+      "dyenamics:amber_wool",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "dyenamics:amber_bed": {
+    "result": "dyenamics:amber_bed",
+    "count": 1,
+    "ingredients": [
+      "minecraft:beds",
+      "minecraft:amber",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:amber_rockwool": {
+    "result": "dyenamics:amber_rockwool",
+    "count": 1,
+    "ingredients": [
+      "thermal:white_rockwool",
+      "minecraft:amber",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:amaramber_arrow": {
+    "result": "eternal_starlight:amaramber_arrow",
+    "count": 4,
+    "ingredients": [
+      "minecraft:amaramber",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:feather",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:amaramber_axe": {
+    "result": "eternal_starlight:amaramber_axe",
+    "count": 1,
+    "ingredients": [
+      "minecraft:amaramber",
+      "minecraft:amaramber",
+      "",
+      "minecraft:amaramber",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "eternal_starlight:amaramber_bricks": {
+    "result": "eternal_starlight:amaramber_bricks",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:amaramber_ingot",
+      "eternal_starlight:amaramber_ingot",
+      "",
+      "eternal_starlight:amaramber_ingot",
+      "eternal_starlight:amaramber_ingot",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:amaramber_brick_slab": {
+    "result": "eternal_starlight:amaramber_brick_slab",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:amaramber_bricks",
+      "eternal_starlight:amaramber_bricks",
+      "eternal_starlight:amaramber_bricks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:amaramber_brick_stairs": {
+    "result": "eternal_starlight:amaramber_brick_stairs",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:amaramber_bricks",
+      "",
+      "",
+      "eternal_starlight:amaramber_bricks",
+      "eternal_starlight:amaramber_bricks",
+      "",
+      "eternal_starlight:amaramber_bricks",
+      "eternal_starlight:amaramber_bricks",
+      "eternal_starlight:amaramber_bricks"
+    ]
+  },
+  "eternal_starlight:amaramber_brick_wall": {
+    "result": "eternal_starlight:amaramber_brick_wall",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:amaramber_bricks",
+      "eternal_starlight:amaramber_bricks",
+      "eternal_starlight:amaramber_bricks",
+      "eternal_starlight:amaramber_bricks",
+      "eternal_starlight:amaramber_bricks",
+      "eternal_starlight:amaramber_bricks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:amaramber_candle": {
+    "result": "eternal_starlight:amaramber_candle",
+    "count": 1,
+    "ingredients": [
+      "minecraft:string",
+      "",
+      "",
+      "minecraft:amaramber",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:amaramber_chestplate": {
+    "result": "eternal_starlight:amaramber_chestplate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:amaramber",
+      "",
+      "minecraft:amaramber",
+      "minecraft:amaramber",
+      "minecraft:amaramber",
+      "minecraft:amaramber",
+      "minecraft:amaramber",
+      "minecraft:amaramber",
+      "minecraft:amaramber"
+    ]
+  },
+  "eternal_starlight:amaramber_hoe": {
+    "result": "eternal_starlight:amaramber_hoe",
+    "count": 1,
+    "ingredients": [
+      "minecraft:amaramber",
+      "minecraft:amaramber",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "eternal_starlight:amaramber_ingot": {
+    "result": "eternal_starlight:amaramber_ingot",
+    "count": 2,
+    "ingredients": [
+      "minecraft:deepslate",
+      "minecraft:amaramber",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:amaramber_lantern": {
+    "result": "eternal_starlight:amaramber_lantern",
+    "count": 1,
+    "ingredients": [
+      "minecraft:deepsilver",
+      "minecraft:deepsilver",
+      "minecraft:deepsilver",
+      "minecraft:deepsilver",
+      "eternal_starlight:amaramber_candle",
+      "minecraft:deepsilver",
+      "minecraft:deepsilver",
+      "minecraft:deepsilver",
+      "minecraft:deepsilver"
+    ]
+  },
+  "eternal_starlight:amaramber_mask": {
+    "result": "eternal_starlight:amaramber_mask",
+    "count": 1,
+    "ingredients": [
+      "minecraft:amaramber",
+      "minecraft:amaramber",
+      "minecraft:amaramber",
+      "minecraft:amaramber",
+      "",
+      "minecraft:amaramber",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:amaramber_nugget": {
+    "result": "eternal_starlight:amaramber_nugget",
+    "count": 9,
+    "ingredients": [
+      "eternal_starlight:amaramber_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:amaramber_pickaxe": {
+    "result": "eternal_starlight:amaramber_pickaxe",
+    "count": 1,
+    "ingredients": [
+      "minecraft:amaramber",
+      "minecraft:amaramber",
+      "minecraft:amaramber",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "eternal_starlight:amaramber_shovel": {
+    "result": "eternal_starlight:amaramber_shovel",
+    "count": 1,
+    "ingredients": [
+      "minecraft:amaramber",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:amaramber_sickle": {
+    "result": "eternal_starlight:amaramber_sickle",
+    "count": 1,
+    "ingredients": [
+      "minecraft:amaramber",
+      "minecraft:amaramber",
+      "",
+      "",
+      "minecraft:amaramber",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "eternal_starlight:amaramber_sword": {
+    "result": "eternal_starlight:amaramber_sword",
+    "count": 1,
+    "ingredients": [
+      "minecraft:amaramber",
+      "",
+      "",
+      "minecraft:amaramber",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:ambrosia": {
+    "result": "iceandfire:ambrosia",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:pixie_dust",
+      "minecraft:bowl",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:amphithere_arrow": {
+    "result": "iceandfire:amphithere_arrow",
+    "count": 4,
+    "ingredients": [
+      "minecraft:flint",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "iceandfire:amphithere_feather",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:amphithere_macuahuitl": {
+    "result": "iceandfire:amphithere_macuahuitl",
+    "count": 1,
+    "ingredients": [
+      "minecraft:obsidian",
+      "minecraft:oak_planks",
+      "minecraft:obsidian",
+      "iceandfire:amphithere_feather",
+      "minecraft:oak_planks",
+      "iceandfire:amphithere_feather",
+      "minecraft:obsidian",
+      "minecraft:stick",
+      "minecraft:obsidian"
+    ]
+  },
+  "irons_spellbooks:amethyst_rapier": {
+    "result": "irons_spellbooks:amethyst_rapier",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "minecraft:amethyst_shard",
+      "minecraft:chain",
+      "minecraft:amethyst_shard",
+      "",
+      "irons_spellbooks:weapon_parts",
+      "minecraft:chain",
+      ""
+    ]
+  },
+  "irons_spellbooks:amethyst_resonance_charm": {
+    "result": "irons_spellbooks:amethyst_resonance_charm",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:leather",
+      "",
+      "minecraft:leather",
+      "",
+      "minecraft:leather",
+      "minecraft:amethyst",
+      "minecraft:leather",
+      ""
+    ]
+  },
+  "mekmm:ambient_gas_collector": {
+    "result": "mekmm:ambient_gas_collector",
+    "count": 1,
+    "ingredients": [
+      "minecraft:atomic",
+      "mekanism:ultimate_pressurized_tube",
+      "minecraft:atomic",
+      "mekanism:ultimate_chemical_tank",
+      "mekanism:steel_casing",
+      "mekanism:ultimate_chemical_tank",
+      "minecraft:osmium",
+      "minecraft:osmium",
+      "minecraft:osmium"
+    ]
+  },
+  "minecraft:amethyst_shard": {
+    "result": "minecraft:amethyst_shard",
+    "count": 4,
+    "ingredients": [
+      "minecraft:amethyst_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "tconstruct:amethyst_bronze_ingot": {
+    "result": "tconstruct:amethyst_bronze_ingot",
+    "count": 4,
+    "ingredients": [
+      "mysticalagriculture:amethyst_bronze_essence",
+      "mysticalagriculture:amethyst_bronze_essence",
+      "mysticalagriculture:amethyst_bronze_essence",
+      "mysticalagriculture:amethyst_bronze_essence",
+      "",
+      "mysticalagriculture:amethyst_bronze_essence",
+      "mysticalagriculture:amethyst_bronze_essence",
+      "mysticalagriculture:amethyst_bronze_essence",
+      "mysticalagriculture:amethyst_bronze_essence"
+    ]
+  },
+  "pamhc2crops:amaranthseeditem": {
+    "result": "pamhc2crops:amaranthseeditem",
+    "count": 1,
+    "ingredients": [
+      "pamhc2crops:amaranthitem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pneumaticcraft:amadron_tablet": {
+    "result": "pneumaticcraft:amadron_tablet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "pneumaticcraft:gps_tool",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "pneumaticcraft:air_canister",
+      "minecraft:plastic_sheets"
+    ]
+  },
+  "silentgems:ammolite": {
+    "result": "silentgems:ammolite",
+    "count": 9,
+    "ingredients": [
+      "silentgems:ammolite_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgems:ammolite_bricks": {
+    "result": "silentgems:ammolite_bricks",
+    "count": 12,
+    "ingredients": [
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:ammolite",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks"
+    ]
+  },
+  "silentgems:ammolite_block": {
+    "result": "silentgems:ammolite_block",
+    "count": 1,
+    "ingredients": [
+      "silentgems:ammolite",
+      "silentgems:ammolite",
+      "silentgems:ammolite",
+      "silentgems:ammolite",
+      "silentgems:ammolite",
+      "silentgems:ammolite",
+      "silentgems:ammolite",
+      "silentgems:ammolite",
+      "silentgems:ammolite"
+    ]
+  },
+  "silentgems:ammolite_glass": {
+    "result": "silentgems:ammolite_glass",
+    "count": 12,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:ammolite",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass"
+    ]
+  },
+  "silentgems:ammolite_lamp": {
+    "result": "silentgems:ammolite_lamp",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:ammolite",
+      "minecraft:stone",
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:redstone"
+    ]
+  },
+  "silentgems:ammolite_lamp_inverted_on": {
+    "result": "silentgems:ammolite_lamp_inverted_on",
+    "count": 1,
+    "ingredients": [
+      "silentgems:ammolite_lamp",
+      "minecraft:redstone_torch",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgems:ammolite_redstone_teleporter": {
+    "result": "silentgems:ammolite_redstone_teleporter",
+    "count": 1,
+    "ingredients": [
+      "silentgems:ammolite_teleporter",
+      "minecraft:redstone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgems:ammolite_small_bricks": {
+    "result": "silentgems:ammolite_small_bricks",
+    "count": 12,
+    "ingredients": [
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:ammolite",
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:bricks"
+    ]
+  },
+  "silentgems:ammolite_teleporter": {
+    "result": "silentgems:ammolite_teleporter",
+    "count": 2,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "minecraft:ammolite",
+      "minecraft:gold_ingot",
+      "minecraft:ammolite",
+      "silentgems:chaos_essence_block",
+      "minecraft:ammolite",
+      "",
+      "minecraft:ender_pearl",
+      ""
+    ]
+  },
+  "silentgems:ammolite_tiles": {
+    "result": "silentgems:ammolite_tiles",
+    "count": 12,
+    "ingredients": [
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:ammolite",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles"
+    ]
+  },
+  "theurgy:amethyst_divination_rod": {
+    "result": "theurgy:amethyst_divination_rod",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:glass",
+      "minecraft:purple",
+      "",
+      "minecraft:stick",
+      "minecraft:glass",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  }
+}

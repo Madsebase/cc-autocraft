@@ -1,0 +1,152 @@
+{
+  "create_hypertube:hypertube": {
+    "result": "create_hypertube:hypertube",
+    "count": 16,
+    "ingredients": [
+      "create:brass_sheet",
+      "minecraft:glass",
+      "create:brass_sheet",
+      "minecraft:glass",
+      "",
+      "minecraft:glass",
+      "create:brass_sheet",
+      "minecraft:glass",
+      "create:brass_sheet"
+    ]
+  },
+  "create_hypertube:hypertube_entrance": {
+    "result": "create_hypertube:hypertube_entrance",
+    "count": 1,
+    "ingredients": [
+      "",
+      "create_hypertube:hypertube_funnel",
+      "",
+      "",
+      "create:cogwheel",
+      "",
+      "",
+      "create:smart_chute",
+      ""
+    ]
+  },
+  "create_hypertube:hypertube_funnel": {
+    "result": "create_hypertube:hypertube_funnel",
+    "count": 1,
+    "ingredients": [
+      "",
+      "create:brass_sheet",
+      "",
+      "",
+      "create_hypertube:hypertube",
+      "",
+      "",
+      "minecraft:dried_kelp",
+      ""
+    ]
+  },
+  "create_hypertube:hypertube_accelerator": {
+    "result": "create_hypertube:hypertube_accelerator",
+    "count": 1,
+    "ingredients": [
+      "",
+      "create_hypertube:hypertube_funnel",
+      "",
+      "create:cogwheel",
+      "create:precision_mechanism",
+      "create:cogwheel",
+      "",
+      "create_hypertube:hypertube_funnel",
+      ""
+    ]
+  },
+  "iceandfire:hydra_arrow": {
+    "result": "iceandfire:hydra_arrow",
+    "count": 4,
+    "ingredients": [
+      "iceandfire:hydra_fang",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:lily_pad",
+      "",
+      ""
+    ]
+  },
+  "industrialforegoing:hydroponic_bed": {
+    "result": "industrialforegoing:hydroponic_bed",
+    "count": 1,
+    "ingredients": [
+      "minecraft:plastics",
+      "minecraft:dirt",
+      "minecraft:plastics",
+      "minecraft:iron_hoe",
+      "industrialforegoing:fertilizer",
+      "minecraft:iron_hoe",
+      "minecraft:gold",
+      "minecraft:simple",
+      "minecraft:gold"
+    ]
+  },
+  "industrialforegoing:hydroponic_simulation_processor": {
+    "result": "industrialforegoing:hydroponic_simulation_processor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:plastics",
+      "minecraft:comparator",
+      "minecraft:plastics",
+      "minecraft:observer",
+      "minecraft:repeater",
+      "minecraft:observer",
+      "minecraft:plastics",
+      "minecraft:diamond",
+      "minecraft:plastics"
+    ]
+  },
+  "regions_unexplored:hyacinth_lamp": {
+    "result": "regions_unexplored:hyacinth_lamp",
+    "count": 1,
+    "ingredients": [
+      "minecraft:hyacinth_blooms",
+      "",
+      "",
+      "minecraft:prismarine_slab",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:hydra_banner_pattern": {
+    "result": "twilightforest:hydra_banner_pattern",
+    "count": 1,
+    "ingredients": [
+      "minecraft:paper",
+      "twilightforest:hydra_trophy",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xycraft_machines:hydro_pump": {
+    "result": "xycraft_machines:hydro_pump",
+    "count": 1,
+    "ingredients": [
+      "minecraft:aluminum",
+      "xycraft_machines:water_block",
+      "minecraft:aluminum",
+      "minecraft:aluminum",
+      "xycraft_machines:port_fluid",
+      "minecraft:aluminum",
+      "",
+      "",
+      ""
+    ]
+  }
+}

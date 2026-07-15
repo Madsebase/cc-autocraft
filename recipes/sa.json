@@ -1,0 +1,3152 @@
+{
+  "minecraft:saddle": {
+    "result": "minecraft:saddle",
+    "count": 1,
+    "ingredients": [
+      "minecraft:leather",
+      "minecraft:leather",
+      "minecraft:leather",
+      "minecraft:leather",
+      "minecraft:string",
+      "minecraft:leather",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:salt_block_1x": {
+    "result": "allthecompressed:salt_block_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:salt_block_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:salt_block_2x": {
+    "result": "allthecompressed:salt_block_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:salt_block_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:salt_block_3x": {
+    "result": "allthecompressed:salt_block_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:salt_block_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:salt_block_4x": {
+    "result": "allthecompressed:salt_block_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:salt_block_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:salt_block_5x": {
+    "result": "allthecompressed:salt_block_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:salt_block_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:salt_block_6x": {
+    "result": "allthecompressed:salt_block_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:salt_block_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:salt_block_7x": {
+    "result": "allthecompressed:salt_block_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:salt_block_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:salt_block_8x": {
+    "result": "allthecompressed:salt_block_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:salt_block_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:salt_block_9x": {
+    "result": "allthecompressed:salt_block_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:salt_block_8x",
+      "allthecompressed:salt_block_8x",
+      "allthecompressed:salt_block_8x",
+      "allthecompressed:salt_block_8x",
+      "allthecompressed:salt_block_8x",
+      "allthecompressed:salt_block_8x",
+      "allthecompressed:salt_block_8x",
+      "allthecompressed:salt_block_8x",
+      "allthecompressed:salt_block_8x"
+    ]
+  },
+  "allthecompressed:sand_1x": {
+    "result": "allthecompressed:sand_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:sand_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:sand_2x": {
+    "result": "allthecompressed:sand_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:sand_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:sand_3x": {
+    "result": "allthecompressed:sand_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:sand_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:sand_4x": {
+    "result": "allthecompressed:sand_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:sand_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:sand_5x": {
+    "result": "allthecompressed:sand_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:sand_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:sand_6x": {
+    "result": "allthecompressed:sand_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:sand_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:sand_7x": {
+    "result": "allthecompressed:sand_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:sand_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:sand_8x": {
+    "result": "allthecompressed:sand_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:sand_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:sand_9x": {
+    "result": "allthecompressed:sand_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:sand_8x",
+      "allthecompressed:sand_8x",
+      "allthecompressed:sand_8x",
+      "allthecompressed:sand_8x",
+      "allthecompressed:sand_8x",
+      "allthecompressed:sand_8x",
+      "allthecompressed:sand_8x",
+      "allthecompressed:sand_8x",
+      "allthecompressed:sand_8x"
+    ]
+  },
+  "allthecompressed:sapphire_block_1x": {
+    "result": "allthecompressed:sapphire_block_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:sapphire_block_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:sapphire_block_2x": {
+    "result": "allthecompressed:sapphire_block_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:sapphire_block_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:sapphire_block_3x": {
+    "result": "allthecompressed:sapphire_block_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:sapphire_block_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:sapphire_block_4x": {
+    "result": "allthecompressed:sapphire_block_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:sapphire_block_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:sapphire_block_5x": {
+    "result": "allthecompressed:sapphire_block_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:sapphire_block_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:sapphire_block_6x": {
+    "result": "allthecompressed:sapphire_block_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:sapphire_block_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:sapphire_block_7x": {
+    "result": "allthecompressed:sapphire_block_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:sapphire_block_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:sapphire_block_8x": {
+    "result": "allthecompressed:sapphire_block_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:sapphire_block_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:sapphire_block_9x": {
+    "result": "allthecompressed:sapphire_block_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:sapphire_block_8x",
+      "allthecompressed:sapphire_block_8x",
+      "allthecompressed:sapphire_block_8x",
+      "allthecompressed:sapphire_block_8x",
+      "allthecompressed:sapphire_block_8x",
+      "allthecompressed:sapphire_block_8x",
+      "allthecompressed:sapphire_block_8x",
+      "allthecompressed:sapphire_block_8x",
+      "allthecompressed:sapphire_block_8x"
+    ]
+  },
+  "alltheores:salt_block": {
+    "result": "alltheores:salt_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:salt",
+      "minecraft:salt",
+      "minecraft:salt",
+      "minecraft:salt",
+      "minecraft:salt",
+      "minecraft:salt",
+      "minecraft:salt",
+      "minecraft:salt",
+      "minecraft:salt"
+    ]
+  },
+  "minecraft:sand": {
+    "result": "minecraft:sand",
+    "count": 16,
+    "ingredients": [
+      "mysticalagriculture:fire_essence",
+      "mysticalagriculture:dirt_essence",
+      "",
+      "mysticalagriculture:dirt_essence",
+      "mysticalagriculture:fire_essence",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "alltheores:sapphire_block": {
+    "result": "alltheores:sapphire_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:sapphire",
+      "minecraft:sapphire",
+      "minecraft:sapphire",
+      "minecraft:sapphire",
+      "minecraft:sapphire",
+      "minecraft:sapphire",
+      "minecraft:sapphire",
+      "minecraft:sapphire",
+      "minecraft:sapphire"
+    ]
+  },
+  "alltheores:salt": {
+    "result": "alltheores:salt",
+    "count": 9,
+    "ingredients": [
+      "minecraft:salt",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "alltheores:sapphire_dust": {
+    "result": "alltheores:sapphire_dust",
+    "count": 1,
+    "ingredients": [
+      "minecraft:ore_hammers",
+      "minecraft:sapphire",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "alltheores:sapphire": {
+    "result": "alltheores:sapphire",
+    "count": 9,
+    "ingredients": [
+      "minecraft:sapphire",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "apotheosis:salvaging_table": {
+    "result": "apotheosis:salvaging_table",
+    "count": 1,
+    "ingredients": [
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "minecraft:iron_pickaxe",
+      "minecraft:smithing_table",
+      "minecraft:iron_axe",
+      "apotheosis:gem_dust",
+      "minecraft:lava_bucket",
+      "apotheosis:gem_dust"
+    ]
+  },
+  "biomeswevegone:sakura_boat": {
+    "result": "biomeswevegone:sakura_boat",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:sakura_planks",
+      "",
+      "biomeswevegone:sakura_planks",
+      "biomeswevegone:sakura_planks",
+      "biomeswevegone:sakura_planks",
+      "biomeswevegone:sakura_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:sakura_bookshelf": {
+    "result": "biomeswevegone:sakura_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:sakura_planks",
+      "biomeswevegone:sakura_planks",
+      "biomeswevegone:sakura_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "biomeswevegone:sakura_planks",
+      "biomeswevegone:sakura_planks",
+      "biomeswevegone:sakura_planks"
+    ]
+  },
+  "biomeswevegone:sakura_button": {
+    "result": "biomeswevegone:sakura_button",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:sakura_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:sakura_chest_boat": {
+    "result": "biomeswevegone:sakura_chest_boat",
+    "count": 1,
+    "ingredients": [
+      "minecraft:chest",
+      "biomeswevegone:sakura_boat",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:sakura_crafting_table": {
+    "result": "biomeswevegone:sakura_crafting_table",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:sakura_planks",
+      "biomeswevegone:sakura_planks",
+      "",
+      "biomeswevegone:sakura_planks",
+      "biomeswevegone:sakura_planks",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:sakura_door": {
+    "result": "biomeswevegone:sakura_door",
+    "count": 3,
+    "ingredients": [
+      "biomeswevegone:sakura_planks",
+      "biomeswevegone:sakura_planks",
+      "",
+      "biomeswevegone:sakura_planks",
+      "biomeswevegone:sakura_planks",
+      "",
+      "biomeswevegone:sakura_planks",
+      "biomeswevegone:sakura_planks",
+      ""
+    ]
+  },
+  "biomeswevegone:sakura_fence": {
+    "result": "biomeswevegone:sakura_fence",
+    "count": 3,
+    "ingredients": [
+      "biomeswevegone:sakura_planks",
+      "minecraft:stick",
+      "biomeswevegone:sakura_planks",
+      "biomeswevegone:sakura_planks",
+      "minecraft:stick",
+      "biomeswevegone:sakura_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:sakura_fence_gate": {
+    "result": "biomeswevegone:sakura_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "biomeswevegone:sakura_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "biomeswevegone:sakura_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:sakura_hanging_sign": {
+    "result": "biomeswevegone:sakura_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "biomeswevegone:stripped_sakura_log",
+      "biomeswevegone:stripped_sakura_log",
+      "biomeswevegone:stripped_sakura_log",
+      "biomeswevegone:stripped_sakura_log",
+      "biomeswevegone:stripped_sakura_log",
+      "biomeswevegone:stripped_sakura_log"
+    ]
+  },
+  "biomeswevegone:sakura_planks": {
+    "result": "biomeswevegone:sakura_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:sakura_pressure_plate": {
+    "result": "biomeswevegone:sakura_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:sakura_planks",
+      "biomeswevegone:sakura_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:sakura_sign": {
+    "result": "biomeswevegone:sakura_sign",
+    "count": 3,
+    "ingredients": [
+      "biomeswevegone:sakura_planks",
+      "biomeswevegone:sakura_planks",
+      "biomeswevegone:sakura_planks",
+      "biomeswevegone:sakura_planks",
+      "biomeswevegone:sakura_planks",
+      "biomeswevegone:sakura_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "biomeswevegone:sakura_slab": {
+    "result": "biomeswevegone:sakura_slab",
+    "count": 6,
+    "ingredients": [
+      "biomeswevegone:sakura_planks",
+      "biomeswevegone:sakura_planks",
+      "biomeswevegone:sakura_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:sakura_stairs": {
+    "result": "biomeswevegone:sakura_stairs",
+    "count": 4,
+    "ingredients": [
+      "biomeswevegone:sakura_planks",
+      "",
+      "",
+      "biomeswevegone:sakura_planks",
+      "biomeswevegone:sakura_planks",
+      "",
+      "biomeswevegone:sakura_planks",
+      "biomeswevegone:sakura_planks",
+      "biomeswevegone:sakura_planks"
+    ]
+  },
+  "biomeswevegone:sakura_trapdoor": {
+    "result": "biomeswevegone:sakura_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "biomeswevegone:sakura_planks",
+      "biomeswevegone:sakura_planks",
+      "biomeswevegone:sakura_planks",
+      "biomeswevegone:sakura_planks",
+      "biomeswevegone:sakura_planks",
+      "biomeswevegone:sakura_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:sakura_wood": {
+    "result": "biomeswevegone:sakura_wood",
+    "count": 3,
+    "ingredients": [
+      "biomeswevegone:sakura_log",
+      "biomeswevegone:sakura_log",
+      "",
+      "biomeswevegone:sakura_log",
+      "biomeswevegone:sakura_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:sandy_dirt": {
+    "result": "biomeswevegone:sandy_dirt",
+    "count": 4,
+    "ingredients": [
+      "minecraft:sand",
+      "minecraft:sand",
+      "minecraft:dirt",
+      "minecraft:dirt",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "chipped:saw": {
+    "result": "chipped:saw",
+    "count": 1,
+    "ingredients": [
+      "chipped:carpenters_table",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:sail_frame": {
+    "result": "create:sail_frame",
+    "count": 1,
+    "ingredients": [
+      "create:white_sail",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:sand_paper": {
+    "result": "create:sand_paper",
+    "count": 1,
+    "ingredients": [
+      "minecraft:paper",
+      "minecraft:colorless",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "domum_ornamentum:sand_bricks": {
+    "result": "domum_ornamentum:sand_bricks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:sand",
+      "minecraft:sand",
+      "minecraft:sandstone",
+      "minecraft:sandstone",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "domum_ornamentum:sand_stone_bricks": {
+    "result": "domum_ornamentum:sand_stone_bricks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:sand",
+      "minecraft:sand",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "enderio:sag_mill": {
+    "result": "enderio:sag_mill",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron",
+      "minecraft:flint",
+      "minecraft:iron",
+      "minecraft:iron_ingot",
+      "enderio:void_chassis",
+      "minecraft:iron_ingot",
+      "minecraft:obsidians",
+      "minecraft:piston",
+      "minecraft:obsidians"
+    ]
+  },
+  "eternal_starlight:saltpeter_block": {
+    "result": "eternal_starlight:saltpeter_block",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:saltpeter_powder",
+      "eternal_starlight:saltpeter_powder",
+      "eternal_starlight:saltpeter_powder",
+      "eternal_starlight:saltpeter_powder",
+      "eternal_starlight:saltpeter_powder",
+      "eternal_starlight:saltpeter_powder",
+      "eternal_starlight:saltpeter_powder",
+      "eternal_starlight:saltpeter_powder",
+      "eternal_starlight:saltpeter_powder"
+    ]
+  },
+  "eternal_starlight:saltpeter_matchbox": {
+    "result": "eternal_starlight:saltpeter_matchbox",
+    "count": 1,
+    "ingredients": [
+      "minecraft:string",
+      "minecraft:string",
+      "minecraft:string",
+      "minecraft:saltpeter",
+      "minecraft:saltpeter",
+      "minecraft:saltpeter",
+      "minecraft:string",
+      "minecraft:string",
+      "minecraft:string"
+    ]
+  },
+  "eternal_starlight:saltpeter_powder": {
+    "result": "eternal_starlight:saltpeter_powder",
+    "count": 9,
+    "ingredients": [
+      "eternal_starlight:saltpeter_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "evilcraft:sanguinary_environmental_accumulator": {
+    "result": "evilcraft:sanguinary_environmental_accumulator",
+    "count": 1,
+    "ingredients": [
+      "minecraft:cobblestone",
+      "evilcraft:environmental_accumulation_core",
+      "minecraft:cobblestone",
+      "minecraft:iron",
+      "evilcraft:garmonbozia",
+      "minecraft:iron",
+      "minecraft:cobblestone",
+      "evilcraft:blood_infusion_core",
+      "minecraft:cobblestone"
+    ]
+  },
+  "evilcraft:sanguinary_pedestal_0": {
+    "result": "evilcraft:sanguinary_pedestal_0",
+    "count": 1,
+    "ingredients": [
+      "evilcraft:dark_gem",
+      "evilcraft:dark_gem",
+      "evilcraft:dark_gem",
+      "",
+      "evilcraft:dark_block",
+      "",
+      "evilcraft:dark_gem",
+      "evilcraft:dark_gem",
+      "evilcraft:dark_gem"
+    ]
+  },
+  "evilcraft:sanguinary_pedestal_1": {
+    "result": "evilcraft:sanguinary_pedestal_1",
+    "count": 1,
+    "ingredients": [
+      "evilcraft:dark_power_gem",
+      "evilcraft:dark_power_gem",
+      "evilcraft:dark_power_gem",
+      "",
+      "evilcraft:dark_power_gem_block",
+      "",
+      "evilcraft:dark_power_gem",
+      "evilcraft:sanguinary_pedestal_0",
+      "evilcraft:dark_power_gem"
+    ]
+  },
+  "farmersdelight:safety_net": {
+    "result": "farmersdelight:safety_net",
+    "count": 1,
+    "ingredients": [
+      "farmersdelight:rope",
+      "farmersdelight:rope",
+      "",
+      "farmersdelight:rope",
+      "farmersdelight:rope",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "farmersdelight:salmon_roll": {
+    "result": "farmersdelight:salmon_roll",
+    "count": 2,
+    "ingredients": [
+      "farmersdelight:salmon_slice",
+      "farmersdelight:salmon_slice",
+      "farmersdelight:cooked_rice",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "glassential:sandstone_glass": {
+    "result": "glassential:sandstone_glass",
+    "count": 4,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:cut_sandstone",
+      "minecraft:glass",
+      "minecraft:cut_sandstone",
+      "",
+      "minecraft:cut_sandstone",
+      "minecraft:glass",
+      "minecraft:cut_sandstone",
+      "minecraft:glass"
+    ]
+  },
+  "handcrafted:salmon_trophy": {
+    "result": "handcrafted:salmon_trophy",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:salmon",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks"
+    ]
+  },
+  "handcrafted:sandstone_corner_trim": {
+    "result": "handcrafted:sandstone_corner_trim",
+    "count": 4,
+    "ingredients": [
+      "minecraft:sandstone",
+      "",
+      "",
+      "minecraft:sandstone",
+      "",
+      "",
+      "minecraft:sandstone",
+      "minecraft:sandstone",
+      "minecraft:sandstone"
+    ]
+  },
+  "handcrafted:sandstone_pillar_trim": {
+    "result": "handcrafted:sandstone_pillar_trim",
+    "count": 4,
+    "ingredients": [
+      "minecraft:sandstone",
+      "",
+      "",
+      "minecraft:sandstone",
+      "",
+      "",
+      "minecraft:sandstone",
+      "",
+      ""
+    ]
+  },
+  "herbsandharvest:salami": {
+    "result": "herbsandharvest:salami",
+    "count": 1,
+    "ingredients": [
+      "minecraft:raw_beef",
+      "minecraft:salt",
+      "minecraft:pepper",
+      "herbsandharvest:mustard_seeds",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "herbsandharvest:salami_rye": {
+    "result": "herbsandharvest:salami_rye",
+    "count": 1,
+    "ingredients": [
+      "herbsandharvest:salami_slice",
+      "herbsandharvest:rye_slice",
+      "herbsandharvest:gouda_wedge",
+      "minecraft:cabbage",
+      "minecraft:mayonnaise",
+      "minecraft:tomato",
+      "minecraft:onion",
+      "",
+      ""
+    ]
+  },
+  "herbsandharvest:salami_slice": {
+    "result": "herbsandharvest:salami_slice",
+    "count": 8,
+    "ingredients": [
+      "minecraft:salami",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "herbsandharvest:salmon_steak": {
+    "result": "herbsandharvest:salmon_steak",
+    "count": 2,
+    "ingredients": [
+      "minecraft:raw_salmon",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "herbsandharvest:sausage": {
+    "result": "herbsandharvest:sausage",
+    "count": 1,
+    "ingredients": [
+      "minecraft:raw_pork",
+      "minecraft:minced_garlic",
+      "herbsandharvest:chopped_sage",
+      "herbsandharvest:chopped_thyme",
+      "herbsandharvest:chopped_rosemary",
+      "minecraft:salt",
+      "minecraft:pepper",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:sapphire_gem": {
+    "result": "iceandfire:sapphire_gem",
+    "count": 9,
+    "ingredients": [
+      "iceandfire:sapphire_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:sapphire_block": {
+    "result": "iceandfire:sapphire_block",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:sapphire_gem",
+      "iceandfire:sapphire_gem",
+      "iceandfire:sapphire_gem",
+      "iceandfire:sapphire_gem",
+      "iceandfire:sapphire_gem",
+      "iceandfire:sapphire_gem",
+      "iceandfire:sapphire_gem",
+      "iceandfire:sapphire_gem",
+      "iceandfire:sapphire_gem"
+    ]
+  },
+  "immersiveengineering:sample_drill": {
+    "result": "immersiveengineering:sample_drill",
+    "count": 1,
+    "ingredients": [
+      "immersiveengineering:steel_scaffolding_standard",
+      "immersiveengineering:steel_fence",
+      "immersiveengineering:steel_scaffolding_standard",
+      "immersiveengineering:steel_scaffolding_standard",
+      "immersiveengineering:steel_fence",
+      "immersiveengineering:steel_scaffolding_standard",
+      "immersiveengineering:light_engineering",
+      "immersiveengineering:steel_fence",
+      "immersiveengineering:light_engineering"
+    ]
+  },
+  "immersiveengineering:sawblade": {
+    "result": "immersiveengineering:sawblade",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:steel_ingot",
+      "minecraft:steel",
+      "modern_industrialization:steel_ingot",
+      "minecraft:steel",
+      "",
+      "minecraft:steel",
+      "modern_industrialization:steel_ingot",
+      "minecraft:steel",
+      "modern_industrialization:steel_ingot"
+    ]
+  },
+  "immersiveengineering:sawdust": {
+    "result": "immersiveengineering:sawdust",
+    "count": 9,
+    "ingredients": [
+      "minecraft:wood",
+      "minecraft:wood",
+      "minecraft:wood",
+      "minecraft:wood",
+      "minecraft:wood",
+      "minecraft:wood",
+      "minecraft:wood",
+      "minecraft:wood",
+      "minecraft:wood"
+    ]
+  },
+  "mcwbridges:sandstone_bridge": {
+    "result": "mcwbridges:sandstone_bridge",
+    "count": 1,
+    "ingredients": [
+      "mcwbridges:sandstone_bridge_stair",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:sandstone_bridge_pier": {
+    "result": "mcwbridges:sandstone_bridge_pier",
+    "count": 3,
+    "ingredients": [
+      "minecraft:sandstone",
+      "minecraft:sandstone_wall",
+      "minecraft:sandstone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:sandstone_bridge_stair": {
+    "result": "mcwbridges:sandstone_bridge_stair",
+    "count": 6,
+    "ingredients": [
+      "",
+      "",
+      "mcwbridges:sandstone_bridge",
+      "",
+      "mcwbridges:sandstone_bridge",
+      "mcwbridges:sandstone_bridge",
+      "mcwbridges:sandstone_bridge",
+      "mcwbridges:sandstone_bridge",
+      "mcwbridges:sandstone_bridge"
+    ]
+  },
+  "mcwfences:sandstone_grass_topped_wall": {
+    "result": "mcwfences:sandstone_grass_topped_wall",
+    "count": 6,
+    "ingredients": [
+      "minecraft:sandstone",
+      "minecraft:dirt",
+      "minecraft:sandstone",
+      "minecraft:smooth_sandstone",
+      "minecraft:smooth_sandstone",
+      "minecraft:smooth_sandstone",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfences:sandstone_pillar_wall": {
+    "result": "mcwfences:sandstone_pillar_wall",
+    "count": 5,
+    "ingredients": [
+      "minecraft:smooth_sandstone",
+      "minecraft:smooth_sandstone",
+      "minecraft:smooth_sandstone",
+      "minecraft:sandstone",
+      "",
+      "minecraft:sandstone",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfences:sandstone_railing_gate": {
+    "result": "mcwfences:sandstone_railing_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_bars",
+      "minecraft:sandstone",
+      "minecraft:iron_bars",
+      "minecraft:iron_bars",
+      "minecraft:sandstone",
+      "minecraft:iron_bars",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwholidays:santa_balloon": {
+    "result": "mcwholidays:santa_balloon",
+    "count": 1,
+    "ingredients": [
+      "minecraft:red_dye",
+      "",
+      "",
+      "minecraft:green_wool",
+      "",
+      "",
+      "minecraft:string",
+      "",
+      ""
+    ]
+  },
+  "mcwholidays:santa_hat_wall_deco": {
+    "result": "mcwholidays:santa_hat_wall_deco",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:red_dye",
+      "",
+      "minecraft:red_dye",
+      "minecraft:paper",
+      "minecraft:red_dye",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwwindows:sandstone_four_window": {
+    "result": "mcwwindows:sandstone_four_window",
+    "count": 8,
+    "ingredients": [
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "minecraft:sandstone",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base"
+    ]
+  },
+  "mcwwindows:sandstone_pane_window": {
+    "result": "mcwwindows:sandstone_pane_window",
+    "count": 8,
+    "ingredients": [
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "minecraft:sandstone",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base"
+    ]
+  },
+  "mcwwindows:sandstone_window": {
+    "result": "mcwwindows:sandstone_window",
+    "count": 4,
+    "ingredients": [
+      "",
+      "mcwwindows:window_base",
+      "",
+      "mcwwindows:window_base",
+      "minecraft:sandstone",
+      "mcwwindows:window_base",
+      "",
+      "mcwwindows:window_base",
+      ""
+    ]
+  },
+  "mcwwindows:sandstone_window2": {
+    "result": "mcwwindows:sandstone_window2",
+    "count": 8,
+    "ingredients": [
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "minecraft:sandstone",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base"
+    ]
+  },
+  "mekanismgenerators:saturating_condenser": {
+    "result": "mekanismgenerators:saturating_condenser",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:tin_ingot",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:tin_ingot",
+      "minecraft:bucket",
+      "modern_industrialization:tin_ingot",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:tin_ingot",
+      "modern_industrialization:steel_ingot"
+    ]
+  },
+  "merrymaking:sandstone_garland_wall": {
+    "result": "merrymaking:sandstone_garland_wall",
+    "count": 1,
+    "ingredients": [
+      "minecraft:sandstone_wall",
+      "merrymaking:garland_horizontal",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:sandstone_garland_multi_wall": {
+    "result": "merrymaking:sandstone_garland_multi_wall",
+    "count": 1,
+    "ingredients": [
+      "minecraft:sandstone_wall",
+      "merrymaking:garland_horizontal_multi",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:sandstone_garland_lights_wall": {
+    "result": "merrymaking:sandstone_garland_lights_wall",
+    "count": 1,
+    "ingredients": [
+      "minecraft:sandstone_wall",
+      "merrymaking:garland_horizontal_lights",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:santa_slippers_leather": {
+    "result": "merrymaking:santa_slippers_leather",
+    "count": 1,
+    "ingredients": [
+      "minecraft:leather",
+      "",
+      "minecraft:leather",
+      "minecraft:leather",
+      "minecraft:green_wool",
+      "minecraft:leather",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:sandstone": {
+    "result": "minecraft:sandstone",
+    "count": 1,
+    "ingredients": [
+      "minecraft:sand",
+      "minecraft:sand",
+      "",
+      "minecraft:sand",
+      "minecraft:sand",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:sandstone_slab": {
+    "result": "minecraft:sandstone_slab",
+    "count": 6,
+    "ingredients": [
+      "minecraft:sandstone",
+      "minecraft:sandstone",
+      "minecraft:sandstone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:sandstone_stairs": {
+    "result": "minecraft:sandstone_stairs",
+    "count": 4,
+    "ingredients": [
+      "minecraft:sandstone",
+      "",
+      "",
+      "minecraft:sandstone",
+      "minecraft:sandstone",
+      "",
+      "minecraft:sandstone",
+      "minecraft:sandstone",
+      "minecraft:sandstone"
+    ]
+  },
+  "minecraft:sandstone_wall": {
+    "result": "minecraft:sandstone_wall",
+    "count": 6,
+    "ingredients": [
+      "minecraft:sandstone",
+      "minecraft:sandstone",
+      "minecraft:sandstone",
+      "minecraft:sandstone",
+      "minecraft:sandstone",
+      "minecraft:sandstone",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mob_grinding_utils:saw": {
+    "result": "mob_grinding_utils:saw",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_sword",
+      "minecraft:diamond",
+      "minecraft:iron_sword",
+      "mob_grinding_utils:spikes",
+      "minecraft:redstone",
+      "mob_grinding_utils:spikes",
+      "minecraft:diamond",
+      "minecraft:iron",
+      "minecraft:diamond"
+    ]
+  },
+  "mob_grinding_utils:saw_upgrade_arthropod": {
+    "result": "mob_grinding_utils:saw_upgrade_arthropod",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold",
+      "minecraft:spider_eye",
+      "minecraft:gold",
+      "minecraft:spider_eye",
+      "minecraft:redstone",
+      "minecraft:spider_eye",
+      "minecraft:gold",
+      "minecraft:spider_eye",
+      "minecraft:gold"
+    ]
+  },
+  "mob_grinding_utils:saw_upgrade_beheading": {
+    "result": "mob_grinding_utils:saw_upgrade_beheading",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold",
+      "minecraft:golden_helmet",
+      "minecraft:gold",
+      "minecraft:iron_helmet",
+      "minecraft:redstone",
+      "minecraft:iron_helmet",
+      "minecraft:gold",
+      "minecraft:golden_helmet",
+      "minecraft:gold"
+    ]
+  },
+  "mob_grinding_utils:saw_upgrade_fire": {
+    "result": "mob_grinding_utils:saw_upgrade_fire",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold",
+      "minecraft:flint_and_steel",
+      "minecraft:gold",
+      "minecraft:flint_and_steel",
+      "minecraft:redstone",
+      "minecraft:flint_and_steel",
+      "minecraft:gold",
+      "minecraft:flint_and_steel",
+      "minecraft:gold"
+    ]
+  },
+  "mob_grinding_utils:saw_upgrade_looting": {
+    "result": "mob_grinding_utils:saw_upgrade_looting",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold",
+      "minecraft:blue",
+      "minecraft:gold",
+      "minecraft:blue",
+      "minecraft:redstone",
+      "minecraft:blue",
+      "minecraft:gold",
+      "minecraft:blue",
+      "minecraft:gold"
+    ]
+  },
+  "mob_grinding_utils:saw_upgrade_sharpness": {
+    "result": "mob_grinding_utils:saw_upgrade_sharpness",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold",
+      "minecraft:iron_sword",
+      "minecraft:gold",
+      "minecraft:iron_sword",
+      "minecraft:redstone",
+      "minecraft:iron_sword",
+      "minecraft:gold",
+      "minecraft:iron_sword",
+      "minecraft:gold"
+    ]
+  },
+  "mob_grinding_utils:saw_upgrade_smite": {
+    "result": "mob_grinding_utils:saw_upgrade_smite",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold",
+      "minecraft:rotten_flesh",
+      "minecraft:gold",
+      "minecraft:rotten_flesh",
+      "minecraft:redstone",
+      "minecraft:rotten_flesh",
+      "minecraft:gold",
+      "minecraft:rotten_flesh",
+      "minecraft:gold"
+    ]
+  },
+  "modern_industrialization:salt_block": {
+    "result": "modern_industrialization:salt_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:salt",
+      "minecraft:salt",
+      "minecraft:salt",
+      "minecraft:salt",
+      "modern_industrialization:salt_dust",
+      "minecraft:salt",
+      "minecraft:salt",
+      "minecraft:salt",
+      "minecraft:salt"
+    ]
+  },
+  "modern_industrialization:salt_ore": {
+    "result": "modern_industrialization:salt_ore",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:deepslate_salt_ore",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:salt_dust": {
+    "result": "modern_industrialization:salt_dust",
+    "count": 1,
+    "ingredients": [
+      "minecraft:salt",
+      "minecraft:salt",
+      "minecraft:salt",
+      "minecraft:salt",
+      "modern_industrialization:salt_tiny_dust",
+      "minecraft:salt",
+      "minecraft:salt",
+      "minecraft:salt",
+      "minecraft:salt"
+    ]
+  },
+  "modern_industrialization:salt_tiny_dust": {
+    "result": "modern_industrialization:salt_tiny_dust",
+    "count": 9,
+    "ingredients": [
+      "modern_industrialization:salt_dust",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:salmon": {
+    "result": "minecraft:salmon",
+    "count": 6,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "mysticalagriculture:fish_essence",
+      "mysticalagriculture:fish_essence",
+      "mysticalagriculture:fish_essence",
+      "",
+      "",
+      ""
+    ]
+  },
+  "occultism:sacrificial_bowl": {
+    "result": "occultism:sacrificial_bowl",
+    "count": 1,
+    "ingredients": [
+      "occultism:otherstone",
+      "",
+      "occultism:otherstone",
+      "occultism:otherstone",
+      "occultism:otherstone",
+      "occultism:otherstone",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:saltitem": {
+    "result": "pamhc2foodcore:saltitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:water",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:saucepanitem": {
+    "result": "pamhc2foodcore:saucepanitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:copper_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:saladdressingitem": {
+    "result": "pamhc2foodextended:saladdressingitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:mayonaise",
+      "minecraft:spiceleaf",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:salisburysteakitem": {
+    "result": "pamhc2foodextended:salisburysteakitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:rawbeef",
+      "minecraft:flour",
+      "minecraft:egg",
+      "minecraft:blackpepper",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:salsaitem": {
+    "result": "pamhc2foodextended:salsaitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:tomato",
+      "minecraft:onion",
+      "minecraft:spiceleaf",
+      "minecraft:lime",
+      "minecraft:garlic",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:saltandpepperitem": {
+    "result": "pamhc2foodextended:saltandpepperitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:salt",
+      "minecraft:blackpepper",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:saltedcaramelitem": {
+    "result": "pamhc2foodextended:saltedcaramelitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:caramel",
+      "minecraft:salt",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:saucedlambkebabitem": {
+    "result": "pamhc2foodextended:saucedlambkebabitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "pamhc2foodextended:lambkebabitem",
+      "minecraft:yogurt",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:sauerbratenitem": {
+    "result": "pamhc2foodextended:sauerbratenitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:rawmeats",
+      "minecraft:vinegar",
+      "minecraft:water",
+      "minecraft:spiceleaf",
+      "minecraft:potato",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:sausagebeanmeltitem": {
+    "result": "pamhc2foodextended:sausagebeanmeltitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:dough",
+      "minecraft:sausage",
+      "minecraft:bean",
+      "minecraft:cheese",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:sausageinbreaditem": {
+    "result": "pamhc2foodextended:sausageinbreaditem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "pamhc2foodextended:maplesausageitem",
+      "minecraft:bread",
+      "minecraft:ketchup",
+      "minecraft:onion",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:sausageitem": {
+    "result": "pamhc2foodextended:sausageitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:rawmeats",
+      "minecraft:salt",
+      "minecraft:spiceleaf",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:sausagerollitem": {
+    "result": "pamhc2foodextended:sausagerollitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:sausage",
+      "minecraft:dough",
+      "minecraft:egg",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pneumaticcraft:safety_tube_module": {
+    "result": "pneumaticcraft:safety_tube_module",
+    "count": 1,
+    "ingredients": [
+      "",
+      "pneumaticcraft:pressure_gauge",
+      "",
+      "minecraft:lever",
+      "pneumaticcraft:pressure_tube",
+      "minecraft:lever",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivebees:sand_nest": {
+    "result": "productivebees:sand_nest",
+    "count": 1,
+    "ingredients": [
+      "productivebees:sand_nest",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sawmill": {
+    "result": "productivetrees:sawmill",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "minecraft:stonecutter",
+      "minecraft:oak_planks",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks"
+    ]
+  },
+  "productivetrees:salak_bookshelf": {
+    "result": "productivetrees:salak_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:salak_planks",
+      "productivetrees:salak_planks",
+      "productivetrees:salak_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:salak_planks",
+      "productivetrees:salak_planks",
+      "productivetrees:salak_planks"
+    ]
+  },
+  "productivetrees:sandalwood_bookshelf": {
+    "result": "productivetrees:sandalwood_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:sandalwood_planks",
+      "productivetrees:sandalwood_planks",
+      "productivetrees:sandalwood_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:sandalwood_planks",
+      "productivetrees:sandalwood_planks",
+      "productivetrees:sandalwood_planks"
+    ]
+  },
+  "productivetrees:sand_pear_bookshelf": {
+    "result": "productivetrees:sand_pear_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:sand_pear_planks",
+      "productivetrees:sand_pear_planks",
+      "productivetrees:sand_pear_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:sand_pear_planks",
+      "productivetrees:sand_pear_planks",
+      "productivetrees:sand_pear_planks"
+    ]
+  },
+  "productivetrees:satsuma_bookshelf": {
+    "result": "productivetrees:satsuma_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:satsuma_planks",
+      "productivetrees:satsuma_planks",
+      "productivetrees:satsuma_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:satsuma_planks",
+      "productivetrees:satsuma_planks",
+      "productivetrees:satsuma_planks"
+    ]
+  },
+  "productivetrees:salak_button": {
+    "result": "productivetrees:salak_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:salak_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sandalwood_button": {
+    "result": "productivetrees:sandalwood_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:sandalwood_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sand_pear_button": {
+    "result": "productivetrees:sand_pear_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:sand_pear_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:satsuma_button": {
+    "result": "productivetrees:satsuma_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:satsuma_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sand_pear_crate": {
+    "result": "productivetrees:sand_pear_crate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:sand_pear",
+      "minecraft:sand_pear",
+      "minecraft:sand_pear",
+      "minecraft:sand_pear",
+      "productivetrees:sand_pear",
+      "minecraft:sand_pear",
+      "minecraft:sand_pear",
+      "minecraft:sand_pear",
+      "minecraft:sand_pear"
+    ]
+  },
+  "productivetrees:sand_pear": {
+    "result": "productivetrees:sand_pear",
+    "count": 9,
+    "ingredients": [
+      "productivetrees:sand_pear_crate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:satsuma_crate": {
+    "result": "productivetrees:satsuma_crate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:satsuma",
+      "minecraft:satsuma",
+      "minecraft:satsuma",
+      "minecraft:satsuma",
+      "productivetrees:satsuma",
+      "minecraft:satsuma",
+      "minecraft:satsuma",
+      "minecraft:satsuma",
+      "minecraft:satsuma"
+    ]
+  },
+  "productivetrees:satsuma": {
+    "result": "productivetrees:satsuma",
+    "count": 9,
+    "ingredients": [
+      "productivetrees:satsuma_crate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:salak_door": {
+    "result": "productivetrees:salak_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:salak_planks",
+      "productivetrees:salak_planks",
+      "",
+      "productivetrees:salak_planks",
+      "productivetrees:salak_planks",
+      "",
+      "productivetrees:salak_planks",
+      "productivetrees:salak_planks",
+      ""
+    ]
+  },
+  "productivetrees:sandalwood_door": {
+    "result": "productivetrees:sandalwood_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:sandalwood_planks",
+      "productivetrees:sandalwood_planks",
+      "",
+      "productivetrees:sandalwood_planks",
+      "productivetrees:sandalwood_planks",
+      "",
+      "productivetrees:sandalwood_planks",
+      "productivetrees:sandalwood_planks",
+      ""
+    ]
+  },
+  "productivetrees:sand_pear_door": {
+    "result": "productivetrees:sand_pear_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:sand_pear_planks",
+      "productivetrees:sand_pear_planks",
+      "",
+      "productivetrees:sand_pear_planks",
+      "productivetrees:sand_pear_planks",
+      "",
+      "productivetrees:sand_pear_planks",
+      "productivetrees:sand_pear_planks",
+      ""
+    ]
+  },
+  "productivetrees:satsuma_door": {
+    "result": "productivetrees:satsuma_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:satsuma_planks",
+      "productivetrees:satsuma_planks",
+      "",
+      "productivetrees:satsuma_planks",
+      "productivetrees:satsuma_planks",
+      "",
+      "productivetrees:satsuma_planks",
+      "productivetrees:satsuma_planks",
+      ""
+    ]
+  },
+  "productivetrees:salak_fence": {
+    "result": "productivetrees:salak_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:salak_planks",
+      "minecraft:stick",
+      "productivetrees:salak_planks",
+      "productivetrees:salak_planks",
+      "minecraft:stick",
+      "productivetrees:salak_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sandalwood_fence": {
+    "result": "productivetrees:sandalwood_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:sandalwood_planks",
+      "minecraft:stick",
+      "productivetrees:sandalwood_planks",
+      "productivetrees:sandalwood_planks",
+      "minecraft:stick",
+      "productivetrees:sandalwood_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sand_pear_fence": {
+    "result": "productivetrees:sand_pear_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:sand_pear_planks",
+      "minecraft:stick",
+      "productivetrees:sand_pear_planks",
+      "productivetrees:sand_pear_planks",
+      "minecraft:stick",
+      "productivetrees:sand_pear_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:satsuma_fence": {
+    "result": "productivetrees:satsuma_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:satsuma_planks",
+      "minecraft:stick",
+      "productivetrees:satsuma_planks",
+      "productivetrees:satsuma_planks",
+      "minecraft:stick",
+      "productivetrees:satsuma_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:salak_fence_gate": {
+    "result": "productivetrees:salak_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:salak_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:salak_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sandalwood_fence_gate": {
+    "result": "productivetrees:sandalwood_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:sandalwood_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:sandalwood_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sand_pear_fence_gate": {
+    "result": "productivetrees:sand_pear_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:sand_pear_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:sand_pear_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:satsuma_fence_gate": {
+    "result": "productivetrees:satsuma_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:satsuma_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:satsuma_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:salak_hanging_sign": {
+    "result": "productivetrees:salak_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:salak_planks",
+      "productivetrees:salak_planks",
+      "productivetrees:salak_planks",
+      "productivetrees:salak_planks",
+      "productivetrees:salak_planks",
+      "productivetrees:salak_planks"
+    ]
+  },
+  "productivetrees:sandalwood_hanging_sign": {
+    "result": "productivetrees:sandalwood_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:sandalwood_planks",
+      "productivetrees:sandalwood_planks",
+      "productivetrees:sandalwood_planks",
+      "productivetrees:sandalwood_planks",
+      "productivetrees:sandalwood_planks",
+      "productivetrees:sandalwood_planks"
+    ]
+  },
+  "productivetrees:sand_pear_hanging_sign": {
+    "result": "productivetrees:sand_pear_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:sand_pear_planks",
+      "productivetrees:sand_pear_planks",
+      "productivetrees:sand_pear_planks",
+      "productivetrees:sand_pear_planks",
+      "productivetrees:sand_pear_planks",
+      "productivetrees:sand_pear_planks"
+    ]
+  },
+  "productivetrees:satsuma_hanging_sign": {
+    "result": "productivetrees:satsuma_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:satsuma_planks",
+      "productivetrees:satsuma_planks",
+      "productivetrees:satsuma_planks",
+      "productivetrees:satsuma_planks",
+      "productivetrees:satsuma_planks",
+      "productivetrees:satsuma_planks"
+    ]
+  },
+  "productivetrees:salak_planks": {
+    "result": "productivetrees:salak_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sandalwood_planks": {
+    "result": "productivetrees:sandalwood_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sand_pear_planks": {
+    "result": "productivetrees:sand_pear_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:satsuma_planks": {
+    "result": "productivetrees:satsuma_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:salak_pressure_plate": {
+    "result": "productivetrees:salak_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:salak_planks",
+      "productivetrees:salak_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sandalwood_pressure_plate": {
+    "result": "productivetrees:sandalwood_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:sandalwood_planks",
+      "productivetrees:sandalwood_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sand_pear_pressure_plate": {
+    "result": "productivetrees:sand_pear_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:sand_pear_planks",
+      "productivetrees:sand_pear_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:satsuma_pressure_plate": {
+    "result": "productivetrees:satsuma_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:satsuma_planks",
+      "productivetrees:satsuma_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:salak_sign": {
+    "result": "productivetrees:salak_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:salak_planks",
+      "productivetrees:salak_planks",
+      "productivetrees:salak_planks",
+      "productivetrees:salak_planks",
+      "productivetrees:salak_planks",
+      "productivetrees:salak_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:sandalwood_sign": {
+    "result": "productivetrees:sandalwood_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:sandalwood_planks",
+      "productivetrees:sandalwood_planks",
+      "productivetrees:sandalwood_planks",
+      "productivetrees:sandalwood_planks",
+      "productivetrees:sandalwood_planks",
+      "productivetrees:sandalwood_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:sand_pear_sign": {
+    "result": "productivetrees:sand_pear_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:sand_pear_planks",
+      "productivetrees:sand_pear_planks",
+      "productivetrees:sand_pear_planks",
+      "productivetrees:sand_pear_planks",
+      "productivetrees:sand_pear_planks",
+      "productivetrees:sand_pear_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:satsuma_sign": {
+    "result": "productivetrees:satsuma_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:satsuma_planks",
+      "productivetrees:satsuma_planks",
+      "productivetrees:satsuma_planks",
+      "productivetrees:satsuma_planks",
+      "productivetrees:satsuma_planks",
+      "productivetrees:satsuma_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:salak_slab": {
+    "result": "productivetrees:salak_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:salak_planks",
+      "productivetrees:salak_planks",
+      "productivetrees:salak_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sandalwood_slab": {
+    "result": "productivetrees:sandalwood_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:sandalwood_planks",
+      "productivetrees:sandalwood_planks",
+      "productivetrees:sandalwood_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sand_pear_slab": {
+    "result": "productivetrees:sand_pear_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:sand_pear_planks",
+      "productivetrees:sand_pear_planks",
+      "productivetrees:sand_pear_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:satsuma_slab": {
+    "result": "productivetrees:satsuma_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:satsuma_planks",
+      "productivetrees:satsuma_planks",
+      "productivetrees:satsuma_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:salak_stairs": {
+    "result": "productivetrees:salak_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:salak_planks",
+      "",
+      "",
+      "productivetrees:salak_planks",
+      "productivetrees:salak_planks",
+      "",
+      "productivetrees:salak_planks",
+      "productivetrees:salak_planks",
+      "productivetrees:salak_planks"
+    ]
+  },
+  "productivetrees:sandalwood_stairs": {
+    "result": "productivetrees:sandalwood_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:sandalwood_planks",
+      "",
+      "",
+      "productivetrees:sandalwood_planks",
+      "productivetrees:sandalwood_planks",
+      "",
+      "productivetrees:sandalwood_planks",
+      "productivetrees:sandalwood_planks",
+      "productivetrees:sandalwood_planks"
+    ]
+  },
+  "productivetrees:sand_pear_stairs": {
+    "result": "productivetrees:sand_pear_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:sand_pear_planks",
+      "",
+      "",
+      "productivetrees:sand_pear_planks",
+      "productivetrees:sand_pear_planks",
+      "",
+      "productivetrees:sand_pear_planks",
+      "productivetrees:sand_pear_planks",
+      "productivetrees:sand_pear_planks"
+    ]
+  },
+  "productivetrees:satsuma_stairs": {
+    "result": "productivetrees:satsuma_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:satsuma_planks",
+      "",
+      "",
+      "productivetrees:satsuma_planks",
+      "productivetrees:satsuma_planks",
+      "",
+      "productivetrees:satsuma_planks",
+      "productivetrees:satsuma_planks",
+      "productivetrees:satsuma_planks"
+    ]
+  },
+  "productivetrees:salak_trapdoor": {
+    "result": "productivetrees:salak_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:salak_planks",
+      "productivetrees:salak_planks",
+      "productivetrees:salak_planks",
+      "productivetrees:salak_planks",
+      "productivetrees:salak_planks",
+      "productivetrees:salak_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sandalwood_trapdoor": {
+    "result": "productivetrees:sandalwood_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:sandalwood_planks",
+      "productivetrees:sandalwood_planks",
+      "productivetrees:sandalwood_planks",
+      "productivetrees:sandalwood_planks",
+      "productivetrees:sandalwood_planks",
+      "productivetrees:sandalwood_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sand_pear_trapdoor": {
+    "result": "productivetrees:sand_pear_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:sand_pear_planks",
+      "productivetrees:sand_pear_planks",
+      "productivetrees:sand_pear_planks",
+      "productivetrees:sand_pear_planks",
+      "productivetrees:sand_pear_planks",
+      "productivetrees:sand_pear_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:satsuma_trapdoor": {
+    "result": "productivetrees:satsuma_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:satsuma_planks",
+      "productivetrees:satsuma_planks",
+      "productivetrees:satsuma_planks",
+      "productivetrees:satsuma_planks",
+      "productivetrees:satsuma_planks",
+      "productivetrees:satsuma_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:salak_wood": {
+    "result": "productivetrees:salak_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:salak_log",
+      "productivetrees:salak_log",
+      "",
+      "productivetrees:salak_log",
+      "productivetrees:salak_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sandalwood_wood": {
+    "result": "productivetrees:sandalwood_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:sandalwood_log",
+      "productivetrees:sandalwood_log",
+      "",
+      "productivetrees:sandalwood_log",
+      "productivetrees:sandalwood_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sand_pear_wood": {
+    "result": "productivetrees:sand_pear_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:sand_pear_log",
+      "productivetrees:sand_pear_log",
+      "",
+      "productivetrees:sand_pear_log",
+      "productivetrees:sand_pear_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:satsuma_wood": {
+    "result": "productivetrees:satsuma_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:satsuma_log",
+      "productivetrees:satsuma_log",
+      "",
+      "productivetrees:satsuma_log",
+      "productivetrees:satsuma_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "reliquary:salamander_eye": {
+    "result": "reliquary:salamander_eye",
+    "count": 1,
+    "ingredients": [
+      "minecraft:ender_eye",
+      "reliquary:molten_core",
+      "reliquary:frozen_core",
+      "reliquary:nebulous_heart",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "rftoolsutility:saturationplus_module": {
+    "result": "rftoolsutility:saturationplus_module",
+    "count": 1,
+    "ingredients": [
+      "minecraft:rotten_flesh",
+      "rftoolsutility:saturation_module",
+      "minecraft:rotten_flesh",
+      "rftoolsbase:infused_diamond",
+      "rftoolsutility:moduleplus_template",
+      "rftoolsbase:infused_diamond",
+      "minecraft:rotten_flesh",
+      "rftoolsbase:infused_diamond",
+      "minecraft:rotten_flesh"
+    ]
+  },
+  "sawmill:sawmill": {
+    "result": "sawmill:sawmill",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:wooden_fences",
+      "minecraft:iron_ingot",
+      "minecraft:wooden_fences",
+      "minecraft:wooden_slabs",
+      "minecraft:wooden_slabs",
+      "minecraft:wooden_slabs"
+    ]
+  },
+  "securitycraft:sand_mine": {
+    "result": "securitycraft:sand_mine",
+    "count": 1,
+    "ingredients": [
+      "minecraft:sand",
+      "securitycraft:mine",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgear:salvager": {
+    "result": "silentgear:salvager",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:piston",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:iron",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:obsidians",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "silentgear:saw_blueprint": {
+    "result": "silentgear:saw_blueprint",
+    "count": 1,
+    "ingredients": [
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick"
+    ]
+  },
+  "silentgear:saw_template": {
+    "result": "silentgear:saw_template",
+    "count": 1,
+    "ingredients": [
+      "minecraft:template_boards",
+      "minecraft:template_boards",
+      "minecraft:template_boards",
+      "minecraft:template_boards",
+      "minecraft:template_boards",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick"
+    ]
+  },
+  "silentgems:sapphire": {
+    "result": "silentgems:sapphire",
+    "count": 9,
+    "ingredients": [
+      "silentgems:sapphire_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgems:sapphire_bricks": {
+    "result": "silentgems:sapphire_bricks",
+    "count": 12,
+    "ingredients": [
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:sapphire",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks"
+    ]
+  },
+  "silentgems:sapphire_block": {
+    "result": "silentgems:sapphire_block",
+    "count": 1,
+    "ingredients": [
+      "silentgems:sapphire",
+      "silentgems:sapphire",
+      "silentgems:sapphire",
+      "silentgems:sapphire",
+      "silentgems:sapphire",
+      "silentgems:sapphire",
+      "silentgems:sapphire",
+      "silentgems:sapphire",
+      "silentgems:sapphire"
+    ]
+  },
+  "silentgems:sapphire_glass": {
+    "result": "silentgems:sapphire_glass",
+    "count": 12,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:sapphire",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass"
+    ]
+  },
+  "silentgems:sapphire_lamp": {
+    "result": "silentgems:sapphire_lamp",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:sapphire",
+      "minecraft:stone",
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:redstone"
+    ]
+  },
+  "silentgems:sapphire_lamp_inverted_on": {
+    "result": "silentgems:sapphire_lamp_inverted_on",
+    "count": 1,
+    "ingredients": [
+      "silentgems:sapphire_lamp",
+      "minecraft:redstone_torch",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgems:sapphire_redstone_teleporter": {
+    "result": "silentgems:sapphire_redstone_teleporter",
+    "count": 1,
+    "ingredients": [
+      "silentgems:sapphire_teleporter",
+      "minecraft:redstone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgems:sapphire_small_bricks": {
+    "result": "silentgems:sapphire_small_bricks",
+    "count": 12,
+    "ingredients": [
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:sapphire",
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:bricks"
+    ]
+  },
+  "silentgems:sapphire_teleporter": {
+    "result": "silentgems:sapphire_teleporter",
+    "count": 2,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "minecraft:sapphire",
+      "minecraft:gold_ingot",
+      "minecraft:sapphire",
+      "silentgems:chaos_essence_block",
+      "minecraft:sapphire",
+      "",
+      "minecraft:ender_pearl",
+      ""
+    ]
+  },
+  "silentgems:sapphire_tiles": {
+    "result": "silentgems:sapphire_tiles",
+    "count": 12,
+    "ingredients": [
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:sapphire",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles"
+    ]
+  },
+  "sophisticatedbackpacks:sawmill/sawmill_upgrade": {
+    "result": "sophisticatedbackpacks:sawmill/sawmill_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:string",
+      "sophisticatedstorage:sawmill/sawmill_upgrade",
+      "minecraft:string",
+      "",
+      "minecraft:leather",
+      "",
+      "minecraft:string",
+      "",
+      "minecraft:string"
+    ]
+  },
+  "sophisticatedstorage:sawmill/sawmill_upgrade": {
+    "result": "sophisticatedstorage:sawmill/sawmill_upgrade",
+    "count": 1,
+    "ingredients": [
+      "",
+      "sawmill:sawmill",
+      "",
+      "minecraft:iron_ingot",
+      "sophisticatedstorage:upgrade_base",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:redstone",
+      ""
+    ]
+  },
+  "supplementaries:sack": {
+    "result": "supplementaries:sack",
+    "count": 1,
+    "ingredients": [
+      "farmersdelight:canvas",
+      "minecraft:string",
+      "farmersdelight:canvas",
+      "farmersdelight:canvas",
+      "",
+      "farmersdelight:canvas",
+      "farmersdelight:canvas",
+      "farmersdelight:canvas",
+      "farmersdelight:canvas"
+    ]
+  },
+  "theurgy:sal_ammoniac_accumulator": {
+    "result": "theurgy:sal_ammoniac_accumulator",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:stick",
+      "",
+      "minecraft:stick"
+    ]
+  },
+  "theurgy:sal_ammoniac_tank": {
+    "result": "theurgy:sal_ammoniac_tank",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:copper_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:copper_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:stick",
+      "minecraft:copper_ingot",
+      "minecraft:stick"
+    ]
+  },
+  "theurgy:sal_ammoniac_crystal": {
+    "result": "theurgy:sal_ammoniac_crystal",
+    "count": 1,
+    "ingredients": [
+      "theurgy:sal_ammoniac_bucket",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "waystones:sandy_waystone": {
+    "result": "waystones:sandy_waystone",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:chiseled_sandstone",
+      "",
+      "minecraft:chiseled_sandstone",
+      "waystones:warp_stone",
+      "minecraft:chiseled_sandstone",
+      "minecraft:obsidian",
+      "minecraft:obsidian",
+      "minecraft:obsidian"
+    ]
+  }
+}

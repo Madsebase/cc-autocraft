@@ -1,0 +1,137 @@
+{
+  "extradisks:4096k_item_storage_block": {
+    "result": "extradisks:4096k_item_storage_block",
+    "count": 1,
+    "ingredients": [
+      "refinedstorage:quartz_enriched_iron",
+      "minecraft:4096k",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:quartz_enriched_iron",
+      "extradisks:advanced_machine_casing",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:quartz_enriched_iron",
+      "minecraft:redstone",
+      "refinedstorage:quartz_enriched_iron"
+    ]
+  },
+  "extradisks:4096k_item_storage_disk": {
+    "result": "extradisks:4096k_item_storage_disk",
+    "count": 1,
+    "ingredients": [
+      "extradisks:advanced_storage_housing",
+      "minecraft:4096k",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "extradisks:4096k_item_storage_part": {
+    "result": "extradisks:4096k_item_storage_part",
+    "count": 1,
+    "ingredients": [
+      "refinedstorage:advanced_processor",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:advanced_processor",
+      "minecraft:1024k",
+      "minecraft:redstone",
+      "minecraft:1024k",
+      "refinedstorage:advanced_processor",
+      "minecraft:1024k",
+      "refinedstorage:advanced_processor"
+    ]
+  },
+  "refinedstorage:4096b_fluid_storage_block": {
+    "result": "refinedstorage:4096b_fluid_storage_block",
+    "count": 1,
+    "ingredients": [
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:4096b_fluid_storage_part",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:machine_casing",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:quartz_enriched_iron",
+      "minecraft:redstone",
+      "refinedstorage:quartz_enriched_iron"
+    ]
+  },
+  "refinedstorage:4096b_fluid_storage_disk": {
+    "result": "refinedstorage:4096b_fluid_storage_disk",
+    "count": 1,
+    "ingredients": [
+      "refinedstorage:storage_housing",
+      "refinedstorage:4096b_fluid_storage_part",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "refinedstorage:4096b_fluid_storage_part": {
+    "result": "refinedstorage:4096b_fluid_storage_part",
+    "count": 1,
+    "ingredients": [
+      "refinedstorage:advanced_processor",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:advanced_processor",
+      "refinedstorage:1024b_fluid_storage_part",
+      "minecraft:empty",
+      "refinedstorage:1024b_fluid_storage_part",
+      "refinedstorage:advanced_processor",
+      "refinedstorage:1024b_fluid_storage_part",
+      "refinedstorage:advanced_processor"
+    ]
+  },
+  "refinedtypes:4096k_soul_storage_block": {
+    "result": "refinedtypes:4096k_soul_storage_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone_block",
+      "refinedtypes:4096k_soul_storage_part",
+      "minecraft:redstone_block",
+      "minecraft:redstone_block",
+      "refinedstorage:machine_casing",
+      "minecraft:redstone_block",
+      "minecraft:redstone_block",
+      "minecraft:redstone",
+      "minecraft:redstone_block"
+    ]
+  },
+  "refinedtypes:4096k_soul_storage_disk": {
+    "result": "refinedtypes:4096k_soul_storage_disk",
+    "count": 1,
+    "ingredients": [
+      "refinedstorage:storage_housing",
+      "refinedtypes:4096k_soul_storage_part",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "refinedtypes:4096k_soul_storage_part": {
+    "result": "refinedtypes:4096k_soul_storage_part",
+    "count": 1,
+    "ingredients": [
+      "refinedstorage:advanced_processor",
+      "minecraft:redstone_block",
+      "refinedstorage:advanced_processor",
+      "refinedtypes:512k_soul_storage_part",
+      "minecraft:diamond_block",
+      "refinedtypes:512k_soul_storage_part",
+      "refinedstorage:advanced_processor",
+      "refinedtypes:512k_soul_storage_part",
+      "refinedstorage:advanced_processor"
+    ]
+  }
+}

@@ -1,0 +1,3407 @@
+{
+  "actuallyadditions:drill_core": {
+    "result": "actuallyadditions:drill_core",
+    "count": 1,
+    "ingredients": [
+      "actuallyadditions:enori_crystal",
+      "actuallyadditions:basic_coil",
+      "actuallyadditions:enori_crystal",
+      "actuallyadditions:basic_coil",
+      "actuallyadditions:restonia_crystal",
+      "actuallyadditions:basic_coil",
+      "actuallyadditions:enori_crystal",
+      "actuallyadditions:basic_coil",
+      "actuallyadditions:enori_crystal"
+    ]
+  },
+  "actuallyadditions:drill_light_blue": {
+    "result": "actuallyadditions:drill_light_blue",
+    "count": 1,
+    "ingredients": [
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "actuallyadditions:advanced_coil",
+      "actuallyadditions:drill_core",
+      "actuallyadditions:advanced_coil",
+      "actuallyadditions:enori_crystal",
+      "actuallyadditions:enori_crystal",
+      "actuallyadditions:enori_crystal"
+    ]
+  },
+  "actuallyadditions:drill_pattern": {
+    "result": "actuallyadditions:drill_pattern",
+    "count": 1,
+    "ingredients": [
+      "actuallyadditions:drill_core",
+      "minecraft:paper",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "actuallyadditions:drill_upgrade_block_placing": {
+    "result": "actuallyadditions:drill_upgrade_block_placing",
+    "count": 1,
+    "ingredients": [
+      "minecraft:cobblestone",
+      "minecraft:paper",
+      "minecraft:cobblestone",
+      "actuallyadditions:enori_crystal",
+      "actuallyadditions:basic_coil",
+      "actuallyadditions:enori_crystal",
+      "minecraft:cobblestone",
+      "minecraft:paper",
+      "minecraft:cobblestone"
+    ]
+  },
+  "actuallyadditions:drill_upgrade_five_by_five": {
+    "result": "actuallyadditions:drill_upgrade_five_by_five",
+    "count": 1,
+    "ingredients": [
+      "actuallyadditions:diamatine_crystal",
+      "actuallyadditions:empowered_enori_crystal",
+      "actuallyadditions:diamatine_crystal",
+      "actuallyadditions:empowered_enori_crystal",
+      "actuallyadditions:advanced_coil",
+      "actuallyadditions:empowered_enori_crystal",
+      "actuallyadditions:diamatine_crystal",
+      "actuallyadditions:empowered_enori_crystal",
+      "actuallyadditions:diamatine_crystal"
+    ]
+  },
+  "actuallyadditions:drill_upgrade_fortune": {
+    "result": "actuallyadditions:drill_upgrade_fortune",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glowstone",
+      "minecraft:redstone",
+      "minecraft:glowstone",
+      "minecraft:redstone",
+      "actuallyadditions:empowered_diamatine_crystal_block",
+      "minecraft:redstone",
+      "minecraft:glowstone",
+      "minecraft:redstone",
+      "minecraft:glowstone"
+    ]
+  },
+  "actuallyadditions:drill_upgrade_fortune_ii": {
+    "result": "actuallyadditions:drill_upgrade_fortune_ii",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glowstone",
+      "actuallyadditions:empowered_restonia_crystal",
+      "minecraft:glowstone",
+      "actuallyadditions:empowered_restonia_crystal",
+      "actuallyadditions:ender_casing",
+      "actuallyadditions:empowered_restonia_crystal",
+      "minecraft:glowstone",
+      "actuallyadditions:empowered_restonia_crystal",
+      "minecraft:glowstone"
+    ]
+  },
+  "actuallyadditions:drill_upgrade_silk_touch": {
+    "result": "actuallyadditions:drill_upgrade_silk_touch",
+    "count": 1,
+    "ingredients": [
+      "actuallyadditions:emeradic_crystal",
+      "actuallyadditions:diamatine_crystal",
+      "actuallyadditions:emeradic_crystal",
+      "actuallyadditions:diamatine_crystal",
+      "actuallyadditions:advanced_coil",
+      "actuallyadditions:diamatine_crystal",
+      "actuallyadditions:emeradic_crystal",
+      "actuallyadditions:diamatine_crystal",
+      "actuallyadditions:emeradic_crystal"
+    ]
+  },
+  "actuallyadditions:drill_upgrade_speed": {
+    "result": "actuallyadditions:drill_upgrade_speed",
+    "count": 1,
+    "ingredients": [
+      "actuallyadditions:enori_crystal",
+      "minecraft:sugar",
+      "actuallyadditions:enori_crystal",
+      "minecraft:sugar",
+      "actuallyadditions:restonia_crystal",
+      "minecraft:sugar",
+      "actuallyadditions:enori_crystal",
+      "minecraft:sugar",
+      "actuallyadditions:enori_crystal"
+    ]
+  },
+  "actuallyadditions:drill_upgrade_speed_ii": {
+    "result": "actuallyadditions:drill_upgrade_speed_ii",
+    "count": 1,
+    "ingredients": [
+      "actuallyadditions:enori_crystal",
+      "minecraft:sugar",
+      "actuallyadditions:enori_crystal",
+      "minecraft:sugar",
+      "minecraft:cake",
+      "minecraft:sugar",
+      "actuallyadditions:enori_crystal",
+      "minecraft:sugar",
+      "actuallyadditions:enori_crystal"
+    ]
+  },
+  "actuallyadditions:drill_upgrade_speed_iii": {
+    "result": "actuallyadditions:drill_upgrade_speed_iii",
+    "count": 1,
+    "ingredients": [
+      "actuallyadditions:empowered_enori_crystal",
+      "minecraft:sugar",
+      "actuallyadditions:empowered_enori_crystal",
+      "minecraft:sugar",
+      "actuallyadditions:empowered_diamatine_crystal",
+      "minecraft:sugar",
+      "actuallyadditions:empowered_enori_crystal",
+      "minecraft:sugar",
+      "actuallyadditions:empowered_enori_crystal"
+    ]
+  },
+  "actuallyadditions:drill_upgrade_three_by_three": {
+    "result": "actuallyadditions:drill_upgrade_three_by_three",
+    "count": 1,
+    "ingredients": [
+      "actuallyadditions:diamatine_crystal",
+      "actuallyadditions:enori_crystal",
+      "actuallyadditions:diamatine_crystal",
+      "actuallyadditions:enori_crystal",
+      "actuallyadditions:basic_coil",
+      "actuallyadditions:enori_crystal",
+      "actuallyadditions:diamatine_crystal",
+      "actuallyadditions:enori_crystal",
+      "actuallyadditions:diamatine_crystal"
+    ]
+  },
+  "actuallyadditions:dropper": {
+    "result": "actuallyadditions:dropper",
+    "count": 1,
+    "ingredients": [
+      "actuallyadditions:dropper",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ae2:drive": {
+    "result": "ae2:drive",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "ae2:engineering_processor",
+      "minecraft:iron_ingot",
+      "ae2:fluix_glass_cable",
+      "",
+      "ae2:fluix_glass_cable",
+      "minecraft:iron_ingot",
+      "ae2:engineering_processor",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "allthecompressed:dried_kelp_block_1x": {
+    "result": "allthecompressed:dried_kelp_block_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:dried_kelp_block_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:dried_kelp_block_2x": {
+    "result": "allthecompressed:dried_kelp_block_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:dried_kelp_block_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:dried_kelp_block_3x": {
+    "result": "allthecompressed:dried_kelp_block_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:dried_kelp_block_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:dried_kelp_block_4x": {
+    "result": "allthecompressed:dried_kelp_block_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:dried_kelp_block_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:dried_kelp_block_5x": {
+    "result": "allthecompressed:dried_kelp_block_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:dried_kelp_block_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:dried_kelp_block_6x": {
+    "result": "allthecompressed:dried_kelp_block_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:dried_kelp_block_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:dried_kelp_block_7x": {
+    "result": "allthecompressed:dried_kelp_block_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:dried_kelp_block_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:dried_kelp_block_8x": {
+    "result": "allthecompressed:dried_kelp_block_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:dried_kelp_block_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:dried_kelp_block_9x": {
+    "result": "allthecompressed:dried_kelp_block_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:dried_kelp_block_8x",
+      "allthecompressed:dried_kelp_block_8x",
+      "allthecompressed:dried_kelp_block_8x",
+      "allthecompressed:dried_kelp_block_8x",
+      "allthecompressed:dried_kelp_block_8x",
+      "allthecompressed:dried_kelp_block_8x",
+      "allthecompressed:dried_kelp_block_8x",
+      "allthecompressed:dried_kelp_block_8x",
+      "allthecompressed:dried_kelp_block_8x"
+    ]
+  },
+  "allthecompressed:dripstone_block_1x": {
+    "result": "allthecompressed:dripstone_block_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:dripstone_block_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:dripstone_block_2x": {
+    "result": "allthecompressed:dripstone_block_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:dripstone_block_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:dripstone_block_3x": {
+    "result": "allthecompressed:dripstone_block_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:dripstone_block_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:dripstone_block_4x": {
+    "result": "allthecompressed:dripstone_block_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:dripstone_block_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:dripstone_block_5x": {
+    "result": "allthecompressed:dripstone_block_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:dripstone_block_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:dripstone_block_6x": {
+    "result": "allthecompressed:dripstone_block_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:dripstone_block_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:dripstone_block_7x": {
+    "result": "allthecompressed:dripstone_block_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:dripstone_block_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:dripstone_block_8x": {
+    "result": "allthecompressed:dripstone_block_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:dripstone_block_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:dripstone_block_9x": {
+    "result": "allthecompressed:dripstone_block_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:dripstone_block_8x",
+      "allthecompressed:dripstone_block_8x",
+      "allthecompressed:dripstone_block_8x",
+      "allthecompressed:dripstone_block_8x",
+      "allthecompressed:dripstone_block_8x",
+      "allthecompressed:dripstone_block_8x",
+      "allthecompressed:dripstone_block_8x",
+      "allthecompressed:dripstone_block_8x",
+      "allthecompressed:dripstone_block_8x"
+    ]
+  },
+  "minecraft:dried_kelp_block": {
+    "result": "minecraft:dried_kelp_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dried_kelp",
+      "minecraft:dried_kelp",
+      "minecraft:dried_kelp",
+      "minecraft:dried_kelp",
+      "minecraft:dried_kelp",
+      "minecraft:dried_kelp",
+      "minecraft:dried_kelp",
+      "minecraft:dried_kelp",
+      "minecraft:dried_kelp"
+    ]
+  },
+  "minecraft:dripstone_block": {
+    "result": "minecraft:dripstone_block",
+    "count": 12,
+    "ingredients": [
+      "",
+      "mysticalagriculture:stone_essence",
+      "",
+      "mysticalagriculture:stone_essence",
+      "mysticalagriculture:water_essence",
+      "mysticalagriculture:stone_essence",
+      "",
+      "mysticalagriculture:stone_essence",
+      ""
+    ]
+  },
+  "amendments:dragon_charge": {
+    "result": "amendments:dragon_charge",
+    "count": 1,
+    "ingredients": [
+      "minecraft:obsidian",
+      "minecraft:dragon_breath",
+      "minecraft:gunpowder",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "apothic_enchanting:draconic_endshelf": {
+    "result": "apothic_enchanting:draconic_endshelf",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:dragon_head",
+      "",
+      "minecraft:ender_pearl",
+      "apothic_enchanting:endshelf",
+      "minecraft:ender_pearl",
+      "minecraft:ender_pearl",
+      "minecraft:ender_pearl",
+      "minecraft:ender_pearl"
+    ]
+  },
+  "ars_nouveau:drygmy_charm": {
+    "result": "ars_nouveau:drygmy_charm",
+    "count": 1,
+    "ingredients": [
+      "ars_nouveau:drygmy_charm",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "draconicevolution:draconic_energy_core": {
+    "result": "draconicevolution:draconic_energy_core",
+    "count": 1,
+    "ingredients": [
+      "minecraft:draconium_awakened",
+      "draconicevolution:wyvern_energy_core",
+      "minecraft:draconium_awakened",
+      "draconicevolution:wyvern_energy_core",
+      "draconicevolution:wyvern_core",
+      "draconicevolution:wyvern_energy_core",
+      "minecraft:draconium_awakened",
+      "draconicevolution:wyvern_energy_core",
+      "minecraft:draconium_awakened"
+    ]
+  },
+  "draconicevolution:draconium_core": {
+    "result": "draconicevolution:draconium_core",
+    "count": 1,
+    "ingredients": [
+      "minecraft:draconium",
+      "minecraft:gold_ingot",
+      "minecraft:draconium",
+      "minecraft:gold_ingot",
+      "minecraft:diamond",
+      "minecraft:gold_ingot",
+      "minecraft:draconium",
+      "minecraft:gold_ingot",
+      "minecraft:draconium"
+    ]
+  },
+  "draconicevolution:draconium_block": {
+    "result": "draconicevolution:draconium_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:draconium",
+      "minecraft:draconium",
+      "minecraft:draconium",
+      "minecraft:draconium",
+      "minecraft:draconium",
+      "minecraft:draconium",
+      "minecraft:draconium",
+      "minecraft:draconium",
+      "minecraft:draconium"
+    ]
+  },
+  "draconicevolution:draconium_ingot": {
+    "result": "draconicevolution:draconium_ingot",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:draconium_essence",
+      "mysticalagriculture:draconium_essence",
+      "mysticalagriculture:draconium_essence",
+      "mysticalagriculture:draconium_essence",
+      "",
+      "mysticalagriculture:draconium_essence",
+      "mysticalagriculture:draconium_essence",
+      "mysticalagriculture:draconium_essence",
+      "mysticalagriculture:draconium_essence"
+    ]
+  },
+  "draconicevolution:draconium_nugget": {
+    "result": "draconicevolution:draconium_nugget",
+    "count": 9,
+    "ingredients": [
+      "minecraft:draconium",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "draconicevolution:draconic_io_crystal": {
+    "result": "draconicevolution:draconic_io_crystal",
+    "count": 2,
+    "ingredients": [
+      "draconicevolution:draconic_relay_crystal",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "draconicevolution:draconic_relay_crystal": {
+    "result": "draconicevolution:draconic_relay_crystal",
+    "count": 1,
+    "ingredients": [
+      "draconicevolution:draconic_io_crystal",
+      "draconicevolution:draconic_io_crystal",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "draconicevolution:draconic_wireless_crystal": {
+    "result": "draconicevolution:draconic_wireless_crystal",
+    "count": 1,
+    "ingredients": [
+      "minecraft:ender_pearl",
+      "draconicevolution:particle_generator",
+      "minecraft:ender_pearl",
+      "minecraft:ender_eye",
+      "draconicevolution:draconic_relay_crystal",
+      "minecraft:ender_eye",
+      "minecraft:ender_pearl",
+      "draconicevolution:particle_generator",
+      "minecraft:ender_pearl"
+    ]
+  },
+  "enderio:drain": {
+    "result": "enderio:drain",
+    "count": 1,
+    "ingredients": [
+      "enderio:drain",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:dropper": {
+    "result": "minecraft:dropper",
+    "count": 1,
+    "ingredients": [
+      "minecraft:cobblestone",
+      "minecraft:cobblestone",
+      "minecraft:cobblestone",
+      "minecraft:cobblestone",
+      "",
+      "minecraft:cobblestone",
+      "minecraft:cobblestone",
+      "minecraft:redstone",
+      "minecraft:cobblestone"
+    ]
+  },
+  "extendedae:drive_upgrade": {
+    "result": "extendedae:drive_upgrade",
+    "count": 1,
+    "ingredients": [
+      "extendedae:ex_drive",
+      "minecraft:ingots",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "forbidden_arcanus:draco_arcanus_arrow": {
+    "result": "forbidden_arcanus:draco_arcanus_arrow",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:arrow",
+      "",
+      "minecraft:arrow",
+      "minecraft:dragon_breath",
+      "minecraft:arrow",
+      "",
+      "minecraft:arrow",
+      ""
+    ]
+  },
+  "functionalstorage:dripping_upgrade": {
+    "result": "functionalstorage:dripping_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone",
+      "minecraft:pointed_dripstone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:cauldron",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:lava_bucket",
+      "minecraft:stone"
+    ]
+  },
+  "handcrafted:dripstone_corner_trim": {
+    "result": "handcrafted:dripstone_corner_trim",
+    "count": 4,
+    "ingredients": [
+      "minecraft:dripstone_block",
+      "",
+      "",
+      "minecraft:dripstone_block",
+      "",
+      "",
+      "minecraft:dripstone_block",
+      "minecraft:dripstone_block",
+      "minecraft:dripstone_block"
+    ]
+  },
+  "handcrafted:dripstone_pillar_trim": {
+    "result": "handcrafted:dripstone_pillar_trim",
+    "count": 4,
+    "ingredients": [
+      "minecraft:dripstone_block",
+      "",
+      "",
+      "minecraft:dripstone_block",
+      "",
+      "",
+      "minecraft:dripstone_block",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:dragonarmor_copper_body": {
+    "result": "iceandfire:dragonarmor_copper_body",
+    "count": 1,
+    "ingredients": [
+      "minecraft:copper_block",
+      "minecraft:copper_block",
+      "minecraft:copper_block",
+      "minecraft:copper_block",
+      "minecraft:copper_block",
+      "minecraft:copper_block",
+      "minecraft:copper_block",
+      "",
+      "minecraft:copper_block"
+    ]
+  },
+  "iceandfire:dragonarmor_copper_head": {
+    "result": "iceandfire:dragonarmor_copper_head",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "",
+      "minecraft:copper_block",
+      "minecraft:copper_block",
+      "minecraft:copper_block",
+      "minecraft:copper_block",
+      "minecraft:copper_block"
+    ]
+  },
+  "iceandfire:dragonarmor_copper_neck": {
+    "result": "iceandfire:dragonarmor_copper_neck",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "minecraft:copper_block",
+      "minecraft:copper_block",
+      "minecraft:copper_block",
+      "",
+      "minecraft:copper_block",
+      "minecraft:copper_block"
+    ]
+  },
+  "iceandfire:dragonarmor_copper_tail": {
+    "result": "iceandfire:dragonarmor_copper_tail",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "minecraft:copper_block",
+      "minecraft:copper_block",
+      "minecraft:copper_block",
+      ""
+    ]
+  },
+  "iceandfire:dragonarmor_diamond_body": {
+    "result": "iceandfire:dragonarmor_diamond_body",
+    "count": 1,
+    "ingredients": [
+      "minecraft:diamond_block",
+      "minecraft:diamond_block",
+      "minecraft:diamond_block",
+      "minecraft:diamond_block",
+      "minecraft:diamond_block",
+      "minecraft:diamond_block",
+      "minecraft:diamond_block",
+      "",
+      "minecraft:diamond_block"
+    ]
+  },
+  "iceandfire:dragonarmor_diamond_head": {
+    "result": "iceandfire:dragonarmor_diamond_head",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "",
+      "minecraft:diamond_block",
+      "minecraft:diamond_block",
+      "minecraft:diamond_block",
+      "minecraft:diamond_block",
+      "minecraft:diamond_block"
+    ]
+  },
+  "iceandfire:dragonarmor_diamond_neck": {
+    "result": "iceandfire:dragonarmor_diamond_neck",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "minecraft:diamond_block",
+      "minecraft:diamond_block",
+      "minecraft:diamond_block",
+      "",
+      "minecraft:diamond_block",
+      "minecraft:diamond_block"
+    ]
+  },
+  "iceandfire:dragonarmor_diamond_tail": {
+    "result": "iceandfire:dragonarmor_diamond_tail",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "minecraft:diamond_block",
+      "minecraft:diamond_block",
+      "minecraft:diamond_block",
+      ""
+    ]
+  },
+  "iceandfire:dragonarmor_dragon_steel_fire_body": {
+    "result": "iceandfire:dragonarmor_dragon_steel_fire_body",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonsteel_fire_block",
+      "iceandfire:dragonsteel_fire_block",
+      "iceandfire:dragonsteel_fire_block",
+      "iceandfire:dragonsteel_fire_block",
+      "iceandfire:dragonsteel_fire_block",
+      "iceandfire:dragonsteel_fire_block",
+      "iceandfire:dragonsteel_fire_block",
+      "",
+      "iceandfire:dragonsteel_fire_block"
+    ]
+  },
+  "iceandfire:dragonarmor_dragon_steel_fire_head": {
+    "result": "iceandfire:dragonarmor_dragon_steel_fire_head",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "",
+      "iceandfire:dragonsteel_fire_block",
+      "iceandfire:dragonsteel_fire_block",
+      "iceandfire:dragonsteel_fire_block",
+      "iceandfire:dragonsteel_fire_block",
+      "iceandfire:dragonsteel_fire_block"
+    ]
+  },
+  "iceandfire:dragonarmor_dragon_steel_fire_neck": {
+    "result": "iceandfire:dragonarmor_dragon_steel_fire_neck",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "iceandfire:dragonsteel_fire_block",
+      "iceandfire:dragonsteel_fire_block",
+      "iceandfire:dragonsteel_fire_block",
+      "",
+      "iceandfire:dragonsteel_fire_block",
+      "iceandfire:dragonsteel_fire_block"
+    ]
+  },
+  "iceandfire:dragonarmor_dragon_steel_fire_tail": {
+    "result": "iceandfire:dragonarmor_dragon_steel_fire_tail",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "iceandfire:dragonsteel_fire_block",
+      "iceandfire:dragonsteel_fire_block",
+      "iceandfire:dragonsteel_fire_block",
+      ""
+    ]
+  },
+  "iceandfire:dragonarmor_dragon_steel_ice_body": {
+    "result": "iceandfire:dragonarmor_dragon_steel_ice_body",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonsteel_ice_block",
+      "iceandfire:dragonsteel_ice_block",
+      "iceandfire:dragonsteel_ice_block",
+      "iceandfire:dragonsteel_ice_block",
+      "iceandfire:dragonsteel_ice_block",
+      "iceandfire:dragonsteel_ice_block",
+      "iceandfire:dragonsteel_ice_block",
+      "",
+      "iceandfire:dragonsteel_ice_block"
+    ]
+  },
+  "iceandfire:dragonarmor_dragon_steel_ice_head": {
+    "result": "iceandfire:dragonarmor_dragon_steel_ice_head",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "",
+      "iceandfire:dragonsteel_ice_block",
+      "iceandfire:dragonsteel_ice_block",
+      "iceandfire:dragonsteel_ice_block",
+      "iceandfire:dragonsteel_ice_block",
+      "iceandfire:dragonsteel_ice_block"
+    ]
+  },
+  "iceandfire:dragonarmor_dragon_steel_ice_neck": {
+    "result": "iceandfire:dragonarmor_dragon_steel_ice_neck",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "iceandfire:dragonsteel_ice_block",
+      "iceandfire:dragonsteel_ice_block",
+      "iceandfire:dragonsteel_ice_block",
+      "",
+      "iceandfire:dragonsteel_ice_block",
+      "iceandfire:dragonsteel_ice_block"
+    ]
+  },
+  "iceandfire:dragonarmor_dragon_steel_ice_tail": {
+    "result": "iceandfire:dragonarmor_dragon_steel_ice_tail",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "iceandfire:dragonsteel_ice_block",
+      "iceandfire:dragonsteel_ice_block",
+      "iceandfire:dragonsteel_ice_block",
+      ""
+    ]
+  },
+  "iceandfire:dragonarmor_dragon_steel_lightning_body": {
+    "result": "iceandfire:dragonarmor_dragon_steel_lightning_body",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonsteel_lightning_block",
+      "iceandfire:dragonsteel_lightning_block",
+      "iceandfire:dragonsteel_lightning_block",
+      "iceandfire:dragonsteel_lightning_block",
+      "iceandfire:dragonsteel_lightning_block",
+      "iceandfire:dragonsteel_lightning_block",
+      "iceandfire:dragonsteel_lightning_block",
+      "",
+      "iceandfire:dragonsteel_lightning_block"
+    ]
+  },
+  "iceandfire:dragonarmor_dragon_steel_lightning_head": {
+    "result": "iceandfire:dragonarmor_dragon_steel_lightning_head",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "",
+      "iceandfire:dragonsteel_lightning_block",
+      "iceandfire:dragonsteel_lightning_block",
+      "iceandfire:dragonsteel_lightning_block",
+      "iceandfire:dragonsteel_lightning_block",
+      "iceandfire:dragonsteel_lightning_block"
+    ]
+  },
+  "iceandfire:dragonarmor_dragon_steel_lightning_neck": {
+    "result": "iceandfire:dragonarmor_dragon_steel_lightning_neck",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "iceandfire:dragonsteel_lightning_block",
+      "iceandfire:dragonsteel_lightning_block",
+      "iceandfire:dragonsteel_lightning_block",
+      "",
+      "iceandfire:dragonsteel_lightning_block",
+      "iceandfire:dragonsteel_lightning_block"
+    ]
+  },
+  "iceandfire:dragonarmor_dragon_steel_lightning_tail": {
+    "result": "iceandfire:dragonarmor_dragon_steel_lightning_tail",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "iceandfire:dragonsteel_lightning_block",
+      "iceandfire:dragonsteel_lightning_block",
+      "iceandfire:dragonsteel_lightning_block",
+      ""
+    ]
+  },
+  "iceandfire:dragonarmor_gold_body": {
+    "result": "iceandfire:dragonarmor_gold_body",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_block",
+      "minecraft:gold_block",
+      "minecraft:gold_block",
+      "minecraft:gold_block",
+      "minecraft:gold_block",
+      "minecraft:gold_block",
+      "minecraft:gold_block",
+      "",
+      "minecraft:gold_block"
+    ]
+  },
+  "iceandfire:dragonarmor_gold_head": {
+    "result": "iceandfire:dragonarmor_gold_head",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "",
+      "minecraft:gold_block",
+      "minecraft:gold_block",
+      "minecraft:gold_block",
+      "minecraft:gold_block",
+      "minecraft:gold_block"
+    ]
+  },
+  "iceandfire:dragonarmor_gold_neck": {
+    "result": "iceandfire:dragonarmor_gold_neck",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "minecraft:gold_block",
+      "minecraft:gold_block",
+      "minecraft:gold_block",
+      "",
+      "minecraft:gold_block",
+      "minecraft:gold_block"
+    ]
+  },
+  "iceandfire:dragonarmor_gold_tail": {
+    "result": "iceandfire:dragonarmor_gold_tail",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "minecraft:gold_block",
+      "minecraft:gold_block",
+      "minecraft:gold_block",
+      ""
+    ]
+  },
+  "iceandfire:dragonarmor_iron_body": {
+    "result": "iceandfire:dragonarmor_iron_body",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_block",
+      "minecraft:iron_block",
+      "minecraft:iron_block",
+      "minecraft:iron_block",
+      "minecraft:iron_block",
+      "minecraft:iron_block",
+      "minecraft:iron_block",
+      "",
+      "minecraft:iron_block"
+    ]
+  },
+  "iceandfire:dragonarmor_iron_head": {
+    "result": "iceandfire:dragonarmor_iron_head",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "",
+      "minecraft:iron_block",
+      "minecraft:iron_block",
+      "minecraft:iron_block",
+      "minecraft:iron_block",
+      "minecraft:iron_block"
+    ]
+  },
+  "iceandfire:dragonarmor_iron_neck": {
+    "result": "iceandfire:dragonarmor_iron_neck",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "minecraft:iron_block",
+      "minecraft:iron_block",
+      "minecraft:iron_block",
+      "",
+      "minecraft:iron_block",
+      "minecraft:iron_block"
+    ]
+  },
+  "iceandfire:dragonarmor_iron_tail": {
+    "result": "iceandfire:dragonarmor_iron_tail",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "minecraft:iron_block",
+      "minecraft:iron_block",
+      "minecraft:iron_block",
+      ""
+    ]
+  },
+  "iceandfire:dragonarmor_silver_body": {
+    "result": "iceandfire:dragonarmor_silver_body",
+    "count": 1,
+    "ingredients": [
+      "minecraft:silver",
+      "minecraft:silver",
+      "minecraft:silver",
+      "minecraft:silver",
+      "minecraft:silver",
+      "minecraft:silver",
+      "minecraft:silver",
+      "",
+      "minecraft:silver"
+    ]
+  },
+  "iceandfire:dragonarmor_silver_head": {
+    "result": "iceandfire:dragonarmor_silver_head",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "",
+      "minecraft:silver",
+      "minecraft:silver",
+      "minecraft:silver",
+      "minecraft:silver",
+      "minecraft:silver"
+    ]
+  },
+  "iceandfire:dragonarmor_silver_neck": {
+    "result": "iceandfire:dragonarmor_silver_neck",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "minecraft:silver",
+      "minecraft:silver",
+      "minecraft:silver",
+      "",
+      "minecraft:silver",
+      "minecraft:silver"
+    ]
+  },
+  "iceandfire:dragonarmor_silver_tail": {
+    "result": "iceandfire:dragonarmor_silver_tail",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "minecraft:silver",
+      "minecraft:silver",
+      "minecraft:silver",
+      ""
+    ]
+  },
+  "iceandfire:dragonbone": {
+    "result": "iceandfire:dragonbone",
+    "count": 9,
+    "ingredients": [
+      "iceandfire:dragon_bone_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:dragonbone_arrow": {
+    "result": "iceandfire:dragonbone_arrow",
+    "count": 5,
+    "ingredients": [
+      "iceandfire:dragonbone",
+      "iceandfire:wither_shard",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:dragonbone_axe": {
+    "result": "iceandfire:dragonbone_axe",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonbone",
+      "iceandfire:dragonbone",
+      "",
+      "iceandfire:dragonbone",
+      "minecraft:bone",
+      "",
+      "",
+      "minecraft:bone",
+      ""
+    ]
+  },
+  "iceandfire:dragonbone_bow": {
+    "result": "iceandfire:dragonbone_bow",
+    "count": 1,
+    "ingredients": [
+      "",
+      "iceandfire:dragonbone",
+      "minecraft:string",
+      "minecraft:bone",
+      "",
+      "minecraft:string",
+      "",
+      "iceandfire:dragonbone",
+      "minecraft:string"
+    ]
+  },
+  "iceandfire:dragonbone_hoe": {
+    "result": "iceandfire:dragonbone_hoe",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonbone",
+      "iceandfire:dragonbone",
+      "",
+      "",
+      "minecraft:bone",
+      "",
+      "",
+      "minecraft:bone",
+      ""
+    ]
+  },
+  "iceandfire:dragonbone_pickaxe": {
+    "result": "iceandfire:dragonbone_pickaxe",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonbone",
+      "iceandfire:dragonbone",
+      "iceandfire:dragonbone",
+      "",
+      "minecraft:bone",
+      "",
+      "",
+      "minecraft:bone",
+      ""
+    ]
+  },
+  "iceandfire:dragonbone_shovel": {
+    "result": "iceandfire:dragonbone_shovel",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonbone",
+      "",
+      "",
+      "minecraft:bone",
+      "",
+      "",
+      "minecraft:bone",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:dragonbone_sword": {
+    "result": "iceandfire:dragonbone_sword",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonbone",
+      "",
+      "",
+      "iceandfire:dragonbone",
+      "",
+      "",
+      "minecraft:bone",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:dragonbone_sword_fire": {
+    "result": "iceandfire:dragonbone_sword_fire",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonbone_sword",
+      "iceandfire:fire_dragon_blood",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:dragonbone_sword_ice": {
+    "result": "iceandfire:dragonbone_sword_ice",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonbone_sword",
+      "iceandfire:ice_dragon_blood",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:dragonbone_sword_lightning": {
+    "result": "iceandfire:dragonbone_sword_lightning",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonbone_sword",
+      "iceandfire:lightning_dragon_blood",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:dragonforge_fire_brick": {
+    "result": "iceandfire:dragonforge_fire_brick",
+    "count": 4,
+    "ingredients": [
+      "minecraft:fire",
+      "minecraft:stone_bricks",
+      "minecraft:fire",
+      "minecraft:stone_bricks",
+      "minecraft:fire",
+      "minecraft:stone_bricks",
+      "minecraft:fire",
+      "minecraft:stone_bricks",
+      "minecraft:fire"
+    ]
+  },
+  "iceandfire:dragonforge_fire_core_disabled": {
+    "result": "iceandfire:dragonforge_fire_core_disabled",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonforge_fire_brick",
+      "iceandfire:dragonforge_fire_brick",
+      "iceandfire:dragonforge_fire_brick",
+      "iceandfire:dragonforge_fire_brick",
+      "iceandfire:fire_dragon_heart",
+      "iceandfire:dragonforge_fire_brick",
+      "iceandfire:dragonforge_fire_brick",
+      "iceandfire:dragonforge_fire_brick",
+      "iceandfire:dragonforge_fire_brick"
+    ]
+  },
+  "iceandfire:dragonforge_fire_input": {
+    "result": "iceandfire:dragonforge_fire_input",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonforge_fire_brick",
+      "minecraft:iron_ingot",
+      "iceandfire:dragonforge_fire_brick",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "iceandfire:dragonforge_fire_brick",
+      "minecraft:iron_ingot",
+      "iceandfire:dragonforge_fire_brick"
+    ]
+  },
+  "iceandfire:dragonforge_ice_brick": {
+    "result": "iceandfire:dragonforge_ice_brick",
+    "count": 4,
+    "ingredients": [
+      "minecraft:ice",
+      "minecraft:stone_bricks",
+      "minecraft:ice",
+      "minecraft:stone_bricks",
+      "minecraft:ice",
+      "minecraft:stone_bricks",
+      "minecraft:ice",
+      "minecraft:stone_bricks",
+      "minecraft:ice"
+    ]
+  },
+  "iceandfire:dragonforge_ice_core_disabled": {
+    "result": "iceandfire:dragonforge_ice_core_disabled",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonforge_ice_brick",
+      "iceandfire:dragonforge_ice_brick",
+      "iceandfire:dragonforge_ice_brick",
+      "iceandfire:dragonforge_ice_brick",
+      "iceandfire:ice_dragon_heart",
+      "iceandfire:dragonforge_ice_brick",
+      "iceandfire:dragonforge_ice_brick",
+      "iceandfire:dragonforge_ice_brick",
+      "iceandfire:dragonforge_ice_brick"
+    ]
+  },
+  "iceandfire:dragonforge_ice_input": {
+    "result": "iceandfire:dragonforge_ice_input",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonforge_ice_brick",
+      "minecraft:iron_ingot",
+      "iceandfire:dragonforge_ice_brick",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "iceandfire:dragonforge_ice_brick",
+      "minecraft:iron_ingot",
+      "iceandfire:dragonforge_ice_brick"
+    ]
+  },
+  "iceandfire:dragonforge_lightning_brick": {
+    "result": "iceandfire:dragonforge_lightning_brick",
+    "count": 4,
+    "ingredients": [
+      "minecraft:lightning",
+      "minecraft:stone_bricks",
+      "minecraft:lightning",
+      "minecraft:stone_bricks",
+      "minecraft:lightning",
+      "minecraft:stone_bricks",
+      "minecraft:lightning",
+      "minecraft:stone_bricks",
+      "minecraft:lightning"
+    ]
+  },
+  "iceandfire:dragonforge_lightning_core_disabled": {
+    "result": "iceandfire:dragonforge_lightning_core_disabled",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonforge_lightning_brick",
+      "iceandfire:dragonforge_lightning_brick",
+      "iceandfire:dragonforge_lightning_brick",
+      "iceandfire:dragonforge_lightning_brick",
+      "iceandfire:lightning_dragon_heart",
+      "iceandfire:dragonforge_lightning_brick",
+      "iceandfire:dragonforge_lightning_brick",
+      "iceandfire:dragonforge_lightning_brick",
+      "iceandfire:dragonforge_lightning_brick"
+    ]
+  },
+  "iceandfire:dragonforge_lightning_input": {
+    "result": "iceandfire:dragonforge_lightning_input",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonforge_lightning_brick",
+      "minecraft:iron_ingot",
+      "iceandfire:dragonforge_lightning_brick",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "iceandfire:dragonforge_lightning_brick",
+      "minecraft:iron_ingot",
+      "iceandfire:dragonforge_lightning_brick"
+    ]
+  },
+  "iceandfire:dragonscale_amethyst": {
+    "result": "iceandfire:dragonscale_amethyst",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonscales_amethyst",
+      "iceandfire:dragonscales_amethyst",
+      "iceandfire:dragonscales_amethyst",
+      "iceandfire:dragonscales_amethyst",
+      "iceandfire:dragonscales_amethyst",
+      "iceandfire:dragonscales_amethyst",
+      "iceandfire:dragonscales_amethyst",
+      "iceandfire:dragonscales_amethyst",
+      "iceandfire:dragonscales_amethyst"
+    ]
+  },
+  "iceandfire:dragonscale_black": {
+    "result": "iceandfire:dragonscale_black",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonscales_black",
+      "iceandfire:dragonscales_black",
+      "iceandfire:dragonscales_black",
+      "iceandfire:dragonscales_black",
+      "iceandfire:dragonscales_black",
+      "iceandfire:dragonscales_black",
+      "iceandfire:dragonscales_black",
+      "iceandfire:dragonscales_black",
+      "iceandfire:dragonscales_black"
+    ]
+  },
+  "iceandfire:dragonscale_blue": {
+    "result": "iceandfire:dragonscale_blue",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonscales_blue",
+      "iceandfire:dragonscales_blue",
+      "iceandfire:dragonscales_blue",
+      "iceandfire:dragonscales_blue",
+      "iceandfire:dragonscales_blue",
+      "iceandfire:dragonscales_blue",
+      "iceandfire:dragonscales_blue",
+      "iceandfire:dragonscales_blue",
+      "iceandfire:dragonscales_blue"
+    ]
+  },
+  "iceandfire:dragonscale_bronze": {
+    "result": "iceandfire:dragonscale_bronze",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonscales_bronze",
+      "iceandfire:dragonscales_bronze",
+      "iceandfire:dragonscales_bronze",
+      "iceandfire:dragonscales_bronze",
+      "iceandfire:dragonscales_bronze",
+      "iceandfire:dragonscales_bronze",
+      "iceandfire:dragonscales_bronze",
+      "iceandfire:dragonscales_bronze",
+      "iceandfire:dragonscales_bronze"
+    ]
+  },
+  "iceandfire:dragonscale_copper": {
+    "result": "iceandfire:dragonscale_copper",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonscales_copper",
+      "iceandfire:dragonscales_copper",
+      "iceandfire:dragonscales_copper",
+      "iceandfire:dragonscales_copper",
+      "iceandfire:dragonscales_copper",
+      "iceandfire:dragonscales_copper",
+      "iceandfire:dragonscales_copper",
+      "iceandfire:dragonscales_copper",
+      "iceandfire:dragonscales_copper"
+    ]
+  },
+  "iceandfire:dragonscale_electric": {
+    "result": "iceandfire:dragonscale_electric",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonscales_electric",
+      "iceandfire:dragonscales_electric",
+      "iceandfire:dragonscales_electric",
+      "iceandfire:dragonscales_electric",
+      "iceandfire:dragonscales_electric",
+      "iceandfire:dragonscales_electric",
+      "iceandfire:dragonscales_electric",
+      "iceandfire:dragonscales_electric",
+      "iceandfire:dragonscales_electric"
+    ]
+  },
+  "iceandfire:dragonscale_gray": {
+    "result": "iceandfire:dragonscale_gray",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonscales_gray",
+      "iceandfire:dragonscales_gray",
+      "iceandfire:dragonscales_gray",
+      "iceandfire:dragonscales_gray",
+      "iceandfire:dragonscales_gray",
+      "iceandfire:dragonscales_gray",
+      "iceandfire:dragonscales_gray",
+      "iceandfire:dragonscales_gray",
+      "iceandfire:dragonscales_gray"
+    ]
+  },
+  "iceandfire:dragonscale_green": {
+    "result": "iceandfire:dragonscale_green",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonscales_green",
+      "iceandfire:dragonscales_green",
+      "iceandfire:dragonscales_green",
+      "iceandfire:dragonscales_green",
+      "iceandfire:dragonscales_green",
+      "iceandfire:dragonscales_green",
+      "iceandfire:dragonscales_green",
+      "iceandfire:dragonscales_green",
+      "iceandfire:dragonscales_green"
+    ]
+  },
+  "iceandfire:dragonscale_red": {
+    "result": "iceandfire:dragonscale_red",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonscales_red",
+      "iceandfire:dragonscales_red",
+      "iceandfire:dragonscales_red",
+      "iceandfire:dragonscales_red",
+      "iceandfire:dragonscales_red",
+      "iceandfire:dragonscales_red",
+      "iceandfire:dragonscales_red",
+      "iceandfire:dragonscales_red",
+      "iceandfire:dragonscales_red"
+    ]
+  },
+  "iceandfire:dragonscale_sapphire": {
+    "result": "iceandfire:dragonscale_sapphire",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonscales_sapphire",
+      "iceandfire:dragonscales_sapphire",
+      "iceandfire:dragonscales_sapphire",
+      "iceandfire:dragonscales_sapphire",
+      "iceandfire:dragonscales_sapphire",
+      "iceandfire:dragonscales_sapphire",
+      "iceandfire:dragonscales_sapphire",
+      "iceandfire:dragonscales_sapphire",
+      "iceandfire:dragonscales_sapphire"
+    ]
+  },
+  "iceandfire:dragonscale_silver": {
+    "result": "iceandfire:dragonscale_silver",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonscales_silver",
+      "iceandfire:dragonscales_silver",
+      "iceandfire:dragonscales_silver",
+      "iceandfire:dragonscales_silver",
+      "iceandfire:dragonscales_silver",
+      "iceandfire:dragonscales_silver",
+      "iceandfire:dragonscales_silver",
+      "iceandfire:dragonscales_silver",
+      "iceandfire:dragonscales_silver"
+    ]
+  },
+  "iceandfire:dragonscale_white": {
+    "result": "iceandfire:dragonscale_white",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonscales_white",
+      "iceandfire:dragonscales_white",
+      "iceandfire:dragonscales_white",
+      "iceandfire:dragonscales_white",
+      "iceandfire:dragonscales_white",
+      "iceandfire:dragonscales_white",
+      "iceandfire:dragonscales_white",
+      "iceandfire:dragonscales_white",
+      "iceandfire:dragonscales_white"
+    ]
+  },
+  "iceandfire:dragonscales_amethyst": {
+    "result": "iceandfire:dragonscales_amethyst",
+    "count": 9,
+    "ingredients": [
+      "iceandfire:dragonscale_amethyst",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:dragonscales_black": {
+    "result": "iceandfire:dragonscales_black",
+    "count": 9,
+    "ingredients": [
+      "iceandfire:dragonscale_black",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:dragonscales_blue": {
+    "result": "iceandfire:dragonscales_blue",
+    "count": 9,
+    "ingredients": [
+      "iceandfire:dragonscale_blue",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:dragonscales_bronze": {
+    "result": "iceandfire:dragonscales_bronze",
+    "count": 9,
+    "ingredients": [
+      "iceandfire:dragonscale_bronze",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:dragonscales_copper": {
+    "result": "iceandfire:dragonscales_copper",
+    "count": 9,
+    "ingredients": [
+      "iceandfire:dragonscale_copper",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:dragonscales_electric": {
+    "result": "iceandfire:dragonscales_electric",
+    "count": 9,
+    "ingredients": [
+      "iceandfire:dragonscale_electric",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:dragonscales_gray": {
+    "result": "iceandfire:dragonscales_gray",
+    "count": 9,
+    "ingredients": [
+      "iceandfire:dragonscale_gray",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:dragonscales_green": {
+    "result": "iceandfire:dragonscales_green",
+    "count": 9,
+    "ingredients": [
+      "iceandfire:dragonscale_green",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:dragonscales_red": {
+    "result": "iceandfire:dragonscales_red",
+    "count": 9,
+    "ingredients": [
+      "iceandfire:dragonscale_red",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:dragonscales_sapphire": {
+    "result": "iceandfire:dragonscales_sapphire",
+    "count": 9,
+    "ingredients": [
+      "iceandfire:dragonscale_sapphire",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:dragonscales_silver": {
+    "result": "iceandfire:dragonscales_silver",
+    "count": 9,
+    "ingredients": [
+      "iceandfire:dragonscale_silver",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:dragonscales_white": {
+    "result": "iceandfire:dragonscales_white",
+    "count": 9,
+    "ingredients": [
+      "iceandfire:dragonscale_white",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:dragon_seeker": {
+    "result": "iceandfire:dragon_seeker",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dragon_skulls",
+      "",
+      "",
+      "minecraft:netherite_ingot",
+      "",
+      "",
+      "minecraft:netherite_ingot",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:dragonsteel_fire_axe": {
+    "result": "iceandfire:dragonsteel_fire_axe",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonsteel_fire_ingot",
+      "iceandfire:dragonsteel_fire_ingot",
+      "",
+      "iceandfire:dragonsteel_fire_ingot",
+      "minecraft:bone",
+      "",
+      "",
+      "minecraft:bone",
+      ""
+    ]
+  },
+  "iceandfire:dragonsteel_fire_ingot": {
+    "result": "iceandfire:dragonsteel_fire_ingot",
+    "count": 9,
+    "ingredients": [
+      "iceandfire:dragonsteel_fire_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:dragonsteel_fire_boots": {
+    "result": "iceandfire:dragonsteel_fire_boots",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonsteel_fire_ingot",
+      "",
+      "iceandfire:dragonsteel_fire_ingot",
+      "iceandfire:dragonsteel_fire_ingot",
+      "",
+      "iceandfire:dragonsteel_fire_ingot",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:dragonsteel_fire_chestplate": {
+    "result": "iceandfire:dragonsteel_fire_chestplate",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonsteel_fire_ingot",
+      "",
+      "iceandfire:dragonsteel_fire_ingot",
+      "iceandfire:dragonsteel_fire_ingot",
+      "iceandfire:dragonsteel_fire_ingot",
+      "iceandfire:dragonsteel_fire_ingot",
+      "iceandfire:dragonsteel_fire_ingot",
+      "iceandfire:dragonsteel_fire_ingot",
+      "iceandfire:dragonsteel_fire_ingot"
+    ]
+  },
+  "iceandfire:dragonsteel_fire_helmet": {
+    "result": "iceandfire:dragonsteel_fire_helmet",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonsteel_fire_ingot",
+      "iceandfire:dragonsteel_fire_ingot",
+      "iceandfire:dragonsteel_fire_ingot",
+      "iceandfire:dragonsteel_fire_ingot",
+      "",
+      "iceandfire:dragonsteel_fire_ingot",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:dragonsteel_fire_hoe": {
+    "result": "iceandfire:dragonsteel_fire_hoe",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonsteel_fire_ingot",
+      "iceandfire:dragonsteel_fire_ingot",
+      "",
+      "",
+      "minecraft:bone",
+      "",
+      "",
+      "minecraft:bone",
+      ""
+    ]
+  },
+  "iceandfire:dragonsteel_fire_block": {
+    "result": "iceandfire:dragonsteel_fire_block",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonsteel_fire_ingot",
+      "iceandfire:dragonsteel_fire_ingot",
+      "iceandfire:dragonsteel_fire_ingot",
+      "iceandfire:dragonsteel_fire_ingot",
+      "iceandfire:dragonsteel_fire_ingot",
+      "iceandfire:dragonsteel_fire_ingot",
+      "iceandfire:dragonsteel_fire_ingot",
+      "iceandfire:dragonsteel_fire_ingot",
+      "iceandfire:dragonsteel_fire_ingot"
+    ]
+  },
+  "iceandfire:dragonsteel_fire_leggings": {
+    "result": "iceandfire:dragonsteel_fire_leggings",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonsteel_fire_ingot",
+      "iceandfire:dragonsteel_fire_ingot",
+      "iceandfire:dragonsteel_fire_ingot",
+      "iceandfire:dragonsteel_fire_ingot",
+      "",
+      "iceandfire:dragonsteel_fire_ingot",
+      "iceandfire:dragonsteel_fire_ingot",
+      "",
+      "iceandfire:dragonsteel_fire_ingot"
+    ]
+  },
+  "iceandfire:dragonsteel_fire_pickaxe": {
+    "result": "iceandfire:dragonsteel_fire_pickaxe",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonsteel_fire_ingot",
+      "iceandfire:dragonsteel_fire_ingot",
+      "iceandfire:dragonsteel_fire_ingot",
+      "",
+      "minecraft:bone",
+      "",
+      "",
+      "minecraft:bone",
+      ""
+    ]
+  },
+  "iceandfire:dragonsteel_fire_shovel": {
+    "result": "iceandfire:dragonsteel_fire_shovel",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonsteel_fire_ingot",
+      "",
+      "",
+      "minecraft:bone",
+      "",
+      "",
+      "minecraft:bone",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:dragonsteel_fire_sword": {
+    "result": "iceandfire:dragonsteel_fire_sword",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonsteel_fire_ingot",
+      "",
+      "",
+      "iceandfire:dragonsteel_fire_ingot",
+      "",
+      "",
+      "minecraft:bone",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:dragonsteel_ice_axe": {
+    "result": "iceandfire:dragonsteel_ice_axe",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonsteel_ice_ingot",
+      "iceandfire:dragonsteel_ice_ingot",
+      "",
+      "iceandfire:dragonsteel_ice_ingot",
+      "minecraft:bone",
+      "",
+      "",
+      "minecraft:bone",
+      ""
+    ]
+  },
+  "iceandfire:dragonsteel_ice_ingot": {
+    "result": "iceandfire:dragonsteel_ice_ingot",
+    "count": 9,
+    "ingredients": [
+      "iceandfire:dragonsteel_ice_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:dragonsteel_ice_boots": {
+    "result": "iceandfire:dragonsteel_ice_boots",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonsteel_ice_ingot",
+      "",
+      "iceandfire:dragonsteel_ice_ingot",
+      "iceandfire:dragonsteel_ice_ingot",
+      "",
+      "iceandfire:dragonsteel_ice_ingot",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:dragonsteel_ice_chestplate": {
+    "result": "iceandfire:dragonsteel_ice_chestplate",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonsteel_ice_ingot",
+      "",
+      "iceandfire:dragonsteel_ice_ingot",
+      "iceandfire:dragonsteel_ice_ingot",
+      "iceandfire:dragonsteel_ice_ingot",
+      "iceandfire:dragonsteel_ice_ingot",
+      "iceandfire:dragonsteel_ice_ingot",
+      "iceandfire:dragonsteel_ice_ingot",
+      "iceandfire:dragonsteel_ice_ingot"
+    ]
+  },
+  "iceandfire:dragonsteel_ice_helmet": {
+    "result": "iceandfire:dragonsteel_ice_helmet",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonsteel_ice_ingot",
+      "iceandfire:dragonsteel_ice_ingot",
+      "iceandfire:dragonsteel_ice_ingot",
+      "iceandfire:dragonsteel_ice_ingot",
+      "",
+      "iceandfire:dragonsteel_ice_ingot",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:dragonsteel_ice_hoe": {
+    "result": "iceandfire:dragonsteel_ice_hoe",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonsteel_ice_ingot",
+      "iceandfire:dragonsteel_ice_ingot",
+      "",
+      "",
+      "minecraft:bone",
+      "",
+      "",
+      "minecraft:bone",
+      ""
+    ]
+  },
+  "iceandfire:dragonsteel_ice_block": {
+    "result": "iceandfire:dragonsteel_ice_block",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonsteel_ice_ingot",
+      "iceandfire:dragonsteel_ice_ingot",
+      "iceandfire:dragonsteel_ice_ingot",
+      "iceandfire:dragonsteel_ice_ingot",
+      "iceandfire:dragonsteel_ice_ingot",
+      "iceandfire:dragonsteel_ice_ingot",
+      "iceandfire:dragonsteel_ice_ingot",
+      "iceandfire:dragonsteel_ice_ingot",
+      "iceandfire:dragonsteel_ice_ingot"
+    ]
+  },
+  "iceandfire:dragonsteel_ice_leggings": {
+    "result": "iceandfire:dragonsteel_ice_leggings",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonsteel_ice_ingot",
+      "iceandfire:dragonsteel_ice_ingot",
+      "iceandfire:dragonsteel_ice_ingot",
+      "iceandfire:dragonsteel_ice_ingot",
+      "",
+      "iceandfire:dragonsteel_ice_ingot",
+      "iceandfire:dragonsteel_ice_ingot",
+      "",
+      "iceandfire:dragonsteel_ice_ingot"
+    ]
+  },
+  "iceandfire:dragonsteel_ice_pickaxe": {
+    "result": "iceandfire:dragonsteel_ice_pickaxe",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonsteel_ice_ingot",
+      "iceandfire:dragonsteel_ice_ingot",
+      "iceandfire:dragonsteel_ice_ingot",
+      "",
+      "minecraft:bone",
+      "",
+      "",
+      "minecraft:bone",
+      ""
+    ]
+  },
+  "iceandfire:dragonsteel_ice_shovel": {
+    "result": "iceandfire:dragonsteel_ice_shovel",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonsteel_ice_ingot",
+      "",
+      "",
+      "minecraft:bone",
+      "",
+      "",
+      "minecraft:bone",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:dragonsteel_ice_sword": {
+    "result": "iceandfire:dragonsteel_ice_sword",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonsteel_ice_ingot",
+      "",
+      "",
+      "iceandfire:dragonsteel_ice_ingot",
+      "",
+      "",
+      "minecraft:bone",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:dragonsteel_lightning_axe": {
+    "result": "iceandfire:dragonsteel_lightning_axe",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonsteel_lightning_ingot",
+      "iceandfire:dragonsteel_lightning_ingot",
+      "",
+      "iceandfire:dragonsteel_lightning_ingot",
+      "minecraft:bone",
+      "",
+      "",
+      "minecraft:bone",
+      ""
+    ]
+  },
+  "iceandfire:dragonsteel_lightning_ingot": {
+    "result": "iceandfire:dragonsteel_lightning_ingot",
+    "count": 9,
+    "ingredients": [
+      "iceandfire:dragonsteel_lightning_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:dragonsteel_lightning_boots": {
+    "result": "iceandfire:dragonsteel_lightning_boots",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonsteel_lightning_ingot",
+      "",
+      "iceandfire:dragonsteel_lightning_ingot",
+      "iceandfire:dragonsteel_lightning_ingot",
+      "",
+      "iceandfire:dragonsteel_lightning_ingot",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:dragonsteel_lightning_chestplate": {
+    "result": "iceandfire:dragonsteel_lightning_chestplate",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonsteel_lightning_ingot",
+      "",
+      "iceandfire:dragonsteel_lightning_ingot",
+      "iceandfire:dragonsteel_lightning_ingot",
+      "iceandfire:dragonsteel_lightning_ingot",
+      "iceandfire:dragonsteel_lightning_ingot",
+      "iceandfire:dragonsteel_lightning_ingot",
+      "iceandfire:dragonsteel_lightning_ingot",
+      "iceandfire:dragonsteel_lightning_ingot"
+    ]
+  },
+  "iceandfire:dragonsteel_lightning_helmet": {
+    "result": "iceandfire:dragonsteel_lightning_helmet",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonsteel_lightning_ingot",
+      "iceandfire:dragonsteel_lightning_ingot",
+      "iceandfire:dragonsteel_lightning_ingot",
+      "iceandfire:dragonsteel_lightning_ingot",
+      "",
+      "iceandfire:dragonsteel_lightning_ingot",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:dragonsteel_lightning_hoe": {
+    "result": "iceandfire:dragonsteel_lightning_hoe",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonsteel_lightning_ingot",
+      "iceandfire:dragonsteel_lightning_ingot",
+      "",
+      "",
+      "minecraft:bone",
+      "",
+      "",
+      "minecraft:bone",
+      ""
+    ]
+  },
+  "iceandfire:dragonsteel_lightning_block": {
+    "result": "iceandfire:dragonsteel_lightning_block",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonsteel_lightning_ingot",
+      "iceandfire:dragonsteel_lightning_ingot",
+      "iceandfire:dragonsteel_lightning_ingot",
+      "iceandfire:dragonsteel_lightning_ingot",
+      "iceandfire:dragonsteel_lightning_ingot",
+      "iceandfire:dragonsteel_lightning_ingot",
+      "iceandfire:dragonsteel_lightning_ingot",
+      "iceandfire:dragonsteel_lightning_ingot",
+      "iceandfire:dragonsteel_lightning_ingot"
+    ]
+  },
+  "iceandfire:dragonsteel_lightning_leggings": {
+    "result": "iceandfire:dragonsteel_lightning_leggings",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonsteel_lightning_ingot",
+      "iceandfire:dragonsteel_lightning_ingot",
+      "iceandfire:dragonsteel_lightning_ingot",
+      "iceandfire:dragonsteel_lightning_ingot",
+      "",
+      "iceandfire:dragonsteel_lightning_ingot",
+      "iceandfire:dragonsteel_lightning_ingot",
+      "",
+      "iceandfire:dragonsteel_lightning_ingot"
+    ]
+  },
+  "iceandfire:dragonsteel_lightning_pickaxe": {
+    "result": "iceandfire:dragonsteel_lightning_pickaxe",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonsteel_lightning_ingot",
+      "iceandfire:dragonsteel_lightning_ingot",
+      "iceandfire:dragonsteel_lightning_ingot",
+      "",
+      "minecraft:bone",
+      "",
+      "",
+      "minecraft:bone",
+      ""
+    ]
+  },
+  "iceandfire:dragonsteel_lightning_shovel": {
+    "result": "iceandfire:dragonsteel_lightning_shovel",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonsteel_lightning_ingot",
+      "",
+      "",
+      "minecraft:bone",
+      "",
+      "",
+      "minecraft:bone",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:dragonsteel_lightning_sword": {
+    "result": "iceandfire:dragonsteel_lightning_sword",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonsteel_lightning_ingot",
+      "",
+      "",
+      "iceandfire:dragonsteel_lightning_ingot",
+      "",
+      "",
+      "minecraft:bone",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:dragon_bone_block": {
+    "result": "iceandfire:dragon_bone_block",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonbone",
+      "iceandfire:dragonbone",
+      "iceandfire:dragonbone",
+      "iceandfire:dragonbone",
+      "iceandfire:dragonbone",
+      "iceandfire:dragonbone",
+      "iceandfire:dragonbone",
+      "iceandfire:dragonbone",
+      "iceandfire:dragonbone"
+    ]
+  },
+  "iceandfire:dragon_bone_wall": {
+    "result": "iceandfire:dragon_bone_wall",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonbone",
+      "iceandfire:dragonbone",
+      "iceandfire:dragonbone",
+      "iceandfire:dragonbone",
+      "iceandfire:dragonbone",
+      "iceandfire:dragonbone",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:dragon_flute": {
+    "result": "iceandfire:dragon_flute",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragonbone",
+      "",
+      "",
+      "",
+      "iceandfire:dragonbone",
+      "",
+      "",
+      "",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "iceandfire:dragon_horn": {
+    "result": "iceandfire:dragon_horn",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "iceandfire:dragonbone",
+      "",
+      "iceandfire:dragonbone",
+      "iceandfire:dragonbone",
+      "minecraft:stick",
+      "iceandfire:dragonbone",
+      ""
+    ]
+  },
+  "iceandfire:dragon_ice": {
+    "result": "iceandfire:dragon_ice",
+    "count": 1,
+    "ingredients": [
+      "minecraft:frozen_blocks",
+      "minecraft:frozen_blocks",
+      "minecraft:frozen_blocks",
+      "minecraft:frozen_blocks",
+      "minecraft:frozen_blocks",
+      "minecraft:frozen_blocks",
+      "minecraft:frozen_blocks",
+      "minecraft:frozen_blocks",
+      "minecraft:frozen_blocks"
+    ]
+  },
+  "iceandfire:dragon_ice_spikes": {
+    "result": "iceandfire:dragon_ice_spikes",
+    "count": 4,
+    "ingredients": [
+      "iceandfire:dragon_ice",
+      "",
+      "iceandfire:dragon_ice",
+      "iceandfire:dragon_ice",
+      "",
+      "iceandfire:dragon_ice",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:dragon_meal": {
+    "result": "iceandfire:dragon_meal",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bone",
+      "minecraft:dragon_food_meat",
+      "minecraft:bone",
+      "minecraft:dragon_food_meat",
+      "minecraft:bone",
+      "minecraft:dragon_food_meat",
+      "minecraft:bone",
+      "minecraft:dragon_food_meat",
+      "minecraft:bone"
+    ]
+  },
+  "iceandfire:dragon_stick": {
+    "result": "iceandfire:dragon_stick",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dragon_skulls",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:dreadwood_planks": {
+    "result": "iceandfire:dreadwood_planks",
+    "count": 4,
+    "ingredients": [
+      "iceandfire:dreadwood_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:dread_stone": {
+    "result": "iceandfire:dread_stone",
+    "count": 8,
+    "ingredients": [
+      "iceandfire:dread_shard",
+      "iceandfire:dread_shard",
+      "iceandfire:dread_shard",
+      "iceandfire:dread_shard",
+      "minecraft:stone",
+      "iceandfire:dread_shard",
+      "iceandfire:dread_shard",
+      "iceandfire:dread_shard",
+      "iceandfire:dread_shard"
+    ]
+  },
+  "iceandfire:dread_stone_bricks": {
+    "result": "iceandfire:dread_stone_bricks",
+    "count": 4,
+    "ingredients": [
+      "iceandfire:dread_stone",
+      "iceandfire:dread_stone",
+      "",
+      "iceandfire:dread_stone",
+      "iceandfire:dread_stone",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:dread_stone_bricks_chiseled": {
+    "result": "iceandfire:dread_stone_bricks_chiseled",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dread_stone_slab",
+      "",
+      "",
+      "iceandfire:dread_stone_slab",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:dread_stone_bricks_mossy": {
+    "result": "iceandfire:dread_stone_bricks_mossy",
+    "count": 1,
+    "ingredients": [
+      "minecraft:vine",
+      "iceandfire:dread_stone_bricks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:dread_stone_face": {
+    "result": "iceandfire:dread_stone_face",
+    "count": 8,
+    "ingredients": [
+      "iceandfire:dread_stone_bricks",
+      "iceandfire:dread_stone_bricks",
+      "iceandfire:dread_stone_bricks",
+      "iceandfire:dread_stone_bricks",
+      "minecraft:skeleton_skull",
+      "iceandfire:dread_stone_bricks",
+      "iceandfire:dread_stone_bricks",
+      "iceandfire:dread_stone_bricks",
+      "iceandfire:dread_stone_bricks"
+    ]
+  },
+  "iceandfire:dread_stone_slab": {
+    "result": "iceandfire:dread_stone_slab",
+    "count": 6,
+    "ingredients": [
+      "iceandfire:dread_stone_bricks",
+      "iceandfire:dread_stone_bricks",
+      "iceandfire:dread_stone_bricks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:dread_stone_stairs": {
+    "result": "iceandfire:dread_stone_stairs",
+    "count": 4,
+    "ingredients": [
+      "iceandfire:dread_stone_bricks",
+      "",
+      "",
+      "iceandfire:dread_stone_bricks",
+      "iceandfire:dread_stone_bricks",
+      "",
+      "iceandfire:dread_stone_bricks",
+      "iceandfire:dread_stone_bricks",
+      "iceandfire:dread_stone_bricks"
+    ]
+  },
+  "iceandfire:dread_stone_tile": {
+    "result": "iceandfire:dread_stone_tile",
+    "count": 8,
+    "ingredients": [
+      "iceandfire:dread_stone_bricks",
+      "iceandfire:dread_stone_bricks",
+      "iceandfire:dread_stone_bricks",
+      "iceandfire:dread_stone_bricks",
+      "",
+      "iceandfire:dread_stone_bricks",
+      "iceandfire:dread_stone_bricks",
+      "iceandfire:dread_stone_bricks",
+      "iceandfire:dread_stone_bricks"
+    ]
+  },
+  "iceandfire:dread_torch": {
+    "result": "iceandfire:dread_torch",
+    "count": 4,
+    "ingredients": [
+      "iceandfire:dread_shard",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:drill": {
+    "result": "immersiveengineering:drill",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "immersiveengineering:wooden_grip",
+      "",
+      "immersiveengineering:heavy_engineering",
+      "immersiveengineering:wooden_grip",
+      "immersiveengineering:component_iron",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:drillhead_iron": {
+    "result": "immersiveengineering:drillhead_iron",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron",
+      "minecraft:iron_ingot",
+      ""
+    ]
+  },
+  "immersiveengineering:drillhead_steel": {
+    "result": "immersiveengineering:drillhead_steel",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "",
+      "minecraft:steel",
+      "modern_industrialization:steel_ingot",
+      ""
+    ]
+  },
+  "integrateddynamics:drying_basin": {
+    "result": "integrateddynamics:drying_basin",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_log",
+      "minecraft:black",
+      "minecraft:oak_log",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:oak_log",
+      "minecraft:black",
+      "minecraft:oak_log"
+    ]
+  },
+  "irons_spellbooks:dragonskin_spell_book": {
+    "result": "irons_spellbooks:dragonskin_spell_book",
+    "count": 1,
+    "ingredients": [
+      "irons_spellbooks:dragonskin",
+      "minecraft:obsidians",
+      "irons_spellbooks:dragonskin",
+      "irons_spellbooks:dragonskin",
+      "irons_spellbooks:ruined_book",
+      "irons_spellbooks:dragonskin",
+      "irons_spellbooks:dragonskin",
+      "minecraft:obsidians",
+      "irons_spellbooks:dragonskin"
+    ]
+  },
+  "irons_spellbooks:druidic_spell_book": {
+    "result": "irons_spellbooks:druidic_spell_book",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:spore_blossom",
+      "irons_spellbooks:magic_cloth",
+      "minecraft:honey_bottle",
+      "irons_spellbooks:rotten_spell_book",
+      "minecraft:amethyst_cluster",
+      "irons_spellbooks:magic_cloth",
+      "minecraft:glow_ink_sac",
+      ""
+    ]
+  },
+  "justdirethings:droppert1": {
+    "result": "justdirethings:droppert1",
+    "count": 1,
+    "ingredients": [
+      "justdirethings:droppert1",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "justdirethings:droppert2": {
+    "result": "justdirethings:droppert2",
+    "count": 1,
+    "ingredients": [
+      "justdirethings:droppert2",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:dry_bamboo_bridge": {
+    "result": "mcwbridges:dry_bamboo_bridge",
+    "count": 1,
+    "ingredients": [
+      "mcwbridges:dry_bamboo_bridge_stair",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:dry_bamboo_bridge_pier": {
+    "result": "mcwbridges:dry_bamboo_bridge_pier",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:string",
+      "minecraft:stick",
+      "minecraft:bamboo",
+      "",
+      "minecraft:bamboo",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:dry_bamboo_bridge_stair": {
+    "result": "mcwbridges:dry_bamboo_bridge_stair",
+    "count": 6,
+    "ingredients": [
+      "",
+      "",
+      "mcwbridges:dry_bamboo_bridge",
+      "",
+      "mcwbridges:dry_bamboo_bridge",
+      "mcwbridges:dry_bamboo_bridge",
+      "mcwbridges:dry_bamboo_bridge",
+      "mcwbridges:dry_bamboo_bridge",
+      "mcwbridges:dry_bamboo_bridge"
+    ]
+  },
+  "merrymaking:dreidel": {
+    "result": "merrymaking:dreidel",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:clay_ball",
+      "",
+      "minecraft:white_dye",
+      "minecraft:clay_ball",
+      "minecraft:white_dye",
+      "",
+      "minecraft:light_blue_dye",
+      ""
+    ]
+  },
+  "minecraft:dried_kelp": {
+    "result": "minecraft:dried_kelp",
+    "count": 9,
+    "ingredients": [
+      "minecraft:dried_kelp_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mob_grinding_utils:dragon_muffler": {
+    "result": "mob_grinding_utils:dragon_muffler",
+    "count": 1,
+    "ingredients": [
+      "minecraft:white_wool",
+      "minecraft:white_wool",
+      "minecraft:white_wool",
+      "minecraft:white_wool",
+      "minecraft:dragon_egg",
+      "minecraft:white_wool",
+      "minecraft:white_wool",
+      "minecraft:white_wool",
+      "minecraft:white_wool"
+    ]
+  },
+  "minecraft:dragon_breath": {
+    "result": "minecraft:dragon_breath",
+    "count": 4,
+    "ingredients": [
+      "modularbees:dragon_breath_bucket",
+      "minecraft:glass_bottle",
+      "minecraft:glass_bottle",
+      "minecraft:glass_bottle",
+      "minecraft:glass_bottle",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modularbees:dragon_breath_bucket": {
+    "result": "modularbees:dragon_breath_bucket",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bucket",
+      "minecraft:dragon_breath",
+      "minecraft:dragon_breath",
+      "minecraft:dragon_breath",
+      "minecraft:dragon_breath",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modularrouters:dropper_module": {
+    "result": "modularrouters:dropper_module",
+    "count": 1,
+    "ingredients": [
+      "modularrouters:blank_module",
+      "minecraft:dropper",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:dragon_egg": {
+    "result": "minecraft:dragon_egg",
+    "count": 1,
+    "ingredients": [
+      "mysticalagradditions:dragon_egg_chunk",
+      "mysticalagradditions:dragon_egg_chunk",
+      "mysticalagradditions:dragon_egg_chunk",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mysticalagradditions:dragon_egg_crux": {
+    "result": "mysticalagradditions:dragon_egg_crux",
+    "count": 1,
+    "ingredients": [
+      "mysticalagradditions:insanium_essence",
+      "mysticalagradditions:dragon_scale",
+      "mysticalagradditions:insanium_essence",
+      "mysticalagradditions:dragon_scale",
+      "minecraft:diamond",
+      "mysticalagradditions:dragon_scale",
+      "mysticalagradditions:insanium_essence",
+      "mysticalagradditions:dragon_scale",
+      "mysticalagradditions:insanium_essence"
+    ]
+  },
+  "oritech:drone_port_block": {
+    "result": "oritech:drone_port_block",
+    "count": 1,
+    "ingredients": [
+      "oritech:advanced_computing_engine",
+      "oritech:super_ai_chip",
+      "oritech:advanced_computing_engine",
+      "oritech:motor",
+      "oritech:superconductor",
+      "oritech:motor",
+      "minecraft:plating",
+      "minecraft:plating",
+      "minecraft:plating"
+    ]
+  },
+  "pamhc2foodextended:dragonfruitjellyitem": {
+    "result": "pamhc2foodextended:dragonfruitjellyitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:dragonfruit",
+      "minecraft:sugar",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:dragonfruitjellysandwichitem": {
+    "result": "pamhc2foodextended:dragonfruitjellysandwichitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:dragonfruitjelly",
+      "minecraft:bread",
+      "minecraft:nutbutters",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:dragonfruitjellytoastitem": {
+    "result": "pamhc2foodextended:dragonfruitjellytoastitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:dragonfruitjelly",
+      "minecraft:toast",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:dragonfruitjuiceitem": {
+    "result": "pamhc2foodextended:dragonfruitjuiceitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_juicer",
+      "minecraft:dragonfruit",
+      "minecraft:dragonfruit",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:dragonfruitpieitem": {
+    "result": "pamhc2foodextended:dragonfruitpieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:dragonfruit",
+      "minecraft:sugar",
+      "minecraft:dough",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:dragonfruitsmoothieitem": {
+    "result": "pamhc2foodextended:dragonfruitsmoothieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:dragonfruit",
+      "minecraft:ices",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:dragonfruityogurtitem": {
+    "result": "pamhc2foodextended:dragonfruityogurtitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:dragonfruit",
+      "minecraft:yogurt",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:driedsoupitem": {
+    "result": "pamhc2foodextended:driedsoupitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:stock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2trees:dragonfruit_sapling": {
+    "result": "pamhc2trees:dragonfruit_sapling",
+    "count": 1,
+    "ingredients": [
+      "pamhc2trees:dragonfruititem",
+      "pamhc2trees:dragonfruititem",
+      "pamhc2trees:dragonfruititem",
+      "pamhc2trees:dragonfruititem",
+      "pamhc2trees:dragonfruititem",
+      "pamhc2trees:dragonfruititem",
+      "pamhc2trees:dragonfruititem",
+      "pamhc2trees:dragonfruititem",
+      "minecraft:saplings"
+    ]
+  },
+  "pneumaticcraft:drill_pipe": {
+    "result": "pneumaticcraft:drill_pipe",
+    "count": 3,
+    "ingredients": [
+      "pneumaticcraft:pressure_tube",
+      "",
+      "",
+      "pneumaticcraft:pressure_tube",
+      "",
+      "",
+      "pneumaticcraft:pressure_tube",
+      "",
+      ""
+    ]
+  },
+  "pneumaticcraft:drone": {
+    "result": "pneumaticcraft:drone",
+    "count": 1,
+    "ingredients": [
+      "",
+      "pneumaticcraft:turbine_rotor",
+      "",
+      "pneumaticcraft:turbine_rotor",
+      "pneumaticcraft:printed_circuit_board",
+      "pneumaticcraft:turbine_rotor",
+      "",
+      "pneumaticcraft:turbine_rotor",
+      ""
+    ]
+  },
+  "pneumaticcraft:drone_interface": {
+    "result": "pneumaticcraft:drone_interface",
+    "count": 1,
+    "ingredients": [
+      "",
+      "pneumaticcraft:range_upgrade",
+      "",
+      "computercraft:wireless_modem_normal",
+      "pneumaticcraft:printed_circuit_board",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "productivebees:draconic_chunk": {
+    "result": "productivebees:draconic_chunk",
+    "count": 1,
+    "ingredients": [
+      "productivebees:draconic_dust",
+      "productivebees:draconic_dust",
+      "productivebees:draconic_dust",
+      "productivebees:draconic_dust",
+      "productivebees:draconic_dust",
+      "productivebees:draconic_dust",
+      "productivebees:draconic_dust",
+      "productivebees:draconic_dust",
+      "productivebees:draconic_dust"
+    ]
+  },
+  "productivebees:dragon_egg_hive": {
+    "result": "productivebees:dragon_egg_hive",
+    "count": 1,
+    "ingredients": [
+      "productivebees:dragon_egg_hive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "starbunclemania:drygmy_horns": {
+    "result": "starbunclemania:drygmy_horns",
+    "count": 1,
+    "ingredients": [
+      "minecraft:brown_wool",
+      "",
+      "minecraft:brown_wool",
+      "minecraft:brown_wool",
+      "",
+      "minecraft:brown_wool",
+      "",
+      "ars_nouveau:magebloom_fiber",
+      ""
+    ]
+  },
+  "supplementaries:dragon_banner_pattern": {
+    "result": "supplementaries:dragon_banner_pattern",
+    "count": 1,
+    "ingredients": [
+      "minecraft:paper",
+      "minecraft:dragon_head",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "torchmaster:dreadlamp": {
+    "result": "torchmaster:dreadlamp",
+    "count": 1,
+    "ingredients": [
+      "minecraft:obsidian",
+      "minecraft:obsidian",
+      "minecraft:obsidian",
+      "minecraft:glass",
+      "minecraft:glowstone",
+      "minecraft:glass",
+      "minecraft:obsidian",
+      "minecraft:black",
+      "minecraft:obsidian"
+    ]
+  },
+  "undergarden:dreadrock_bricks": {
+    "result": "undergarden:dreadrock_bricks",
+    "count": 4,
+    "ingredients": [
+      "undergarden:dreadrock",
+      "undergarden:dreadrock",
+      "",
+      "undergarden:dreadrock",
+      "undergarden:dreadrock",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:dreadrock_brick_slab": {
+    "result": "undergarden:dreadrock_brick_slab",
+    "count": 6,
+    "ingredients": [
+      "undergarden:dreadrock_bricks",
+      "undergarden:dreadrock_bricks",
+      "undergarden:dreadrock_bricks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:dreadrock_brick_stairs": {
+    "result": "undergarden:dreadrock_brick_stairs",
+    "count": 4,
+    "ingredients": [
+      "undergarden:dreadrock_bricks",
+      "",
+      "",
+      "undergarden:dreadrock_bricks",
+      "undergarden:dreadrock_bricks",
+      "",
+      "undergarden:dreadrock_bricks",
+      "undergarden:dreadrock_bricks",
+      "undergarden:dreadrock_bricks"
+    ]
+  },
+  "undergarden:dreadrock_brick_wall": {
+    "result": "undergarden:dreadrock_brick_wall",
+    "count": 6,
+    "ingredients": [
+      "undergarden:dreadrock_bricks",
+      "undergarden:dreadrock_bricks",
+      "undergarden:dreadrock_bricks",
+      "undergarden:dreadrock_bricks",
+      "undergarden:dreadrock_bricks",
+      "undergarden:dreadrock_bricks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:dreadrock_button": {
+    "result": "undergarden:dreadrock_button",
+    "count": 1,
+    "ingredients": [
+      "undergarden:dreadrock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:dreadrock_pressure_plate": {
+    "result": "undergarden:dreadrock_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "undergarden:dreadrock",
+      "undergarden:dreadrock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:dreadrock_slab": {
+    "result": "undergarden:dreadrock_slab",
+    "count": 6,
+    "ingredients": [
+      "undergarden:dreadrock",
+      "undergarden:dreadrock",
+      "undergarden:dreadrock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:dreadrock_stairs": {
+    "result": "undergarden:dreadrock_stairs",
+    "count": 4,
+    "ingredients": [
+      "undergarden:dreadrock",
+      "",
+      "",
+      "undergarden:dreadrock",
+      "undergarden:dreadrock",
+      "",
+      "undergarden:dreadrock",
+      "undergarden:dreadrock",
+      "undergarden:dreadrock"
+    ]
+  },
+  "undergarden:dreadrock_wall": {
+    "result": "undergarden:dreadrock_wall",
+    "count": 6,
+    "ingredients": [
+      "undergarden:dreadrock",
+      "undergarden:dreadrock",
+      "undergarden:dreadrock",
+      "undergarden:dreadrock",
+      "undergarden:dreadrock",
+      "undergarden:dreadrock",
+      "",
+      "",
+      ""
+    ]
+  },
+  "utilitarian:drit": {
+    "result": "utilitarian:drit",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dirt",
+      "minecraft:dirt",
+      "minecraft:dirt",
+      "minecraft:dirt",
+      "minecraft:bone",
+      "minecraft:dirt",
+      "minecraft:dirt",
+      "minecraft:dirt",
+      "minecraft:dirt"
+    ]
+  }
+}

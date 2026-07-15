@@ -1,0 +1,1352 @@
+{
+  "advanced_ae:throughput_monitor": {
+    "result": "advanced_ae:throughput_monitor",
+    "count": 1,
+    "ingredients": [
+      "ae2:calculation_processor",
+      "ae2:storage_monitor",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "advanced_ae:throughput_monitor_configurator": {
+    "result": "advanced_ae:throughput_monitor_configurator",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "ae2:speed_card",
+      "",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:thaumon_greatwood_bookcase": {
+    "result": "bibliocraft:thaumon_greatwood_bookcase",
+    "count": 1,
+    "ingredients": [
+      "thaumon:greatwood_planks",
+      "thaumon:greatwood_slab",
+      "thaumon:greatwood_planks",
+      "thaumon:greatwood_planks",
+      "thaumon:greatwood_slab",
+      "thaumon:greatwood_planks",
+      "thaumon:greatwood_planks",
+      "thaumon:greatwood_slab",
+      "thaumon:greatwood_planks"
+    ]
+  },
+  "bibliocraft:thaumon_greatwood_fancy_armor_stand": {
+    "result": "bibliocraft:thaumon_greatwood_fancy_armor_stand",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "thaumon:greatwood_slab",
+      "thaumon:greatwood_slab",
+      "thaumon:greatwood_slab"
+    ]
+  },
+  "bibliocraft:thaumon_greatwood_fancy_clock": {
+    "result": "bibliocraft:thaumon_greatwood_fancy_clock",
+    "count": 1,
+    "ingredients": [
+      "thaumon:greatwood_slab",
+      "minecraft:clock",
+      "thaumon:greatwood_slab",
+      "thaumon:greatwood_slab",
+      "minecraft:stick",
+      "thaumon:greatwood_slab",
+      "thaumon:greatwood_slab",
+      "minecraft:copper_ingot",
+      "thaumon:greatwood_slab"
+    ]
+  },
+  "bibliocraft:thaumon_greatwood_fancy_crafter": {
+    "result": "bibliocraft:thaumon_greatwood_fancy_crafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black",
+      "minecraft:crafting_tables",
+      "minecraft:feather",
+      "thaumon:greatwood_planks",
+      "minecraft:glass",
+      "thaumon:greatwood_planks",
+      "thaumon:greatwood_planks",
+      "minecraft:crafter",
+      "thaumon:greatwood_planks"
+    ]
+  },
+  "bibliocraft:thaumon_greatwood_fancy_sign": {
+    "result": "bibliocraft:thaumon_greatwood_fancy_sign",
+    "count": 1,
+    "ingredients": [
+      "thaumon:greatwood_planks",
+      "minecraft:paper",
+      "thaumon:greatwood_planks",
+      "thaumon:greatwood_planks",
+      "minecraft:paper",
+      "thaumon:greatwood_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "bibliocraft:thaumon_greatwood_grandfather_clock": {
+    "result": "bibliocraft:thaumon_greatwood_grandfather_clock",
+    "count": 1,
+    "ingredients": [
+      "bibliocraft:thaumon_greatwood_fancy_clock",
+      "bibliocraft:thaumon_greatwood_fancy_clock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:thaumon_greatwood_label": {
+    "result": "bibliocraft:thaumon_greatwood_label",
+    "count": 1,
+    "ingredients": [
+      "thaumon:greatwood_slab",
+      "thaumon:greatwood_slab",
+      "thaumon:greatwood_slab",
+      "thaumon:greatwood_slab",
+      "thaumon:greatwood_slab",
+      "thaumon:greatwood_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:thaumon_greatwood_potion_shelf": {
+    "result": "bibliocraft:thaumon_greatwood_potion_shelf",
+    "count": 1,
+    "ingredients": [
+      "thaumon:greatwood_slab",
+      "thaumon:greatwood_slab",
+      "thaumon:greatwood_slab",
+      "thaumon:greatwood_planks",
+      "minecraft:glass_bottle",
+      "thaumon:greatwood_planks",
+      "thaumon:greatwood_slab",
+      "thaumon:greatwood_slab",
+      "thaumon:greatwood_slab"
+    ]
+  },
+  "bibliocraft:thaumon_greatwood_shelf": {
+    "result": "bibliocraft:thaumon_greatwood_shelf",
+    "count": 1,
+    "ingredients": [
+      "thaumon:greatwood_slab",
+      "thaumon:greatwood_slab",
+      "thaumon:greatwood_slab",
+      "",
+      "thaumon:greatwood_planks",
+      "",
+      "thaumon:greatwood_slab",
+      "thaumon:greatwood_slab",
+      "thaumon:greatwood_slab"
+    ]
+  },
+  "bibliocraft:thaumon_greatwood_table": {
+    "result": "bibliocraft:thaumon_greatwood_table",
+    "count": 1,
+    "ingredients": [
+      "thaumon:greatwood_slab",
+      "thaumon:greatwood_slab",
+      "thaumon:greatwood_slab",
+      "",
+      "thaumon:greatwood_planks",
+      "",
+      "",
+      "thaumon:greatwood_planks",
+      ""
+    ]
+  },
+  "bibliocraft:thaumon_greatwood_tool_rack": {
+    "result": "bibliocraft:thaumon_greatwood_tool_rack",
+    "count": 1,
+    "ingredients": [
+      "thaumon:greatwood_slab",
+      "thaumon:greatwood_slab",
+      "thaumon:greatwood_slab",
+      "thaumon:greatwood_slab",
+      "minecraft:iron_ingot",
+      "thaumon:greatwood_slab",
+      "thaumon:greatwood_slab",
+      "thaumon:greatwood_slab",
+      "thaumon:greatwood_slab"
+    ]
+  },
+  "bibliocraft:thaumon_silverwood_bookcase": {
+    "result": "bibliocraft:thaumon_silverwood_bookcase",
+    "count": 1,
+    "ingredients": [
+      "thaumon:silverwood_planks",
+      "thaumon:silverwood_slab",
+      "thaumon:silverwood_planks",
+      "thaumon:silverwood_planks",
+      "thaumon:silverwood_slab",
+      "thaumon:silverwood_planks",
+      "thaumon:silverwood_planks",
+      "thaumon:silverwood_slab",
+      "thaumon:silverwood_planks"
+    ]
+  },
+  "bibliocraft:thaumon_silverwood_fancy_armor_stand": {
+    "result": "bibliocraft:thaumon_silverwood_fancy_armor_stand",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "thaumon:silverwood_slab",
+      "thaumon:silverwood_slab",
+      "thaumon:silverwood_slab"
+    ]
+  },
+  "bibliocraft:thaumon_silverwood_fancy_clock": {
+    "result": "bibliocraft:thaumon_silverwood_fancy_clock",
+    "count": 1,
+    "ingredients": [
+      "thaumon:silverwood_slab",
+      "minecraft:clock",
+      "thaumon:silverwood_slab",
+      "thaumon:silverwood_slab",
+      "minecraft:stick",
+      "thaumon:silverwood_slab",
+      "thaumon:silverwood_slab",
+      "minecraft:copper_ingot",
+      "thaumon:silverwood_slab"
+    ]
+  },
+  "bibliocraft:thaumon_silverwood_fancy_crafter": {
+    "result": "bibliocraft:thaumon_silverwood_fancy_crafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black",
+      "minecraft:crafting_tables",
+      "minecraft:feather",
+      "thaumon:silverwood_planks",
+      "minecraft:glass",
+      "thaumon:silverwood_planks",
+      "thaumon:silverwood_planks",
+      "minecraft:crafter",
+      "thaumon:silverwood_planks"
+    ]
+  },
+  "bibliocraft:thaumon_silverwood_fancy_sign": {
+    "result": "bibliocraft:thaumon_silverwood_fancy_sign",
+    "count": 1,
+    "ingredients": [
+      "thaumon:silverwood_planks",
+      "minecraft:paper",
+      "thaumon:silverwood_planks",
+      "thaumon:silverwood_planks",
+      "minecraft:paper",
+      "thaumon:silverwood_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "bibliocraft:thaumon_silverwood_grandfather_clock": {
+    "result": "bibliocraft:thaumon_silverwood_grandfather_clock",
+    "count": 1,
+    "ingredients": [
+      "bibliocraft:thaumon_silverwood_fancy_clock",
+      "bibliocraft:thaumon_silverwood_fancy_clock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:thaumon_silverwood_label": {
+    "result": "bibliocraft:thaumon_silverwood_label",
+    "count": 1,
+    "ingredients": [
+      "thaumon:silverwood_slab",
+      "thaumon:silverwood_slab",
+      "thaumon:silverwood_slab",
+      "thaumon:silverwood_slab",
+      "thaumon:silverwood_slab",
+      "thaumon:silverwood_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:thaumon_silverwood_potion_shelf": {
+    "result": "bibliocraft:thaumon_silverwood_potion_shelf",
+    "count": 1,
+    "ingredients": [
+      "thaumon:silverwood_slab",
+      "thaumon:silverwood_slab",
+      "thaumon:silverwood_slab",
+      "thaumon:silverwood_planks",
+      "minecraft:glass_bottle",
+      "thaumon:silverwood_planks",
+      "thaumon:silverwood_slab",
+      "thaumon:silverwood_slab",
+      "thaumon:silverwood_slab"
+    ]
+  },
+  "bibliocraft:thaumon_silverwood_shelf": {
+    "result": "bibliocraft:thaumon_silverwood_shelf",
+    "count": 1,
+    "ingredients": [
+      "thaumon:silverwood_slab",
+      "thaumon:silverwood_slab",
+      "thaumon:silverwood_slab",
+      "",
+      "thaumon:silverwood_planks",
+      "",
+      "thaumon:silverwood_slab",
+      "thaumon:silverwood_slab",
+      "thaumon:silverwood_slab"
+    ]
+  },
+  "bibliocraft:thaumon_silverwood_table": {
+    "result": "bibliocraft:thaumon_silverwood_table",
+    "count": 1,
+    "ingredients": [
+      "thaumon:silverwood_slab",
+      "thaumon:silverwood_slab",
+      "thaumon:silverwood_slab",
+      "",
+      "thaumon:silverwood_planks",
+      "",
+      "",
+      "thaumon:silverwood_planks",
+      ""
+    ]
+  },
+  "bibliocraft:thaumon_silverwood_tool_rack": {
+    "result": "bibliocraft:thaumon_silverwood_tool_rack",
+    "count": 1,
+    "ingredients": [
+      "thaumon:silverwood_slab",
+      "thaumon:silverwood_slab",
+      "thaumon:silverwood_slab",
+      "thaumon:silverwood_slab",
+      "minecraft:iron_ingot",
+      "thaumon:silverwood_slab",
+      "thaumon:silverwood_slab",
+      "thaumon:silverwood_slab",
+      "thaumon:silverwood_slab"
+    ]
+  },
+  "cataclysm:the_annihilator": {
+    "result": "cataclysm:the_annihilator",
+    "count": 1,
+    "ingredients": [
+      "",
+      "cataclysm:cursium_ingot",
+      "",
+      "",
+      "cataclysm:cursium_ingot",
+      "",
+      "",
+      "cataclysm:black_steel_ingot",
+      ""
+    ]
+  },
+  "cataclysm:the_incinerator": {
+    "result": "cataclysm:the_incinerator",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:blaze_rod",
+      "cataclysm:ignitium_ingot",
+      "minecraft:blaze_rod",
+      "cataclysm:ignitium_ingot",
+      "minecraft:blaze_rod",
+      "minecraft:netherite_sword",
+      "minecraft:blaze_rod",
+      ""
+    ]
+  },
+  "eternal_starlight:thermal_springstone_axe": {
+    "result": "eternal_starlight:thermal_springstone_axe",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone",
+      "minecraft:stone",
+      "",
+      "minecraft:stone",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "eternal_starlight:thermal_springstone_boots": {
+    "result": "eternal_starlight:thermal_springstone_boots",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone",
+      "",
+      "minecraft:stone",
+      "minecraft:stone",
+      "",
+      "minecraft:stone",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:thermal_springstone_bricks": {
+    "result": "eternal_starlight:thermal_springstone_bricks",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:thermal_springstone",
+      "eternal_starlight:thermal_springstone",
+      "",
+      "eternal_starlight:thermal_springstone",
+      "eternal_starlight:thermal_springstone",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:thermal_springstone_brick_slab": {
+    "result": "eternal_starlight:thermal_springstone_brick_slab",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:thermal_springstone_bricks",
+      "eternal_starlight:thermal_springstone_bricks",
+      "eternal_starlight:thermal_springstone_bricks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:thermal_springstone_brick_stairs": {
+    "result": "eternal_starlight:thermal_springstone_brick_stairs",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:thermal_springstone_bricks",
+      "",
+      "",
+      "eternal_starlight:thermal_springstone_bricks",
+      "eternal_starlight:thermal_springstone_bricks",
+      "",
+      "eternal_starlight:thermal_springstone_bricks",
+      "eternal_starlight:thermal_springstone_bricks",
+      "eternal_starlight:thermal_springstone_bricks"
+    ]
+  },
+  "eternal_starlight:thermal_springstone_brick_wall": {
+    "result": "eternal_starlight:thermal_springstone_brick_wall",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:thermal_springstone_bricks",
+      "eternal_starlight:thermal_springstone_bricks",
+      "eternal_starlight:thermal_springstone_bricks",
+      "eternal_starlight:thermal_springstone_bricks",
+      "eternal_starlight:thermal_springstone_bricks",
+      "eternal_starlight:thermal_springstone_bricks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:thermal_springstone_chestplate": {
+    "result": "eternal_starlight:thermal_springstone_chestplate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone",
+      "",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone"
+    ]
+  },
+  "eternal_starlight:thermal_springstone_hammer": {
+    "result": "eternal_starlight:thermal_springstone_hammer",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stick",
+      "minecraft:stone",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "eternal_starlight:thermal_springstone_helmet": {
+    "result": "eternal_starlight:thermal_springstone_helmet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "",
+      "minecraft:stone",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:thermal_springstone_hoe": {
+    "result": "eternal_starlight:thermal_springstone_hoe",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone",
+      "minecraft:stone",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "eternal_starlight:thermal_springstone_leggings": {
+    "result": "eternal_starlight:thermal_springstone_leggings",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "",
+      "minecraft:stone",
+      "minecraft:stone",
+      "",
+      "minecraft:stone"
+    ]
+  },
+  "eternal_starlight:thermal_springstone_pickaxe": {
+    "result": "eternal_starlight:thermal_springstone_pickaxe",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "eternal_starlight:thermal_springstone_scythe": {
+    "result": "eternal_starlight:thermal_springstone_scythe",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick"
+    ]
+  },
+  "eternal_starlight:thermal_springstone_shovel": {
+    "result": "eternal_starlight:thermal_springstone_shovel",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:thermal_springstone_slab": {
+    "result": "eternal_starlight:thermal_springstone_slab",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:thermal_springstone",
+      "eternal_starlight:thermal_springstone",
+      "eternal_starlight:thermal_springstone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:thermal_springstone_stairs": {
+    "result": "eternal_starlight:thermal_springstone_stairs",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:thermal_springstone",
+      "",
+      "",
+      "eternal_starlight:thermal_springstone",
+      "eternal_starlight:thermal_springstone",
+      "",
+      "eternal_starlight:thermal_springstone",
+      "eternal_starlight:thermal_springstone",
+      "eternal_starlight:thermal_springstone"
+    ]
+  },
+  "eternal_starlight:thermal_springstone_sword": {
+    "result": "eternal_starlight:thermal_springstone_sword",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone",
+      "",
+      "",
+      "minecraft:stone",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:thermal_springstone_wall": {
+    "result": "eternal_starlight:thermal_springstone_wall",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:thermal_springstone",
+      "eternal_starlight:thermal_springstone",
+      "eternal_starlight:thermal_springstone",
+      "eternal_starlight:thermal_springstone",
+      "eternal_starlight:thermal_springstone",
+      "eternal_starlight:thermal_springstone",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:thioquartz_arrow": {
+    "result": "eternal_starlight:thioquartz_arrow",
+    "count": 4,
+    "ingredients": [
+      "minecraft:quartz",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:feather",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:thioquartz_block": {
+    "result": "eternal_starlight:thioquartz_block",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:thioquartz_shard",
+      "eternal_starlight:thioquartz_shard",
+      "",
+      "eternal_starlight:thioquartz_shard",
+      "eternal_starlight:thioquartz_shard",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "extendedae:threshold_export_bus": {
+    "result": "extendedae:threshold_export_bus",
+    "count": 1,
+    "ingredients": [
+      "ae2:level_emitter",
+      "ae2:logic_processor",
+      "ae2:export_bus",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "extendedae:threshold_level_emitter": {
+    "result": "extendedae:threshold_level_emitter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone_torch",
+      "ae2:level_emitter",
+      "minecraft:redstone_torch",
+      "",
+      "ae2:calculation_processor",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:thermoelectric_generator": {
+    "result": "immersiveengineering:thermoelectric_generator",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "minecraft:constantan",
+      "immersiveengineering:coil_lv",
+      "minecraft:constantan",
+      "minecraft:constantan",
+      "minecraft:constantan",
+      "minecraft:constantan"
+    ]
+  },
+  "mcwholidays:three_potions": {
+    "result": "mcwholidays:three_potions",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glass_bottle",
+      "minecraft:glass_bottle",
+      "minecraft:glass_bottle",
+      "minecraft:blue_dye",
+      "minecraft:green_dye",
+      "minecraft:red_dye",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwholidays:three_pumpkins": {
+    "result": "mcwholidays:three_pumpkins",
+    "count": 1,
+    "ingredients": [
+      "mcwholidays:small_pumpkin",
+      "mcwholidays:small_pumpkin",
+      "mcwholidays:medium_pumpkin",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwlights:thin_garden_light": {
+    "result": "mcwlights:thin_garden_light",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:iron_nugget",
+      "",
+      "",
+      "minecraft:glowstone_dust",
+      "",
+      "",
+      "minecraft:iron_ingot",
+      ""
+    ]
+  },
+  "mcwroofs:thatch_attic_roof": {
+    "result": "mcwroofs:thatch_attic_roof",
+    "count": 2,
+    "ingredients": [
+      "",
+      "minecraft:hay_block",
+      "",
+      "minecraft:hay_block",
+      "minecraft:glass",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:thatch_lower_roof": {
+    "result": "mcwroofs:thatch_lower_roof",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:hay_block",
+      "minecraft:hay_block",
+      "minecraft:hay_block",
+      "minecraft:hay_block",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:thatch_roof": {
+    "result": "mcwroofs:thatch_roof",
+    "count": 2,
+    "ingredients": [
+      "",
+      "minecraft:hay_block",
+      "",
+      "minecraft:hay_block",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:thatch_steep_roof": {
+    "result": "mcwroofs:thatch_steep_roof",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:hay_block",
+      "",
+      "minecraft:hay_block",
+      "minecraft:hay_block",
+      "",
+      "minecraft:hay_block",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "mcwroofs:thatch_top_roof": {
+    "result": "mcwroofs:thatch_top_roof",
+    "count": 2,
+    "ingredients": [
+      "minecraft:hay_block",
+      "minecraft:stick",
+      "minecraft:hay_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:thatch_upper_lower_roof": {
+    "result": "mcwroofs:thatch_upper_lower_roof",
+    "count": 3,
+    "ingredients": [
+      "",
+      "",
+      "minecraft:hay_block",
+      "minecraft:hay_block",
+      "minecraft:hay_block",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:thatch_upper_steep_roof": {
+    "result": "mcwroofs:thatch_upper_steep_roof",
+    "count": 3,
+    "ingredients": [
+      "",
+      "minecraft:hay_block",
+      "",
+      "",
+      "minecraft:hay_block",
+      "",
+      "minecraft:hay_block",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "mekanism:thermal_evaporation_block": {
+    "result": "mekanism:thermal_evaporation_block",
+    "count": 4,
+    "ingredients": [
+      "",
+      "modern_industrialization:steel_ingot",
+      "",
+      "modern_industrialization:steel_ingot",
+      "minecraft:copper_ingot",
+      "modern_industrialization:steel_ingot",
+      "",
+      "modern_industrialization:steel_ingot",
+      ""
+    ]
+  },
+  "mekanism:thermal_evaporation_controller": {
+    "result": "mekanism:thermal_evaporation_controller",
+    "count": 1,
+    "ingredients": [
+      "minecraft:advanced",
+      "minecraft:glass",
+      "minecraft:advanced",
+      "mekanism:thermal_evaporation_block",
+      "minecraft:bucket",
+      "mekanism:thermal_evaporation_block",
+      "mekanism:thermal_evaporation_block",
+      "mekanism:thermal_evaporation_block",
+      "mekanism:thermal_evaporation_block"
+    ]
+  },
+  "mekanism:thermal_evaporation_valve": {
+    "result": "mekanism:thermal_evaporation_valve",
+    "count": 1,
+    "ingredients": [
+      "",
+      "mekanism:thermal_evaporation_block",
+      "",
+      "mekanism:thermal_evaporation_block",
+      "minecraft:advanced",
+      "mekanism:thermal_evaporation_block",
+      "",
+      "mekanism:thermal_evaporation_block",
+      ""
+    ]
+  },
+  "pamhc2foodextended:theatreboxitem": {
+    "result": "pamhc2foodextended:theatreboxitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:chocolatebar",
+      "minecraft:sodas",
+      "pamhc2foodextended:popcornitem",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:threebeansaladitem": {
+    "result": "pamhc2foodextended:threebeansaladitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:bean",
+      "minecraft:bean",
+      "minecraft:bean",
+      "minecraft:spiceleaf",
+      "minecraft:onion",
+      "minecraft:cookingoil",
+      "minecraft:blackpepper",
+      "minecraft:vinegar"
+    ]
+  },
+  "pneumaticcraft:thermal_compressor": {
+    "result": "pneumaticcraft:thermal_compressor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "pneumaticcraft:pressure_tube",
+      "minecraft:iron_ingot",
+      "minecraft:heavy_weighted_pressure_plate",
+      "pneumaticcraft:air_compressor",
+      "minecraft:heavy_weighted_pressure_plate",
+      "minecraft:iron_ingot",
+      "pneumaticcraft:pressure_tube",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "pneumaticcraft:thermal_lagging": {
+    "result": "pneumaticcraft:thermal_lagging",
+    "count": 6,
+    "ingredients": [
+      "minecraft:white_wool",
+      "minecraft:glass",
+      "minecraft:white_wool",
+      "minecraft:glass",
+      "minecraft:white_wool",
+      "minecraft:glass",
+      "minecraft:white_wool",
+      "minecraft:glass",
+      "minecraft:white_wool"
+    ]
+  },
+  "pneumaticcraft:thermostat_module": {
+    "result": "pneumaticcraft:thermostat_module",
+    "count": 1,
+    "ingredients": [
+      "",
+      "pneumaticcraft:manometer",
+      "",
+      "",
+      "pneumaticcraft:heat_pipe",
+      "",
+      "pneumaticcraft:pressure_tube",
+      "minecraft:redstone",
+      "pneumaticcraft:pressure_tube"
+    ]
+  },
+  "powah:thermoelectric_plate": {
+    "result": "powah:thermoelectric_plate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:blaze_powder",
+      "minecraft:redstone",
+      "minecraft:blaze_powder",
+      "minecraft:redstone",
+      "powah:capacitor_basic_tiny",
+      "minecraft:redstone",
+      "minecraft:blaze_powder",
+      "minecraft:redstone",
+      "minecraft:blaze_powder"
+    ]
+  },
+  "powah:thermo_generator_basic": {
+    "result": "powah:thermo_generator_basic",
+    "count": 1,
+    "ingredients": [
+      "powah:dielectric_paste",
+      "minecraft:iron_ingot",
+      "powah:dielectric_paste",
+      "powah:capacitor_basic",
+      "powah:dielectric_casing",
+      "powah:capacitor_basic",
+      "powah:thermoelectric_plate",
+      "powah:thermo_generator_starter",
+      "powah:thermoelectric_plate"
+    ]
+  },
+  "powah:thermo_generator_blazing": {
+    "result": "powah:thermo_generator_blazing",
+    "count": 1,
+    "ingredients": [
+      "powah:dielectric_paste",
+      "powah:crystal_blazing",
+      "powah:dielectric_paste",
+      "powah:capacitor_blazing",
+      "powah:dielectric_casing",
+      "powah:capacitor_blazing",
+      "powah:thermoelectric_plate",
+      "powah:thermo_generator_hardened",
+      "powah:thermoelectric_plate"
+    ]
+  },
+  "powah:thermo_generator_hardened": {
+    "result": "powah:thermo_generator_hardened",
+    "count": 1,
+    "ingredients": [
+      "powah:dielectric_paste",
+      "powah:steel_energized",
+      "powah:dielectric_paste",
+      "powah:capacitor_hardened",
+      "powah:dielectric_casing",
+      "powah:capacitor_hardened",
+      "powah:thermoelectric_plate",
+      "powah:thermo_generator_basic",
+      "powah:thermoelectric_plate"
+    ]
+  },
+  "powah:thermo_generator_niotic": {
+    "result": "powah:thermo_generator_niotic",
+    "count": 1,
+    "ingredients": [
+      "powah:dielectric_paste",
+      "powah:crystal_niotic",
+      "powah:dielectric_paste",
+      "powah:capacitor_niotic",
+      "powah:dielectric_casing",
+      "powah:capacitor_niotic",
+      "powah:thermoelectric_plate",
+      "powah:thermo_generator_blazing",
+      "powah:thermoelectric_plate"
+    ]
+  },
+  "powah:thermo_generator_nitro": {
+    "result": "powah:thermo_generator_nitro",
+    "count": 1,
+    "ingredients": [
+      "powah:dielectric_paste",
+      "powah:crystal_nitro",
+      "powah:dielectric_paste",
+      "powah:capacitor_nitro",
+      "powah:dielectric_casing",
+      "powah:capacitor_nitro",
+      "powah:thermoelectric_plate",
+      "powah:thermo_generator_spirited",
+      "powah:thermoelectric_plate"
+    ]
+  },
+  "powah:thermo_generator_spirited": {
+    "result": "powah:thermo_generator_spirited",
+    "count": 1,
+    "ingredients": [
+      "powah:dielectric_paste",
+      "powah:crystal_spirited",
+      "powah:dielectric_paste",
+      "powah:capacitor_spirited",
+      "powah:dielectric_casing",
+      "powah:capacitor_spirited",
+      "powah:thermoelectric_plate",
+      "powah:thermo_generator_niotic",
+      "powah:thermoelectric_plate"
+    ]
+  },
+  "powah:thermo_generator_starter": {
+    "result": "powah:thermo_generator_starter",
+    "count": 1,
+    "ingredients": [
+      "powah:dielectric_paste",
+      "powah:dielectric_paste",
+      "powah:dielectric_paste",
+      "powah:capacitor_basic_tiny",
+      "powah:dielectric_casing",
+      "powah:capacitor_basic_tiny",
+      "powah:thermoelectric_plate",
+      "powah:thermoelectric_plate",
+      "powah:thermoelectric_plate"
+    ]
+  },
+  "productivetrees:thunder_bolt_bookshelf": {
+    "result": "productivetrees:thunder_bolt_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:thunder_bolt_planks",
+      "productivetrees:thunder_bolt_planks",
+      "productivetrees:thunder_bolt_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:thunder_bolt_planks",
+      "productivetrees:thunder_bolt_planks",
+      "productivetrees:thunder_bolt_planks"
+    ]
+  },
+  "productivetrees:thunder_bolt_button": {
+    "result": "productivetrees:thunder_bolt_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:thunder_bolt_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:thunder_bolt_door": {
+    "result": "productivetrees:thunder_bolt_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:thunder_bolt_planks",
+      "productivetrees:thunder_bolt_planks",
+      "",
+      "productivetrees:thunder_bolt_planks",
+      "productivetrees:thunder_bolt_planks",
+      "",
+      "productivetrees:thunder_bolt_planks",
+      "productivetrees:thunder_bolt_planks",
+      ""
+    ]
+  },
+  "productivetrees:thunder_bolt_fence": {
+    "result": "productivetrees:thunder_bolt_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:thunder_bolt_planks",
+      "minecraft:stick",
+      "productivetrees:thunder_bolt_planks",
+      "productivetrees:thunder_bolt_planks",
+      "minecraft:stick",
+      "productivetrees:thunder_bolt_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:thunder_bolt_fence_gate": {
+    "result": "productivetrees:thunder_bolt_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:thunder_bolt_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:thunder_bolt_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:thunder_bolt_hanging_sign": {
+    "result": "productivetrees:thunder_bolt_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:thunder_bolt_planks",
+      "productivetrees:thunder_bolt_planks",
+      "productivetrees:thunder_bolt_planks",
+      "productivetrees:thunder_bolt_planks",
+      "productivetrees:thunder_bolt_planks",
+      "productivetrees:thunder_bolt_planks"
+    ]
+  },
+  "productivetrees:thunder_bolt_planks": {
+    "result": "productivetrees:thunder_bolt_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:thunder_bolt_pressure_plate": {
+    "result": "productivetrees:thunder_bolt_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:thunder_bolt_planks",
+      "productivetrees:thunder_bolt_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:thunder_bolt_sign": {
+    "result": "productivetrees:thunder_bolt_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:thunder_bolt_planks",
+      "productivetrees:thunder_bolt_planks",
+      "productivetrees:thunder_bolt_planks",
+      "productivetrees:thunder_bolt_planks",
+      "productivetrees:thunder_bolt_planks",
+      "productivetrees:thunder_bolt_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:thunder_bolt_slab": {
+    "result": "productivetrees:thunder_bolt_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:thunder_bolt_planks",
+      "productivetrees:thunder_bolt_planks",
+      "productivetrees:thunder_bolt_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:thunder_bolt_stairs": {
+    "result": "productivetrees:thunder_bolt_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:thunder_bolt_planks",
+      "",
+      "",
+      "productivetrees:thunder_bolt_planks",
+      "productivetrees:thunder_bolt_planks",
+      "",
+      "productivetrees:thunder_bolt_planks",
+      "productivetrees:thunder_bolt_planks",
+      "productivetrees:thunder_bolt_planks"
+    ]
+  },
+  "productivetrees:thunder_bolt_trapdoor": {
+    "result": "productivetrees:thunder_bolt_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:thunder_bolt_planks",
+      "productivetrees:thunder_bolt_planks",
+      "productivetrees:thunder_bolt_planks",
+      "productivetrees:thunder_bolt_planks",
+      "productivetrees:thunder_bolt_planks",
+      "productivetrees:thunder_bolt_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:thunder_bolt_wood": {
+    "result": "productivetrees:thunder_bolt_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:thunder_bolt_log",
+      "productivetrees:thunder_bolt_log",
+      "",
+      "productivetrees:thunder_bolt_log",
+      "productivetrees:thunder_bolt_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:throttle_track_kit": {
+    "result": "railcraft:throttle_track_kit",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "railcraft:track_parts",
+      "minecraft:yellow",
+      "minecraft:black",
+      "minecraft:redstone",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:thick_castle_brick": {
+    "result": "twilightforest:thick_castle_brick",
+    "count": 4,
+    "ingredients": [
+      "twilightforest:castle_brick",
+      "twilightforest:castle_brick",
+      "",
+      "twilightforest:castle_brick",
+      "twilightforest:castle_brick",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

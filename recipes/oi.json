@@ -1,0 +1,47 @@
+{
+  "actuallyadditions:oil_generator": {
+    "result": "actuallyadditions:oil_generator",
+    "count": 1,
+    "ingredients": [
+      "actuallyadditions:oil_generator",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "herbsandharvest:oil": {
+    "result": "herbsandharvest:oil",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glass_bottle",
+      "minecraft:corn",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:oil_drilling_rig": {
+    "result": "modern_industrialization:oil_drilling_rig",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:steel_large_plate",
+      "modern_industrialization:electronic_circuit",
+      "modern_industrialization:steel_large_plate",
+      "modern_industrialization:large_pump",
+      "modern_industrialization:advanced_machine_hull",
+      "modern_industrialization:large_pump",
+      "modern_industrialization:steel_large_plate",
+      "minecraft:fluid_pipes",
+      "modern_industrialization:steel_large_plate"
+    ]
+  }
+}

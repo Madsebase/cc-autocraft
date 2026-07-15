@@ -1,0 +1,752 @@
+{
+  "allthecompressed:uraninite_block_1x": {
+    "result": "allthecompressed:uraninite_block_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:uraninite_block_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:uraninite_block_2x": {
+    "result": "allthecompressed:uraninite_block_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:uraninite_block_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:uraninite_block_3x": {
+    "result": "allthecompressed:uraninite_block_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:uraninite_block_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:uraninite_block_4x": {
+    "result": "allthecompressed:uraninite_block_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:uraninite_block_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:uraninite_block_5x": {
+    "result": "allthecompressed:uraninite_block_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:uraninite_block_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:uraninite_block_6x": {
+    "result": "allthecompressed:uraninite_block_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:uraninite_block_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:uraninite_block_7x": {
+    "result": "allthecompressed:uraninite_block_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:uraninite_block_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:uraninite_block_8x": {
+    "result": "allthecompressed:uraninite_block_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:uraninite_block_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:uraninite_block_9x": {
+    "result": "allthecompressed:uraninite_block_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:uraninite_block_8x",
+      "allthecompressed:uraninite_block_8x",
+      "allthecompressed:uraninite_block_8x",
+      "allthecompressed:uraninite_block_8x",
+      "allthecompressed:uraninite_block_8x",
+      "allthecompressed:uraninite_block_8x",
+      "allthecompressed:uraninite_block_8x",
+      "allthecompressed:uraninite_block_8x",
+      "allthecompressed:uraninite_block_8x"
+    ]
+  },
+  "allthecompressed:uranium_block_1x": {
+    "result": "allthecompressed:uranium_block_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:uranium_block_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:uranium_block_2x": {
+    "result": "allthecompressed:uranium_block_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:uranium_block_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:uranium_block_3x": {
+    "result": "allthecompressed:uranium_block_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:uranium_block_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:uranium_block_4x": {
+    "result": "allthecompressed:uranium_block_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:uranium_block_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:uranium_block_5x": {
+    "result": "allthecompressed:uranium_block_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:uranium_block_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:uranium_block_6x": {
+    "result": "allthecompressed:uranium_block_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:uranium_block_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:uranium_block_7x": {
+    "result": "allthecompressed:uranium_block_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:uranium_block_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:uranium_block_8x": {
+    "result": "allthecompressed:uranium_block_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:uranium_block_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:uranium_block_9x": {
+    "result": "allthecompressed:uranium_block_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:uranium_block_8x",
+      "allthecompressed:uranium_block_8x",
+      "allthecompressed:uranium_block_8x",
+      "allthecompressed:uranium_block_8x",
+      "allthecompressed:uranium_block_8x",
+      "allthecompressed:uranium_block_8x",
+      "allthecompressed:uranium_block_8x",
+      "allthecompressed:uranium_block_8x",
+      "allthecompressed:uranium_block_8x"
+    ]
+  },
+  "powah:uraninite_block": {
+    "result": "powah:uraninite_block",
+    "count": 1,
+    "ingredients": [
+      "powah:uraninite",
+      "powah:uraninite",
+      "powah:uraninite",
+      "powah:uraninite",
+      "powah:uraninite",
+      "powah:uraninite",
+      "powah:uraninite",
+      "powah:uraninite",
+      "powah:uraninite"
+    ]
+  },
+  "alltheores:uranium_block": {
+    "result": "alltheores:uranium_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:uranium",
+      "minecraft:uranium",
+      "minecraft:uranium",
+      "minecraft:uranium",
+      "minecraft:uranium",
+      "minecraft:uranium",
+      "minecraft:uranium",
+      "minecraft:uranium",
+      "minecraft:uranium"
+    ]
+  },
+  "alltheores:uranium_dust": {
+    "result": "alltheores:uranium_dust",
+    "count": 2,
+    "ingredients": [
+      "minecraft:ore_hammers",
+      "minecraft:uranium",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "alltheores:uranium_gear": {
+    "result": "alltheores:uranium_gear",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:uranium",
+      "",
+      "minecraft:uranium",
+      "minecraft:iron",
+      "minecraft:uranium",
+      "",
+      "minecraft:uranium",
+      ""
+    ]
+  },
+  "alltheores:uranium_ingot": {
+    "result": "alltheores:uranium_ingot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:uranium",
+      "minecraft:uranium",
+      "minecraft:uranium",
+      "minecraft:uranium",
+      "minecraft:uranium",
+      "minecraft:uranium",
+      "minecraft:uranium",
+      "minecraft:uranium",
+      "minecraft:uranium"
+    ]
+  },
+  "alltheores:uranium_nugget": {
+    "result": "alltheores:uranium_nugget",
+    "count": 9,
+    "ingredients": [
+      "minecraft:uranium",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "alltheores:uranium_plate": {
+    "result": "alltheores:uranium_plate",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "minecraft:ore_hammers",
+      "minecraft:uranium",
+      "",
+      "minecraft:uranium",
+      "",
+      ""
+    ]
+  },
+  "alltheores:uranium_rod": {
+    "result": "alltheores:uranium_rod",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "minecraft:uranium",
+      "minecraft:ore_hammers",
+      "minecraft:uranium",
+      ""
+    ]
+  },
+  "modern_industrialization:uranium_block": {
+    "result": "modern_industrialization:uranium_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:uranium",
+      "minecraft:uranium",
+      "minecraft:uranium",
+      "minecraft:uranium",
+      "modern_industrialization:uranium_ingot",
+      "minecraft:uranium",
+      "minecraft:uranium",
+      "minecraft:uranium",
+      "minecraft:uranium"
+    ]
+  },
+  "modern_industrialization:uranium_ore": {
+    "result": "modern_industrialization:uranium_ore",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:deepslate_uranium_ore",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:uranium_dust": {
+    "result": "modern_industrialization:uranium_dust",
+    "count": 1,
+    "ingredients": [
+      "minecraft:uranium",
+      "minecraft:uranium",
+      "minecraft:uranium",
+      "minecraft:uranium",
+      "modern_industrialization:uranium_tiny_dust",
+      "minecraft:uranium",
+      "minecraft:uranium",
+      "minecraft:uranium",
+      "minecraft:uranium"
+    ]
+  },
+  "modern_industrialization:uranium_ingot": {
+    "result": "modern_industrialization:uranium_ingot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:uranium",
+      "minecraft:uranium",
+      "minecraft:uranium",
+      "minecraft:uranium",
+      "modern_industrialization:uranium_nugget",
+      "minecraft:uranium",
+      "minecraft:uranium",
+      "minecraft:uranium",
+      "minecraft:uranium"
+    ]
+  },
+  "modern_industrialization:uranium_nugget": {
+    "result": "modern_industrialization:uranium_nugget",
+    "count": 9,
+    "ingredients": [
+      "modern_industrialization:uranium_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:uranium_tiny_dust": {
+    "result": "modern_industrialization:uranium_tiny_dust",
+    "count": 9,
+    "ingredients": [
+      "modern_industrialization:uranium_dust",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:uranium_235_block": {
+    "result": "modern_industrialization:uranium_235_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:uranium_235",
+      "minecraft:uranium_235",
+      "minecraft:uranium_235",
+      "minecraft:uranium_235",
+      "modern_industrialization:uranium_235_ingot",
+      "minecraft:uranium_235",
+      "minecraft:uranium_235",
+      "minecraft:uranium_235",
+      "minecraft:uranium_235"
+    ]
+  },
+  "modern_industrialization:uranium_235_dust": {
+    "result": "modern_industrialization:uranium_235_dust",
+    "count": 1,
+    "ingredients": [
+      "minecraft:uranium_235",
+      "minecraft:uranium_235",
+      "minecraft:uranium_235",
+      "minecraft:uranium_235",
+      "modern_industrialization:uranium_235_tiny_dust",
+      "minecraft:uranium_235",
+      "minecraft:uranium_235",
+      "minecraft:uranium_235",
+      "minecraft:uranium_235"
+    ]
+  },
+  "modern_industrialization:uranium_235_ingot": {
+    "result": "modern_industrialization:uranium_235_ingot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:uranium_235",
+      "minecraft:uranium_235",
+      "minecraft:uranium_235",
+      "minecraft:uranium_235",
+      "modern_industrialization:uranium_235_nugget",
+      "minecraft:uranium_235",
+      "minecraft:uranium_235",
+      "minecraft:uranium_235",
+      "minecraft:uranium_235"
+    ]
+  },
+  "modern_industrialization:uranium_235_nugget": {
+    "result": "modern_industrialization:uranium_235_nugget",
+    "count": 9,
+    "ingredients": [
+      "modern_industrialization:uranium_235_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:uranium_235_tiny_dust": {
+    "result": "modern_industrialization:uranium_235_tiny_dust",
+    "count": 9,
+    "ingredients": [
+      "modern_industrialization:uranium_235_dust",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:uranium_238_block": {
+    "result": "modern_industrialization:uranium_238_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:uranium_238",
+      "minecraft:uranium_238",
+      "minecraft:uranium_238",
+      "minecraft:uranium_238",
+      "modern_industrialization:uranium_238_ingot",
+      "minecraft:uranium_238",
+      "minecraft:uranium_238",
+      "minecraft:uranium_238",
+      "minecraft:uranium_238"
+    ]
+  },
+  "modern_industrialization:uranium_238_dust": {
+    "result": "modern_industrialization:uranium_238_dust",
+    "count": 1,
+    "ingredients": [
+      "minecraft:uranium_238",
+      "minecraft:uranium_238",
+      "minecraft:uranium_238",
+      "minecraft:uranium_238",
+      "modern_industrialization:uranium_238_tiny_dust",
+      "minecraft:uranium_238",
+      "minecraft:uranium_238",
+      "minecraft:uranium_238",
+      "minecraft:uranium_238"
+    ]
+  },
+  "modern_industrialization:uranium_238_ingot": {
+    "result": "modern_industrialization:uranium_238_ingot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:uranium_238",
+      "minecraft:uranium_238",
+      "minecraft:uranium_238",
+      "minecraft:uranium_238",
+      "modern_industrialization:uranium_238_nugget",
+      "minecraft:uranium_238",
+      "minecraft:uranium_238",
+      "minecraft:uranium_238",
+      "minecraft:uranium_238"
+    ]
+  },
+  "modern_industrialization:uranium_238_nugget": {
+    "result": "modern_industrialization:uranium_238_nugget",
+    "count": 9,
+    "ingredients": [
+      "modern_industrialization:uranium_238_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:uranium_238_tiny_dust": {
+    "result": "modern_industrialization:uranium_238_tiny_dust",
+    "count": 9,
+    "ingredients": [
+      "modern_industrialization:uranium_238_dust",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "powah:uraninite": {
+    "result": "powah:uraninite",
+    "count": 9,
+    "ingredients": [
+      "powah:uraninite_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "oritech:uranium_dust": {
+    "result": "oritech:uranium_dust",
+    "count": 9,
+    "ingredients": [
+      "minecraft:uranium_dust",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "oritech:uranium_dust_block": {
+    "result": "oritech:uranium_dust_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:uranium",
+      "minecraft:uranium",
+      "minecraft:uranium",
+      "minecraft:uranium",
+      "minecraft:uranium",
+      "minecraft:uranium",
+      "minecraft:uranium",
+      "minecraft:uranium",
+      "minecraft:uranium"
+    ]
+  },
+  "oritech:uranium_pellet": {
+    "result": "oritech:uranium_pellet",
+    "count": 1,
+    "ingredients": [
+      "oritech:small_uranium_pellet",
+      "oritech:small_uranium_pellet",
+      "oritech:small_uranium_pellet",
+      "oritech:small_uranium_pellet",
+      "oritech:small_uranium_pellet",
+      "oritech:small_uranium_pellet",
+      "oritech:small_uranium_pellet",
+      "oritech:small_uranium_pellet",
+      "oritech:small_uranium_pellet"
+    ]
+  },
+  "sgearmetalworks:uru_metal_block": {
+    "result": "sgearmetalworks:uru_metal_block",
+    "count": 1,
+    "ingredients": [
+      "sgearmetalworks:uru_metal_ingot",
+      "sgearmetalworks:uru_metal_ingot",
+      "sgearmetalworks:uru_metal_ingot",
+      "sgearmetalworks:uru_metal_ingot",
+      "sgearmetalworks:uru_metal_ingot",
+      "sgearmetalworks:uru_metal_ingot",
+      "sgearmetalworks:uru_metal_ingot",
+      "sgearmetalworks:uru_metal_ingot",
+      "sgearmetalworks:uru_metal_ingot"
+    ]
+  },
+  "sgearmetalworks:uru_metal_ingot": {
+    "result": "sgearmetalworks:uru_metal_ingot",
+    "count": 1,
+    "ingredients": [
+      "sgearmetalworks:uru_metal_nugget",
+      "sgearmetalworks:uru_metal_nugget",
+      "sgearmetalworks:uru_metal_nugget",
+      "sgearmetalworks:uru_metal_nugget",
+      "sgearmetalworks:uru_metal_nugget",
+      "sgearmetalworks:uru_metal_nugget",
+      "sgearmetalworks:uru_metal_nugget",
+      "sgearmetalworks:uru_metal_nugget",
+      "sgearmetalworks:uru_metal_nugget"
+    ]
+  },
+  "sgearmetalworks:uru_metal_nugget": {
+    "result": "sgearmetalworks:uru_metal_nugget",
+    "count": 9,
+    "ingredients": [
+      "sgearmetalworks:uru_metal_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:ur_ghast_banner_pattern": {
+    "result": "twilightforest:ur_ghast_banner_pattern",
+    "count": 1,
+    "ingredients": [
+      "minecraft:paper",
+      "twilightforest:ur_ghast_trophy",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

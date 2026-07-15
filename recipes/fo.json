@@ -1,0 +1,1337 @@
+{
+  "ae2:formation_core": {
+    "result": "ae2:formation_core",
+    "count": 2,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:fluix",
+      "ae2:logic_processor",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ae2:formation_plane": {
+    "result": "ae2:formation_plane",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:all_fluix",
+      "",
+      "ae2:formation_core",
+      "minecraft:all_fluix",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:all_fluix",
+      ""
+    ]
+  },
+  "bibliocraft:forbidden_arcanus_aurum_bookcase": {
+    "result": "bibliocraft:forbidden_arcanus_aurum_bookcase",
+    "count": 1,
+    "ingredients": [
+      "forbidden_arcanus:aurum_planks",
+      "forbidden_arcanus:aurum_slab",
+      "forbidden_arcanus:aurum_planks",
+      "forbidden_arcanus:aurum_planks",
+      "forbidden_arcanus:aurum_slab",
+      "forbidden_arcanus:aurum_planks",
+      "forbidden_arcanus:aurum_planks",
+      "forbidden_arcanus:aurum_slab",
+      "forbidden_arcanus:aurum_planks"
+    ]
+  },
+  "bibliocraft:forbidden_arcanus_aurum_fancy_armor_stand": {
+    "result": "bibliocraft:forbidden_arcanus_aurum_fancy_armor_stand",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "forbidden_arcanus:aurum_slab",
+      "forbidden_arcanus:aurum_slab",
+      "forbidden_arcanus:aurum_slab"
+    ]
+  },
+  "bibliocraft:forbidden_arcanus_aurum_fancy_clock": {
+    "result": "bibliocraft:forbidden_arcanus_aurum_fancy_clock",
+    "count": 1,
+    "ingredients": [
+      "forbidden_arcanus:aurum_slab",
+      "minecraft:clock",
+      "forbidden_arcanus:aurum_slab",
+      "forbidden_arcanus:aurum_slab",
+      "minecraft:stick",
+      "forbidden_arcanus:aurum_slab",
+      "forbidden_arcanus:aurum_slab",
+      "minecraft:copper_ingot",
+      "forbidden_arcanus:aurum_slab"
+    ]
+  },
+  "bibliocraft:forbidden_arcanus_aurum_fancy_crafter": {
+    "result": "bibliocraft:forbidden_arcanus_aurum_fancy_crafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black",
+      "minecraft:crafting_tables",
+      "minecraft:feather",
+      "forbidden_arcanus:aurum_planks",
+      "minecraft:glass",
+      "forbidden_arcanus:aurum_planks",
+      "forbidden_arcanus:aurum_planks",
+      "minecraft:crafter",
+      "forbidden_arcanus:aurum_planks"
+    ]
+  },
+  "bibliocraft:forbidden_arcanus_aurum_fancy_sign": {
+    "result": "bibliocraft:forbidden_arcanus_aurum_fancy_sign",
+    "count": 1,
+    "ingredients": [
+      "forbidden_arcanus:aurum_planks",
+      "minecraft:paper",
+      "forbidden_arcanus:aurum_planks",
+      "forbidden_arcanus:aurum_planks",
+      "minecraft:paper",
+      "forbidden_arcanus:aurum_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "bibliocraft:forbidden_arcanus_aurum_grandfather_clock": {
+    "result": "bibliocraft:forbidden_arcanus_aurum_grandfather_clock",
+    "count": 1,
+    "ingredients": [
+      "bibliocraft:forbidden_arcanus_aurum_fancy_clock",
+      "bibliocraft:forbidden_arcanus_aurum_fancy_clock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:forbidden_arcanus_aurum_label": {
+    "result": "bibliocraft:forbidden_arcanus_aurum_label",
+    "count": 1,
+    "ingredients": [
+      "forbidden_arcanus:aurum_slab",
+      "forbidden_arcanus:aurum_slab",
+      "forbidden_arcanus:aurum_slab",
+      "forbidden_arcanus:aurum_slab",
+      "forbidden_arcanus:aurum_slab",
+      "forbidden_arcanus:aurum_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:forbidden_arcanus_aurum_potion_shelf": {
+    "result": "bibliocraft:forbidden_arcanus_aurum_potion_shelf",
+    "count": 1,
+    "ingredients": [
+      "forbidden_arcanus:aurum_slab",
+      "forbidden_arcanus:aurum_slab",
+      "forbidden_arcanus:aurum_slab",
+      "forbidden_arcanus:aurum_planks",
+      "minecraft:glass_bottle",
+      "forbidden_arcanus:aurum_planks",
+      "forbidden_arcanus:aurum_slab",
+      "forbidden_arcanus:aurum_slab",
+      "forbidden_arcanus:aurum_slab"
+    ]
+  },
+  "bibliocraft:forbidden_arcanus_aurum_shelf": {
+    "result": "bibliocraft:forbidden_arcanus_aurum_shelf",
+    "count": 1,
+    "ingredients": [
+      "forbidden_arcanus:aurum_slab",
+      "forbidden_arcanus:aurum_slab",
+      "forbidden_arcanus:aurum_slab",
+      "",
+      "forbidden_arcanus:aurum_planks",
+      "",
+      "forbidden_arcanus:aurum_slab",
+      "forbidden_arcanus:aurum_slab",
+      "forbidden_arcanus:aurum_slab"
+    ]
+  },
+  "bibliocraft:forbidden_arcanus_aurum_table": {
+    "result": "bibliocraft:forbidden_arcanus_aurum_table",
+    "count": 1,
+    "ingredients": [
+      "forbidden_arcanus:aurum_slab",
+      "forbidden_arcanus:aurum_slab",
+      "forbidden_arcanus:aurum_slab",
+      "",
+      "forbidden_arcanus:aurum_planks",
+      "",
+      "",
+      "forbidden_arcanus:aurum_planks",
+      ""
+    ]
+  },
+  "bibliocraft:forbidden_arcanus_aurum_tool_rack": {
+    "result": "bibliocraft:forbidden_arcanus_aurum_tool_rack",
+    "count": 1,
+    "ingredients": [
+      "forbidden_arcanus:aurum_slab",
+      "forbidden_arcanus:aurum_slab",
+      "forbidden_arcanus:aurum_slab",
+      "forbidden_arcanus:aurum_slab",
+      "minecraft:iron_ingot",
+      "forbidden_arcanus:aurum_slab",
+      "forbidden_arcanus:aurum_slab",
+      "forbidden_arcanus:aurum_slab",
+      "forbidden_arcanus:aurum_slab"
+    ]
+  },
+  "bibliocraft:forbidden_arcanus_edelwood_bookcase": {
+    "result": "bibliocraft:forbidden_arcanus_edelwood_bookcase",
+    "count": 1,
+    "ingredients": [
+      "forbidden_arcanus:edelwood_planks",
+      "forbidden_arcanus:edelwood_slab",
+      "forbidden_arcanus:edelwood_planks",
+      "forbidden_arcanus:edelwood_planks",
+      "forbidden_arcanus:edelwood_slab",
+      "forbidden_arcanus:edelwood_planks",
+      "forbidden_arcanus:edelwood_planks",
+      "forbidden_arcanus:edelwood_slab",
+      "forbidden_arcanus:edelwood_planks"
+    ]
+  },
+  "bibliocraft:forbidden_arcanus_edelwood_fancy_armor_stand": {
+    "result": "bibliocraft:forbidden_arcanus_edelwood_fancy_armor_stand",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "forbidden_arcanus:edelwood_slab",
+      "forbidden_arcanus:edelwood_slab",
+      "forbidden_arcanus:edelwood_slab"
+    ]
+  },
+  "bibliocraft:forbidden_arcanus_edelwood_fancy_clock": {
+    "result": "bibliocraft:forbidden_arcanus_edelwood_fancy_clock",
+    "count": 1,
+    "ingredients": [
+      "forbidden_arcanus:edelwood_slab",
+      "minecraft:clock",
+      "forbidden_arcanus:edelwood_slab",
+      "forbidden_arcanus:edelwood_slab",
+      "minecraft:stick",
+      "forbidden_arcanus:edelwood_slab",
+      "forbidden_arcanus:edelwood_slab",
+      "minecraft:copper_ingot",
+      "forbidden_arcanus:edelwood_slab"
+    ]
+  },
+  "bibliocraft:forbidden_arcanus_edelwood_fancy_crafter": {
+    "result": "bibliocraft:forbidden_arcanus_edelwood_fancy_crafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black",
+      "minecraft:crafting_tables",
+      "minecraft:feather",
+      "forbidden_arcanus:edelwood_planks",
+      "minecraft:glass",
+      "forbidden_arcanus:edelwood_planks",
+      "forbidden_arcanus:edelwood_planks",
+      "minecraft:crafter",
+      "forbidden_arcanus:edelwood_planks"
+    ]
+  },
+  "bibliocraft:forbidden_arcanus_edelwood_fancy_sign": {
+    "result": "bibliocraft:forbidden_arcanus_edelwood_fancy_sign",
+    "count": 1,
+    "ingredients": [
+      "forbidden_arcanus:edelwood_planks",
+      "minecraft:paper",
+      "forbidden_arcanus:edelwood_planks",
+      "forbidden_arcanus:edelwood_planks",
+      "minecraft:paper",
+      "forbidden_arcanus:edelwood_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "bibliocraft:forbidden_arcanus_edelwood_grandfather_clock": {
+    "result": "bibliocraft:forbidden_arcanus_edelwood_grandfather_clock",
+    "count": 1,
+    "ingredients": [
+      "bibliocraft:forbidden_arcanus_edelwood_fancy_clock",
+      "bibliocraft:forbidden_arcanus_edelwood_fancy_clock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:forbidden_arcanus_edelwood_label": {
+    "result": "bibliocraft:forbidden_arcanus_edelwood_label",
+    "count": 1,
+    "ingredients": [
+      "forbidden_arcanus:edelwood_slab",
+      "forbidden_arcanus:edelwood_slab",
+      "forbidden_arcanus:edelwood_slab",
+      "forbidden_arcanus:edelwood_slab",
+      "forbidden_arcanus:edelwood_slab",
+      "forbidden_arcanus:edelwood_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:forbidden_arcanus_edelwood_potion_shelf": {
+    "result": "bibliocraft:forbidden_arcanus_edelwood_potion_shelf",
+    "count": 1,
+    "ingredients": [
+      "forbidden_arcanus:edelwood_slab",
+      "forbidden_arcanus:edelwood_slab",
+      "forbidden_arcanus:edelwood_slab",
+      "forbidden_arcanus:edelwood_planks",
+      "minecraft:glass_bottle",
+      "forbidden_arcanus:edelwood_planks",
+      "forbidden_arcanus:edelwood_slab",
+      "forbidden_arcanus:edelwood_slab",
+      "forbidden_arcanus:edelwood_slab"
+    ]
+  },
+  "bibliocraft:forbidden_arcanus_edelwood_shelf": {
+    "result": "bibliocraft:forbidden_arcanus_edelwood_shelf",
+    "count": 1,
+    "ingredients": [
+      "forbidden_arcanus:edelwood_slab",
+      "forbidden_arcanus:edelwood_slab",
+      "forbidden_arcanus:edelwood_slab",
+      "",
+      "forbidden_arcanus:edelwood_planks",
+      "",
+      "forbidden_arcanus:edelwood_slab",
+      "forbidden_arcanus:edelwood_slab",
+      "forbidden_arcanus:edelwood_slab"
+    ]
+  },
+  "bibliocraft:forbidden_arcanus_edelwood_table": {
+    "result": "bibliocraft:forbidden_arcanus_edelwood_table",
+    "count": 1,
+    "ingredients": [
+      "forbidden_arcanus:edelwood_slab",
+      "forbidden_arcanus:edelwood_slab",
+      "forbidden_arcanus:edelwood_slab",
+      "",
+      "forbidden_arcanus:edelwood_planks",
+      "",
+      "",
+      "forbidden_arcanus:edelwood_planks",
+      ""
+    ]
+  },
+  "bibliocraft:forbidden_arcanus_edelwood_tool_rack": {
+    "result": "bibliocraft:forbidden_arcanus_edelwood_tool_rack",
+    "count": 1,
+    "ingredients": [
+      "forbidden_arcanus:edelwood_slab",
+      "forbidden_arcanus:edelwood_slab",
+      "forbidden_arcanus:edelwood_slab",
+      "forbidden_arcanus:edelwood_slab",
+      "minecraft:iron_ingot",
+      "forbidden_arcanus:edelwood_slab",
+      "forbidden_arcanus:edelwood_slab",
+      "forbidden_arcanus:edelwood_slab",
+      "forbidden_arcanus:edelwood_slab"
+    ]
+  },
+  "bibliocraft:forbidden_arcanus_fungyss_bookcase": {
+    "result": "bibliocraft:forbidden_arcanus_fungyss_bookcase",
+    "count": 1,
+    "ingredients": [
+      "forbidden_arcanus:fungyss_planks",
+      "forbidden_arcanus:fungyss_slab",
+      "forbidden_arcanus:fungyss_planks",
+      "forbidden_arcanus:fungyss_planks",
+      "forbidden_arcanus:fungyss_slab",
+      "forbidden_arcanus:fungyss_planks",
+      "forbidden_arcanus:fungyss_planks",
+      "forbidden_arcanus:fungyss_slab",
+      "forbidden_arcanus:fungyss_planks"
+    ]
+  },
+  "bibliocraft:forbidden_arcanus_fungyss_fancy_armor_stand": {
+    "result": "bibliocraft:forbidden_arcanus_fungyss_fancy_armor_stand",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "forbidden_arcanus:fungyss_slab",
+      "forbidden_arcanus:fungyss_slab",
+      "forbidden_arcanus:fungyss_slab"
+    ]
+  },
+  "bibliocraft:forbidden_arcanus_fungyss_fancy_clock": {
+    "result": "bibliocraft:forbidden_arcanus_fungyss_fancy_clock",
+    "count": 1,
+    "ingredients": [
+      "forbidden_arcanus:fungyss_slab",
+      "minecraft:clock",
+      "forbidden_arcanus:fungyss_slab",
+      "forbidden_arcanus:fungyss_slab",
+      "minecraft:stick",
+      "forbidden_arcanus:fungyss_slab",
+      "forbidden_arcanus:fungyss_slab",
+      "minecraft:copper_ingot",
+      "forbidden_arcanus:fungyss_slab"
+    ]
+  },
+  "bibliocraft:forbidden_arcanus_fungyss_fancy_crafter": {
+    "result": "bibliocraft:forbidden_arcanus_fungyss_fancy_crafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black",
+      "minecraft:crafting_tables",
+      "minecraft:feather",
+      "forbidden_arcanus:fungyss_planks",
+      "minecraft:glass",
+      "forbidden_arcanus:fungyss_planks",
+      "forbidden_arcanus:fungyss_planks",
+      "minecraft:crafter",
+      "forbidden_arcanus:fungyss_planks"
+    ]
+  },
+  "bibliocraft:forbidden_arcanus_fungyss_fancy_sign": {
+    "result": "bibliocraft:forbidden_arcanus_fungyss_fancy_sign",
+    "count": 1,
+    "ingredients": [
+      "forbidden_arcanus:fungyss_planks",
+      "minecraft:paper",
+      "forbidden_arcanus:fungyss_planks",
+      "forbidden_arcanus:fungyss_planks",
+      "minecraft:paper",
+      "forbidden_arcanus:fungyss_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "bibliocraft:forbidden_arcanus_fungyss_grandfather_clock": {
+    "result": "bibliocraft:forbidden_arcanus_fungyss_grandfather_clock",
+    "count": 1,
+    "ingredients": [
+      "bibliocraft:forbidden_arcanus_fungyss_fancy_clock",
+      "bibliocraft:forbidden_arcanus_fungyss_fancy_clock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:forbidden_arcanus_fungyss_label": {
+    "result": "bibliocraft:forbidden_arcanus_fungyss_label",
+    "count": 1,
+    "ingredients": [
+      "forbidden_arcanus:fungyss_slab",
+      "forbidden_arcanus:fungyss_slab",
+      "forbidden_arcanus:fungyss_slab",
+      "forbidden_arcanus:fungyss_slab",
+      "forbidden_arcanus:fungyss_slab",
+      "forbidden_arcanus:fungyss_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:forbidden_arcanus_fungyss_potion_shelf": {
+    "result": "bibliocraft:forbidden_arcanus_fungyss_potion_shelf",
+    "count": 1,
+    "ingredients": [
+      "forbidden_arcanus:fungyss_slab",
+      "forbidden_arcanus:fungyss_slab",
+      "forbidden_arcanus:fungyss_slab",
+      "forbidden_arcanus:fungyss_planks",
+      "minecraft:glass_bottle",
+      "forbidden_arcanus:fungyss_planks",
+      "forbidden_arcanus:fungyss_slab",
+      "forbidden_arcanus:fungyss_slab",
+      "forbidden_arcanus:fungyss_slab"
+    ]
+  },
+  "bibliocraft:forbidden_arcanus_fungyss_shelf": {
+    "result": "bibliocraft:forbidden_arcanus_fungyss_shelf",
+    "count": 1,
+    "ingredients": [
+      "forbidden_arcanus:fungyss_slab",
+      "forbidden_arcanus:fungyss_slab",
+      "forbidden_arcanus:fungyss_slab",
+      "",
+      "forbidden_arcanus:fungyss_planks",
+      "",
+      "forbidden_arcanus:fungyss_slab",
+      "forbidden_arcanus:fungyss_slab",
+      "forbidden_arcanus:fungyss_slab"
+    ]
+  },
+  "bibliocraft:forbidden_arcanus_fungyss_table": {
+    "result": "bibliocraft:forbidden_arcanus_fungyss_table",
+    "count": 1,
+    "ingredients": [
+      "forbidden_arcanus:fungyss_slab",
+      "forbidden_arcanus:fungyss_slab",
+      "forbidden_arcanus:fungyss_slab",
+      "",
+      "forbidden_arcanus:fungyss_planks",
+      "",
+      "",
+      "forbidden_arcanus:fungyss_planks",
+      ""
+    ]
+  },
+  "bibliocraft:forbidden_arcanus_fungyss_tool_rack": {
+    "result": "bibliocraft:forbidden_arcanus_fungyss_tool_rack",
+    "count": 1,
+    "ingredients": [
+      "forbidden_arcanus:fungyss_slab",
+      "forbidden_arcanus:fungyss_slab",
+      "forbidden_arcanus:fungyss_slab",
+      "forbidden_arcanus:fungyss_slab",
+      "minecraft:iron_ingot",
+      "forbidden_arcanus:fungyss_slab",
+      "forbidden_arcanus:fungyss_slab",
+      "forbidden_arcanus:fungyss_slab",
+      "forbidden_arcanus:fungyss_slab"
+    ]
+  },
+  "biomeswevegone:foragers_table": {
+    "result": "biomeswevegone:foragers_table",
+    "count": 1,
+    "ingredients": [
+      "minecraft:mushrooms",
+      "minecraft:mushrooms",
+      "",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:forge_armor_trim_smithing_template": {
+    "result": "eternal_starlight:forge_armor_trim_smithing_template",
+    "count": 2,
+    "ingredients": [
+      "modern_industrialization:silver_ingot",
+      "eternal_starlight:forge_armor_trim_smithing_template",
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot",
+      "eternal_starlight:voidstone",
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot"
+    ]
+  },
+  "handcrafted:fox_trophy": {
+    "result": "handcrafted:fox_trophy",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:sweet_berries",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks"
+    ]
+  },
+  "iceandfire:forest_troll_leather_boots": {
+    "result": "iceandfire:forest_troll_leather_boots",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:troll_leather_forest",
+      "",
+      "iceandfire:troll_leather_forest",
+      "iceandfire:troll_leather_forest",
+      "",
+      "iceandfire:troll_leather_forest",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:forest_troll_leather_chestplate": {
+    "result": "iceandfire:forest_troll_leather_chestplate",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:troll_leather_forest",
+      "",
+      "iceandfire:troll_leather_forest",
+      "iceandfire:troll_leather_forest",
+      "iceandfire:troll_leather_forest",
+      "iceandfire:troll_leather_forest",
+      "iceandfire:troll_leather_forest",
+      "iceandfire:troll_leather_forest",
+      "iceandfire:troll_leather_forest"
+    ]
+  },
+  "iceandfire:forest_troll_leather_helmet": {
+    "result": "iceandfire:forest_troll_leather_helmet",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:troll_leather_forest",
+      "iceandfire:troll_leather_forest",
+      "iceandfire:troll_leather_forest",
+      "iceandfire:troll_tusk",
+      "",
+      "iceandfire:troll_tusk",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:forest_troll_leather_leggings": {
+    "result": "iceandfire:forest_troll_leather_leggings",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:troll_leather_forest",
+      "iceandfire:troll_leather_forest",
+      "iceandfire:troll_leather_forest",
+      "iceandfire:troll_leather_forest",
+      "",
+      "iceandfire:troll_leather_forest",
+      "iceandfire:troll_leather_forest",
+      "",
+      "iceandfire:troll_leather_forest"
+    ]
+  },
+  "mahoutsukai:fog_projector": {
+    "result": "mahoutsukai:fog_projector",
+    "count": 1,
+    "ingredients": [
+      "mahoutsukai:powdered_eye",
+      "mahoutsukai:powdered_eye",
+      "mahoutsukai:powdered_eye",
+      "minecraft:redstone",
+      "mahoutsukai:spell_cloth",
+      "minecraft:redstone",
+      "mahoutsukai:powdered_eye",
+      "mahoutsukai:powdered_eye",
+      "mahoutsukai:powdered_eye"
+    ]
+  },
+  "mekanism:formulaic_assemblicator": {
+    "result": "mekanism:formulaic_assemblicator",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:steel_ingot",
+      "minecraft:crafter",
+      "modern_industrialization:steel_ingot",
+      "minecraft:basic",
+      "mekanism:steel_casing",
+      "minecraft:basic",
+      "modern_industrialization:steel_ingot",
+      "minecraft:chest",
+      "modern_industrialization:steel_ingot"
+    ]
+  },
+  "mffs:focus_matrix": {
+    "result": "mffs:focus_matrix",
+    "count": 9,
+    "ingredients": [
+      "minecraft:redstone",
+      "modern_industrialization:steel_ingot",
+      "minecraft:redstone",
+      "modern_industrialization:steel_ingot",
+      "minecraft:diamond",
+      "modern_industrialization:steel_ingot",
+      "minecraft:redstone",
+      "modern_industrialization:steel_ingot",
+      "minecraft:redstone"
+    ]
+  },
+  "mffs:fortron_capacitor": {
+    "result": "mffs:fortron_capacitor",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:steel_ingot",
+      "mffs:focus_matrix",
+      "modern_industrialization:steel_ingot",
+      "mffs:focus_matrix",
+      "mffs:battery",
+      "mffs:focus_matrix",
+      "modern_industrialization:steel_ingot",
+      "mffs:focus_matrix",
+      "modern_industrialization:steel_ingot"
+    ]
+  },
+  "modern_industrialization:forge_hammer": {
+    "result": "modern_industrialization:forge_hammer",
+    "count": 2,
+    "ingredients": [
+      "minecraft:steel",
+      "minecraft:steel",
+      "minecraft:steel",
+      "",
+      "modern_industrialization:steel_ingot",
+      "",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot"
+    ]
+  },
+  "oritech:foundry_block": {
+    "result": "oritech:foundry_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "oritech:motor",
+      "minecraft:copper_ingot",
+      "minecraft:electrum",
+      "minecraft:cauldron",
+      "minecraft:electrum"
+    ]
+  },
+  "pamhc2foodextended:footlongitem": {
+    "result": "pamhc2foodextended:footlongitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:bread",
+      "minecraft:rawpork",
+      "minecraft:leafyvegetables",
+      "minecraft:tomato",
+      "minecraft:mayonaise",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:fortunecookieitem": {
+    "result": "pamhc2foodextended:fortunecookieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:dough",
+      "minecraft:sugar",
+      "minecraft:paper",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivemetalworks:foundry_tap": {
+    "result": "productivemetalworks:foundry_tap",
+    "count": 1,
+    "ingredients": [
+      "productivemetalworks:fire_brick",
+      "",
+      "productivemetalworks:fire_brick",
+      "",
+      "productivemetalworks:fire_brick",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:foggy_blast_bookshelf": {
+    "result": "productivetrees:foggy_blast_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:foggy_blast_planks",
+      "productivetrees:foggy_blast_planks",
+      "productivetrees:foggy_blast_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:foggy_blast_planks",
+      "productivetrees:foggy_blast_planks",
+      "productivetrees:foggy_blast_planks"
+    ]
+  },
+  "productivetrees:foggy_blast_button": {
+    "result": "productivetrees:foggy_blast_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:foggy_blast_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:foggy_blast_door": {
+    "result": "productivetrees:foggy_blast_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:foggy_blast_planks",
+      "productivetrees:foggy_blast_planks",
+      "",
+      "productivetrees:foggy_blast_planks",
+      "productivetrees:foggy_blast_planks",
+      "",
+      "productivetrees:foggy_blast_planks",
+      "productivetrees:foggy_blast_planks",
+      ""
+    ]
+  },
+  "productivetrees:foggy_blast_fence": {
+    "result": "productivetrees:foggy_blast_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:foggy_blast_planks",
+      "minecraft:stick",
+      "productivetrees:foggy_blast_planks",
+      "productivetrees:foggy_blast_planks",
+      "minecraft:stick",
+      "productivetrees:foggy_blast_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:foggy_blast_fence_gate": {
+    "result": "productivetrees:foggy_blast_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:foggy_blast_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:foggy_blast_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:foggy_blast_hanging_sign": {
+    "result": "productivetrees:foggy_blast_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:foggy_blast_planks",
+      "productivetrees:foggy_blast_planks",
+      "productivetrees:foggy_blast_planks",
+      "productivetrees:foggy_blast_planks",
+      "productivetrees:foggy_blast_planks",
+      "productivetrees:foggy_blast_planks"
+    ]
+  },
+  "productivetrees:foggy_blast_planks": {
+    "result": "productivetrees:foggy_blast_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:foggy_blast_pressure_plate": {
+    "result": "productivetrees:foggy_blast_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:foggy_blast_planks",
+      "productivetrees:foggy_blast_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:foggy_blast_sign": {
+    "result": "productivetrees:foggy_blast_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:foggy_blast_planks",
+      "productivetrees:foggy_blast_planks",
+      "productivetrees:foggy_blast_planks",
+      "productivetrees:foggy_blast_planks",
+      "productivetrees:foggy_blast_planks",
+      "productivetrees:foggy_blast_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:foggy_blast_slab": {
+    "result": "productivetrees:foggy_blast_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:foggy_blast_planks",
+      "productivetrees:foggy_blast_planks",
+      "productivetrees:foggy_blast_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:foggy_blast_stairs": {
+    "result": "productivetrees:foggy_blast_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:foggy_blast_planks",
+      "",
+      "",
+      "productivetrees:foggy_blast_planks",
+      "productivetrees:foggy_blast_planks",
+      "",
+      "productivetrees:foggy_blast_planks",
+      "productivetrees:foggy_blast_planks",
+      "productivetrees:foggy_blast_planks"
+    ]
+  },
+  "productivetrees:foggy_blast_trapdoor": {
+    "result": "productivetrees:foggy_blast_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:foggy_blast_planks",
+      "productivetrees:foggy_blast_planks",
+      "productivetrees:foggy_blast_planks",
+      "productivetrees:foggy_blast_planks",
+      "productivetrees:foggy_blast_planks",
+      "productivetrees:foggy_blast_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:foggy_blast_wood": {
+    "result": "productivetrees:foggy_blast_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:foggy_blast_log",
+      "productivetrees:foggy_blast_log",
+      "",
+      "productivetrees:foggy_blast_log",
+      "productivetrees:foggy_blast_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:force_track_emitter": {
+    "result": "railcraft:force_track_emitter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tin",
+      "minecraft:ender_pearl",
+      "minecraft:tin",
+      "railcraft:charge_coil",
+      "minecraft:diamond",
+      "railcraft:charge_coil",
+      "minecraft:tin",
+      "minecraft:ender_pearl",
+      "minecraft:tin"
+    ]
+  },
+  "reliquary:fortune_coin": {
+    "result": "reliquary:fortune_coin",
+    "count": 1,
+    "ingredients": [
+      "reliquary:nebulous_heart",
+      "minecraft:gold",
+      "reliquary:slime_pearl",
+      "reliquary:bat_wing",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "solcarrot:food_book": {
+    "result": "solcarrot:food_book",
+    "count": 1,
+    "ingredients": [
+      "minecraft:book",
+      "minecraft:carrot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "supplementaries:fodder": {
+    "result": "supplementaries:fodder",
+    "count": 2,
+    "ingredients": [
+      "minecraft:hay_block",
+      "supplementaries:flax_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:forgotten_block": {
+    "result": "undergarden:forgotten_block",
+    "count": 1,
+    "ingredients": [
+      "undergarden:forgotten_ingot",
+      "undergarden:forgotten_ingot",
+      "undergarden:forgotten_ingot",
+      "undergarden:forgotten_ingot",
+      "undergarden:forgotten_ingot",
+      "undergarden:forgotten_ingot",
+      "undergarden:forgotten_ingot",
+      "undergarden:forgotten_ingot",
+      "undergarden:forgotten_ingot"
+    ]
+  },
+  "undergarden:forgotten_ingot": {
+    "result": "undergarden:forgotten_ingot",
+    "count": 1,
+    "ingredients": [
+      "undergarden:forgotten_nugget",
+      "undergarden:forgotten_nugget",
+      "undergarden:forgotten_nugget",
+      "undergarden:forgotten_nugget",
+      "undergarden:forgotten_nugget",
+      "undergarden:forgotten_nugget",
+      "undergarden:forgotten_nugget",
+      "undergarden:forgotten_nugget",
+      "undergarden:forgotten_nugget"
+    ]
+  },
+  "undergarden:forgotten_nugget": {
+    "result": "undergarden:forgotten_nugget",
+    "count": 9,
+    "ingredients": [
+      "undergarden:forgotten_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:forgotten_upgrade_smithing_template": {
+    "result": "undergarden:forgotten_upgrade_smithing_template",
+    "count": 2,
+    "ingredients": [
+      "minecraft:diamond",
+      "undergarden:forgotten_upgrade_smithing_template",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "undergarden:depthrock",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond"
+    ]
+  },
+  "xtonesreworked:fort_block_0": {
+    "result": "xtonesreworked:fort_block_0",
+    "count": 8,
+    "ingredients": [
+      "minecraft:fort",
+      "minecraft:gray",
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:fort"
+    ]
+  },
+  "xtonesreworked:fort_block_1": {
+    "result": "xtonesreworked:fort_block_1",
+    "count": 8,
+    "ingredients": [
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:brown",
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:fort"
+    ]
+  },
+  "xtonesreworked:fort_block_10": {
+    "result": "xtonesreworked:fort_block_10",
+    "count": 8,
+    "ingredients": [
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:white",
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:fort"
+    ]
+  },
+  "xtonesreworked:fort_block_11": {
+    "result": "xtonesreworked:fort_block_11",
+    "count": 8,
+    "ingredients": [
+      "minecraft:fort",
+      "minecraft:brown",
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:fort"
+    ]
+  },
+  "xtonesreworked:fort_block_12": {
+    "result": "xtonesreworked:fort_block_12",
+    "count": 8,
+    "ingredients": [
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:pink",
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:fort"
+    ]
+  },
+  "xtonesreworked:fort_block_13": {
+    "result": "xtonesreworked:fort_block_13",
+    "count": 8,
+    "ingredients": [
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:orange",
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:fort"
+    ]
+  },
+  "xtonesreworked:fort_block_14": {
+    "result": "xtonesreworked:fort_block_14",
+    "count": 8,
+    "ingredients": [
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:red",
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:fort"
+    ]
+  },
+  "xtonesreworked:fort_block_15": {
+    "result": "xtonesreworked:fort_block_15",
+    "count": 8,
+    "ingredients": [
+      "minecraft:fort",
+      "minecraft:red",
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:fort"
+    ]
+  },
+  "xtonesreworked:fort_block_2": {
+    "result": "xtonesreworked:fort_block_2",
+    "count": 8,
+    "ingredients": [
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:lime",
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:fort"
+    ]
+  },
+  "xtonesreworked:fort_block_3": {
+    "result": "xtonesreworked:fort_block_3",
+    "count": 8,
+    "ingredients": [
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:green",
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:fort"
+    ]
+  },
+  "xtonesreworked:fort_block_4": {
+    "result": "xtonesreworked:fort_block_4",
+    "count": 8,
+    "ingredients": [
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:yellow",
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:fort"
+    ]
+  },
+  "xtonesreworked:fort_block_5": {
+    "result": "xtonesreworked:fort_block_5",
+    "count": 8,
+    "ingredients": [
+      "minecraft:fort",
+      "minecraft:green",
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:fort"
+    ]
+  },
+  "xtonesreworked:fort_block_6": {
+    "result": "xtonesreworked:fort_block_6",
+    "count": 8,
+    "ingredients": [
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:black",
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:fort"
+    ]
+  },
+  "xtonesreworked:fort_block_7": {
+    "result": "xtonesreworked:fort_block_7",
+    "count": 8,
+    "ingredients": [
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:purple",
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:fort"
+    ]
+  },
+  "xtonesreworked:fort_block_8": {
+    "result": "xtonesreworked:fort_block_8",
+    "count": 8,
+    "ingredients": [
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:gray",
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:fort"
+    ]
+  },
+  "xtonesreworked:fort_block_9": {
+    "result": "xtonesreworked:fort_block_9",
+    "count": 8,
+    "ingredients": [
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:light_gray",
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:fort",
+      "minecraft:fort"
+    ]
+  },
+  "xycraft_machines:foil": {
+    "result": "xycraft_machines:foil",
+    "count": 4,
+    "ingredients": [
+      "minecraft:aluminum",
+      "minecraft:aluminum",
+      "minecraft:aluminum",
+      "minecraft:aluminum",
+      "minecraft:glass",
+      "minecraft:aluminum",
+      "minecraft:aluminum",
+      "minecraft:aluminum",
+      "minecraft:aluminum"
+    ]
+  }
+}

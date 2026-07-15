@@ -1,0 +1,1802 @@
+{
+  "actuallyadditions:heat_collector": {
+    "result": "actuallyadditions:heat_collector",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_bars",
+      "minecraft:repeater",
+      "minecraft:iron_bars",
+      "actuallyadditions:advanced_coil",
+      "actuallyadditions:enori_crystal",
+      "actuallyadditions:advanced_coil",
+      "minecraft:iron_bars",
+      "actuallyadditions:iron_casing",
+      "minecraft:iron_bars"
+    ]
+  },
+  "aether:hellfire_slab": {
+    "result": "aether:hellfire_slab",
+    "count": 6,
+    "ingredients": [
+      "aether:hellfire_stone",
+      "aether:hellfire_stone",
+      "aether:hellfire_stone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "aether:hellfire_stairs": {
+    "result": "aether:hellfire_stairs",
+    "count": 4,
+    "ingredients": [
+      "aether:hellfire_stone",
+      "",
+      "",
+      "aether:hellfire_stone",
+      "aether:hellfire_stone",
+      "",
+      "aether:hellfire_stone",
+      "aether:hellfire_stone",
+      "aether:hellfire_stone"
+    ]
+  },
+  "aether:hellfire_wall": {
+    "result": "aether:hellfire_wall",
+    "count": 6,
+    "ingredients": [
+      "aether:hellfire_stone",
+      "aether:hellfire_stone",
+      "aether:hellfire_stone",
+      "aether:hellfire_stone",
+      "aether:hellfire_stone",
+      "aether:hellfire_stone",
+      "",
+      "",
+      ""
+    ]
+  },
+  "apothic_enchanting:heart_seashelf": {
+    "result": "apothic_enchanting:heart_seashelf",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:heart_of_the_sea",
+      "",
+      "minecraft:prismarine_shard",
+      "apothic_enchanting:infused_seashelf",
+      "minecraft:prismarine_shard",
+      "minecraft:prismarine_shard",
+      "minecraft:prismarine_shard",
+      "minecraft:prismarine_shard"
+    ]
+  },
+  "apothic_enchanting:helmet_tome": {
+    "result": "apothic_enchanting:helmet_tome",
+    "count": 5,
+    "ingredients": [
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:blaze_rod",
+      "minecraft:book",
+      "",
+      "",
+      ""
+    ]
+  },
+  "aquaculture:heavy_hook": {
+    "result": "aquaculture:heavy_hook",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:iron",
+      "",
+      "minecraft:iron",
+      "aquaculture:iron_hook",
+      "minecraft:iron",
+      "",
+      "minecraft:iron",
+      ""
+    ]
+  },
+  "bellsandwhistles:headlight": {
+    "result": "bellsandwhistles:headlight",
+    "count": 2,
+    "ingredients": [
+      "",
+      "minecraft:iron_nugget",
+      "",
+      "minecraft:torch",
+      "minecraft:iron_nugget",
+      "",
+      "",
+      "minecraft:iron_nugget",
+      ""
+    ]
+  },
+  "bhc:heart_amulet": {
+    "result": "bhc:heart_amulet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:string",
+      "",
+      "minecraft:string",
+      "minecraft:glass",
+      "minecraft:hearts",
+      "minecraft:glass",
+      "",
+      "minecraft:glass",
+      ""
+    ]
+  },
+  "bibliocraft:hexerei_mahogany_bookcase": {
+    "result": "bibliocraft:hexerei_mahogany_bookcase",
+    "count": 1,
+    "ingredients": [
+      "hexerei:mahogany_planks",
+      "hexerei:mahogany_slab",
+      "hexerei:mahogany_planks",
+      "hexerei:mahogany_planks",
+      "hexerei:mahogany_slab",
+      "hexerei:mahogany_planks",
+      "hexerei:mahogany_planks",
+      "hexerei:mahogany_slab",
+      "hexerei:mahogany_planks"
+    ]
+  },
+  "bibliocraft:hexerei_mahogany_fancy_armor_stand": {
+    "result": "bibliocraft:hexerei_mahogany_fancy_armor_stand",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "hexerei:mahogany_slab",
+      "hexerei:mahogany_slab",
+      "hexerei:mahogany_slab"
+    ]
+  },
+  "bibliocraft:hexerei_mahogany_fancy_clock": {
+    "result": "bibliocraft:hexerei_mahogany_fancy_clock",
+    "count": 1,
+    "ingredients": [
+      "hexerei:mahogany_slab",
+      "minecraft:clock",
+      "hexerei:mahogany_slab",
+      "hexerei:mahogany_slab",
+      "minecraft:stick",
+      "hexerei:mahogany_slab",
+      "hexerei:mahogany_slab",
+      "minecraft:copper_ingot",
+      "hexerei:mahogany_slab"
+    ]
+  },
+  "bibliocraft:hexerei_mahogany_fancy_crafter": {
+    "result": "bibliocraft:hexerei_mahogany_fancy_crafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black",
+      "minecraft:crafting_tables",
+      "minecraft:feather",
+      "hexerei:mahogany_planks",
+      "minecraft:glass",
+      "hexerei:mahogany_planks",
+      "hexerei:mahogany_planks",
+      "minecraft:crafter",
+      "hexerei:mahogany_planks"
+    ]
+  },
+  "bibliocraft:hexerei_mahogany_fancy_sign": {
+    "result": "bibliocraft:hexerei_mahogany_fancy_sign",
+    "count": 1,
+    "ingredients": [
+      "hexerei:mahogany_planks",
+      "minecraft:paper",
+      "hexerei:mahogany_planks",
+      "hexerei:mahogany_planks",
+      "minecraft:paper",
+      "hexerei:mahogany_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "bibliocraft:hexerei_mahogany_grandfather_clock": {
+    "result": "bibliocraft:hexerei_mahogany_grandfather_clock",
+    "count": 1,
+    "ingredients": [
+      "bibliocraft:hexerei_mahogany_fancy_clock",
+      "bibliocraft:hexerei_mahogany_fancy_clock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:hexerei_mahogany_label": {
+    "result": "bibliocraft:hexerei_mahogany_label",
+    "count": 1,
+    "ingredients": [
+      "hexerei:mahogany_slab",
+      "hexerei:mahogany_slab",
+      "hexerei:mahogany_slab",
+      "hexerei:mahogany_slab",
+      "hexerei:mahogany_slab",
+      "hexerei:mahogany_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:hexerei_mahogany_potion_shelf": {
+    "result": "bibliocraft:hexerei_mahogany_potion_shelf",
+    "count": 1,
+    "ingredients": [
+      "hexerei:mahogany_slab",
+      "hexerei:mahogany_slab",
+      "hexerei:mahogany_slab",
+      "hexerei:mahogany_planks",
+      "minecraft:glass_bottle",
+      "hexerei:mahogany_planks",
+      "hexerei:mahogany_slab",
+      "hexerei:mahogany_slab",
+      "hexerei:mahogany_slab"
+    ]
+  },
+  "bibliocraft:hexerei_mahogany_shelf": {
+    "result": "bibliocraft:hexerei_mahogany_shelf",
+    "count": 1,
+    "ingredients": [
+      "hexerei:mahogany_slab",
+      "hexerei:mahogany_slab",
+      "hexerei:mahogany_slab",
+      "",
+      "hexerei:mahogany_planks",
+      "",
+      "hexerei:mahogany_slab",
+      "hexerei:mahogany_slab",
+      "hexerei:mahogany_slab"
+    ]
+  },
+  "bibliocraft:hexerei_mahogany_table": {
+    "result": "bibliocraft:hexerei_mahogany_table",
+    "count": 1,
+    "ingredients": [
+      "hexerei:mahogany_slab",
+      "hexerei:mahogany_slab",
+      "hexerei:mahogany_slab",
+      "",
+      "hexerei:mahogany_planks",
+      "",
+      "",
+      "hexerei:mahogany_planks",
+      ""
+    ]
+  },
+  "bibliocraft:hexerei_mahogany_tool_rack": {
+    "result": "bibliocraft:hexerei_mahogany_tool_rack",
+    "count": 1,
+    "ingredients": [
+      "hexerei:mahogany_slab",
+      "hexerei:mahogany_slab",
+      "hexerei:mahogany_slab",
+      "hexerei:mahogany_slab",
+      "minecraft:iron_ingot",
+      "hexerei:mahogany_slab",
+      "hexerei:mahogany_slab",
+      "hexerei:mahogany_slab",
+      "hexerei:mahogany_slab"
+    ]
+  },
+  "bibliocraft:hexerei_polished_mahogany_bookcase": {
+    "result": "bibliocraft:hexerei_polished_mahogany_bookcase",
+    "count": 1,
+    "ingredients": [
+      "hexerei:polished_mahogany_planks",
+      "hexerei:polished_mahogany_slab",
+      "hexerei:polished_mahogany_planks",
+      "hexerei:polished_mahogany_planks",
+      "hexerei:polished_mahogany_slab",
+      "hexerei:polished_mahogany_planks",
+      "hexerei:polished_mahogany_planks",
+      "hexerei:polished_mahogany_slab",
+      "hexerei:polished_mahogany_planks"
+    ]
+  },
+  "bibliocraft:hexerei_polished_mahogany_fancy_armor_stand": {
+    "result": "bibliocraft:hexerei_polished_mahogany_fancy_armor_stand",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "hexerei:polished_mahogany_slab",
+      "hexerei:polished_mahogany_slab",
+      "hexerei:polished_mahogany_slab"
+    ]
+  },
+  "bibliocraft:hexerei_polished_mahogany_fancy_clock": {
+    "result": "bibliocraft:hexerei_polished_mahogany_fancy_clock",
+    "count": 1,
+    "ingredients": [
+      "hexerei:polished_mahogany_slab",
+      "minecraft:clock",
+      "hexerei:polished_mahogany_slab",
+      "hexerei:polished_mahogany_slab",
+      "minecraft:stick",
+      "hexerei:polished_mahogany_slab",
+      "hexerei:polished_mahogany_slab",
+      "minecraft:copper_ingot",
+      "hexerei:polished_mahogany_slab"
+    ]
+  },
+  "bibliocraft:hexerei_polished_mahogany_fancy_crafter": {
+    "result": "bibliocraft:hexerei_polished_mahogany_fancy_crafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black",
+      "minecraft:crafting_tables",
+      "minecraft:feather",
+      "hexerei:polished_mahogany_planks",
+      "minecraft:glass",
+      "hexerei:polished_mahogany_planks",
+      "hexerei:polished_mahogany_planks",
+      "minecraft:crafter",
+      "hexerei:polished_mahogany_planks"
+    ]
+  },
+  "bibliocraft:hexerei_polished_mahogany_fancy_sign": {
+    "result": "bibliocraft:hexerei_polished_mahogany_fancy_sign",
+    "count": 1,
+    "ingredients": [
+      "hexerei:polished_mahogany_planks",
+      "minecraft:paper",
+      "hexerei:polished_mahogany_planks",
+      "hexerei:polished_mahogany_planks",
+      "minecraft:paper",
+      "hexerei:polished_mahogany_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "bibliocraft:hexerei_polished_mahogany_grandfather_clock": {
+    "result": "bibliocraft:hexerei_polished_mahogany_grandfather_clock",
+    "count": 1,
+    "ingredients": [
+      "bibliocraft:hexerei_polished_mahogany_fancy_clock",
+      "bibliocraft:hexerei_polished_mahogany_fancy_clock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:hexerei_polished_mahogany_label": {
+    "result": "bibliocraft:hexerei_polished_mahogany_label",
+    "count": 1,
+    "ingredients": [
+      "hexerei:polished_mahogany_slab",
+      "hexerei:polished_mahogany_slab",
+      "hexerei:polished_mahogany_slab",
+      "hexerei:polished_mahogany_slab",
+      "hexerei:polished_mahogany_slab",
+      "hexerei:polished_mahogany_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:hexerei_polished_mahogany_potion_shelf": {
+    "result": "bibliocraft:hexerei_polished_mahogany_potion_shelf",
+    "count": 1,
+    "ingredients": [
+      "hexerei:polished_mahogany_slab",
+      "hexerei:polished_mahogany_slab",
+      "hexerei:polished_mahogany_slab",
+      "hexerei:polished_mahogany_planks",
+      "minecraft:glass_bottle",
+      "hexerei:polished_mahogany_planks",
+      "hexerei:polished_mahogany_slab",
+      "hexerei:polished_mahogany_slab",
+      "hexerei:polished_mahogany_slab"
+    ]
+  },
+  "bibliocraft:hexerei_polished_mahogany_shelf": {
+    "result": "bibliocraft:hexerei_polished_mahogany_shelf",
+    "count": 1,
+    "ingredients": [
+      "hexerei:polished_mahogany_slab",
+      "hexerei:polished_mahogany_slab",
+      "hexerei:polished_mahogany_slab",
+      "",
+      "hexerei:polished_mahogany_planks",
+      "",
+      "hexerei:polished_mahogany_slab",
+      "hexerei:polished_mahogany_slab",
+      "hexerei:polished_mahogany_slab"
+    ]
+  },
+  "bibliocraft:hexerei_polished_mahogany_table": {
+    "result": "bibliocraft:hexerei_polished_mahogany_table",
+    "count": 1,
+    "ingredients": [
+      "hexerei:polished_mahogany_slab",
+      "hexerei:polished_mahogany_slab",
+      "hexerei:polished_mahogany_slab",
+      "",
+      "hexerei:polished_mahogany_planks",
+      "",
+      "",
+      "hexerei:polished_mahogany_planks",
+      ""
+    ]
+  },
+  "bibliocraft:hexerei_polished_mahogany_tool_rack": {
+    "result": "bibliocraft:hexerei_polished_mahogany_tool_rack",
+    "count": 1,
+    "ingredients": [
+      "hexerei:polished_mahogany_slab",
+      "hexerei:polished_mahogany_slab",
+      "hexerei:polished_mahogany_slab",
+      "hexerei:polished_mahogany_slab",
+      "minecraft:iron_ingot",
+      "hexerei:polished_mahogany_slab",
+      "hexerei:polished_mahogany_slab",
+      "hexerei:polished_mahogany_slab",
+      "hexerei:polished_mahogany_slab"
+    ]
+  },
+  "bibliocraft:hexerei_polished_willow_bookcase": {
+    "result": "bibliocraft:hexerei_polished_willow_bookcase",
+    "count": 1,
+    "ingredients": [
+      "hexerei:polished_willow_planks",
+      "hexerei:polished_willow_slab",
+      "hexerei:polished_willow_planks",
+      "hexerei:polished_willow_planks",
+      "hexerei:polished_willow_slab",
+      "hexerei:polished_willow_planks",
+      "hexerei:polished_willow_planks",
+      "hexerei:polished_willow_slab",
+      "hexerei:polished_willow_planks"
+    ]
+  },
+  "bibliocraft:hexerei_polished_willow_fancy_armor_stand": {
+    "result": "bibliocraft:hexerei_polished_willow_fancy_armor_stand",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "hexerei:polished_willow_slab",
+      "hexerei:polished_willow_slab",
+      "hexerei:polished_willow_slab"
+    ]
+  },
+  "bibliocraft:hexerei_polished_willow_fancy_clock": {
+    "result": "bibliocraft:hexerei_polished_willow_fancy_clock",
+    "count": 1,
+    "ingredients": [
+      "hexerei:polished_willow_slab",
+      "minecraft:clock",
+      "hexerei:polished_willow_slab",
+      "hexerei:polished_willow_slab",
+      "minecraft:stick",
+      "hexerei:polished_willow_slab",
+      "hexerei:polished_willow_slab",
+      "minecraft:copper_ingot",
+      "hexerei:polished_willow_slab"
+    ]
+  },
+  "bibliocraft:hexerei_polished_willow_fancy_crafter": {
+    "result": "bibliocraft:hexerei_polished_willow_fancy_crafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black",
+      "minecraft:crafting_tables",
+      "minecraft:feather",
+      "hexerei:polished_willow_planks",
+      "minecraft:glass",
+      "hexerei:polished_willow_planks",
+      "hexerei:polished_willow_planks",
+      "minecraft:crafter",
+      "hexerei:polished_willow_planks"
+    ]
+  },
+  "bibliocraft:hexerei_polished_willow_fancy_sign": {
+    "result": "bibliocraft:hexerei_polished_willow_fancy_sign",
+    "count": 1,
+    "ingredients": [
+      "hexerei:polished_willow_planks",
+      "minecraft:paper",
+      "hexerei:polished_willow_planks",
+      "hexerei:polished_willow_planks",
+      "minecraft:paper",
+      "hexerei:polished_willow_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "bibliocraft:hexerei_polished_willow_grandfather_clock": {
+    "result": "bibliocraft:hexerei_polished_willow_grandfather_clock",
+    "count": 1,
+    "ingredients": [
+      "bibliocraft:hexerei_polished_willow_fancy_clock",
+      "bibliocraft:hexerei_polished_willow_fancy_clock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:hexerei_polished_willow_label": {
+    "result": "bibliocraft:hexerei_polished_willow_label",
+    "count": 1,
+    "ingredients": [
+      "hexerei:polished_willow_slab",
+      "hexerei:polished_willow_slab",
+      "hexerei:polished_willow_slab",
+      "hexerei:polished_willow_slab",
+      "hexerei:polished_willow_slab",
+      "hexerei:polished_willow_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:hexerei_polished_willow_potion_shelf": {
+    "result": "bibliocraft:hexerei_polished_willow_potion_shelf",
+    "count": 1,
+    "ingredients": [
+      "hexerei:polished_willow_slab",
+      "hexerei:polished_willow_slab",
+      "hexerei:polished_willow_slab",
+      "hexerei:polished_willow_planks",
+      "minecraft:glass_bottle",
+      "hexerei:polished_willow_planks",
+      "hexerei:polished_willow_slab",
+      "hexerei:polished_willow_slab",
+      "hexerei:polished_willow_slab"
+    ]
+  },
+  "bibliocraft:hexerei_polished_willow_shelf": {
+    "result": "bibliocraft:hexerei_polished_willow_shelf",
+    "count": 1,
+    "ingredients": [
+      "hexerei:polished_willow_slab",
+      "hexerei:polished_willow_slab",
+      "hexerei:polished_willow_slab",
+      "",
+      "hexerei:polished_willow_planks",
+      "",
+      "hexerei:polished_willow_slab",
+      "hexerei:polished_willow_slab",
+      "hexerei:polished_willow_slab"
+    ]
+  },
+  "bibliocraft:hexerei_polished_willow_table": {
+    "result": "bibliocraft:hexerei_polished_willow_table",
+    "count": 1,
+    "ingredients": [
+      "hexerei:polished_willow_slab",
+      "hexerei:polished_willow_slab",
+      "hexerei:polished_willow_slab",
+      "",
+      "hexerei:polished_willow_planks",
+      "",
+      "",
+      "hexerei:polished_willow_planks",
+      ""
+    ]
+  },
+  "bibliocraft:hexerei_polished_willow_tool_rack": {
+    "result": "bibliocraft:hexerei_polished_willow_tool_rack",
+    "count": 1,
+    "ingredients": [
+      "hexerei:polished_willow_slab",
+      "hexerei:polished_willow_slab",
+      "hexerei:polished_willow_slab",
+      "hexerei:polished_willow_slab",
+      "minecraft:iron_ingot",
+      "hexerei:polished_willow_slab",
+      "hexerei:polished_willow_slab",
+      "hexerei:polished_willow_slab",
+      "hexerei:polished_willow_slab"
+    ]
+  },
+  "bibliocraft:hexerei_polished_witch_hazel_bookcase": {
+    "result": "bibliocraft:hexerei_polished_witch_hazel_bookcase",
+    "count": 1,
+    "ingredients": [
+      "hexerei:polished_witch_hazel_planks",
+      "hexerei:polished_witch_hazel_slab",
+      "hexerei:polished_witch_hazel_planks",
+      "hexerei:polished_witch_hazel_planks",
+      "hexerei:polished_witch_hazel_slab",
+      "hexerei:polished_witch_hazel_planks",
+      "hexerei:polished_witch_hazel_planks",
+      "hexerei:polished_witch_hazel_slab",
+      "hexerei:polished_witch_hazel_planks"
+    ]
+  },
+  "bibliocraft:hexerei_polished_witch_hazel_fancy_armor_stand": {
+    "result": "bibliocraft:hexerei_polished_witch_hazel_fancy_armor_stand",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "hexerei:polished_witch_hazel_slab",
+      "hexerei:polished_witch_hazel_slab",
+      "hexerei:polished_witch_hazel_slab"
+    ]
+  },
+  "bibliocraft:hexerei_polished_witch_hazel_fancy_clock": {
+    "result": "bibliocraft:hexerei_polished_witch_hazel_fancy_clock",
+    "count": 1,
+    "ingredients": [
+      "hexerei:polished_witch_hazel_slab",
+      "minecraft:clock",
+      "hexerei:polished_witch_hazel_slab",
+      "hexerei:polished_witch_hazel_slab",
+      "minecraft:stick",
+      "hexerei:polished_witch_hazel_slab",
+      "hexerei:polished_witch_hazel_slab",
+      "minecraft:copper_ingot",
+      "hexerei:polished_witch_hazel_slab"
+    ]
+  },
+  "bibliocraft:hexerei_polished_witch_hazel_fancy_crafter": {
+    "result": "bibliocraft:hexerei_polished_witch_hazel_fancy_crafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black",
+      "minecraft:crafting_tables",
+      "minecraft:feather",
+      "hexerei:polished_witch_hazel_planks",
+      "minecraft:glass",
+      "hexerei:polished_witch_hazel_planks",
+      "hexerei:polished_witch_hazel_planks",
+      "minecraft:crafter",
+      "hexerei:polished_witch_hazel_planks"
+    ]
+  },
+  "bibliocraft:hexerei_polished_witch_hazel_fancy_sign": {
+    "result": "bibliocraft:hexerei_polished_witch_hazel_fancy_sign",
+    "count": 1,
+    "ingredients": [
+      "hexerei:polished_witch_hazel_planks",
+      "minecraft:paper",
+      "hexerei:polished_witch_hazel_planks",
+      "hexerei:polished_witch_hazel_planks",
+      "minecraft:paper",
+      "hexerei:polished_witch_hazel_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "bibliocraft:hexerei_polished_witch_hazel_grandfather_clock": {
+    "result": "bibliocraft:hexerei_polished_witch_hazel_grandfather_clock",
+    "count": 1,
+    "ingredients": [
+      "bibliocraft:hexerei_polished_witch_hazel_fancy_clock",
+      "bibliocraft:hexerei_polished_witch_hazel_fancy_clock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:hexerei_polished_witch_hazel_label": {
+    "result": "bibliocraft:hexerei_polished_witch_hazel_label",
+    "count": 1,
+    "ingredients": [
+      "hexerei:polished_witch_hazel_slab",
+      "hexerei:polished_witch_hazel_slab",
+      "hexerei:polished_witch_hazel_slab",
+      "hexerei:polished_witch_hazel_slab",
+      "hexerei:polished_witch_hazel_slab",
+      "hexerei:polished_witch_hazel_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:hexerei_polished_witch_hazel_potion_shelf": {
+    "result": "bibliocraft:hexerei_polished_witch_hazel_potion_shelf",
+    "count": 1,
+    "ingredients": [
+      "hexerei:polished_witch_hazel_slab",
+      "hexerei:polished_witch_hazel_slab",
+      "hexerei:polished_witch_hazel_slab",
+      "hexerei:polished_witch_hazel_planks",
+      "minecraft:glass_bottle",
+      "hexerei:polished_witch_hazel_planks",
+      "hexerei:polished_witch_hazel_slab",
+      "hexerei:polished_witch_hazel_slab",
+      "hexerei:polished_witch_hazel_slab"
+    ]
+  },
+  "bibliocraft:hexerei_polished_witch_hazel_shelf": {
+    "result": "bibliocraft:hexerei_polished_witch_hazel_shelf",
+    "count": 1,
+    "ingredients": [
+      "hexerei:polished_witch_hazel_slab",
+      "hexerei:polished_witch_hazel_slab",
+      "hexerei:polished_witch_hazel_slab",
+      "",
+      "hexerei:polished_witch_hazel_planks",
+      "",
+      "hexerei:polished_witch_hazel_slab",
+      "hexerei:polished_witch_hazel_slab",
+      "hexerei:polished_witch_hazel_slab"
+    ]
+  },
+  "bibliocraft:hexerei_polished_witch_hazel_table": {
+    "result": "bibliocraft:hexerei_polished_witch_hazel_table",
+    "count": 1,
+    "ingredients": [
+      "hexerei:polished_witch_hazel_slab",
+      "hexerei:polished_witch_hazel_slab",
+      "hexerei:polished_witch_hazel_slab",
+      "",
+      "hexerei:polished_witch_hazel_planks",
+      "",
+      "",
+      "hexerei:polished_witch_hazel_planks",
+      ""
+    ]
+  },
+  "bibliocraft:hexerei_polished_witch_hazel_tool_rack": {
+    "result": "bibliocraft:hexerei_polished_witch_hazel_tool_rack",
+    "count": 1,
+    "ingredients": [
+      "hexerei:polished_witch_hazel_slab",
+      "hexerei:polished_witch_hazel_slab",
+      "hexerei:polished_witch_hazel_slab",
+      "hexerei:polished_witch_hazel_slab",
+      "minecraft:iron_ingot",
+      "hexerei:polished_witch_hazel_slab",
+      "hexerei:polished_witch_hazel_slab",
+      "hexerei:polished_witch_hazel_slab",
+      "hexerei:polished_witch_hazel_slab"
+    ]
+  },
+  "bibliocraft:hexerei_willow_bookcase": {
+    "result": "bibliocraft:hexerei_willow_bookcase",
+    "count": 1,
+    "ingredients": [
+      "hexerei:willow_planks",
+      "hexerei:willow_slab",
+      "hexerei:willow_planks",
+      "hexerei:willow_planks",
+      "hexerei:willow_slab",
+      "hexerei:willow_planks",
+      "hexerei:willow_planks",
+      "hexerei:willow_slab",
+      "hexerei:willow_planks"
+    ]
+  },
+  "bibliocraft:hexerei_willow_fancy_armor_stand": {
+    "result": "bibliocraft:hexerei_willow_fancy_armor_stand",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "hexerei:willow_slab",
+      "hexerei:willow_slab",
+      "hexerei:willow_slab"
+    ]
+  },
+  "bibliocraft:hexerei_willow_fancy_clock": {
+    "result": "bibliocraft:hexerei_willow_fancy_clock",
+    "count": 1,
+    "ingredients": [
+      "hexerei:willow_slab",
+      "minecraft:clock",
+      "hexerei:willow_slab",
+      "hexerei:willow_slab",
+      "minecraft:stick",
+      "hexerei:willow_slab",
+      "hexerei:willow_slab",
+      "minecraft:copper_ingot",
+      "hexerei:willow_slab"
+    ]
+  },
+  "bibliocraft:hexerei_willow_fancy_crafter": {
+    "result": "bibliocraft:hexerei_willow_fancy_crafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black",
+      "minecraft:crafting_tables",
+      "minecraft:feather",
+      "hexerei:willow_planks",
+      "minecraft:glass",
+      "hexerei:willow_planks",
+      "hexerei:willow_planks",
+      "minecraft:crafter",
+      "hexerei:willow_planks"
+    ]
+  },
+  "bibliocraft:hexerei_willow_fancy_sign": {
+    "result": "bibliocraft:hexerei_willow_fancy_sign",
+    "count": 1,
+    "ingredients": [
+      "hexerei:willow_planks",
+      "minecraft:paper",
+      "hexerei:willow_planks",
+      "hexerei:willow_planks",
+      "minecraft:paper",
+      "hexerei:willow_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "bibliocraft:hexerei_willow_grandfather_clock": {
+    "result": "bibliocraft:hexerei_willow_grandfather_clock",
+    "count": 1,
+    "ingredients": [
+      "bibliocraft:hexerei_willow_fancy_clock",
+      "bibliocraft:hexerei_willow_fancy_clock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:hexerei_willow_label": {
+    "result": "bibliocraft:hexerei_willow_label",
+    "count": 1,
+    "ingredients": [
+      "hexerei:willow_slab",
+      "hexerei:willow_slab",
+      "hexerei:willow_slab",
+      "hexerei:willow_slab",
+      "hexerei:willow_slab",
+      "hexerei:willow_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:hexerei_willow_potion_shelf": {
+    "result": "bibliocraft:hexerei_willow_potion_shelf",
+    "count": 1,
+    "ingredients": [
+      "hexerei:willow_slab",
+      "hexerei:willow_slab",
+      "hexerei:willow_slab",
+      "hexerei:willow_planks",
+      "minecraft:glass_bottle",
+      "hexerei:willow_planks",
+      "hexerei:willow_slab",
+      "hexerei:willow_slab",
+      "hexerei:willow_slab"
+    ]
+  },
+  "bibliocraft:hexerei_willow_shelf": {
+    "result": "bibliocraft:hexerei_willow_shelf",
+    "count": 1,
+    "ingredients": [
+      "hexerei:willow_slab",
+      "hexerei:willow_slab",
+      "hexerei:willow_slab",
+      "",
+      "hexerei:willow_planks",
+      "",
+      "hexerei:willow_slab",
+      "hexerei:willow_slab",
+      "hexerei:willow_slab"
+    ]
+  },
+  "bibliocraft:hexerei_willow_table": {
+    "result": "bibliocraft:hexerei_willow_table",
+    "count": 1,
+    "ingredients": [
+      "hexerei:willow_slab",
+      "hexerei:willow_slab",
+      "hexerei:willow_slab",
+      "",
+      "hexerei:willow_planks",
+      "",
+      "",
+      "hexerei:willow_planks",
+      ""
+    ]
+  },
+  "bibliocraft:hexerei_willow_tool_rack": {
+    "result": "bibliocraft:hexerei_willow_tool_rack",
+    "count": 1,
+    "ingredients": [
+      "hexerei:willow_slab",
+      "hexerei:willow_slab",
+      "hexerei:willow_slab",
+      "hexerei:willow_slab",
+      "minecraft:iron_ingot",
+      "hexerei:willow_slab",
+      "hexerei:willow_slab",
+      "hexerei:willow_slab",
+      "hexerei:willow_slab"
+    ]
+  },
+  "bibliocraft:hexerei_witch_hazel_bookcase": {
+    "result": "bibliocraft:hexerei_witch_hazel_bookcase",
+    "count": 1,
+    "ingredients": [
+      "hexerei:witch_hazel_planks",
+      "hexerei:witch_hazel_slab",
+      "hexerei:witch_hazel_planks",
+      "hexerei:witch_hazel_planks",
+      "hexerei:witch_hazel_slab",
+      "hexerei:witch_hazel_planks",
+      "hexerei:witch_hazel_planks",
+      "hexerei:witch_hazel_slab",
+      "hexerei:witch_hazel_planks"
+    ]
+  },
+  "bibliocraft:hexerei_witch_hazel_fancy_armor_stand": {
+    "result": "bibliocraft:hexerei_witch_hazel_fancy_armor_stand",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "hexerei:witch_hazel_slab",
+      "hexerei:witch_hazel_slab",
+      "hexerei:witch_hazel_slab"
+    ]
+  },
+  "bibliocraft:hexerei_witch_hazel_fancy_clock": {
+    "result": "bibliocraft:hexerei_witch_hazel_fancy_clock",
+    "count": 1,
+    "ingredients": [
+      "hexerei:witch_hazel_slab",
+      "minecraft:clock",
+      "hexerei:witch_hazel_slab",
+      "hexerei:witch_hazel_slab",
+      "minecraft:stick",
+      "hexerei:witch_hazel_slab",
+      "hexerei:witch_hazel_slab",
+      "minecraft:copper_ingot",
+      "hexerei:witch_hazel_slab"
+    ]
+  },
+  "bibliocraft:hexerei_witch_hazel_fancy_crafter": {
+    "result": "bibliocraft:hexerei_witch_hazel_fancy_crafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black",
+      "minecraft:crafting_tables",
+      "minecraft:feather",
+      "hexerei:witch_hazel_planks",
+      "minecraft:glass",
+      "hexerei:witch_hazel_planks",
+      "hexerei:witch_hazel_planks",
+      "minecraft:crafter",
+      "hexerei:witch_hazel_planks"
+    ]
+  },
+  "bibliocraft:hexerei_witch_hazel_fancy_sign": {
+    "result": "bibliocraft:hexerei_witch_hazel_fancy_sign",
+    "count": 1,
+    "ingredients": [
+      "hexerei:witch_hazel_planks",
+      "minecraft:paper",
+      "hexerei:witch_hazel_planks",
+      "hexerei:witch_hazel_planks",
+      "minecraft:paper",
+      "hexerei:witch_hazel_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "bibliocraft:hexerei_witch_hazel_grandfather_clock": {
+    "result": "bibliocraft:hexerei_witch_hazel_grandfather_clock",
+    "count": 1,
+    "ingredients": [
+      "bibliocraft:hexerei_witch_hazel_fancy_clock",
+      "bibliocraft:hexerei_witch_hazel_fancy_clock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:hexerei_witch_hazel_label": {
+    "result": "bibliocraft:hexerei_witch_hazel_label",
+    "count": 1,
+    "ingredients": [
+      "hexerei:witch_hazel_slab",
+      "hexerei:witch_hazel_slab",
+      "hexerei:witch_hazel_slab",
+      "hexerei:witch_hazel_slab",
+      "hexerei:witch_hazel_slab",
+      "hexerei:witch_hazel_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:hexerei_witch_hazel_potion_shelf": {
+    "result": "bibliocraft:hexerei_witch_hazel_potion_shelf",
+    "count": 1,
+    "ingredients": [
+      "hexerei:witch_hazel_slab",
+      "hexerei:witch_hazel_slab",
+      "hexerei:witch_hazel_slab",
+      "hexerei:witch_hazel_planks",
+      "minecraft:glass_bottle",
+      "hexerei:witch_hazel_planks",
+      "hexerei:witch_hazel_slab",
+      "hexerei:witch_hazel_slab",
+      "hexerei:witch_hazel_slab"
+    ]
+  },
+  "bibliocraft:hexerei_witch_hazel_shelf": {
+    "result": "bibliocraft:hexerei_witch_hazel_shelf",
+    "count": 1,
+    "ingredients": [
+      "hexerei:witch_hazel_slab",
+      "hexerei:witch_hazel_slab",
+      "hexerei:witch_hazel_slab",
+      "",
+      "hexerei:witch_hazel_planks",
+      "",
+      "hexerei:witch_hazel_slab",
+      "hexerei:witch_hazel_slab",
+      "hexerei:witch_hazel_slab"
+    ]
+  },
+  "bibliocraft:hexerei_witch_hazel_table": {
+    "result": "bibliocraft:hexerei_witch_hazel_table",
+    "count": 1,
+    "ingredients": [
+      "hexerei:witch_hazel_slab",
+      "hexerei:witch_hazel_slab",
+      "hexerei:witch_hazel_slab",
+      "",
+      "hexerei:witch_hazel_planks",
+      "",
+      "",
+      "hexerei:witch_hazel_planks",
+      ""
+    ]
+  },
+  "bibliocraft:hexerei_witch_hazel_tool_rack": {
+    "result": "bibliocraft:hexerei_witch_hazel_tool_rack",
+    "count": 1,
+    "ingredients": [
+      "hexerei:witch_hazel_slab",
+      "hexerei:witch_hazel_slab",
+      "hexerei:witch_hazel_slab",
+      "hexerei:witch_hazel_slab",
+      "minecraft:iron_ingot",
+      "hexerei:witch_hazel_slab",
+      "hexerei:witch_hazel_slab",
+      "hexerei:witch_hazel_slab",
+      "hexerei:witch_hazel_slab"
+    ]
+  },
+  "cookingforblockheads:heating_unit": {
+    "result": "cookingforblockheads:heating_unit",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron",
+      "minecraft:iron",
+      "minecraft:iron",
+      "minecraft:iron_ingot",
+      "minecraft:comparator",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:heavy_engineering": {
+    "result": "immersiveengineering:heavy_engineering",
+    "count": 4,
+    "ingredients": [
+      "minecraft:steel",
+      "immersiveengineering:component_steel",
+      "minecraft:steel",
+      "immersiveengineering:component_steel",
+      "minecraft:electrum",
+      "immersiveengineering:component_steel",
+      "minecraft:steel",
+      "immersiveengineering:component_steel",
+      "minecraft:steel"
+    ]
+  },
+  "immersiveengineering:hempcrete_brick": {
+    "result": "immersiveengineering:hempcrete_brick",
+    "count": 1,
+    "ingredients": [
+      "immersiveengineering:slab_hempcrete_brick",
+      "",
+      "",
+      "immersiveengineering:slab_hempcrete_brick",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:hempcrete": {
+    "result": "immersiveengineering:hempcrete",
+    "count": 1,
+    "ingredients": [
+      "immersiveengineering:slab_hempcrete",
+      "",
+      "",
+      "immersiveengineering:slab_hempcrete",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:hempcrete_pillar": {
+    "result": "immersiveengineering:hempcrete_pillar",
+    "count": 2,
+    "ingredients": [
+      "immersiveengineering:hempcrete",
+      "",
+      "",
+      "immersiveengineering:hempcrete",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:hemp_fabric": {
+    "result": "immersiveengineering:hemp_fabric",
+    "count": 1,
+    "ingredients": [
+      "minecraft:fiber_hemp",
+      "minecraft:fiber_hemp",
+      "minecraft:fiber_hemp",
+      "minecraft:fiber_hemp",
+      "minecraft:stick",
+      "minecraft:fiber_hemp",
+      "minecraft:fiber_hemp",
+      "minecraft:fiber_hemp",
+      "minecraft:fiber_hemp"
+    ]
+  },
+  "ironfurnaces:heater": {
+    "result": "ironfurnaces:heater",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone",
+      "minecraft:comparator",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:furnace",
+      "minecraft:stone"
+    ]
+  },
+  "irons_spellbooks:heavy_chain_necklace": {
+    "result": "irons_spellbooks:heavy_chain_necklace",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "irons_spellbooks:mithril_scrap",
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      ""
+    ]
+  },
+  "mekanismgenerators:heat_generator": {
+    "result": "mekanismgenerators:heat_generator",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:oak_planks",
+      "minecraft:osmium",
+      "minecraft:oak_planks",
+      "minecraft:copper_ingot",
+      "minecraft:furnace",
+      "minecraft:copper_ingot"
+    ]
+  },
+  "minecraft:heavy_weighted_pressure_plate": {
+    "result": "minecraft:heavy_weighted_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:heatproof_machine_casing": {
+    "result": "modern_industrialization:heatproof_machine_casing",
+    "count": 1,
+    "ingredients": [
+      "minecraft:invar",
+      "minecraft:invar",
+      "minecraft:invar",
+      "minecraft:invar",
+      "minecraft:invar",
+      "minecraft:invar",
+      "minecraft:invar",
+      "minecraft:invar",
+      "minecraft:invar"
+    ]
+  },
+  "modern_industrialization:heat_exchanger": {
+    "result": "modern_industrialization:heat_exchanger",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:frostproof_machine_casing",
+      "modern_industrialization:small_heat_exchanger",
+      "modern_industrialization:heatproof_machine_casing",
+      "modern_industrialization:stainless_steel_machine_casing_pipe",
+      "modern_industrialization:turbo_machine_hull",
+      "modern_industrialization:stainless_steel_machine_casing_pipe",
+      "modern_industrialization:frostproof_machine_casing",
+      "modern_industrialization:small_heat_exchanger",
+      "modern_industrialization:heatproof_machine_casing"
+    ]
+  },
+  "modern_industrialization:he_mox_block": {
+    "result": "modern_industrialization:he_mox_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:he_mox",
+      "minecraft:he_mox",
+      "minecraft:he_mox",
+      "minecraft:he_mox",
+      "modern_industrialization:he_mox_ingot",
+      "minecraft:he_mox",
+      "minecraft:he_mox",
+      "minecraft:he_mox",
+      "minecraft:he_mox"
+    ]
+  },
+  "modern_industrialization:he_mox_dust": {
+    "result": "modern_industrialization:he_mox_dust",
+    "count": 1,
+    "ingredients": [
+      "minecraft:he_mox",
+      "minecraft:he_mox",
+      "minecraft:he_mox",
+      "minecraft:he_mox",
+      "modern_industrialization:he_mox_tiny_dust",
+      "minecraft:he_mox",
+      "minecraft:he_mox",
+      "minecraft:he_mox",
+      "minecraft:he_mox"
+    ]
+  },
+  "modern_industrialization:he_mox_ingot": {
+    "result": "modern_industrialization:he_mox_ingot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:he_mox",
+      "minecraft:he_mox",
+      "minecraft:he_mox",
+      "minecraft:he_mox",
+      "modern_industrialization:he_mox_nugget",
+      "minecraft:he_mox",
+      "minecraft:he_mox",
+      "minecraft:he_mox",
+      "minecraft:he_mox"
+    ]
+  },
+  "modern_industrialization:he_mox_nugget": {
+    "result": "modern_industrialization:he_mox_nugget",
+    "count": 9,
+    "ingredients": [
+      "modern_industrialization:he_mox_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:he_mox_tiny_dust": {
+    "result": "modern_industrialization:he_mox_tiny_dust",
+    "count": 9,
+    "ingredients": [
+      "modern_industrialization:he_mox_dust",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:he_uranium_block": {
+    "result": "modern_industrialization:he_uranium_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:he_uranium",
+      "minecraft:he_uranium",
+      "minecraft:he_uranium",
+      "minecraft:he_uranium",
+      "modern_industrialization:he_uranium_ingot",
+      "minecraft:he_uranium",
+      "minecraft:he_uranium",
+      "minecraft:he_uranium",
+      "minecraft:he_uranium"
+    ]
+  },
+  "modern_industrialization:he_uranium_dust": {
+    "result": "modern_industrialization:he_uranium_dust",
+    "count": 1,
+    "ingredients": [
+      "minecraft:he_uranium",
+      "minecraft:he_uranium",
+      "minecraft:he_uranium",
+      "minecraft:he_uranium",
+      "modern_industrialization:he_uranium_tiny_dust",
+      "minecraft:he_uranium",
+      "minecraft:he_uranium",
+      "minecraft:he_uranium",
+      "minecraft:he_uranium"
+    ]
+  },
+  "modern_industrialization:he_uranium_ingot": {
+    "result": "modern_industrialization:he_uranium_ingot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:he_uranium",
+      "minecraft:he_uranium",
+      "minecraft:he_uranium",
+      "minecraft:he_uranium",
+      "modern_industrialization:he_uranium_nugget",
+      "minecraft:he_uranium",
+      "minecraft:he_uranium",
+      "minecraft:he_uranium",
+      "minecraft:he_uranium"
+    ]
+  },
+  "modern_industrialization:he_uranium_nugget": {
+    "result": "modern_industrialization:he_uranium_nugget",
+    "count": 9,
+    "ingredients": [
+      "modern_industrialization:he_uranium_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:he_uranium_tiny_dust": {
+    "result": "modern_industrialization:he_uranium_tiny_dust",
+    "count": 9,
+    "ingredients": [
+      "modern_industrialization:he_uranium_dust",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:heart_of_the_sea": {
+    "result": "minecraft:heart_of_the_sea",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:squid_essence",
+      "mysticalagriculture:diamond_essence",
+      "mysticalagriculture:prismarine_essence",
+      "mysticalagriculture:diamond_essence",
+      "minecraft:nautilus_shell",
+      "mysticalagriculture:diamond_essence",
+      "mysticalagriculture:prismarine_essence",
+      "mysticalagriculture:diamond_essence",
+      "mysticalagriculture:squid_essence"
+    ]
+  },
+  "tconstruct:hepatizon_ingot": {
+    "result": "tconstruct:hepatizon_ingot",
+    "count": 2,
+    "ingredients": [
+      "mysticalagriculture:hepatizon_essence",
+      "mysticalagriculture:hepatizon_essence",
+      "mysticalagriculture:hepatizon_essence",
+      "mysticalagriculture:hepatizon_essence",
+      "",
+      "mysticalagriculture:hepatizon_essence",
+      "mysticalagriculture:hepatizon_essence",
+      "mysticalagriculture:hepatizon_essence",
+      "mysticalagriculture:hepatizon_essence"
+    ]
+  },
+  "pamhc2foodextended:heartybreakfastitem": {
+    "result": "pamhc2foodextended:heartybreakfastitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_skillet",
+      "minecraft:rawpork",
+      "minecraft:boiledegg",
+      "minecraft:toast",
+      "pamhc2foodextended:potatocakesitem",
+      "pamhc2foodextended:chocolatemilkitem",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:herbbutterparsnipsitem": {
+    "result": "pamhc2foodextended:herbbutterparsnipsitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:parsnip",
+      "minecraft:butter",
+      "minecraft:spiceleaf",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:herbcheeseballitem": {
+    "result": "pamhc2foodextended:herbcheeseballitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:cheese",
+      "minecraft:spiceleaf",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pneumaticcraft:heat_frame": {
+    "result": "pneumaticcraft:heat_frame",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:furnace",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "pneumaticcraft:heat_pipe": {
+    "result": "pneumaticcraft:heat_pipe",
+    "count": 6,
+    "ingredients": [
+      "pneumaticcraft:thermal_lagging",
+      "pneumaticcraft:thermal_lagging",
+      "pneumaticcraft:thermal_lagging",
+      "minecraft:heat_pipe_conductors",
+      "minecraft:heat_pipe_conductors",
+      "minecraft:heat_pipe_conductors",
+      "pneumaticcraft:thermal_lagging",
+      "pneumaticcraft:thermal_lagging",
+      "pneumaticcraft:thermal_lagging"
+    ]
+  },
+  "pneumaticcraft:heat_sink": {
+    "result": "pneumaticcraft:heat_sink",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_bars",
+      "minecraft:iron_bars",
+      "minecraft:iron_bars",
+      "minecraft:iron_ingot",
+      "minecraft:copper_ingot",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivebees:heated_centrifuge": {
+    "result": "productivebees:heated_centrifuge",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "productivelib:upgrade_time",
+      "productivebees:inactive_dragon_egg",
+      "productivelib:upgrade_time",
+      "minecraft:copper",
+      "productivebees:powered_centrifuge",
+      "minecraft:copper"
+    ]
+  },
+  "reliquary:hero_medallion": {
+    "result": "reliquary:hero_medallion",
+    "count": 1,
+    "ingredients": [
+      "reliquary:nebulous_heart",
+      "reliquary:fortune_coin",
+      "reliquary:witch_hat",
+      "reliquary:infernal_tear",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "rootsclassic:healing_poultice": {
+    "result": "rootsclassic:healing_poultice",
+    "count": 2,
+    "ingredients": [
+      "rootsclassic:redcurrant",
+      "minecraft:paper",
+      "rootsclassic:pestle",
+      "rootsclassic:verdant_sprig",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgear:helmet_blueprint": {
+    "result": "silentgear:helmet_blueprint",
+    "count": 1,
+    "ingredients": [
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgear:helmet_template": {
+    "result": "silentgear:helmet_template",
+    "count": 1,
+    "ingredients": [
+      "minecraft:template_boards",
+      "minecraft:template_boards",
+      "minecraft:template_boards",
+      "minecraft:template_boards",
+      "",
+      "minecraft:template_boards",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgems:heliodor": {
+    "result": "silentgems:heliodor",
+    "count": 9,
+    "ingredients": [
+      "silentgems:heliodor_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgems:heliodor_bricks": {
+    "result": "silentgems:heliodor_bricks",
+    "count": 12,
+    "ingredients": [
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:heliodor",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks"
+    ]
+  },
+  "silentgems:heliodor_block": {
+    "result": "silentgems:heliodor_block",
+    "count": 1,
+    "ingredients": [
+      "silentgems:heliodor",
+      "silentgems:heliodor",
+      "silentgems:heliodor",
+      "silentgems:heliodor",
+      "silentgems:heliodor",
+      "silentgems:heliodor",
+      "silentgems:heliodor",
+      "silentgems:heliodor",
+      "silentgems:heliodor"
+    ]
+  },
+  "silentgems:heliodor_glass": {
+    "result": "silentgems:heliodor_glass",
+    "count": 12,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:heliodor",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass"
+    ]
+  },
+  "silentgems:heliodor_lamp": {
+    "result": "silentgems:heliodor_lamp",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:heliodor",
+      "minecraft:stone",
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:redstone"
+    ]
+  },
+  "silentgems:heliodor_lamp_inverted_on": {
+    "result": "silentgems:heliodor_lamp_inverted_on",
+    "count": 1,
+    "ingredients": [
+      "silentgems:heliodor_lamp",
+      "minecraft:redstone_torch",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgems:heliodor_redstone_teleporter": {
+    "result": "silentgems:heliodor_redstone_teleporter",
+    "count": 1,
+    "ingredients": [
+      "silentgems:heliodor_teleporter",
+      "minecraft:redstone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgems:heliodor_small_bricks": {
+    "result": "silentgems:heliodor_small_bricks",
+    "count": 12,
+    "ingredients": [
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:heliodor",
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:bricks"
+    ]
+  },
+  "silentgems:heliodor_teleporter": {
+    "result": "silentgems:heliodor_teleporter",
+    "count": 2,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "minecraft:heliodor",
+      "minecraft:gold_ingot",
+      "minecraft:heliodor",
+      "silentgems:chaos_essence_block",
+      "minecraft:heliodor",
+      "",
+      "minecraft:ender_pearl",
+      ""
+    ]
+  },
+  "silentgems:heliodor_tiles": {
+    "result": "silentgems:heliodor_tiles",
+    "count": 12,
+    "ingredients": [
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:heliodor",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles"
+    ]
+  }
+}

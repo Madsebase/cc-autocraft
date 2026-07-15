@@ -1,0 +1,527 @@
+{
+  "iceandfire:hippocampus_slapper": {
+    "result": "iceandfire:hippocampus_slapper",
+    "count": 1,
+    "ingredients": [
+      "",
+      "iceandfire:hippocampus_fin",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:hippogryph_sword": {
+    "result": "iceandfire:hippogryph_sword",
+    "count": 1,
+    "ingredients": [
+      "",
+      "iceandfire:hippogryph_talon",
+      "",
+      "minecraft:feather",
+      "minecraft:iron_ingot",
+      "minecraft:feather",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "modern_industrialization:highly_advanced_machine_casing": {
+    "result": "modern_industrialization:highly_advanced_machine_casing",
+    "count": 1,
+    "ingredients": [
+      "minecraft:titanium",
+      "minecraft:chromium",
+      "minecraft:titanium",
+      "minecraft:chromium",
+      "modern_industrialization:turbo_machine_hull",
+      "minecraft:chromium",
+      "minecraft:titanium",
+      "minecraft:chromium",
+      "minecraft:titanium"
+    ]
+  },
+  "modern_industrialization:highly_advanced_machine_hull": {
+    "result": "modern_industrialization:highly_advanced_machine_hull",
+    "count": 1,
+    "ingredients": [
+      "",
+      "modern_industrialization:processing_unit",
+      "",
+      "modern_industrialization:cadmium_battery",
+      "modern_industrialization:highly_advanced_machine_casing",
+      "modern_industrialization:cadmium_battery",
+      "modern_industrialization:annealed_copper_cable",
+      "modern_industrialization:annealed_copper_cable",
+      "modern_industrialization:annealed_copper_cable"
+    ]
+  },
+  "modern_industrialization:high_pressure_advanced_large_steam_boiler": {
+    "result": "modern_industrialization:high_pressure_advanced_large_steam_boiler",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:large_pump",
+      "modern_industrialization:processing_unit",
+      "modern_industrialization:large_pump",
+      "modern_industrialization:large_advanced_pump",
+      "modern_industrialization:high_pressure_large_steam_boiler",
+      "modern_industrialization:large_advanced_pump",
+      "modern_industrialization:large_pump",
+      "modern_industrialization:processing_unit",
+      "modern_industrialization:large_pump"
+    ]
+  },
+  "modern_industrialization:high_pressure_large_steam_boiler": {
+    "result": "modern_industrialization:high_pressure_large_steam_boiler",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:advanced_pump",
+      "modern_industrialization:digital_circuit",
+      "modern_industrialization:advanced_pump",
+      "modern_industrialization:clean_stainless_steel_machine_casing",
+      "modern_industrialization:advanced_large_steam_boiler",
+      "modern_industrialization:clean_stainless_steel_machine_casing",
+      "modern_industrialization:advanced_pump",
+      "modern_industrialization:digital_circuit",
+      "modern_industrialization:advanced_pump"
+    ]
+  },
+  "modern_industrialization:highly_advanced_fluid_input_hatch": {
+    "result": "modern_industrialization:highly_advanced_fluid_input_hatch",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:titanium_tank",
+      "",
+      "",
+      "modern_industrialization:highly_advanced_machine_hull",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:highly_advanced_fluid_output_hatch": {
+    "result": "modern_industrialization:highly_advanced_fluid_output_hatch",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:highly_advanced_machine_hull",
+      "",
+      "",
+      "modern_industrialization:titanium_tank",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:highly_advanced_item_input_hatch": {
+    "result": "modern_industrialization:highly_advanced_item_input_hatch",
+    "count": 1,
+    "ingredients": [
+      "minecraft:hopper",
+      "",
+      "",
+      "modern_industrialization:highly_advanced_machine_hull",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:highly_advanced_item_output_hatch": {
+    "result": "modern_industrialization:highly_advanced_item_output_hatch",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:highly_advanced_machine_hull",
+      "",
+      "",
+      "minecraft:hopper",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:high_pressure_steam_boiler_tank": {
+    "result": "railcraft:high_pressure_steam_boiler_tank",
+    "count": 2,
+    "ingredients": [
+      "minecraft:steel",
+      "",
+      "",
+      "minecraft:invar",
+      "",
+      "",
+      "minecraft:steel",
+      "",
+      ""
+    ]
+  },
+  "railcraft:high_speed_activator_track": {
+    "result": "railcraft:high_speed_activator_track",
+    "count": 1,
+    "ingredients": [
+      "railcraft:activator_track_kit",
+      "railcraft:high_speed_track",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:high_speed_booster_track": {
+    "result": "railcraft:high_speed_booster_track",
+    "count": 1,
+    "ingredients": [
+      "railcraft:booster_track_kit",
+      "railcraft:high_speed_track",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:high_speed_detector_track": {
+    "result": "railcraft:high_speed_detector_track",
+    "count": 1,
+    "ingredients": [
+      "railcraft:detector_track_kit",
+      "railcraft:high_speed_track",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:high_speed_electric_activator_track": {
+    "result": "railcraft:high_speed_electric_activator_track",
+    "count": 1,
+    "ingredients": [
+      "railcraft:activator_track_kit",
+      "railcraft:high_speed_electric_track",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:high_speed_electric_booster_track": {
+    "result": "railcraft:high_speed_electric_booster_track",
+    "count": 1,
+    "ingredients": [
+      "railcraft:booster_track_kit",
+      "railcraft:high_speed_electric_track",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:high_speed_electric_detector_track": {
+    "result": "railcraft:high_speed_electric_detector_track",
+    "count": 1,
+    "ingredients": [
+      "railcraft:detector_track_kit",
+      "railcraft:high_speed_electric_track",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:high_speed_electric_junction_track": {
+    "result": "railcraft:high_speed_electric_junction_track",
+    "count": 16,
+    "ingredients": [
+      "railcraft:high_speed_rail",
+      "railcraft:electric_rail",
+      "railcraft:high_speed_rail",
+      "railcraft:electric_rail",
+      "railcraft:stone_railbed",
+      "railcraft:electric_rail",
+      "railcraft:high_speed_rail",
+      "railcraft:electric_rail",
+      "railcraft:high_speed_rail"
+    ]
+  },
+  "railcraft:high_speed_electric_locking_track": {
+    "result": "railcraft:high_speed_electric_locking_track",
+    "count": 1,
+    "ingredients": [
+      "railcraft:locking_track_kit",
+      "railcraft:high_speed_electric_track",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:high_speed_electric_locomotive_track": {
+    "result": "railcraft:high_speed_electric_locomotive_track",
+    "count": 1,
+    "ingredients": [
+      "railcraft:locomotive_track_kit",
+      "railcraft:high_speed_electric_track",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:high_speed_electric_throttle_track": {
+    "result": "railcraft:high_speed_electric_throttle_track",
+    "count": 1,
+    "ingredients": [
+      "railcraft:throttle_track_kit",
+      "railcraft:high_speed_electric_track",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:high_speed_electric_track": {
+    "result": "railcraft:high_speed_electric_track",
+    "count": 32,
+    "ingredients": [
+      "railcraft:high_speed_rail",
+      "railcraft:electric_rail",
+      "railcraft:high_speed_rail",
+      "railcraft:high_speed_rail",
+      "railcraft:stone_railbed",
+      "railcraft:high_speed_rail",
+      "railcraft:high_speed_rail",
+      "railcraft:electric_rail",
+      "railcraft:high_speed_rail"
+    ]
+  },
+  "railcraft:high_speed_electric_transition_track": {
+    "result": "railcraft:high_speed_electric_transition_track",
+    "count": 1,
+    "ingredients": [
+      "railcraft:transition_track_kit",
+      "railcraft:high_speed_electric_track",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:high_speed_electric_turnout_track": {
+    "result": "railcraft:high_speed_electric_turnout_track",
+    "count": 16,
+    "ingredients": [
+      "railcraft:high_speed_rail",
+      "railcraft:stone_railbed",
+      "railcraft:high_speed_rail",
+      "railcraft:high_speed_rail",
+      "railcraft:electric_rail",
+      "railcraft:high_speed_rail",
+      "railcraft:high_speed_rail",
+      "railcraft:electric_rail",
+      "railcraft:high_speed_rail"
+    ]
+  },
+  "railcraft:high_speed_electric_whistle_track": {
+    "result": "railcraft:high_speed_electric_whistle_track",
+    "count": 1,
+    "ingredients": [
+      "railcraft:whistle_track_kit",
+      "railcraft:high_speed_electric_track",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:high_speed_electric_wye_track": {
+    "result": "railcraft:high_speed_electric_wye_track",
+    "count": 16,
+    "ingredients": [
+      "railcraft:high_speed_rail",
+      "railcraft:electric_rail",
+      "railcraft:high_speed_rail",
+      "railcraft:high_speed_rail",
+      "railcraft:high_speed_rail",
+      "railcraft:stone_railbed",
+      "railcraft:high_speed_rail",
+      "railcraft:electric_rail",
+      "railcraft:high_speed_rail"
+    ]
+  },
+  "railcraft:high_speed_junction_track": {
+    "result": "railcraft:high_speed_junction_track",
+    "count": 16,
+    "ingredients": [
+      "railcraft:high_speed_rail",
+      "railcraft:high_speed_rail",
+      "railcraft:high_speed_rail",
+      "railcraft:high_speed_rail",
+      "railcraft:stone_railbed",
+      "railcraft:high_speed_rail",
+      "railcraft:high_speed_rail",
+      "railcraft:high_speed_rail",
+      "railcraft:high_speed_rail"
+    ]
+  },
+  "railcraft:high_speed_locking_track": {
+    "result": "railcraft:high_speed_locking_track",
+    "count": 1,
+    "ingredients": [
+      "railcraft:locking_track_kit",
+      "railcraft:high_speed_track",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:high_speed_locomotive_track": {
+    "result": "railcraft:high_speed_locomotive_track",
+    "count": 1,
+    "ingredients": [
+      "railcraft:locomotive_track_kit",
+      "railcraft:high_speed_track",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:high_speed_throttle_track": {
+    "result": "railcraft:high_speed_throttle_track",
+    "count": 1,
+    "ingredients": [
+      "railcraft:throttle_track_kit",
+      "railcraft:high_speed_track",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:high_speed_track": {
+    "result": "railcraft:high_speed_track",
+    "count": 32,
+    "ingredients": [
+      "railcraft:high_speed_rail",
+      "",
+      "railcraft:high_speed_rail",
+      "railcraft:high_speed_rail",
+      "railcraft:stone_railbed",
+      "railcraft:high_speed_rail",
+      "railcraft:high_speed_rail",
+      "",
+      "railcraft:high_speed_rail"
+    ]
+  },
+  "railcraft:high_speed_transition_track": {
+    "result": "railcraft:high_speed_transition_track",
+    "count": 1,
+    "ingredients": [
+      "railcraft:transition_track_kit",
+      "railcraft:high_speed_track",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:high_speed_turnout_track": {
+    "result": "railcraft:high_speed_turnout_track",
+    "count": 16,
+    "ingredients": [
+      "railcraft:high_speed_rail",
+      "railcraft:stone_railbed",
+      "railcraft:high_speed_rail",
+      "railcraft:high_speed_rail",
+      "railcraft:high_speed_rail",
+      "railcraft:high_speed_rail",
+      "railcraft:high_speed_rail",
+      "railcraft:high_speed_rail",
+      "railcraft:high_speed_rail"
+    ]
+  },
+  "railcraft:high_speed_whistle_track": {
+    "result": "railcraft:high_speed_whistle_track",
+    "count": 1,
+    "ingredients": [
+      "railcraft:whistle_track_kit",
+      "railcraft:high_speed_track",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:high_speed_wye_track": {
+    "result": "railcraft:high_speed_wye_track",
+    "count": 16,
+    "ingredients": [
+      "railcraft:high_speed_rail",
+      "railcraft:high_speed_rail",
+      "railcraft:high_speed_rail",
+      "railcraft:high_speed_rail",
+      "railcraft:high_speed_rail",
+      "railcraft:stone_railbed",
+      "railcraft:high_speed_rail",
+      "railcraft:high_speed_rail",
+      "railcraft:high_speed_rail"
+    ]
+  }
+}

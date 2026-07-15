@@ -1,0 +1,5897 @@
+{
+  "ae2:fuzzy_card": {
+    "result": "ae2:fuzzy_card",
+    "count": 1,
+    "ingredients": [
+      "ae2:advanced_card",
+      "minecraft:white_wool",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:furnace_minecart": {
+    "result": "minecraft:furnace_minecart",
+    "count": 1,
+    "ingredients": [
+      "minecraft:furnace",
+      "minecraft:minecart",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "enderio:fused_quartz_a": {
+    "result": "enderio:fused_quartz_a",
+    "count": 8,
+    "ingredients": [
+      "enderio:fused_quartz_na",
+      "enderio:fused_quartz_na",
+      "enderio:fused_quartz_na",
+      "enderio:fused_quartz_na",
+      "minecraft:redstone_torch",
+      "enderio:fused_quartz_na",
+      "enderio:fused_quartz_na",
+      "enderio:fused_quartz_na",
+      "enderio:fused_quartz_na"
+    ]
+  },
+  "enderio:fused_quartz_da": {
+    "result": "enderio:fused_quartz_da",
+    "count": 8,
+    "ingredients": [
+      "enderio:fused_quartz_dna",
+      "enderio:fused_quartz_dna",
+      "enderio:fused_quartz_dna",
+      "enderio:fused_quartz_dna",
+      "minecraft:redstone_torch",
+      "enderio:fused_quartz_dna",
+      "enderio:fused_quartz_dna",
+      "enderio:fused_quartz_dna",
+      "enderio:fused_quartz_dna"
+    ]
+  },
+  "enderio:fused_quartz_dm": {
+    "result": "enderio:fused_quartz_dm",
+    "count": 8,
+    "ingredients": [
+      "enderio:fused_quartz_dnm",
+      "enderio:fused_quartz_dnm",
+      "enderio:fused_quartz_dnm",
+      "enderio:fused_quartz_dnm",
+      "minecraft:redstone_torch",
+      "enderio:fused_quartz_dnm",
+      "enderio:fused_quartz_dnm",
+      "enderio:fused_quartz_dnm",
+      "enderio:fused_quartz_dnm"
+    ]
+  },
+  "enderio:fused_quartz_dp": {
+    "result": "enderio:fused_quartz_dp",
+    "count": 8,
+    "ingredients": [
+      "enderio:fused_quartz_dnp",
+      "enderio:fused_quartz_dnp",
+      "enderio:fused_quartz_dnp",
+      "enderio:fused_quartz_dnp",
+      "minecraft:redstone_torch",
+      "enderio:fused_quartz_dnp",
+      "enderio:fused_quartz_dnp",
+      "enderio:fused_quartz_dnp",
+      "enderio:fused_quartz_dnp"
+    ]
+  },
+  "enderio:fused_quartz_ea": {
+    "result": "enderio:fused_quartz_ea",
+    "count": 8,
+    "ingredients": [
+      "enderio:fused_quartz_ena",
+      "enderio:fused_quartz_ena",
+      "enderio:fused_quartz_ena",
+      "enderio:fused_quartz_ena",
+      "minecraft:redstone_torch",
+      "enderio:fused_quartz_ena",
+      "enderio:fused_quartz_ena",
+      "enderio:fused_quartz_ena",
+      "enderio:fused_quartz_ena"
+    ]
+  },
+  "enderio:fused_quartz_em": {
+    "result": "enderio:fused_quartz_em",
+    "count": 8,
+    "ingredients": [
+      "enderio:fused_quartz_enm",
+      "enderio:fused_quartz_enm",
+      "enderio:fused_quartz_enm",
+      "enderio:fused_quartz_enm",
+      "minecraft:redstone_torch",
+      "enderio:fused_quartz_enm",
+      "enderio:fused_quartz_enm",
+      "enderio:fused_quartz_enm",
+      "enderio:fused_quartz_enm"
+    ]
+  },
+  "enderio:fused_quartz_ep": {
+    "result": "enderio:fused_quartz_ep",
+    "count": 8,
+    "ingredients": [
+      "enderio:fused_quartz_enp",
+      "enderio:fused_quartz_enp",
+      "enderio:fused_quartz_enp",
+      "enderio:fused_quartz_enp",
+      "minecraft:redstone_torch",
+      "enderio:fused_quartz_enp",
+      "enderio:fused_quartz_enp",
+      "enderio:fused_quartz_enp",
+      "enderio:fused_quartz_enp"
+    ]
+  },
+  "enderio:fused_quartz_m": {
+    "result": "enderio:fused_quartz_m",
+    "count": 8,
+    "ingredients": [
+      "enderio:fused_quartz_nm",
+      "enderio:fused_quartz_nm",
+      "enderio:fused_quartz_nm",
+      "enderio:fused_quartz_nm",
+      "minecraft:redstone_torch",
+      "enderio:fused_quartz_nm",
+      "enderio:fused_quartz_nm",
+      "enderio:fused_quartz_nm",
+      "enderio:fused_quartz_nm"
+    ]
+  },
+  "enderio:fused_quartz_p": {
+    "result": "enderio:fused_quartz_p",
+    "count": 8,
+    "ingredients": [
+      "enderio:fused_quartz_np",
+      "enderio:fused_quartz_np",
+      "enderio:fused_quartz_np",
+      "enderio:fused_quartz_np",
+      "minecraft:redstone_torch",
+      "enderio:fused_quartz_np",
+      "enderio:fused_quartz_np",
+      "enderio:fused_quartz_np",
+      "enderio:fused_quartz_np"
+    ]
+  },
+  "enderio:fused_quartz_dna": {
+    "result": "enderio:fused_quartz_dna",
+    "count": 8,
+    "ingredients": [
+      "enderio:fused_quartz_da",
+      "enderio:fused_quartz_da",
+      "enderio:fused_quartz_da",
+      "enderio:fused_quartz_da",
+      "minecraft:redstone_torch",
+      "enderio:fused_quartz_da",
+      "enderio:fused_quartz_da",
+      "enderio:fused_quartz_da",
+      "enderio:fused_quartz_da"
+    ]
+  },
+  "enderio:fused_quartz_dnm": {
+    "result": "enderio:fused_quartz_dnm",
+    "count": 8,
+    "ingredients": [
+      "enderio:fused_quartz_dm",
+      "enderio:fused_quartz_dm",
+      "enderio:fused_quartz_dm",
+      "enderio:fused_quartz_dm",
+      "minecraft:redstone_torch",
+      "enderio:fused_quartz_dm",
+      "enderio:fused_quartz_dm",
+      "enderio:fused_quartz_dm",
+      "enderio:fused_quartz_dm"
+    ]
+  },
+  "enderio:fused_quartz_dnp": {
+    "result": "enderio:fused_quartz_dnp",
+    "count": 8,
+    "ingredients": [
+      "enderio:fused_quartz_dp",
+      "enderio:fused_quartz_dp",
+      "enderio:fused_quartz_dp",
+      "enderio:fused_quartz_dp",
+      "minecraft:redstone_torch",
+      "enderio:fused_quartz_dp",
+      "enderio:fused_quartz_dp",
+      "enderio:fused_quartz_dp",
+      "enderio:fused_quartz_dp"
+    ]
+  },
+  "enderio:fused_quartz_ena": {
+    "result": "enderio:fused_quartz_ena",
+    "count": 8,
+    "ingredients": [
+      "enderio:fused_quartz_ea",
+      "enderio:fused_quartz_ea",
+      "enderio:fused_quartz_ea",
+      "enderio:fused_quartz_ea",
+      "minecraft:redstone_torch",
+      "enderio:fused_quartz_ea",
+      "enderio:fused_quartz_ea",
+      "enderio:fused_quartz_ea",
+      "enderio:fused_quartz_ea"
+    ]
+  },
+  "enderio:fused_quartz_enm": {
+    "result": "enderio:fused_quartz_enm",
+    "count": 8,
+    "ingredients": [
+      "enderio:fused_quartz_em",
+      "enderio:fused_quartz_em",
+      "enderio:fused_quartz_em",
+      "enderio:fused_quartz_em",
+      "minecraft:redstone_torch",
+      "enderio:fused_quartz_em",
+      "enderio:fused_quartz_em",
+      "enderio:fused_quartz_em",
+      "enderio:fused_quartz_em"
+    ]
+  },
+  "enderio:fused_quartz_enp": {
+    "result": "enderio:fused_quartz_enp",
+    "count": 8,
+    "ingredients": [
+      "enderio:fused_quartz_ep",
+      "enderio:fused_quartz_ep",
+      "enderio:fused_quartz_ep",
+      "enderio:fused_quartz_ep",
+      "minecraft:redstone_torch",
+      "enderio:fused_quartz_ep",
+      "enderio:fused_quartz_ep",
+      "enderio:fused_quartz_ep",
+      "enderio:fused_quartz_ep"
+    ]
+  },
+  "enderio:fused_quartz_na": {
+    "result": "enderio:fused_quartz_na",
+    "count": 8,
+    "ingredients": [
+      "enderio:fused_quartz_a",
+      "enderio:fused_quartz_a",
+      "enderio:fused_quartz_a",
+      "enderio:fused_quartz_a",
+      "minecraft:redstone_torch",
+      "enderio:fused_quartz_a",
+      "enderio:fused_quartz_a",
+      "enderio:fused_quartz_a",
+      "enderio:fused_quartz_a"
+    ]
+  },
+  "enderio:fused_quartz_nm": {
+    "result": "enderio:fused_quartz_nm",
+    "count": 8,
+    "ingredients": [
+      "enderio:fused_quartz_m",
+      "enderio:fused_quartz_m",
+      "enderio:fused_quartz_m",
+      "enderio:fused_quartz_m",
+      "minecraft:redstone_torch",
+      "enderio:fused_quartz_m",
+      "enderio:fused_quartz_m",
+      "enderio:fused_quartz_m",
+      "enderio:fused_quartz_m"
+    ]
+  },
+  "enderio:fused_quartz_np": {
+    "result": "enderio:fused_quartz_np",
+    "count": 8,
+    "ingredients": [
+      "enderio:fused_quartz_p",
+      "enderio:fused_quartz_p",
+      "enderio:fused_quartz_p",
+      "enderio:fused_quartz_p",
+      "minecraft:redstone_torch",
+      "enderio:fused_quartz_p",
+      "enderio:fused_quartz_p",
+      "enderio:fused_quartz_p",
+      "enderio:fused_quartz_p"
+    ]
+  },
+  "enderio:fused_quartz_a_black": {
+    "result": "enderio:fused_quartz_a_black",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:black"
+    ]
+  },
+  "enderio:fused_quartz_a_blue": {
+    "result": "enderio:fused_quartz_a_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:blue"
+    ]
+  },
+  "enderio:fused_quartz_a_brown": {
+    "result": "enderio:fused_quartz_a_brown",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:brown"
+    ]
+  },
+  "enderio:fused_quartz_a_cyan": {
+    "result": "enderio:fused_quartz_a_cyan",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:cyan"
+    ]
+  },
+  "enderio:fused_quartz_a_gray": {
+    "result": "enderio:fused_quartz_a_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:gray"
+    ]
+  },
+  "enderio:fused_quartz_a_green": {
+    "result": "enderio:fused_quartz_a_green",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:green"
+    ]
+  },
+  "enderio:fused_quartz_a_light_blue": {
+    "result": "enderio:fused_quartz_a_light_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:light_blue"
+    ]
+  },
+  "enderio:fused_quartz_a_light_gray": {
+    "result": "enderio:fused_quartz_a_light_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:light_gray"
+    ]
+  },
+  "enderio:fused_quartz_a_lime": {
+    "result": "enderio:fused_quartz_a_lime",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:lime"
+    ]
+  },
+  "enderio:fused_quartz_a_magenta": {
+    "result": "enderio:fused_quartz_a_magenta",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:magenta"
+    ]
+  },
+  "enderio:fused_quartz_a_orange": {
+    "result": "enderio:fused_quartz_a_orange",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:orange"
+    ]
+  },
+  "enderio:fused_quartz_a_pink": {
+    "result": "enderio:fused_quartz_a_pink",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:pink"
+    ]
+  },
+  "enderio:fused_quartz_a_purple": {
+    "result": "enderio:fused_quartz_a_purple",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:purple"
+    ]
+  },
+  "enderio:fused_quartz_a_red": {
+    "result": "enderio:fused_quartz_a_red",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:red"
+    ]
+  },
+  "enderio:fused_quartz_a_white": {
+    "result": "enderio:fused_quartz_a_white",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:white"
+    ]
+  },
+  "enderio:fused_quartz_a_yellow": {
+    "result": "enderio:fused_quartz_a_yellow",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:yellow"
+    ]
+  },
+  "enderio:fused_quartz_black": {
+    "result": "enderio:fused_quartz_black",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:black"
+    ]
+  },
+  "enderio:fused_quartz_blue": {
+    "result": "enderio:fused_quartz_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:blue"
+    ]
+  },
+  "enderio:fused_quartz_brown": {
+    "result": "enderio:fused_quartz_brown",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:brown"
+    ]
+  },
+  "enderio:fused_quartz_cyan": {
+    "result": "enderio:fused_quartz_cyan",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:cyan"
+    ]
+  },
+  "enderio:fused_quartz_da_black": {
+    "result": "enderio:fused_quartz_da_black",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:black"
+    ]
+  },
+  "enderio:fused_quartz_da_blue": {
+    "result": "enderio:fused_quartz_da_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:blue"
+    ]
+  },
+  "enderio:fused_quartz_da_brown": {
+    "result": "enderio:fused_quartz_da_brown",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:brown"
+    ]
+  },
+  "enderio:fused_quartz_da_cyan": {
+    "result": "enderio:fused_quartz_da_cyan",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:cyan"
+    ]
+  },
+  "enderio:fused_quartz_da_gray": {
+    "result": "enderio:fused_quartz_da_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:gray"
+    ]
+  },
+  "enderio:fused_quartz_da_green": {
+    "result": "enderio:fused_quartz_da_green",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:green"
+    ]
+  },
+  "enderio:fused_quartz_da_light_blue": {
+    "result": "enderio:fused_quartz_da_light_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:light_blue"
+    ]
+  },
+  "enderio:fused_quartz_da_light_gray": {
+    "result": "enderio:fused_quartz_da_light_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:light_gray"
+    ]
+  },
+  "enderio:fused_quartz_da_lime": {
+    "result": "enderio:fused_quartz_da_lime",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:lime"
+    ]
+  },
+  "enderio:fused_quartz_da_magenta": {
+    "result": "enderio:fused_quartz_da_magenta",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:magenta"
+    ]
+  },
+  "enderio:fused_quartz_da_orange": {
+    "result": "enderio:fused_quartz_da_orange",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:orange"
+    ]
+  },
+  "enderio:fused_quartz_da_pink": {
+    "result": "enderio:fused_quartz_da_pink",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:pink"
+    ]
+  },
+  "enderio:fused_quartz_da_purple": {
+    "result": "enderio:fused_quartz_da_purple",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:purple"
+    ]
+  },
+  "enderio:fused_quartz_da_red": {
+    "result": "enderio:fused_quartz_da_red",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:red"
+    ]
+  },
+  "enderio:fused_quartz_da_white": {
+    "result": "enderio:fused_quartz_da_white",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:white"
+    ]
+  },
+  "enderio:fused_quartz_da_yellow": {
+    "result": "enderio:fused_quartz_da_yellow",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:yellow"
+    ]
+  },
+  "enderio:fused_quartz_dm_black": {
+    "result": "enderio:fused_quartz_dm_black",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:black"
+    ]
+  },
+  "enderio:fused_quartz_dm_blue": {
+    "result": "enderio:fused_quartz_dm_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:blue"
+    ]
+  },
+  "enderio:fused_quartz_dm_brown": {
+    "result": "enderio:fused_quartz_dm_brown",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:brown"
+    ]
+  },
+  "enderio:fused_quartz_dm_cyan": {
+    "result": "enderio:fused_quartz_dm_cyan",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:cyan"
+    ]
+  },
+  "enderio:fused_quartz_dm_gray": {
+    "result": "enderio:fused_quartz_dm_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:gray"
+    ]
+  },
+  "enderio:fused_quartz_dm_green": {
+    "result": "enderio:fused_quartz_dm_green",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:green"
+    ]
+  },
+  "enderio:fused_quartz_dm_light_blue": {
+    "result": "enderio:fused_quartz_dm_light_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:light_blue"
+    ]
+  },
+  "enderio:fused_quartz_dm_light_gray": {
+    "result": "enderio:fused_quartz_dm_light_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:light_gray"
+    ]
+  },
+  "enderio:fused_quartz_dm_lime": {
+    "result": "enderio:fused_quartz_dm_lime",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:lime"
+    ]
+  },
+  "enderio:fused_quartz_dm_magenta": {
+    "result": "enderio:fused_quartz_dm_magenta",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:magenta"
+    ]
+  },
+  "enderio:fused_quartz_dm_orange": {
+    "result": "enderio:fused_quartz_dm_orange",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:orange"
+    ]
+  },
+  "enderio:fused_quartz_dm_pink": {
+    "result": "enderio:fused_quartz_dm_pink",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:pink"
+    ]
+  },
+  "enderio:fused_quartz_dm_purple": {
+    "result": "enderio:fused_quartz_dm_purple",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:purple"
+    ]
+  },
+  "enderio:fused_quartz_dm_red": {
+    "result": "enderio:fused_quartz_dm_red",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:red"
+    ]
+  },
+  "enderio:fused_quartz_dm_white": {
+    "result": "enderio:fused_quartz_dm_white",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:white"
+    ]
+  },
+  "enderio:fused_quartz_dm_yellow": {
+    "result": "enderio:fused_quartz_dm_yellow",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:yellow"
+    ]
+  },
+  "enderio:fused_quartz_dna_black": {
+    "result": "enderio:fused_quartz_dna_black",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:black"
+    ]
+  },
+  "enderio:fused_quartz_dna_blue": {
+    "result": "enderio:fused_quartz_dna_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:blue"
+    ]
+  },
+  "enderio:fused_quartz_dna_brown": {
+    "result": "enderio:fused_quartz_dna_brown",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:brown"
+    ]
+  },
+  "enderio:fused_quartz_dna_cyan": {
+    "result": "enderio:fused_quartz_dna_cyan",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:cyan"
+    ]
+  },
+  "enderio:fused_quartz_dna_gray": {
+    "result": "enderio:fused_quartz_dna_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:gray"
+    ]
+  },
+  "enderio:fused_quartz_dna_green": {
+    "result": "enderio:fused_quartz_dna_green",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:green"
+    ]
+  },
+  "enderio:fused_quartz_dna_light_blue": {
+    "result": "enderio:fused_quartz_dna_light_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:light_blue"
+    ]
+  },
+  "enderio:fused_quartz_dna_light_gray": {
+    "result": "enderio:fused_quartz_dna_light_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:light_gray"
+    ]
+  },
+  "enderio:fused_quartz_dna_lime": {
+    "result": "enderio:fused_quartz_dna_lime",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:lime"
+    ]
+  },
+  "enderio:fused_quartz_dna_magenta": {
+    "result": "enderio:fused_quartz_dna_magenta",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:magenta"
+    ]
+  },
+  "enderio:fused_quartz_dna_orange": {
+    "result": "enderio:fused_quartz_dna_orange",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:orange"
+    ]
+  },
+  "enderio:fused_quartz_dna_pink": {
+    "result": "enderio:fused_quartz_dna_pink",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:pink"
+    ]
+  },
+  "enderio:fused_quartz_dna_purple": {
+    "result": "enderio:fused_quartz_dna_purple",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:purple"
+    ]
+  },
+  "enderio:fused_quartz_dna_red": {
+    "result": "enderio:fused_quartz_dna_red",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:red"
+    ]
+  },
+  "enderio:fused_quartz_dna_white": {
+    "result": "enderio:fused_quartz_dna_white",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:white"
+    ]
+  },
+  "enderio:fused_quartz_dna_yellow": {
+    "result": "enderio:fused_quartz_dna_yellow",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:yellow"
+    ]
+  },
+  "enderio:fused_quartz_dnm_black": {
+    "result": "enderio:fused_quartz_dnm_black",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:black"
+    ]
+  },
+  "enderio:fused_quartz_dnm_blue": {
+    "result": "enderio:fused_quartz_dnm_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:blue"
+    ]
+  },
+  "enderio:fused_quartz_dnm_brown": {
+    "result": "enderio:fused_quartz_dnm_brown",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:brown"
+    ]
+  },
+  "enderio:fused_quartz_dnm_cyan": {
+    "result": "enderio:fused_quartz_dnm_cyan",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:cyan"
+    ]
+  },
+  "enderio:fused_quartz_dnm_gray": {
+    "result": "enderio:fused_quartz_dnm_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:gray"
+    ]
+  },
+  "enderio:fused_quartz_dnm_green": {
+    "result": "enderio:fused_quartz_dnm_green",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:green"
+    ]
+  },
+  "enderio:fused_quartz_dnm_light_blue": {
+    "result": "enderio:fused_quartz_dnm_light_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:light_blue"
+    ]
+  },
+  "enderio:fused_quartz_dnm_light_gray": {
+    "result": "enderio:fused_quartz_dnm_light_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:light_gray"
+    ]
+  },
+  "enderio:fused_quartz_dnm_lime": {
+    "result": "enderio:fused_quartz_dnm_lime",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:lime"
+    ]
+  },
+  "enderio:fused_quartz_dnm_magenta": {
+    "result": "enderio:fused_quartz_dnm_magenta",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:magenta"
+    ]
+  },
+  "enderio:fused_quartz_dnm_orange": {
+    "result": "enderio:fused_quartz_dnm_orange",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:orange"
+    ]
+  },
+  "enderio:fused_quartz_dnm_pink": {
+    "result": "enderio:fused_quartz_dnm_pink",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:pink"
+    ]
+  },
+  "enderio:fused_quartz_dnm_purple": {
+    "result": "enderio:fused_quartz_dnm_purple",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:purple"
+    ]
+  },
+  "enderio:fused_quartz_dnm_red": {
+    "result": "enderio:fused_quartz_dnm_red",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:red"
+    ]
+  },
+  "enderio:fused_quartz_dnm_white": {
+    "result": "enderio:fused_quartz_dnm_white",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:white"
+    ]
+  },
+  "enderio:fused_quartz_dnm_yellow": {
+    "result": "enderio:fused_quartz_dnm_yellow",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:yellow"
+    ]
+  },
+  "enderio:fused_quartz_dnp_black": {
+    "result": "enderio:fused_quartz_dnp_black",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:black"
+    ]
+  },
+  "enderio:fused_quartz_dnp_blue": {
+    "result": "enderio:fused_quartz_dnp_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:blue"
+    ]
+  },
+  "enderio:fused_quartz_dnp_brown": {
+    "result": "enderio:fused_quartz_dnp_brown",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:brown"
+    ]
+  },
+  "enderio:fused_quartz_dnp_cyan": {
+    "result": "enderio:fused_quartz_dnp_cyan",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:cyan"
+    ]
+  },
+  "enderio:fused_quartz_dnp_gray": {
+    "result": "enderio:fused_quartz_dnp_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:gray"
+    ]
+  },
+  "enderio:fused_quartz_dnp_green": {
+    "result": "enderio:fused_quartz_dnp_green",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:green"
+    ]
+  },
+  "enderio:fused_quartz_dnp_light_blue": {
+    "result": "enderio:fused_quartz_dnp_light_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:light_blue"
+    ]
+  },
+  "enderio:fused_quartz_dnp_light_gray": {
+    "result": "enderio:fused_quartz_dnp_light_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:light_gray"
+    ]
+  },
+  "enderio:fused_quartz_dnp_lime": {
+    "result": "enderio:fused_quartz_dnp_lime",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:lime"
+    ]
+  },
+  "enderio:fused_quartz_dnp_magenta": {
+    "result": "enderio:fused_quartz_dnp_magenta",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:magenta"
+    ]
+  },
+  "enderio:fused_quartz_dnp_orange": {
+    "result": "enderio:fused_quartz_dnp_orange",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:orange"
+    ]
+  },
+  "enderio:fused_quartz_dnp_pink": {
+    "result": "enderio:fused_quartz_dnp_pink",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:pink"
+    ]
+  },
+  "enderio:fused_quartz_dnp_purple": {
+    "result": "enderio:fused_quartz_dnp_purple",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:purple"
+    ]
+  },
+  "enderio:fused_quartz_dnp_red": {
+    "result": "enderio:fused_quartz_dnp_red",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:red"
+    ]
+  },
+  "enderio:fused_quartz_dnp_white": {
+    "result": "enderio:fused_quartz_dnp_white",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:white"
+    ]
+  },
+  "enderio:fused_quartz_dnp_yellow": {
+    "result": "enderio:fused_quartz_dnp_yellow",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:yellow"
+    ]
+  },
+  "enderio:fused_quartz_dp_black": {
+    "result": "enderio:fused_quartz_dp_black",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:black"
+    ]
+  },
+  "enderio:fused_quartz_dp_blue": {
+    "result": "enderio:fused_quartz_dp_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:blue"
+    ]
+  },
+  "enderio:fused_quartz_dp_brown": {
+    "result": "enderio:fused_quartz_dp_brown",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:brown"
+    ]
+  },
+  "enderio:fused_quartz_dp_cyan": {
+    "result": "enderio:fused_quartz_dp_cyan",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:cyan"
+    ]
+  },
+  "enderio:fused_quartz_dp_gray": {
+    "result": "enderio:fused_quartz_dp_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:gray"
+    ]
+  },
+  "enderio:fused_quartz_dp_green": {
+    "result": "enderio:fused_quartz_dp_green",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:green"
+    ]
+  },
+  "enderio:fused_quartz_dp_light_blue": {
+    "result": "enderio:fused_quartz_dp_light_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:light_blue"
+    ]
+  },
+  "enderio:fused_quartz_dp_light_gray": {
+    "result": "enderio:fused_quartz_dp_light_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:light_gray"
+    ]
+  },
+  "enderio:fused_quartz_dp_lime": {
+    "result": "enderio:fused_quartz_dp_lime",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:lime"
+    ]
+  },
+  "enderio:fused_quartz_dp_magenta": {
+    "result": "enderio:fused_quartz_dp_magenta",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:magenta"
+    ]
+  },
+  "enderio:fused_quartz_dp_orange": {
+    "result": "enderio:fused_quartz_dp_orange",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:orange"
+    ]
+  },
+  "enderio:fused_quartz_dp_pink": {
+    "result": "enderio:fused_quartz_dp_pink",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:pink"
+    ]
+  },
+  "enderio:fused_quartz_dp_purple": {
+    "result": "enderio:fused_quartz_dp_purple",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:purple"
+    ]
+  },
+  "enderio:fused_quartz_dp_red": {
+    "result": "enderio:fused_quartz_dp_red",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:red"
+    ]
+  },
+  "enderio:fused_quartz_dp_white": {
+    "result": "enderio:fused_quartz_dp_white",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:white"
+    ]
+  },
+  "enderio:fused_quartz_dp_yellow": {
+    "result": "enderio:fused_quartz_dp_yellow",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:yellow"
+    ]
+  },
+  "enderio:fused_quartz_d_black": {
+    "result": "enderio:fused_quartz_d_black",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:black"
+    ]
+  },
+  "enderio:fused_quartz_d_blue": {
+    "result": "enderio:fused_quartz_d_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:blue"
+    ]
+  },
+  "enderio:fused_quartz_d_brown": {
+    "result": "enderio:fused_quartz_d_brown",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:brown"
+    ]
+  },
+  "enderio:fused_quartz_d_cyan": {
+    "result": "enderio:fused_quartz_d_cyan",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:cyan"
+    ]
+  },
+  "enderio:fused_quartz_d_gray": {
+    "result": "enderio:fused_quartz_d_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:gray"
+    ]
+  },
+  "enderio:fused_quartz_d_green": {
+    "result": "enderio:fused_quartz_d_green",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:green"
+    ]
+  },
+  "enderio:fused_quartz_d_light_blue": {
+    "result": "enderio:fused_quartz_d_light_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:light_blue"
+    ]
+  },
+  "enderio:fused_quartz_d_light_gray": {
+    "result": "enderio:fused_quartz_d_light_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:light_gray"
+    ]
+  },
+  "enderio:fused_quartz_d_lime": {
+    "result": "enderio:fused_quartz_d_lime",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:lime"
+    ]
+  },
+  "enderio:fused_quartz_d_magenta": {
+    "result": "enderio:fused_quartz_d_magenta",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:magenta"
+    ]
+  },
+  "enderio:fused_quartz_d_orange": {
+    "result": "enderio:fused_quartz_d_orange",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:orange"
+    ]
+  },
+  "enderio:fused_quartz_d_pink": {
+    "result": "enderio:fused_quartz_d_pink",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:pink"
+    ]
+  },
+  "enderio:fused_quartz_d_purple": {
+    "result": "enderio:fused_quartz_d_purple",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:purple"
+    ]
+  },
+  "enderio:fused_quartz_d_red": {
+    "result": "enderio:fused_quartz_d_red",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:red"
+    ]
+  },
+  "enderio:fused_quartz_d_white": {
+    "result": "enderio:fused_quartz_d_white",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:white"
+    ]
+  },
+  "enderio:fused_quartz_d_yellow": {
+    "result": "enderio:fused_quartz_d_yellow",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:yellow"
+    ]
+  },
+  "enderio:fused_quartz_ea_black": {
+    "result": "enderio:fused_quartz_ea_black",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:black"
+    ]
+  },
+  "enderio:fused_quartz_ea_blue": {
+    "result": "enderio:fused_quartz_ea_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:blue"
+    ]
+  },
+  "enderio:fused_quartz_ea_brown": {
+    "result": "enderio:fused_quartz_ea_brown",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:brown"
+    ]
+  },
+  "enderio:fused_quartz_ea_cyan": {
+    "result": "enderio:fused_quartz_ea_cyan",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:cyan"
+    ]
+  },
+  "enderio:fused_quartz_ea_gray": {
+    "result": "enderio:fused_quartz_ea_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:gray"
+    ]
+  },
+  "enderio:fused_quartz_ea_green": {
+    "result": "enderio:fused_quartz_ea_green",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:green"
+    ]
+  },
+  "enderio:fused_quartz_ea_light_blue": {
+    "result": "enderio:fused_quartz_ea_light_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:light_blue"
+    ]
+  },
+  "enderio:fused_quartz_ea_light_gray": {
+    "result": "enderio:fused_quartz_ea_light_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:light_gray"
+    ]
+  },
+  "enderio:fused_quartz_ea_lime": {
+    "result": "enderio:fused_quartz_ea_lime",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:lime"
+    ]
+  },
+  "enderio:fused_quartz_ea_magenta": {
+    "result": "enderio:fused_quartz_ea_magenta",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:magenta"
+    ]
+  },
+  "enderio:fused_quartz_ea_orange": {
+    "result": "enderio:fused_quartz_ea_orange",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:orange"
+    ]
+  },
+  "enderio:fused_quartz_ea_pink": {
+    "result": "enderio:fused_quartz_ea_pink",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:pink"
+    ]
+  },
+  "enderio:fused_quartz_ea_purple": {
+    "result": "enderio:fused_quartz_ea_purple",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:purple"
+    ]
+  },
+  "enderio:fused_quartz_ea_red": {
+    "result": "enderio:fused_quartz_ea_red",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:red"
+    ]
+  },
+  "enderio:fused_quartz_ea_white": {
+    "result": "enderio:fused_quartz_ea_white",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:white"
+    ]
+  },
+  "enderio:fused_quartz_ea_yellow": {
+    "result": "enderio:fused_quartz_ea_yellow",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:yellow"
+    ]
+  },
+  "enderio:fused_quartz_em_black": {
+    "result": "enderio:fused_quartz_em_black",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:black"
+    ]
+  },
+  "enderio:fused_quartz_em_blue": {
+    "result": "enderio:fused_quartz_em_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:blue"
+    ]
+  },
+  "enderio:fused_quartz_em_brown": {
+    "result": "enderio:fused_quartz_em_brown",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:brown"
+    ]
+  },
+  "enderio:fused_quartz_em_cyan": {
+    "result": "enderio:fused_quartz_em_cyan",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:cyan"
+    ]
+  },
+  "enderio:fused_quartz_em_gray": {
+    "result": "enderio:fused_quartz_em_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:gray"
+    ]
+  },
+  "enderio:fused_quartz_em_green": {
+    "result": "enderio:fused_quartz_em_green",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:green"
+    ]
+  },
+  "enderio:fused_quartz_em_light_blue": {
+    "result": "enderio:fused_quartz_em_light_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:light_blue"
+    ]
+  },
+  "enderio:fused_quartz_em_light_gray": {
+    "result": "enderio:fused_quartz_em_light_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:light_gray"
+    ]
+  },
+  "enderio:fused_quartz_em_lime": {
+    "result": "enderio:fused_quartz_em_lime",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:lime"
+    ]
+  },
+  "enderio:fused_quartz_em_magenta": {
+    "result": "enderio:fused_quartz_em_magenta",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:magenta"
+    ]
+  },
+  "enderio:fused_quartz_em_orange": {
+    "result": "enderio:fused_quartz_em_orange",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:orange"
+    ]
+  },
+  "enderio:fused_quartz_em_pink": {
+    "result": "enderio:fused_quartz_em_pink",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:pink"
+    ]
+  },
+  "enderio:fused_quartz_em_purple": {
+    "result": "enderio:fused_quartz_em_purple",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:purple"
+    ]
+  },
+  "enderio:fused_quartz_em_red": {
+    "result": "enderio:fused_quartz_em_red",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:red"
+    ]
+  },
+  "enderio:fused_quartz_em_white": {
+    "result": "enderio:fused_quartz_em_white",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:white"
+    ]
+  },
+  "enderio:fused_quartz_em_yellow": {
+    "result": "enderio:fused_quartz_em_yellow",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:yellow"
+    ]
+  },
+  "enderio:fused_quartz_ena_black": {
+    "result": "enderio:fused_quartz_ena_black",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:black"
+    ]
+  },
+  "enderio:fused_quartz_ena_blue": {
+    "result": "enderio:fused_quartz_ena_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:blue"
+    ]
+  },
+  "enderio:fused_quartz_ena_brown": {
+    "result": "enderio:fused_quartz_ena_brown",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:brown"
+    ]
+  },
+  "enderio:fused_quartz_ena_cyan": {
+    "result": "enderio:fused_quartz_ena_cyan",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:cyan"
+    ]
+  },
+  "enderio:fused_quartz_ena_gray": {
+    "result": "enderio:fused_quartz_ena_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:gray"
+    ]
+  },
+  "enderio:fused_quartz_ena_green": {
+    "result": "enderio:fused_quartz_ena_green",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:green"
+    ]
+  },
+  "enderio:fused_quartz_ena_light_blue": {
+    "result": "enderio:fused_quartz_ena_light_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:light_blue"
+    ]
+  },
+  "enderio:fused_quartz_ena_light_gray": {
+    "result": "enderio:fused_quartz_ena_light_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:light_gray"
+    ]
+  },
+  "enderio:fused_quartz_ena_lime": {
+    "result": "enderio:fused_quartz_ena_lime",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:lime"
+    ]
+  },
+  "enderio:fused_quartz_ena_magenta": {
+    "result": "enderio:fused_quartz_ena_magenta",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:magenta"
+    ]
+  },
+  "enderio:fused_quartz_ena_orange": {
+    "result": "enderio:fused_quartz_ena_orange",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:orange"
+    ]
+  },
+  "enderio:fused_quartz_ena_pink": {
+    "result": "enderio:fused_quartz_ena_pink",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:pink"
+    ]
+  },
+  "enderio:fused_quartz_ena_purple": {
+    "result": "enderio:fused_quartz_ena_purple",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:purple"
+    ]
+  },
+  "enderio:fused_quartz_ena_red": {
+    "result": "enderio:fused_quartz_ena_red",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:red"
+    ]
+  },
+  "enderio:fused_quartz_ena_white": {
+    "result": "enderio:fused_quartz_ena_white",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:white"
+    ]
+  },
+  "enderio:fused_quartz_ena_yellow": {
+    "result": "enderio:fused_quartz_ena_yellow",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:yellow"
+    ]
+  },
+  "enderio:fused_quartz_enm_black": {
+    "result": "enderio:fused_quartz_enm_black",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:black"
+    ]
+  },
+  "enderio:fused_quartz_enm_blue": {
+    "result": "enderio:fused_quartz_enm_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:blue"
+    ]
+  },
+  "enderio:fused_quartz_enm_brown": {
+    "result": "enderio:fused_quartz_enm_brown",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:brown"
+    ]
+  },
+  "enderio:fused_quartz_enm_cyan": {
+    "result": "enderio:fused_quartz_enm_cyan",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:cyan"
+    ]
+  },
+  "enderio:fused_quartz_enm_gray": {
+    "result": "enderio:fused_quartz_enm_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:gray"
+    ]
+  },
+  "enderio:fused_quartz_enm_green": {
+    "result": "enderio:fused_quartz_enm_green",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:green"
+    ]
+  },
+  "enderio:fused_quartz_enm_light_blue": {
+    "result": "enderio:fused_quartz_enm_light_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:light_blue"
+    ]
+  },
+  "enderio:fused_quartz_enm_light_gray": {
+    "result": "enderio:fused_quartz_enm_light_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:light_gray"
+    ]
+  },
+  "enderio:fused_quartz_enm_lime": {
+    "result": "enderio:fused_quartz_enm_lime",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:lime"
+    ]
+  },
+  "enderio:fused_quartz_enm_magenta": {
+    "result": "enderio:fused_quartz_enm_magenta",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:magenta"
+    ]
+  },
+  "enderio:fused_quartz_enm_orange": {
+    "result": "enderio:fused_quartz_enm_orange",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:orange"
+    ]
+  },
+  "enderio:fused_quartz_enm_pink": {
+    "result": "enderio:fused_quartz_enm_pink",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:pink"
+    ]
+  },
+  "enderio:fused_quartz_enm_purple": {
+    "result": "enderio:fused_quartz_enm_purple",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:purple"
+    ]
+  },
+  "enderio:fused_quartz_enm_red": {
+    "result": "enderio:fused_quartz_enm_red",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:red"
+    ]
+  },
+  "enderio:fused_quartz_enm_white": {
+    "result": "enderio:fused_quartz_enm_white",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:white"
+    ]
+  },
+  "enderio:fused_quartz_enm_yellow": {
+    "result": "enderio:fused_quartz_enm_yellow",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:yellow"
+    ]
+  },
+  "enderio:fused_quartz_enp_black": {
+    "result": "enderio:fused_quartz_enp_black",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:black"
+    ]
+  },
+  "enderio:fused_quartz_enp_blue": {
+    "result": "enderio:fused_quartz_enp_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:blue"
+    ]
+  },
+  "enderio:fused_quartz_enp_brown": {
+    "result": "enderio:fused_quartz_enp_brown",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:brown"
+    ]
+  },
+  "enderio:fused_quartz_enp_cyan": {
+    "result": "enderio:fused_quartz_enp_cyan",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:cyan"
+    ]
+  },
+  "enderio:fused_quartz_enp_gray": {
+    "result": "enderio:fused_quartz_enp_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:gray"
+    ]
+  },
+  "enderio:fused_quartz_enp_green": {
+    "result": "enderio:fused_quartz_enp_green",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:green"
+    ]
+  },
+  "enderio:fused_quartz_enp_light_blue": {
+    "result": "enderio:fused_quartz_enp_light_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:light_blue"
+    ]
+  },
+  "enderio:fused_quartz_enp_light_gray": {
+    "result": "enderio:fused_quartz_enp_light_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:light_gray"
+    ]
+  },
+  "enderio:fused_quartz_enp_lime": {
+    "result": "enderio:fused_quartz_enp_lime",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:lime"
+    ]
+  },
+  "enderio:fused_quartz_enp_magenta": {
+    "result": "enderio:fused_quartz_enp_magenta",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:magenta"
+    ]
+  },
+  "enderio:fused_quartz_enp_orange": {
+    "result": "enderio:fused_quartz_enp_orange",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:orange"
+    ]
+  },
+  "enderio:fused_quartz_enp_pink": {
+    "result": "enderio:fused_quartz_enp_pink",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:pink"
+    ]
+  },
+  "enderio:fused_quartz_enp_purple": {
+    "result": "enderio:fused_quartz_enp_purple",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:purple"
+    ]
+  },
+  "enderio:fused_quartz_enp_red": {
+    "result": "enderio:fused_quartz_enp_red",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:red"
+    ]
+  },
+  "enderio:fused_quartz_enp_white": {
+    "result": "enderio:fused_quartz_enp_white",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:white"
+    ]
+  },
+  "enderio:fused_quartz_enp_yellow": {
+    "result": "enderio:fused_quartz_enp_yellow",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:yellow"
+    ]
+  },
+  "enderio:fused_quartz_ep_black": {
+    "result": "enderio:fused_quartz_ep_black",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:black"
+    ]
+  },
+  "enderio:fused_quartz_ep_blue": {
+    "result": "enderio:fused_quartz_ep_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:blue"
+    ]
+  },
+  "enderio:fused_quartz_ep_brown": {
+    "result": "enderio:fused_quartz_ep_brown",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:brown"
+    ]
+  },
+  "enderio:fused_quartz_ep_cyan": {
+    "result": "enderio:fused_quartz_ep_cyan",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:cyan"
+    ]
+  },
+  "enderio:fused_quartz_ep_gray": {
+    "result": "enderio:fused_quartz_ep_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:gray"
+    ]
+  },
+  "enderio:fused_quartz_ep_green": {
+    "result": "enderio:fused_quartz_ep_green",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:green"
+    ]
+  },
+  "enderio:fused_quartz_ep_light_blue": {
+    "result": "enderio:fused_quartz_ep_light_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:light_blue"
+    ]
+  },
+  "enderio:fused_quartz_ep_light_gray": {
+    "result": "enderio:fused_quartz_ep_light_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:light_gray"
+    ]
+  },
+  "enderio:fused_quartz_ep_lime": {
+    "result": "enderio:fused_quartz_ep_lime",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:lime"
+    ]
+  },
+  "enderio:fused_quartz_ep_magenta": {
+    "result": "enderio:fused_quartz_ep_magenta",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:magenta"
+    ]
+  },
+  "enderio:fused_quartz_ep_orange": {
+    "result": "enderio:fused_quartz_ep_orange",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:orange"
+    ]
+  },
+  "enderio:fused_quartz_ep_pink": {
+    "result": "enderio:fused_quartz_ep_pink",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:pink"
+    ]
+  },
+  "enderio:fused_quartz_ep_purple": {
+    "result": "enderio:fused_quartz_ep_purple",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:purple"
+    ]
+  },
+  "enderio:fused_quartz_ep_red": {
+    "result": "enderio:fused_quartz_ep_red",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:red"
+    ]
+  },
+  "enderio:fused_quartz_ep_white": {
+    "result": "enderio:fused_quartz_ep_white",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:white"
+    ]
+  },
+  "enderio:fused_quartz_ep_yellow": {
+    "result": "enderio:fused_quartz_ep_yellow",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:yellow"
+    ]
+  },
+  "enderio:fused_quartz_e_black": {
+    "result": "enderio:fused_quartz_e_black",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:black"
+    ]
+  },
+  "enderio:fused_quartz_e_blue": {
+    "result": "enderio:fused_quartz_e_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:blue"
+    ]
+  },
+  "enderio:fused_quartz_e_brown": {
+    "result": "enderio:fused_quartz_e_brown",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:brown"
+    ]
+  },
+  "enderio:fused_quartz_e_cyan": {
+    "result": "enderio:fused_quartz_e_cyan",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:cyan"
+    ]
+  },
+  "enderio:fused_quartz_e_gray": {
+    "result": "enderio:fused_quartz_e_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:gray"
+    ]
+  },
+  "enderio:fused_quartz_e_green": {
+    "result": "enderio:fused_quartz_e_green",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:green"
+    ]
+  },
+  "enderio:fused_quartz_e_light_blue": {
+    "result": "enderio:fused_quartz_e_light_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:light_blue"
+    ]
+  },
+  "enderio:fused_quartz_e_light_gray": {
+    "result": "enderio:fused_quartz_e_light_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:light_gray"
+    ]
+  },
+  "enderio:fused_quartz_e_lime": {
+    "result": "enderio:fused_quartz_e_lime",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:lime"
+    ]
+  },
+  "enderio:fused_quartz_e_magenta": {
+    "result": "enderio:fused_quartz_e_magenta",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:magenta"
+    ]
+  },
+  "enderio:fused_quartz_e_orange": {
+    "result": "enderio:fused_quartz_e_orange",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:orange"
+    ]
+  },
+  "enderio:fused_quartz_e_pink": {
+    "result": "enderio:fused_quartz_e_pink",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:pink"
+    ]
+  },
+  "enderio:fused_quartz_e_purple": {
+    "result": "enderio:fused_quartz_e_purple",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:purple"
+    ]
+  },
+  "enderio:fused_quartz_e_red": {
+    "result": "enderio:fused_quartz_e_red",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:red"
+    ]
+  },
+  "enderio:fused_quartz_e_white": {
+    "result": "enderio:fused_quartz_e_white",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:white"
+    ]
+  },
+  "enderio:fused_quartz_e_yellow": {
+    "result": "enderio:fused_quartz_e_yellow",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:yellow"
+    ]
+  },
+  "enderio:fused_quartz_gray": {
+    "result": "enderio:fused_quartz_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:gray"
+    ]
+  },
+  "enderio:fused_quartz_green": {
+    "result": "enderio:fused_quartz_green",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:green"
+    ]
+  },
+  "enderio:fused_quartz_light_blue": {
+    "result": "enderio:fused_quartz_light_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:light_blue"
+    ]
+  },
+  "enderio:fused_quartz_light_gray": {
+    "result": "enderio:fused_quartz_light_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:light_gray"
+    ]
+  },
+  "enderio:fused_quartz_lime": {
+    "result": "enderio:fused_quartz_lime",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:lime"
+    ]
+  },
+  "enderio:fused_quartz_magenta": {
+    "result": "enderio:fused_quartz_magenta",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:magenta"
+    ]
+  },
+  "enderio:fused_quartz_m_black": {
+    "result": "enderio:fused_quartz_m_black",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:black"
+    ]
+  },
+  "enderio:fused_quartz_m_blue": {
+    "result": "enderio:fused_quartz_m_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:blue"
+    ]
+  },
+  "enderio:fused_quartz_m_brown": {
+    "result": "enderio:fused_quartz_m_brown",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:brown"
+    ]
+  },
+  "enderio:fused_quartz_m_cyan": {
+    "result": "enderio:fused_quartz_m_cyan",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:cyan"
+    ]
+  },
+  "enderio:fused_quartz_m_gray": {
+    "result": "enderio:fused_quartz_m_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:gray"
+    ]
+  },
+  "enderio:fused_quartz_m_green": {
+    "result": "enderio:fused_quartz_m_green",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:green"
+    ]
+  },
+  "enderio:fused_quartz_m_light_blue": {
+    "result": "enderio:fused_quartz_m_light_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:light_blue"
+    ]
+  },
+  "enderio:fused_quartz_m_light_gray": {
+    "result": "enderio:fused_quartz_m_light_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:light_gray"
+    ]
+  },
+  "enderio:fused_quartz_m_lime": {
+    "result": "enderio:fused_quartz_m_lime",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:lime"
+    ]
+  },
+  "enderio:fused_quartz_m_magenta": {
+    "result": "enderio:fused_quartz_m_magenta",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:magenta"
+    ]
+  },
+  "enderio:fused_quartz_m_orange": {
+    "result": "enderio:fused_quartz_m_orange",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:orange"
+    ]
+  },
+  "enderio:fused_quartz_m_pink": {
+    "result": "enderio:fused_quartz_m_pink",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:pink"
+    ]
+  },
+  "enderio:fused_quartz_m_purple": {
+    "result": "enderio:fused_quartz_m_purple",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:purple"
+    ]
+  },
+  "enderio:fused_quartz_m_red": {
+    "result": "enderio:fused_quartz_m_red",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:red"
+    ]
+  },
+  "enderio:fused_quartz_m_white": {
+    "result": "enderio:fused_quartz_m_white",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:white"
+    ]
+  },
+  "enderio:fused_quartz_m_yellow": {
+    "result": "enderio:fused_quartz_m_yellow",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:yellow"
+    ]
+  },
+  "enderio:fused_quartz_na_black": {
+    "result": "enderio:fused_quartz_na_black",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:black"
+    ]
+  },
+  "enderio:fused_quartz_na_blue": {
+    "result": "enderio:fused_quartz_na_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:blue"
+    ]
+  },
+  "enderio:fused_quartz_na_brown": {
+    "result": "enderio:fused_quartz_na_brown",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:brown"
+    ]
+  },
+  "enderio:fused_quartz_na_cyan": {
+    "result": "enderio:fused_quartz_na_cyan",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:cyan"
+    ]
+  },
+  "enderio:fused_quartz_na_gray": {
+    "result": "enderio:fused_quartz_na_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:gray"
+    ]
+  },
+  "enderio:fused_quartz_na_green": {
+    "result": "enderio:fused_quartz_na_green",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:green"
+    ]
+  },
+  "enderio:fused_quartz_na_light_blue": {
+    "result": "enderio:fused_quartz_na_light_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:light_blue"
+    ]
+  },
+  "enderio:fused_quartz_na_light_gray": {
+    "result": "enderio:fused_quartz_na_light_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:light_gray"
+    ]
+  },
+  "enderio:fused_quartz_na_lime": {
+    "result": "enderio:fused_quartz_na_lime",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:lime"
+    ]
+  },
+  "enderio:fused_quartz_na_magenta": {
+    "result": "enderio:fused_quartz_na_magenta",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:magenta"
+    ]
+  },
+  "enderio:fused_quartz_na_orange": {
+    "result": "enderio:fused_quartz_na_orange",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:orange"
+    ]
+  },
+  "enderio:fused_quartz_na_pink": {
+    "result": "enderio:fused_quartz_na_pink",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:pink"
+    ]
+  },
+  "enderio:fused_quartz_na_purple": {
+    "result": "enderio:fused_quartz_na_purple",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:purple"
+    ]
+  },
+  "enderio:fused_quartz_na_red": {
+    "result": "enderio:fused_quartz_na_red",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:red"
+    ]
+  },
+  "enderio:fused_quartz_na_white": {
+    "result": "enderio:fused_quartz_na_white",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:white"
+    ]
+  },
+  "enderio:fused_quartz_na_yellow": {
+    "result": "enderio:fused_quartz_na_yellow",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:yellow"
+    ]
+  },
+  "enderio:fused_quartz_nm_black": {
+    "result": "enderio:fused_quartz_nm_black",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:black"
+    ]
+  },
+  "enderio:fused_quartz_nm_blue": {
+    "result": "enderio:fused_quartz_nm_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:blue"
+    ]
+  },
+  "enderio:fused_quartz_nm_brown": {
+    "result": "enderio:fused_quartz_nm_brown",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:brown"
+    ]
+  },
+  "enderio:fused_quartz_nm_cyan": {
+    "result": "enderio:fused_quartz_nm_cyan",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:cyan"
+    ]
+  },
+  "enderio:fused_quartz_nm_gray": {
+    "result": "enderio:fused_quartz_nm_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:gray"
+    ]
+  },
+  "enderio:fused_quartz_nm_green": {
+    "result": "enderio:fused_quartz_nm_green",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:green"
+    ]
+  },
+  "enderio:fused_quartz_nm_light_blue": {
+    "result": "enderio:fused_quartz_nm_light_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:light_blue"
+    ]
+  },
+  "enderio:fused_quartz_nm_light_gray": {
+    "result": "enderio:fused_quartz_nm_light_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:light_gray"
+    ]
+  },
+  "enderio:fused_quartz_nm_lime": {
+    "result": "enderio:fused_quartz_nm_lime",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:lime"
+    ]
+  },
+  "enderio:fused_quartz_nm_magenta": {
+    "result": "enderio:fused_quartz_nm_magenta",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:magenta"
+    ]
+  },
+  "enderio:fused_quartz_nm_orange": {
+    "result": "enderio:fused_quartz_nm_orange",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:orange"
+    ]
+  },
+  "enderio:fused_quartz_nm_pink": {
+    "result": "enderio:fused_quartz_nm_pink",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:pink"
+    ]
+  },
+  "enderio:fused_quartz_nm_purple": {
+    "result": "enderio:fused_quartz_nm_purple",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:purple"
+    ]
+  },
+  "enderio:fused_quartz_nm_red": {
+    "result": "enderio:fused_quartz_nm_red",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:red"
+    ]
+  },
+  "enderio:fused_quartz_nm_white": {
+    "result": "enderio:fused_quartz_nm_white",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:white"
+    ]
+  },
+  "enderio:fused_quartz_nm_yellow": {
+    "result": "enderio:fused_quartz_nm_yellow",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:yellow"
+    ]
+  },
+  "enderio:fused_quartz_np_black": {
+    "result": "enderio:fused_quartz_np_black",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:black"
+    ]
+  },
+  "enderio:fused_quartz_np_blue": {
+    "result": "enderio:fused_quartz_np_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:blue"
+    ]
+  },
+  "enderio:fused_quartz_np_brown": {
+    "result": "enderio:fused_quartz_np_brown",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:brown"
+    ]
+  },
+  "enderio:fused_quartz_np_cyan": {
+    "result": "enderio:fused_quartz_np_cyan",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:cyan"
+    ]
+  },
+  "enderio:fused_quartz_np_gray": {
+    "result": "enderio:fused_quartz_np_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:gray"
+    ]
+  },
+  "enderio:fused_quartz_np_green": {
+    "result": "enderio:fused_quartz_np_green",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:green"
+    ]
+  },
+  "enderio:fused_quartz_np_light_blue": {
+    "result": "enderio:fused_quartz_np_light_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:light_blue"
+    ]
+  },
+  "enderio:fused_quartz_np_light_gray": {
+    "result": "enderio:fused_quartz_np_light_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:light_gray"
+    ]
+  },
+  "enderio:fused_quartz_np_lime": {
+    "result": "enderio:fused_quartz_np_lime",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:lime"
+    ]
+  },
+  "enderio:fused_quartz_np_magenta": {
+    "result": "enderio:fused_quartz_np_magenta",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:magenta"
+    ]
+  },
+  "enderio:fused_quartz_np_orange": {
+    "result": "enderio:fused_quartz_np_orange",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:orange"
+    ]
+  },
+  "enderio:fused_quartz_np_pink": {
+    "result": "enderio:fused_quartz_np_pink",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:pink"
+    ]
+  },
+  "enderio:fused_quartz_np_purple": {
+    "result": "enderio:fused_quartz_np_purple",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:purple"
+    ]
+  },
+  "enderio:fused_quartz_np_red": {
+    "result": "enderio:fused_quartz_np_red",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:red"
+    ]
+  },
+  "enderio:fused_quartz_np_white": {
+    "result": "enderio:fused_quartz_np_white",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:white"
+    ]
+  },
+  "enderio:fused_quartz_np_yellow": {
+    "result": "enderio:fused_quartz_np_yellow",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:yellow"
+    ]
+  },
+  "enderio:fused_quartz_orange": {
+    "result": "enderio:fused_quartz_orange",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:orange"
+    ]
+  },
+  "enderio:fused_quartz_pink": {
+    "result": "enderio:fused_quartz_pink",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:pink"
+    ]
+  },
+  "enderio:fused_quartz_purple": {
+    "result": "enderio:fused_quartz_purple",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:purple"
+    ]
+  },
+  "enderio:fused_quartz_p_black": {
+    "result": "enderio:fused_quartz_p_black",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:black"
+    ]
+  },
+  "enderio:fused_quartz_p_blue": {
+    "result": "enderio:fused_quartz_p_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:blue"
+    ]
+  },
+  "enderio:fused_quartz_p_brown": {
+    "result": "enderio:fused_quartz_p_brown",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:brown"
+    ]
+  },
+  "enderio:fused_quartz_p_cyan": {
+    "result": "enderio:fused_quartz_p_cyan",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:cyan"
+    ]
+  },
+  "enderio:fused_quartz_p_gray": {
+    "result": "enderio:fused_quartz_p_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:gray"
+    ]
+  },
+  "enderio:fused_quartz_p_green": {
+    "result": "enderio:fused_quartz_p_green",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:green"
+    ]
+  },
+  "enderio:fused_quartz_p_light_blue": {
+    "result": "enderio:fused_quartz_p_light_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:light_blue"
+    ]
+  },
+  "enderio:fused_quartz_p_light_gray": {
+    "result": "enderio:fused_quartz_p_light_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:light_gray"
+    ]
+  },
+  "enderio:fused_quartz_p_lime": {
+    "result": "enderio:fused_quartz_p_lime",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:lime"
+    ]
+  },
+  "enderio:fused_quartz_p_magenta": {
+    "result": "enderio:fused_quartz_p_magenta",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:magenta"
+    ]
+  },
+  "enderio:fused_quartz_p_orange": {
+    "result": "enderio:fused_quartz_p_orange",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:orange"
+    ]
+  },
+  "enderio:fused_quartz_p_pink": {
+    "result": "enderio:fused_quartz_p_pink",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:pink"
+    ]
+  },
+  "enderio:fused_quartz_p_purple": {
+    "result": "enderio:fused_quartz_p_purple",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:purple"
+    ]
+  },
+  "enderio:fused_quartz_p_red": {
+    "result": "enderio:fused_quartz_p_red",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:red"
+    ]
+  },
+  "enderio:fused_quartz_p_white": {
+    "result": "enderio:fused_quartz_p_white",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:white"
+    ]
+  },
+  "enderio:fused_quartz_p_yellow": {
+    "result": "enderio:fused_quartz_p_yellow",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:yellow"
+    ]
+  },
+  "enderio:fused_quartz_red": {
+    "result": "enderio:fused_quartz_red",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:red"
+    ]
+  },
+  "enderio:fused_quartz_white": {
+    "result": "enderio:fused_quartz_white",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:white"
+    ]
+  },
+  "enderio:fused_quartz_yellow": {
+    "result": "enderio:fused_quartz_yellow",
+    "count": 8,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:yellow"
+    ]
+  },
+  "farmersdelight:full_tatami_mat": {
+    "result": "farmersdelight:full_tatami_mat",
+    "count": 1,
+    "ingredients": [
+      "farmersdelight:half_tatami_mat",
+      "farmersdelight:half_tatami_mat",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "forbidden_arcanus:fungyss_button": {
+    "result": "forbidden_arcanus:fungyss_button",
+    "count": 1,
+    "ingredients": [
+      "forbidden_arcanus:fungyss_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "forbidden_arcanus:fungyss_door": {
+    "result": "forbidden_arcanus:fungyss_door",
+    "count": 3,
+    "ingredients": [
+      "forbidden_arcanus:fungyss_planks",
+      "forbidden_arcanus:fungyss_planks",
+      "",
+      "forbidden_arcanus:fungyss_planks",
+      "forbidden_arcanus:fungyss_planks",
+      "",
+      "forbidden_arcanus:fungyss_planks",
+      "forbidden_arcanus:fungyss_planks",
+      ""
+    ]
+  },
+  "forbidden_arcanus:fungyss_fence": {
+    "result": "forbidden_arcanus:fungyss_fence",
+    "count": 3,
+    "ingredients": [
+      "forbidden_arcanus:fungyss_planks",
+      "minecraft:stick",
+      "forbidden_arcanus:fungyss_planks",
+      "forbidden_arcanus:fungyss_planks",
+      "minecraft:stick",
+      "forbidden_arcanus:fungyss_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "forbidden_arcanus:fungyss_fence_gate": {
+    "result": "forbidden_arcanus:fungyss_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "forbidden_arcanus:fungyss_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "forbidden_arcanus:fungyss_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "forbidden_arcanus:fungyss_hyphae": {
+    "result": "forbidden_arcanus:fungyss_hyphae",
+    "count": 3,
+    "ingredients": [
+      "forbidden_arcanus:fungyss_stem",
+      "forbidden_arcanus:fungyss_stem",
+      "",
+      "forbidden_arcanus:fungyss_stem",
+      "forbidden_arcanus:fungyss_stem",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "forbidden_arcanus:fungyss_planks": {
+    "result": "forbidden_arcanus:fungyss_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:fungyss_stems",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "forbidden_arcanus:fungyss_pressure_plate": {
+    "result": "forbidden_arcanus:fungyss_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "forbidden_arcanus:fungyss_planks",
+      "forbidden_arcanus:fungyss_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "forbidden_arcanus:fungyss_slab": {
+    "result": "forbidden_arcanus:fungyss_slab",
+    "count": 6,
+    "ingredients": [
+      "forbidden_arcanus:fungyss_planks",
+      "forbidden_arcanus:fungyss_planks",
+      "forbidden_arcanus:fungyss_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "forbidden_arcanus:fungyss_stairs": {
+    "result": "forbidden_arcanus:fungyss_stairs",
+    "count": 4,
+    "ingredients": [
+      "forbidden_arcanus:fungyss_planks",
+      "",
+      "",
+      "forbidden_arcanus:fungyss_planks",
+      "forbidden_arcanus:fungyss_planks",
+      "",
+      "forbidden_arcanus:fungyss_planks",
+      "forbidden_arcanus:fungyss_planks",
+      "forbidden_arcanus:fungyss_planks"
+    ]
+  },
+  "forbidden_arcanus:fungyss_trapdoor": {
+    "result": "forbidden_arcanus:fungyss_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "forbidden_arcanus:fungyss_planks",
+      "forbidden_arcanus:fungyss_planks",
+      "forbidden_arcanus:fungyss_planks",
+      "forbidden_arcanus:fungyss_planks",
+      "forbidden_arcanus:fungyss_planks",
+      "forbidden_arcanus:fungyss_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:furnace_heater": {
+    "result": "immersiveengineering:furnace_heater",
+    "count": 1,
+    "ingredients": [
+      "minecraft:copper",
+      "immersiveengineering:wirecoil_copper",
+      "minecraft:copper",
+      "immersiveengineering:wirecoil_copper",
+      "minecraft:iron",
+      "immersiveengineering:wirecoil_copper",
+      "minecraft:copper",
+      "minecraft:redstone",
+      "minecraft:copper"
+    ]
+  },
+  "irons_spellbooks:furled_map_citadel": {
+    "result": "irons_spellbooks:furled_map_citadel",
+    "count": 1,
+    "ingredients": [
+      "minecraft:paper",
+      "irons_spellbooks:ancient_knowledge_fragment",
+      "minecraft:paper",
+      "irons_spellbooks:cinder_essence",
+      "minecraft:paper",
+      "irons_spellbooks:cinder_essence",
+      "minecraft:paper",
+      "irons_spellbooks:ancient_knowledge_fragment",
+      "minecraft:paper"
+    ]
+  },
+  "irons_spellbooks:furled_map_ice_spider_den": {
+    "result": "irons_spellbooks:furled_map_ice_spider_den",
+    "count": 1,
+    "ingredients": [
+      "irons_spellbooks:frozen_bone",
+      "minecraft:cobweb",
+      "",
+      "minecraft:cobweb",
+      "irons_spellbooks:magic_cloth",
+      "minecraft:cobweb",
+      "",
+      "minecraft:cobweb",
+      "irons_spellbooks:frozen_bone"
+    ]
+  },
+  "justdirethings:fuel_canister": {
+    "result": "justdirethings:fuel_canister",
+    "count": 1,
+    "ingredients": [
+      "",
+      "justdirethings:ferricore_ingot",
+      "",
+      "justdirethings:ferricore_ingot",
+      "minecraft:coal",
+      "justdirethings:ferricore_ingot",
+      "",
+      "justdirethings:ferricore_ingot",
+      ""
+    ]
+  },
+  "mekanism:fuelwood_heater": {
+    "result": "mekanism:fuelwood_heater",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:steel_ingot",
+      "minecraft:basic",
+      "modern_industrialization:steel_ingot",
+      "minecraft:furnace",
+      "mekanism:steel_casing",
+      "minecraft:furnace",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot"
+    ]
+  },
+  "mekanismgenerators:fusion_reactor_controller": {
+    "result": "mekanismgenerators:fusion_reactor_controller",
+    "count": 1,
+    "ingredients": [
+      "minecraft:ultimate",
+      "minecraft:glass",
+      "minecraft:ultimate",
+      "mekanismgenerators:fusion_reactor_frame",
+      "mekanism:basic_chemical_tank",
+      "mekanismgenerators:fusion_reactor_frame",
+      "mekanismgenerators:fusion_reactor_frame",
+      "mekanismgenerators:fusion_reactor_frame",
+      "mekanismgenerators:fusion_reactor_frame"
+    ]
+  },
+  "mekanismgenerators:fusion_reactor_frame": {
+    "result": "mekanismgenerators:fusion_reactor_frame",
+    "count": 4,
+    "ingredients": [
+      "minecraft:ultimate",
+      "minecraft:polonium",
+      "minecraft:ultimate",
+      "minecraft:polonium",
+      "mekanism:steel_casing",
+      "minecraft:polonium",
+      "minecraft:ultimate",
+      "minecraft:polonium",
+      "minecraft:ultimate"
+    ]
+  },
+  "mekanismgenerators:fusion_reactor_logic_adapter": {
+    "result": "mekanismgenerators:fusion_reactor_logic_adapter",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:redstone",
+      "",
+      "minecraft:redstone",
+      "mekanismgenerators:fusion_reactor_frame",
+      "minecraft:redstone",
+      "",
+      "minecraft:redstone",
+      ""
+    ]
+  },
+  "mekanismgenerators:fusion_reactor_port": {
+    "result": "mekanismgenerators:fusion_reactor_port",
+    "count": 2,
+    "ingredients": [
+      "",
+      "mekanismgenerators:fusion_reactor_frame",
+      "",
+      "mekanismgenerators:fusion_reactor_frame",
+      "minecraft:ultimate",
+      "mekanismgenerators:fusion_reactor_frame",
+      "",
+      "mekanismgenerators:fusion_reactor_frame",
+      ""
+    ]
+  },
+  "merrymaking:fudge": {
+    "result": "merrymaking:fudge",
+    "count": 4,
+    "ingredients": [
+      "minecraft:sugar",
+      "minecraft:milk_bucket",
+      "minecraft:cocoa_beans",
+      "merrymaking:icing",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mffs:fusion_module": {
+    "result": "mffs:fusion_module",
+    "count": 1,
+    "ingredients": [
+      "mffs:focus_matrix",
+      "mffs:shock_module",
+      "mffs:focus_matrix",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:furnace": {
+    "result": "minecraft:furnace",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone"
+    ]
+  },
+  "modern_industrialization:fusion_chamber": {
+    "result": "modern_industrialization:fusion_chamber",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:superconductor_coil",
+      "modern_industrialization:large_heat_exchanger",
+      "modern_industrialization:superconductor_coil",
+      "modern_industrialization:nuclear_alloy_large_plate",
+      "modern_industrialization:plasma_handling_iridium_machine_casing",
+      "modern_industrialization:nuclear_alloy_large_plate",
+      "modern_industrialization:superconductor_coil",
+      "modern_industrialization:large_heat_exchanger",
+      "modern_industrialization:superconductor_coil"
+    ]
+  },
+  "modern_industrialization:fusion_reactor": {
+    "result": "modern_industrialization:fusion_reactor",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:fusion_chamber",
+      "modern_industrialization:fusion_chamber",
+      "modern_industrialization:fusion_chamber",
+      "modern_industrialization:quantum_circuit",
+      "modern_industrialization:quantum_machine_hull",
+      "modern_industrialization:quantum_circuit",
+      "modern_industrialization:fusion_chamber",
+      "modern_industrialization:fusion_chamber",
+      "modern_industrialization:fusion_chamber"
+    ]
+  },
+  "mysticalagriculture:furnace": {
+    "result": "mysticalagriculture:furnace",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "mysticalagriculture:prosperity_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:furnace",
+      "mysticalagriculture:machine_frame",
+      "minecraft:furnace",
+      "minecraft:iron_ingot",
+      "mysticalagriculture:prosperity_ingot",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "oritech:fuel_generator_block": {
+    "result": "oritech:fuel_generator_block",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "oritech:enderic_lens",
+      "modern_industrialization:steel_ingot",
+      "oritech:basic_generator_block",
+      "minecraft:plating",
+      "oritech:basic_generator_block"
+    ]
+  },
+  "pamhc2foodcore:fudgesicleitem": {
+    "result": "pamhc2foodcore:fudgesicleitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "pamhc2foodcore:chocolatemilkitem",
+      "minecraft:ices",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:futomakiitem": {
+    "result": "pamhc2foodextended:futomakiitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:boiledegg",
+      "minecraft:cucumber",
+      "minecraft:wintersquash",
+      "minecraft:radish",
+      "minecraft:kelp",
+      "minecraft:ginger",
+      "minecraft:rice",
+      ""
+    ]
+  },
+  "powah:furnator_basic": {
+    "result": "powah:furnator_basic",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "powah:capacitor_basic",
+      "powah:dielectric_casing",
+      "powah:capacitor_basic",
+      "minecraft:iron_ingot",
+      "powah:furnator_starter",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "powah:furnator_blazing": {
+    "result": "powah:furnator_blazing",
+    "count": 1,
+    "ingredients": [
+      "powah:crystal_blazing",
+      "powah:crystal_blazing",
+      "powah:crystal_blazing",
+      "powah:capacitor_blazing",
+      "powah:dielectric_casing",
+      "powah:capacitor_blazing",
+      "powah:crystal_blazing",
+      "powah:furnator_hardened",
+      "powah:crystal_blazing"
+    ]
+  },
+  "powah:furnator_hardened": {
+    "result": "powah:furnator_hardened",
+    "count": 1,
+    "ingredients": [
+      "powah:steel_energized",
+      "powah:steel_energized",
+      "powah:steel_energized",
+      "powah:capacitor_hardened",
+      "powah:dielectric_casing",
+      "powah:capacitor_hardened",
+      "powah:steel_energized",
+      "powah:furnator_basic",
+      "powah:steel_energized"
+    ]
+  },
+  "powah:furnator_niotic": {
+    "result": "powah:furnator_niotic",
+    "count": 1,
+    "ingredients": [
+      "powah:crystal_niotic",
+      "powah:crystal_niotic",
+      "powah:crystal_niotic",
+      "powah:capacitor_niotic",
+      "powah:dielectric_casing",
+      "powah:capacitor_niotic",
+      "powah:crystal_niotic",
+      "powah:furnator_blazing",
+      "powah:crystal_niotic"
+    ]
+  },
+  "powah:furnator_nitro": {
+    "result": "powah:furnator_nitro",
+    "count": 1,
+    "ingredients": [
+      "powah:crystal_nitro",
+      "powah:crystal_nitro",
+      "powah:crystal_nitro",
+      "powah:capacitor_nitro",
+      "powah:dielectric_casing",
+      "powah:capacitor_nitro",
+      "powah:crystal_nitro",
+      "powah:furnator_spirited",
+      "powah:crystal_nitro"
+    ]
+  },
+  "powah:furnator_spirited": {
+    "result": "powah:furnator_spirited",
+    "count": 1,
+    "ingredients": [
+      "powah:crystal_spirited",
+      "powah:crystal_spirited",
+      "powah:crystal_spirited",
+      "powah:capacitor_spirited",
+      "powah:dielectric_casing",
+      "powah:capacitor_spirited",
+      "powah:crystal_spirited",
+      "powah:furnator_niotic",
+      "powah:crystal_spirited"
+    ]
+  },
+  "powah:furnator_starter": {
+    "result": "powah:furnator_starter",
+    "count": 1,
+    "ingredients": [
+      "powah:dielectric_paste",
+      "powah:dielectric_paste",
+      "powah:dielectric_paste",
+      "powah:capacitor_basic_tiny",
+      "powah:dielectric_casing",
+      "powah:capacitor_basic_tiny",
+      "powah:dielectric_paste",
+      "minecraft:furnace",
+      "powah:dielectric_paste"
+    ]
+  },
+  "securitycraft:furnace_mine": {
+    "result": "securitycraft:furnace_mine",
+    "count": 1,
+    "ingredients": [
+      "minecraft:furnace",
+      "securitycraft:mine",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

@@ -1,0 +1,1382 @@
+{
+  "allthecompressed:mud_1x": {
+    "result": "allthecompressed:mud_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:mud_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:mud_2x": {
+    "result": "allthecompressed:mud_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:mud_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:mud_3x": {
+    "result": "allthecompressed:mud_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:mud_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:mud_4x": {
+    "result": "allthecompressed:mud_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:mud_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:mud_5x": {
+    "result": "allthecompressed:mud_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:mud_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:mud_6x": {
+    "result": "allthecompressed:mud_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:mud_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:mud_7x": {
+    "result": "allthecompressed:mud_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:mud_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:mud_8x": {
+    "result": "allthecompressed:mud_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:mud_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:mud_9x": {
+    "result": "allthecompressed:mud_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:mud_8x",
+      "allthecompressed:mud_8x",
+      "allthecompressed:mud_8x",
+      "allthecompressed:mud_8x",
+      "allthecompressed:mud_8x",
+      "allthecompressed:mud_8x",
+      "allthecompressed:mud_8x",
+      "allthecompressed:mud_8x",
+      "allthecompressed:mud_8x"
+    ]
+  },
+  "minecraft:mud": {
+    "result": "minecraft:mud",
+    "count": 12,
+    "ingredients": [
+      "",
+      "mysticalagriculture:dirt_essence",
+      "",
+      "mysticalagriculture:dirt_essence",
+      "mysticalagriculture:water_essence",
+      "mysticalagriculture:dirt_essence",
+      "",
+      "mysticalagriculture:dirt_essence",
+      ""
+    ]
+  },
+  "ars_nouveau:mundane_belt": {
+    "result": "ars_nouveau:mundane_belt",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "minecraft:leather",
+      "minecraft:source",
+      "minecraft:leather",
+      "",
+      "minecraft:leather",
+      ""
+    ]
+  },
+  "biomeswevegone:mushroom_wreath": {
+    "result": "biomeswevegone:mushroom_wreath",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:mushrooms",
+      "",
+      "minecraft:mushrooms",
+      "biomeswevegone:wreath",
+      "minecraft:mushrooms",
+      "",
+      "minecraft:mushrooms",
+      ""
+    ]
+  },
+  "botanypots:mud_bricks_botany_pot": {
+    "result": "botanypots:mud_bricks_botany_pot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:mud_bricks",
+      "",
+      "minecraft:mud_bricks",
+      "minecraft:mud_bricks",
+      "minecraft:flower_pot",
+      "minecraft:mud_bricks",
+      "",
+      "minecraft:mud_bricks",
+      ""
+    ]
+  },
+  "botanypots:mud_bricks_hopper_botany_pot": {
+    "result": "botanypots:mud_bricks_hopper_botany_pot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:mud_bricks",
+      "minecraft:hopper",
+      "minecraft:mud_bricks",
+      "minecraft:mud_bricks",
+      "minecraft:flower_pot",
+      "minecraft:mud_bricks",
+      "",
+      "minecraft:mud_bricks",
+      ""
+    ]
+  },
+  "botanypots:mud_bricks_waxed_botany_pot": {
+    "result": "botanypots:mud_bricks_waxed_botany_pot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:honeycomb",
+      "botanypots:mud_bricks_botany_pot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "chipped:multimeter": {
+    "result": "chipped:multimeter",
+    "count": 1,
+    "ingredients": [
+      "chipped:tinkering_table",
+      "minecraft:redstone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:muddy_banyin_roots": {
+    "result": "eternal_starlight:muddy_banyin_roots",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:banyin_roots",
+      "eternal_starlight:nightfall_mud",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "farmersdelight:mutton_wrap": {
+    "result": "farmersdelight:mutton_wrap",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bread",
+      "minecraft:cooked_mutton",
+      "minecraft:leafy_green",
+      "minecraft:onion",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "forbidden_arcanus:mundabitur_dust": {
+    "result": "forbidden_arcanus:mundabitur_dust",
+    "count": 4,
+    "ingredients": [
+      "forbidden_arcanus:arcane_crystal_dust",
+      "minecraft:redstone",
+      "minecraft:blaze_powder",
+      "minecraft:bone_meal",
+      "minecraft:phantom_membrane",
+      "minecraft:gunpowder",
+      "",
+      "",
+      ""
+    ]
+  },
+  "herbsandharvest:mustard": {
+    "result": "herbsandharvest:mustard",
+    "count": 1,
+    "ingredients": [
+      "herbsandharvest:spice_jar_item",
+      "minecraft:sugar",
+      "minecraft:salt",
+      "herbsandharvest:ground_turmeric",
+      "herbsandharvest:chopped_mustard",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "industrialization_overdrive:multi_processing_array": {
+    "result": "industrialization_overdrive:multi_processing_array",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:large_advanced_motor",
+      "modern_industrialization:processing_unit",
+      "modern_industrialization:large_advanced_motor",
+      "modern_industrialization:solid_titanium_machine_casing",
+      "modern_industrialization:assembler",
+      "modern_industrialization:solid_titanium_machine_casing",
+      "modern_industrialization:large_advanced_motor",
+      "modern_industrialization:processing_unit",
+      "modern_industrialization:large_advanced_motor"
+    ]
+  },
+  "irons_spellbooks:music_disc_flame_still_burns": {
+    "result": "irons_spellbooks:music_disc_flame_still_burns",
+    "count": 1,
+    "ingredients": [
+      "irons_spellbooks:disc_fragment_flame_still_burns",
+      "irons_spellbooks:disc_fragment_flame_still_burns",
+      "irons_spellbooks:disc_fragment_flame_still_burns",
+      "irons_spellbooks:disc_fragment_flame_still_burns",
+      "minecraft:pyrium",
+      "irons_spellbooks:disc_fragment_flame_still_burns",
+      "irons_spellbooks:disc_fragment_flame_still_burns",
+      "irons_spellbooks:disc_fragment_flame_still_burns",
+      "irons_spellbooks:disc_fragment_flame_still_burns"
+    ]
+  },
+  "mcwbridges:mud_brick_bridge": {
+    "result": "mcwbridges:mud_brick_bridge",
+    "count": 1,
+    "ingredients": [
+      "mcwbridges:mud_brick_bridge_stair",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:mud_brick_bridge_pier": {
+    "result": "mcwbridges:mud_brick_bridge_pier",
+    "count": 3,
+    "ingredients": [
+      "minecraft:mud_bricks",
+      "minecraft:mud_brick_wall",
+      "minecraft:mud_bricks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:mud_brick_bridge_stair": {
+    "result": "mcwbridges:mud_brick_bridge_stair",
+    "count": 6,
+    "ingredients": [
+      "",
+      "",
+      "mcwbridges:mud_brick_bridge",
+      "",
+      "mcwbridges:mud_brick_bridge",
+      "mcwbridges:mud_brick_bridge",
+      "mcwbridges:mud_brick_bridge",
+      "mcwbridges:mud_brick_bridge",
+      "mcwbridges:mud_brick_bridge"
+    ]
+  },
+  "mcwfences:mud_brick_grass_topped_wall": {
+    "result": "mcwfences:mud_brick_grass_topped_wall",
+    "count": 6,
+    "ingredients": [
+      "minecraft:mud_bricks",
+      "minecraft:dirt",
+      "minecraft:mud_bricks",
+      "minecraft:packed_mud",
+      "minecraft:packed_mud",
+      "minecraft:packed_mud",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfences:mud_brick_pillar_wall": {
+    "result": "mcwfences:mud_brick_pillar_wall",
+    "count": 5,
+    "ingredients": [
+      "minecraft:packed_mud",
+      "minecraft:packed_mud",
+      "minecraft:packed_mud",
+      "minecraft:mud_bricks",
+      "",
+      "minecraft:mud_bricks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfences:mud_brick_railing_gate": {
+    "result": "mcwfences:mud_brick_railing_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_bars",
+      "minecraft:mud_bricks",
+      "minecraft:iron_bars",
+      "minecraft:iron_bars",
+      "minecraft:mud_bricks",
+      "minecraft:iron_bars",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwwindows:mud_brick_arrow_slit": {
+    "result": "mcwwindows:mud_brick_arrow_slit",
+    "count": 3,
+    "ingredients": [
+      "",
+      "minecraft:mud_bricks",
+      "minecraft:mud_bricks",
+      "",
+      "minecraft:mud_brick_slab",
+      "minecraft:mud_brick_slab",
+      "",
+      "minecraft:mud_bricks",
+      "minecraft:mud_bricks"
+    ]
+  },
+  "mcwwindows:mud_brick_gothic": {
+    "result": "mcwwindows:mud_brick_gothic",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:mud_bricks",
+      "",
+      "minecraft:mud_bricks",
+      "minecraft:glass_pane",
+      "minecraft:mud_bricks",
+      "",
+      "minecraft:mud_bricks",
+      ""
+    ]
+  },
+  "merrymaking:mug": {
+    "result": "merrymaking:mug",
+    "count": 1,
+    "ingredients": [
+      "minecraft:brick",
+      "",
+      "minecraft:brick",
+      "minecraft:brick",
+      "",
+      "minecraft:brick",
+      "minecraft:brick",
+      "minecraft:brick",
+      "minecraft:brick"
+    ]
+  },
+  "merrymaking:mug_cocoa": {
+    "result": "merrymaking:mug_cocoa",
+    "count": 1,
+    "ingredients": [
+      "minecraft:sugar",
+      "minecraft:milk_bucket",
+      "minecraft:cocoa_beans",
+      "merrymaking:mug",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:multi_bulbs": {
+    "result": "merrymaking:multi_bulbs",
+    "count": 4,
+    "ingredients": [
+      "minecraft:glowstone_dust",
+      "minecraft:iron_nugget",
+      "minecraft:glass_pane",
+      "minecraft:blue_dye",
+      "minecraft:red_dye",
+      "minecraft:yellow_dye",
+      "minecraft:green_dye",
+      "",
+      ""
+    ]
+  },
+  "minecolonies:mutton_dinner": {
+    "result": "minecolonies:mutton_dinner",
+    "count": 1,
+    "ingredients": [
+      "minecolonies:peas",
+      "minecolonies:garlic",
+      "minecraft:mutton",
+      "minecraft:potato",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:muddy_mangrove_roots": {
+    "result": "minecraft:muddy_mangrove_roots",
+    "count": 1,
+    "ingredients": [
+      "minecraft:mud",
+      "minecraft:mangrove_roots",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:mud_bricks": {
+    "result": "minecraft:mud_bricks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:packed_mud",
+      "minecraft:packed_mud",
+      "",
+      "minecraft:packed_mud",
+      "minecraft:packed_mud",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:mud_brick_slab": {
+    "result": "minecraft:mud_brick_slab",
+    "count": 6,
+    "ingredients": [
+      "minecraft:mud_bricks",
+      "minecraft:mud_bricks",
+      "minecraft:mud_bricks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:mud_brick_stairs": {
+    "result": "minecraft:mud_brick_stairs",
+    "count": 4,
+    "ingredients": [
+      "minecraft:mud_bricks",
+      "",
+      "",
+      "minecraft:mud_bricks",
+      "minecraft:mud_bricks",
+      "",
+      "minecraft:mud_bricks",
+      "minecraft:mud_bricks",
+      "minecraft:mud_bricks"
+    ]
+  },
+  "minecraft:mud_brick_wall": {
+    "result": "minecraft:mud_brick_wall",
+    "count": 6,
+    "ingredients": [
+      "minecraft:mud_bricks",
+      "minecraft:mud_bricks",
+      "minecraft:mud_bricks",
+      "minecraft:mud_bricks",
+      "minecraft:mud_bricks",
+      "minecraft:mud_bricks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:mushroom_stew": {
+    "result": "minecraft:mushroom_stew",
+    "count": 1,
+    "ingredients": [
+      "minecraft:brown_mushroom",
+      "minecraft:red_mushroom",
+      "minecraft:bowl",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:music_disc_5": {
+    "result": "minecraft:music_disc_5",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:blank_record",
+      "mysticalagriculture:deepslate_essence",
+      "",
+      "mysticalagriculture:end_essence",
+      "minecraft:cyan",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modularrouters:muffler_upgrade": {
+    "result": "modularrouters:muffler_upgrade",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:white_wool",
+      "",
+      "minecraft:white_wool",
+      "modularrouters:blank_upgrade",
+      "minecraft:white_wool",
+      "",
+      "minecraft:white_wool",
+      ""
+    ]
+  },
+  "morered:multiplexer": {
+    "result": "morered:multiplexer",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone",
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:redstone",
+      "minecraft:iron_ingot",
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:redstone",
+      "minecraft:stone"
+    ]
+  },
+  "multipiston:multipistonblock": {
+    "result": "multipiston:multipistonblock",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:redstone_block",
+      "",
+      "minecraft:redstone_block",
+      "minecraft:piston",
+      "minecraft:piston",
+      "minecraft:piston"
+    ]
+  },
+  "minecraft:music_disc_11": {
+    "result": "minecraft:music_disc_11",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:blank_record",
+      "mysticalagriculture:creeper_essence",
+      "",
+      "mysticalagriculture:skeleton_essence",
+      "minecraft:gray",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:music_disc_13": {
+    "result": "minecraft:music_disc_13",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:blank_record",
+      "mysticalagriculture:creeper_essence",
+      "",
+      "mysticalagriculture:skeleton_essence",
+      "minecraft:yellow",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:music_disc_blocks": {
+    "result": "minecraft:music_disc_blocks",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:blank_record",
+      "mysticalagriculture:creeper_essence",
+      "",
+      "mysticalagriculture:skeleton_essence",
+      "minecraft:orange",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:music_disc_cat": {
+    "result": "minecraft:music_disc_cat",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:blank_record",
+      "mysticalagriculture:creeper_essence",
+      "",
+      "mysticalagriculture:skeleton_essence",
+      "minecraft:lime",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:music_disc_chirp": {
+    "result": "minecraft:music_disc_chirp",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:blank_record",
+      "mysticalagriculture:creeper_essence",
+      "",
+      "mysticalagriculture:skeleton_essence",
+      "minecraft:red",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:music_disc_creator": {
+    "result": "minecraft:music_disc_creator",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:blank_record",
+      "mysticalagriculture:copper_essence",
+      "",
+      "mysticalagriculture:gold_essence",
+      "minecraft:cyan",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:music_disc_creator_music_box": {
+    "result": "minecraft:music_disc_creator_music_box",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:blank_record",
+      "mysticalagriculture:copper_essence",
+      "",
+      "mysticalagriculture:gold_essence",
+      "minecraft:orange",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:music_disc_far": {
+    "result": "minecraft:music_disc_far",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:blank_record",
+      "mysticalagriculture:creeper_essence",
+      "",
+      "mysticalagriculture:skeleton_essence",
+      "minecraft:cyan",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:music_disc_mall": {
+    "result": "minecraft:music_disc_mall",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:blank_record",
+      "mysticalagriculture:creeper_essence",
+      "",
+      "mysticalagriculture:skeleton_essence",
+      "minecraft:purple",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:music_disc_mellohi": {
+    "result": "minecraft:music_disc_mellohi",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:blank_record",
+      "mysticalagriculture:creeper_essence",
+      "",
+      "mysticalagriculture:skeleton_essence",
+      "minecraft:magenta",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:music_disc_otherside": {
+    "result": "minecraft:music_disc_otherside",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:blank_record",
+      "mysticalagriculture:stone_essence",
+      "",
+      "mysticalagriculture:enderman_essence",
+      "minecraft:cyan",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:music_disc_pigstep": {
+    "result": "minecraft:music_disc_pigstep",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:blank_record",
+      "mysticalagriculture:nether_essence",
+      "",
+      "mysticalagriculture:netherite_essence",
+      "mysticalagriculture:gold_essence",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:music_disc_precipice": {
+    "result": "minecraft:music_disc_precipice",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:blank_record",
+      "mysticalagriculture:copper_essence",
+      "",
+      "mysticalagriculture:stone_essence",
+      "minecraft:cyan",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:music_disc_relic": {
+    "result": "minecraft:music_disc_relic",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:blank_record",
+      "mysticalagriculture:stone_essence",
+      "",
+      "mysticalagriculture:copper_essence",
+      "mysticalagriculture:diamond_essence",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:music_disc_stal": {
+    "result": "minecraft:music_disc_stal",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:blank_record",
+      "mysticalagriculture:creeper_essence",
+      "",
+      "mysticalagriculture:skeleton_essence",
+      "minecraft:black",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:music_disc_strad": {
+    "result": "minecraft:music_disc_strad",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:blank_record",
+      "mysticalagriculture:creeper_essence",
+      "",
+      "mysticalagriculture:skeleton_essence",
+      "minecraft:white",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:music_disc_wait": {
+    "result": "minecraft:music_disc_wait",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:blank_record",
+      "mysticalagriculture:creeper_essence",
+      "",
+      "mysticalagriculture:skeleton_essence",
+      "minecraft:light_blue",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:music_disc_ward": {
+    "result": "minecraft:music_disc_ward",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:blank_record",
+      "mysticalagriculture:creeper_essence",
+      "",
+      "mysticalagriculture:skeleton_essence",
+      "minecraft:green",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:mutton": {
+    "result": "minecraft:mutton",
+    "count": 6,
+    "ingredients": [
+      "mysticalagriculture:sheep_essence",
+      "mysticalagriculture:sheep_essence",
+      "mysticalagriculture:sheep_essence",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2crops:mulberryseeditem": {
+    "result": "pamhc2crops:mulberryseeditem",
+    "count": 1,
+    "ingredients": [
+      "pamhc2crops:mulberryitem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2crops:mustardseedsseeditem": {
+    "result": "pamhc2crops:mustardseedsseeditem",
+    "count": 1,
+    "ingredients": [
+      "pamhc2crops:mustardseedsitem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:muttonjerkyitem": {
+    "result": "pamhc2foodcore:muttonjerkyitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:rawmutton",
+      "minecraft:salt",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:muttonnoodlesoupitem": {
+    "result": "pamhc2foodcore:muttonnoodlesoupitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:pasta",
+      "minecraft:stock",
+      "minecraft:vegetables",
+      "minecraft:rawmutton",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:muttonpotpieitem": {
+    "result": "pamhc2foodcore:muttonpotpieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:rawmutton",
+      "minecraft:potato",
+      "minecraft:carrot",
+      "minecraft:dough",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:mulberryjellyitem": {
+    "result": "pamhc2foodextended:mulberryjellyitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:mulberry",
+      "minecraft:sugar",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:mulberryjellysandwichitem": {
+    "result": "pamhc2foodextended:mulberryjellysandwichitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:mulberryjelly",
+      "minecraft:bread",
+      "minecraft:nutbutters",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:mulberryjellytoastitem": {
+    "result": "pamhc2foodextended:mulberryjellytoastitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:mulberryjelly",
+      "minecraft:toast",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:mulberryjuiceitem": {
+    "result": "pamhc2foodextended:mulberryjuiceitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_juicer",
+      "minecraft:mulberry",
+      "minecraft:mulberry",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:mulberrypieitem": {
+    "result": "pamhc2foodextended:mulberrypieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:mulberry",
+      "minecraft:sugar",
+      "minecraft:dough",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:mulberrysmoothieitem": {
+    "result": "pamhc2foodextended:mulberrysmoothieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:mulberry",
+      "minecraft:ices",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:mulberryyogurtitem": {
+    "result": "pamhc2foodextended:mulberryyogurtitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:mulberry",
+      "minecraft:yogurt",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:museliitem": {
+    "result": "pamhc2foodextended:museliitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:grain",
+      "pamhc2foodextended:raisinsitem",
+      "minecraft:pecan",
+      "minecraft:sugar",
+      "minecraft:milk",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:mushroomketchupitem": {
+    "result": "pamhc2foodextended:mushroomketchupitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:mushrooms",
+      "minecraft:vinegar",
+      "minecraft:spiceleaf",
+      "minecraft:water",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:mushroomketchupomeletitem": {
+    "result": "pamhc2foodextended:mushroomketchupomeletitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_skillet",
+      "pamhc2foodextended:mushroomketchupitem",
+      "minecraft:egg",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:mushroomlasagnaitem": {
+    "result": "pamhc2foodextended:mushroomlasagnaitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:pasta",
+      "minecraft:cheese",
+      "minecraft:tomato",
+      "minecraft:onion",
+      "minecraft:garlic",
+      "minecraft:mushrooms",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:mushroomoilitem": {
+    "result": "pamhc2foodextended:mushroomoilitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_roller",
+      "minecraft:mushrooms",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:mushroomrisottoitem": {
+    "result": "pamhc2foodextended:mushroomrisottoitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:rice",
+      "minecraft:mushrooms",
+      "minecraft:onion",
+      "minecraft:cheese",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:mushroomsteakitem": {
+    "result": "pamhc2foodextended:mushroomsteakitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_skillet",
+      "minecraft:rawbeef",
+      "minecraft:mushrooms",
+      "minecraft:butter",
+      "minecraft:blackpepper",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:mustarditem": {
+    "result": "pamhc2foodextended:mustarditem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_juicer",
+      "minecraft:mustardseeds",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:musubiitem": {
+    "result": "pamhc2foodextended:musubiitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:rawpork",
+      "minecraft:rice",
+      "minecraft:kelp",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pneumaticcraft:muffler_upgrade": {
+    "result": "pneumaticcraft:muffler_upgrade",
+    "count": 4,
+    "ingredients": [
+      "minecraft:upgrade_components",
+      "minecraft:white_wool",
+      "minecraft:upgrade_components",
+      "minecraft:white_wool",
+      "minecraft:white_wool",
+      "minecraft:white_wool",
+      "minecraft:upgrade_components",
+      "minecraft:white_wool",
+      "minecraft:upgrade_components"
+    ]
+  },
+  "rootsclassic:mundane_standing_stone": {
+    "result": "rootsclassic:mundane_standing_stone",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone",
+      "minecraft:stone_bricks",
+      "minecraft:stone",
+      "minecraft:stone_bricks",
+      "minecraft:lapis_lazuli",
+      "minecraft:stone_bricks",
+      "minecraft:stone",
+      "minecraft:stone_bricks",
+      "minecraft:stone"
+    ]
+  },
+  "rootsclassic:mutating_powder": {
+    "result": "rootsclassic:mutating_powder",
+    "count": 1,
+    "ingredients": [
+      "rootsclassic:growth_powder",
+      "rootsclassic:growth_powder",
+      "rootsclassic:growth_powder",
+      "rootsclassic:growth_powder",
+      "minecraft:nether_stars",
+      "minecraft:nether_wart",
+      "rootsclassic:pestle",
+      "",
+      ""
+    ]
+  },
+  "xycraft_override:mud_bricks_blue": {
+    "result": "xycraft_override:mud_bricks_blue",
+    "count": 2,
+    "ingredients": [
+      "xycraft_world:xychorium_gem_blue",
+      "minecraft:mud_bricks",
+      "",
+      "minecraft:mud_bricks",
+      "xycraft_world:xychorium_gem_blue",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xycraft_override:mud_bricks_dark": {
+    "result": "xycraft_override:mud_bricks_dark",
+    "count": 2,
+    "ingredients": [
+      "xycraft_world:xychorium_gem_dark",
+      "minecraft:mud_bricks",
+      "",
+      "minecraft:mud_bricks",
+      "xycraft_world:xychorium_gem_dark",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xycraft_override:mud_bricks_green": {
+    "result": "xycraft_override:mud_bricks_green",
+    "count": 2,
+    "ingredients": [
+      "xycraft_world:xychorium_gem_green",
+      "minecraft:mud_bricks",
+      "",
+      "minecraft:mud_bricks",
+      "xycraft_world:xychorium_gem_green",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xycraft_override:mud_bricks_light": {
+    "result": "xycraft_override:mud_bricks_light",
+    "count": 2,
+    "ingredients": [
+      "xycraft_world:xychorium_gem_light",
+      "minecraft:mud_bricks",
+      "",
+      "minecraft:mud_bricks",
+      "xycraft_world:xychorium_gem_light",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xycraft_override:mud_bricks_red": {
+    "result": "xycraft_override:mud_bricks_red",
+    "count": 2,
+    "ingredients": [
+      "xycraft_world:xychorium_gem_red",
+      "minecraft:mud_bricks",
+      "",
+      "minecraft:mud_bricks",
+      "xycraft_world:xychorium_gem_red",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "advancedperipherals:overpowered_end_automata_core": {
+    "result": "advancedperipherals:overpowered_end_automata_core",
+    "count": 1,
+    "ingredients": [
+      "advancedperipherals:end_automata_core",
+      "minecraft:nether_star",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "advancedperipherals:overpowered_husbandry_automata_core": {
+    "result": "advancedperipherals:overpowered_husbandry_automata_core",
+    "count": 1,
+    "ingredients": [
+      "advancedperipherals:husbandry_automata_core",
+      "minecraft:nether_star",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "advancedperipherals:overpowered_weak_automata_core": {
+    "result": "advancedperipherals:overpowered_weak_automata_core",
+    "count": 1,
+    "ingredients": [
+      "advancedperipherals:weak_automata_core",
+      "minecraft:nether_star",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "extendedae:oversize_interface": {
+    "result": "extendedae:oversize_interface",
+    "count": 1,
+    "ingredients": [
+      "extendedae:oversize_interface_part",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "extendedae:oversize_interface_part": {
+    "result": "extendedae:oversize_interface_part",
+    "count": 1,
+    "ingredients": [
+      "extendedae:oversize_interface",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "handcrafted:oven": {
+    "result": "handcrafted:oven",
+    "count": 1,
+    "ingredients": [
+      "minecraft:brick",
+      "minecraft:iron_bars",
+      "minecraft:brick",
+      "minecraft:brick",
+      "minecraft:smoker",
+      "minecraft:brick",
+      "minecraft:brick",
+      "minecraft:brick",
+      "minecraft:brick"
+    ]
+  },
+  "laserio:overclocker_card": {
+    "result": "laserio:overclocker_card",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:gold_ingot",
+      "",
+      "minecraft:redstone",
+      "laserio:logic_chip",
+      "minecraft:redstone",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot"
+    ]
+  },
+  "laserio:overclocker_node": {
+    "result": "laserio:overclocker_node",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:diamond",
+      "",
+      "minecraft:redstone",
+      "laserio:logic_chip",
+      "minecraft:redstone",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond"
+    ]
+  },
+  "modern_industrialization:overdrive_module": {
+    "result": "modern_industrialization:overdrive_module",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:electrum_fine_wire",
+      "modern_industrialization:diode",
+      "modern_industrialization:electrum_fine_wire",
+      "modern_industrialization:transistor",
+      "modern_industrialization:electronic_circuit_board",
+      "modern_industrialization:transistor",
+      "modern_industrialization:electrum_fine_wire",
+      "modern_industrialization:diode",
+      "modern_industrialization:electrum_fine_wire"
+    ]
+  },
+  "oritech:overcharged_crystal": {
+    "result": "oritech:overcharged_crystal",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:amethyst_block",
+      "",
+      "oritech:superconductor",
+      "oritech:advanced_battery",
+      "oritech:superconductor",
+      "oritech:superconductor",
+      "oritech:advanced_battery",
+      "oritech:superconductor"
+    ]
+  },
+  "pamhc2foodextended:ovenroastedcaulifloweritem": {
+    "result": "pamhc2foodextended:ovenroastedcaulifloweritem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:cauliflower",
+      "minecraft:cookingoil",
+      "minecraft:garlic",
+      "minecraft:lemon",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:overalls": {
+    "result": "railcraft:overalls",
+    "count": 1,
+    "ingredients": [
+      "minecraft:cyan_wool",
+      "minecraft:cyan_wool",
+      "minecraft:cyan_wool",
+      "minecraft:cyan_wool",
+      "",
+      "minecraft:cyan_wool",
+      "minecraft:cyan_wool",
+      "",
+      "minecraft:cyan_wool"
+    ]
+  },
+  "regions_unexplored:overgrown_bone_block": {
+    "result": "regions_unexplored:overgrown_bone_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bone_block",
+      "regions_unexplored:glistering_nylium",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

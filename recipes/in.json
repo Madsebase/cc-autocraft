@@ -1,0 +1,3047 @@
+{
+  "advancedperipherals:inventory_manager": {
+    "result": "advancedperipherals:inventory_manager",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:chest",
+      "minecraft:iron_ingot",
+      "minecraft:chest",
+      "advancedperipherals:peripheral_casing",
+      "minecraft:chest",
+      "minecraft:iron_ingot",
+      "minecraft:chest",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "ae2:inverter_card": {
+    "result": "ae2:inverter_card",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone_torch",
+      "ae2:advanced_card",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ae2:inscriber": {
+    "result": "ae2:inscriber",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:piston",
+      "minecraft:iron_ingot",
+      "minecraft:copper_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:piston",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "ae2:interface": {
+    "result": "ae2:interface",
+    "count": 1,
+    "ingredients": [
+      "ae2:cable_interface",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ae2:inverted_toggle_bus": {
+    "result": "ae2:inverted_toggle_bus",
+    "count": 1,
+    "ingredients": [
+      "ae2:toggle_bus",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "aeinfinitybooster:infinity_card": {
+    "result": "aeinfinitybooster:infinity_card",
+    "count": 1,
+    "ingredients": [
+      "minecraft:ender_eye",
+      "ae2:wireless_booster",
+      "minecraft:ender_eye",
+      "ae2:wireless_booster",
+      "minecraft:nether_star",
+      "ae2:wireless_booster",
+      "minecraft:netherite_ingot",
+      "minecraft:netherite_ingot",
+      "minecraft:netherite_ingot"
+    ]
+  },
+  "aether:incubator": {
+    "result": "aether:incubator",
+    "count": 1,
+    "ingredients": [
+      "aether:holystone",
+      "aether:holystone",
+      "aether:holystone",
+      "aether:holystone",
+      "aether:ambrosium_torch",
+      "aether:holystone",
+      "aether:holystone",
+      "aether:holystone",
+      "aether:holystone"
+    ]
+  },
+  "allthecompressed:invar_block_1x": {
+    "result": "allthecompressed:invar_block_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:invar_block_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:invar_block_2x": {
+    "result": "allthecompressed:invar_block_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:invar_block_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:invar_block_3x": {
+    "result": "allthecompressed:invar_block_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:invar_block_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:invar_block_4x": {
+    "result": "allthecompressed:invar_block_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:invar_block_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:invar_block_5x": {
+    "result": "allthecompressed:invar_block_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:invar_block_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:invar_block_6x": {
+    "result": "allthecompressed:invar_block_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:invar_block_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:invar_block_7x": {
+    "result": "allthecompressed:invar_block_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:invar_block_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:invar_block_8x": {
+    "result": "allthecompressed:invar_block_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:invar_block_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:invar_block_9x": {
+    "result": "allthecompressed:invar_block_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:invar_block_8x",
+      "allthecompressed:invar_block_8x",
+      "allthecompressed:invar_block_8x",
+      "allthecompressed:invar_block_8x",
+      "allthecompressed:invar_block_8x",
+      "allthecompressed:invar_block_8x",
+      "allthecompressed:invar_block_8x",
+      "allthecompressed:invar_block_8x",
+      "allthecompressed:invar_block_8x"
+    ]
+  },
+  "alltheores:invar_block": {
+    "result": "alltheores:invar_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:invar",
+      "minecraft:invar",
+      "minecraft:invar",
+      "minecraft:invar",
+      "minecraft:invar",
+      "minecraft:invar",
+      "minecraft:invar",
+      "minecraft:invar",
+      "minecraft:invar"
+    ]
+  },
+  "alltheores:invar_ore_hammer": {
+    "result": "alltheores:invar_ore_hammer",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:invar",
+      "minecraft:stick",
+      "",
+      "minecraft:stick",
+      "minecraft:invar",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "alltheores:invar_dust": {
+    "result": "alltheores:invar_dust",
+    "count": 3,
+    "ingredients": [
+      "alltheores:iron_dust",
+      "alltheores:iron_dust",
+      "minecraft:nickel",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "alltheores:invar_gear": {
+    "result": "alltheores:invar_gear",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:invar",
+      "",
+      "minecraft:invar",
+      "minecraft:iron",
+      "minecraft:invar",
+      "",
+      "minecraft:invar",
+      ""
+    ]
+  },
+  "alltheores:invar_ingot": {
+    "result": "alltheores:invar_ingot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:invar",
+      "minecraft:invar",
+      "minecraft:invar",
+      "minecraft:invar",
+      "minecraft:invar",
+      "minecraft:invar",
+      "minecraft:invar",
+      "minecraft:invar",
+      "minecraft:invar"
+    ]
+  },
+  "alltheores:invar_nugget": {
+    "result": "alltheores:invar_nugget",
+    "count": 9,
+    "ingredients": [
+      "minecraft:invar",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "alltheores:invar_plate": {
+    "result": "alltheores:invar_plate",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "minecraft:ore_hammers",
+      "minecraft:invar",
+      "",
+      "minecraft:invar",
+      "",
+      ""
+    ]
+  },
+  "alltheores:invar_rod": {
+    "result": "alltheores:invar_rod",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "minecraft:invar",
+      "minecraft:ore_hammers",
+      "minecraft:invar",
+      ""
+    ]
+  },
+  "apothic_enchanting:inert_trident": {
+    "result": "apothic_enchanting:inert_trident",
+    "count": 1,
+    "ingredients": [
+      "minecraft:nautilus_shell",
+      "minecraft:nautilus_shell",
+      "minecraft:nautilus_shell",
+      "",
+      "minecraft:heart_of_the_sea",
+      "",
+      "",
+      "minecraft:iron_ingot",
+      ""
+    ]
+  },
+  "appflux:induction_card": {
+    "result": "appflux:induction_card",
+    "count": 1,
+    "ingredients": [
+      "appflux:flux_accessor",
+      "ae2:basic_card",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "appflux:insulating_resin": {
+    "result": "appflux:insulating_resin",
+    "count": 1,
+    "ingredients": [
+      "minecraft:water_bucket",
+      "minecraft:cactus",
+      "minecraft:cactus",
+      "minecraft:bone_meal",
+      "minecraft:silicon",
+      "minecraft:slime_ball",
+      "minecraft:stone",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:integrateddynamics_menril_bookcase": {
+    "result": "bibliocraft:integrateddynamics_menril_bookcase",
+    "count": 1,
+    "ingredients": [
+      "integrateddynamics:menril_planks",
+      "integrateddynamics:menril_slab",
+      "integrateddynamics:menril_planks",
+      "integrateddynamics:menril_planks",
+      "integrateddynamics:menril_slab",
+      "integrateddynamics:menril_planks",
+      "integrateddynamics:menril_planks",
+      "integrateddynamics:menril_slab",
+      "integrateddynamics:menril_planks"
+    ]
+  },
+  "bibliocraft:integrateddynamics_menril_fancy_armor_stand": {
+    "result": "bibliocraft:integrateddynamics_menril_fancy_armor_stand",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "integrateddynamics:menril_slab",
+      "integrateddynamics:menril_slab",
+      "integrateddynamics:menril_slab"
+    ]
+  },
+  "bibliocraft:integrateddynamics_menril_fancy_clock": {
+    "result": "bibliocraft:integrateddynamics_menril_fancy_clock",
+    "count": 1,
+    "ingredients": [
+      "integrateddynamics:menril_slab",
+      "minecraft:clock",
+      "integrateddynamics:menril_slab",
+      "integrateddynamics:menril_slab",
+      "minecraft:stick",
+      "integrateddynamics:menril_slab",
+      "integrateddynamics:menril_slab",
+      "minecraft:copper_ingot",
+      "integrateddynamics:menril_slab"
+    ]
+  },
+  "bibliocraft:integrateddynamics_menril_fancy_crafter": {
+    "result": "bibliocraft:integrateddynamics_menril_fancy_crafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black",
+      "minecraft:crafting_tables",
+      "minecraft:feather",
+      "integrateddynamics:menril_planks",
+      "minecraft:glass",
+      "integrateddynamics:menril_planks",
+      "integrateddynamics:menril_planks",
+      "minecraft:crafter",
+      "integrateddynamics:menril_planks"
+    ]
+  },
+  "bibliocraft:integrateddynamics_menril_fancy_sign": {
+    "result": "bibliocraft:integrateddynamics_menril_fancy_sign",
+    "count": 1,
+    "ingredients": [
+      "integrateddynamics:menril_planks",
+      "minecraft:paper",
+      "integrateddynamics:menril_planks",
+      "integrateddynamics:menril_planks",
+      "minecraft:paper",
+      "integrateddynamics:menril_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "bibliocraft:integrateddynamics_menril_grandfather_clock": {
+    "result": "bibliocraft:integrateddynamics_menril_grandfather_clock",
+    "count": 1,
+    "ingredients": [
+      "bibliocraft:integrateddynamics_menril_fancy_clock",
+      "bibliocraft:integrateddynamics_menril_fancy_clock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:integrateddynamics_menril_label": {
+    "result": "bibliocraft:integrateddynamics_menril_label",
+    "count": 1,
+    "ingredients": [
+      "integrateddynamics:menril_slab",
+      "integrateddynamics:menril_slab",
+      "integrateddynamics:menril_slab",
+      "integrateddynamics:menril_slab",
+      "integrateddynamics:menril_slab",
+      "integrateddynamics:menril_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:integrateddynamics_menril_potion_shelf": {
+    "result": "bibliocraft:integrateddynamics_menril_potion_shelf",
+    "count": 1,
+    "ingredients": [
+      "integrateddynamics:menril_slab",
+      "integrateddynamics:menril_slab",
+      "integrateddynamics:menril_slab",
+      "integrateddynamics:menril_planks",
+      "minecraft:glass_bottle",
+      "integrateddynamics:menril_planks",
+      "integrateddynamics:menril_slab",
+      "integrateddynamics:menril_slab",
+      "integrateddynamics:menril_slab"
+    ]
+  },
+  "bibliocraft:integrateddynamics_menril_shelf": {
+    "result": "bibliocraft:integrateddynamics_menril_shelf",
+    "count": 1,
+    "ingredients": [
+      "integrateddynamics:menril_slab",
+      "integrateddynamics:menril_slab",
+      "integrateddynamics:menril_slab",
+      "",
+      "integrateddynamics:menril_planks",
+      "",
+      "integrateddynamics:menril_slab",
+      "integrateddynamics:menril_slab",
+      "integrateddynamics:menril_slab"
+    ]
+  },
+  "bibliocraft:integrateddynamics_menril_table": {
+    "result": "bibliocraft:integrateddynamics_menril_table",
+    "count": 1,
+    "ingredients": [
+      "integrateddynamics:menril_slab",
+      "integrateddynamics:menril_slab",
+      "integrateddynamics:menril_slab",
+      "",
+      "integrateddynamics:menril_planks",
+      "",
+      "",
+      "integrateddynamics:menril_planks",
+      ""
+    ]
+  },
+  "bibliocraft:integrateddynamics_menril_tool_rack": {
+    "result": "bibliocraft:integrateddynamics_menril_tool_rack",
+    "count": 1,
+    "ingredients": [
+      "integrateddynamics:menril_slab",
+      "integrateddynamics:menril_slab",
+      "integrateddynamics:menril_slab",
+      "integrateddynamics:menril_slab",
+      "minecraft:iron_ingot",
+      "integrateddynamics:menril_slab",
+      "integrateddynamics:menril_slab",
+      "integrateddynamics:menril_slab",
+      "integrateddynamics:menril_slab"
+    ]
+  },
+  "bigreactors:inanite_block": {
+    "result": "bigreactors:inanite_block",
+    "count": 1,
+    "ingredients": [
+      "bigreactors:inanite_ingot",
+      "bigreactors:inanite_ingot",
+      "bigreactors:inanite_ingot",
+      "bigreactors:inanite_ingot",
+      "minecraft:netherite_block",
+      "bigreactors:inanite_ingot",
+      "bigreactors:inanite_ingot",
+      "bigreactors:inanite_ingot",
+      "bigreactors:inanite_ingot"
+    ]
+  },
+  "bigreactors:insanite_block": {
+    "result": "bigreactors:insanite_block",
+    "count": 1,
+    "ingredients": [
+      "bigreactors:insanite_ingot",
+      "bigreactors:insanite_ingot",
+      "bigreactors:insanite_ingot",
+      "bigreactors:insanite_ingot",
+      "bigreactors:inanite_block",
+      "bigreactors:insanite_ingot",
+      "bigreactors:insanite_ingot",
+      "bigreactors:insanite_ingot",
+      "bigreactors:insanite_ingot"
+    ]
+  },
+  "create:industrial_iron_window": {
+    "result": "create:industrial_iron_window",
+    "count": 2,
+    "ingredients": [
+      "",
+      "create:industrial_iron_block",
+      "",
+      "create:industrial_iron_block",
+      "minecraft:glass",
+      "create:industrial_iron_block",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:industrial_iron_window_pane": {
+    "result": "create:industrial_iron_window_pane",
+    "count": 16,
+    "ingredients": [
+      "create:industrial_iron_window",
+      "create:industrial_iron_window",
+      "create:industrial_iron_window",
+      "create:industrial_iron_window",
+      "create:industrial_iron_window",
+      "create:industrial_iron_window",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create_enchantment_industry:infuser": {
+    "result": "create_enchantment_industry:infuser",
+    "count": 1,
+    "ingredients": [
+      "",
+      "create:brass_sheet",
+      "",
+      "",
+      "create:spout",
+      "",
+      "create:nixie_tube",
+      "create:nixie_tube",
+      "create:nixie_tube"
+    ]
+  },
+  "draconicevolution:infused_obsidian": {
+    "result": "draconicevolution:infused_obsidian",
+    "count": 1,
+    "ingredients": [
+      "minecraft:blaze_powder",
+      "minecraft:normal",
+      "minecraft:blaze_powder",
+      "minecraft:normal",
+      "minecraft:draconium",
+      "minecraft:normal",
+      "minecraft:blaze_powder",
+      "minecraft:normal",
+      "minecraft:blaze_powder"
+    ]
+  },
+  "easy_villagers:incubator": {
+    "result": "easy_villagers:incubator",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "",
+      "minecraft:glass",
+      "minecraft:iron_ingot",
+      "minecraft:white_wool",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "enderio:inhibitor_obelisk": {
+    "result": "enderio:inhibitor_obelisk",
+    "count": 1,
+    "ingredients": [
+      "",
+      "enderio:ender_crystal",
+      "",
+      "minecraft:energetic_alloy",
+      "enderio:iron_gear",
+      "minecraft:energetic_alloy",
+      "minecraft:soularium",
+      "enderio:ensouled_chassis",
+      "minecraft:soularium"
+    ]
+  },
+  "enderio:infinity_rod": {
+    "result": "enderio:infinity_rod",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:dark_steel",
+      "minecraft:grains_of_infinity",
+      "minecraft:dark_steel",
+      "minecraft:stick",
+      "minecraft:dark_steel",
+      "minecraft:grains_of_infinity",
+      "minecraft:dark_steel",
+      ""
+    ]
+  },
+  "evilcraft:inverted_potentia": {
+    "result": "evilcraft:inverted_potentia",
+    "count": 1,
+    "ingredients": [
+      "",
+      "evilcraft:dark_gem",
+      "",
+      "evilcraft:dark_gem",
+      "evilcraft:potentia_sphere",
+      "evilcraft:dark_gem",
+      "",
+      "evilcraft:dark_gem",
+      ""
+    ]
+  },
+  "evilcraft:invigorating_pendant": {
+    "result": "evilcraft:invigorating_pendant",
+    "count": 1,
+    "ingredients": [
+      "",
+      "evilcraft:golden_string",
+      "",
+      "evilcraft:golden_string",
+      "",
+      "evilcraft:golden_string",
+      "evilcraft:dark_gem_crushed",
+      "evilcraft:blood_infusion_core",
+      "evilcraft:dark_gem_crushed"
+    ]
+  },
+  "extendedae:infinity_cobblestone_cell": {
+    "result": "extendedae:infinity_cobblestone_cell",
+    "count": 1,
+    "ingredients": [
+      "ae2:quartz_glass",
+      "minecraft:lava_bucket",
+      "ae2:quartz_glass",
+      "minecraft:water_bucket",
+      "ae2:cell_component_16k",
+      "minecraft:water_bucket",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond"
+    ]
+  },
+  "extendedae:interface_upgrade": {
+    "result": "extendedae:interface_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:extended_interface",
+      "minecraft:ingots",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "extendedae:ingredient_buffer": {
+    "result": "extendedae:ingredient_buffer",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "ae2:cell_component_1k",
+      "minecraft:iron_ingot",
+      "ae2:quartz_glass",
+      "",
+      "ae2:quartz_glass",
+      "minecraft:iron_ingot",
+      "ae2:cell_component_1k",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "extendedae:infinity_water_cell": {
+    "result": "extendedae:infinity_water_cell",
+    "count": 1,
+    "ingredients": [
+      "ae2:quartz_glass",
+      "minecraft:water_bucket",
+      "ae2:quartz_glass",
+      "minecraft:water_bucket",
+      "ae2:cell_component_16k",
+      "minecraft:water_bucket",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond"
+    ]
+  },
+  "extradisks:infinite_chemical_storage_block": {
+    "result": "extradisks:infinite_chemical_storage_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:osmium",
+      "minecraft:infinite",
+      "minecraft:osmium",
+      "minecraft:osmium",
+      "extradisks:advanced_machine_casing",
+      "minecraft:osmium",
+      "minecraft:osmium",
+      "minecraft:redstone",
+      "minecraft:osmium"
+    ]
+  },
+  "extradisks:infinite_fluid_storage_block": {
+    "result": "extradisks:infinite_fluid_storage_block",
+    "count": 1,
+    "ingredients": [
+      "refinedstorage:quartz_enriched_iron",
+      "minecraft:infinite",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:quartz_enriched_iron",
+      "extradisks:advanced_machine_casing",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:quartz_enriched_iron",
+      "minecraft:redstone",
+      "refinedstorage:quartz_enriched_iron"
+    ]
+  },
+  "extradisks:infinite_item_storage_block": {
+    "result": "extradisks:infinite_item_storage_block",
+    "count": 1,
+    "ingredients": [
+      "refinedstorage:quartz_enriched_iron",
+      "minecraft:infinite",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:quartz_enriched_iron",
+      "extradisks:advanced_machine_casing",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:quartz_enriched_iron",
+      "minecraft:redstone",
+      "refinedstorage:quartz_enriched_iron"
+    ]
+  },
+  "extradisks:infinite_chemical_storage_disk": {
+    "result": "extradisks:infinite_chemical_storage_disk",
+    "count": 1,
+    "ingredients": [
+      "extradisks:advanced_storage_housing",
+      "minecraft:infinite",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "extradisks:infinite_fluid_storage_disk": {
+    "result": "extradisks:infinite_fluid_storage_disk",
+    "count": 1,
+    "ingredients": [
+      "extradisks:advanced_storage_housing",
+      "minecraft:infinite",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "extradisks:infinite_item_storage_disk": {
+    "result": "extradisks:infinite_item_storage_disk",
+    "count": 1,
+    "ingredients": [
+      "extradisks:advanced_storage_housing",
+      "minecraft:infinite",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "extradisks:infinite_chemical_storage_part": {
+    "result": "extradisks:infinite_chemical_storage_part",
+    "count": 1,
+    "ingredients": [
+      "extradisks:withering_processor",
+      "minecraft:osmium",
+      "extradisks:withering_processor",
+      "minecraft:8388608b",
+      "mekanism:alloy_atomic",
+      "minecraft:8388608b",
+      "extradisks:withering_processor",
+      "minecraft:8388608b",
+      "extradisks:withering_processor"
+    ]
+  },
+  "extradisks:infinite_fluid_storage_part": {
+    "result": "extradisks:infinite_fluid_storage_part",
+    "count": 1,
+    "ingredients": [
+      "extradisks:withering_processor",
+      "refinedstorage:quartz_enriched_iron",
+      "extradisks:withering_processor",
+      "minecraft:1048576b",
+      "minecraft:redstone",
+      "minecraft:1048576b",
+      "extradisks:withering_processor",
+      "minecraft:1048576b",
+      "extradisks:withering_processor"
+    ]
+  },
+  "extradisks:infinite_item_storage_part": {
+    "result": "extradisks:infinite_item_storage_part",
+    "count": 1,
+    "ingredients": [
+      "extradisks:withering_processor",
+      "refinedstorage:quartz_enriched_iron",
+      "extradisks:withering_processor",
+      "minecraft:1048576k",
+      "minecraft:redstone",
+      "minecraft:1048576k",
+      "extradisks:withering_processor",
+      "minecraft:1048576k",
+      "extradisks:withering_processor"
+    ]
+  },
+  "immersiveengineering:insulating_glass": {
+    "result": "immersiveengineering:insulating_glass",
+    "count": 1,
+    "ingredients": [
+      "immersiveengineering:slab_insulating_glass",
+      "",
+      "",
+      "immersiveengineering:slab_insulating_glass",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:ingot_aluminum": {
+    "result": "immersiveengineering:ingot_aluminum",
+    "count": 9,
+    "ingredients": [
+      "immersiveengineering:storage_aluminum",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:ingot_constantan": {
+    "result": "immersiveengineering:ingot_constantan",
+    "count": 9,
+    "ingredients": [
+      "immersiveengineering:storage_constantan",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:ingot_electrum": {
+    "result": "immersiveengineering:ingot_electrum",
+    "count": 9,
+    "ingredients": [
+      "immersiveengineering:storage_electrum",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:ingot_lead": {
+    "result": "immersiveengineering:ingot_lead",
+    "count": 9,
+    "ingredients": [
+      "immersiveengineering:storage_lead",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:ingot_nickel": {
+    "result": "immersiveengineering:ingot_nickel",
+    "count": 9,
+    "ingredients": [
+      "immersiveengineering:storage_nickel",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:ingot_silver": {
+    "result": "immersiveengineering:ingot_silver",
+    "count": 9,
+    "ingredients": [
+      "immersiveengineering:storage_silver",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:ingot_steel": {
+    "result": "immersiveengineering:ingot_steel",
+    "count": 9,
+    "ingredients": [
+      "immersiveengineering:storage_steel",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:ingot_uranium": {
+    "result": "immersiveengineering:ingot_uranium",
+    "count": 9,
+    "ingredients": [
+      "immersiveengineering:storage_uranium",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "industrialforegoing:infinity_backpack": {
+    "result": "industrialforegoing:infinity_backpack",
+    "count": 1,
+    "ingredients": [
+      "minecraft:chest",
+      "minecraft:diamond",
+      "minecraft:chest",
+      "minecraft:bucket",
+      "minecraft:ender_pearl",
+      "minecraft:bucket",
+      "minecraft:gold",
+      "minecraft:gold",
+      "minecraft:gold"
+    ]
+  },
+  "industrialforegoing:infinity_charger": {
+    "result": "industrialforegoing:infinity_charger",
+    "count": 1,
+    "ingredients": [
+      "minecraft:plastics",
+      "minecraft:plastics",
+      "minecraft:plastics",
+      "minecraft:repeater",
+      "minecraft:diamond",
+      "minecraft:repeater",
+      "minecraft:redstone_block",
+      "minecraft:advanced",
+      "minecraft:redstone_block"
+    ]
+  },
+  "interdimensionalwirelesstransmitter:interdimensional_wireless_transmitter": {
+    "result": "interdimensionalwirelesstransmitter:interdimensional_wireless_transmitter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:interdimensional_wireless_transmitters",
+      "minecraft:light_blue",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "irons_spellbooks:infernal_sorcerer_chestplate": {
+    "result": "irons_spellbooks:infernal_sorcerer_chestplate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:pyrium",
+      "",
+      "minecraft:pyrium",
+      "irons_spellbooks:mithril_weave",
+      "irons_spellbooks:pyromancer_chestplate",
+      "irons_spellbooks:mithril_weave",
+      "",
+      "irons_spellbooks:divine_soulshard",
+      ""
+    ]
+  },
+  "irons_spellbooks:inscription_table": {
+    "result": "irons_spellbooks:inscription_table",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "minecraft:book",
+      "minecraft:wooden_slabs",
+      "minecraft:wooden_slabs",
+      "minecraft:wooden_slabs",
+      "minecraft:wooden_fences",
+      "",
+      "minecraft:wooden_fences"
+    ]
+  },
+  "justdirethings:inventory_holder": {
+    "result": "justdirethings:inventory_holder",
+    "count": 1,
+    "ingredients": [
+      "justdirethings:inventory_holder",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mekanism:industrial_alarm": {
+    "result": "mekanism:industrial_alarm",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:lead_ingot",
+      "modern_industrialization:lead_ingot",
+      "modern_industrialization:lead_ingot",
+      "minecraft:basic",
+      "minecraft:redstone_lamp",
+      "minecraft:basic",
+      "modern_industrialization:lead_ingot",
+      "modern_industrialization:lead_ingot",
+      "modern_industrialization:lead_ingot"
+    ]
+  },
+  "mekanism:induction_casing": {
+    "result": "mekanism:induction_casing",
+    "count": 4,
+    "ingredients": [
+      "",
+      "modern_industrialization:steel_ingot",
+      "",
+      "modern_industrialization:steel_ingot",
+      "mekanism:energy_tablet",
+      "modern_industrialization:steel_ingot",
+      "",
+      "modern_industrialization:steel_ingot",
+      ""
+    ]
+  },
+  "mekanism:induction_port": {
+    "result": "mekanism:induction_port",
+    "count": 2,
+    "ingredients": [
+      "",
+      "mekanism:induction_casing",
+      "",
+      "mekanism:induction_casing",
+      "minecraft:elite",
+      "mekanism:induction_casing",
+      "",
+      "mekanism:induction_casing",
+      ""
+    ]
+  },
+  "mekanism:ingot_bronze": {
+    "result": "mekanism:ingot_bronze",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bronze",
+      "minecraft:bronze",
+      "minecraft:bronze",
+      "minecraft:bronze",
+      "mekanism:nugget_bronze",
+      "minecraft:bronze",
+      "minecraft:bronze",
+      "minecraft:bronze",
+      "minecraft:bronze"
+    ]
+  },
+  "mekanism:ingot_lead": {
+    "result": "mekanism:ingot_lead",
+    "count": 1,
+    "ingredients": [
+      "minecraft:lead",
+      "minecraft:lead",
+      "minecraft:lead",
+      "minecraft:lead",
+      "mekanism:nugget_lead",
+      "minecraft:lead",
+      "minecraft:lead",
+      "minecraft:lead",
+      "minecraft:lead"
+    ]
+  },
+  "mekanism:ingot_osmium": {
+    "result": "mekanism:ingot_osmium",
+    "count": 4,
+    "ingredients": [
+      "mysticalagriculture:osmium_essence",
+      "mysticalagriculture:osmium_essence",
+      "mysticalagriculture:osmium_essence",
+      "mysticalagriculture:osmium_essence",
+      "",
+      "mysticalagriculture:osmium_essence",
+      "mysticalagriculture:osmium_essence",
+      "mysticalagriculture:osmium_essence",
+      "mysticalagriculture:osmium_essence"
+    ]
+  },
+  "mekanism:ingot_refined_glowstone": {
+    "result": "mekanism:ingot_refined_glowstone",
+    "count": 3,
+    "ingredients": [
+      "mysticalagriculture:refined_glowstone_essence",
+      "mysticalagriculture:refined_glowstone_essence",
+      "mysticalagriculture:refined_glowstone_essence",
+      "mysticalagriculture:refined_glowstone_essence",
+      "",
+      "mysticalagriculture:refined_glowstone_essence",
+      "mysticalagriculture:refined_glowstone_essence",
+      "mysticalagriculture:refined_glowstone_essence",
+      "mysticalagriculture:refined_glowstone_essence"
+    ]
+  },
+  "mekanism:ingot_refined_obsidian": {
+    "result": "mekanism:ingot_refined_obsidian",
+    "count": 2,
+    "ingredients": [
+      "mysticalagriculture:refined_obsidian_essence",
+      "mysticalagriculture:refined_obsidian_essence",
+      "mysticalagriculture:refined_obsidian_essence",
+      "mysticalagriculture:refined_obsidian_essence",
+      "",
+      "mysticalagriculture:refined_obsidian_essence",
+      "mysticalagriculture:refined_obsidian_essence",
+      "mysticalagriculture:refined_obsidian_essence",
+      "mysticalagriculture:refined_obsidian_essence"
+    ]
+  },
+  "mekanism:ingot_steel": {
+    "result": "mekanism:ingot_steel",
+    "count": 1,
+    "ingredients": [
+      "minecraft:steel",
+      "minecraft:steel",
+      "minecraft:steel",
+      "minecraft:steel",
+      "mekanism:nugget_steel",
+      "minecraft:steel",
+      "minecraft:steel",
+      "minecraft:steel",
+      "minecraft:steel"
+    ]
+  },
+  "mekanism:ingot_tin": {
+    "result": "mekanism:ingot_tin",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tin",
+      "minecraft:tin",
+      "minecraft:tin",
+      "minecraft:tin",
+      "mekanism:nugget_tin",
+      "minecraft:tin",
+      "minecraft:tin",
+      "minecraft:tin",
+      "minecraft:tin"
+    ]
+  },
+  "mekanism:ingot_uranium": {
+    "result": "mekanism:ingot_uranium",
+    "count": 1,
+    "ingredients": [
+      "minecraft:uranium",
+      "minecraft:uranium",
+      "minecraft:uranium",
+      "minecraft:uranium",
+      "mekanism:nugget_uranium",
+      "minecraft:uranium",
+      "minecraft:uranium",
+      "minecraft:uranium",
+      "minecraft:uranium"
+    ]
+  },
+  "mffs:interdiction_matrix": {
+    "result": "mffs:interdiction_matrix",
+    "count": 1,
+    "ingredients": [
+      "mffs:shock_module",
+      "mffs:shock_module",
+      "mffs:shock_module",
+      "mffs:focus_matrix",
+      "mffs:focus_matrix",
+      "mffs:focus_matrix",
+      "mffs:focus_matrix",
+      "minecraft:ender_chest",
+      "mffs:focus_matrix"
+    ]
+  },
+  "mffs:inverter_module": {
+    "result": "mffs:inverter_module",
+    "count": 1,
+    "ingredients": [
+      "minecraft:lapis_lazuli",
+      "",
+      "",
+      "mffs:focus_matrix",
+      "",
+      "",
+      "minecraft:lapis_lazuli",
+      "",
+      ""
+    ]
+  },
+  "moderndynamics:inhibitor": {
+    "result": "moderndynamics:inhibitor",
+    "count": 4,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:iron_nugget",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:inductor": {
+    "result": "modern_industrialization:inductor",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:copper_wire",
+      "modern_industrialization:copper_wire",
+      "modern_industrialization:copper_wire",
+      "modern_industrialization:copper_wire",
+      "minecraft:steel",
+      "modern_industrialization:copper_wire",
+      "modern_industrialization:copper_wire",
+      "modern_industrialization:copper_wire",
+      "modern_industrialization:copper_wire"
+    ]
+  },
+  "modern_industrialization:invar_rotary_blade": {
+    "result": "modern_industrialization:invar_rotary_blade",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:diamond",
+      "",
+      "minecraft:diamond",
+      "minecraft:invar",
+      "minecraft:diamond",
+      "",
+      "minecraft:diamond",
+      ""
+    ]
+  },
+  "modern_industrialization:invar_block": {
+    "result": "modern_industrialization:invar_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:invar",
+      "minecraft:invar",
+      "minecraft:invar",
+      "minecraft:invar",
+      "modern_industrialization:invar_ingot",
+      "minecraft:invar",
+      "minecraft:invar",
+      "minecraft:invar",
+      "minecraft:invar"
+    ]
+  },
+  "modern_industrialization:invar_dust": {
+    "result": "modern_industrialization:invar_dust",
+    "count": 1,
+    "ingredients": [
+      "minecraft:invar",
+      "minecraft:invar",
+      "minecraft:invar",
+      "minecraft:invar",
+      "modern_industrialization:invar_tiny_dust",
+      "minecraft:invar",
+      "minecraft:invar",
+      "minecraft:invar",
+      "minecraft:invar"
+    ]
+  },
+  "modern_industrialization:invar_gear": {
+    "result": "modern_industrialization:invar_gear",
+    "count": 1,
+    "ingredients": [
+      "minecraft:invar",
+      "modern_industrialization:invar_bolt",
+      "minecraft:invar",
+      "modern_industrialization:invar_bolt",
+      "modern_industrialization:invar_ring",
+      "modern_industrialization:invar_bolt",
+      "minecraft:invar",
+      "modern_industrialization:invar_bolt",
+      "minecraft:invar"
+    ]
+  },
+  "modern_industrialization:invar_ingot": {
+    "result": "modern_industrialization:invar_ingot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:invar",
+      "minecraft:invar",
+      "minecraft:invar",
+      "minecraft:invar",
+      "modern_industrialization:invar_nugget",
+      "minecraft:invar",
+      "minecraft:invar",
+      "minecraft:invar",
+      "minecraft:invar"
+    ]
+  },
+  "modern_industrialization:invar_large_plate": {
+    "result": "modern_industrialization:invar_large_plate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:invar",
+      "minecraft:invar",
+      "",
+      "minecraft:invar",
+      "minecraft:invar",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:invar_nugget": {
+    "result": "modern_industrialization:invar_nugget",
+    "count": 9,
+    "ingredients": [
+      "modern_industrialization:invar_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:invar_ring": {
+    "result": "modern_industrialization:invar_ring",
+    "count": 2,
+    "ingredients": [
+      "modern_industrialization:invar_bolt",
+      "minecraft:invar",
+      "modern_industrialization:invar_bolt",
+      "minecraft:invar",
+      "",
+      "minecraft:invar",
+      "modern_industrialization:invar_bolt",
+      "minecraft:invar",
+      "modern_industrialization:invar_bolt"
+    ]
+  },
+  "modern_industrialization:invar_tiny_dust": {
+    "result": "modern_industrialization:invar_tiny_dust",
+    "count": 9,
+    "ingredients": [
+      "modern_industrialization:invar_dust",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modularrouters:inspection_filter": {
+    "result": "modularrouters:inspection_filter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spider_eye",
+      "modularrouters:bulk_item_filter",
+      "minecraft:spider_eye",
+      "",
+      "minecraft:paper",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mysticalagradditions:inferium_apple": {
+    "result": "mysticalagradditions:inferium_apple",
+    "count": 1,
+    "ingredients": [
+      "",
+      "mysticalagriculture:inferium_essence",
+      "",
+      "mysticalagriculture:inferium_essence",
+      "minecraft:golden_apple",
+      "mysticalagriculture:inferium_essence",
+      "",
+      "mysticalagriculture:inferium_essence",
+      ""
+    ]
+  },
+  "mysticalagradditions:inferium_coal": {
+    "result": "mysticalagradditions:inferium_coal",
+    "count": 9,
+    "ingredients": [
+      "mysticalagradditions:inferium_coal_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mysticalagradditions:inferium_coal_block": {
+    "result": "mysticalagradditions:inferium_coal_block",
+    "count": 1,
+    "ingredients": [
+      "mysticalagradditions:inferium_coal",
+      "mysticalagradditions:inferium_coal",
+      "mysticalagradditions:inferium_coal",
+      "mysticalagradditions:inferium_coal",
+      "mysticalagradditions:inferium_coal",
+      "mysticalagradditions:inferium_coal",
+      "mysticalagradditions:inferium_coal",
+      "mysticalagradditions:inferium_coal",
+      "mysticalagradditions:inferium_coal"
+    ]
+  },
+  "mysticalagradditions:inferium_paxel": {
+    "result": "mysticalagradditions:inferium_paxel",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:inferium_axe",
+      "mysticalagriculture:inferium_pickaxe",
+      "mysticalagriculture:inferium_shovel",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "mysticalagradditions:insanium_apple": {
+    "result": "mysticalagradditions:insanium_apple",
+    "count": 1,
+    "ingredients": [
+      "",
+      "mysticalagradditions:insanium_essence",
+      "",
+      "mysticalagradditions:insanium_essence",
+      "minecraft:golden_apple",
+      "mysticalagradditions:insanium_essence",
+      "",
+      "mysticalagradditions:insanium_essence",
+      ""
+    ]
+  },
+  "mysticalagradditions:insanium_block": {
+    "result": "mysticalagradditions:insanium_block",
+    "count": 1,
+    "ingredients": [
+      "",
+      "mysticalagriculture:supremium_block",
+      "",
+      "mysticalagriculture:supremium_block",
+      "mysticalagriculture:master_infusion_crystal",
+      "mysticalagriculture:supremium_block",
+      "",
+      "mysticalagriculture:supremium_block",
+      ""
+    ]
+  },
+  "mysticalagradditions:insanium_essence": {
+    "result": "mysticalagradditions:insanium_essence",
+    "count": 1,
+    "ingredients": [
+      "",
+      "mysticalagriculture:supremium_essence",
+      "",
+      "mysticalagriculture:supremium_essence",
+      "minecraft:infusion_crystals",
+      "mysticalagriculture:supremium_essence",
+      "",
+      "mysticalagriculture:supremium_essence",
+      ""
+    ]
+  },
+  "mysticalagradditions:insanium_coal": {
+    "result": "mysticalagradditions:insanium_coal",
+    "count": 9,
+    "ingredients": [
+      "mysticalagradditions:insanium_coal_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mysticalagradditions:insanium_coal_block": {
+    "result": "mysticalagradditions:insanium_coal_block",
+    "count": 1,
+    "ingredients": [
+      "mysticalagradditions:insanium_coal",
+      "mysticalagradditions:insanium_coal",
+      "mysticalagradditions:insanium_coal",
+      "mysticalagradditions:insanium_coal",
+      "mysticalagradditions:insanium_coal",
+      "mysticalagradditions:insanium_coal",
+      "mysticalagradditions:insanium_coal",
+      "mysticalagradditions:insanium_coal",
+      "mysticalagradditions:insanium_coal"
+    ]
+  },
+  "mysticalagradditions:insanium_farmland": {
+    "result": "mysticalagradditions:insanium_farmland",
+    "count": 1,
+    "ingredients": [
+      "mysticalagradditions:insanium_essence",
+      "minecraft:farmland",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mysticalagradditions:insanium_gemstone": {
+    "result": "mysticalagradditions:insanium_gemstone",
+    "count": 9,
+    "ingredients": [
+      "mysticalagradditions:insanium_gemstone_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mysticalagradditions:insanium_gemstone_block": {
+    "result": "mysticalagradditions:insanium_gemstone_block",
+    "count": 1,
+    "ingredients": [
+      "mysticalagradditions:insanium_gemstone",
+      "mysticalagradditions:insanium_gemstone",
+      "mysticalagradditions:insanium_gemstone",
+      "mysticalagradditions:insanium_gemstone",
+      "mysticalagradditions:insanium_gemstone",
+      "mysticalagradditions:insanium_gemstone",
+      "mysticalagradditions:insanium_gemstone",
+      "mysticalagradditions:insanium_gemstone",
+      "mysticalagradditions:insanium_gemstone"
+    ]
+  },
+  "mysticalagradditions:insanium_ingot": {
+    "result": "mysticalagradditions:insanium_ingot",
+    "count": 1,
+    "ingredients": [
+      "mysticalagradditions:insanium_nugget",
+      "mysticalagradditions:insanium_nugget",
+      "mysticalagradditions:insanium_nugget",
+      "mysticalagradditions:insanium_nugget",
+      "mysticalagradditions:insanium_nugget",
+      "mysticalagradditions:insanium_nugget",
+      "mysticalagradditions:insanium_nugget",
+      "mysticalagradditions:insanium_nugget",
+      "mysticalagradditions:insanium_nugget"
+    ]
+  },
+  "mysticalagradditions:insanium_ingot_block": {
+    "result": "mysticalagradditions:insanium_ingot_block",
+    "count": 1,
+    "ingredients": [
+      "mysticalagradditions:insanium_ingot",
+      "mysticalagradditions:insanium_ingot",
+      "mysticalagradditions:insanium_ingot",
+      "mysticalagradditions:insanium_ingot",
+      "mysticalagradditions:insanium_ingot",
+      "mysticalagradditions:insanium_ingot",
+      "mysticalagradditions:insanium_ingot",
+      "mysticalagradditions:insanium_ingot",
+      "mysticalagradditions:insanium_ingot"
+    ]
+  },
+  "mysticalagradditions:insanium_nugget": {
+    "result": "mysticalagradditions:insanium_nugget",
+    "count": 9,
+    "ingredients": [
+      "mysticalagradditions:insanium_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mysticalagriculture:inferium_block": {
+    "result": "mysticalagriculture:inferium_block",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:inferium_essence",
+      "mysticalagriculture:inferium_essence",
+      "mysticalagriculture:inferium_essence",
+      "mysticalagriculture:inferium_essence",
+      "mysticalagriculture:inferium_essence",
+      "mysticalagriculture:inferium_essence",
+      "mysticalagriculture:inferium_essence",
+      "mysticalagriculture:inferium_essence",
+      "mysticalagriculture:inferium_essence"
+    ]
+  },
+  "mysticalagriculture:inferium_essence": {
+    "result": "mysticalagriculture:inferium_essence",
+    "count": 4,
+    "ingredients": [
+      "mysticalagriculture:prudentium_essence",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mysticalagriculture:inferium_farmland": {
+    "result": "mysticalagriculture:inferium_farmland",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:inferium_essence",
+      "minecraft:farmland",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mysticalagriculture:inferium_gemstone": {
+    "result": "mysticalagriculture:inferium_gemstone",
+    "count": 9,
+    "ingredients": [
+      "mysticalagriculture:inferium_gemstone_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mysticalagriculture:inferium_gemstone_block": {
+    "result": "mysticalagriculture:inferium_gemstone_block",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:inferium_gemstone",
+      "mysticalagriculture:inferium_gemstone",
+      "mysticalagriculture:inferium_gemstone",
+      "mysticalagriculture:inferium_gemstone",
+      "mysticalagriculture:inferium_gemstone",
+      "mysticalagriculture:inferium_gemstone",
+      "mysticalagriculture:inferium_gemstone",
+      "mysticalagriculture:inferium_gemstone",
+      "mysticalagriculture:inferium_gemstone"
+    ]
+  },
+  "mysticalagriculture:inferium_growth_accelerator": {
+    "result": "mysticalagriculture:inferium_growth_accelerator",
+    "count": 3,
+    "ingredients": [
+      "mysticalagriculture:inferium_essence",
+      "minecraft:stone",
+      "mysticalagriculture:inferium_essence",
+      "minecraft:stone",
+      "mysticalagriculture:inferium_gemstone",
+      "minecraft:stone",
+      "mysticalagriculture:inferium_essence",
+      "minecraft:stone",
+      "mysticalagriculture:inferium_essence"
+    ]
+  },
+  "mysticalagriculture:inferium_ingot": {
+    "result": "mysticalagriculture:inferium_ingot",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:inferium_nugget",
+      "mysticalagriculture:inferium_nugget",
+      "mysticalagriculture:inferium_nugget",
+      "mysticalagriculture:inferium_nugget",
+      "mysticalagriculture:inferium_nugget",
+      "mysticalagriculture:inferium_nugget",
+      "mysticalagriculture:inferium_nugget",
+      "mysticalagriculture:inferium_nugget",
+      "mysticalagriculture:inferium_nugget"
+    ]
+  },
+  "mysticalagriculture:inferium_ingot_block": {
+    "result": "mysticalagriculture:inferium_ingot_block",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:inferium_ingot",
+      "mysticalagriculture:inferium_ingot",
+      "mysticalagriculture:inferium_ingot",
+      "mysticalagriculture:inferium_ingot",
+      "mysticalagriculture:inferium_ingot",
+      "mysticalagriculture:inferium_ingot",
+      "mysticalagriculture:inferium_ingot",
+      "mysticalagriculture:inferium_ingot",
+      "mysticalagriculture:inferium_ingot"
+    ]
+  },
+  "mysticalagriculture:inferium_nugget": {
+    "result": "mysticalagriculture:inferium_nugget",
+    "count": 9,
+    "ingredients": [
+      "mysticalagriculture:inferium_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mysticalagriculture:inferium_seeds": {
+    "result": "mysticalagriculture:inferium_seeds",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:inferium_essence",
+      "mysticalagriculture:inferium_essence",
+      "mysticalagriculture:inferium_essence",
+      "mysticalagriculture:inferium_essence",
+      "minecraft:wheat_seeds",
+      "mysticalagriculture:inferium_essence",
+      "mysticalagriculture:inferium_essence",
+      "mysticalagriculture:inferium_essence",
+      "mysticalagriculture:inferium_essence"
+    ]
+  },
+  "mysticalagriculture:inferium_upgrade": {
+    "result": "mysticalagriculture:inferium_upgrade",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:inferium_essence",
+      "mysticalagriculture:inferium_ingot",
+      "mysticalagriculture:inferium_essence",
+      "mysticalagriculture:inferium_ingot",
+      "mysticalagriculture:upgrade_base",
+      "mysticalagriculture:inferium_ingot",
+      "mysticalagriculture:inferium_essence",
+      "mysticalagriculture:inferium_ingot",
+      "mysticalagriculture:inferium_essence"
+    ]
+  },
+  "mysticalagriculture:infusion_altar": {
+    "result": "mysticalagriculture:infusion_altar",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "minecraft:red_wool",
+      "minecraft:gold_ingot",
+      "",
+      "minecraft:stone",
+      "",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone"
+    ]
+  },
+  "mysticalagriculture:infusion_crystal": {
+    "result": "mysticalagriculture:infusion_crystal",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:inferium_essence",
+      "mysticalagriculture:prosperity_shard",
+      "mysticalagriculture:inferium_essence",
+      "mysticalagriculture:prosperity_shard",
+      "minecraft:diamond",
+      "mysticalagriculture:prosperity_shard",
+      "mysticalagriculture:inferium_essence",
+      "mysticalagriculture:prosperity_shard",
+      "mysticalagriculture:inferium_essence"
+    ]
+  },
+  "mysticalagriculture:infusion_pedestal": {
+    "result": "mysticalagriculture:infusion_pedestal",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "minecraft:red_wool",
+      "minecraft:gold_ingot",
+      "",
+      "minecraft:stone",
+      "",
+      "",
+      "minecraft:stone",
+      ""
+    ]
+  },
+  "immersiveengineering:ingot_hop_graphite": {
+    "result": "immersiveengineering:ingot_hop_graphite",
+    "count": 3,
+    "ingredients": [
+      "mysticalagriculture:hop_graphite_essence",
+      "mysticalagriculture:hop_graphite_essence",
+      "mysticalagriculture:hop_graphite_essence",
+      "mysticalagriculture:hop_graphite_essence",
+      "",
+      "mysticalagriculture:hop_graphite_essence",
+      "mysticalagriculture:hop_graphite_essence",
+      "mysticalagriculture:hop_graphite_essence",
+      "mysticalagriculture:hop_graphite_essence"
+    ]
+  },
+  "minecraft:ink_sac": {
+    "result": "minecraft:ink_sac",
+    "count": 6,
+    "ingredients": [
+      "reliquary:squid_beak",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pneumaticcraft:ingot_iron_compressed": {
+    "result": "pneumaticcraft:ingot_iron_compressed",
+    "count": 9,
+    "ingredients": [
+      "pneumaticcraft:compressed_iron_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "naturesaura:infused_iron_axe": {
+    "result": "naturesaura:infused_iron_axe",
+    "count": 1,
+    "ingredients": [
+      "naturesaura:infused_iron",
+      "naturesaura:infused_iron",
+      "",
+      "naturesaura:infused_iron",
+      "naturesaura:ancient_stick",
+      "",
+      "",
+      "naturesaura:ancient_stick",
+      ""
+    ]
+  },
+  "naturesaura:infused_brick": {
+    "result": "naturesaura:infused_brick",
+    "count": 4,
+    "ingredients": [
+      "naturesaura:infused_stone",
+      "naturesaura:infused_stone",
+      "",
+      "naturesaura:infused_stone",
+      "naturesaura:infused_stone",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "naturesaura:infused_brick_slab": {
+    "result": "naturesaura:infused_brick_slab",
+    "count": 6,
+    "ingredients": [
+      "naturesaura:infused_brick",
+      "naturesaura:infused_brick",
+      "naturesaura:infused_brick",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "naturesaura:infused_brick_stairs": {
+    "result": "naturesaura:infused_brick_stairs",
+    "count": 4,
+    "ingredients": [
+      "naturesaura:infused_brick",
+      "",
+      "",
+      "naturesaura:infused_brick",
+      "naturesaura:infused_brick",
+      "",
+      "naturesaura:infused_brick",
+      "naturesaura:infused_brick",
+      "naturesaura:infused_brick"
+    ]
+  },
+  "naturesaura:infused_iron_chest": {
+    "result": "naturesaura:infused_iron_chest",
+    "count": 1,
+    "ingredients": [
+      "naturesaura:infused_iron",
+      "naturesaura:ancient_stick",
+      "naturesaura:infused_iron",
+      "naturesaura:infused_iron",
+      "naturesaura:infused_iron",
+      "naturesaura:infused_iron",
+      "naturesaura:infused_iron",
+      "naturesaura:infused_iron",
+      "naturesaura:infused_iron"
+    ]
+  },
+  "naturesaura:infused_iron_helmet": {
+    "result": "naturesaura:infused_iron_helmet",
+    "count": 1,
+    "ingredients": [
+      "naturesaura:infused_iron",
+      "naturesaura:infused_iron",
+      "naturesaura:infused_iron",
+      "naturesaura:infused_iron",
+      "naturesaura:ancient_stick",
+      "naturesaura:infused_iron",
+      "",
+      "",
+      ""
+    ]
+  },
+  "naturesaura:infused_iron_hoe": {
+    "result": "naturesaura:infused_iron_hoe",
+    "count": 1,
+    "ingredients": [
+      "naturesaura:infused_iron",
+      "naturesaura:infused_iron",
+      "",
+      "",
+      "naturesaura:ancient_stick",
+      "",
+      "",
+      "naturesaura:ancient_stick",
+      ""
+    ]
+  },
+  "naturesaura:infused_iron": {
+    "result": "naturesaura:infused_iron",
+    "count": 9,
+    "ingredients": [
+      "naturesaura:infused_iron_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "naturesaura:infused_iron_block": {
+    "result": "naturesaura:infused_iron_block",
+    "count": 1,
+    "ingredients": [
+      "naturesaura:infused_iron",
+      "naturesaura:infused_iron",
+      "naturesaura:infused_iron",
+      "naturesaura:infused_iron",
+      "naturesaura:infused_iron",
+      "naturesaura:infused_iron",
+      "naturesaura:infused_iron",
+      "naturesaura:infused_iron",
+      "naturesaura:infused_iron"
+    ]
+  },
+  "naturesaura:infused_iron_pants": {
+    "result": "naturesaura:infused_iron_pants",
+    "count": 1,
+    "ingredients": [
+      "naturesaura:infused_iron",
+      "naturesaura:infused_iron",
+      "naturesaura:infused_iron",
+      "naturesaura:infused_iron",
+      "",
+      "naturesaura:infused_iron",
+      "naturesaura:infused_iron",
+      "",
+      "naturesaura:infused_iron"
+    ]
+  },
+  "naturesaura:infused_iron_pickaxe": {
+    "result": "naturesaura:infused_iron_pickaxe",
+    "count": 1,
+    "ingredients": [
+      "naturesaura:infused_iron",
+      "naturesaura:infused_iron",
+      "naturesaura:infused_iron",
+      "",
+      "naturesaura:ancient_stick",
+      "",
+      "",
+      "naturesaura:ancient_stick",
+      ""
+    ]
+  },
+  "naturesaura:infused_iron_shoes": {
+    "result": "naturesaura:infused_iron_shoes",
+    "count": 1,
+    "ingredients": [
+      "naturesaura:infused_iron",
+      "",
+      "naturesaura:infused_iron",
+      "naturesaura:infused_iron",
+      "",
+      "naturesaura:infused_iron",
+      "",
+      "",
+      ""
+    ]
+  },
+  "naturesaura:infused_iron_shovel": {
+    "result": "naturesaura:infused_iron_shovel",
+    "count": 1,
+    "ingredients": [
+      "naturesaura:infused_iron",
+      "",
+      "",
+      "naturesaura:ancient_stick",
+      "",
+      "",
+      "naturesaura:ancient_stick",
+      "",
+      ""
+    ]
+  },
+  "naturesaura:infused_slab": {
+    "result": "naturesaura:infused_slab",
+    "count": 6,
+    "ingredients": [
+      "naturesaura:infused_stone",
+      "naturesaura:infused_stone",
+      "naturesaura:infused_stone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "naturesaura:infused_stairs": {
+    "result": "naturesaura:infused_stairs",
+    "count": 4,
+    "ingredients": [
+      "naturesaura:infused_stone",
+      "",
+      "",
+      "naturesaura:infused_stone",
+      "naturesaura:infused_stone",
+      "",
+      "naturesaura:infused_stone",
+      "naturesaura:infused_stone",
+      "naturesaura:infused_stone"
+    ]
+  },
+  "naturesaura:infused_iron_sword": {
+    "result": "naturesaura:infused_iron_sword",
+    "count": 1,
+    "ingredients": [
+      "naturesaura:infused_iron",
+      "",
+      "",
+      "naturesaura:infused_iron",
+      "",
+      "",
+      "naturesaura:ancient_stick",
+      "",
+      ""
+    ]
+  },
+  "oritech:industrial_glass_block": {
+    "result": "oritech:industrial_glass_block",
+    "count": 4,
+    "ingredients": [
+      "minecraft:glass",
+      "modern_industrialization:steel_ingot",
+      "minecraft:glass",
+      "modern_industrialization:steel_ingot",
+      "minecraft:plating",
+      "modern_industrialization:steel_ingot",
+      "minecraft:glass",
+      "modern_industrialization:steel_ingot",
+      "minecraft:glass"
+    ]
+  },
+  "oritech:industrial_paint": {
+    "result": "oritech:industrial_paint",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:yellow_dye",
+      "",
+      "minecraft:plastic",
+      "oritech:industrial_glass_block",
+      "minecraft:plastic",
+      "",
+      "minecraft:yellow_dye",
+      ""
+    ]
+  },
+  "pneumaticcraft:inventory_upgrade": {
+    "result": "pneumaticcraft:inventory_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:upgrade_components",
+      "minecraft:oak_planks",
+      "minecraft:upgrade_components",
+      "minecraft:oak_planks",
+      "minecraft:chest",
+      "minecraft:oak_planks",
+      "minecraft:upgrade_components",
+      "minecraft:oak_planks",
+      "minecraft:upgrade_components"
+    ]
+  },
+  "productivebees:inactive_dragon_egg": {
+    "result": "productivebees:inactive_dragon_egg",
+    "count": 1,
+    "ingredients": [
+      "productivebees:draconic_chunk",
+      "productivebees:draconic_chunk",
+      "productivebees:draconic_chunk",
+      "productivebees:draconic_chunk",
+      "minecraft:eggs",
+      "productivebees:draconic_chunk",
+      "productivebees:draconic_chunk",
+      "productivebees:draconic_chunk",
+      "productivebees:draconic_chunk"
+    ]
+  },
+  "productivebees:incubator": {
+    "result": "productivebees:incubator",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:daylight_detector",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:hay_block",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "pylons:infusion_pylon": {
+    "result": "pylons:infusion_pylon",
+    "count": 1,
+    "ingredients": [
+      "minecraft:quartz_slab",
+      "minecraft:quartz_slab",
+      "minecraft:quartz_slab",
+      "minecraft:iron_bars",
+      "minecraft:emerald_block",
+      "minecraft:iron_bars",
+      "minecraft:polished_blackstone",
+      "minecraft:polished_blackstone",
+      "minecraft:polished_blackstone"
+    ]
+  },
+  "pylons:interdiction_pylon": {
+    "result": "pylons:interdiction_pylon",
+    "count": 1,
+    "ingredients": [
+      "minecraft:quartz_slab",
+      "minecraft:quartz_slab",
+      "minecraft:quartz_slab",
+      "minecraft:iron_bars",
+      "minecraft:netherite_block",
+      "minecraft:iron_bars",
+      "minecraft:polished_blackstone",
+      "minecraft:polished_blackstone",
+      "minecraft:polished_blackstone"
+    ]
+  },
+  "railcraft:invar_block": {
+    "result": "railcraft:invar_block",
+    "count": 1,
+    "ingredients": [
+      "railcraft:invar_ingot",
+      "railcraft:invar_ingot",
+      "railcraft:invar_ingot",
+      "railcraft:invar_ingot",
+      "railcraft:invar_ingot",
+      "railcraft:invar_ingot",
+      "railcraft:invar_ingot",
+      "railcraft:invar_ingot",
+      "railcraft:invar_ingot"
+    ]
+  },
+  "railcraft:invar_gear": {
+    "result": "railcraft:invar_gear",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:invar",
+      "",
+      "minecraft:invar",
+      "railcraft:bushing_gear",
+      "minecraft:invar",
+      "",
+      "minecraft:invar",
+      ""
+    ]
+  },
+  "railcraft:invar_ingot": {
+    "result": "railcraft:invar_ingot",
+    "count": 1,
+    "ingredients": [
+      "railcraft:invar_nugget",
+      "railcraft:invar_nugget",
+      "railcraft:invar_nugget",
+      "railcraft:invar_nugget",
+      "railcraft:invar_nugget",
+      "railcraft:invar_nugget",
+      "railcraft:invar_nugget",
+      "railcraft:invar_nugget",
+      "railcraft:invar_nugget"
+    ]
+  },
+  "railcraft:invar_nugget": {
+    "result": "railcraft:invar_nugget",
+    "count": 9,
+    "ingredients": [
+      "railcraft:invar_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "refinedstorage:interface": {
+    "result": "refinedstorage:interface",
+    "count": 1,
+    "ingredients": [
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:importer",
+      "refinedstorage:quartz_enriched_iron",
+      "minecraft:redstone",
+      "refinedstorage:machine_casing",
+      "minecraft:redstone",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:exporter",
+      "refinedstorage:quartz_enriched_iron"
+    ]
+  },
+  "refinedtypes:infinite_energy_storage_block": {
+    "result": "refinedtypes:infinite_energy_storage_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:copper_block",
+      "refinedtypes:infinite_energy_storage_part",
+      "minecraft:copper_block",
+      "minecraft:copper_block",
+      "refinedstorage:machine_casing",
+      "minecraft:copper_block",
+      "minecraft:copper_block",
+      "minecraft:redstone",
+      "minecraft:copper_block"
+    ]
+  },
+  "refinedtypes:infinite_soul_storage_block": {
+    "result": "refinedtypes:infinite_soul_storage_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone_block",
+      "refinedtypes:infinite_soul_storage_part",
+      "minecraft:redstone_block",
+      "minecraft:redstone_block",
+      "refinedstorage:machine_casing",
+      "minecraft:redstone_block",
+      "minecraft:redstone_block",
+      "minecraft:redstone",
+      "minecraft:redstone_block"
+    ]
+  },
+  "refinedtypes:infinite_source_storage_block": {
+    "result": "refinedtypes:infinite_source_storage_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone_block",
+      "refinedtypes:infinite_source_storage_part",
+      "minecraft:redstone_block",
+      "minecraft:redstone_block",
+      "refinedstorage:machine_casing",
+      "minecraft:redstone_block",
+      "minecraft:redstone_block",
+      "minecraft:redstone",
+      "minecraft:redstone_block"
+    ]
+  },
+  "refinedtypes:infinite_energy_storage_disk": {
+    "result": "refinedtypes:infinite_energy_storage_disk",
+    "count": 1,
+    "ingredients": [
+      "refinedstorage:storage_housing",
+      "refinedtypes:infinite_energy_storage_part",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "refinedtypes:infinite_soul_storage_disk": {
+    "result": "refinedtypes:infinite_soul_storage_disk",
+    "count": 1,
+    "ingredients": [
+      "refinedstorage:storage_housing",
+      "refinedtypes:infinite_soul_storage_part",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "refinedtypes:infinite_source_storage_disk": {
+    "result": "refinedtypes:infinite_source_storage_disk",
+    "count": 1,
+    "ingredients": [
+      "refinedstorage:storage_housing",
+      "refinedtypes:infinite_source_storage_part",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "refinedtypes:infinite_energy_storage_part": {
+    "result": "refinedtypes:infinite_energy_storage_part",
+    "count": 1,
+    "ingredients": [
+      "refinedstorage:advanced_processor",
+      "minecraft:copper_block",
+      "refinedstorage:advanced_processor",
+      "refinedtypes:8388608k_energy_storage_part",
+      "minecraft:netherite_block",
+      "refinedtypes:8388608k_energy_storage_part",
+      "refinedstorage:advanced_processor",
+      "refinedtypes:8388608k_energy_storage_part",
+      "refinedstorage:advanced_processor"
+    ]
+  },
+  "refinedtypes:infinite_soul_storage_part": {
+    "result": "refinedtypes:infinite_soul_storage_part",
+    "count": 1,
+    "ingredients": [
+      "refinedstorage:advanced_processor",
+      "minecraft:redstone_block",
+      "refinedstorage:advanced_processor",
+      "refinedtypes:2097152k_soul_storage_part",
+      "minecraft:netherite_block",
+      "refinedtypes:2097152k_soul_storage_part",
+      "refinedstorage:advanced_processor",
+      "refinedtypes:2097152k_soul_storage_part",
+      "refinedstorage:advanced_processor"
+    ]
+  },
+  "refinedtypes:infinite_source_storage_part": {
+    "result": "refinedtypes:infinite_source_storage_part",
+    "count": 1,
+    "ingredients": [
+      "refinedstorage:advanced_processor",
+      "minecraft:redstone_block",
+      "refinedstorage:advanced_processor",
+      "refinedtypes:8388608b_source_storage_part",
+      "minecraft:netherite_block",
+      "refinedtypes:8388608b_source_storage_part",
+      "refinedstorage:advanced_processor",
+      "refinedtypes:8388608b_source_storage_part",
+      "refinedstorage:advanced_processor"
+    ]
+  },
+  "reliquary:infernal_chalice": {
+    "result": "reliquary:infernal_chalice",
+    "count": 1,
+    "ingredients": [
+      "reliquary:infernal_claws",
+      "reliquary:emperor_chalice",
+      "reliquary:infernal_tear",
+      "reliquary:molten_core",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "reliquary:infernal_claw": {
+    "result": "reliquary:infernal_claw",
+    "count": 1,
+    "ingredients": [
+      "minecraft:leather",
+      "reliquary:molten_core",
+      "reliquary:rib_bone",
+      "reliquary:slime_pearl",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "reliquary:infernal_claws": {
+    "result": "reliquary:infernal_claws",
+    "count": 1,
+    "ingredients": [
+      "reliquary:infernal_claw",
+      "reliquary:infernal_claw",
+      "reliquary:infernal_claw",
+      "reliquary:slime_pearl",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "reliquary:interdiction_torch": {
+    "result": "reliquary:interdiction_torch",
+    "count": 1,
+    "ingredients": [
+      "reliquary:bat_wing",
+      "minecraft:blaze",
+      "reliquary:molten_core",
+      "reliquary:nebulous_heart",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "rftoolsbase:information_screen": {
+    "result": "rftoolsbase:information_screen",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:redstone",
+      "rftoolsbase:machine_base",
+      "minecraft:redstone",
+      "",
+      "",
+      ""
+    ]
+  },
+  "rftoolsbase:infused_diamond": {
+    "result": "rftoolsbase:infused_diamond",
+    "count": 1,
+    "ingredients": [
+      "rftoolsbase:dimensionalshard",
+      "rftoolsbase:dimensionalshard",
+      "rftoolsbase:dimensionalshard",
+      "rftoolsbase:dimensionalshard",
+      "minecraft:diamond",
+      "rftoolsbase:dimensionalshard",
+      "rftoolsbase:dimensionalshard",
+      "rftoolsbase:dimensionalshard",
+      "rftoolsbase:dimensionalshard"
+    ]
+  },
+  "rftoolsbase:infused_enderpearl": {
+    "result": "rftoolsbase:infused_enderpearl",
+    "count": 1,
+    "ingredients": [
+      "rftoolsbase:dimensionalshard",
+      "rftoolsbase:dimensionalshard",
+      "rftoolsbase:dimensionalshard",
+      "rftoolsbase:dimensionalshard",
+      "minecraft:ender_pearl",
+      "rftoolsbase:dimensionalshard",
+      "rftoolsbase:dimensionalshard",
+      "rftoolsbase:dimensionalshard",
+      "rftoolsbase:dimensionalshard"
+    ]
+  },
+  "rftoolsutility:invchecker": {
+    "result": "rftoolsutility:invchecker",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:comparator",
+      "",
+      "minecraft:redstone",
+      "rftoolsbase:machine_base",
+      "minecraft:redstone",
+      "",
+      "minecraft:chest",
+      ""
+    ]
+  },
+  "rftoolsutility:inventoryplus_module": {
+    "result": "rftoolsutility:inventoryplus_module",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:ender_pearl",
+      "",
+      "minecraft:gold_ingot",
+      "rftoolsutility:inventory_module",
+      "minecraft:gold_ingot",
+      "",
+      "minecraft:ender_pearl",
+      ""
+    ]
+  },
+  "rftoolsutility:inventory_module": {
+    "result": "rftoolsutility:inventory_module",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:chest",
+      "",
+      "minecraft:redstone",
+      "minecraft:iron_ingot",
+      "minecraft:redstone",
+      "",
+      "minecraft:black",
+      ""
+    ]
+  },
+  "securitycraft:incognito_mask": {
+    "result": "securitycraft:incognito_mask",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:string",
+      "",
+      "minecraft:string",
+      "",
+      "minecraft:string",
+      "",
+      "minecraft:leather",
+      ""
+    ]
+  },
+  "securitycraft:inventory_scanner": {
+    "result": "securitycraft:inventory_scanner",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "securitycraft:laser_block",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:chest",
+      "minecraft:stone"
+    ]
+  },
+  "sophisticatedbackpacks:inception_upgrade": {
+    "result": "sophisticatedbackpacks:inception_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:ender_eye",
+      "minecraft:nether_stars",
+      "minecraft:ender_eye",
+      "minecraft:diamond",
+      "sophisticatedbackpacks:upgrade_base",
+      "minecraft:diamond",
+      "minecraft:ender_eye",
+      "minecraft:diamond",
+      "minecraft:ender_eye"
+    ]
+  },
+  "theurgy:incubator": {
+    "result": "theurgy:incubator",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "minecraft:stone",
+      "minecraft:oak_planks",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:stone",
+      "minecraft:copper_ingot",
+      "minecraft:stone"
+    ]
+  },
+  "theurgy:incubator_mercury_vessel": {
+    "result": "theurgy:incubator_mercury_vessel",
+    "count": 1,
+    "ingredients": [
+      "minecraft:copper_ingot",
+      "minecraft:alchemical_mercuries",
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "",
+      "minecraft:copper_ingot",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone"
+    ]
+  },
+  "theurgy:incubator_salt_vessel": {
+    "result": "theurgy:incubator_salt_vessel",
+    "count": 1,
+    "ingredients": [
+      "minecraft:copper_ingot",
+      "minecraft:alchemical_salts",
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "",
+      "minecraft:copper_ingot",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone"
+    ]
+  },
+  "theurgy:incubator_sulfur_vessel": {
+    "result": "theurgy:incubator_sulfur_vessel",
+    "count": 1,
+    "ingredients": [
+      "minecraft:copper_ingot",
+      "minecraft:alchemical_sulfurs",
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "",
+      "minecraft:copper_ingot",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone"
+    ]
+  },
+  "undergarden:indigo_stew": {
+    "result": "undergarden:indigo_stew",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bowl",
+      "undergarden:indigo_mushroom",
+      "undergarden:indigo_mushroom",
+      "undergarden:indigo_mushroom",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:infuser": {
+    "result": "undergarden:infuser",
+    "count": 1,
+    "ingredients": [
+      "undergarden:utheric_cluster",
+      "undergarden:dreadrock",
+      "minecraft:rogdorium",
+      "undergarden:dreadrock",
+      "",
+      "undergarden:dreadrock",
+      "undergarden:dreadrock",
+      "",
+      "undergarden:dreadrock"
+    ]
+  },
+  "undergarden:inky_stew": {
+    "result": "undergarden:inky_stew",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bowl",
+      "undergarden:ink_mushroom",
+      "undergarden:ink_mushroom",
+      "undergarden:ink_mushroom",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "utilitarian:inverted_lapis_lamp": {
+    "result": "utilitarian:inverted_lapis_lamp",
+    "count": 1,
+    "ingredients": [
+      "minecraft:lever",
+      "utilitarian:lapis_lamp",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "utilitarian:inverted_redstone_lamp": {
+    "result": "utilitarian:inverted_redstone_lamp",
+    "count": 1,
+    "ingredients": [
+      "minecraft:lever",
+      "minecraft:redstone_lamp",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xycraft_world:inverted_bricks_cloud_blue": {
+    "result": "xycraft_world:inverted_bricks_cloud_blue",
+    "count": 4,
+    "ingredients": [
+      "xycraft_world:xychorium_gem_blue",
+      "xycraft_world:xychorium_gem_blue",
+      "",
+      "xycraft_world:xychorium_gem_blue",
+      "xycraft_world:xychorium_gem_blue",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xycraft_world:inverted_bricks_cloud_dark": {
+    "result": "xycraft_world:inverted_bricks_cloud_dark",
+    "count": 4,
+    "ingredients": [
+      "xycraft_world:xychorium_gem_dark",
+      "xycraft_world:xychorium_gem_dark",
+      "",
+      "xycraft_world:xychorium_gem_dark",
+      "xycraft_world:xychorium_gem_dark",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xycraft_world:inverted_bricks_cloud_green": {
+    "result": "xycraft_world:inverted_bricks_cloud_green",
+    "count": 4,
+    "ingredients": [
+      "xycraft_world:xychorium_gem_green",
+      "xycraft_world:xychorium_gem_green",
+      "",
+      "xycraft_world:xychorium_gem_green",
+      "xycraft_world:xychorium_gem_green",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xycraft_world:inverted_bricks_cloud_light": {
+    "result": "xycraft_world:inverted_bricks_cloud_light",
+    "count": 4,
+    "ingredients": [
+      "xycraft_world:xychorium_gem_light",
+      "xycraft_world:xychorium_gem_light",
+      "",
+      "xycraft_world:xychorium_gem_light",
+      "xycraft_world:xychorium_gem_light",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xycraft_world:inverted_bricks_cloud_red": {
+    "result": "xycraft_world:inverted_bricks_cloud_red",
+    "count": 4,
+    "ingredients": [
+      "xycraft_world:xychorium_gem_red",
+      "xycraft_world:xychorium_gem_red",
+      "",
+      "xycraft_world:xychorium_gem_red",
+      "xycraft_world:xychorium_gem_red",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xycraft_world:inverted_tiles_cloud_blue": {
+    "result": "xycraft_world:inverted_tiles_cloud_blue",
+    "count": 4,
+    "ingredients": [
+      "xycraft_world:inverted_bricks_cloud_blue",
+      "xycraft_world:inverted_bricks_cloud_blue",
+      "",
+      "xycraft_world:inverted_bricks_cloud_blue",
+      "xycraft_world:inverted_bricks_cloud_blue",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xycraft_world:inverted_tiles_cloud_dark": {
+    "result": "xycraft_world:inverted_tiles_cloud_dark",
+    "count": 4,
+    "ingredients": [
+      "xycraft_world:inverted_bricks_cloud_dark",
+      "xycraft_world:inverted_bricks_cloud_dark",
+      "",
+      "xycraft_world:inverted_bricks_cloud_dark",
+      "xycraft_world:inverted_bricks_cloud_dark",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xycraft_world:inverted_tiles_cloud_green": {
+    "result": "xycraft_world:inverted_tiles_cloud_green",
+    "count": 4,
+    "ingredients": [
+      "xycraft_world:inverted_bricks_cloud_green",
+      "xycraft_world:inverted_bricks_cloud_green",
+      "",
+      "xycraft_world:inverted_bricks_cloud_green",
+      "xycraft_world:inverted_bricks_cloud_green",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xycraft_world:inverted_tiles_cloud_light": {
+    "result": "xycraft_world:inverted_tiles_cloud_light",
+    "count": 4,
+    "ingredients": [
+      "xycraft_world:inverted_bricks_cloud_light",
+      "xycraft_world:inverted_bricks_cloud_light",
+      "",
+      "xycraft_world:inverted_bricks_cloud_light",
+      "xycraft_world:inverted_bricks_cloud_light",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xycraft_world:inverted_tiles_cloud_red": {
+    "result": "xycraft_world:inverted_tiles_cloud_red",
+    "count": 4,
+    "ingredients": [
+      "xycraft_world:inverted_bricks_cloud_red",
+      "xycraft_world:inverted_bricks_cloud_red",
+      "",
+      "xycraft_world:inverted_bricks_cloud_red",
+      "xycraft_world:inverted_bricks_cloud_red",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

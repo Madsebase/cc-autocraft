@@ -1,0 +1,242 @@
+{
+  "modularrouters:sync_upgrade": {
+    "result": "modularrouters:sync_upgrade",
+    "count": 16,
+    "ingredients": [
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:redstone_torch",
+      "minecraft:redstone",
+      "modularrouters:blank_upgrade",
+      "minecraft:redstone",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sycamore_fig_bookshelf": {
+    "result": "productivetrees:sycamore_fig_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:sycamore_fig_planks",
+      "productivetrees:sycamore_fig_planks",
+      "productivetrees:sycamore_fig_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:sycamore_fig_planks",
+      "productivetrees:sycamore_fig_planks",
+      "productivetrees:sycamore_fig_planks"
+    ]
+  },
+  "productivetrees:sycamore_fig_button": {
+    "result": "productivetrees:sycamore_fig_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:sycamore_fig_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sycamore_fig_door": {
+    "result": "productivetrees:sycamore_fig_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:sycamore_fig_planks",
+      "productivetrees:sycamore_fig_planks",
+      "",
+      "productivetrees:sycamore_fig_planks",
+      "productivetrees:sycamore_fig_planks",
+      "",
+      "productivetrees:sycamore_fig_planks",
+      "productivetrees:sycamore_fig_planks",
+      ""
+    ]
+  },
+  "productivetrees:sycamore_fig_fence": {
+    "result": "productivetrees:sycamore_fig_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:sycamore_fig_planks",
+      "minecraft:stick",
+      "productivetrees:sycamore_fig_planks",
+      "productivetrees:sycamore_fig_planks",
+      "minecraft:stick",
+      "productivetrees:sycamore_fig_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sycamore_fig_fence_gate": {
+    "result": "productivetrees:sycamore_fig_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:sycamore_fig_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:sycamore_fig_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sycamore_fig_hanging_sign": {
+    "result": "productivetrees:sycamore_fig_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:sycamore_fig_planks",
+      "productivetrees:sycamore_fig_planks",
+      "productivetrees:sycamore_fig_planks",
+      "productivetrees:sycamore_fig_planks",
+      "productivetrees:sycamore_fig_planks",
+      "productivetrees:sycamore_fig_planks"
+    ]
+  },
+  "productivetrees:sycamore_fig_planks": {
+    "result": "productivetrees:sycamore_fig_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sycamore_fig_pressure_plate": {
+    "result": "productivetrees:sycamore_fig_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:sycamore_fig_planks",
+      "productivetrees:sycamore_fig_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sycamore_fig_sign": {
+    "result": "productivetrees:sycamore_fig_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:sycamore_fig_planks",
+      "productivetrees:sycamore_fig_planks",
+      "productivetrees:sycamore_fig_planks",
+      "productivetrees:sycamore_fig_planks",
+      "productivetrees:sycamore_fig_planks",
+      "productivetrees:sycamore_fig_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:sycamore_fig_slab": {
+    "result": "productivetrees:sycamore_fig_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:sycamore_fig_planks",
+      "productivetrees:sycamore_fig_planks",
+      "productivetrees:sycamore_fig_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sycamore_fig_stairs": {
+    "result": "productivetrees:sycamore_fig_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:sycamore_fig_planks",
+      "",
+      "",
+      "productivetrees:sycamore_fig_planks",
+      "productivetrees:sycamore_fig_planks",
+      "",
+      "productivetrees:sycamore_fig_planks",
+      "productivetrees:sycamore_fig_planks",
+      "productivetrees:sycamore_fig_planks"
+    ]
+  },
+  "productivetrees:sycamore_fig_trapdoor": {
+    "result": "productivetrees:sycamore_fig_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:sycamore_fig_planks",
+      "productivetrees:sycamore_fig_planks",
+      "productivetrees:sycamore_fig_planks",
+      "productivetrees:sycamore_fig_planks",
+      "productivetrees:sycamore_fig_planks",
+      "productivetrees:sycamore_fig_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sycamore_fig_wood": {
+    "result": "productivetrees:sycamore_fig_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:sycamore_fig_log",
+      "productivetrees:sycamore_fig_log",
+      "",
+      "productivetrees:sycamore_fig_log",
+      "productivetrees:sycamore_fig_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "rftoolsutility:syringe": {
+    "result": "rftoolsutility:syringe",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "",
+      "",
+      "",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      "",
+      "minecraft:glass_bottle"
+    ]
+  },
+  "xtonesreworked:sync_block_0": {
+    "result": "xtonesreworked:sync_block_0",
+    "count": 8,
+    "ingredients": [
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile",
+      "minecraft:green",
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile"
+    ]
+  }
+}

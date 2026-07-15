@@ -1,0 +1,1412 @@
+{
+  "ae2:toggle_bus": {
+    "result": "ae2:toggle_bus",
+    "count": 1,
+    "ingredients": [
+      "ae2:inverted_toggle_bus",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "akashictome:tome": {
+    "result": "akashictome:tome",
+    "count": 1,
+    "ingredients": [
+      "minecraft:book",
+      "minecraft:bookshelves",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "cookingforblockheads:toaster": {
+    "result": "cookingforblockheads:toaster",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "minecraft:stone_button",
+      "minecraft:iron_ingot",
+      "minecraft:iron_trapdoor",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:lava_bucket",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "cookingforblockheads:tool_rack": {
+    "result": "cookingforblockheads:tool_rack",
+    "count": 1,
+    "ingredients": [
+      "minecraft:wooden_slabs",
+      "minecraft:wooden_slabs",
+      "minecraft:wooden_slabs",
+      "minecraft:iron",
+      "",
+      "minecraft:iron",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:tooth_of_hunger_tiles": {
+    "result": "eternal_starlight:tooth_of_hunger_tiles",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:tooth_of_hunger",
+      "eternal_starlight:tooth_of_hunger",
+      "",
+      "eternal_starlight:tooth_of_hunger",
+      "eternal_starlight:tooth_of_hunger",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:tooth_of_hunger_tile_slab": {
+    "result": "eternal_starlight:tooth_of_hunger_tile_slab",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:tooth_of_hunger_tiles",
+      "eternal_starlight:tooth_of_hunger_tiles",
+      "eternal_starlight:tooth_of_hunger_tiles",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:tooth_of_hunger_tile_stairs": {
+    "result": "eternal_starlight:tooth_of_hunger_tile_stairs",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:tooth_of_hunger_tiles",
+      "",
+      "",
+      "eternal_starlight:tooth_of_hunger_tiles",
+      "eternal_starlight:tooth_of_hunger_tiles",
+      "",
+      "eternal_starlight:tooth_of_hunger_tiles",
+      "eternal_starlight:tooth_of_hunger_tiles",
+      "eternal_starlight:tooth_of_hunger_tiles"
+    ]
+  },
+  "eternal_starlight:tooth_of_hunger_tile_wall": {
+    "result": "eternal_starlight:tooth_of_hunger_tile_wall",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:tooth_of_hunger_tiles",
+      "eternal_starlight:tooth_of_hunger_tiles",
+      "eternal_starlight:tooth_of_hunger_tiles",
+      "eternal_starlight:tooth_of_hunger_tiles",
+      "eternal_starlight:tooth_of_hunger_tiles",
+      "eternal_starlight:tooth_of_hunger_tiles",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:torch": {
+    "result": "minecraft:torch",
+    "count": 2,
+    "ingredients": [
+      "undergarden:ditchbulb_paste",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:torreya_boat": {
+    "result": "eternal_starlight:torreya_boat",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:torreya_planks",
+      "",
+      "eternal_starlight:torreya_planks",
+      "eternal_starlight:torreya_planks",
+      "eternal_starlight:torreya_planks",
+      "eternal_starlight:torreya_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:torreya_button": {
+    "result": "eternal_starlight:torreya_button",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:torreya_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:torreya_campfire": {
+    "result": "eternal_starlight:torreya_campfire",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "minecraft:stick",
+      "minecraft:amaramber",
+      "minecraft:stick",
+      "minecraft:oak_log",
+      "minecraft:oak_log",
+      "minecraft:oak_log"
+    ]
+  },
+  "eternal_starlight:torreya_chest_boat": {
+    "result": "eternal_starlight:torreya_chest_boat",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:torreya_boat",
+      "minecraft:chest",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:torreya_door": {
+    "result": "eternal_starlight:torreya_door",
+    "count": 3,
+    "ingredients": [
+      "eternal_starlight:torreya_planks",
+      "eternal_starlight:torreya_planks",
+      "",
+      "eternal_starlight:torreya_planks",
+      "eternal_starlight:torreya_planks",
+      "",
+      "eternal_starlight:torreya_planks",
+      "eternal_starlight:torreya_planks",
+      ""
+    ]
+  },
+  "eternal_starlight:torreya_fence": {
+    "result": "eternal_starlight:torreya_fence",
+    "count": 3,
+    "ingredients": [
+      "eternal_starlight:torreya_planks",
+      "minecraft:stick",
+      "eternal_starlight:torreya_planks",
+      "eternal_starlight:torreya_planks",
+      "minecraft:stick",
+      "eternal_starlight:torreya_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:torreya_fence_gate": {
+    "result": "eternal_starlight:torreya_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "eternal_starlight:torreya_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "eternal_starlight:torreya_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:torreya_hanging_sign": {
+    "result": "eternal_starlight:torreya_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "eternal_starlight:stripped_torreya_log",
+      "eternal_starlight:stripped_torreya_log",
+      "eternal_starlight:stripped_torreya_log",
+      "eternal_starlight:stripped_torreya_log",
+      "eternal_starlight:stripped_torreya_log",
+      "eternal_starlight:stripped_torreya_log"
+    ]
+  },
+  "eternal_starlight:torreya_planks": {
+    "result": "eternal_starlight:torreya_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:torreya_pressure_plate": {
+    "result": "eternal_starlight:torreya_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:torreya_planks",
+      "eternal_starlight:torreya_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:torreya_sign": {
+    "result": "eternal_starlight:torreya_sign",
+    "count": 3,
+    "ingredients": [
+      "eternal_starlight:torreya_planks",
+      "eternal_starlight:torreya_planks",
+      "eternal_starlight:torreya_planks",
+      "eternal_starlight:torreya_planks",
+      "eternal_starlight:torreya_planks",
+      "eternal_starlight:torreya_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "eternal_starlight:torreya_slab": {
+    "result": "eternal_starlight:torreya_slab",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:torreya_planks",
+      "eternal_starlight:torreya_planks",
+      "eternal_starlight:torreya_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:torreya_stairs": {
+    "result": "eternal_starlight:torreya_stairs",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:torreya_planks",
+      "",
+      "",
+      "eternal_starlight:torreya_planks",
+      "eternal_starlight:torreya_planks",
+      "",
+      "eternal_starlight:torreya_planks",
+      "eternal_starlight:torreya_planks",
+      "eternal_starlight:torreya_planks"
+    ]
+  },
+  "eternal_starlight:torreya_starfire_bird_aviary": {
+    "result": "eternal_starlight:torreya_starfire_bird_aviary",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:torreya_planks",
+      "eternal_starlight:torreya_planks",
+      "eternal_starlight:torreya_planks",
+      "eternal_starlight:starfire",
+      "eternal_starlight:starfire",
+      "eternal_starlight:starfire",
+      "eternal_starlight:torreya_planks",
+      "eternal_starlight:torreya_planks",
+      "eternal_starlight:torreya_planks"
+    ]
+  },
+  "eternal_starlight:torreya_tiles": {
+    "result": "eternal_starlight:torreya_tiles",
+    "count": 32,
+    "ingredients": [
+      "minecraft:amaramber",
+      "minecraft:oak_log",
+      "",
+      "minecraft:oak_log",
+      "minecraft:amaramber",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:torreya_tile_slab": {
+    "result": "eternal_starlight:torreya_tile_slab",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:torreya_tiles",
+      "eternal_starlight:torreya_tiles",
+      "eternal_starlight:torreya_tiles",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:torreya_tile_stairs": {
+    "result": "eternal_starlight:torreya_tile_stairs",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:torreya_tiles",
+      "",
+      "",
+      "eternal_starlight:torreya_tiles",
+      "eternal_starlight:torreya_tiles",
+      "",
+      "eternal_starlight:torreya_tiles",
+      "eternal_starlight:torreya_tiles",
+      "eternal_starlight:torreya_tiles"
+    ]
+  },
+  "eternal_starlight:torreya_tile_wall": {
+    "result": "eternal_starlight:torreya_tile_wall",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:torreya_tiles",
+      "eternal_starlight:torreya_tiles",
+      "eternal_starlight:torreya_tiles",
+      "eternal_starlight:torreya_tiles",
+      "eternal_starlight:torreya_tiles",
+      "eternal_starlight:torreya_tiles",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:torreya_trapdoor": {
+    "result": "eternal_starlight:torreya_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "eternal_starlight:torreya_planks",
+      "eternal_starlight:torreya_planks",
+      "eternal_starlight:torreya_planks",
+      "eternal_starlight:torreya_planks",
+      "eternal_starlight:torreya_planks",
+      "eternal_starlight:torreya_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:torreya_wood": {
+    "result": "eternal_starlight:torreya_wood",
+    "count": 3,
+    "ingredients": [
+      "eternal_starlight:torreya_log",
+      "eternal_starlight:torreya_log",
+      "",
+      "eternal_starlight:torreya_log",
+      "eternal_starlight:torreya_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:toxite_bricks": {
+    "result": "eternal_starlight:toxite_bricks",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:polished_toxite",
+      "eternal_starlight:polished_toxite",
+      "",
+      "eternal_starlight:polished_toxite",
+      "eternal_starlight:polished_toxite",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:toxite_brick_slab": {
+    "result": "eternal_starlight:toxite_brick_slab",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:toxite_bricks",
+      "eternal_starlight:toxite_bricks",
+      "eternal_starlight:toxite_bricks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:toxite_brick_stairs": {
+    "result": "eternal_starlight:toxite_brick_stairs",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:toxite_bricks",
+      "",
+      "",
+      "eternal_starlight:toxite_bricks",
+      "eternal_starlight:toxite_bricks",
+      "",
+      "eternal_starlight:toxite_bricks",
+      "eternal_starlight:toxite_bricks",
+      "eternal_starlight:toxite_bricks"
+    ]
+  },
+  "eternal_starlight:toxite_brick_wall": {
+    "result": "eternal_starlight:toxite_brick_wall",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:toxite_bricks",
+      "eternal_starlight:toxite_bricks",
+      "eternal_starlight:toxite_bricks",
+      "eternal_starlight:toxite_bricks",
+      "eternal_starlight:toxite_bricks",
+      "eternal_starlight:toxite_bricks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:toxite_slab": {
+    "result": "eternal_starlight:toxite_slab",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:toxite",
+      "eternal_starlight:toxite",
+      "eternal_starlight:toxite",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:toxite_stairs": {
+    "result": "eternal_starlight:toxite_stairs",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:toxite",
+      "",
+      "",
+      "eternal_starlight:toxite",
+      "eternal_starlight:toxite",
+      "",
+      "eternal_starlight:toxite",
+      "eternal_starlight:toxite",
+      "eternal_starlight:toxite"
+    ]
+  },
+  "eternal_starlight:toxite_wall": {
+    "result": "eternal_starlight:toxite_wall",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:toxite",
+      "eternal_starlight:toxite",
+      "eternal_starlight:toxite",
+      "eternal_starlight:toxite",
+      "eternal_starlight:toxite",
+      "eternal_starlight:toxite",
+      "",
+      "",
+      ""
+    ]
+  },
+  "farmersdelight:tomato": {
+    "result": "farmersdelight:tomato",
+    "count": 9,
+    "ingredients": [
+      "farmersdelight:tomato_crate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "farmersdelight:tomato_crate": {
+    "result": "farmersdelight:tomato_crate",
+    "count": 1,
+    "ingredients": [
+      "farmersdelight:tomato",
+      "farmersdelight:tomato",
+      "farmersdelight:tomato",
+      "farmersdelight:tomato",
+      "farmersdelight:tomato",
+      "farmersdelight:tomato",
+      "farmersdelight:tomato",
+      "farmersdelight:tomato",
+      "farmersdelight:tomato"
+    ]
+  },
+  "farmersdelight:tomato_seeds": {
+    "result": "farmersdelight:tomato_seeds",
+    "count": 1,
+    "ingredients": [
+      "farmersdelight:tomato",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "herbsandharvest:tomato_seeds": {
+    "result": "herbsandharvest:tomato_seeds",
+    "count": 1,
+    "ingredients": [
+      "herbsandharvest:tomato",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "herbsandharvest:tomato_soup_pot": {
+    "result": "herbsandharvest:tomato_soup_pot",
+    "count": 1,
+    "ingredients": [
+      "herbsandharvest:empty_pot",
+      "minecraft:tomato",
+      "minecraft:onion",
+      "minecraft:minced_garlic",
+      "minecraft:cream",
+      "minecraft:salt",
+      "herbsandharvest:chopped_thyme",
+      "minecraft:pepper",
+      ""
+    ]
+  },
+  "twilightforest:torchberries": {
+    "result": "twilightforest:torchberries",
+    "count": 8,
+    "ingredients": [
+      "hostilenetworks:twilight_prediction",
+      "minecraft:sweet_berries",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:toolbox": {
+    "result": "immersiveengineering:toolbox",
+    "count": 1,
+    "ingredients": [
+      "minecraft:aluminum",
+      "minecraft:aluminum",
+      "minecraft:aluminum",
+      "minecraft:red",
+      "immersiveengineering:crate",
+      "minecraft:red",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:toolupgrade_buzzsaw_spareblades": {
+    "result": "immersiveengineering:toolupgrade_buzzsaw_spareblades",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron",
+      "minecraft:fiber_hemp",
+      "minecraft:treated_wood",
+      "minecraft:iron",
+      "minecraft:treated_wood",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:toolupgrade_chemthrower_focus": {
+    "result": "immersiveengineering:toolupgrade_chemthrower_focus",
+    "count": 1,
+    "ingredients": [
+      "immersiveengineering:fluid_pipe",
+      "",
+      "",
+      "",
+      "immersiveengineering:fluid_pipe",
+      "minecraft:steel",
+      "",
+      "minecraft:steel",
+      "immersiveengineering:component_iron"
+    ]
+  },
+  "immersiveengineering:toolupgrade_chemthrower_multitank": {
+    "result": "immersiveengineering:toolupgrade_chemthrower_multitank",
+    "count": 1,
+    "ingredients": [
+      "",
+      "immersiveengineering:fluid_pipe",
+      "",
+      "immersiveengineering:toolupgrade_drill_capacity",
+      "immersiveengineering:component_iron",
+      "immersiveengineering:toolupgrade_drill_capacity",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:toolupgrade_drill_capacity": {
+    "result": "immersiveengineering:toolupgrade_drill_capacity",
+    "count": 1,
+    "ingredients": [
+      "immersiveengineering:fluid_pipe",
+      "minecraft:steel",
+      "",
+      "minecraft:steel",
+      "minecraft:red",
+      "minecraft:steel",
+      "",
+      "minecraft:steel",
+      "minecraft:red"
+    ]
+  },
+  "immersiveengineering:toolupgrade_drill_damage": {
+    "result": "immersiveengineering:toolupgrade_drill_damage",
+    "count": 1,
+    "ingredients": [
+      "",
+      "modern_industrialization:steel_ingot",
+      "",
+      "modern_industrialization:steel_ingot",
+      "immersiveengineering:component_iron",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:toolupgrade_drill_fortune": {
+    "result": "immersiveengineering:toolupgrade_drill_fortune",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "minecraft:steel",
+      "",
+      "minecraft:steel",
+      "minecraft:redstone",
+      "minecraft:steel",
+      "immersiveengineering:fluid_pipe",
+      "immersiveengineering:fluid_pipe",
+      "immersiveengineering:component_steel"
+    ]
+  },
+  "immersiveengineering:toolupgrade_drill_waterproof": {
+    "result": "immersiveengineering:toolupgrade_drill_waterproof",
+    "count": 1,
+    "ingredients": [
+      "minecraft:blue",
+      "minecraft:iron",
+      "",
+      "minecraft:iron",
+      "minecraft:blue",
+      "minecraft:iron",
+      "",
+      "minecraft:iron",
+      "immersiveengineering:fluid_pipe"
+    ]
+  },
+  "immersiveengineering:toolupgrade_powerpack_antenna": {
+    "result": "immersiveengineering:toolupgrade_powerpack_antenna",
+    "count": 1,
+    "ingredients": [
+      "minecraft:aluminum",
+      "minecraft:aluminum",
+      "minecraft:aluminum",
+      "minecraft:aluminum",
+      "minecraft:aluminum",
+      "minecraft:aluminum",
+      "immersiveengineering:connector_lv",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:toolupgrade_powerpack_induction": {
+    "result": "immersiveengineering:toolupgrade_powerpack_induction",
+    "count": 1,
+    "ingredients": [
+      "immersiveengineering:electron_tube",
+      "immersiveengineering:electron_tube",
+      "immersiveengineering:electron_tube",
+      "immersiveengineering:wirecoil_electrum_ins",
+      "immersiveengineering:component_electronic",
+      "immersiveengineering:wirecoil_electrum_ins",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:toolupgrade_powerpack_magnet": {
+    "result": "immersiveengineering:toolupgrade_powerpack_magnet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:steel",
+      "immersiveengineering:component_electronic_adv",
+      "minecraft:steel",
+      "immersiveengineering:wirecoil_copper",
+      "minecraft:iron_ingot",
+      "immersiveengineering:wirecoil_copper",
+      "",
+      "immersiveengineering:wirecoil_copper",
+      ""
+    ]
+  },
+  "immersiveengineering:toolupgrade_powerpack_tesla": {
+    "result": "immersiveengineering:toolupgrade_powerpack_tesla",
+    "count": 1,
+    "ingredients": [
+      "minecraft:aluminum",
+      "minecraft:aluminum",
+      "minecraft:aluminum",
+      "immersiveengineering:wirecoil_electrum",
+      "immersiveengineering:treated_fence",
+      "immersiveengineering:wirecoil_electrum",
+      "immersiveengineering:wirecoil_electrum",
+      "immersiveengineering:component_electronic_adv",
+      "immersiveengineering:wirecoil_electrum"
+    ]
+  },
+  "immersiveengineering:toolupgrade_railgun_capacitors": {
+    "result": "immersiveengineering:toolupgrade_railgun_capacitors",
+    "count": 1,
+    "ingredients": [
+      "minecraft:constantan",
+      "",
+      "",
+      "modern_industrialization:steel_ingot",
+      "minecraft:constantan",
+      "",
+      "",
+      "modern_industrialization:steel_ingot",
+      "minecraft:constantan"
+    ]
+  },
+  "immersiveengineering:toolupgrade_railgun_scope": {
+    "result": "immersiveengineering:toolupgrade_railgun_scope",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "minecraft:glass",
+      "",
+      "minecraft:spyglass",
+      "minecraft:steel",
+      "minecraft:glass",
+      "minecraft:steel",
+      ""
+    ]
+  },
+  "immersiveengineering:toolupgrade_revolver_bayonet": {
+    "result": "immersiveengineering:toolupgrade_revolver_bayonet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:copper",
+      "immersiveengineering:sword_steel",
+      "",
+      "modern_industrialization:steel_ingot",
+      "minecraft:copper",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:toolupgrade_revolver_electro": {
+    "result": "immersiveengineering:toolupgrade_revolver_electro",
+    "count": 1,
+    "ingredients": [
+      "immersiveengineering:electron_tube",
+      "immersiveengineering:electron_tube",
+      "immersiveengineering:electron_tube",
+      "minecraft:steel",
+      "immersiveengineering:wire_copper",
+      "minecraft:steel",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:toolupgrade_revolver_magazine": {
+    "result": "immersiveengineering:toolupgrade_revolver_magazine",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:copper",
+      "minecraft:steel",
+      "minecraft:copper",
+      "minecraft:steel",
+      "minecraft:copper",
+      "immersiveengineering:component_iron",
+      "minecraft:copper",
+      ""
+    ]
+  },
+  "immersiveengineering:toolupgrade_shield_flash": {
+    "result": "immersiveengineering:toolupgrade_shield_flash",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:silver",
+      "",
+      "minecraft:silver",
+      "immersiveengineering:light_bulb",
+      "minecraft:silver",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:toolupgrade_shield_magnet": {
+    "result": "immersiveengineering:toolupgrade_shield_magnet",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "minecraft:leather",
+      "minecraft:leather",
+      "immersiveengineering:coil_lv",
+      "",
+      "minecraft:leather",
+      "minecraft:iron_ingot",
+      "minecraft:leather"
+    ]
+  },
+  "immersiveengineering:toolupgrade_shield_shock": {
+    "result": "immersiveengineering:toolupgrade_shield_shock",
+    "count": 1,
+    "ingredients": [
+      "immersiveengineering:connector_lv",
+      "minecraft:iron",
+      "immersiveengineering:connector_lv",
+      "immersiveengineering:connector_lv",
+      "minecraft:iron",
+      "immersiveengineering:connector_lv",
+      "immersiveengineering:connector_lv",
+      "minecraft:iron",
+      "immersiveengineering:connector_lv"
+    ]
+  },
+  "immersiveengineering:toolupgrade_skyhook_insulation": {
+    "result": "immersiveengineering:toolupgrade_skyhook_insulation",
+    "count": 1,
+    "ingredients": [
+      "minecraft:aluminum",
+      "minecraft:aluminum",
+      "minecraft:plastic",
+      "minecraft:plastic",
+      "immersiveengineering:wooden_grip",
+      "immersiveengineering:wooden_grip",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:toolupgrade_skyhook_mace": {
+    "result": "immersiveengineering:toolupgrade_skyhook_mace",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:netherite",
+      "",
+      "",
+      "immersiveengineering:component_steel",
+      "minecraft:netherite",
+      "minecraft:netherite",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:toolupgrade_skyhook_slope": {
+    "result": "immersiveengineering:toolupgrade_skyhook_slope",
+    "count": 1,
+    "ingredients": [
+      "",
+      "immersiveengineering:wirecoil_copper",
+      "immersiveengineering:component_electronic",
+      "",
+      "immersiveengineering:component_steel",
+      "immersiveengineering:wirecoil_copper",
+      "minecraft:steel",
+      "",
+      ""
+    ]
+  },
+  "justdirethings:totem_of_death_recall": {
+    "result": "justdirethings:totem_of_death_recall",
+    "count": 1,
+    "ingredients": [
+      "justdirethings:blazegold_ingot",
+      "minecraft:diamond",
+      "justdirethings:blazegold_ingot",
+      "minecraft:lapis_lazuli",
+      "minecraft:ender_pearl",
+      "minecraft:lapis_lazuli",
+      "justdirethings:blazegold_ingot",
+      "minecraft:diamond",
+      "justdirethings:blazegold_ingot"
+    ]
+  },
+  "mcwlights:tower_garden_light": {
+    "result": "mcwlights:tower_garden_light",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:iron_nugget",
+      "",
+      "minecraft:glowstone_dust",
+      "minecraft:glowstone_dust",
+      "minecraft:glowstone_dust",
+      "",
+      "minecraft:iron_ingot",
+      ""
+    ]
+  },
+  "minecolonies:tofu": {
+    "result": "minecolonies:tofu",
+    "count": 2,
+    "ingredients": [
+      "minecolonies:soybean",
+      "minecolonies:soybean",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecolonies:tortillas": {
+    "result": "minecolonies:tortillas",
+    "count": 2,
+    "ingredients": [
+      "minecolonies:cornmeal",
+      "minecolonies:cornmeal",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "sfm:tough_cable": {
+    "result": "sfm:tough_cable",
+    "count": 1,
+    "ingredients": [
+      "minecraft:obsidian",
+      "",
+      "minecraft:obsidian",
+      "minecraft:obsidian",
+      "sfm:cable",
+      "minecraft:obsidian",
+      "minecraft:obsidian",
+      "",
+      "minecraft:obsidian"
+    ]
+  },
+  "sfm:tough_fancy_cable": {
+    "result": "sfm:tough_fancy_cable",
+    "count": 1,
+    "ingredients": [
+      "minecraft:obsidian",
+      "minecraft:obsidian",
+      "minecraft:obsidian",
+      "",
+      "sfm:fancy_cable",
+      "",
+      "minecraft:obsidian",
+      "minecraft:obsidian",
+      "minecraft:obsidian"
+    ]
+  },
+  "pamhc2crops:tomatilloseeditem": {
+    "result": "pamhc2crops:tomatilloseeditem",
+    "count": 1,
+    "ingredients": [
+      "pamhc2crops:tomatilloitem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2crops:tomatoseeditem": {
+    "result": "pamhc2crops:tomatoseeditem",
+    "count": 1,
+    "ingredients": [
+      "pamhc2crops:tomatoitem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:toastitem": {
+    "result": "pamhc2foodcore:toastitem",
+    "count": 2,
+    "ingredients": [
+      "minecraft:tool_skillet",
+      "minecraft:bread",
+      "minecraft:butter",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:toadintheholeitem": {
+    "result": "pamhc2foodextended:toadintheholeitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "pamhc2foodextended:yorkshirepuddingitem",
+      "minecraft:sausage",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:toastedwesternitem": {
+    "result": "pamhc2foodextended:toastedwesternitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_skillet",
+      "minecraft:rawpork",
+      "minecraft:bellpepper",
+      "minecraft:onion",
+      "minecraft:egg",
+      "minecraft:butter",
+      "minecraft:toast",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:toastsandwichitem": {
+    "result": "pamhc2foodextended:toastsandwichitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_skillet",
+      "minecraft:toast",
+      "minecraft:toast",
+      "minecraft:blackpepper",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:tomatoherbchickenitem": {
+    "result": "pamhc2foodextended:tomatoherbchickenitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:rawchicken",
+      "minecraft:tomato",
+      "minecraft:spiceleaf",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:tomatosoupitem": {
+    "result": "pamhc2foodextended:tomatosoupitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:tomato",
+      "minecraft:stock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:tortillachipsitem": {
+    "result": "pamhc2foodextended:tortillachipsitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:tortilla",
+      "minecraft:salt",
+      "minecraft:lime",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:tortillaitem": {
+    "result": "pamhc2foodextended:tortillaitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_skillet",
+      "minecraft:cornmeal",
+      "minecraft:water",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:token_signal": {
+    "result": "railcraft:token_signal",
+    "count": 1,
+    "ingredients": [
+      "railcraft:signal_lamp",
+      "railcraft:radio_circuit",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:black",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:token_signal_box": {
+    "result": "railcraft:token_signal_box",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:redstone",
+      "",
+      "minecraft:iron_ingot",
+      "railcraft:radio_circuit",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:redstone",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "silentgems:topaz": {
+    "result": "silentgems:topaz",
+    "count": 9,
+    "ingredients": [
+      "silentgems:topaz_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgems:topaz_bricks": {
+    "result": "silentgems:topaz_bricks",
+    "count": 12,
+    "ingredients": [
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:topaz",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks"
+    ]
+  },
+  "silentgems:topaz_block": {
+    "result": "silentgems:topaz_block",
+    "count": 1,
+    "ingredients": [
+      "silentgems:topaz",
+      "silentgems:topaz",
+      "silentgems:topaz",
+      "silentgems:topaz",
+      "silentgems:topaz",
+      "silentgems:topaz",
+      "silentgems:topaz",
+      "silentgems:topaz",
+      "silentgems:topaz"
+    ]
+  },
+  "silentgems:topaz_glass": {
+    "result": "silentgems:topaz_glass",
+    "count": 12,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:topaz",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass"
+    ]
+  },
+  "silentgems:topaz_lamp": {
+    "result": "silentgems:topaz_lamp",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:topaz",
+      "minecraft:stone",
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:redstone"
+    ]
+  },
+  "silentgems:topaz_lamp_inverted_on": {
+    "result": "silentgems:topaz_lamp_inverted_on",
+    "count": 1,
+    "ingredients": [
+      "silentgems:topaz_lamp",
+      "minecraft:redstone_torch",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgems:topaz_redstone_teleporter": {
+    "result": "silentgems:topaz_redstone_teleporter",
+    "count": 1,
+    "ingredients": [
+      "silentgems:topaz_teleporter",
+      "minecraft:redstone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgems:topaz_small_bricks": {
+    "result": "silentgems:topaz_small_bricks",
+    "count": 12,
+    "ingredients": [
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:topaz",
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:bricks"
+    ]
+  },
+  "silentgems:topaz_teleporter": {
+    "result": "silentgems:topaz_teleporter",
+    "count": 2,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "minecraft:topaz",
+      "minecraft:gold_ingot",
+      "minecraft:topaz",
+      "silentgems:chaos_essence_block",
+      "minecraft:topaz",
+      "",
+      "minecraft:ender_pearl",
+      ""
+    ]
+  },
+  "silentgems:topaz_tiles": {
+    "result": "silentgems:topaz_tiles",
+    "count": 12,
+    "ingredients": [
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:topaz",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles"
+    ]
+  },
+  "sophisticatedbackpacks:tool_swapper_upgrade": {
+    "result": "sophisticatedbackpacks:tool_swapper_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "minecraft:wooden_sword",
+      "minecraft:redstone",
+      "minecraft:wooden_pickaxe",
+      "sophisticatedbackpacks:upgrade_base",
+      "minecraft:wooden_axe",
+      "minecraft:iron_ingot",
+      "minecraft:wooden_shovel",
+      "minecraft:iron_ingot"
+    ]
+  }
+}

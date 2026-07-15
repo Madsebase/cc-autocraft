@@ -1,0 +1,242 @@
+{
+  "biomeswevegone:ebony_boat": {
+    "result": "biomeswevegone:ebony_boat",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:ebony_planks",
+      "",
+      "biomeswevegone:ebony_planks",
+      "biomeswevegone:ebony_planks",
+      "biomeswevegone:ebony_planks",
+      "biomeswevegone:ebony_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:ebony_bookshelf": {
+    "result": "biomeswevegone:ebony_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:ebony_planks",
+      "biomeswevegone:ebony_planks",
+      "biomeswevegone:ebony_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "biomeswevegone:ebony_planks",
+      "biomeswevegone:ebony_planks",
+      "biomeswevegone:ebony_planks"
+    ]
+  },
+  "biomeswevegone:ebony_button": {
+    "result": "biomeswevegone:ebony_button",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:ebony_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:ebony_chest_boat": {
+    "result": "biomeswevegone:ebony_chest_boat",
+    "count": 1,
+    "ingredients": [
+      "minecraft:chest",
+      "biomeswevegone:ebony_boat",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:ebony_crafting_table": {
+    "result": "biomeswevegone:ebony_crafting_table",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:ebony_planks",
+      "biomeswevegone:ebony_planks",
+      "",
+      "biomeswevegone:ebony_planks",
+      "biomeswevegone:ebony_planks",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:ebony_door": {
+    "result": "biomeswevegone:ebony_door",
+    "count": 3,
+    "ingredients": [
+      "biomeswevegone:ebony_planks",
+      "biomeswevegone:ebony_planks",
+      "",
+      "biomeswevegone:ebony_planks",
+      "biomeswevegone:ebony_planks",
+      "",
+      "biomeswevegone:ebony_planks",
+      "biomeswevegone:ebony_planks",
+      ""
+    ]
+  },
+  "biomeswevegone:ebony_fence": {
+    "result": "biomeswevegone:ebony_fence",
+    "count": 3,
+    "ingredients": [
+      "biomeswevegone:ebony_planks",
+      "minecraft:stick",
+      "biomeswevegone:ebony_planks",
+      "biomeswevegone:ebony_planks",
+      "minecraft:stick",
+      "biomeswevegone:ebony_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:ebony_fence_gate": {
+    "result": "biomeswevegone:ebony_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "biomeswevegone:ebony_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "biomeswevegone:ebony_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:ebony_hanging_sign": {
+    "result": "biomeswevegone:ebony_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "biomeswevegone:stripped_ebony_log",
+      "biomeswevegone:stripped_ebony_log",
+      "biomeswevegone:stripped_ebony_log",
+      "biomeswevegone:stripped_ebony_log",
+      "biomeswevegone:stripped_ebony_log",
+      "biomeswevegone:stripped_ebony_log"
+    ]
+  },
+  "biomeswevegone:ebony_planks": {
+    "result": "biomeswevegone:ebony_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:ebony_pressure_plate": {
+    "result": "biomeswevegone:ebony_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:ebony_planks",
+      "biomeswevegone:ebony_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:ebony_sign": {
+    "result": "biomeswevegone:ebony_sign",
+    "count": 3,
+    "ingredients": [
+      "biomeswevegone:ebony_planks",
+      "biomeswevegone:ebony_planks",
+      "biomeswevegone:ebony_planks",
+      "biomeswevegone:ebony_planks",
+      "biomeswevegone:ebony_planks",
+      "biomeswevegone:ebony_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "biomeswevegone:ebony_slab": {
+    "result": "biomeswevegone:ebony_slab",
+    "count": 6,
+    "ingredients": [
+      "biomeswevegone:ebony_planks",
+      "biomeswevegone:ebony_planks",
+      "biomeswevegone:ebony_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:ebony_stairs": {
+    "result": "biomeswevegone:ebony_stairs",
+    "count": 4,
+    "ingredients": [
+      "biomeswevegone:ebony_planks",
+      "",
+      "",
+      "biomeswevegone:ebony_planks",
+      "biomeswevegone:ebony_planks",
+      "",
+      "biomeswevegone:ebony_planks",
+      "biomeswevegone:ebony_planks",
+      "biomeswevegone:ebony_planks"
+    ]
+  },
+  "biomeswevegone:ebony_trapdoor": {
+    "result": "biomeswevegone:ebony_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "biomeswevegone:ebony_planks",
+      "biomeswevegone:ebony_planks",
+      "biomeswevegone:ebony_planks",
+      "biomeswevegone:ebony_planks",
+      "biomeswevegone:ebony_planks",
+      "biomeswevegone:ebony_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:ebony_wood": {
+    "result": "biomeswevegone:ebony_wood",
+    "count": 3,
+    "ingredients": [
+      "biomeswevegone:ebony_log",
+      "biomeswevegone:ebony_log",
+      "",
+      "biomeswevegone:ebony_log",
+      "biomeswevegone:ebony_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

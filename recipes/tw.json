@@ -1,0 +1,1862 @@
+{
+  "bibliocraft:twilightforest_canopy_bookcase": {
+    "result": "bibliocraft:twilightforest_canopy_bookcase",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:canopy_planks",
+      "twilightforest:canopy_slab",
+      "twilightforest:canopy_planks",
+      "twilightforest:canopy_planks",
+      "twilightforest:canopy_slab",
+      "twilightforest:canopy_planks",
+      "twilightforest:canopy_planks",
+      "twilightforest:canopy_slab",
+      "twilightforest:canopy_planks"
+    ]
+  },
+  "bibliocraft:twilightforest_canopy_fancy_armor_stand": {
+    "result": "bibliocraft:twilightforest_canopy_fancy_armor_stand",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "twilightforest:canopy_slab",
+      "twilightforest:canopy_slab",
+      "twilightforest:canopy_slab"
+    ]
+  },
+  "bibliocraft:twilightforest_canopy_fancy_clock": {
+    "result": "bibliocraft:twilightforest_canopy_fancy_clock",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:canopy_slab",
+      "minecraft:clock",
+      "twilightforest:canopy_slab",
+      "twilightforest:canopy_slab",
+      "minecraft:stick",
+      "twilightforest:canopy_slab",
+      "twilightforest:canopy_slab",
+      "minecraft:copper_ingot",
+      "twilightforest:canopy_slab"
+    ]
+  },
+  "bibliocraft:twilightforest_canopy_fancy_crafter": {
+    "result": "bibliocraft:twilightforest_canopy_fancy_crafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black",
+      "minecraft:crafting_tables",
+      "minecraft:feather",
+      "twilightforest:canopy_planks",
+      "minecraft:glass",
+      "twilightforest:canopy_planks",
+      "twilightforest:canopy_planks",
+      "minecraft:crafter",
+      "twilightforest:canopy_planks"
+    ]
+  },
+  "bibliocraft:twilightforest_canopy_fancy_sign": {
+    "result": "bibliocraft:twilightforest_canopy_fancy_sign",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:canopy_planks",
+      "minecraft:paper",
+      "twilightforest:canopy_planks",
+      "twilightforest:canopy_planks",
+      "minecraft:paper",
+      "twilightforest:canopy_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "bibliocraft:twilightforest_canopy_grandfather_clock": {
+    "result": "bibliocraft:twilightforest_canopy_grandfather_clock",
+    "count": 1,
+    "ingredients": [
+      "bibliocraft:twilightforest_canopy_fancy_clock",
+      "bibliocraft:twilightforest_canopy_fancy_clock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:twilightforest_canopy_label": {
+    "result": "bibliocraft:twilightforest_canopy_label",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:canopy_slab",
+      "twilightforest:canopy_slab",
+      "twilightforest:canopy_slab",
+      "twilightforest:canopy_slab",
+      "twilightforest:canopy_slab",
+      "twilightforest:canopy_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:twilightforest_canopy_potion_shelf": {
+    "result": "bibliocraft:twilightforest_canopy_potion_shelf",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:canopy_slab",
+      "twilightforest:canopy_slab",
+      "twilightforest:canopy_slab",
+      "twilightforest:canopy_planks",
+      "minecraft:glass_bottle",
+      "twilightforest:canopy_planks",
+      "twilightforest:canopy_slab",
+      "twilightforest:canopy_slab",
+      "twilightforest:canopy_slab"
+    ]
+  },
+  "bibliocraft:twilightforest_canopy_shelf": {
+    "result": "bibliocraft:twilightforest_canopy_shelf",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:canopy_slab",
+      "twilightforest:canopy_slab",
+      "twilightforest:canopy_slab",
+      "",
+      "twilightforest:canopy_planks",
+      "",
+      "twilightforest:canopy_slab",
+      "twilightforest:canopy_slab",
+      "twilightforest:canopy_slab"
+    ]
+  },
+  "bibliocraft:twilightforest_canopy_table": {
+    "result": "bibliocraft:twilightforest_canopy_table",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:canopy_slab",
+      "twilightforest:canopy_slab",
+      "twilightforest:canopy_slab",
+      "",
+      "twilightforest:canopy_planks",
+      "",
+      "",
+      "twilightforest:canopy_planks",
+      ""
+    ]
+  },
+  "bibliocraft:twilightforest_canopy_tool_rack": {
+    "result": "bibliocraft:twilightforest_canopy_tool_rack",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:canopy_slab",
+      "twilightforest:canopy_slab",
+      "twilightforest:canopy_slab",
+      "twilightforest:canopy_slab",
+      "minecraft:iron_ingot",
+      "twilightforest:canopy_slab",
+      "twilightforest:canopy_slab",
+      "twilightforest:canopy_slab",
+      "twilightforest:canopy_slab"
+    ]
+  },
+  "bibliocraft:twilightforest_dark_bookcase": {
+    "result": "bibliocraft:twilightforest_dark_bookcase",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:dark_planks",
+      "twilightforest:dark_slab",
+      "twilightforest:dark_planks",
+      "twilightforest:dark_planks",
+      "twilightforest:dark_slab",
+      "twilightforest:dark_planks",
+      "twilightforest:dark_planks",
+      "twilightforest:dark_slab",
+      "twilightforest:dark_planks"
+    ]
+  },
+  "bibliocraft:twilightforest_dark_fancy_armor_stand": {
+    "result": "bibliocraft:twilightforest_dark_fancy_armor_stand",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "twilightforest:dark_slab",
+      "twilightforest:dark_slab",
+      "twilightforest:dark_slab"
+    ]
+  },
+  "bibliocraft:twilightforest_dark_fancy_clock": {
+    "result": "bibliocraft:twilightforest_dark_fancy_clock",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:dark_slab",
+      "minecraft:clock",
+      "twilightforest:dark_slab",
+      "twilightforest:dark_slab",
+      "minecraft:stick",
+      "twilightforest:dark_slab",
+      "twilightforest:dark_slab",
+      "minecraft:copper_ingot",
+      "twilightforest:dark_slab"
+    ]
+  },
+  "bibliocraft:twilightforest_dark_fancy_crafter": {
+    "result": "bibliocraft:twilightforest_dark_fancy_crafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black",
+      "minecraft:crafting_tables",
+      "minecraft:feather",
+      "twilightforest:dark_planks",
+      "minecraft:glass",
+      "twilightforest:dark_planks",
+      "twilightforest:dark_planks",
+      "minecraft:crafter",
+      "twilightforest:dark_planks"
+    ]
+  },
+  "bibliocraft:twilightforest_dark_fancy_sign": {
+    "result": "bibliocraft:twilightforest_dark_fancy_sign",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:dark_planks",
+      "minecraft:paper",
+      "twilightforest:dark_planks",
+      "twilightforest:dark_planks",
+      "minecraft:paper",
+      "twilightforest:dark_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "bibliocraft:twilightforest_dark_grandfather_clock": {
+    "result": "bibliocraft:twilightforest_dark_grandfather_clock",
+    "count": 1,
+    "ingredients": [
+      "bibliocraft:twilightforest_dark_fancy_clock",
+      "bibliocraft:twilightforest_dark_fancy_clock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:twilightforest_dark_label": {
+    "result": "bibliocraft:twilightforest_dark_label",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:dark_slab",
+      "twilightforest:dark_slab",
+      "twilightforest:dark_slab",
+      "twilightforest:dark_slab",
+      "twilightforest:dark_slab",
+      "twilightforest:dark_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:twilightforest_dark_potion_shelf": {
+    "result": "bibliocraft:twilightforest_dark_potion_shelf",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:dark_slab",
+      "twilightforest:dark_slab",
+      "twilightforest:dark_slab",
+      "twilightforest:dark_planks",
+      "minecraft:glass_bottle",
+      "twilightforest:dark_planks",
+      "twilightforest:dark_slab",
+      "twilightforest:dark_slab",
+      "twilightforest:dark_slab"
+    ]
+  },
+  "bibliocraft:twilightforest_dark_shelf": {
+    "result": "bibliocraft:twilightforest_dark_shelf",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:dark_slab",
+      "twilightforest:dark_slab",
+      "twilightforest:dark_slab",
+      "",
+      "twilightforest:dark_planks",
+      "",
+      "twilightforest:dark_slab",
+      "twilightforest:dark_slab",
+      "twilightforest:dark_slab"
+    ]
+  },
+  "bibliocraft:twilightforest_dark_table": {
+    "result": "bibliocraft:twilightforest_dark_table",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:dark_slab",
+      "twilightforest:dark_slab",
+      "twilightforest:dark_slab",
+      "",
+      "twilightforest:dark_planks",
+      "",
+      "",
+      "twilightforest:dark_planks",
+      ""
+    ]
+  },
+  "bibliocraft:twilightforest_dark_tool_rack": {
+    "result": "bibliocraft:twilightforest_dark_tool_rack",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:dark_slab",
+      "twilightforest:dark_slab",
+      "twilightforest:dark_slab",
+      "twilightforest:dark_slab",
+      "minecraft:iron_ingot",
+      "twilightforest:dark_slab",
+      "twilightforest:dark_slab",
+      "twilightforest:dark_slab",
+      "twilightforest:dark_slab"
+    ]
+  },
+  "bibliocraft:twilightforest_mangrove_bookcase": {
+    "result": "bibliocraft:twilightforest_mangrove_bookcase",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:mangrove_planks",
+      "twilightforest:mangrove_slab",
+      "twilightforest:mangrove_planks",
+      "twilightforest:mangrove_planks",
+      "twilightforest:mangrove_slab",
+      "twilightforest:mangrove_planks",
+      "twilightforest:mangrove_planks",
+      "twilightforest:mangrove_slab",
+      "twilightforest:mangrove_planks"
+    ]
+  },
+  "bibliocraft:twilightforest_mangrove_fancy_armor_stand": {
+    "result": "bibliocraft:twilightforest_mangrove_fancy_armor_stand",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "twilightforest:mangrove_slab",
+      "twilightforest:mangrove_slab",
+      "twilightforest:mangrove_slab"
+    ]
+  },
+  "bibliocraft:twilightforest_mangrove_fancy_clock": {
+    "result": "bibliocraft:twilightforest_mangrove_fancy_clock",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:mangrove_slab",
+      "minecraft:clock",
+      "twilightforest:mangrove_slab",
+      "twilightforest:mangrove_slab",
+      "minecraft:stick",
+      "twilightforest:mangrove_slab",
+      "twilightforest:mangrove_slab",
+      "minecraft:copper_ingot",
+      "twilightforest:mangrove_slab"
+    ]
+  },
+  "bibliocraft:twilightforest_mangrove_fancy_crafter": {
+    "result": "bibliocraft:twilightforest_mangrove_fancy_crafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black",
+      "minecraft:crafting_tables",
+      "minecraft:feather",
+      "twilightforest:mangrove_planks",
+      "minecraft:glass",
+      "twilightforest:mangrove_planks",
+      "twilightforest:mangrove_planks",
+      "minecraft:crafter",
+      "twilightforest:mangrove_planks"
+    ]
+  },
+  "bibliocraft:twilightforest_mangrove_fancy_sign": {
+    "result": "bibliocraft:twilightforest_mangrove_fancy_sign",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:mangrove_planks",
+      "minecraft:paper",
+      "twilightforest:mangrove_planks",
+      "twilightforest:mangrove_planks",
+      "minecraft:paper",
+      "twilightforest:mangrove_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "bibliocraft:twilightforest_mangrove_grandfather_clock": {
+    "result": "bibliocraft:twilightforest_mangrove_grandfather_clock",
+    "count": 1,
+    "ingredients": [
+      "bibliocraft:twilightforest_mangrove_fancy_clock",
+      "bibliocraft:twilightforest_mangrove_fancy_clock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:twilightforest_mangrove_label": {
+    "result": "bibliocraft:twilightforest_mangrove_label",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:mangrove_slab",
+      "twilightforest:mangrove_slab",
+      "twilightforest:mangrove_slab",
+      "twilightforest:mangrove_slab",
+      "twilightforest:mangrove_slab",
+      "twilightforest:mangrove_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:twilightforest_mangrove_potion_shelf": {
+    "result": "bibliocraft:twilightforest_mangrove_potion_shelf",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:mangrove_slab",
+      "twilightforest:mangrove_slab",
+      "twilightforest:mangrove_slab",
+      "twilightforest:mangrove_planks",
+      "minecraft:glass_bottle",
+      "twilightforest:mangrove_planks",
+      "twilightforest:mangrove_slab",
+      "twilightforest:mangrove_slab",
+      "twilightforest:mangrove_slab"
+    ]
+  },
+  "bibliocraft:twilightforest_mangrove_shelf": {
+    "result": "bibliocraft:twilightforest_mangrove_shelf",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:mangrove_slab",
+      "twilightforest:mangrove_slab",
+      "twilightforest:mangrove_slab",
+      "",
+      "twilightforest:mangrove_planks",
+      "",
+      "twilightforest:mangrove_slab",
+      "twilightforest:mangrove_slab",
+      "twilightforest:mangrove_slab"
+    ]
+  },
+  "bibliocraft:twilightforest_mangrove_table": {
+    "result": "bibliocraft:twilightforest_mangrove_table",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:mangrove_slab",
+      "twilightforest:mangrove_slab",
+      "twilightforest:mangrove_slab",
+      "",
+      "twilightforest:mangrove_planks",
+      "",
+      "",
+      "twilightforest:mangrove_planks",
+      ""
+    ]
+  },
+  "bibliocraft:twilightforest_mangrove_tool_rack": {
+    "result": "bibliocraft:twilightforest_mangrove_tool_rack",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:mangrove_slab",
+      "twilightforest:mangrove_slab",
+      "twilightforest:mangrove_slab",
+      "twilightforest:mangrove_slab",
+      "minecraft:iron_ingot",
+      "twilightforest:mangrove_slab",
+      "twilightforest:mangrove_slab",
+      "twilightforest:mangrove_slab",
+      "twilightforest:mangrove_slab"
+    ]
+  },
+  "bibliocraft:twilightforest_mining_bookcase": {
+    "result": "bibliocraft:twilightforest_mining_bookcase",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:mining_planks",
+      "twilightforest:mining_slab",
+      "twilightforest:mining_planks",
+      "twilightforest:mining_planks",
+      "twilightforest:mining_slab",
+      "twilightforest:mining_planks",
+      "twilightforest:mining_planks",
+      "twilightforest:mining_slab",
+      "twilightforest:mining_planks"
+    ]
+  },
+  "bibliocraft:twilightforest_mining_fancy_armor_stand": {
+    "result": "bibliocraft:twilightforest_mining_fancy_armor_stand",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "twilightforest:mining_slab",
+      "twilightforest:mining_slab",
+      "twilightforest:mining_slab"
+    ]
+  },
+  "bibliocraft:twilightforest_mining_fancy_clock": {
+    "result": "bibliocraft:twilightforest_mining_fancy_clock",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:mining_slab",
+      "minecraft:clock",
+      "twilightforest:mining_slab",
+      "twilightforest:mining_slab",
+      "minecraft:stick",
+      "twilightforest:mining_slab",
+      "twilightforest:mining_slab",
+      "minecraft:copper_ingot",
+      "twilightforest:mining_slab"
+    ]
+  },
+  "bibliocraft:twilightforest_mining_fancy_crafter": {
+    "result": "bibliocraft:twilightforest_mining_fancy_crafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black",
+      "minecraft:crafting_tables",
+      "minecraft:feather",
+      "twilightforest:mining_planks",
+      "minecraft:glass",
+      "twilightforest:mining_planks",
+      "twilightforest:mining_planks",
+      "minecraft:crafter",
+      "twilightforest:mining_planks"
+    ]
+  },
+  "bibliocraft:twilightforest_mining_fancy_sign": {
+    "result": "bibliocraft:twilightforest_mining_fancy_sign",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:mining_planks",
+      "minecraft:paper",
+      "twilightforest:mining_planks",
+      "twilightforest:mining_planks",
+      "minecraft:paper",
+      "twilightforest:mining_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "bibliocraft:twilightforest_mining_grandfather_clock": {
+    "result": "bibliocraft:twilightforest_mining_grandfather_clock",
+    "count": 1,
+    "ingredients": [
+      "bibliocraft:twilightforest_mining_fancy_clock",
+      "bibliocraft:twilightforest_mining_fancy_clock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:twilightforest_mining_label": {
+    "result": "bibliocraft:twilightforest_mining_label",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:mining_slab",
+      "twilightforest:mining_slab",
+      "twilightforest:mining_slab",
+      "twilightforest:mining_slab",
+      "twilightforest:mining_slab",
+      "twilightforest:mining_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:twilightforest_mining_potion_shelf": {
+    "result": "bibliocraft:twilightforest_mining_potion_shelf",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:mining_slab",
+      "twilightforest:mining_slab",
+      "twilightforest:mining_slab",
+      "twilightforest:mining_planks",
+      "minecraft:glass_bottle",
+      "twilightforest:mining_planks",
+      "twilightforest:mining_slab",
+      "twilightforest:mining_slab",
+      "twilightforest:mining_slab"
+    ]
+  },
+  "bibliocraft:twilightforest_mining_shelf": {
+    "result": "bibliocraft:twilightforest_mining_shelf",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:mining_slab",
+      "twilightforest:mining_slab",
+      "twilightforest:mining_slab",
+      "",
+      "twilightforest:mining_planks",
+      "",
+      "twilightforest:mining_slab",
+      "twilightforest:mining_slab",
+      "twilightforest:mining_slab"
+    ]
+  },
+  "bibliocraft:twilightforest_mining_table": {
+    "result": "bibliocraft:twilightforest_mining_table",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:mining_slab",
+      "twilightforest:mining_slab",
+      "twilightforest:mining_slab",
+      "",
+      "twilightforest:mining_planks",
+      "",
+      "",
+      "twilightforest:mining_planks",
+      ""
+    ]
+  },
+  "bibliocraft:twilightforest_mining_tool_rack": {
+    "result": "bibliocraft:twilightforest_mining_tool_rack",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:mining_slab",
+      "twilightforest:mining_slab",
+      "twilightforest:mining_slab",
+      "twilightforest:mining_slab",
+      "minecraft:iron_ingot",
+      "twilightforest:mining_slab",
+      "twilightforest:mining_slab",
+      "twilightforest:mining_slab",
+      "twilightforest:mining_slab"
+    ]
+  },
+  "bibliocraft:twilightforest_sorting_bookcase": {
+    "result": "bibliocraft:twilightforest_sorting_bookcase",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:sorting_planks",
+      "twilightforest:sorting_slab",
+      "twilightforest:sorting_planks",
+      "twilightforest:sorting_planks",
+      "twilightforest:sorting_slab",
+      "twilightforest:sorting_planks",
+      "twilightforest:sorting_planks",
+      "twilightforest:sorting_slab",
+      "twilightforest:sorting_planks"
+    ]
+  },
+  "bibliocraft:twilightforest_sorting_fancy_armor_stand": {
+    "result": "bibliocraft:twilightforest_sorting_fancy_armor_stand",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "twilightforest:sorting_slab",
+      "twilightforest:sorting_slab",
+      "twilightforest:sorting_slab"
+    ]
+  },
+  "bibliocraft:twilightforest_sorting_fancy_clock": {
+    "result": "bibliocraft:twilightforest_sorting_fancy_clock",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:sorting_slab",
+      "minecraft:clock",
+      "twilightforest:sorting_slab",
+      "twilightforest:sorting_slab",
+      "minecraft:stick",
+      "twilightforest:sorting_slab",
+      "twilightforest:sorting_slab",
+      "minecraft:copper_ingot",
+      "twilightforest:sorting_slab"
+    ]
+  },
+  "bibliocraft:twilightforest_sorting_fancy_crafter": {
+    "result": "bibliocraft:twilightforest_sorting_fancy_crafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black",
+      "minecraft:crafting_tables",
+      "minecraft:feather",
+      "twilightforest:sorting_planks",
+      "minecraft:glass",
+      "twilightforest:sorting_planks",
+      "twilightforest:sorting_planks",
+      "minecraft:crafter",
+      "twilightforest:sorting_planks"
+    ]
+  },
+  "bibliocraft:twilightforest_sorting_fancy_sign": {
+    "result": "bibliocraft:twilightforest_sorting_fancy_sign",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:sorting_planks",
+      "minecraft:paper",
+      "twilightforest:sorting_planks",
+      "twilightforest:sorting_planks",
+      "minecraft:paper",
+      "twilightforest:sorting_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "bibliocraft:twilightforest_sorting_grandfather_clock": {
+    "result": "bibliocraft:twilightforest_sorting_grandfather_clock",
+    "count": 1,
+    "ingredients": [
+      "bibliocraft:twilightforest_sorting_fancy_clock",
+      "bibliocraft:twilightforest_sorting_fancy_clock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:twilightforest_sorting_label": {
+    "result": "bibliocraft:twilightforest_sorting_label",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:sorting_slab",
+      "twilightforest:sorting_slab",
+      "twilightforest:sorting_slab",
+      "twilightforest:sorting_slab",
+      "twilightforest:sorting_slab",
+      "twilightforest:sorting_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:twilightforest_sorting_potion_shelf": {
+    "result": "bibliocraft:twilightforest_sorting_potion_shelf",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:sorting_slab",
+      "twilightforest:sorting_slab",
+      "twilightforest:sorting_slab",
+      "twilightforest:sorting_planks",
+      "minecraft:glass_bottle",
+      "twilightforest:sorting_planks",
+      "twilightforest:sorting_slab",
+      "twilightforest:sorting_slab",
+      "twilightforest:sorting_slab"
+    ]
+  },
+  "bibliocraft:twilightforest_sorting_shelf": {
+    "result": "bibliocraft:twilightforest_sorting_shelf",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:sorting_slab",
+      "twilightforest:sorting_slab",
+      "twilightforest:sorting_slab",
+      "",
+      "twilightforest:sorting_planks",
+      "",
+      "twilightforest:sorting_slab",
+      "twilightforest:sorting_slab",
+      "twilightforest:sorting_slab"
+    ]
+  },
+  "bibliocraft:twilightforest_sorting_table": {
+    "result": "bibliocraft:twilightforest_sorting_table",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:sorting_slab",
+      "twilightforest:sorting_slab",
+      "twilightforest:sorting_slab",
+      "",
+      "twilightforest:sorting_planks",
+      "",
+      "",
+      "twilightforest:sorting_planks",
+      ""
+    ]
+  },
+  "bibliocraft:twilightforest_sorting_tool_rack": {
+    "result": "bibliocraft:twilightforest_sorting_tool_rack",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:sorting_slab",
+      "twilightforest:sorting_slab",
+      "twilightforest:sorting_slab",
+      "twilightforest:sorting_slab",
+      "minecraft:iron_ingot",
+      "twilightforest:sorting_slab",
+      "twilightforest:sorting_slab",
+      "twilightforest:sorting_slab",
+      "twilightforest:sorting_slab"
+    ]
+  },
+  "bibliocraft:twilightforest_time_bookcase": {
+    "result": "bibliocraft:twilightforest_time_bookcase",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:time_planks",
+      "twilightforest:time_slab",
+      "twilightforest:time_planks",
+      "twilightforest:time_planks",
+      "twilightforest:time_slab",
+      "twilightforest:time_planks",
+      "twilightforest:time_planks",
+      "twilightforest:time_slab",
+      "twilightforest:time_planks"
+    ]
+  },
+  "bibliocraft:twilightforest_time_fancy_armor_stand": {
+    "result": "bibliocraft:twilightforest_time_fancy_armor_stand",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "twilightforest:time_slab",
+      "twilightforest:time_slab",
+      "twilightforest:time_slab"
+    ]
+  },
+  "bibliocraft:twilightforest_time_fancy_clock": {
+    "result": "bibliocraft:twilightforest_time_fancy_clock",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:time_slab",
+      "minecraft:clock",
+      "twilightforest:time_slab",
+      "twilightforest:time_slab",
+      "minecraft:stick",
+      "twilightforest:time_slab",
+      "twilightforest:time_slab",
+      "minecraft:copper_ingot",
+      "twilightforest:time_slab"
+    ]
+  },
+  "bibliocraft:twilightforest_time_fancy_crafter": {
+    "result": "bibliocraft:twilightforest_time_fancy_crafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black",
+      "minecraft:crafting_tables",
+      "minecraft:feather",
+      "twilightforest:time_planks",
+      "minecraft:glass",
+      "twilightforest:time_planks",
+      "twilightforest:time_planks",
+      "minecraft:crafter",
+      "twilightforest:time_planks"
+    ]
+  },
+  "bibliocraft:twilightforest_time_fancy_sign": {
+    "result": "bibliocraft:twilightforest_time_fancy_sign",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:time_planks",
+      "minecraft:paper",
+      "twilightforest:time_planks",
+      "twilightforest:time_planks",
+      "minecraft:paper",
+      "twilightforest:time_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "bibliocraft:twilightforest_time_grandfather_clock": {
+    "result": "bibliocraft:twilightforest_time_grandfather_clock",
+    "count": 1,
+    "ingredients": [
+      "bibliocraft:twilightforest_time_fancy_clock",
+      "bibliocraft:twilightforest_time_fancy_clock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:twilightforest_time_label": {
+    "result": "bibliocraft:twilightforest_time_label",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:time_slab",
+      "twilightforest:time_slab",
+      "twilightforest:time_slab",
+      "twilightforest:time_slab",
+      "twilightforest:time_slab",
+      "twilightforest:time_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:twilightforest_time_potion_shelf": {
+    "result": "bibliocraft:twilightforest_time_potion_shelf",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:time_slab",
+      "twilightforest:time_slab",
+      "twilightforest:time_slab",
+      "twilightforest:time_planks",
+      "minecraft:glass_bottle",
+      "twilightforest:time_planks",
+      "twilightforest:time_slab",
+      "twilightforest:time_slab",
+      "twilightforest:time_slab"
+    ]
+  },
+  "bibliocraft:twilightforest_time_shelf": {
+    "result": "bibliocraft:twilightforest_time_shelf",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:time_slab",
+      "twilightforest:time_slab",
+      "twilightforest:time_slab",
+      "",
+      "twilightforest:time_planks",
+      "",
+      "twilightforest:time_slab",
+      "twilightforest:time_slab",
+      "twilightforest:time_slab"
+    ]
+  },
+  "bibliocraft:twilightforest_time_table": {
+    "result": "bibliocraft:twilightforest_time_table",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:time_slab",
+      "twilightforest:time_slab",
+      "twilightforest:time_slab",
+      "",
+      "twilightforest:time_planks",
+      "",
+      "",
+      "twilightforest:time_planks",
+      ""
+    ]
+  },
+  "bibliocraft:twilightforest_time_tool_rack": {
+    "result": "bibliocraft:twilightforest_time_tool_rack",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:time_slab",
+      "twilightforest:time_slab",
+      "twilightforest:time_slab",
+      "twilightforest:time_slab",
+      "minecraft:iron_ingot",
+      "twilightforest:time_slab",
+      "twilightforest:time_slab",
+      "twilightforest:time_slab",
+      "twilightforest:time_slab"
+    ]
+  },
+  "bibliocraft:twilightforest_transformation_bookcase": {
+    "result": "bibliocraft:twilightforest_transformation_bookcase",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:transformation_planks",
+      "twilightforest:transformation_slab",
+      "twilightforest:transformation_planks",
+      "twilightforest:transformation_planks",
+      "twilightforest:transformation_slab",
+      "twilightforest:transformation_planks",
+      "twilightforest:transformation_planks",
+      "twilightforest:transformation_slab",
+      "twilightforest:transformation_planks"
+    ]
+  },
+  "bibliocraft:twilightforest_transformation_fancy_armor_stand": {
+    "result": "bibliocraft:twilightforest_transformation_fancy_armor_stand",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "twilightforest:transformation_slab",
+      "twilightforest:transformation_slab",
+      "twilightforest:transformation_slab"
+    ]
+  },
+  "bibliocraft:twilightforest_transformation_fancy_clock": {
+    "result": "bibliocraft:twilightforest_transformation_fancy_clock",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:transformation_slab",
+      "minecraft:clock",
+      "twilightforest:transformation_slab",
+      "twilightforest:transformation_slab",
+      "minecraft:stick",
+      "twilightforest:transformation_slab",
+      "twilightforest:transformation_slab",
+      "minecraft:copper_ingot",
+      "twilightforest:transformation_slab"
+    ]
+  },
+  "bibliocraft:twilightforest_transformation_fancy_crafter": {
+    "result": "bibliocraft:twilightforest_transformation_fancy_crafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black",
+      "minecraft:crafting_tables",
+      "minecraft:feather",
+      "twilightforest:transformation_planks",
+      "minecraft:glass",
+      "twilightforest:transformation_planks",
+      "twilightforest:transformation_planks",
+      "minecraft:crafter",
+      "twilightforest:transformation_planks"
+    ]
+  },
+  "bibliocraft:twilightforest_transformation_fancy_sign": {
+    "result": "bibliocraft:twilightforest_transformation_fancy_sign",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:transformation_planks",
+      "minecraft:paper",
+      "twilightforest:transformation_planks",
+      "twilightforest:transformation_planks",
+      "minecraft:paper",
+      "twilightforest:transformation_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "bibliocraft:twilightforest_transformation_grandfather_clock": {
+    "result": "bibliocraft:twilightforest_transformation_grandfather_clock",
+    "count": 1,
+    "ingredients": [
+      "bibliocraft:twilightforest_transformation_fancy_clock",
+      "bibliocraft:twilightforest_transformation_fancy_clock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:twilightforest_transformation_label": {
+    "result": "bibliocraft:twilightforest_transformation_label",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:transformation_slab",
+      "twilightforest:transformation_slab",
+      "twilightforest:transformation_slab",
+      "twilightforest:transformation_slab",
+      "twilightforest:transformation_slab",
+      "twilightforest:transformation_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:twilightforest_transformation_potion_shelf": {
+    "result": "bibliocraft:twilightforest_transformation_potion_shelf",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:transformation_slab",
+      "twilightforest:transformation_slab",
+      "twilightforest:transformation_slab",
+      "twilightforest:transformation_planks",
+      "minecraft:glass_bottle",
+      "twilightforest:transformation_planks",
+      "twilightforest:transformation_slab",
+      "twilightforest:transformation_slab",
+      "twilightforest:transformation_slab"
+    ]
+  },
+  "bibliocraft:twilightforest_transformation_shelf": {
+    "result": "bibliocraft:twilightforest_transformation_shelf",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:transformation_slab",
+      "twilightforest:transformation_slab",
+      "twilightforest:transformation_slab",
+      "",
+      "twilightforest:transformation_planks",
+      "",
+      "twilightforest:transformation_slab",
+      "twilightforest:transformation_slab",
+      "twilightforest:transformation_slab"
+    ]
+  },
+  "bibliocraft:twilightforest_transformation_table": {
+    "result": "bibliocraft:twilightforest_transformation_table",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:transformation_slab",
+      "twilightforest:transformation_slab",
+      "twilightforest:transformation_slab",
+      "",
+      "twilightforest:transformation_planks",
+      "",
+      "",
+      "twilightforest:transformation_planks",
+      ""
+    ]
+  },
+  "bibliocraft:twilightforest_transformation_tool_rack": {
+    "result": "bibliocraft:twilightforest_transformation_tool_rack",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:transformation_slab",
+      "twilightforest:transformation_slab",
+      "twilightforest:transformation_slab",
+      "twilightforest:transformation_slab",
+      "minecraft:iron_ingot",
+      "twilightforest:transformation_slab",
+      "twilightforest:transformation_slab",
+      "twilightforest:transformation_slab",
+      "twilightforest:transformation_slab"
+    ]
+  },
+  "bibliocraft:twilightforest_twilight_oak_bookcase": {
+    "result": "bibliocraft:twilightforest_twilight_oak_bookcase",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:twilight_oak_planks",
+      "twilightforest:twilight_oak_slab",
+      "twilightforest:twilight_oak_planks",
+      "twilightforest:twilight_oak_planks",
+      "twilightforest:twilight_oak_slab",
+      "twilightforest:twilight_oak_planks",
+      "twilightforest:twilight_oak_planks",
+      "twilightforest:twilight_oak_slab",
+      "twilightforest:twilight_oak_planks"
+    ]
+  },
+  "bibliocraft:twilightforest_twilight_oak_fancy_armor_stand": {
+    "result": "bibliocraft:twilightforest_twilight_oak_fancy_armor_stand",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "twilightforest:twilight_oak_slab",
+      "twilightforest:twilight_oak_slab",
+      "twilightforest:twilight_oak_slab"
+    ]
+  },
+  "bibliocraft:twilightforest_twilight_oak_fancy_clock": {
+    "result": "bibliocraft:twilightforest_twilight_oak_fancy_clock",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:twilight_oak_slab",
+      "minecraft:clock",
+      "twilightforest:twilight_oak_slab",
+      "twilightforest:twilight_oak_slab",
+      "minecraft:stick",
+      "twilightforest:twilight_oak_slab",
+      "twilightforest:twilight_oak_slab",
+      "minecraft:copper_ingot",
+      "twilightforest:twilight_oak_slab"
+    ]
+  },
+  "bibliocraft:twilightforest_twilight_oak_fancy_crafter": {
+    "result": "bibliocraft:twilightforest_twilight_oak_fancy_crafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black",
+      "minecraft:crafting_tables",
+      "minecraft:feather",
+      "twilightforest:twilight_oak_planks",
+      "minecraft:glass",
+      "twilightforest:twilight_oak_planks",
+      "twilightforest:twilight_oak_planks",
+      "minecraft:crafter",
+      "twilightforest:twilight_oak_planks"
+    ]
+  },
+  "bibliocraft:twilightforest_twilight_oak_fancy_sign": {
+    "result": "bibliocraft:twilightforest_twilight_oak_fancy_sign",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:twilight_oak_planks",
+      "minecraft:paper",
+      "twilightforest:twilight_oak_planks",
+      "twilightforest:twilight_oak_planks",
+      "minecraft:paper",
+      "twilightforest:twilight_oak_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "bibliocraft:twilightforest_twilight_oak_grandfather_clock": {
+    "result": "bibliocraft:twilightforest_twilight_oak_grandfather_clock",
+    "count": 1,
+    "ingredients": [
+      "bibliocraft:twilightforest_twilight_oak_fancy_clock",
+      "bibliocraft:twilightforest_twilight_oak_fancy_clock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:twilightforest_twilight_oak_label": {
+    "result": "bibliocraft:twilightforest_twilight_oak_label",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:twilight_oak_slab",
+      "twilightforest:twilight_oak_slab",
+      "twilightforest:twilight_oak_slab",
+      "twilightforest:twilight_oak_slab",
+      "twilightforest:twilight_oak_slab",
+      "twilightforest:twilight_oak_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:twilightforest_twilight_oak_potion_shelf": {
+    "result": "bibliocraft:twilightforest_twilight_oak_potion_shelf",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:twilight_oak_slab",
+      "twilightforest:twilight_oak_slab",
+      "twilightforest:twilight_oak_slab",
+      "twilightforest:twilight_oak_planks",
+      "minecraft:glass_bottle",
+      "twilightforest:twilight_oak_planks",
+      "twilightforest:twilight_oak_slab",
+      "twilightforest:twilight_oak_slab",
+      "twilightforest:twilight_oak_slab"
+    ]
+  },
+  "bibliocraft:twilightforest_twilight_oak_shelf": {
+    "result": "bibliocraft:twilightforest_twilight_oak_shelf",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:twilight_oak_slab",
+      "twilightforest:twilight_oak_slab",
+      "twilightforest:twilight_oak_slab",
+      "",
+      "twilightforest:twilight_oak_planks",
+      "",
+      "twilightforest:twilight_oak_slab",
+      "twilightforest:twilight_oak_slab",
+      "twilightforest:twilight_oak_slab"
+    ]
+  },
+  "bibliocraft:twilightforest_twilight_oak_table": {
+    "result": "bibliocraft:twilightforest_twilight_oak_table",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:twilight_oak_slab",
+      "twilightforest:twilight_oak_slab",
+      "twilightforest:twilight_oak_slab",
+      "",
+      "twilightforest:twilight_oak_planks",
+      "",
+      "",
+      "twilightforest:twilight_oak_planks",
+      ""
+    ]
+  },
+  "bibliocraft:twilightforest_twilight_oak_tool_rack": {
+    "result": "bibliocraft:twilightforest_twilight_oak_tool_rack",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:twilight_oak_slab",
+      "twilightforest:twilight_oak_slab",
+      "twilightforest:twilight_oak_slab",
+      "twilightforest:twilight_oak_slab",
+      "minecraft:iron_ingot",
+      "twilightforest:twilight_oak_slab",
+      "twilightforest:twilight_oak_slab",
+      "twilightforest:twilight_oak_slab",
+      "twilightforest:twilight_oak_slab"
+    ]
+  },
+  "eternal_starlight:twilight_sandstone": {
+    "result": "eternal_starlight:twilight_sandstone",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:twilight_sand",
+      "eternal_starlight:twilight_sand",
+      "",
+      "eternal_starlight:twilight_sand",
+      "eternal_starlight:twilight_sand",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:twilight_sandstone_slab": {
+    "result": "eternal_starlight:twilight_sandstone_slab",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:twilight_sandstone",
+      "eternal_starlight:twilight_sandstone",
+      "eternal_starlight:twilight_sandstone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:twilight_sandstone_stairs": {
+    "result": "eternal_starlight:twilight_sandstone_stairs",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:twilight_sandstone",
+      "",
+      "",
+      "eternal_starlight:twilight_sandstone",
+      "eternal_starlight:twilight_sandstone",
+      "",
+      "eternal_starlight:twilight_sandstone",
+      "eternal_starlight:twilight_sandstone",
+      "eternal_starlight:twilight_sandstone"
+    ]
+  },
+  "eternal_starlight:twilight_sandstone_wall": {
+    "result": "eternal_starlight:twilight_sandstone_wall",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:twilight_sandstone",
+      "eternal_starlight:twilight_sandstone",
+      "eternal_starlight:twilight_sandstone",
+      "eternal_starlight:twilight_sandstone",
+      "eternal_starlight:twilight_sandstone",
+      "eternal_starlight:twilight_sandstone",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:twining_armor_trim_smithing_template": {
+    "result": "eternal_starlight:twining_armor_trim_smithing_template",
+    "count": 2,
+    "ingredients": [
+      "minecraft:amaramber",
+      "eternal_starlight:twining_armor_trim_smithing_template",
+      "minecraft:amaramber",
+      "minecraft:amaramber",
+      "eternal_starlight:grimstone",
+      "minecraft:amaramber",
+      "minecraft:amaramber",
+      "minecraft:amaramber",
+      "minecraft:amaramber"
+    ]
+  },
+  "irons_spellbooks:twilight_gale": {
+    "result": "irons_spellbooks:twilight_gale",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:twilight_gale_crystal",
+      "minecraft:mithril",
+      "",
+      "irons_spellbooks:weapon_parts",
+      "minecraft:twilight_gale_crystal",
+      "irons_spellbooks:lightning_bottle",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:twinkling_icicle_lights_horizontal": {
+    "result": "merrymaking:twinkling_icicle_lights_horizontal",
+    "count": 3,
+    "ingredients": [
+      "merrymaking:twinkling_lights_white",
+      "merrymaking:twinkling_lights_white",
+      "merrymaking:twinkling_lights_white",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:twinkling_icicle_lights_cap": {
+    "result": "merrymaking:twinkling_icicle_lights_cap",
+    "count": 3,
+    "ingredients": [
+      "",
+      "merrymaking:twinkling_lights_white",
+      "",
+      "merrymaking:twinkling_lights_white",
+      "",
+      "merrymaking:twinkling_lights_white",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:twinkling_icicle_lights_diagonal_left": {
+    "result": "merrymaking:twinkling_icicle_lights_diagonal_left",
+    "count": 3,
+    "ingredients": [
+      "merrymaking:left_diag_template",
+      "merrymaking:twinkling_lights_white",
+      "merrymaking:twinkling_lights_white",
+      "merrymaking:twinkling_lights_white",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:twinkling_icicle_lights_diagonal_right": {
+    "result": "merrymaking:twinkling_icicle_lights_diagonal_right",
+    "count": 3,
+    "ingredients": [
+      "merrymaking:right_diag_template",
+      "merrymaking:twinkling_lights_multi",
+      "merrymaking:twinkling_lights_multi",
+      "merrymaking:twinkling_lights_multi",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:twinkling_lights_multi": {
+    "result": "merrymaking:twinkling_lights_multi",
+    "count": 4,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:redstone",
+      "merrymaking:white_wires",
+      "merrymaking:multi_bulbs",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:twinkling_lights_white": {
+    "result": "merrymaking:twinkling_lights_white",
+    "count": 4,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:redstone",
+      "merrymaking:white_wires",
+      "merrymaking:white_bulbs",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:twinkling_icicle_multi_horizontal": {
+    "result": "merrymaking:twinkling_icicle_multi_horizontal",
+    "count": 3,
+    "ingredients": [
+      "merrymaking:twinkling_lights_multi",
+      "merrymaking:twinkling_lights_multi",
+      "merrymaking:twinkling_lights_multi",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:twinkling_icicle_multi_cap": {
+    "result": "merrymaking:twinkling_icicle_multi_cap",
+    "count": 3,
+    "ingredients": [
+      "",
+      "merrymaking:twinkling_lights_multi",
+      "",
+      "merrymaking:twinkling_lights_multi",
+      "",
+      "merrymaking:twinkling_lights_multi",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:twinkling_icicle_multi_diagonal_left": {
+    "result": "merrymaking:twinkling_icicle_multi_diagonal_left",
+    "count": 3,
+    "ingredients": [
+      "merrymaking:left_diag_template",
+      "merrymaking:twinkling_lights_multi",
+      "merrymaking:twinkling_lights_multi",
+      "merrymaking:twinkling_lights_multi",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:twinkling_icicle_multi_diagonal_right": {
+    "result": "merrymaking:twinkling_icicle_multi_diagonal_right",
+    "count": 3,
+    "ingredients": [
+      "merrymaking:right_diag_template",
+      "merrymaking:twinkling_lights_multi",
+      "merrymaking:twinkling_lights_multi",
+      "merrymaking:twinkling_lights_multi",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "reliquary:twilight_cloak": {
+    "result": "reliquary:twilight_cloak",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "reliquary:crimson_cloth",
+      "minecraft:iron_ingot",
+      "minecraft:black_wool",
+      "reliquary:crimson_cloth",
+      "minecraft:black_wool",
+      "minecraft:black_wool",
+      "reliquary:crimson_cloth",
+      "minecraft:black_wool"
+    ]
+  },
+  "twilightforest:twilight_oak_boat": {
+    "result": "twilightforest:twilight_oak_boat",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:twilight_oak_planks",
+      "",
+      "twilightforest:twilight_oak_planks",
+      "twilightforest:twilight_oak_planks",
+      "twilightforest:twilight_oak_planks",
+      "twilightforest:twilight_oak_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:twilight_oak_chest_boat": {
+    "result": "twilightforest:twilight_oak_chest_boat",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:twilight_oak_boat",
+      "minecraft:chest",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:twilight_oak_banister": {
+    "result": "twilightforest:twilight_oak_banister",
+    "count": 3,
+    "ingredients": [
+      "twilightforest:twilight_oak_slab",
+      "twilightforest:twilight_oak_slab",
+      "twilightforest:twilight_oak_slab",
+      "minecraft:stick",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:twilight_oak_button": {
+    "result": "twilightforest:twilight_oak_button",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:twilight_oak_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:twilight_oak_chest": {
+    "result": "twilightforest:twilight_oak_chest",
+    "count": 2,
+    "ingredients": [
+      "twilightforest:twilight_oak_planks",
+      "twilightforest:twilight_oak_planks",
+      "twilightforest:twilight_oak_planks",
+      "twilightforest:twilight_oak_planks",
+      "minecraft:chest",
+      "twilightforest:twilight_oak_planks",
+      "twilightforest:twilight_oak_planks",
+      "twilightforest:twilight_oak_planks",
+      "twilightforest:twilight_oak_planks"
+    ]
+  },
+  "twilightforest:twilight_oak_door": {
+    "result": "twilightforest:twilight_oak_door",
+    "count": 3,
+    "ingredients": [
+      "twilightforest:twilight_oak_planks",
+      "twilightforest:twilight_oak_planks",
+      "",
+      "twilightforest:twilight_oak_planks",
+      "twilightforest:twilight_oak_planks",
+      "",
+      "twilightforest:twilight_oak_planks",
+      "twilightforest:twilight_oak_planks",
+      ""
+    ]
+  },
+  "twilightforest:twilight_oak_drying_rack": {
+    "result": "twilightforest:twilight_oak_drying_rack",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:twilight_oak_slab",
+      "twilightforest:twilight_oak_slab",
+      "twilightforest:twilight_oak_slab",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:twilight_oak_fence": {
+    "result": "twilightforest:twilight_oak_fence",
+    "count": 3,
+    "ingredients": [
+      "twilightforest:twilight_oak_planks",
+      "minecraft:stick",
+      "twilightforest:twilight_oak_planks",
+      "twilightforest:twilight_oak_planks",
+      "minecraft:stick",
+      "twilightforest:twilight_oak_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:twilight_oak_fence_gate": {
+    "result": "twilightforest:twilight_oak_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "twilightforest:twilight_oak_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "twilightforest:twilight_oak_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:twilight_oak_hanging_sign": {
+    "result": "twilightforest:twilight_oak_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "twilightforest:stripped_twilight_oak_log",
+      "twilightforest:stripped_twilight_oak_log",
+      "twilightforest:stripped_twilight_oak_log",
+      "twilightforest:stripped_twilight_oak_log",
+      "twilightforest:stripped_twilight_oak_log",
+      "twilightforest:stripped_twilight_oak_log"
+    ]
+  },
+  "twilightforest:twilight_oak_planks": {
+    "result": "twilightforest:twilight_oak_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:twilight_oak_pressure_plate": {
+    "result": "twilightforest:twilight_oak_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:twilight_oak_planks",
+      "twilightforest:twilight_oak_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:twilight_oak_sign": {
+    "result": "twilightforest:twilight_oak_sign",
+    "count": 3,
+    "ingredients": [
+      "twilightforest:twilight_oak_planks",
+      "twilightforest:twilight_oak_planks",
+      "twilightforest:twilight_oak_planks",
+      "twilightforest:twilight_oak_planks",
+      "twilightforest:twilight_oak_planks",
+      "twilightforest:twilight_oak_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "twilightforest:twilight_oak_slab": {
+    "result": "twilightforest:twilight_oak_slab",
+    "count": 6,
+    "ingredients": [
+      "twilightforest:twilight_oak_planks",
+      "twilightforest:twilight_oak_planks",
+      "twilightforest:twilight_oak_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:twilight_oak_stairs": {
+    "result": "twilightforest:twilight_oak_stairs",
+    "count": 8,
+    "ingredients": [
+      "twilightforest:twilight_oak_planks",
+      "",
+      "",
+      "twilightforest:twilight_oak_planks",
+      "twilightforest:twilight_oak_planks",
+      "",
+      "twilightforest:twilight_oak_planks",
+      "twilightforest:twilight_oak_planks",
+      "twilightforest:twilight_oak_planks"
+    ]
+  },
+  "twilightforest:twilight_oak_trapdoor": {
+    "result": "twilightforest:twilight_oak_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "twilightforest:twilight_oak_planks",
+      "twilightforest:twilight_oak_planks",
+      "twilightforest:twilight_oak_planks",
+      "twilightforest:twilight_oak_planks",
+      "twilightforest:twilight_oak_planks",
+      "twilightforest:twilight_oak_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:twilight_oak_trapped_chest": {
+    "result": "twilightforest:twilight_oak_trapped_chest",
+    "count": 2,
+    "ingredients": [
+      "twilightforest:twilight_oak_planks",
+      "twilightforest:twilight_oak_planks",
+      "twilightforest:twilight_oak_planks",
+      "twilightforest:twilight_oak_planks",
+      "minecraft:trapped_chest",
+      "twilightforest:twilight_oak_planks",
+      "twilightforest:twilight_oak_planks",
+      "twilightforest:twilight_oak_planks",
+      "twilightforest:twilight_oak_planks"
+    ]
+  },
+  "twilightforest:twilight_oak_wood": {
+    "result": "twilightforest:twilight_oak_wood",
+    "count": 3,
+    "ingredients": [
+      "twilightforest:twilight_oak_log",
+      "twilightforest:twilight_oak_log",
+      "",
+      "twilightforest:twilight_oak_log",
+      "twilightforest:twilight_oak_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:twistytwig": {
+    "result": "undergarden:twistytwig",
+    "count": 4,
+    "ingredients": [
+      "undergarden:wigglewood_planks",
+      "",
+      "",
+      "",
+      "undergarden:wigglewood_planks",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

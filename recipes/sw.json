@@ -1,0 +1,1337 @@
+{
+  "advanced_ae:swim_speed_card": {
+    "result": "advanced_ae:swim_speed_card",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:oak_boat",
+      "",
+      "minecraft:heart_of_the_sea",
+      "advanced_ae:quantum_upgrade_base",
+      "minecraft:heart_of_the_sea",
+      "",
+      "minecraft:firework_rocket",
+      ""
+    ]
+  },
+  "bibliocraft:sword_pedestal": {
+    "result": "bibliocraft:sword_pedestal",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:smooth_stone_slab",
+      "",
+      "minecraft:smooth_stone_slab",
+      "minecraft:yellow_wool",
+      "minecraft:smooth_stone_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "farmersdelight:sweet_berry_cheesecake": {
+    "result": "farmersdelight:sweet_berry_cheesecake",
+    "count": 1,
+    "ingredients": [
+      "farmersdelight:sweet_berry_cheesecake_slice",
+      "farmersdelight:sweet_berry_cheesecake_slice",
+      "",
+      "farmersdelight:sweet_berry_cheesecake_slice",
+      "farmersdelight:sweet_berry_cheesecake_slice",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "farmersdelight:sweet_berry_cookie": {
+    "result": "farmersdelight:sweet_berry_cookie",
+    "count": 8,
+    "ingredients": [
+      "minecraft:sweet_berries",
+      "minecraft:wheat",
+      "minecraft:wheat",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "herbsandharvest:sweet_berry_muffin": {
+    "result": "herbsandharvest:sweet_berry_muffin",
+    "count": 8,
+    "ingredients": [
+      "minecraft:wheat",
+      "minecraft:egg",
+      "minecraft:milk",
+      "minecraft:sugar",
+      "minecraft:butter",
+      "minecraft:sweet_berries",
+      "herbsandharvest:ground_cinnamon",
+      "minecraft:paper",
+      ""
+    ]
+  },
+  "herbsandharvest:sweet_roll": {
+    "result": "herbsandharvest:sweet_roll",
+    "count": 4,
+    "ingredients": [
+      "minecraft:wheat",
+      "minecraft:sugar",
+      "minecraft:egg",
+      "minecraft:milk",
+      "minecraft:cream",
+      "minecraft:butter",
+      "minecraft:salt",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:sword_steel": {
+    "result": "immersiveengineering:sword_steel",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:steel_ingot",
+      "",
+      "",
+      "modern_industrialization:steel_ingot",
+      "",
+      "",
+      "minecraft:treated_wood",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:sweet_potato_pie": {
+    "result": "merrymaking:sweet_potato_pie",
+    "count": 1,
+    "ingredients": [
+      "minecraft:milk_bucket",
+      "minecraft:wheat",
+      "minecraft:sugar",
+      "minecraft:egg",
+      "herbsandharvest:sweet_potato",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2crops:sweetpotatoseeditem": {
+    "result": "pamhc2crops:sweetpotatoseeditem",
+    "count": 1,
+    "ingredients": [
+      "pamhc2crops:sweetpotatoitem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:sweetberrydonutitem": {
+    "result": "pamhc2foodcore:sweetberrydonutitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:cookingoil",
+      "minecraft:batter",
+      "minecraft:sweetberry",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:sweetberryjellyitem": {
+    "result": "pamhc2foodcore:sweetberryjellyitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:sweetberryjuice",
+      "minecraft:sugar",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:sweetberryjellytoastitem": {
+    "result": "pamhc2foodcore:sweetberryjellytoastitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:toast",
+      "minecraft:sweetberryjelly",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:sweetberryjuiceitem": {
+    "result": "pamhc2foodcore:sweetberryjuiceitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_juicer",
+      "minecraft:sweetberry",
+      "minecraft:sweetberry",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:sweetberrymuffinitem": {
+    "result": "pamhc2foodcore:sweetberrymuffinitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:sweetberry",
+      "minecraft:batter",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:sweetberrypieitem": {
+    "result": "pamhc2foodcore:sweetberrypieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:sugar",
+      "minecraft:sweetberry",
+      "minecraft:dough",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:sweetberrypopsicleitem": {
+    "result": "pamhc2foodcore:sweetberrypopsicleitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:sweetberryjuice",
+      "minecraft:ices",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:sweetberrysmoothieitem": {
+    "result": "pamhc2foodcore:sweetberrysmoothieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:sweetberryjuice",
+      "minecraft:ices",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:sweetberryyogurtitem": {
+    "result": "pamhc2foodcore:sweetberryyogurtitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:yogurt",
+      "minecraft:sweetberry",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:swedishmeatballsitem": {
+    "result": "pamhc2foodextended:swedishmeatballsitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:groundbeef",
+      "minecraft:flour",
+      "minecraft:spiceleaf",
+      "minecraft:groundnutmeg",
+      "minecraft:cream",
+      "minecraft:blackpepper",
+      "minecraft:onion",
+      "minecraft:egg"
+    ]
+  },
+  "pamhc2foodextended:sweetandsourchickenitem": {
+    "result": "pamhc2foodextended:sweetandsourchickenitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:rawchicken",
+      "minecraft:flour",
+      "minecraft:pineapple",
+      "minecraft:bellpepper",
+      "minecraft:onion",
+      "pamhc2foodextended:sweetandsoursauceitem",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:sweetandsourmeatballsitem": {
+    "result": "pamhc2foodextended:sweetandsourmeatballsitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:groundbeef",
+      "pamhc2foodextended:sweetandsoursauceitem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:sweetandsoursauceitem": {
+    "result": "pamhc2foodextended:sweetandsoursauceitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:ketchup",
+      "minecraft:honey",
+      "minecraft:soysauce",
+      "minecraft:ginger",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:sweetberryjellysandwichitem": {
+    "result": "pamhc2foodextended:sweetberryjellysandwichitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:sweetberryjelly",
+      "minecraft:nutbutters",
+      "minecraft:bread",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:sweetpickleitem": {
+    "result": "pamhc2foodextended:sweetpickleitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:vinegar",
+      "minecraft:cucumber",
+      "minecraft:sugar",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:sweetpotatopieitem": {
+    "result": "pamhc2foodextended:sweetpotatopieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:sweetpotato",
+      "minecraft:dough",
+      "minecraft:groundcinnamon",
+      "minecraft:marshmellows",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:sweetpotatosouffleitem": {
+    "result": "pamhc2foodextended:sweetpotatosouffleitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:sweetpotato",
+      "minecraft:pecan",
+      "minecraft:dough",
+      "minecraft:butter",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:sweetteaitem": {
+    "result": "pamhc2foodextended:sweetteaitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "pamhc2crops:hotteaitem",
+      "minecraft:sugar",
+      "minecraft:lemon",
+      "minecraft:ices",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:swamp_gum_bookshelf": {
+    "result": "productivetrees:swamp_gum_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:swamp_gum_planks",
+      "productivetrees:swamp_gum_planks",
+      "productivetrees:swamp_gum_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:swamp_gum_planks",
+      "productivetrees:swamp_gum_planks",
+      "productivetrees:swamp_gum_planks"
+    ]
+  },
+  "productivetrees:sweetgum_bookshelf": {
+    "result": "productivetrees:sweetgum_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:sweetgum_planks",
+      "productivetrees:sweetgum_planks",
+      "productivetrees:sweetgum_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:sweetgum_planks",
+      "productivetrees:sweetgum_planks",
+      "productivetrees:sweetgum_planks"
+    ]
+  },
+  "productivetrees:sweet_chestnut_bookshelf": {
+    "result": "productivetrees:sweet_chestnut_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:sweet_chestnut_planks",
+      "productivetrees:sweet_chestnut_planks",
+      "productivetrees:sweet_chestnut_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:sweet_chestnut_planks",
+      "productivetrees:sweet_chestnut_planks",
+      "productivetrees:sweet_chestnut_planks"
+    ]
+  },
+  "productivetrees:sweet_crabapple_bookshelf": {
+    "result": "productivetrees:sweet_crabapple_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:sweet_crabapple_planks",
+      "productivetrees:sweet_crabapple_planks",
+      "productivetrees:sweet_crabapple_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:sweet_crabapple_planks",
+      "productivetrees:sweet_crabapple_planks",
+      "productivetrees:sweet_crabapple_planks"
+    ]
+  },
+  "productivetrees:swamp_gum_button": {
+    "result": "productivetrees:swamp_gum_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:swamp_gum_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sweetgum_button": {
+    "result": "productivetrees:sweetgum_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:sweetgum_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sweet_chestnut_button": {
+    "result": "productivetrees:sweet_chestnut_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:sweet_chestnut_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sweet_crabapple_button": {
+    "result": "productivetrees:sweet_crabapple_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:sweet_crabapple_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sweetsop_crate": {
+    "result": "productivetrees:sweetsop_crate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:sweetsop",
+      "minecraft:sweetsop",
+      "minecraft:sweetsop",
+      "minecraft:sweetsop",
+      "productivetrees:sweetsop",
+      "minecraft:sweetsop",
+      "minecraft:sweetsop",
+      "minecraft:sweetsop",
+      "minecraft:sweetsop"
+    ]
+  },
+  "productivetrees:sweetsop": {
+    "result": "productivetrees:sweetsop",
+    "count": 9,
+    "ingredients": [
+      "productivetrees:sweetsop_crate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sweet_crabapple_crate": {
+    "result": "productivetrees:sweet_crabapple_crate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:sweet_crabapple",
+      "minecraft:sweet_crabapple",
+      "minecraft:sweet_crabapple",
+      "minecraft:sweet_crabapple",
+      "productivetrees:sweet_crabapple",
+      "minecraft:sweet_crabapple",
+      "minecraft:sweet_crabapple",
+      "minecraft:sweet_crabapple",
+      "minecraft:sweet_crabapple"
+    ]
+  },
+  "productivetrees:sweet_crabapple": {
+    "result": "productivetrees:sweet_crabapple",
+    "count": 9,
+    "ingredients": [
+      "productivetrees:sweet_crabapple_crate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:swamp_gum_door": {
+    "result": "productivetrees:swamp_gum_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:swamp_gum_planks",
+      "productivetrees:swamp_gum_planks",
+      "",
+      "productivetrees:swamp_gum_planks",
+      "productivetrees:swamp_gum_planks",
+      "",
+      "productivetrees:swamp_gum_planks",
+      "productivetrees:swamp_gum_planks",
+      ""
+    ]
+  },
+  "productivetrees:sweetgum_door": {
+    "result": "productivetrees:sweetgum_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:sweetgum_planks",
+      "productivetrees:sweetgum_planks",
+      "",
+      "productivetrees:sweetgum_planks",
+      "productivetrees:sweetgum_planks",
+      "",
+      "productivetrees:sweetgum_planks",
+      "productivetrees:sweetgum_planks",
+      ""
+    ]
+  },
+  "productivetrees:sweet_chestnut_door": {
+    "result": "productivetrees:sweet_chestnut_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:sweet_chestnut_planks",
+      "productivetrees:sweet_chestnut_planks",
+      "",
+      "productivetrees:sweet_chestnut_planks",
+      "productivetrees:sweet_chestnut_planks",
+      "",
+      "productivetrees:sweet_chestnut_planks",
+      "productivetrees:sweet_chestnut_planks",
+      ""
+    ]
+  },
+  "productivetrees:sweet_crabapple_door": {
+    "result": "productivetrees:sweet_crabapple_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:sweet_crabapple_planks",
+      "productivetrees:sweet_crabapple_planks",
+      "",
+      "productivetrees:sweet_crabapple_planks",
+      "productivetrees:sweet_crabapple_planks",
+      "",
+      "productivetrees:sweet_crabapple_planks",
+      "productivetrees:sweet_crabapple_planks",
+      ""
+    ]
+  },
+  "productivetrees:swamp_gum_fence": {
+    "result": "productivetrees:swamp_gum_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:swamp_gum_planks",
+      "minecraft:stick",
+      "productivetrees:swamp_gum_planks",
+      "productivetrees:swamp_gum_planks",
+      "minecraft:stick",
+      "productivetrees:swamp_gum_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sweetgum_fence": {
+    "result": "productivetrees:sweetgum_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:sweetgum_planks",
+      "minecraft:stick",
+      "productivetrees:sweetgum_planks",
+      "productivetrees:sweetgum_planks",
+      "minecraft:stick",
+      "productivetrees:sweetgum_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sweet_chestnut_fence": {
+    "result": "productivetrees:sweet_chestnut_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:sweet_chestnut_planks",
+      "minecraft:stick",
+      "productivetrees:sweet_chestnut_planks",
+      "productivetrees:sweet_chestnut_planks",
+      "minecraft:stick",
+      "productivetrees:sweet_chestnut_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sweet_crabapple_fence": {
+    "result": "productivetrees:sweet_crabapple_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:sweet_crabapple_planks",
+      "minecraft:stick",
+      "productivetrees:sweet_crabapple_planks",
+      "productivetrees:sweet_crabapple_planks",
+      "minecraft:stick",
+      "productivetrees:sweet_crabapple_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:swamp_gum_fence_gate": {
+    "result": "productivetrees:swamp_gum_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:swamp_gum_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:swamp_gum_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sweetgum_fence_gate": {
+    "result": "productivetrees:sweetgum_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:sweetgum_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:sweetgum_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sweet_chestnut_fence_gate": {
+    "result": "productivetrees:sweet_chestnut_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:sweet_chestnut_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:sweet_chestnut_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sweet_crabapple_fence_gate": {
+    "result": "productivetrees:sweet_crabapple_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:sweet_crabapple_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:sweet_crabapple_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:swamp_gum_hanging_sign": {
+    "result": "productivetrees:swamp_gum_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:swamp_gum_planks",
+      "productivetrees:swamp_gum_planks",
+      "productivetrees:swamp_gum_planks",
+      "productivetrees:swamp_gum_planks",
+      "productivetrees:swamp_gum_planks",
+      "productivetrees:swamp_gum_planks"
+    ]
+  },
+  "productivetrees:sweetgum_hanging_sign": {
+    "result": "productivetrees:sweetgum_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:sweetgum_planks",
+      "productivetrees:sweetgum_planks",
+      "productivetrees:sweetgum_planks",
+      "productivetrees:sweetgum_planks",
+      "productivetrees:sweetgum_planks",
+      "productivetrees:sweetgum_planks"
+    ]
+  },
+  "productivetrees:sweet_chestnut_hanging_sign": {
+    "result": "productivetrees:sweet_chestnut_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:sweet_chestnut_planks",
+      "productivetrees:sweet_chestnut_planks",
+      "productivetrees:sweet_chestnut_planks",
+      "productivetrees:sweet_chestnut_planks",
+      "productivetrees:sweet_chestnut_planks",
+      "productivetrees:sweet_chestnut_planks"
+    ]
+  },
+  "productivetrees:sweet_crabapple_hanging_sign": {
+    "result": "productivetrees:sweet_crabapple_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:sweet_crabapple_planks",
+      "productivetrees:sweet_crabapple_planks",
+      "productivetrees:sweet_crabapple_planks",
+      "productivetrees:sweet_crabapple_planks",
+      "productivetrees:sweet_crabapple_planks",
+      "productivetrees:sweet_crabapple_planks"
+    ]
+  },
+  "productivetrees:swamp_gum_planks": {
+    "result": "productivetrees:swamp_gum_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sweetgum_planks": {
+    "result": "productivetrees:sweetgum_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sweet_chestnut_planks": {
+    "result": "productivetrees:sweet_chestnut_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sweet_crabapple_planks": {
+    "result": "productivetrees:sweet_crabapple_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:swamp_gum_pressure_plate": {
+    "result": "productivetrees:swamp_gum_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:swamp_gum_planks",
+      "productivetrees:swamp_gum_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sweetgum_pressure_plate": {
+    "result": "productivetrees:sweetgum_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:sweetgum_planks",
+      "productivetrees:sweetgum_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sweet_chestnut_pressure_plate": {
+    "result": "productivetrees:sweet_chestnut_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:sweet_chestnut_planks",
+      "productivetrees:sweet_chestnut_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sweet_crabapple_pressure_plate": {
+    "result": "productivetrees:sweet_crabapple_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:sweet_crabapple_planks",
+      "productivetrees:sweet_crabapple_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:swamp_gum_sign": {
+    "result": "productivetrees:swamp_gum_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:swamp_gum_planks",
+      "productivetrees:swamp_gum_planks",
+      "productivetrees:swamp_gum_planks",
+      "productivetrees:swamp_gum_planks",
+      "productivetrees:swamp_gum_planks",
+      "productivetrees:swamp_gum_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:sweetgum_sign": {
+    "result": "productivetrees:sweetgum_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:sweetgum_planks",
+      "productivetrees:sweetgum_planks",
+      "productivetrees:sweetgum_planks",
+      "productivetrees:sweetgum_planks",
+      "productivetrees:sweetgum_planks",
+      "productivetrees:sweetgum_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:sweet_chestnut_sign": {
+    "result": "productivetrees:sweet_chestnut_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:sweet_chestnut_planks",
+      "productivetrees:sweet_chestnut_planks",
+      "productivetrees:sweet_chestnut_planks",
+      "productivetrees:sweet_chestnut_planks",
+      "productivetrees:sweet_chestnut_planks",
+      "productivetrees:sweet_chestnut_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:sweet_crabapple_sign": {
+    "result": "productivetrees:sweet_crabapple_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:sweet_crabapple_planks",
+      "productivetrees:sweet_crabapple_planks",
+      "productivetrees:sweet_crabapple_planks",
+      "productivetrees:sweet_crabapple_planks",
+      "productivetrees:sweet_crabapple_planks",
+      "productivetrees:sweet_crabapple_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:swamp_gum_slab": {
+    "result": "productivetrees:swamp_gum_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:swamp_gum_planks",
+      "productivetrees:swamp_gum_planks",
+      "productivetrees:swamp_gum_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sweetgum_slab": {
+    "result": "productivetrees:sweetgum_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:sweetgum_planks",
+      "productivetrees:sweetgum_planks",
+      "productivetrees:sweetgum_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sweet_chestnut_slab": {
+    "result": "productivetrees:sweet_chestnut_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:sweet_chestnut_planks",
+      "productivetrees:sweet_chestnut_planks",
+      "productivetrees:sweet_chestnut_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sweet_crabapple_slab": {
+    "result": "productivetrees:sweet_crabapple_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:sweet_crabapple_planks",
+      "productivetrees:sweet_crabapple_planks",
+      "productivetrees:sweet_crabapple_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:swamp_gum_stairs": {
+    "result": "productivetrees:swamp_gum_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:swamp_gum_planks",
+      "",
+      "",
+      "productivetrees:swamp_gum_planks",
+      "productivetrees:swamp_gum_planks",
+      "",
+      "productivetrees:swamp_gum_planks",
+      "productivetrees:swamp_gum_planks",
+      "productivetrees:swamp_gum_planks"
+    ]
+  },
+  "productivetrees:sweetgum_stairs": {
+    "result": "productivetrees:sweetgum_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:sweetgum_planks",
+      "",
+      "",
+      "productivetrees:sweetgum_planks",
+      "productivetrees:sweetgum_planks",
+      "",
+      "productivetrees:sweetgum_planks",
+      "productivetrees:sweetgum_planks",
+      "productivetrees:sweetgum_planks"
+    ]
+  },
+  "productivetrees:sweet_chestnut_stairs": {
+    "result": "productivetrees:sweet_chestnut_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:sweet_chestnut_planks",
+      "",
+      "",
+      "productivetrees:sweet_chestnut_planks",
+      "productivetrees:sweet_chestnut_planks",
+      "",
+      "productivetrees:sweet_chestnut_planks",
+      "productivetrees:sweet_chestnut_planks",
+      "productivetrees:sweet_chestnut_planks"
+    ]
+  },
+  "productivetrees:sweet_crabapple_stairs": {
+    "result": "productivetrees:sweet_crabapple_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:sweet_crabapple_planks",
+      "",
+      "",
+      "productivetrees:sweet_crabapple_planks",
+      "productivetrees:sweet_crabapple_planks",
+      "",
+      "productivetrees:sweet_crabapple_planks",
+      "productivetrees:sweet_crabapple_planks",
+      "productivetrees:sweet_crabapple_planks"
+    ]
+  },
+  "productivetrees:swamp_gum_trapdoor": {
+    "result": "productivetrees:swamp_gum_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:swamp_gum_planks",
+      "productivetrees:swamp_gum_planks",
+      "productivetrees:swamp_gum_planks",
+      "productivetrees:swamp_gum_planks",
+      "productivetrees:swamp_gum_planks",
+      "productivetrees:swamp_gum_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sweetgum_trapdoor": {
+    "result": "productivetrees:sweetgum_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:sweetgum_planks",
+      "productivetrees:sweetgum_planks",
+      "productivetrees:sweetgum_planks",
+      "productivetrees:sweetgum_planks",
+      "productivetrees:sweetgum_planks",
+      "productivetrees:sweetgum_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sweet_chestnut_trapdoor": {
+    "result": "productivetrees:sweet_chestnut_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:sweet_chestnut_planks",
+      "productivetrees:sweet_chestnut_planks",
+      "productivetrees:sweet_chestnut_planks",
+      "productivetrees:sweet_chestnut_planks",
+      "productivetrees:sweet_chestnut_planks",
+      "productivetrees:sweet_chestnut_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sweet_crabapple_trapdoor": {
+    "result": "productivetrees:sweet_crabapple_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:sweet_crabapple_planks",
+      "productivetrees:sweet_crabapple_planks",
+      "productivetrees:sweet_crabapple_planks",
+      "productivetrees:sweet_crabapple_planks",
+      "productivetrees:sweet_crabapple_planks",
+      "productivetrees:sweet_crabapple_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:swamp_gum_wood": {
+    "result": "productivetrees:swamp_gum_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:swamp_gum_log",
+      "productivetrees:swamp_gum_log",
+      "",
+      "productivetrees:swamp_gum_log",
+      "productivetrees:swamp_gum_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sweetgum_wood": {
+    "result": "productivetrees:sweetgum_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:sweetgum_log",
+      "productivetrees:sweetgum_log",
+      "",
+      "productivetrees:sweetgum_log",
+      "productivetrees:sweetgum_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sweet_chestnut_wood": {
+    "result": "productivetrees:sweet_chestnut_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:sweet_chestnut_log",
+      "productivetrees:sweet_chestnut_log",
+      "",
+      "productivetrees:sweet_chestnut_log",
+      "productivetrees:sweet_chestnut_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sweet_crabapple_wood": {
+    "result": "productivetrees:sweet_crabapple_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:sweet_crabapple_log",
+      "productivetrees:sweet_crabapple_log",
+      "",
+      "productivetrees:sweet_crabapple_log",
+      "productivetrees:sweet_crabapple_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:switch_track_lever": {
+    "result": "railcraft:switch_track_lever",
+    "count": 1,
+    "ingredients": [
+      "minecraft:red",
+      "minecraft:black",
+      "minecraft:bone_meal",
+      "minecraft:piston",
+      "minecraft:lever",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:switch_track_motor": {
+    "result": "railcraft:switch_track_motor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:red",
+      "minecraft:black",
+      "minecraft:bone_meal",
+      "minecraft:piston",
+      "railcraft:receiver_circuit",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:switch_track_router": {
+    "result": "railcraft:switch_track_router",
+    "count": 1,
+    "ingredients": [
+      "railcraft:switch_track_motor",
+      "railcraft:routing_detector",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "refurbished_furniture:sweet_berry_jam_toast": {
+    "result": "refurbished_furniture:sweet_berry_jam_toast",
+    "count": 1,
+    "ingredients": [
+      "refurbished_furniture:sweet_berry_jam",
+      "refurbished_furniture:toast",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgear:sword_blueprint": {
+    "result": "silentgear:sword_blueprint",
+    "count": 1,
+    "ingredients": [
+      "minecraft:paper",
+      "",
+      "",
+      "minecraft:paper",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "silentgear:sword_template": {
+    "result": "silentgear:sword_template",
+    "count": 1,
+    "ingredients": [
+      "minecraft:template_boards",
+      "",
+      "",
+      "minecraft:template_boards",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "modern_industrialization:op_amp": {
+    "result": "modern_industrialization:op_amp",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:resistor",
+      "modern_industrialization:transistor",
+      "modern_industrialization:transistor",
+      "modern_industrialization:resistor",
+      "modern_industrialization:diode",
+      "modern_industrialization:resistor",
+      "modern_industrialization:resistor",
+      "modern_industrialization:transistor",
+      "modern_industrialization:transistor"
+    ]
+  },
+  "silentgems:opal": {
+    "result": "silentgems:opal",
+    "count": 9,
+    "ingredients": [
+      "silentgems:opal_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgems:opal_bricks": {
+    "result": "silentgems:opal_bricks",
+    "count": 12,
+    "ingredients": [
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:opal",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks"
+    ]
+  },
+  "silentgems:opal_block": {
+    "result": "silentgems:opal_block",
+    "count": 1,
+    "ingredients": [
+      "silentgems:opal",
+      "silentgems:opal",
+      "silentgems:opal",
+      "silentgems:opal",
+      "silentgems:opal",
+      "silentgems:opal",
+      "silentgems:opal",
+      "silentgems:opal",
+      "silentgems:opal"
+    ]
+  },
+  "silentgems:opal_glass": {
+    "result": "silentgems:opal_glass",
+    "count": 12,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:opal",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass"
+    ]
+  },
+  "silentgems:opal_lamp": {
+    "result": "silentgems:opal_lamp",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:opal",
+      "minecraft:stone",
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:redstone"
+    ]
+  },
+  "silentgems:opal_lamp_inverted_on": {
+    "result": "silentgems:opal_lamp_inverted_on",
+    "count": 1,
+    "ingredients": [
+      "silentgems:opal_lamp",
+      "minecraft:redstone_torch",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgems:opal_redstone_teleporter": {
+    "result": "silentgems:opal_redstone_teleporter",
+    "count": 1,
+    "ingredients": [
+      "silentgems:opal_teleporter",
+      "minecraft:redstone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgems:opal_small_bricks": {
+    "result": "silentgems:opal_small_bricks",
+    "count": 12,
+    "ingredients": [
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:opal",
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:bricks"
+    ]
+  },
+  "silentgems:opal_teleporter": {
+    "result": "silentgems:opal_teleporter",
+    "count": 2,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "minecraft:opal",
+      "minecraft:gold_ingot",
+      "minecraft:opal",
+      "silentgems:chaos_essence_block",
+      "minecraft:opal",
+      "",
+      "minecraft:ender_pearl",
+      ""
+    ]
+  },
+  "silentgems:opal_tiles": {
+    "result": "silentgems:opal_tiles",
+    "count": 12,
+    "ingredients": [
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:opal",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles"
+    ]
+  }
+}

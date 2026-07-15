@@ -1,0 +1,107 @@
+{
+  "ae2:1k_crafting_storage": {
+    "result": "ae2:1k_crafting_storage",
+    "count": 1,
+    "ingredients": [
+      "ae2:crafting_unit",
+      "ae2:cell_component_1k",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "refinedstorage:1k_storage_block": {
+    "result": "refinedstorage:1k_storage_block",
+    "count": 1,
+    "ingredients": [
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:1k_storage_part",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:machine_casing",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:quartz_enriched_iron",
+      "minecraft:redstone",
+      "refinedstorage:quartz_enriched_iron"
+    ]
+  },
+  "refinedstorage:1k_storage_disk": {
+    "result": "refinedstorage:1k_storage_disk",
+    "count": 1,
+    "ingredients": [
+      "refinedstorage:storage_housing",
+      "refinedstorage:1k_storage_part",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "refinedstorage:1k_storage_part": {
+    "result": "refinedstorage:1k_storage_part",
+    "count": 1,
+    "ingredients": [
+      "minecraft:silicon",
+      "refinedstorage:quartz_enriched_iron",
+      "minecraft:silicon",
+      "minecraft:glass",
+      "minecraft:redstone",
+      "minecraft:glass",
+      "minecraft:silicon",
+      "minecraft:glass",
+      "minecraft:silicon"
+    ]
+  },
+  "refinedtypes:1k_soul_storage_block": {
+    "result": "refinedtypes:1k_soul_storage_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone_block",
+      "refinedtypes:1k_soul_storage_part",
+      "minecraft:redstone_block",
+      "minecraft:redstone_block",
+      "refinedstorage:machine_casing",
+      "minecraft:redstone_block",
+      "minecraft:redstone_block",
+      "minecraft:redstone",
+      "minecraft:redstone_block"
+    ]
+  },
+  "refinedtypes:1k_soul_storage_disk": {
+    "result": "refinedtypes:1k_soul_storage_disk",
+    "count": 1,
+    "ingredients": [
+      "refinedstorage:storage_housing",
+      "refinedtypes:1k_soul_storage_part",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "refinedtypes:1k_soul_storage_part": {
+    "result": "refinedtypes:1k_soul_storage_part",
+    "count": 1,
+    "ingredients": [
+      "minecraft:silicon",
+      "minecraft:sculk",
+      "minecraft:silicon",
+      "minecraft:glass",
+      "minecraft:redstone",
+      "minecraft:glass",
+      "minecraft:silicon",
+      "minecraft:glass",
+      "minecraft:silicon"
+    ]
+  }
+}

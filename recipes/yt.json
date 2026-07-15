@@ -1,0 +1,47 @@
+{
+  "modern_industrialization:yttrium_block": {
+    "result": "modern_industrialization:yttrium_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:yttrium",
+      "minecraft:yttrium",
+      "minecraft:yttrium",
+      "minecraft:yttrium",
+      "modern_industrialization:yttrium_dust",
+      "minecraft:yttrium",
+      "minecraft:yttrium",
+      "minecraft:yttrium",
+      "minecraft:yttrium"
+    ]
+  },
+  "modern_industrialization:yttrium_dust": {
+    "result": "modern_industrialization:yttrium_dust",
+    "count": 1,
+    "ingredients": [
+      "minecraft:yttrium",
+      "minecraft:yttrium",
+      "minecraft:yttrium",
+      "minecraft:yttrium",
+      "modern_industrialization:yttrium_tiny_dust",
+      "minecraft:yttrium",
+      "minecraft:yttrium",
+      "minecraft:yttrium",
+      "minecraft:yttrium"
+    ]
+  },
+  "modern_industrialization:yttrium_tiny_dust": {
+    "result": "modern_industrialization:yttrium_tiny_dust",
+    "count": 9,
+    "ingredients": [
+      "modern_industrialization:yttrium_dust",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

@@ -1,0 +1,542 @@
+{
+  "dyenamics:aquamarine_candle": {
+    "result": "dyenamics:aquamarine_candle",
+    "count": 1,
+    "ingredients": [
+      "minecraft:candle",
+      "minecraft:aquamarine",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:aquamarine_carpet": {
+    "result": "dyenamics:aquamarine_carpet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:white_wool",
+      "minecraft:aquamarine",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:aquamarine_concrete_powder": {
+    "result": "dyenamics:aquamarine_concrete_powder",
+    "count": 8,
+    "ingredients": [
+      "minecraft:aquamarine",
+      "minecraft:sand",
+      "minecraft:sand",
+      "minecraft:sand",
+      "minecraft:sand",
+      "minecraft:gravel",
+      "minecraft:gravel",
+      "minecraft:gravel",
+      "minecraft:gravel"
+    ]
+  },
+  "dyenamics:aquamarine_dye": {
+    "result": "dyenamics:aquamarine_dye",
+    "count": 2,
+    "ingredients": [
+      "minecraft:cyan",
+      "minecraft:blue",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:aquamarine_stained_glass": {
+    "result": "dyenamics:aquamarine_stained_glass",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:aquamarine",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass"
+    ]
+  },
+  "dyenamics:aquamarine_stained_glass_pane": {
+    "result": "dyenamics:aquamarine_stained_glass_pane",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:aquamarine",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane"
+    ]
+  },
+  "dyenamics:aquamarine_terracotta": {
+    "result": "dyenamics:aquamarine_terracotta",
+    "count": 8,
+    "ingredients": [
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:aquamarine",
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:terracotta"
+    ]
+  },
+  "dyenamics:aquamarine_wool": {
+    "result": "dyenamics:aquamarine_wool",
+    "count": 1,
+    "ingredients": [
+      "minecraft:aquamarine",
+      "minecraft:white_wool",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:aquamarine_banner": {
+    "result": "dyenamics:aquamarine_banner",
+    "count": 1,
+    "ingredients": [
+      "dyenamics:aquamarine_wool",
+      "dyenamics:aquamarine_wool",
+      "dyenamics:aquamarine_wool",
+      "dyenamics:aquamarine_wool",
+      "dyenamics:aquamarine_wool",
+      "dyenamics:aquamarine_wool",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "dyenamics:aquamarine_bed": {
+    "result": "dyenamics:aquamarine_bed",
+    "count": 1,
+    "ingredients": [
+      "minecraft:beds",
+      "minecraft:aquamarine",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:aquamarine_rockwool": {
+    "result": "dyenamics:aquamarine_rockwool",
+    "count": 1,
+    "ingredients": [
+      "thermal:white_rockwool",
+      "minecraft:aquamarine",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "forbidden_arcanus:aquatic_dragon_scale": {
+    "result": "forbidden_arcanus:aquatic_dragon_scale",
+    "count": 1,
+    "ingredients": [
+      "forbidden_arcanus:dragon_scale",
+      "minecraft:prismarine_shard",
+      "minecraft:prismarine_crystals",
+      "forbidden_arcanus:arcane_crystal_dust",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "astralsorcery:aquamarine": {
+    "result": "astralsorcery:aquamarine",
+    "count": 16,
+    "ingredients": [
+      "mysticalagriculture:aquamarine_essence",
+      "mysticalagriculture:aquamarine_essence",
+      "mysticalagriculture:aquamarine_essence",
+      "mysticalagriculture:aquamarine_essence",
+      "",
+      "mysticalagriculture:aquamarine_essence",
+      "mysticalagriculture:aquamarine_essence",
+      "mysticalagriculture:aquamarine_essence",
+      "mysticalagriculture:aquamarine_essence"
+    ]
+  },
+  "productivetrees:aquilaria_bookshelf": {
+    "result": "productivetrees:aquilaria_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:aquilaria_planks",
+      "productivetrees:aquilaria_planks",
+      "productivetrees:aquilaria_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:aquilaria_planks",
+      "productivetrees:aquilaria_planks",
+      "productivetrees:aquilaria_planks"
+    ]
+  },
+  "productivetrees:aquilaria_button": {
+    "result": "productivetrees:aquilaria_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:aquilaria_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:aquilaria_door": {
+    "result": "productivetrees:aquilaria_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:aquilaria_planks",
+      "productivetrees:aquilaria_planks",
+      "",
+      "productivetrees:aquilaria_planks",
+      "productivetrees:aquilaria_planks",
+      "",
+      "productivetrees:aquilaria_planks",
+      "productivetrees:aquilaria_planks",
+      ""
+    ]
+  },
+  "productivetrees:aquilaria_fence": {
+    "result": "productivetrees:aquilaria_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:aquilaria_planks",
+      "minecraft:stick",
+      "productivetrees:aquilaria_planks",
+      "productivetrees:aquilaria_planks",
+      "minecraft:stick",
+      "productivetrees:aquilaria_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:aquilaria_fence_gate": {
+    "result": "productivetrees:aquilaria_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:aquilaria_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:aquilaria_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:aquilaria_hanging_sign": {
+    "result": "productivetrees:aquilaria_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:aquilaria_planks",
+      "productivetrees:aquilaria_planks",
+      "productivetrees:aquilaria_planks",
+      "productivetrees:aquilaria_planks",
+      "productivetrees:aquilaria_planks",
+      "productivetrees:aquilaria_planks"
+    ]
+  },
+  "productivetrees:aquilaria_planks": {
+    "result": "productivetrees:aquilaria_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:aquilaria_pressure_plate": {
+    "result": "productivetrees:aquilaria_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:aquilaria_planks",
+      "productivetrees:aquilaria_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:aquilaria_sign": {
+    "result": "productivetrees:aquilaria_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:aquilaria_planks",
+      "productivetrees:aquilaria_planks",
+      "productivetrees:aquilaria_planks",
+      "productivetrees:aquilaria_planks",
+      "productivetrees:aquilaria_planks",
+      "productivetrees:aquilaria_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:aquilaria_slab": {
+    "result": "productivetrees:aquilaria_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:aquilaria_planks",
+      "productivetrees:aquilaria_planks",
+      "productivetrees:aquilaria_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:aquilaria_stairs": {
+    "result": "productivetrees:aquilaria_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:aquilaria_planks",
+      "",
+      "",
+      "productivetrees:aquilaria_planks",
+      "productivetrees:aquilaria_planks",
+      "",
+      "productivetrees:aquilaria_planks",
+      "productivetrees:aquilaria_planks",
+      "productivetrees:aquilaria_planks"
+    ]
+  },
+  "productivetrees:aquilaria_trapdoor": {
+    "result": "productivetrees:aquilaria_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:aquilaria_planks",
+      "productivetrees:aquilaria_planks",
+      "productivetrees:aquilaria_planks",
+      "productivetrees:aquilaria_planks",
+      "productivetrees:aquilaria_planks",
+      "productivetrees:aquilaria_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:aquilaria_wood": {
+    "result": "productivetrees:aquilaria_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:aquilaria_log",
+      "productivetrees:aquilaria_log",
+      "",
+      "productivetrees:aquilaria_log",
+      "productivetrees:aquilaria_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgems:aquamarine": {
+    "result": "silentgems:aquamarine",
+    "count": 9,
+    "ingredients": [
+      "silentgems:aquamarine_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgems:aquamarine_bricks": {
+    "result": "silentgems:aquamarine_bricks",
+    "count": 12,
+    "ingredients": [
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:aquamarine",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks"
+    ]
+  },
+  "silentgems:aquamarine_block": {
+    "result": "silentgems:aquamarine_block",
+    "count": 1,
+    "ingredients": [
+      "silentgems:aquamarine",
+      "silentgems:aquamarine",
+      "silentgems:aquamarine",
+      "silentgems:aquamarine",
+      "silentgems:aquamarine",
+      "silentgems:aquamarine",
+      "silentgems:aquamarine",
+      "silentgems:aquamarine",
+      "silentgems:aquamarine"
+    ]
+  },
+  "silentgems:aquamarine_glass": {
+    "result": "silentgems:aquamarine_glass",
+    "count": 12,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:aquamarine",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass"
+    ]
+  },
+  "silentgems:aquamarine_lamp": {
+    "result": "silentgems:aquamarine_lamp",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:aquamarine",
+      "minecraft:stone",
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:redstone"
+    ]
+  },
+  "silentgems:aquamarine_lamp_inverted_on": {
+    "result": "silentgems:aquamarine_lamp_inverted_on",
+    "count": 1,
+    "ingredients": [
+      "silentgems:aquamarine_lamp",
+      "minecraft:redstone_torch",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgems:aquamarine_redstone_teleporter": {
+    "result": "silentgems:aquamarine_redstone_teleporter",
+    "count": 1,
+    "ingredients": [
+      "silentgems:aquamarine_teleporter",
+      "minecraft:redstone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgems:aquamarine_small_bricks": {
+    "result": "silentgems:aquamarine_small_bricks",
+    "count": 12,
+    "ingredients": [
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:aquamarine",
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:bricks"
+    ]
+  },
+  "silentgems:aquamarine_teleporter": {
+    "result": "silentgems:aquamarine_teleporter",
+    "count": 2,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "minecraft:aquamarine",
+      "minecraft:gold_ingot",
+      "minecraft:aquamarine",
+      "silentgems:chaos_essence_block",
+      "minecraft:aquamarine",
+      "",
+      "minecraft:ender_pearl",
+      ""
+    ]
+  },
+  "silentgems:aquamarine_tiles": {
+    "result": "silentgems:aquamarine_tiles",
+    "count": 12,
+    "ingredients": [
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:aquamarine",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles"
+    ]
+  }
+}

@@ -1,0 +1,332 @@
+{
+  "cataclysm:azure_seastone": {
+    "result": "cataclysm:azure_seastone",
+    "count": 8,
+    "ingredients": [
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "cataclysm:lacrima",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone"
+    ]
+  },
+  "cataclysm:azure_seastone_bricks": {
+    "result": "cataclysm:azure_seastone_bricks",
+    "count": 4,
+    "ingredients": [
+      "cataclysm:polished_azure_seastone",
+      "cataclysm:polished_azure_seastone",
+      "",
+      "cataclysm:polished_azure_seastone",
+      "cataclysm:polished_azure_seastone",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "cataclysm:azure_seastone_brick_slab": {
+    "result": "cataclysm:azure_seastone_brick_slab",
+    "count": 6,
+    "ingredients": [
+      "cataclysm:azure_seastone_bricks",
+      "cataclysm:azure_seastone_bricks",
+      "cataclysm:azure_seastone_bricks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "cataclysm:azure_seastone_brick_stairs": {
+    "result": "cataclysm:azure_seastone_brick_stairs",
+    "count": 4,
+    "ingredients": [
+      "cataclysm:azure_seastone_bricks",
+      "",
+      "",
+      "cataclysm:azure_seastone_bricks",
+      "cataclysm:azure_seastone_bricks",
+      "",
+      "cataclysm:azure_seastone_bricks",
+      "cataclysm:azure_seastone_bricks",
+      "cataclysm:azure_seastone_bricks"
+    ]
+  },
+  "cataclysm:azure_seastone_brick_wall": {
+    "result": "cataclysm:azure_seastone_brick_wall",
+    "count": 6,
+    "ingredients": [
+      "cataclysm:azure_seastone_bricks",
+      "cataclysm:azure_seastone_bricks",
+      "cataclysm:azure_seastone_bricks",
+      "cataclysm:azure_seastone_bricks",
+      "cataclysm:azure_seastone_bricks",
+      "cataclysm:azure_seastone_bricks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "cataclysm:azure_seastone_mural_empty": {
+    "result": "cataclysm:azure_seastone_mural_empty",
+    "count": 6,
+    "ingredients": [
+      "",
+      "cataclysm:azure_seastone",
+      "",
+      "",
+      "cataclysm:azure_seastone",
+      "",
+      "",
+      "cataclysm:azure_seastone",
+      ""
+    ]
+  },
+  "cataclysm:azure_seastone_pillar": {
+    "result": "cataclysm:azure_seastone_pillar",
+    "count": 2,
+    "ingredients": [
+      "cataclysm:azure_seastone",
+      "",
+      "",
+      "cataclysm:azure_seastone",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "cataclysm:azure_seastone_pillar_wall": {
+    "result": "cataclysm:azure_seastone_pillar_wall",
+    "count": 6,
+    "ingredients": [
+      "cataclysm:azure_seastone_pillar",
+      "cataclysm:azure_seastone_pillar",
+      "cataclysm:azure_seastone_pillar",
+      "cataclysm:azure_seastone_pillar",
+      "cataclysm:azure_seastone_pillar",
+      "cataclysm:azure_seastone_pillar",
+      "",
+      "",
+      ""
+    ]
+  },
+  "cataclysm:azure_seastone_slab": {
+    "result": "cataclysm:azure_seastone_slab",
+    "count": 6,
+    "ingredients": [
+      "cataclysm:azure_seastone",
+      "cataclysm:azure_seastone",
+      "cataclysm:azure_seastone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "cataclysm:azure_seastone_stairs": {
+    "result": "cataclysm:azure_seastone_stairs",
+    "count": 4,
+    "ingredients": [
+      "cataclysm:azure_seastone",
+      "",
+      "",
+      "cataclysm:azure_seastone",
+      "cataclysm:azure_seastone",
+      "",
+      "cataclysm:azure_seastone",
+      "cataclysm:azure_seastone",
+      "cataclysm:azure_seastone"
+    ]
+  },
+  "cataclysm:azure_seastone_tiles": {
+    "result": "cataclysm:azure_seastone_tiles",
+    "count": 4,
+    "ingredients": [
+      "cataclysm:azure_seastone_bricks",
+      "cataclysm:azure_seastone_bricks",
+      "",
+      "cataclysm:azure_seastone_bricks",
+      "cataclysm:azure_seastone_bricks",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "cataclysm:azure_seastone_wall": {
+    "result": "cataclysm:azure_seastone_wall",
+    "count": 6,
+    "ingredients": [
+      "cataclysm:azure_seastone",
+      "cataclysm:azure_seastone",
+      "cataclysm:azure_seastone",
+      "cataclysm:azure_seastone",
+      "cataclysm:azure_seastone",
+      "cataclysm:azure_seastone",
+      "",
+      "",
+      ""
+    ]
+  },
+  "cataclysm:azure_sea_shield": {
+    "result": "cataclysm:azure_sea_shield",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_nugget",
+      "cataclysm:lacrima",
+      "minecraft:gold_nugget",
+      "cataclysm:lacrima",
+      "minecraft:gold_ingot",
+      "cataclysm:lacrima",
+      "minecraft:gold_nugget",
+      "cataclysm:lacrima",
+      "minecraft:gold_nugget"
+    ]
+  },
+  "mcwfences:azalea_hedge": {
+    "result": "mcwfences:azalea_hedge",
+    "count": 4,
+    "ingredients": [
+      "minecraft:azalea_leaves",
+      "minecraft:azalea_leaves",
+      "",
+      "minecraft:azalea_leaves",
+      "minecraft:azalea_leaves",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgear:azure_electrum_ingot": {
+    "result": "silentgear:azure_electrum_ingot",
+    "count": 1,
+    "ingredients": [
+      "silentgear:azure_electrum_nugget",
+      "silentgear:azure_electrum_nugget",
+      "silentgear:azure_electrum_nugget",
+      "silentgear:azure_electrum_nugget",
+      "silentgear:azure_electrum_nugget",
+      "silentgear:azure_electrum_nugget",
+      "silentgear:azure_electrum_nugget",
+      "silentgear:azure_electrum_nugget",
+      "silentgear:azure_electrum_nugget"
+    ]
+  },
+  "silentgear:azure_electrum_block": {
+    "result": "silentgear:azure_electrum_block",
+    "count": 1,
+    "ingredients": [
+      "silentgear:azure_electrum_ingot",
+      "silentgear:azure_electrum_ingot",
+      "silentgear:azure_electrum_ingot",
+      "silentgear:azure_electrum_ingot",
+      "silentgear:azure_electrum_ingot",
+      "silentgear:azure_electrum_ingot",
+      "silentgear:azure_electrum_ingot",
+      "silentgear:azure_electrum_ingot",
+      "silentgear:azure_electrum_ingot"
+    ]
+  },
+  "silentgear:azure_electrum_nugget": {
+    "result": "silentgear:azure_electrum_nugget",
+    "count": 9,
+    "ingredients": [
+      "silentgear:azure_electrum_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgear:azure_repair_kit": {
+    "result": "silentgear:azure_repair_kit",
+    "count": 1,
+    "ingredients": [
+      "silentgear:azure_repair_kit",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgear:azure_silver_ingot": {
+    "result": "silentgear:azure_silver_ingot",
+    "count": 1,
+    "ingredients": [
+      "silentgear:azure_silver_nugget",
+      "silentgear:azure_silver_nugget",
+      "silentgear:azure_silver_nugget",
+      "silentgear:azure_silver_nugget",
+      "silentgear:azure_silver_nugget",
+      "silentgear:azure_silver_nugget",
+      "silentgear:azure_silver_nugget",
+      "silentgear:azure_silver_nugget",
+      "silentgear:azure_silver_nugget"
+    ]
+  },
+  "silentgear:azure_silver_block": {
+    "result": "silentgear:azure_silver_block",
+    "count": 1,
+    "ingredients": [
+      "silentgear:azure_silver_ingot",
+      "silentgear:azure_silver_ingot",
+      "silentgear:azure_silver_ingot",
+      "silentgear:azure_silver_ingot",
+      "silentgear:azure_silver_ingot",
+      "silentgear:azure_silver_ingot",
+      "silentgear:azure_silver_ingot",
+      "silentgear:azure_silver_ingot",
+      "silentgear:azure_silver_ingot"
+    ]
+  },
+  "silentgear:azure_silver_nugget": {
+    "result": "silentgear:azure_silver_nugget",
+    "count": 9,
+    "ingredients": [
+      "silentgear:azure_silver_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xtonesreworked:azur_block_0": {
+    "result": "xtonesreworked:azur_block_0",
+    "count": 8,
+    "ingredients": [
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile",
+      "minecraft:blue",
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile"
+    ]
+  }
+}

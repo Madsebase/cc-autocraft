@@ -1,0 +1,872 @@
+{
+  "actuallyadditions:feeder": {
+    "result": "actuallyadditions:feeder",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "minecraft:golden_carrot",
+      "minecraft:oak_planks",
+      "actuallyadditions:basic_coil",
+      "actuallyadditions:wood_casing",
+      "actuallyadditions:basic_coil",
+      "minecraft:oak_planks",
+      "minecraft:golden_carrot",
+      "minecraft:oak_planks"
+    ]
+  },
+  "actuallyadditions:fermenting_barrel": {
+    "result": "actuallyadditions:fermenting_barrel",
+    "count": 1,
+    "ingredients": [
+      "actuallyadditions:fermenting_barrel",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "appflux:fe_16k_cell": {
+    "result": "appflux:fe_16k_cell",
+    "count": 1,
+    "ingredients": [
+      "appflux:fe_cell_housing",
+      "appflux:core_16k",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "appflux:fe_16m_cell": {
+    "result": "appflux:fe_16m_cell",
+    "count": 1,
+    "ingredients": [
+      "appflux:fe_cell_housing",
+      "appflux:core_16m",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "appflux:fe_1k_cell": {
+    "result": "appflux:fe_1k_cell",
+    "count": 1,
+    "ingredients": [
+      "appflux:fe_cell_housing",
+      "appflux:core_1k",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "appflux:fe_1m_cell": {
+    "result": "appflux:fe_1m_cell",
+    "count": 1,
+    "ingredients": [
+      "appflux:fe_cell_housing",
+      "appflux:core_1m",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "appflux:fe_256k_cell": {
+    "result": "appflux:fe_256k_cell",
+    "count": 1,
+    "ingredients": [
+      "appflux:fe_cell_housing",
+      "appflux:core_256k",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "appflux:fe_256m_cell": {
+    "result": "appflux:fe_256m_cell",
+    "count": 1,
+    "ingredients": [
+      "appflux:fe_cell_housing",
+      "appflux:core_256m",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "appflux:fe_4k_cell": {
+    "result": "appflux:fe_4k_cell",
+    "count": 1,
+    "ingredients": [
+      "appflux:fe_cell_housing",
+      "appflux:core_4k",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "appflux:fe_4m_cell": {
+    "result": "appflux:fe_4m_cell",
+    "count": 1,
+    "ingredients": [
+      "appflux:fe_cell_housing",
+      "appflux:core_4m",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "appflux:fe_64k_cell": {
+    "result": "appflux:fe_64k_cell",
+    "count": 1,
+    "ingredients": [
+      "appflux:fe_cell_housing",
+      "appflux:core_64k",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "appflux:fe_64m_cell": {
+    "result": "appflux:fe_64m_cell",
+    "count": 1,
+    "ingredients": [
+      "appflux:fe_cell_housing",
+      "appflux:core_64m",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "appflux:fe_cell_housing": {
+    "result": "appflux:fe_cell_housing",
+    "count": 1,
+    "ingredients": [
+      "ae2:quartz_glass",
+      "minecraft:redstone",
+      "ae2:quartz_glass",
+      "minecraft:redstone",
+      "",
+      "minecraft:redstone",
+      "modern_industrialization:tin_ingot",
+      "modern_industrialization:tin_ingot",
+      "modern_industrialization:tin_ingot"
+    ]
+  },
+  "appflux:fe_16k_portable_cell": {
+    "result": "appflux:fe_16k_portable_cell",
+    "count": 1,
+    "ingredients": [
+      "ae2:chest",
+      "appflux:core_16k",
+      "ae2:energy_cell",
+      "appflux:fe_cell_housing",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "appflux:fe_16m_portable_cell": {
+    "result": "appflux:fe_16m_portable_cell",
+    "count": 1,
+    "ingredients": [
+      "ae2:chest",
+      "appflux:core_16m",
+      "ae2:dense_energy_cell",
+      "appflux:fe_cell_housing",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "appflux:fe_1k_portable_cell": {
+    "result": "appflux:fe_1k_portable_cell",
+    "count": 1,
+    "ingredients": [
+      "ae2:chest",
+      "appflux:core_1k",
+      "ae2:energy_cell",
+      "appflux:fe_cell_housing",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "appflux:fe_1m_portable_cell": {
+    "result": "appflux:fe_1m_portable_cell",
+    "count": 1,
+    "ingredients": [
+      "ae2:chest",
+      "appflux:core_1m",
+      "ae2:dense_energy_cell",
+      "appflux:fe_cell_housing",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "appflux:fe_256k_portable_cell": {
+    "result": "appflux:fe_256k_portable_cell",
+    "count": 1,
+    "ingredients": [
+      "ae2:chest",
+      "appflux:core_256k",
+      "ae2:energy_cell",
+      "appflux:fe_cell_housing",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "appflux:fe_256m_portable_cell": {
+    "result": "appflux:fe_256m_portable_cell",
+    "count": 1,
+    "ingredients": [
+      "ae2:chest",
+      "appflux:core_256m",
+      "ae2:dense_energy_cell",
+      "appflux:fe_cell_housing",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "appflux:fe_4k_portable_cell": {
+    "result": "appflux:fe_4k_portable_cell",
+    "count": 1,
+    "ingredients": [
+      "ae2:chest",
+      "appflux:core_4k",
+      "ae2:energy_cell",
+      "appflux:fe_cell_housing",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "appflux:fe_4m_portable_cell": {
+    "result": "appflux:fe_4m_portable_cell",
+    "count": 1,
+    "ingredients": [
+      "ae2:chest",
+      "appflux:core_4m",
+      "ae2:dense_energy_cell",
+      "appflux:fe_cell_housing",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "appflux:fe_64k_portable_cell": {
+    "result": "appflux:fe_64k_portable_cell",
+    "count": 1,
+    "ingredients": [
+      "ae2:chest",
+      "appflux:core_64k",
+      "ae2:energy_cell",
+      "appflux:fe_cell_housing",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "appflux:fe_64m_portable_cell": {
+    "result": "appflux:fe_64m_portable_cell",
+    "count": 1,
+    "ingredients": [
+      "ae2:chest",
+      "appflux:core_64m",
+      "ae2:dense_energy_cell",
+      "appflux:fe_cell_housing",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "createaddition:festive_spool": {
+    "result": "createaddition:festive_spool",
+    "count": 1,
+    "ingredients": [
+      "createaddition:copper_spool",
+      "minecraft:redstone",
+      "createaddition:biomass",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "farmingforblockheads:feeding_trough": {
+    "result": "farmingforblockheads:feeding_trough",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "minecraft:golden_carrot",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:hay_block",
+      "minecraft:oak_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:fertilizer": {
+    "result": "immersiveengineering:fertilizer",
+    "count": 3,
+    "ingredients": [
+      "minecraft:saltpeter",
+      "minecraft:slag",
+      "minecraft:sulfur",
+      "minecraft:water",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "industrialforegoing:fermentation_station": {
+    "result": "industrialforegoing:fermentation_station",
+    "count": 1,
+    "ingredients": [
+      "minecraft:plastics",
+      "minecraft:oak_log",
+      "minecraft:plastics",
+      "minecraft:oak_log",
+      "minecraft:gold",
+      "minecraft:oak_log",
+      "minecraft:plastics",
+      "minecraft:simple",
+      "minecraft:plastics"
+    ]
+  },
+  "justdirethings:ferricore_axe": {
+    "result": "justdirethings:ferricore_axe",
+    "count": 1,
+    "ingredients": [
+      "justdirethings:ferricore_ingot",
+      "justdirethings:ferricore_ingot",
+      "",
+      "justdirethings:ferricore_ingot",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "justdirethings:ferricore_ingot": {
+    "result": "justdirethings:ferricore_ingot",
+    "count": 9,
+    "ingredients": [
+      "justdirethings:ferricore_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "justdirethings:ferricore_boots": {
+    "result": "justdirethings:ferricore_boots",
+    "count": 1,
+    "ingredients": [
+      "justdirethings:ferricore_ingot",
+      "",
+      "justdirethings:ferricore_ingot",
+      "justdirethings:ferricore_ingot",
+      "",
+      "justdirethings:ferricore_ingot",
+      "",
+      "",
+      ""
+    ]
+  },
+  "justdirethings:ferricore_chestplate": {
+    "result": "justdirethings:ferricore_chestplate",
+    "count": 1,
+    "ingredients": [
+      "justdirethings:ferricore_ingot",
+      "",
+      "justdirethings:ferricore_ingot",
+      "justdirethings:ferricore_ingot",
+      "justdirethings:ferricore_ingot",
+      "justdirethings:ferricore_ingot",
+      "justdirethings:ferricore_ingot",
+      "justdirethings:ferricore_ingot",
+      "justdirethings:ferricore_ingot"
+    ]
+  },
+  "justdirethings:ferricore_helmet": {
+    "result": "justdirethings:ferricore_helmet",
+    "count": 1,
+    "ingredients": [
+      "justdirethings:ferricore_ingot",
+      "justdirethings:ferricore_ingot",
+      "justdirethings:ferricore_ingot",
+      "justdirethings:ferricore_ingot",
+      "",
+      "justdirethings:ferricore_ingot",
+      "",
+      "",
+      ""
+    ]
+  },
+  "justdirethings:ferricore_hoe": {
+    "result": "justdirethings:ferricore_hoe",
+    "count": 1,
+    "ingredients": [
+      "justdirethings:ferricore_ingot",
+      "justdirethings:ferricore_ingot",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "justdirethings:ferricore_block": {
+    "result": "justdirethings:ferricore_block",
+    "count": 1,
+    "ingredients": [
+      "justdirethings:ferricore_ingot",
+      "justdirethings:ferricore_ingot",
+      "justdirethings:ferricore_ingot",
+      "justdirethings:ferricore_ingot",
+      "justdirethings:ferricore_ingot",
+      "justdirethings:ferricore_ingot",
+      "justdirethings:ferricore_ingot",
+      "justdirethings:ferricore_ingot",
+      "justdirethings:ferricore_ingot"
+    ]
+  },
+  "justdirethings:ferricore_leggings": {
+    "result": "justdirethings:ferricore_leggings",
+    "count": 1,
+    "ingredients": [
+      "justdirethings:ferricore_ingot",
+      "justdirethings:ferricore_ingot",
+      "justdirethings:ferricore_ingot",
+      "justdirethings:ferricore_ingot",
+      "",
+      "justdirethings:ferricore_ingot",
+      "justdirethings:ferricore_ingot",
+      "",
+      "justdirethings:ferricore_ingot"
+    ]
+  },
+  "justdirethings:ferricore_pickaxe": {
+    "result": "justdirethings:ferricore_pickaxe",
+    "count": 1,
+    "ingredients": [
+      "justdirethings:ferricore_ingot",
+      "justdirethings:ferricore_ingot",
+      "justdirethings:ferricore_ingot",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "justdirethings:ferricore_shovel": {
+    "result": "justdirethings:ferricore_shovel",
+    "count": 1,
+    "ingredients": [
+      "",
+      "justdirethings:ferricore_ingot",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "justdirethings:ferricore_sword": {
+    "result": "justdirethings:ferricore_sword",
+    "count": 1,
+    "ingredients": [
+      "",
+      "justdirethings:ferricore_ingot",
+      "",
+      "",
+      "justdirethings:ferricore_ingot",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "justdirethings:ferricore_wrench": {
+    "result": "justdirethings:ferricore_wrench",
+    "count": 1,
+    "ingredients": [
+      "",
+      "justdirethings:ferricore_ingot",
+      "",
+      "",
+      "justdirethings:ferricore_ingot",
+      "justdirethings:ferricore_ingot",
+      "justdirethings:ferricore_ingot",
+      "",
+      ""
+    ]
+  },
+  "mcwlights:festive_lantern": {
+    "result": "mcwlights:festive_lantern",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_nugget",
+      "",
+      "minecraft:iron_nugget",
+      "minecraft:iron_nugget",
+      "minecraft:torch",
+      "minecraft:iron_nugget",
+      "minecraft:iron_nugget",
+      "",
+      "minecraft:iron_nugget"
+    ]
+  },
+  "mcwlights:festive_wall_lantern": {
+    "result": "mcwlights:festive_wall_lantern",
+    "count": 1,
+    "ingredients": [
+      "minecraft:wooden_fences",
+      "mcwlights:festive_lantern",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecolonies:feta_cheese": {
+    "result": "minecolonies:feta_cheese",
+    "count": 1,
+    "ingredients": [
+      "minecolonies:large_milk_bottle",
+      "minecolonies:large_milk_bottle",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:feather": {
+    "result": "minecraft:feather",
+    "count": 9,
+    "ingredients": [
+      "supplementaries:feather_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:fermented_spider_eye": {
+    "result": "minecraft:fermented_spider_eye",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spider_eye",
+      "minecraft:brown_mushroom",
+      "minecraft:sugar",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "oritech:fertilizer_block": {
+    "result": "oritech:fertilizer_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "minecraft:silicon",
+      "oritech:processing_unit",
+      "minecraft:silicon",
+      "oritech:motor",
+      "minecraft:plating",
+      "oritech:motor"
+    ]
+  },
+  "pamhc2foodextended:festivalbreaditem": {
+    "result": "pamhc2foodextended:festivalbreaditem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:dough",
+      "minecraft:cookingoil",
+      "minecraft:sugar",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivebees:feeder": {
+    "result": "productivebees:feeder",
+    "count": 1,
+    "ingredients": [
+      "minecraft:smooth_stone_slab",
+      "",
+      "",
+      "minecraft:chest",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:feed_station": {
+    "result": "railcraft:feed_station",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "minecraft:golden_carrot",
+      "minecraft:oak_planks",
+      "minecraft:golden_carrot",
+      "minecraft:steel",
+      "minecraft:golden_carrot",
+      "minecraft:oak_planks",
+      "minecraft:golden_carrot",
+      "minecraft:oak_planks"
+    ]
+  },
+  "reliquary:fertile_essence": {
+    "result": "reliquary:fertile_essence",
+    "count": 1,
+    "ingredients": [
+      "reliquary:rib_bone",
+      "reliquary:catalyzing_gland",
+      "minecraft:green",
+      "reliquary:slime_pearl",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "reliquary:fertile_lily_pad": {
+    "result": "reliquary:fertile_lily_pad",
+    "count": 1,
+    "ingredients": [
+      "reliquary:fertile_essence",
+      "reliquary:fertile_essence",
+      "reliquary:fertile_essence",
+      "minecraft:lily_pad",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "reliquary:fertile_potion": {
+    "result": "reliquary:fertile_potion",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:water_bucket",
+      "minecraft:glass",
+      "minecraft:glass",
+      "reliquary:fertile_essence",
+      "minecraft:glass",
+      "minecraft:green",
+      "minecraft:glass",
+      "minecraft:yellow"
+    ]
+  },
+  "rftoolsutility:featherfallingplus_module": {
+    "result": "rftoolsutility:featherfallingplus_module",
+    "count": 1,
+    "ingredients": [
+      "minecraft:feather",
+      "rftoolsutility:featherfalling_module",
+      "minecraft:feather",
+      "rftoolsbase:infused_diamond",
+      "rftoolsutility:moduleplus_template",
+      "rftoolsbase:infused_diamond",
+      "minecraft:feather",
+      "rftoolsbase:infused_diamond",
+      "minecraft:feather"
+    ]
+  },
+  "sophisticatedbackpacks:feeding_upgrade": {
+    "result": "sophisticatedbackpacks:feeding_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:string",
+      "sophisticatedstorage:feeding_upgrade",
+      "minecraft:string",
+      "",
+      "minecraft:leather",
+      "",
+      "minecraft:string",
+      "",
+      "minecraft:string"
+    ]
+  },
+  "sophisticatedstorage:feeding_upgrade": {
+    "result": "sophisticatedstorage:feeding_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "sophisticatedbackpacks:feeding_upgrade",
+      "minecraft:oak_planks",
+      "",
+      "minecraft:oak_planks",
+      "",
+      "minecraft:oak_planks",
+      "",
+      "minecraft:oak_planks"
+    ]
+  },
+  "supplementaries:feather_block": {
+    "result": "supplementaries:feather_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:feather",
+      "minecraft:feather",
+      "minecraft:feather",
+      "minecraft:feather",
+      "minecraft:feather",
+      "minecraft:feather",
+      "minecraft:feather",
+      "minecraft:feather",
+      "minecraft:feather"
+    ]
+  },
+  "sushigocrafting:fermentation_barrel": {
+    "result": "sushigocrafting:fermentation_barrel",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "minecraft:wooden_pressure_plates",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:furnace",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks"
+    ]
+  },
+  "theurgy:fermentation_vat": {
+    "result": "theurgy:fermentation_vat",
+    "count": 1,
+    "ingredients": [
+      "minecraft:copper_ingot",
+      "minecraft:alchemical_sulfurs",
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "minecraft:wooden",
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "minecraft:copper",
+      "minecraft:copper_ingot"
+    ]
+  },
+  "torchmaster:feral_flare_lantern": {
+    "result": "torchmaster:feral_flare_lantern",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:gold_ingot",
+      "",
+      "minecraft:glass",
+      "minecraft:stone",
+      "minecraft:glass",
+      "",
+      "minecraft:gold_ingot",
+      ""
+    ]
+  }
+}

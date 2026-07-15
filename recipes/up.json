@@ -1,0 +1,1787 @@
+{
+  "ironfurnaces:upgrade_allthemodium": {
+    "result": "ironfurnaces:upgrade_allthemodium",
+    "count": 1,
+    "ingredients": [
+      "minecraft:allthemodium",
+      "minecraft:allthemodium",
+      "minecraft:allthemodium",
+      "minecraft:allthemodium",
+      "minecraft:netherite_upgrade_crafting",
+      "minecraft:allthemodium",
+      "minecraft:allthemodium",
+      "minecraft:allthemodium",
+      "minecraft:allthemodium"
+    ]
+  },
+  "ironfurnaces:upgrade_copper": {
+    "result": "ironfurnaces:upgrade_copper",
+    "count": 1,
+    "ingredients": [
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "minecraft:stone",
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot"
+    ]
+  },
+  "ironfurnaces:upgrade_crystal": {
+    "result": "ironfurnaces:upgrade_crystal",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:diamond",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:ender_eye",
+      "minecraft:glass"
+    ]
+  },
+  "ironfurnaces:upgrade_diamond": {
+    "result": "ironfurnaces:upgrade_diamond",
+    "count": 1,
+    "ingredients": [
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:glass",
+      "minecraft:gold_ingot",
+      "minecraft:glass",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond"
+    ]
+  },
+  "ironfurnaces:upgrade_emerald": {
+    "result": "ironfurnaces:upgrade_emerald",
+    "count": 1,
+    "ingredients": [
+      "minecraft:emerald",
+      "minecraft:emerald",
+      "minecraft:emerald",
+      "minecraft:emerald",
+      "minecraft:diamond",
+      "minecraft:emerald",
+      "minecraft:emerald",
+      "minecraft:emerald",
+      "minecraft:emerald"
+    ]
+  },
+  "ironfurnaces:upgrade_gold": {
+    "result": "ironfurnaces:upgrade_gold",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold",
+      "minecraft:gold_ingot"
+    ]
+  },
+  "ironfurnaces:upgrade_gold2": {
+    "result": "ironfurnaces:upgrade_gold2",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "modern_industrialization:silver_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold",
+      "minecraft:gold_ingot"
+    ]
+  },
+  "ironfurnaces:upgrade_iron": {
+    "result": "ironfurnaces:upgrade_iron",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:stone",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "ironfurnaces:upgrade_iron2": {
+    "result": "ironfurnaces:upgrade_iron2",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:glass",
+      "minecraft:copper_ingot",
+      "minecraft:glass",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "ironfurnaces:upgrade_netherite": {
+    "result": "ironfurnaces:upgrade_netherite",
+    "count": 1,
+    "ingredients": [
+      "minecraft:netherite_ingot",
+      "minecraft:magma_cream",
+      "minecraft:netherite_ingot",
+      "minecraft:magma_cream",
+      "minecraft:obsidians",
+      "minecraft:magma_cream",
+      "minecraft:netherite_ingot",
+      "minecraft:soul_fire_base_blocks",
+      "minecraft:netherite_ingot"
+    ]
+  },
+  "ironfurnaces:upgrade_obsidian": {
+    "result": "ironfurnaces:upgrade_obsidian",
+    "count": 1,
+    "ingredients": [
+      "minecraft:obsidians",
+      "minecraft:blaze",
+      "minecraft:obsidians",
+      "minecraft:blaze",
+      "minecraft:emerald",
+      "minecraft:blaze",
+      "minecraft:obsidians",
+      "minecraft:blaze",
+      "minecraft:obsidians"
+    ]
+  },
+  "ironfurnaces:upgrade_obsidian2": {
+    "result": "ironfurnaces:upgrade_obsidian2",
+    "count": 1,
+    "ingredients": [
+      "minecraft:obsidians",
+      "minecraft:blaze",
+      "minecraft:obsidians",
+      "minecraft:blaze",
+      "minecraft:glass",
+      "minecraft:blaze",
+      "minecraft:obsidians",
+      "minecraft:blaze",
+      "minecraft:obsidians"
+    ]
+  },
+  "ironfurnaces:upgrade_silver": {
+    "result": "ironfurnaces:upgrade_silver",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot",
+      "minecraft:stone",
+      "modern_industrialization:silver_ingot",
+      "modern_industrialization:silver_ingot",
+      "minecraft:copper_ingot",
+      "modern_industrialization:silver_ingot"
+    ]
+  },
+  "ironfurnaces:upgrade_silver2": {
+    "result": "ironfurnaces:upgrade_silver2",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:silver_ingot",
+      "minecraft:glass",
+      "modern_industrialization:silver_ingot",
+      "minecraft:glass",
+      "minecraft:iron_ingot",
+      "minecraft:glass",
+      "modern_industrialization:silver_ingot",
+      "minecraft:glass",
+      "modern_industrialization:silver_ingot"
+    ]
+  },
+  "ironfurnaces:upgrade_unobtainium": {
+    "result": "ironfurnaces:upgrade_unobtainium",
+    "count": 1,
+    "ingredients": [
+      "minecraft:unobtainium",
+      "minecraft:unobtainium",
+      "minecraft:unobtainium",
+      "minecraft:unobtainium",
+      "minecraft:vibranium",
+      "minecraft:unobtainium",
+      "minecraft:unobtainium",
+      "minecraft:unobtainium",
+      "minecraft:unobtainium"
+    ]
+  },
+  "ironfurnaces:upgrade_vibranium": {
+    "result": "ironfurnaces:upgrade_vibranium",
+    "count": 1,
+    "ingredients": [
+      "minecraft:vibranium",
+      "minecraft:vibranium",
+      "minecraft:vibranium",
+      "minecraft:vibranium",
+      "minecraft:allthemodium",
+      "minecraft:vibranium",
+      "minecraft:vibranium",
+      "minecraft:vibranium",
+      "minecraft:vibranium"
+    ]
+  },
+  "irons_spellbooks:upgrade_orb": {
+    "result": "irons_spellbooks:upgrade_orb",
+    "count": 1,
+    "ingredients": [
+      "irons_spellbooks:arcane_ingot",
+      "irons_spellbooks:cinder_essence",
+      "irons_spellbooks:arcane_ingot",
+      "irons_spellbooks:cinder_essence",
+      "minecraft:mithril_material",
+      "irons_spellbooks:cinder_essence",
+      "irons_spellbooks:arcane_ingot",
+      "irons_spellbooks:cinder_essence",
+      "irons_spellbooks:arcane_ingot"
+    ]
+  },
+  "justdirethings:upgrade_blank": {
+    "result": "justdirethings:upgrade_blank",
+    "count": 1,
+    "ingredients": [
+      "",
+      "justdirethings:ferricore_ingot",
+      "",
+      "justdirethings:ferricore_ingot",
+      "",
+      "justdirethings:ferricore_ingot",
+      "",
+      "justdirethings:ferricore_ingot",
+      ""
+    ]
+  },
+  "justdirethings:upgrade_cauterizewounds": {
+    "result": "justdirethings:upgrade_cauterizewounds",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:golden_apple",
+      "",
+      "minecraft:magma_cream",
+      "justdirethings:upgrade_blank",
+      "minecraft:magma_cream",
+      "",
+      "minecraft:golden_apple",
+      ""
+    ]
+  },
+  "justdirethings:upgrade_deathprotection": {
+    "result": "justdirethings:upgrade_deathprotection",
+    "count": 1,
+    "ingredients": [
+      "justdirethings:time_crystal",
+      "minecraft:emerald",
+      "justdirethings:time_crystal",
+      "minecraft:totem_of_undying",
+      "justdirethings:upgrade_blank",
+      "minecraft:totem_of_undying",
+      "justdirethings:time_crystal",
+      "minecraft:emerald",
+      "justdirethings:time_crystal"
+    ]
+  },
+  "justdirethings:upgrade_debuffremover": {
+    "result": "justdirethings:upgrade_debuffremover",
+    "count": 1,
+    "ingredients": [
+      "minecraft:milk_bucket",
+      "minecraft:honey_bottle",
+      "minecraft:milk_bucket",
+      "minecraft:golden_apple",
+      "justdirethings:upgrade_blank",
+      "minecraft:golden_apple",
+      "minecraft:milk_bucket",
+      "minecraft:honey_bottle",
+      "minecraft:milk_bucket"
+    ]
+  },
+  "justdirethings:upgrade_decoy": {
+    "result": "justdirethings:upgrade_decoy",
+    "count": 1,
+    "ingredients": [
+      "minecraft:phantom_membrane",
+      "minecraft:wither_skeleton_skull",
+      "minecraft:phantom_membrane",
+      "minecraft:armor_stand",
+      "justdirethings:upgrade_blank",
+      "minecraft:armor_stand",
+      "minecraft:phantom_membrane",
+      "minecraft:wither_skeleton_skull",
+      "minecraft:phantom_membrane"
+    ]
+  },
+  "justdirethings:upgrade_dropteleport": {
+    "result": "justdirethings:upgrade_dropteleport",
+    "count": 1,
+    "ingredients": [
+      "minecraft:ender_pearl",
+      "minecraft:ender_chest",
+      "minecraft:ender_pearl",
+      "minecraft:amethyst_shard",
+      "justdirethings:upgrade_blank",
+      "minecraft:amethyst_shard",
+      "minecraft:ender_pearl",
+      "minecraft:ender_chest",
+      "minecraft:ender_pearl"
+    ]
+  },
+  "justdirethings:upgrade_earthquake": {
+    "result": "justdirethings:upgrade_earthquake",
+    "count": 1,
+    "ingredients": [
+      "minecraft:soul_sand",
+      "minecraft:fermented_spider_eye",
+      "minecraft:soul_sand",
+      "minecraft:sticky_piston",
+      "justdirethings:upgrade_blank",
+      "minecraft:sticky_piston",
+      "minecraft:soul_sand",
+      "minecraft:fermented_spider_eye",
+      "minecraft:soul_sand"
+    ]
+  },
+  "justdirethings:upgrade_elytra": {
+    "result": "justdirethings:upgrade_elytra",
+    "count": 1,
+    "ingredients": [
+      "justdirethings:upgrade_blank",
+      "minecraft:elytra",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "justdirethings:upgrade_epicarrow": {
+    "result": "justdirethings:upgrade_epicarrow",
+    "count": 1,
+    "ingredients": [
+      "minecraft:ender_eye",
+      "minecraft:nether_star",
+      "minecraft:ender_eye",
+      "minecraft:phantom_membrane",
+      "justdirethings:upgrade_blank",
+      "minecraft:phantom_membrane",
+      "minecraft:ender_eye",
+      "minecraft:nether_star",
+      "minecraft:ender_eye"
+    ]
+  },
+  "justdirethings:upgrade_extinguish": {
+    "result": "justdirethings:upgrade_extinguish",
+    "count": 1,
+    "ingredients": [
+      "minecraft:magma_cream",
+      "minecraft:blaze_rod",
+      "minecraft:magma_cream",
+      "minecraft:water_bucket",
+      "justdirethings:upgrade_blank",
+      "minecraft:water_bucket",
+      "minecraft:magma_cream",
+      "minecraft:blaze_rod",
+      "minecraft:magma_cream"
+    ]
+  },
+  "justdirethings:upgrade_flight": {
+    "result": "justdirethings:upgrade_flight",
+    "count": 1,
+    "ingredients": [
+      "minecraft:phantom_membrane",
+      "minecraft:end_crystal",
+      "minecraft:phantom_membrane",
+      "minecraft:feather",
+      "justdirethings:upgrade_blank",
+      "minecraft:feather",
+      "minecraft:phantom_membrane",
+      "minecraft:end_crystal",
+      "minecraft:phantom_membrane"
+    ]
+  },
+  "justdirethings:upgrade_glowing": {
+    "result": "justdirethings:upgrade_glowing",
+    "count": 1,
+    "ingredients": [
+      "minecraft:end_rod",
+      "minecraft:calibrated_sculk_sensor",
+      "minecraft:end_rod",
+      "minecraft:sculk_shrieker",
+      "justdirethings:upgrade_blank",
+      "minecraft:sculk_shrieker",
+      "minecraft:end_rod",
+      "minecraft:calibrated_sculk_sensor",
+      "minecraft:end_rod"
+    ]
+  },
+  "justdirethings:upgrade_groundstomp": {
+    "result": "justdirethings:upgrade_groundstomp",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:piston",
+      "",
+      "minecraft:slime_block",
+      "justdirethings:upgrade_blank",
+      "minecraft:slime_block",
+      "",
+      "minecraft:piston",
+      ""
+    ]
+  },
+  "justdirethings:upgrade_hammer": {
+    "result": "justdirethings:upgrade_hammer",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "minecraft:diamond_pickaxe",
+      "justdirethings:upgrade_blank",
+      "minecraft:diamond_pickaxe",
+      "",
+      "",
+      ""
+    ]
+  },
+  "justdirethings:upgrade_homing": {
+    "result": "justdirethings:upgrade_homing",
+    "count": 1,
+    "ingredients": [
+      "minecraft:ender_eye",
+      "",
+      "minecraft:ender_eye",
+      "minecraft:target",
+      "justdirethings:upgrade_blank",
+      "minecraft:target",
+      "minecraft:ender_eye",
+      "",
+      "minecraft:ender_eye"
+    ]
+  },
+  "justdirethings:upgrade_instabreak": {
+    "result": "justdirethings:upgrade_instabreak",
+    "count": 1,
+    "ingredients": [
+      "justdirethings:time_crystal",
+      "minecraft:nether_star",
+      "justdirethings:time_crystal",
+      "minecraft:netherite_pickaxe",
+      "justdirethings:upgrade_blank",
+      "minecraft:netherite_pickaxe",
+      "justdirethings:time_crystal",
+      "minecraft:nether_star",
+      "justdirethings:time_crystal"
+    ]
+  },
+  "justdirethings:upgrade_invulnerability": {
+    "result": "justdirethings:upgrade_invulnerability",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:shield",
+      "",
+      "minecraft:diamond_chestplate",
+      "justdirethings:upgrade_blank",
+      "minecraft:diamond_chestplate",
+      "",
+      "minecraft:shield",
+      ""
+    ]
+  },
+  "justdirethings:upgrade_jumpboost": {
+    "result": "justdirethings:upgrade_jumpboost",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "minecraft:piston",
+      "justdirethings:upgrade_blank",
+      "minecraft:piston",
+      "",
+      "",
+      ""
+    ]
+  },
+  "justdirethings:upgrade_lavaimmunity": {
+    "result": "justdirethings:upgrade_lavaimmunity",
+    "count": 1,
+    "ingredients": [
+      "minecraft:netherite_scrap",
+      "minecraft:lava_bucket",
+      "minecraft:netherite_scrap",
+      "minecraft:magma_cream",
+      "justdirethings:upgrade_blank",
+      "minecraft:magma_cream",
+      "minecraft:netherite_scrap",
+      "minecraft:lava_bucket",
+      "minecraft:netherite_scrap"
+    ]
+  },
+  "justdirethings:upgrade_lawnmower": {
+    "result": "justdirethings:upgrade_lawnmower",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "minecraft:short_grass",
+      "justdirethings:upgrade_blank",
+      "minecraft:short_grass",
+      "",
+      "",
+      ""
+    ]
+  },
+  "justdirethings:upgrade_leafbreaker": {
+    "result": "justdirethings:upgrade_leafbreaker",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "minecraft:leaves",
+      "justdirethings:upgrade_blank",
+      "minecraft:leaves",
+      "",
+      "",
+      ""
+    ]
+  },
+  "justdirethings:upgrade_lingering": {
+    "result": "justdirethings:upgrade_lingering",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dragon_breath",
+      "",
+      "minecraft:dragon_breath",
+      "minecraft:glass_bottle",
+      "justdirethings:upgrade_blank",
+      "minecraft:glass_bottle",
+      "minecraft:dragon_breath",
+      "",
+      "minecraft:dragon_breath"
+    ]
+  },
+  "justdirethings:upgrade_mindfog": {
+    "result": "justdirethings:upgrade_mindfog",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:lapis_lazuli",
+      "",
+      "minecraft:fermented_spider_eye",
+      "justdirethings:upgrade_blank",
+      "minecraft:fermented_spider_eye",
+      "",
+      "minecraft:lapis_lazuli",
+      ""
+    ]
+  },
+  "justdirethings:upgrade_mobscanner": {
+    "result": "justdirethings:upgrade_mobscanner",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:spider_eye",
+      "",
+      "minecraft:amethyst_shard",
+      "justdirethings:upgrade_blank",
+      "minecraft:amethyst_shard",
+      "",
+      "minecraft:spider_eye",
+      ""
+    ]
+  },
+  "justdirethings:upgrade_negatefalldamage": {
+    "result": "justdirethings:upgrade_negatefalldamage",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:leather",
+      "",
+      "minecraft:white_wool",
+      "justdirethings:upgrade_blank",
+      "minecraft:white_wool",
+      "",
+      "minecraft:leather",
+      ""
+    ]
+  },
+  "justdirethings:upgrade_nightvision": {
+    "result": "justdirethings:upgrade_nightvision",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:ender_eye",
+      "",
+      "minecraft:golden_carrot",
+      "justdirethings:upgrade_blank",
+      "minecraft:golden_carrot",
+      "",
+      "minecraft:ender_eye",
+      ""
+    ]
+  },
+  "justdirethings:upgrade_noai": {
+    "result": "justdirethings:upgrade_noai",
+    "count": 1,
+    "ingredients": [
+      "minecraft:calibrated_sculk_sensor",
+      "minecraft:end_rod",
+      "minecraft:calibrated_sculk_sensor",
+      "justdirethings:time_crystal",
+      "justdirethings:upgrade_blank",
+      "justdirethings:time_crystal",
+      "minecraft:calibrated_sculk_sensor",
+      "minecraft:end_rod",
+      "minecraft:calibrated_sculk_sensor"
+    ]
+  },
+  "justdirethings:upgrade_oreminer": {
+    "result": "justdirethings:upgrade_oreminer",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "minecraft:iron_pickaxe",
+      "justdirethings:upgrade_blank",
+      "minecraft:iron_pickaxe",
+      "",
+      "",
+      ""
+    ]
+  },
+  "justdirethings:upgrade_orescanner": {
+    "result": "justdirethings:upgrade_orescanner",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:redstone",
+      "",
+      "minecraft:amethyst_shard",
+      "justdirethings:upgrade_blank",
+      "minecraft:amethyst_shard",
+      "",
+      "minecraft:redstone",
+      ""
+    ]
+  },
+  "justdirethings:upgrade_orexray": {
+    "result": "justdirethings:upgrade_orexray",
+    "count": 1,
+    "ingredients": [
+      "minecraft:ender_eye",
+      "minecraft:calibrated_sculk_sensor",
+      "minecraft:ender_eye",
+      "minecraft:sculk_shrieker",
+      "justdirethings:upgrade_blank",
+      "minecraft:sculk_shrieker",
+      "minecraft:ender_eye",
+      "minecraft:calibrated_sculk_sensor",
+      "minecraft:ender_eye"
+    ]
+  },
+  "justdirethings:upgrade_phase": {
+    "result": "justdirethings:upgrade_phase",
+    "count": 1,
+    "ingredients": [
+      "minecraft:shulker_shell",
+      "minecraft:phantom_membrane",
+      "minecraft:shulker_shell",
+      "minecraft:dragon_breath",
+      "justdirethings:upgrade_blank",
+      "minecraft:dragon_breath",
+      "minecraft:shulker_shell",
+      "minecraft:phantom_membrane",
+      "minecraft:shulker_shell"
+    ]
+  },
+  "justdirethings:upgrade_potionarrow": {
+    "result": "justdirethings:upgrade_potionarrow",
+    "count": 1,
+    "ingredients": [
+      "minecraft:nether_wart",
+      "",
+      "minecraft:nether_wart",
+      "minecraft:glass_bottle",
+      "justdirethings:upgrade_blank",
+      "minecraft:glass_bottle",
+      "minecraft:nether_wart",
+      "",
+      "minecraft:nether_wart"
+    ]
+  },
+  "justdirethings:upgrade_runspeed": {
+    "result": "justdirethings:upgrade_runspeed",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:potato",
+      "",
+      "minecraft:sugar",
+      "justdirethings:upgrade_blank",
+      "minecraft:sugar",
+      "",
+      "minecraft:potato",
+      ""
+    ]
+  },
+  "justdirethings:upgrade_skysweeper": {
+    "result": "justdirethings:upgrade_skysweeper",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:sand",
+      "",
+      "minecraft:gravel",
+      "justdirethings:upgrade_blank",
+      "minecraft:gravel",
+      "",
+      "minecraft:sand",
+      ""
+    ]
+  },
+  "justdirethings:upgrade_smelter": {
+    "result": "justdirethings:upgrade_smelter",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:blaze_rod",
+      "",
+      "minecraft:blast_furnace",
+      "justdirethings:upgrade_blank",
+      "minecraft:blast_furnace",
+      "",
+      "minecraft:blaze_rod",
+      ""
+    ]
+  },
+  "justdirethings:upgrade_smoker": {
+    "result": "justdirethings:upgrade_smoker",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:blaze_rod",
+      "",
+      "minecraft:smoker",
+      "justdirethings:upgrade_blank",
+      "minecraft:smoker",
+      "",
+      "minecraft:blaze_rod",
+      ""
+    ]
+  },
+  "justdirethings:upgrade_splash": {
+    "result": "justdirethings:upgrade_splash",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gunpowder",
+      "",
+      "minecraft:gunpowder",
+      "minecraft:glass_bottle",
+      "justdirethings:upgrade_blank",
+      "minecraft:glass_bottle",
+      "minecraft:gunpowder",
+      "",
+      "minecraft:gunpowder"
+    ]
+  },
+  "justdirethings:upgrade_stepheight": {
+    "result": "justdirethings:upgrade_stepheight",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:ladder",
+      "",
+      "minecraft:ladder",
+      "justdirethings:upgrade_blank",
+      "minecraft:ladder",
+      "",
+      "minecraft:ladder",
+      ""
+    ]
+  },
+  "justdirethings:upgrade_stupefy": {
+    "result": "justdirethings:upgrade_stupefy",
+    "count": 1,
+    "ingredients": [
+      "minecraft:ender_eye",
+      "minecraft:poisonous_potato",
+      "minecraft:ender_eye",
+      "minecraft:fermented_spider_eye",
+      "justdirethings:upgrade_blank",
+      "minecraft:fermented_spider_eye",
+      "minecraft:ender_eye",
+      "minecraft:poisonous_potato",
+      "minecraft:ender_eye"
+    ]
+  },
+  "justdirethings:upgrade_swimspeed": {
+    "result": "justdirethings:upgrade_swimspeed",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:kelp",
+      "",
+      "minecraft:sugar",
+      "justdirethings:upgrade_blank",
+      "minecraft:sugar",
+      "",
+      "minecraft:kelp",
+      ""
+    ]
+  },
+  "justdirethings:upgrade_time_protection": {
+    "result": "justdirethings:upgrade_time_protection",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:shield",
+      "",
+      "justdirethings:time_crystal",
+      "justdirethings:upgrade_blank",
+      "justdirethings:time_crystal",
+      "",
+      "minecraft:shield",
+      ""
+    ]
+  },
+  "justdirethings:upgrade_treefeller": {
+    "result": "justdirethings:upgrade_treefeller",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "minecraft:diamond_axe",
+      "justdirethings:upgrade_blank",
+      "minecraft:diamond_axe",
+      "",
+      "",
+      ""
+    ]
+  },
+  "justdirethings:upgrade_walkspeed": {
+    "result": "justdirethings:upgrade_walkspeed",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:carrot",
+      "",
+      "minecraft:sugar",
+      "justdirethings:upgrade_blank",
+      "minecraft:sugar",
+      "",
+      "minecraft:carrot",
+      ""
+    ]
+  },
+  "justdirethings:upgrade_waterbreathing": {
+    "result": "justdirethings:upgrade_waterbreathing",
+    "count": 1,
+    "ingredients": [
+      "minecraft:prismarine_shard",
+      "minecraft:kelp",
+      "minecraft:pufferfish",
+      "justdirethings:blazegold_ingot",
+      "justdirethings:upgrade_blank",
+      "justdirethings:blazegold_ingot",
+      "minecraft:pufferfish",
+      "minecraft:kelp",
+      "minecraft:prismarine_shard"
+    ]
+  },
+  "mcwlights:upgraded_torch": {
+    "result": "mcwlights:upgraded_torch",
+    "count": 4,
+    "ingredients": [
+      "minecraft:iron_nugget",
+      "minecraft:coal",
+      "minecraft:iron_nugget",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mekanism:upgrade_anchor": {
+    "result": "mekanism:upgrade_anchor",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:glass",
+      "",
+      "minecraft:infused",
+      "minecraft:diamond",
+      "minecraft:infused",
+      "",
+      "minecraft:glass",
+      ""
+    ]
+  },
+  "mekanism:upgrade_chemical": {
+    "result": "mekanism:upgrade_chemical",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:glass",
+      "",
+      "minecraft:infused",
+      "minecraft:iron",
+      "minecraft:infused",
+      "",
+      "minecraft:glass",
+      ""
+    ]
+  },
+  "mekanism:upgrade_energy": {
+    "result": "mekanism:upgrade_energy",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:glass",
+      "",
+      "minecraft:infused",
+      "minecraft:gold",
+      "minecraft:infused",
+      "",
+      "minecraft:glass",
+      ""
+    ]
+  },
+  "mekanism:upgrade_filter": {
+    "result": "mekanism:upgrade_filter",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:glass",
+      "",
+      "minecraft:infused",
+      "minecraft:tin",
+      "minecraft:infused",
+      "",
+      "minecraft:glass",
+      ""
+    ]
+  },
+  "mekanism:upgrade_muffling": {
+    "result": "mekanism:upgrade_muffling",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:white_wool",
+      "",
+      "minecraft:white_wool",
+      "minecraft:muffling_center",
+      "minecraft:white_wool",
+      "",
+      "minecraft:white_wool",
+      ""
+    ]
+  },
+  "mekanism:upgrade_speed": {
+    "result": "mekanism:upgrade_speed",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:glass",
+      "",
+      "minecraft:infused",
+      "minecraft:osmium",
+      "minecraft:infused",
+      "",
+      "minecraft:glass",
+      ""
+    ]
+  },
+  "mekanism:upgrade_stone_generator": {
+    "result": "mekanism:upgrade_stone_generator",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:glass",
+      "",
+      "minecraft:water",
+      "minecraft:infused",
+      "minecraft:lava",
+      "",
+      "minecraft:glass",
+      ""
+    ]
+  },
+  "mininggadgets:upgrade_battery_1": {
+    "result": "mininggadgets:upgrade_battery_1",
+    "count": 1,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "mininggadgets:upgrade_empty",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz"
+    ]
+  },
+  "mininggadgets:upgrade_battery_2": {
+    "result": "mininggadgets:upgrade_battery_2",
+    "count": 1,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz_block",
+      "minecraft:quartz",
+      "minecraft:iron_ingot",
+      "mininggadgets:upgrade_battery_1",
+      "minecraft:iron_ingot",
+      "minecraft:quartz",
+      "minecraft:quartz_block",
+      "minecraft:quartz"
+    ]
+  },
+  "mininggadgets:upgrade_battery_3": {
+    "result": "mininggadgets:upgrade_battery_3",
+    "count": 1,
+    "ingredients": [
+      "minecraft:quartz_block",
+      "minecraft:quartz",
+      "minecraft:quartz_block",
+      "minecraft:gold_ingot",
+      "mininggadgets:upgrade_battery_2",
+      "minecraft:gold_ingot",
+      "minecraft:quartz_block",
+      "minecraft:quartz",
+      "minecraft:quartz_block"
+    ]
+  },
+  "mininggadgets:upgrade_efficiency_1": {
+    "result": "mininggadgets:upgrade_efficiency_1",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "minecraft:redstone",
+      "minecraft:redstone",
+      "minecraft:redstone",
+      "mininggadgets:upgrade_empty",
+      "minecraft:redstone",
+      "minecraft:redstone",
+      "minecraft:redstone",
+      "minecraft:redstone"
+    ]
+  },
+  "mininggadgets:upgrade_efficiency_2": {
+    "result": "mininggadgets:upgrade_efficiency_2",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "minecraft:redstone_block",
+      "minecraft:redstone",
+      "minecraft:redstone",
+      "mininggadgets:upgrade_efficiency_1",
+      "minecraft:redstone",
+      "minecraft:redstone",
+      "minecraft:redstone_block",
+      "minecraft:redstone"
+    ]
+  },
+  "mininggadgets:upgrade_efficiency_3": {
+    "result": "mininggadgets:upgrade_efficiency_3",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "minecraft:redstone_block",
+      "minecraft:redstone",
+      "minecraft:redstone_block",
+      "mininggadgets:upgrade_efficiency_2",
+      "minecraft:redstone_block",
+      "minecraft:redstone",
+      "minecraft:redstone_block",
+      "minecraft:redstone"
+    ]
+  },
+  "mininggadgets:upgrade_efficiency_4": {
+    "result": "mininggadgets:upgrade_efficiency_4",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone_block",
+      "minecraft:redstone",
+      "minecraft:redstone_block",
+      "minecraft:redstone_block",
+      "mininggadgets:upgrade_efficiency_3",
+      "minecraft:redstone_block",
+      "minecraft:redstone_block",
+      "minecraft:redstone",
+      "minecraft:redstone_block"
+    ]
+  },
+  "mininggadgets:upgrade_efficiency_5": {
+    "result": "mininggadgets:upgrade_efficiency_5",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone_block",
+      "minecraft:redstone_block",
+      "minecraft:redstone_block",
+      "minecraft:redstone_block",
+      "mininggadgets:upgrade_efficiency_4",
+      "minecraft:redstone_block",
+      "minecraft:redstone_block",
+      "minecraft:redstone_block",
+      "minecraft:redstone_block"
+    ]
+  },
+  "mininggadgets:upgrade_empty": {
+    "result": "mininggadgets:upgrade_empty",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "minecraft:lapis_lazuli",
+      "minecraft:redstone",
+      "minecraft:diamond",
+      "minecraft:glass",
+      "minecraft:diamond",
+      "minecraft:redstone",
+      "minecraft:lapis_lazuli",
+      "minecraft:redstone"
+    ]
+  },
+  "mininggadgets:upgrade_fortune_1": {
+    "result": "mininggadgets:upgrade_fortune_1",
+    "count": 1,
+    "ingredients": [
+      "minecraft:lapis_block",
+      "minecraft:iron_block",
+      "minecraft:lapis_block",
+      "minecraft:lapis_block",
+      "mininggadgets:upgrade_empty",
+      "minecraft:lapis_block",
+      "minecraft:lapis_block",
+      "minecraft:iron_block",
+      "minecraft:lapis_block"
+    ]
+  },
+  "mininggadgets:upgrade_fortune_2": {
+    "result": "mininggadgets:upgrade_fortune_2",
+    "count": 1,
+    "ingredients": [
+      "minecraft:lapis_block",
+      "minecraft:gold_block",
+      "minecraft:lapis_block",
+      "minecraft:lapis_block",
+      "mininggadgets:upgrade_fortune_1",
+      "minecraft:lapis_block",
+      "minecraft:lapis_block",
+      "minecraft:gold_block",
+      "minecraft:lapis_block"
+    ]
+  },
+  "mininggadgets:upgrade_fortune_3": {
+    "result": "mininggadgets:upgrade_fortune_3",
+    "count": 1,
+    "ingredients": [
+      "minecraft:lapis_block",
+      "minecraft:diamond",
+      "minecraft:lapis_block",
+      "minecraft:lapis_block",
+      "mininggadgets:upgrade_fortune_2",
+      "minecraft:lapis_block",
+      "minecraft:lapis_block",
+      "minecraft:diamond",
+      "minecraft:lapis_block"
+    ]
+  },
+  "mininggadgets:upgrade_freezing": {
+    "result": "mininggadgets:upgrade_freezing",
+    "count": 1,
+    "ingredients": [
+      "minecraft:snowball",
+      "minecraft:snowball",
+      "minecraft:snowball",
+      "minecraft:snowball",
+      "mininggadgets:upgrade_empty",
+      "minecraft:snowball",
+      "minecraft:snowball",
+      "minecraft:snowball",
+      "minecraft:snowball"
+    ]
+  },
+  "mininggadgets:upgrade_light_placer": {
+    "result": "mininggadgets:upgrade_light_placer",
+    "count": 1,
+    "ingredients": [
+      "minecraft:lantern",
+      "minecraft:redstone_lamp",
+      "minecraft:lantern",
+      "minecraft:glowstone",
+      "mininggadgets:upgrade_empty",
+      "minecraft:glowstone",
+      "minecraft:glowstone_dust",
+      "minecraft:redstone_lamp",
+      "minecraft:glowstone_dust"
+    ]
+  },
+  "mininggadgets:upgrade_magnet": {
+    "result": "mininggadgets:upgrade_magnet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "minecraft:gold_ingot",
+      "minecraft:redstone",
+      "minecraft:iron_ingot",
+      "mininggadgets:upgrade_empty",
+      "minecraft:iron_ingot",
+      "minecraft:redstone",
+      "minecraft:gold_ingot",
+      "minecraft:redstone"
+    ]
+  },
+  "mininggadgets:upgrade_range_1": {
+    "result": "mininggadgets:upgrade_range_1",
+    "count": 1,
+    "ingredients": [
+      "minecraft:lapis_lazuli",
+      "minecraft:glass",
+      "minecraft:lapis_lazuli",
+      "minecraft:diamond",
+      "mininggadgets:upgrade_empty",
+      "minecraft:diamond",
+      "minecraft:lapis_lazuli",
+      "minecraft:glass",
+      "minecraft:lapis_lazuli"
+    ]
+  },
+  "mininggadgets:upgrade_range_2": {
+    "result": "mininggadgets:upgrade_range_2",
+    "count": 1,
+    "ingredients": [
+      "minecraft:lapis_lazuli",
+      "minecraft:glass",
+      "minecraft:lapis_lazuli",
+      "minecraft:emerald",
+      "mininggadgets:upgrade_range_1",
+      "minecraft:emerald",
+      "minecraft:lapis_lazuli",
+      "minecraft:glass",
+      "minecraft:lapis_lazuli"
+    ]
+  },
+  "mininggadgets:upgrade_range_3": {
+    "result": "mininggadgets:upgrade_range_3",
+    "count": 1,
+    "ingredients": [
+      "minecraft:lapis_block",
+      "minecraft:glass",
+      "minecraft:lapis_block",
+      "minecraft:emerald_block",
+      "mininggadgets:upgrade_range_2",
+      "minecraft:diamond_block",
+      "minecraft:lapis_block",
+      "minecraft:glass",
+      "minecraft:lapis_block"
+    ]
+  },
+  "mininggadgets:upgrade_silk": {
+    "result": "mininggadgets:upgrade_silk",
+    "count": 1,
+    "ingredients": [
+      "minecraft:slime_ball",
+      "minecraft:golden_apple",
+      "minecraft:slime_ball",
+      "minecraft:gold_ingot",
+      "mininggadgets:upgrade_empty",
+      "minecraft:gold_ingot",
+      "minecraft:slime_ball",
+      "minecraft:slime_ball",
+      "minecraft:slime_ball"
+    ]
+  },
+  "mininggadgets:upgrade_size_1": {
+    "result": "mininggadgets:upgrade_size_1",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone_block",
+      "minecraft:diamond_block",
+      "minecraft:redstone_block",
+      "minecraft:ender_pearl",
+      "mininggadgets:upgrade_empty",
+      "minecraft:ender_pearl",
+      "minecraft:redstone_block",
+      "minecraft:diamond_pickaxe",
+      "minecraft:redstone_block"
+    ]
+  },
+  "mininggadgets:upgrade_size_2": {
+    "result": "mininggadgets:upgrade_size_2",
+    "count": 1,
+    "ingredients": [
+      "minecraft:ender_pearl",
+      "minecraft:netherite_block",
+      "minecraft:ender_pearl",
+      "minecraft:diamond_block",
+      "mininggadgets:upgrade_size_1",
+      "minecraft:diamond_block",
+      "minecraft:ender_pearl",
+      "minecraft:netherite_pickaxe",
+      "minecraft:ender_pearl"
+    ]
+  },
+  "mininggadgets:upgrade_size_3": {
+    "result": "mininggadgets:upgrade_size_3",
+    "count": 1,
+    "ingredients": [
+      "minecraft:nether_stars",
+      "minecraft:netherite_block",
+      "minecraft:nether_stars",
+      "minecraft:ender_pearl",
+      "mininggadgets:upgrade_size_2",
+      "minecraft:ender_pearl",
+      "minecraft:nether_stars",
+      "minecraft:netherite_pickaxe",
+      "minecraft:nether_stars"
+    ]
+  },
+  "mininggadgets:upgrade_void_junk": {
+    "result": "mininggadgets:upgrade_void_junk",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "minecraft:obsidian",
+      "minecraft:redstone",
+      "minecraft:ender_pearl",
+      "mininggadgets:upgrade_empty",
+      "minecraft:ender_pearl",
+      "minecraft:redstone",
+      "minecraft:obsidian",
+      "minecraft:redstone"
+    ]
+  },
+  "mysticalagriculture:upgrade_base": {
+    "result": "mysticalagriculture:upgrade_base",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:prosperity_shard",
+      "mysticalagriculture:prosperity_ingot",
+      "mysticalagriculture:prosperity_shard",
+      "mysticalagriculture:prosperity_ingot",
+      "minecraft:diamond",
+      "mysticalagriculture:prosperity_ingot",
+      "mysticalagriculture:prosperity_shard",
+      "mysticalagriculture:prosperity_ingot",
+      "mysticalagriculture:prosperity_shard"
+    ]
+  },
+  "productivelib:upgrade_stability": {
+    "result": "productivelib:upgrade_stability",
+    "count": 1,
+    "ingredients": [
+      "minecraft:honeycombs",
+      "minecraft:ender_pearl",
+      "minecraft:honeycombs",
+      "minecraft:ender_pearl",
+      "productivelib:upgrade_base",
+      "minecraft:ender_pearl",
+      "minecraft:honeycombs",
+      "minecraft:ender_pearl",
+      "minecraft:honeycombs"
+    ]
+  },
+  "productivelib:upgrade_time": {
+    "result": "productivelib:upgrade_time",
+    "count": 1,
+    "ingredients": [
+      "productivemetalworks:fire_brick",
+      "minecraft:clock",
+      "productivemetalworks:fire_brick",
+      "minecraft:clock",
+      "productivelib:upgrade_base",
+      "minecraft:clock",
+      "productivemetalworks:fire_brick",
+      "minecraft:clock",
+      "productivemetalworks:fire_brick"
+    ]
+  },
+  "productivelib:upgrade_pollen_sieve": {
+    "result": "productivelib:upgrade_pollen_sieve",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:upgrade_pollen_sieve",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "refinedstorage:upgrade": {
+    "result": "refinedstorage:upgrade",
+    "count": 1,
+    "ingredients": [
+      "refinedstorage:quartz_enriched_iron",
+      "minecraft:glass",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:improved_processor",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:quartz_enriched_iron",
+      "minecraft:glass",
+      "refinedstorage:quartz_enriched_iron"
+    ]
+  },
+  "silentgear:upgrade_base": {
+    "result": "silentgear:upgrade_base",
+    "count": 4,
+    "ingredients": [
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:oak_planks",
+      "minecraft:stone",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "sophisticatedbackpacks:upgrade_base": {
+    "result": "sophisticatedbackpacks:upgrade_base",
+    "count": 1,
+    "ingredients": [
+      "minecraft:string",
+      "minecraft:iron_ingot",
+      "minecraft:string",
+      "minecraft:iron_ingot",
+      "minecraft:leather",
+      "minecraft:iron_ingot",
+      "minecraft:string",
+      "minecraft:iron_ingot",
+      "minecraft:string"
+    ]
+  },
+  "sophisticatedstorage:upgrade_base": {
+    "result": "sophisticatedstorage:upgrade_base",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "minecraft:iron_ingot",
+      "minecraft:oak_planks",
+      "minecraft:iron_ingot",
+      "minecraft:oak_planks",
+      "minecraft:iron_ingot",
+      "minecraft:oak_planks",
+      "minecraft:iron_ingot",
+      "minecraft:oak_planks"
+    ]
+  },
+  "stevescarts:upgrade_batteries": {
+    "result": "stevescarts:upgrade_batteries",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "minecraft:redstone",
+      "minecraft:redstone",
+      "minecraft:redstone",
+      "minecraft:diamond",
+      "minecraft:redstone",
+      "minecraft:redstone",
+      "stevescarts:component_blank_upgrade",
+      "minecraft:redstone"
+    ]
+  },
+  "stevescarts:upgrade_cotwo_friendly": {
+    "result": "stevescarts:upgrade_cotwo_friendly",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:piston",
+      "",
+      "stevescarts:component_simple_pcb",
+      "minecraft:wooden_fences",
+      "stevescarts:component_simple_pcb",
+      "stevescarts:component_cleaning_fan",
+      "stevescarts:component_blank_upgrade",
+      "stevescarts:component_cleaning_fan"
+    ]
+  },
+  "stevescarts:upgrade_cart_crane": {
+    "result": "stevescarts:upgrade_cart_crane",
+    "count": 1,
+    "ingredients": [
+      "minecraft:piston",
+      "minecraft:rail",
+      "minecraft:piston",
+      "stevescarts:component_simple_pcb",
+      "minecraft:iron_ingot",
+      "stevescarts:component_simple_pcb",
+      "",
+      "stevescarts:component_blank_upgrade",
+      ""
+    ]
+  },
+  "stevescarts:upgrade_cart_deployer": {
+    "result": "stevescarts:upgrade_cart_deployer",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:rail",
+      "minecraft:iron_ingot",
+      "stevescarts:component_simple_pcb",
+      "minecraft:piston",
+      "stevescarts:component_simple_pcb",
+      "minecraft:iron_ingot",
+      "stevescarts:component_blank_upgrade",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "stevescarts:upgrade_cart_modifier": {
+    "result": "stevescarts:upgrade_cart_modifier",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "stevescarts:component_simple_pcb",
+      "minecraft:anvil",
+      "stevescarts:component_simple_pcb",
+      "minecraft:iron_ingot",
+      "stevescarts:component_blank_upgrade",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "stevescarts:upgrade_entropy": {
+    "result": "stevescarts:upgrade_entropy",
+    "count": 1,
+    "ingredients": [
+      "stevescarts:component_eye_of_galgador",
+      "stevescarts:component_reinforced_metal",
+      "",
+      "minecraft:diamond",
+      "minecraft:lapis_block",
+      "minecraft:diamond",
+      "",
+      "stevescarts:upgrade_quick_demolisher",
+      "stevescarts:component_eye_of_galgador"
+    ]
+  },
+  "stevescarts:upgrade_experienced_assembler": {
+    "result": "stevescarts:upgrade_experienced_assembler",
+    "count": 1,
+    "ingredients": [
+      "stevescarts:component_simple_pcb",
+      "minecraft:enchanted_book",
+      "stevescarts:component_simple_pcb",
+      "stevescarts:component_reinforced_metal",
+      "stevescarts:component_advanced_pcb",
+      "stevescarts:component_reinforced_metal",
+      "stevescarts:component_reinforced_metal",
+      "stevescarts:component_blank_upgrade",
+      "stevescarts:component_reinforced_metal"
+    ]
+  },
+  "stevescarts:upgrade_generic_engine": {
+    "result": "stevescarts:upgrade_generic_engine",
+    "count": 1,
+    "ingredients": [
+      "",
+      "stevescarts:component_simple_pcb",
+      "",
+      "minecraft:piston",
+      "minecraft:furnace",
+      "minecraft:piston",
+      "minecraft:iron_ingot",
+      "stevescarts:component_blank_upgrade",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "stevescarts:upgrade_industrial_espionage": {
+    "result": "stevescarts:upgrade_industrial_espionage",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bookshelf",
+      "stevescarts:component_reinforced_metal",
+      "minecraft:bookshelf",
+      "stevescarts:component_eye_of_galgador",
+      "stevescarts:component_reinforced_metal",
+      "stevescarts:component_eye_of_galgador",
+      "stevescarts:component_reinforced_metal",
+      "stevescarts:upgrade_module_knowledge",
+      "stevescarts:component_reinforced_metal"
+    ]
+  },
+  "stevescarts:upgrade_module_input": {
+    "result": "stevescarts:upgrade_module_input",
+    "count": 1,
+    "ingredients": [
+      "",
+      "stevescarts:component_advanced_pcb",
+      "",
+      "minecraft:piston",
+      "minecraft:chest",
+      "minecraft:piston",
+      "minecraft:iron_ingot",
+      "stevescarts:component_blank_upgrade",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "stevescarts:upgrade_module_knowledge": {
+    "result": "stevescarts:upgrade_module_knowledge",
+    "count": 1,
+    "ingredients": [
+      "minecraft:book",
+      "minecraft:bookshelf",
+      "minecraft:book",
+      "minecraft:bookshelf",
+      "minecraft:enchanting_table",
+      "minecraft:bookshelf",
+      "stevescarts:component_reinforced_metal",
+      "stevescarts:component_blank_upgrade",
+      "stevescarts:component_reinforced_metal"
+    ]
+  },
+  "stevescarts:upgrade_manager_bridge": {
+    "result": "stevescarts:upgrade_manager_bridge",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:ender_pearl",
+      "minecraft:iron_ingot",
+      "stevescarts:component_simple_pcb",
+      "stevescarts:blockdistributor",
+      "stevescarts:component_simple_pcb",
+      "minecraft:iron_ingot",
+      "stevescarts:component_blank_upgrade",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "stevescarts:upgrade_new_era": {
+    "result": "stevescarts:upgrade_new_era",
+    "count": 1,
+    "ingredients": [
+      "stevescarts:component_galgadorian_metal",
+      "minecraft:enchanted_book",
+      "stevescarts:component_galgadorian_metal",
+      "stevescarts:component_galgadorian_metal",
+      "stevescarts:component_advanced_pcb",
+      "stevescarts:component_galgadorian_metal",
+      "stevescarts:component_galgadorian_metal",
+      "stevescarts:upgrade_experienced_assembler",
+      "stevescarts:component_galgadorian_metal"
+    ]
+  },
+  "stevescarts:upgrade_power_crystal": {
+    "result": "stevescarts:upgrade_power_crystal",
+    "count": 1,
+    "ingredients": [
+      "minecraft:diamond",
+      "minecraft:glowstone_dust",
+      "minecraft:diamond",
+      "minecraft:glowstone_dust",
+      "minecraft:emerald_block",
+      "minecraft:glowstone_dust",
+      "minecraft:diamond",
+      "stevescarts:upgrade_batteries",
+      "minecraft:diamond"
+    ]
+  },
+  "stevescarts:upgrade_production_line": {
+    "result": "stevescarts:upgrade_production_line",
+    "count": 1,
+    "ingredients": [
+      "",
+      "stevescarts:component_simple_pcb",
+      "",
+      "stevescarts:component_advanced_pcb",
+      "minecraft:redstone",
+      "stevescarts:component_advanced_pcb",
+      "stevescarts:component_reinforced_metal",
+      "stevescarts:component_blank_upgrade",
+      "stevescarts:component_reinforced_metal"
+    ]
+  },
+  "stevescarts:upgrade_quick_demolisher": {
+    "result": "stevescarts:upgrade_quick_demolisher",
+    "count": 1,
+    "ingredients": [
+      "minecraft:obsidian",
+      "stevescarts:component_reinforced_metal",
+      "minecraft:obsidian",
+      "stevescarts:component_reinforced_metal",
+      "minecraft:iron_block",
+      "stevescarts:component_reinforced_metal",
+      "minecraft:obsidian",
+      "stevescarts:component_blank_upgrade",
+      "minecraft:obsidian"
+    ]
+  },
+  "stevescarts:upgrade_redstone_control": {
+    "result": "stevescarts:upgrade_redstone_control",
+    "count": 1,
+    "ingredients": [
+      "stevescarts:component_simple_pcb",
+      "minecraft:repeater",
+      "stevescarts:component_simple_pcb",
+      "minecraft:redstone_torch",
+      "stevescarts:component_advanced_pcb",
+      "minecraft:redstone_torch",
+      "minecraft:redstone",
+      "stevescarts:component_blank_upgrade",
+      "minecraft:redstone"
+    ]
+  },
+  "stevescarts:upgrade_solar_panel": {
+    "result": "stevescarts:upgrade_solar_panel",
+    "count": 1,
+    "ingredients": [
+      "stevescarts:component_solar_panel_component",
+      "stevescarts:component_solar_panel_component",
+      "stevescarts:component_solar_panel_component",
+      "minecraft:diamond",
+      "minecraft:redstone",
+      "minecraft:diamond",
+      "minecraft:redstone",
+      "stevescarts:component_blank_upgrade",
+      "minecraft:redstone"
+    ]
+  },
+  "stevescarts:upgrade_thermal_engine": {
+    "result": "stevescarts:upgrade_thermal_engine",
+    "count": 1,
+    "ingredients": [
+      "minecraft:nether_brick",
+      "stevescarts:component_advanced_pcb",
+      "minecraft:nether_brick",
+      "minecraft:piston",
+      "minecraft:furnace",
+      "minecraft:piston",
+      "minecraft:obsidian",
+      "stevescarts:component_blank_upgrade",
+      "minecraft:obsidian"
+    ]
+  }
+}

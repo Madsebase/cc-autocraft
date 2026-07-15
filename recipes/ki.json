@@ -1,0 +1,557 @@
+{
+  "allthecompressed:kivi_1x": {
+    "result": "allthecompressed:kivi_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:kivi_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:kivi_2x": {
+    "result": "allthecompressed:kivi_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:kivi_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:kivi_3x": {
+    "result": "allthecompressed:kivi_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:kivi_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:kivi_4x": {
+    "result": "allthecompressed:kivi_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:kivi_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:kivi_5x": {
+    "result": "allthecompressed:kivi_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:kivi_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:kivi_6x": {
+    "result": "allthecompressed:kivi_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:kivi_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:kivi_7x": {
+    "result": "allthecompressed:kivi_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:kivi_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:kivi_8x": {
+    "result": "allthecompressed:kivi_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:kivi_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:kivi_9x": {
+    "result": "allthecompressed:kivi_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:kivi_8x",
+      "allthecompressed:kivi_8x",
+      "allthecompressed:kivi_8x",
+      "allthecompressed:kivi_8x",
+      "allthecompressed:kivi_8x",
+      "allthecompressed:kivi_8x",
+      "allthecompressed:kivi_8x",
+      "allthecompressed:kivi_8x",
+      "allthecompressed:kivi_8x"
+    ]
+  },
+  "xycraft_world:kivi": {
+    "result": "xycraft_world:kivi",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:kivi_1x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "evilcraft:kineticator": {
+    "result": "evilcraft:kineticator",
+    "count": 1,
+    "ingredients": [
+      "",
+      "evilcraft:blood_infusion_core",
+      "evilcraft:dark_stick",
+      "minecraft:gold_ingot",
+      "evilcraft:blood_orb_filled",
+      "minecraft:gold_ingot",
+      "evilcraft:dark_stick",
+      "minecraft:diamond",
+      ""
+    ]
+  },
+  "evilcraft:kineticator_repelling": {
+    "result": "evilcraft:kineticator_repelling",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:diamond",
+      "evilcraft:dark_stick",
+      "minecraft:gold_ingot",
+      "evilcraft:blood_orb_filled",
+      "minecraft:gold_ingot",
+      "evilcraft:dark_stick",
+      "evilcraft:blood_infusion_core",
+      ""
+    ]
+  },
+  "handcrafted:kitchen_hood": {
+    "result": "handcrafted:kitchen_hood",
+    "count": 1,
+    "ingredients": [
+      "",
+      "handcrafted:kitchen_hood_pipe",
+      "",
+      "minecraft:iron_bars",
+      "minecraft:iron_bars",
+      "minecraft:iron_bars",
+      "",
+      "",
+      ""
+    ]
+  },
+  "handcrafted:kitchen_hood_pipe": {
+    "result": "handcrafted:kitchen_hood_pipe",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_bars",
+      "",
+      "minecraft:iron_bars",
+      "minecraft:iron_bars",
+      "",
+      "minecraft:iron_bars",
+      "minecraft:iron_bars",
+      "",
+      "minecraft:iron_bars"
+    ]
+  },
+  "merrymaking:kinara": {
+    "result": "merrymaking:kinara",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      "minecraft:dark_oak_planks",
+      "",
+      "minecraft:dark_oak_slab",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecolonies:kimchi": {
+    "result": "minecolonies:kimchi",
+    "count": 1,
+    "ingredients": [
+      "minecolonies:cabbage",
+      "minecolonies:cabbage",
+      "minecolonies:nether_pepper",
+      "minecolonies:onion",
+      "minecraft:carrot",
+      "minecraft:bowl",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2crops:kiwiseeditem": {
+    "result": "pamhc2crops:kiwiseeditem",
+    "count": 1,
+    "ingredients": [
+      "pamhc2crops:kiwiitem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:kimchiitem": {
+    "result": "pamhc2foodextended:kimchiitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:salt",
+      "minecraft:cabbage",
+      "minecraft:garlic",
+      "minecraft:ginger",
+      "minecraft:radish",
+      "minecraft:scallion",
+      "minecraft:spiceleaf",
+      "minecraft:sesameseeds"
+    ]
+  },
+  "pamhc2foodextended:kiwijellyitem": {
+    "result": "pamhc2foodextended:kiwijellyitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:kiwi",
+      "minecraft:sugar",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:kiwijellysandwichitem": {
+    "result": "pamhc2foodextended:kiwijellysandwichitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:kiwijelly",
+      "minecraft:bread",
+      "minecraft:nutbutters",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:kiwijellytoastitem": {
+    "result": "pamhc2foodextended:kiwijellytoastitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:kiwijelly",
+      "minecraft:toast",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:kiwijuiceitem": {
+    "result": "pamhc2foodextended:kiwijuiceitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_juicer",
+      "minecraft:kiwi",
+      "minecraft:kiwi",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:kiwipieitem": {
+    "result": "pamhc2foodextended:kiwipieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:kiwi",
+      "minecraft:sugar",
+      "minecraft:dough",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:kiwismoothieitem": {
+    "result": "pamhc2foodextended:kiwismoothieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:kiwi",
+      "minecraft:ices",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:kiwiyogurtitem": {
+    "result": "pamhc2foodextended:kiwiyogurtitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:kiwi",
+      "minecraft:yogurt",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xycraft_world:kivi_bricks": {
+    "result": "xycraft_world:kivi_bricks",
+    "count": 4,
+    "ingredients": [
+      "xycraft_world:kivi",
+      "xycraft_world:kivi",
+      "",
+      "xycraft_world:kivi",
+      "xycraft_world:kivi",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xycraft_world:kivi_bricks_cloud_blue": {
+    "result": "xycraft_world:kivi_bricks_cloud_blue",
+    "count": 2,
+    "ingredients": [
+      "xycraft_world:kivi",
+      "xycraft_world:xychorium_gem_blue",
+      "",
+      "xycraft_world:xychorium_gem_blue",
+      "xycraft_world:kivi",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xycraft_world:kivi_bricks_cloud_dark": {
+    "result": "xycraft_world:kivi_bricks_cloud_dark",
+    "count": 2,
+    "ingredients": [
+      "xycraft_world:kivi",
+      "xycraft_world:xychorium_gem_dark",
+      "",
+      "xycraft_world:xychorium_gem_dark",
+      "xycraft_world:kivi",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xycraft_world:kivi_bricks_cloud_green": {
+    "result": "xycraft_world:kivi_bricks_cloud_green",
+    "count": 2,
+    "ingredients": [
+      "xycraft_world:kivi",
+      "xycraft_world:xychorium_gem_green",
+      "",
+      "xycraft_world:xychorium_gem_green",
+      "xycraft_world:kivi",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xycraft_world:kivi_bricks_cloud_light": {
+    "result": "xycraft_world:kivi_bricks_cloud_light",
+    "count": 2,
+    "ingredients": [
+      "xycraft_world:kivi",
+      "xycraft_world:xychorium_gem_light",
+      "",
+      "xycraft_world:xychorium_gem_light",
+      "xycraft_world:kivi",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xycraft_world:kivi_bricks_cloud_red": {
+    "result": "xycraft_world:kivi_bricks_cloud_red",
+    "count": 2,
+    "ingredients": [
+      "xycraft_world:kivi",
+      "xycraft_world:xychorium_gem_red",
+      "",
+      "xycraft_world:xychorium_gem_red",
+      "xycraft_world:kivi",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xycraft_world:kivi_tiles": {
+    "result": "xycraft_world:kivi_tiles",
+    "count": 4,
+    "ingredients": [
+      "xycraft_world:kivi_bricks",
+      "xycraft_world:kivi_bricks",
+      "",
+      "xycraft_world:kivi_bricks",
+      "xycraft_world:kivi_bricks",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xycraft_world:kivi_tiles_cloud_blue": {
+    "result": "xycraft_world:kivi_tiles_cloud_blue",
+    "count": 4,
+    "ingredients": [
+      "xycraft_world:kivi_bricks_cloud_blue",
+      "xycraft_world:kivi_bricks_cloud_blue",
+      "",
+      "xycraft_world:kivi_bricks_cloud_blue",
+      "xycraft_world:kivi_bricks_cloud_blue",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xycraft_world:kivi_tiles_cloud_dark": {
+    "result": "xycraft_world:kivi_tiles_cloud_dark",
+    "count": 4,
+    "ingredients": [
+      "xycraft_world:kivi_bricks_cloud_dark",
+      "xycraft_world:kivi_bricks_cloud_dark",
+      "",
+      "xycraft_world:kivi_bricks_cloud_dark",
+      "xycraft_world:kivi_bricks_cloud_dark",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xycraft_world:kivi_tiles_cloud_green": {
+    "result": "xycraft_world:kivi_tiles_cloud_green",
+    "count": 4,
+    "ingredients": [
+      "xycraft_world:kivi_bricks_cloud_green",
+      "xycraft_world:kivi_bricks_cloud_green",
+      "",
+      "xycraft_world:kivi_bricks_cloud_green",
+      "xycraft_world:kivi_bricks_cloud_green",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xycraft_world:kivi_tiles_cloud_light": {
+    "result": "xycraft_world:kivi_tiles_cloud_light",
+    "count": 4,
+    "ingredients": [
+      "xycraft_world:kivi_bricks_cloud_light",
+      "xycraft_world:kivi_bricks_cloud_light",
+      "",
+      "xycraft_world:kivi_bricks_cloud_light",
+      "xycraft_world:kivi_bricks_cloud_light",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xycraft_world:kivi_tiles_cloud_red": {
+    "result": "xycraft_world:kivi_tiles_cloud_red",
+    "count": 4,
+    "ingredients": [
+      "xycraft_world:kivi_bricks_cloud_red",
+      "xycraft_world:kivi_bricks_cloud_red",
+      "",
+      "xycraft_world:kivi_bricks_cloud_red",
+      "xycraft_world:kivi_bricks_cloud_red",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

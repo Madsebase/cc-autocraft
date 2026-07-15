@@ -1,0 +1,1187 @@
+{
+  "actuallyadditions:shock_suppressor": {
+    "result": "actuallyadditions:shock_suppressor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:obsidians",
+      "actuallyadditions:empowered_void_crystal",
+      "minecraft:obsidians",
+      "actuallyadditions:empowered_void_crystal",
+      "actuallyadditions:advanced_coil",
+      "actuallyadditions:empowered_void_crystal",
+      "minecraft:obsidians",
+      "actuallyadditions:empowered_void_crystal",
+      "minecraft:obsidians"
+    ]
+  },
+  "minecraft:shield": {
+    "result": "minecraft:shield",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "minecraft:iron_ingot",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "",
+      "minecraft:oak_planks",
+      ""
+    ]
+  },
+  "compactmachines:shrinking_module": {
+    "result": "compactmachines:shrinking_module",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone_button",
+      "minecraft:sticky_piston",
+      "minecraft:stone_button",
+      "minecraft:stone_button",
+      "minecraft:ender_eye",
+      "minecraft:stone_button",
+      "minecraft:stone_button",
+      "minecraft:light_weighted_pressure_plate",
+      "minecraft:stone_button"
+    ]
+  },
+  "create:shaft": {
+    "result": "create:shaft",
+    "count": 8,
+    "ingredients": [
+      "create:andesite_alloy",
+      "",
+      "",
+      "create:andesite_alloy",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:shears": {
+    "result": "minecraft:shears",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:shadow_escargot": {
+    "result": "eternal_starlight:shadow_escargot",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:velvetumoss_ball",
+      "eternal_starlight:cooked_shadow_snail_meat",
+      "eternal_starlight:shadow_snail_shell",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:shadow_snail_pie": {
+    "result": "eternal_starlight:shadow_snail_pie",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:raw_amaramber",
+      "eternal_starlight:crinoa",
+      "eternal_starlight:cooked_shadow_snail_meat",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:shadow_snail_shell_powder": {
+    "result": "eternal_starlight:shadow_snail_shell_powder",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:shadow_snail_shell",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "farmersdelight:shepherds_pie_block": {
+    "result": "farmersdelight:shepherds_pie_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:baked_potato",
+      "minecraft:milk",
+      "minecraft:baked_potato",
+      "minecraft:cooked_mutton",
+      "minecraft:cooked_mutton",
+      "minecraft:cooked_mutton",
+      "minecraft:onion",
+      "minecraft:bowl",
+      "minecraft:onion"
+    ]
+  },
+  "minecraft:short_grass": {
+    "result": "minecraft:short_grass",
+    "count": 4,
+    "ingredients": [
+      "minecraft:leaves",
+      "minecraft:dirt",
+      "hostilenetworks:overworld_prediction",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:sheep_boots": {
+    "result": "iceandfire:sheep_boots",
+    "count": 1,
+    "ingredients": [
+      "minecraft:white_wool",
+      "minecraft:leather_boots",
+      "minecraft:white_wool",
+      "minecraft:white_wool",
+      "",
+      "minecraft:white_wool",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:sheep_chestplate": {
+    "result": "iceandfire:sheep_chestplate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:white_wool",
+      "",
+      "minecraft:white_wool",
+      "minecraft:white_wool",
+      "minecraft:leather_chestplate",
+      "minecraft:white_wool",
+      "minecraft:white_wool",
+      "minecraft:white_wool",
+      "minecraft:white_wool"
+    ]
+  },
+  "iceandfire:sheep_helmet": {
+    "result": "iceandfire:sheep_helmet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:white_wool",
+      "minecraft:white_wool",
+      "minecraft:white_wool",
+      "minecraft:white_wool",
+      "minecraft:leather_helmet",
+      "minecraft:white_wool",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:sheep_leggings": {
+    "result": "iceandfire:sheep_leggings",
+    "count": 1,
+    "ingredients": [
+      "minecraft:white_wool",
+      "minecraft:white_wool",
+      "minecraft:white_wool",
+      "minecraft:white_wool",
+      "minecraft:leather_leggings",
+      "minecraft:white_wool",
+      "minecraft:white_wool",
+      "",
+      "minecraft:white_wool"
+    ]
+  },
+  "immersiveengineering:sheetmetal_aluminum": {
+    "result": "immersiveengineering:sheetmetal_aluminum",
+    "count": 1,
+    "ingredients": [
+      "immersiveengineering:slab_sheetmetal_aluminum",
+      "",
+      "",
+      "immersiveengineering:slab_sheetmetal_aluminum",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:sheetmetal_colored_black": {
+    "result": "immersiveengineering:sheetmetal_colored_black",
+    "count": 1,
+    "ingredients": [
+      "immersiveengineering:slab_sheetmetal_colored_black",
+      "",
+      "",
+      "immersiveengineering:slab_sheetmetal_colored_black",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:sheetmetal_colored_blue": {
+    "result": "immersiveengineering:sheetmetal_colored_blue",
+    "count": 1,
+    "ingredients": [
+      "immersiveengineering:slab_sheetmetal_colored_blue",
+      "",
+      "",
+      "immersiveengineering:slab_sheetmetal_colored_blue",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:sheetmetal_colored_brown": {
+    "result": "immersiveengineering:sheetmetal_colored_brown",
+    "count": 1,
+    "ingredients": [
+      "immersiveengineering:slab_sheetmetal_colored_brown",
+      "",
+      "",
+      "immersiveengineering:slab_sheetmetal_colored_brown",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:sheetmetal_colored_cyan": {
+    "result": "immersiveengineering:sheetmetal_colored_cyan",
+    "count": 1,
+    "ingredients": [
+      "immersiveengineering:slab_sheetmetal_colored_cyan",
+      "",
+      "",
+      "immersiveengineering:slab_sheetmetal_colored_cyan",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:sheetmetal_colored_gray": {
+    "result": "immersiveengineering:sheetmetal_colored_gray",
+    "count": 1,
+    "ingredients": [
+      "immersiveengineering:slab_sheetmetal_colored_gray",
+      "",
+      "",
+      "immersiveengineering:slab_sheetmetal_colored_gray",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:sheetmetal_colored_green": {
+    "result": "immersiveengineering:sheetmetal_colored_green",
+    "count": 1,
+    "ingredients": [
+      "immersiveengineering:slab_sheetmetal_colored_green",
+      "",
+      "",
+      "immersiveengineering:slab_sheetmetal_colored_green",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:sheetmetal_colored_light_blue": {
+    "result": "immersiveengineering:sheetmetal_colored_light_blue",
+    "count": 1,
+    "ingredients": [
+      "immersiveengineering:slab_sheetmetal_colored_light_blue",
+      "",
+      "",
+      "immersiveengineering:slab_sheetmetal_colored_light_blue",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:sheetmetal_colored_light_gray": {
+    "result": "immersiveengineering:sheetmetal_colored_light_gray",
+    "count": 1,
+    "ingredients": [
+      "immersiveengineering:slab_sheetmetal_colored_light_gray",
+      "",
+      "",
+      "immersiveengineering:slab_sheetmetal_colored_light_gray",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:sheetmetal_colored_lime": {
+    "result": "immersiveengineering:sheetmetal_colored_lime",
+    "count": 1,
+    "ingredients": [
+      "immersiveengineering:slab_sheetmetal_colored_lime",
+      "",
+      "",
+      "immersiveengineering:slab_sheetmetal_colored_lime",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:sheetmetal_colored_magenta": {
+    "result": "immersiveengineering:sheetmetal_colored_magenta",
+    "count": 1,
+    "ingredients": [
+      "immersiveengineering:slab_sheetmetal_colored_magenta",
+      "",
+      "",
+      "immersiveengineering:slab_sheetmetal_colored_magenta",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:sheetmetal_colored_orange": {
+    "result": "immersiveengineering:sheetmetal_colored_orange",
+    "count": 1,
+    "ingredients": [
+      "immersiveengineering:slab_sheetmetal_colored_orange",
+      "",
+      "",
+      "immersiveengineering:slab_sheetmetal_colored_orange",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:sheetmetal_colored_pink": {
+    "result": "immersiveengineering:sheetmetal_colored_pink",
+    "count": 1,
+    "ingredients": [
+      "immersiveengineering:slab_sheetmetal_colored_pink",
+      "",
+      "",
+      "immersiveengineering:slab_sheetmetal_colored_pink",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:sheetmetal_colored_purple": {
+    "result": "immersiveengineering:sheetmetal_colored_purple",
+    "count": 1,
+    "ingredients": [
+      "immersiveengineering:slab_sheetmetal_colored_purple",
+      "",
+      "",
+      "immersiveengineering:slab_sheetmetal_colored_purple",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:sheetmetal_colored_red": {
+    "result": "immersiveengineering:sheetmetal_colored_red",
+    "count": 1,
+    "ingredients": [
+      "immersiveengineering:slab_sheetmetal_colored_red",
+      "",
+      "",
+      "immersiveengineering:slab_sheetmetal_colored_red",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:sheetmetal_colored_white": {
+    "result": "immersiveengineering:sheetmetal_colored_white",
+    "count": 1,
+    "ingredients": [
+      "immersiveengineering:slab_sheetmetal_colored_white",
+      "",
+      "",
+      "immersiveengineering:slab_sheetmetal_colored_white",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:sheetmetal_colored_yellow": {
+    "result": "immersiveengineering:sheetmetal_colored_yellow",
+    "count": 1,
+    "ingredients": [
+      "immersiveengineering:slab_sheetmetal_colored_yellow",
+      "",
+      "",
+      "immersiveengineering:slab_sheetmetal_colored_yellow",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:sheetmetal_constantan": {
+    "result": "immersiveengineering:sheetmetal_constantan",
+    "count": 1,
+    "ingredients": [
+      "immersiveengineering:slab_sheetmetal_constantan",
+      "",
+      "",
+      "immersiveengineering:slab_sheetmetal_constantan",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:sheetmetal_copper": {
+    "result": "immersiveengineering:sheetmetal_copper",
+    "count": 1,
+    "ingredients": [
+      "immersiveengineering:slab_sheetmetal_copper",
+      "",
+      "",
+      "immersiveengineering:slab_sheetmetal_copper",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:sheetmetal_electrum": {
+    "result": "immersiveengineering:sheetmetal_electrum",
+    "count": 1,
+    "ingredients": [
+      "immersiveengineering:slab_sheetmetal_electrum",
+      "",
+      "",
+      "immersiveengineering:slab_sheetmetal_electrum",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:sheetmetal_gold": {
+    "result": "immersiveengineering:sheetmetal_gold",
+    "count": 1,
+    "ingredients": [
+      "immersiveengineering:slab_sheetmetal_gold",
+      "",
+      "",
+      "immersiveengineering:slab_sheetmetal_gold",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:sheetmetal_iron": {
+    "result": "immersiveengineering:sheetmetal_iron",
+    "count": 1,
+    "ingredients": [
+      "immersiveengineering:slab_sheetmetal_iron",
+      "",
+      "",
+      "immersiveengineering:slab_sheetmetal_iron",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:sheetmetal_lead": {
+    "result": "immersiveengineering:sheetmetal_lead",
+    "count": 1,
+    "ingredients": [
+      "immersiveengineering:slab_sheetmetal_lead",
+      "",
+      "",
+      "immersiveengineering:slab_sheetmetal_lead",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:sheetmetal_nickel": {
+    "result": "immersiveengineering:sheetmetal_nickel",
+    "count": 1,
+    "ingredients": [
+      "immersiveengineering:slab_sheetmetal_nickel",
+      "",
+      "",
+      "immersiveengineering:slab_sheetmetal_nickel",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:sheetmetal_silver": {
+    "result": "immersiveengineering:sheetmetal_silver",
+    "count": 1,
+    "ingredients": [
+      "immersiveengineering:slab_sheetmetal_silver",
+      "",
+      "",
+      "immersiveengineering:slab_sheetmetal_silver",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:sheetmetal_steel": {
+    "result": "immersiveengineering:sheetmetal_steel",
+    "count": 1,
+    "ingredients": [
+      "immersiveengineering:slab_sheetmetal_steel",
+      "",
+      "",
+      "immersiveengineering:slab_sheetmetal_steel",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:sheetmetal_uranium": {
+    "result": "immersiveengineering:sheetmetal_uranium",
+    "count": 1,
+    "ingredients": [
+      "immersiveengineering:slab_sheetmetal_uranium",
+      "",
+      "",
+      "immersiveengineering:slab_sheetmetal_uranium",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:shield": {
+    "result": "immersiveengineering:shield",
+    "count": 1,
+    "ingredients": [
+      "minecraft:steel",
+      "minecraft:treated_wood",
+      "minecraft:steel",
+      "minecraft:steel",
+      "minecraft:shield",
+      "minecraft:steel",
+      "minecraft:steel",
+      "minecraft:treated_wood",
+      "minecraft:steel"
+    ]
+  },
+  "immersiveengineering:shovel_steel": {
+    "result": "immersiveengineering:shovel_steel",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:steel_ingot",
+      "",
+      "",
+      "minecraft:treated_wood",
+      "",
+      "",
+      "minecraft:treated_wood",
+      "",
+      ""
+    ]
+  },
+  "irons_spellbooks:shadowwalker_boots": {
+    "result": "irons_spellbooks:shadowwalker_boots",
+    "count": 1,
+    "ingredients": [
+      "minecraft:wizard_base_boots",
+      "irons_spellbooks:ender_rune",
+      "irons_spellbooks:arcane_essence",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "irons_spellbooks:shadowwalker_chestplate": {
+    "result": "irons_spellbooks:shadowwalker_chestplate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:chest",
+      "irons_spellbooks:ender_rune",
+      "irons_spellbooks:arcane_essence",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "irons_spellbooks:shadowwalker_helmet": {
+    "result": "irons_spellbooks:shadowwalker_helmet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:wizard_base_helmet",
+      "irons_spellbooks:ender_rune",
+      "irons_spellbooks:arcane_essence",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "irons_spellbooks:shadowwalker_leggings": {
+    "result": "irons_spellbooks:shadowwalker_leggings",
+    "count": 1,
+    "ingredients": [
+      "minecraft:wizard_base_leggings",
+      "irons_spellbooks:ender_rune",
+      "irons_spellbooks:arcane_essence",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "irons_spellbooks:shriving_stone": {
+    "result": "irons_spellbooks:shriving_stone",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron",
+      "minecraft:amethyst",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwlights:shroomlight_slab": {
+    "result": "mcwlights:shroomlight_slab",
+    "count": 6,
+    "ingredients": [
+      "minecraft:shroomlight",
+      "minecraft:shroomlight",
+      "minecraft:shroomlight",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mffs:shock_module": {
+    "result": "mffs:shock_module",
+    "count": 1,
+    "ingredients": [
+      "mffs:focus_matrix",
+      "minecraft:diamond",
+      "mffs:focus_matrix",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "structurize:shapetool": {
+    "result": "structurize:shapetool",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "minecraft:emerald",
+      "",
+      "minecraft:stick",
+      "",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "minecraft:shaper_armor_trim_smithing_template": {
+    "result": "minecraft:shaper_armor_trim_smithing_template",
+    "count": 2,
+    "ingredients": [
+      "minecraft:diamond",
+      "minecraft:shaper_armor_trim_smithing_template",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:terracotta",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond"
+    ]
+  },
+  "minecraft:shulker_box": {
+    "result": "minecraft:shulker_box",
+    "count": 1,
+    "ingredients": [
+      "minecraft:shulker_shell",
+      "",
+      "",
+      "minecraft:chest",
+      "",
+      "",
+      "minecraft:shulker_shell",
+      "",
+      ""
+    ]
+  },
+  "naturesaura:shockwave_creator": {
+    "result": "naturesaura:shockwave_creator",
+    "count": 1,
+    "ingredients": [
+      "",
+      "naturesaura:token_rage",
+      "",
+      "naturesaura:infused_stone",
+      "minecraft:tnt",
+      "naturesaura:infused_stone",
+      "naturesaura:tainted_gold",
+      "minecraft:diamond_boots",
+      "naturesaura:tainted_gold"
+    ]
+  },
+  "oritech:shrinker_block": {
+    "result": "oritech:shrinker_block",
+    "count": 1,
+    "ingredients": [
+      "oritech:dubios_container",
+      "oritech:dubios_container",
+      "oritech:dubios_container",
+      "oritech:superconductor",
+      "oritech:still_strange_matter_bucket",
+      "oritech:superconductor",
+      "oritech:dubios_container",
+      "oritech:dubios_container",
+      "oritech:dubios_container"
+    ]
+  },
+  "pamhc2foodextended:shepardspieitem": {
+    "result": "pamhc2foodextended:shepardspieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:rawmutton",
+      "minecraft:potato",
+      "minecraft:carrot",
+      "minecraft:dough",
+      "minecraft:peas",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:sheep_detector": {
+    "result": "railcraft:sheep_detector",
+    "count": 1,
+    "ingredients": [
+      "minecraft:white_wool",
+      "minecraft:white_wool",
+      "minecraft:white_wool",
+      "minecraft:white_wool",
+      "minecraft:stone_pressure_plate",
+      "minecraft:white_wool",
+      "minecraft:white_wool",
+      "minecraft:white_wool",
+      "minecraft:white_wool"
+    ]
+  },
+  "reliquary:shears_of_winter": {
+    "result": "reliquary:shears_of_winter",
+    "count": 1,
+    "ingredients": [
+      "reliquary:frozen_core",
+      "minecraft:shears",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "rftoolsbuilder:shape_card_def": {
+    "result": "rftoolsbuilder:shape_card_def",
+    "count": 1,
+    "ingredients": [
+      "minecraft:paper",
+      "minecraft:bricks",
+      "minecraft:paper",
+      "minecraft:redstone",
+      "minecraft:iron_ingot",
+      "minecraft:redstone",
+      "minecraft:paper",
+      "minecraft:bricks",
+      "minecraft:paper"
+    ]
+  },
+  "rftoolsbuilder:shield_block1": {
+    "result": "rftoolsbuilder:shield_block1",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "minecraft:redstone_torch",
+      "minecraft:gold_ingot",
+      "minecraft:redstone",
+      "rftoolsbase:machine_frame",
+      "minecraft:redstone",
+      "minecraft:obsidian",
+      "minecraft:obsidian",
+      "minecraft:obsidian"
+    ]
+  },
+  "shrink:shrinking_device": {
+    "result": "shrink:shrinking_device",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:ender_pearl",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:glass",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:stone_button",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "silentgear:shears_blueprint": {
+    "result": "silentgear:shears_blueprint",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgear:shears_template": {
+    "result": "silentgear:shears_template",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:template_boards",
+      "",
+      "minecraft:template_boards",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgear:shield_blueprint": {
+    "result": "silentgear:shield_blueprint",
+    "count": 1,
+    "ingredients": [
+      "minecraft:paper",
+      "minecraft:iron_ingot",
+      "minecraft:paper",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "",
+      "minecraft:paper",
+      ""
+    ]
+  },
+  "silentgear:shield_template": {
+    "result": "silentgear:shield_template",
+    "count": 1,
+    "ingredients": [
+      "minecraft:template_boards",
+      "minecraft:iron_ingot",
+      "minecraft:template_boards",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "",
+      "minecraft:template_boards",
+      ""
+    ]
+  },
+  "silentgear:shovel_blueprint": {
+    "result": "silentgear:shovel_blueprint",
+    "count": 1,
+    "ingredients": [
+      "minecraft:paper",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "silentgear:shovel_template": {
+    "result": "silentgear:shovel_template",
+    "count": 1,
+    "ingredients": [
+      "minecraft:template_boards",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "sophisticatedstorage:shulker_box": {
+    "result": "sophisticatedstorage:shulker_box",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:shulker_shell",
+      "",
+      "minecraft:lever",
+      "minecraft:chest",
+      "",
+      "",
+      "minecraft:shulker_shell",
+      ""
+    ]
+  },
+  "undergarden:shard_o_lantern": {
+    "result": "undergarden:shard_o_lantern",
+    "count": 1,
+    "ingredients": [
+      "undergarden:carved_gloomgourd",
+      "",
+      "",
+      "undergarden:shard_torch",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:shard_torch": {
+    "result": "undergarden:shard_torch",
+    "count": 1,
+    "ingredients": [
+      "undergarden:utheric_shard",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:shiverstone_bricks": {
+    "result": "undergarden:shiverstone_bricks",
+    "count": 4,
+    "ingredients": [
+      "undergarden:shiverstone",
+      "undergarden:shiverstone",
+      "",
+      "undergarden:shiverstone",
+      "undergarden:shiverstone",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:shiverstone_brick_slab": {
+    "result": "undergarden:shiverstone_brick_slab",
+    "count": 6,
+    "ingredients": [
+      "undergarden:shiverstone_bricks",
+      "undergarden:shiverstone_bricks",
+      "undergarden:shiverstone_bricks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:shiverstone_brick_stairs": {
+    "result": "undergarden:shiverstone_brick_stairs",
+    "count": 4,
+    "ingredients": [
+      "undergarden:shiverstone_bricks",
+      "",
+      "",
+      "undergarden:shiverstone_bricks",
+      "undergarden:shiverstone_bricks",
+      "",
+      "undergarden:shiverstone_bricks",
+      "undergarden:shiverstone_bricks",
+      "undergarden:shiverstone_bricks"
+    ]
+  },
+  "undergarden:shiverstone_brick_wall": {
+    "result": "undergarden:shiverstone_brick_wall",
+    "count": 6,
+    "ingredients": [
+      "undergarden:shiverstone_bricks",
+      "undergarden:shiverstone_bricks",
+      "undergarden:shiverstone_bricks",
+      "undergarden:shiverstone_bricks",
+      "undergarden:shiverstone_bricks",
+      "undergarden:shiverstone_bricks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:shiverstone_button": {
+    "result": "undergarden:shiverstone_button",
+    "count": 1,
+    "ingredients": [
+      "undergarden:shiverstone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:shiverstone_pressure_plate": {
+    "result": "undergarden:shiverstone_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "undergarden:shiverstone",
+      "undergarden:shiverstone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:shiverstone_slab": {
+    "result": "undergarden:shiverstone_slab",
+    "count": 6,
+    "ingredients": [
+      "undergarden:shiverstone",
+      "undergarden:shiverstone",
+      "undergarden:shiverstone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:shiverstone_stairs": {
+    "result": "undergarden:shiverstone_stairs",
+    "count": 4,
+    "ingredients": [
+      "undergarden:shiverstone",
+      "",
+      "",
+      "undergarden:shiverstone",
+      "undergarden:shiverstone",
+      "",
+      "undergarden:shiverstone",
+      "undergarden:shiverstone",
+      "undergarden:shiverstone"
+    ]
+  },
+  "undergarden:shiverstone_wall": {
+    "result": "undergarden:shiverstone_wall",
+    "count": 6,
+    "ingredients": [
+      "undergarden:shiverstone",
+      "undergarden:shiverstone",
+      "undergarden:shiverstone",
+      "undergarden:shiverstone",
+      "undergarden:shiverstone",
+      "undergarden:shiverstone",
+      "",
+      "",
+      ""
+    ]
+  }
+}

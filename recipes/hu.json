@@ -1,0 +1,152 @@
+{
+  "pamhc2crops:huckleberryseeditem": {
+    "result": "pamhc2crops:huckleberryseeditem",
+    "count": 1,
+    "ingredients": [
+      "pamhc2crops:huckleberryitem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:huckleberryjellyitem": {
+    "result": "pamhc2foodextended:huckleberryjellyitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:huckleberry",
+      "minecraft:sugar",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:huckleberryjellysandwichitem": {
+    "result": "pamhc2foodextended:huckleberryjellysandwichitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:huckleberryjelly",
+      "minecraft:bread",
+      "minecraft:nutbutters",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:huckleberryjellytoastitem": {
+    "result": "pamhc2foodextended:huckleberryjellytoastitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:huckleberryjelly",
+      "minecraft:toast",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:huckleberryjuiceitem": {
+    "result": "pamhc2foodextended:huckleberryjuiceitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_juicer",
+      "minecraft:huckleberry",
+      "minecraft:huckleberry",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:huckleberrypieitem": {
+    "result": "pamhc2foodextended:huckleberrypieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:huckleberry",
+      "minecraft:sugar",
+      "minecraft:dough",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:huckleberrysmoothieitem": {
+    "result": "pamhc2foodextended:huckleberrysmoothieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:huckleberry",
+      "minecraft:ices",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:huckleberryyogurtitem": {
+    "result": "pamhc2foodextended:huckleberryyogurtitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:huckleberry",
+      "minecraft:yogurt",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:hummusitem": {
+    "result": "pamhc2foodextended:hummusitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:chickpea",
+      "minecraft:garlic",
+      "minecraft:lemon",
+      "minecraft:cookingoil",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:hushpuppiesitem": {
+    "result": "pamhc2foodextended:hushpuppiesitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:cornmeal",
+      "minecraft:egg",
+      "minecraft:onion",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

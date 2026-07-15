@@ -1,0 +1,152 @@
+{
+  "silentgems:kyanite": {
+    "result": "silentgems:kyanite",
+    "count": 9,
+    "ingredients": [
+      "silentgems:kyanite_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgems:kyanite_bricks": {
+    "result": "silentgems:kyanite_bricks",
+    "count": 12,
+    "ingredients": [
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:kyanite",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks"
+    ]
+  },
+  "silentgems:kyanite_block": {
+    "result": "silentgems:kyanite_block",
+    "count": 1,
+    "ingredients": [
+      "silentgems:kyanite",
+      "silentgems:kyanite",
+      "silentgems:kyanite",
+      "silentgems:kyanite",
+      "silentgems:kyanite",
+      "silentgems:kyanite",
+      "silentgems:kyanite",
+      "silentgems:kyanite",
+      "silentgems:kyanite"
+    ]
+  },
+  "silentgems:kyanite_glass": {
+    "result": "silentgems:kyanite_glass",
+    "count": 12,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:kyanite",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass"
+    ]
+  },
+  "silentgems:kyanite_lamp": {
+    "result": "silentgems:kyanite_lamp",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:kyanite",
+      "minecraft:stone",
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:redstone"
+    ]
+  },
+  "silentgems:kyanite_lamp_inverted_on": {
+    "result": "silentgems:kyanite_lamp_inverted_on",
+    "count": 1,
+    "ingredients": [
+      "silentgems:kyanite_lamp",
+      "minecraft:redstone_torch",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgems:kyanite_redstone_teleporter": {
+    "result": "silentgems:kyanite_redstone_teleporter",
+    "count": 1,
+    "ingredients": [
+      "silentgems:kyanite_teleporter",
+      "minecraft:redstone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgems:kyanite_small_bricks": {
+    "result": "silentgems:kyanite_small_bricks",
+    "count": 12,
+    "ingredients": [
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:kyanite",
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:bricks"
+    ]
+  },
+  "silentgems:kyanite_teleporter": {
+    "result": "silentgems:kyanite_teleporter",
+    "count": 2,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "minecraft:kyanite",
+      "minecraft:gold_ingot",
+      "minecraft:kyanite",
+      "silentgems:chaos_essence_block",
+      "minecraft:kyanite",
+      "",
+      "minecraft:ender_pearl",
+      ""
+    ]
+  },
+  "silentgems:kyanite_tiles": {
+    "result": "silentgems:kyanite_tiles",
+    "count": 12,
+    "ingredients": [
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:kyanite",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles"
+    ]
+  }
+}

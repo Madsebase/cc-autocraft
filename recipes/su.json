@@ -1,0 +1,1847 @@
+{
+  "allthecompressed:sulfur_block_1x": {
+    "result": "allthecompressed:sulfur_block_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:sulfur_block_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:sulfur_block_2x": {
+    "result": "allthecompressed:sulfur_block_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:sulfur_block_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:sulfur_block_3x": {
+    "result": "allthecompressed:sulfur_block_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:sulfur_block_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:sulfur_block_4x": {
+    "result": "allthecompressed:sulfur_block_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:sulfur_block_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:sulfur_block_5x": {
+    "result": "allthecompressed:sulfur_block_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:sulfur_block_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:sulfur_block_6x": {
+    "result": "allthecompressed:sulfur_block_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:sulfur_block_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:sulfur_block_7x": {
+    "result": "allthecompressed:sulfur_block_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:sulfur_block_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:sulfur_block_8x": {
+    "result": "allthecompressed:sulfur_block_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:sulfur_block_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:sulfur_block_9x": {
+    "result": "allthecompressed:sulfur_block_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:sulfur_block_8x",
+      "allthecompressed:sulfur_block_8x",
+      "allthecompressed:sulfur_block_8x",
+      "allthecompressed:sulfur_block_8x",
+      "allthecompressed:sulfur_block_8x",
+      "allthecompressed:sulfur_block_8x",
+      "allthecompressed:sulfur_block_8x",
+      "allthecompressed:sulfur_block_8x",
+      "allthecompressed:sulfur_block_8x"
+    ]
+  },
+  "alltheores:sulfur_block": {
+    "result": "alltheores:sulfur_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:sulfur",
+      "minecraft:sulfur",
+      "minecraft:sulfur",
+      "minecraft:sulfur",
+      "minecraft:sulfur",
+      "minecraft:sulfur",
+      "minecraft:sulfur",
+      "minecraft:sulfur",
+      "minecraft:sulfur"
+    ]
+  },
+  "alltheores:sulfur": {
+    "result": "alltheores:sulfur",
+    "count": 9,
+    "ingredients": [
+      "minecraft:sulfur",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "aquaculture:sushi": {
+    "result": "aquaculture:sushi",
+    "count": 1,
+    "ingredients": [
+      "aquaculture:fish_fillet_raw",
+      "minecraft:seagrass",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:super_glue": {
+    "result": "create:super_glue",
+    "count": 1,
+    "ingredients": [
+      "minecraft:slime_ball",
+      "minecraft:iron",
+      "",
+      "minecraft:iron",
+      "minecraft:slime_ball",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create_enchantment_industry:super_experience_block": {
+    "result": "create_enchantment_industry:super_experience_block",
+    "count": 1,
+    "ingredients": [
+      "create_enchantment_industry:super_experience_nugget",
+      "create_enchantment_industry:super_experience_nugget",
+      "create_enchantment_industry:super_experience_nugget",
+      "create_enchantment_industry:super_experience_nugget",
+      "create_enchantment_industry:super_experience_nugget",
+      "create_enchantment_industry:super_experience_nugget",
+      "create_enchantment_industry:super_experience_nugget",
+      "create_enchantment_industry:super_experience_nugget",
+      "create_enchantment_industry:super_experience_nugget"
+    ]
+  },
+  "create_enchantment_industry:super_experience_nugget": {
+    "result": "create_enchantment_industry:super_experience_nugget",
+    "count": 9,
+    "ingredients": [
+      "create_enchantment_industry:super_experience_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "extended_industrialization:superconductor_tesla_receiver_hatch": {
+    "result": "extended_industrialization:superconductor_tesla_receiver_hatch",
+    "count": 1,
+    "ingredients": [
+      "extended_industrialization:tesla_receiver",
+      "",
+      "",
+      "modern_industrialization:quantum_machine_hull",
+      "",
+      "",
+      "modern_industrialization:superconductor_cable",
+      "",
+      ""
+    ]
+  },
+  "herbsandharvest:sugar_cookie": {
+    "result": "herbsandharvest:sugar_cookie",
+    "count": 8,
+    "ingredients": [
+      "minecraft:wheat",
+      "minecraft:egg",
+      "minecraft:sugar",
+      "minecraft:butter",
+      "minecraft:salt",
+      "minecraft:lemon",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:summoning_crystal_fire": {
+    "result": "iceandfire:summoning_crystal_fire",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:summoning_crystal_fire",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:summoning_crystal_ice": {
+    "result": "iceandfire:summoning_crystal_ice",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:summoning_crystal_ice",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:summoning_crystal_lightning": {
+    "result": "iceandfire:summoning_crystal_lightning",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:summoning_crystal_lightning",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mekanism:supercharged_coil": {
+    "result": "mekanism:supercharged_coil",
+    "count": 1,
+    "ingredients": [
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "minecraft:ultimate",
+      "mekanism:laser",
+      "minecraft:ultimate",
+      "minecraft:polonium",
+      "minecraft:polonium",
+      "minecraft:polonium"
+    ]
+  },
+  "mekanism:superheating_element": {
+    "result": "mekanism:superheating_element",
+    "count": 1,
+    "ingredients": [
+      "minecraft:basic",
+      "minecraft:copper_ingot",
+      "minecraft:basic",
+      "minecraft:copper_ingot",
+      "mekanism:steel_casing",
+      "minecraft:copper_ingot",
+      "minecraft:basic",
+      "minecraft:copper_ingot",
+      "minecraft:basic"
+    ]
+  },
+  "minecolonies:supplycampdeployer": {
+    "result": "minecolonies:supplycampdeployer",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "minecraft:chest",
+      "",
+      "minecraft:chest",
+      "minecraft:chest",
+      "minecraft:chest",
+      "minecraft:chest"
+    ]
+  },
+  "minecolonies:supplychestdeployer": {
+    "result": "minecolonies:supplychestdeployer",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "minecraft:boats",
+      "",
+      "minecraft:boats",
+      "minecraft:boats",
+      "minecraft:boats",
+      "minecraft:boats"
+    ]
+  },
+  "minecraft:sugar": {
+    "result": "minecraft:sugar",
+    "count": 9,
+    "ingredients": [
+      "supplementaries:sugar_cube",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "moderndynamics:superconductor_cable": {
+    "result": "moderndynamics:superconductor_cable",
+    "count": 4,
+    "ingredients": [
+      "modern_industrialization:superconductor_cable",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:superconductor_cable": {
+    "result": "modern_industrialization:superconductor_cable",
+    "count": 1,
+    "ingredients": [
+      "moderndynamics:superconductor_cable",
+      "moderndynamics:superconductor_cable",
+      "",
+      "moderndynamics:superconductor_cable",
+      "moderndynamics:superconductor_cable",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:superconductor_storage_unit": {
+    "result": "modern_industrialization:superconductor_storage_unit",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:plutonium_battery",
+      "modern_industrialization:plutonium_battery",
+      "modern_industrialization:plutonium_battery",
+      "minecraft:battery_alloy",
+      "modern_industrialization:quantum_machine_hull",
+      "minecraft:battery_alloy",
+      "modern_industrialization:plutonium_battery",
+      "modern_industrialization:plutonium_battery",
+      "modern_industrialization:plutonium_battery"
+    ]
+  },
+  "modern_industrialization:superconductor_ev_transformer": {
+    "result": "modern_industrialization:superconductor_ev_transformer",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:ev_superconductor_transformer",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:superconductor_energy_input_hatch": {
+    "result": "modern_industrialization:superconductor_energy_input_hatch",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:superconductor_cable",
+      "",
+      "",
+      "modern_industrialization:quantum_machine_hull",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:superconductor_energy_output_hatch": {
+    "result": "modern_industrialization:superconductor_energy_output_hatch",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:quantum_machine_hull",
+      "",
+      "",
+      "modern_industrialization:superconductor_cable",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:sulfur_block": {
+    "result": "modern_industrialization:sulfur_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:sulfur",
+      "minecraft:sulfur",
+      "minecraft:sulfur",
+      "minecraft:sulfur",
+      "modern_industrialization:sulfur_dust",
+      "minecraft:sulfur",
+      "minecraft:sulfur",
+      "minecraft:sulfur",
+      "minecraft:sulfur"
+    ]
+  },
+  "modern_industrialization:sulfur_dust": {
+    "result": "modern_industrialization:sulfur_dust",
+    "count": 1,
+    "ingredients": [
+      "minecraft:sulfur",
+      "minecraft:sulfur",
+      "minecraft:sulfur",
+      "minecraft:sulfur",
+      "modern_industrialization:sulfur_tiny_dust",
+      "minecraft:sulfur",
+      "minecraft:sulfur",
+      "minecraft:sulfur",
+      "minecraft:sulfur"
+    ]
+  },
+  "modern_industrialization:sulfur_tiny_dust": {
+    "result": "modern_industrialization:sulfur_tiny_dust",
+    "count": 9,
+    "ingredients": [
+      "modern_industrialization:sulfur_dust",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:superconductor_coil": {
+    "result": "modern_industrialization:superconductor_coil",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:superconductor_cable",
+      "modern_industrialization:superconductor_cable",
+      "modern_industrialization:superconductor_cable",
+      "modern_industrialization:superconductor_cable",
+      "",
+      "modern_industrialization:superconductor_cable",
+      "modern_industrialization:superconductor_cable",
+      "modern_industrialization:superconductor_cable",
+      "modern_industrialization:superconductor_cable"
+    ]
+  },
+  "modern_industrialization:superconductor_dust": {
+    "result": "modern_industrialization:superconductor_dust",
+    "count": 1,
+    "ingredients": [
+      "minecraft:superconductor",
+      "minecraft:superconductor",
+      "minecraft:superconductor",
+      "minecraft:superconductor",
+      "modern_industrialization:superconductor_tiny_dust",
+      "minecraft:superconductor",
+      "minecraft:superconductor",
+      "minecraft:superconductor",
+      "minecraft:superconductor"
+    ]
+  },
+  "modern_industrialization:superconductor_ingot": {
+    "result": "modern_industrialization:superconductor_ingot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:superconductor",
+      "minecraft:superconductor",
+      "minecraft:superconductor",
+      "minecraft:superconductor",
+      "modern_industrialization:superconductor_nugget",
+      "minecraft:superconductor",
+      "minecraft:superconductor",
+      "minecraft:superconductor",
+      "minecraft:superconductor"
+    ]
+  },
+  "modern_industrialization:superconductor_nugget": {
+    "result": "modern_industrialization:superconductor_nugget",
+    "count": 9,
+    "ingredients": [
+      "modern_industrialization:superconductor_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:superconductor_tiny_dust": {
+    "result": "modern_industrialization:superconductor_tiny_dust",
+    "count": 9,
+    "ingredients": [
+      "modern_industrialization:superconductor_dust",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mysticalagriculture:supremium_essence": {
+    "result": "mysticalagriculture:supremium_essence",
+    "count": 1,
+    "ingredients": [
+      "",
+      "mysticalagriculture:imperium_essence",
+      "",
+      "mysticalagriculture:imperium_essence",
+      "minecraft:infusion_crystals",
+      "mysticalagriculture:imperium_essence",
+      "",
+      "mysticalagriculture:imperium_essence",
+      ""
+    ]
+  },
+  "mysticalagradditions:supremium_apple": {
+    "result": "mysticalagradditions:supremium_apple",
+    "count": 1,
+    "ingredients": [
+      "",
+      "mysticalagriculture:supremium_essence",
+      "",
+      "mysticalagriculture:supremium_essence",
+      "minecraft:golden_apple",
+      "mysticalagriculture:supremium_essence",
+      "",
+      "mysticalagriculture:supremium_essence",
+      ""
+    ]
+  },
+  "mysticalagradditions:supremium_coal": {
+    "result": "mysticalagradditions:supremium_coal",
+    "count": 9,
+    "ingredients": [
+      "mysticalagradditions:supremium_coal_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mysticalagradditions:supremium_coal_block": {
+    "result": "mysticalagradditions:supremium_coal_block",
+    "count": 1,
+    "ingredients": [
+      "mysticalagradditions:supremium_coal",
+      "mysticalagradditions:supremium_coal",
+      "mysticalagradditions:supremium_coal",
+      "mysticalagradditions:supremium_coal",
+      "mysticalagradditions:supremium_coal",
+      "mysticalagradditions:supremium_coal",
+      "mysticalagradditions:supremium_coal",
+      "mysticalagradditions:supremium_coal",
+      "mysticalagradditions:supremium_coal"
+    ]
+  },
+  "mysticalagradditions:supremium_paxel": {
+    "result": "mysticalagradditions:supremium_paxel",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:supremium_axe",
+      "mysticalagriculture:supremium_pickaxe",
+      "mysticalagriculture:supremium_shovel",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "mysticalagriculture:supremium_block": {
+    "result": "mysticalagriculture:supremium_block",
+    "count": 1,
+    "ingredients": [
+      "",
+      "mysticalagriculture:imperium_block",
+      "",
+      "mysticalagriculture:imperium_block",
+      "mysticalagriculture:master_infusion_crystal",
+      "mysticalagriculture:imperium_block",
+      "",
+      "mysticalagriculture:imperium_block",
+      ""
+    ]
+  },
+  "mysticalagriculture:supremium_farmland": {
+    "result": "mysticalagriculture:supremium_farmland",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:supremium_essence",
+      "minecraft:farmland",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mysticalagriculture:supremium_gemstone": {
+    "result": "mysticalagriculture:supremium_gemstone",
+    "count": 9,
+    "ingredients": [
+      "mysticalagriculture:supremium_gemstone_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mysticalagriculture:supremium_gemstone_block": {
+    "result": "mysticalagriculture:supremium_gemstone_block",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:supremium_gemstone",
+      "mysticalagriculture:supremium_gemstone",
+      "mysticalagriculture:supremium_gemstone",
+      "mysticalagriculture:supremium_gemstone",
+      "mysticalagriculture:supremium_gemstone",
+      "mysticalagriculture:supremium_gemstone",
+      "mysticalagriculture:supremium_gemstone",
+      "mysticalagriculture:supremium_gemstone",
+      "mysticalagriculture:supremium_gemstone"
+    ]
+  },
+  "mysticalagriculture:supremium_growth_accelerator": {
+    "result": "mysticalagriculture:supremium_growth_accelerator",
+    "count": 3,
+    "ingredients": [
+      "mysticalagriculture:supremium_essence",
+      "minecraft:stone",
+      "mysticalagriculture:supremium_essence",
+      "minecraft:stone",
+      "mysticalagriculture:supremium_gemstone",
+      "minecraft:stone",
+      "mysticalagriculture:supremium_essence",
+      "minecraft:stone",
+      "mysticalagriculture:supremium_essence"
+    ]
+  },
+  "mysticalagriculture:supremium_ingot": {
+    "result": "mysticalagriculture:supremium_ingot",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:supremium_nugget",
+      "mysticalagriculture:supremium_nugget",
+      "mysticalagriculture:supremium_nugget",
+      "mysticalagriculture:supremium_nugget",
+      "mysticalagriculture:supremium_nugget",
+      "mysticalagriculture:supremium_nugget",
+      "mysticalagriculture:supremium_nugget",
+      "mysticalagriculture:supremium_nugget",
+      "mysticalagriculture:supremium_nugget"
+    ]
+  },
+  "mysticalagriculture:supremium_ingot_block": {
+    "result": "mysticalagriculture:supremium_ingot_block",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:supremium_ingot",
+      "mysticalagriculture:supremium_ingot",
+      "mysticalagriculture:supremium_ingot",
+      "mysticalagriculture:supremium_ingot",
+      "mysticalagriculture:supremium_ingot",
+      "mysticalagriculture:supremium_ingot",
+      "mysticalagriculture:supremium_ingot",
+      "mysticalagriculture:supremium_ingot",
+      "mysticalagriculture:supremium_ingot"
+    ]
+  },
+  "mysticalagriculture:supremium_nugget": {
+    "result": "mysticalagriculture:supremium_nugget",
+    "count": 9,
+    "ingredients": [
+      "mysticalagriculture:supremium_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mysticalagriculture:supremium_upgrade": {
+    "result": "mysticalagriculture:supremium_upgrade",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:supremium_essence",
+      "mysticalagriculture:supremium_ingot",
+      "mysticalagriculture:supremium_essence",
+      "mysticalagriculture:supremium_ingot",
+      "mysticalagriculture:imperium_upgrade",
+      "mysticalagriculture:supremium_ingot",
+      "mysticalagriculture:supremium_essence",
+      "mysticalagriculture:supremium_ingot",
+      "mysticalagriculture:supremium_essence"
+    ]
+  },
+  "minecraft:sugar_cane": {
+    "result": "minecraft:sugar_cane",
+    "count": 16,
+    "ingredients": [
+      "",
+      "mysticalagriculture:nature_essence",
+      "",
+      "mysticalagriculture:nature_essence",
+      "mysticalagriculture:nature_essence",
+      "mysticalagriculture:nature_essence",
+      "mysticalagriculture:nature_essence",
+      "",
+      "mysticalagriculture:nature_essence"
+    ]
+  },
+  "oritech:superconductor_duct_block": {
+    "result": "oritech:superconductor_duct_block",
+    "count": 4,
+    "ingredients": [
+      "oritech:superconductor",
+      "minecraft:stone",
+      "oritech:superconductor",
+      "minecraft:stone",
+      "minecraft:plating",
+      "minecraft:stone",
+      "oritech:superconductor",
+      "minecraft:stone",
+      "oritech:superconductor"
+    ]
+  },
+  "oritech:superconductor": {
+    "result": "oritech:superconductor",
+    "count": 1,
+    "ingredients": [
+      "oritech:framed_superconductor",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2crops:sunchokeseeditem": {
+    "result": "pamhc2crops:sunchokeseeditem",
+    "count": 1,
+    "ingredients": [
+      "pamhc2crops:sunchokeitem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:sunflowerseedsitem": {
+    "result": "pamhc2foodcore:sunflowerseedsitem",
+    "count": 2,
+    "ingredients": [
+      "minecraft:sunflower",
+      "minecraft:sunflower",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:suaderoitem": {
+    "result": "pamhc2foodextended:suaderoitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:rawbeef",
+      "minecraft:cookingoil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:succotashitem": {
+    "result": "pamhc2foodextended:succotashitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:bean",
+      "minecraft:corn",
+      "minecraft:onion",
+      "minecraft:spiceleaf",
+      "minecraft:tomato",
+      "minecraft:butter",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:sugarcookieitem": {
+    "result": "pamhc2foodextended:sugarcookieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:flour",
+      "minecraft:butter",
+      "minecraft:sugar",
+      "minecraft:sugar",
+      "minecraft:egg",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:summersquashwithradishitem": {
+    "result": "pamhc2foodextended:summersquashwithradishitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:radish",
+      "minecraft:zucchini",
+      "minecraft:pumpkin",
+      "minecraft:spiceleaf",
+      "minecraft:cookingoil",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:sundayhighteaitem": {
+    "result": "pamhc2foodextended:sundayhighteaitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "pamhc2foodextended:earlgreyteaitem",
+      "pamhc2foodextended:cucumbersandwichitem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:sundayroastitem": {
+    "result": "pamhc2foodextended:sundayroastitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "pamhc2foodextended:roastchickenitem",
+      "pamhc2foodextended:roastpotatoesitem",
+      "minecraft:vegetables",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:sunflowerbroccolisaladitem": {
+    "result": "pamhc2foodextended:sunflowerbroccolisaladitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "pamhc2foodcore:sunflowerseedsitem",
+      "minecraft:broccoli",
+      "minecraft:mayonaise",
+      "minecraft:sugar",
+      "minecraft:rawpork",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:sunflowerseedsbutteritem": {
+    "result": "pamhc2foodextended:sunflowerseedsbutteritem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_grinder",
+      "minecraft:sunflowerseeds",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:sunflowerwheatrollsitem": {
+    "result": "pamhc2foodextended:sunflowerwheatrollsitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "pamhc2foodcore:sunflowerseedsitem",
+      "pamhc2foodcore:sunflowerseedsitem",
+      "pamhc2foodcore:sunflowerseedsitem",
+      "minecraft:flour",
+      "minecraft:salt",
+      "minecraft:cookingoil",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:supremepizzaitem": {
+    "result": "pamhc2foodextended:supremepizzaitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:dough",
+      "minecraft:tomato",
+      "minecraft:cheese",
+      "minecraft:pepperoni",
+      "minecraft:bellpepper",
+      "minecraft:onion",
+      "minecraft:spiceleaf",
+      ""
+    ]
+  },
+  "pamhc2foodextended:surfandturfitem": {
+    "result": "pamhc2foodextended:surfandturfitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:rawfish",
+      "minecraft:rawmeats",
+      "minecraft:vegetables",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:sushiitem": {
+    "result": "pamhc2foodextended:sushiitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:rawfish",
+      "minecraft:kelp",
+      "minecraft:rice",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivebees:sugar_cane_nest": {
+    "result": "productivebees:sugar_cane_nest",
+    "count": 1,
+    "ingredients": [
+      "productivebees:sugar_cane_nest",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sugar_apple_bookshelf": {
+    "result": "productivetrees:sugar_apple_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:sugar_apple_planks",
+      "productivetrees:sugar_apple_planks",
+      "productivetrees:sugar_apple_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:sugar_apple_planks",
+      "productivetrees:sugar_apple_planks",
+      "productivetrees:sugar_apple_planks"
+    ]
+  },
+  "productivetrees:sugar_maple_bookshelf": {
+    "result": "productivetrees:sugar_maple_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:sugar_maple_planks",
+      "productivetrees:sugar_maple_planks",
+      "productivetrees:sugar_maple_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:sugar_maple_planks",
+      "productivetrees:sugar_maple_planks",
+      "productivetrees:sugar_maple_planks"
+    ]
+  },
+  "productivetrees:sugar_apple_button": {
+    "result": "productivetrees:sugar_apple_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:sugar_apple_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sugar_maple_button": {
+    "result": "productivetrees:sugar_maple_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:sugar_maple_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sugar_apple_door": {
+    "result": "productivetrees:sugar_apple_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:sugar_apple_planks",
+      "productivetrees:sugar_apple_planks",
+      "",
+      "productivetrees:sugar_apple_planks",
+      "productivetrees:sugar_apple_planks",
+      "",
+      "productivetrees:sugar_apple_planks",
+      "productivetrees:sugar_apple_planks",
+      ""
+    ]
+  },
+  "productivetrees:sugar_maple_door": {
+    "result": "productivetrees:sugar_maple_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:sugar_maple_planks",
+      "productivetrees:sugar_maple_planks",
+      "",
+      "productivetrees:sugar_maple_planks",
+      "productivetrees:sugar_maple_planks",
+      "",
+      "productivetrees:sugar_maple_planks",
+      "productivetrees:sugar_maple_planks",
+      ""
+    ]
+  },
+  "productivetrees:sugar_apple_fence": {
+    "result": "productivetrees:sugar_apple_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:sugar_apple_planks",
+      "minecraft:stick",
+      "productivetrees:sugar_apple_planks",
+      "productivetrees:sugar_apple_planks",
+      "minecraft:stick",
+      "productivetrees:sugar_apple_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sugar_maple_fence": {
+    "result": "productivetrees:sugar_maple_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:sugar_maple_planks",
+      "minecraft:stick",
+      "productivetrees:sugar_maple_planks",
+      "productivetrees:sugar_maple_planks",
+      "minecraft:stick",
+      "productivetrees:sugar_maple_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sugar_apple_fence_gate": {
+    "result": "productivetrees:sugar_apple_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:sugar_apple_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:sugar_apple_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sugar_maple_fence_gate": {
+    "result": "productivetrees:sugar_maple_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:sugar_maple_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:sugar_maple_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sugar_apple_hanging_sign": {
+    "result": "productivetrees:sugar_apple_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:sugar_apple_planks",
+      "productivetrees:sugar_apple_planks",
+      "productivetrees:sugar_apple_planks",
+      "productivetrees:sugar_apple_planks",
+      "productivetrees:sugar_apple_planks",
+      "productivetrees:sugar_apple_planks"
+    ]
+  },
+  "productivetrees:sugar_maple_hanging_sign": {
+    "result": "productivetrees:sugar_maple_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:sugar_maple_planks",
+      "productivetrees:sugar_maple_planks",
+      "productivetrees:sugar_maple_planks",
+      "productivetrees:sugar_maple_planks",
+      "productivetrees:sugar_maple_planks",
+      "productivetrees:sugar_maple_planks"
+    ]
+  },
+  "productivetrees:sugar_apple_planks": {
+    "result": "productivetrees:sugar_apple_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sugar_maple_planks": {
+    "result": "productivetrees:sugar_maple_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sugar_apple_pressure_plate": {
+    "result": "productivetrees:sugar_apple_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:sugar_apple_planks",
+      "productivetrees:sugar_apple_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sugar_maple_pressure_plate": {
+    "result": "productivetrees:sugar_maple_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:sugar_maple_planks",
+      "productivetrees:sugar_maple_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sugar_apple_sign": {
+    "result": "productivetrees:sugar_apple_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:sugar_apple_planks",
+      "productivetrees:sugar_apple_planks",
+      "productivetrees:sugar_apple_planks",
+      "productivetrees:sugar_apple_planks",
+      "productivetrees:sugar_apple_planks",
+      "productivetrees:sugar_apple_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:sugar_maple_sign": {
+    "result": "productivetrees:sugar_maple_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:sugar_maple_planks",
+      "productivetrees:sugar_maple_planks",
+      "productivetrees:sugar_maple_planks",
+      "productivetrees:sugar_maple_planks",
+      "productivetrees:sugar_maple_planks",
+      "productivetrees:sugar_maple_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:sugar_apple_slab": {
+    "result": "productivetrees:sugar_apple_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:sugar_apple_planks",
+      "productivetrees:sugar_apple_planks",
+      "productivetrees:sugar_apple_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sugar_maple_slab": {
+    "result": "productivetrees:sugar_maple_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:sugar_maple_planks",
+      "productivetrees:sugar_maple_planks",
+      "productivetrees:sugar_maple_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sugar_apple_stairs": {
+    "result": "productivetrees:sugar_apple_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:sugar_apple_planks",
+      "",
+      "",
+      "productivetrees:sugar_apple_planks",
+      "productivetrees:sugar_apple_planks",
+      "",
+      "productivetrees:sugar_apple_planks",
+      "productivetrees:sugar_apple_planks",
+      "productivetrees:sugar_apple_planks"
+    ]
+  },
+  "productivetrees:sugar_maple_stairs": {
+    "result": "productivetrees:sugar_maple_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:sugar_maple_planks",
+      "",
+      "",
+      "productivetrees:sugar_maple_planks",
+      "productivetrees:sugar_maple_planks",
+      "",
+      "productivetrees:sugar_maple_planks",
+      "productivetrees:sugar_maple_planks",
+      "productivetrees:sugar_maple_planks"
+    ]
+  },
+  "productivetrees:sugar_apple_trapdoor": {
+    "result": "productivetrees:sugar_apple_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:sugar_apple_planks",
+      "productivetrees:sugar_apple_planks",
+      "productivetrees:sugar_apple_planks",
+      "productivetrees:sugar_apple_planks",
+      "productivetrees:sugar_apple_planks",
+      "productivetrees:sugar_apple_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sugar_maple_trapdoor": {
+    "result": "productivetrees:sugar_maple_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:sugar_maple_planks",
+      "productivetrees:sugar_maple_planks",
+      "productivetrees:sugar_maple_planks",
+      "productivetrees:sugar_maple_planks",
+      "productivetrees:sugar_maple_planks",
+      "productivetrees:sugar_maple_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sugar_apple_wood": {
+    "result": "productivetrees:sugar_apple_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:sugar_apple_log",
+      "productivetrees:sugar_apple_log",
+      "",
+      "productivetrees:sugar_apple_log",
+      "productivetrees:sugar_apple_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sugar_maple_wood": {
+    "result": "productivetrees:sugar_maple_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:sugar_maple_log",
+      "productivetrees:sugar_maple_log",
+      "",
+      "productivetrees:sugar_maple_log",
+      "productivetrees:sugar_maple_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "securitycraft:suspicious_gravel_mine": {
+    "result": "securitycraft:suspicious_gravel_mine",
+    "count": 1,
+    "ingredients": [
+      "minecraft:suspicious_gravel",
+      "securitycraft:mine",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "securitycraft:suspicious_sand_mine": {
+    "result": "securitycraft:suspicious_sand_mine",
+    "count": 1,
+    "ingredients": [
+      "minecraft:suspicious_sand",
+      "securitycraft:mine",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgear:super_mixer": {
+    "result": "silentgear:super_mixer",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tyrian_steel",
+      "silentgear:custom_gem",
+      "minecraft:tyrian_steel",
+      "minecraft:tyrian_steel",
+      "minecraft:beacon",
+      "minecraft:tyrian_steel",
+      "",
+      "minecraft:tyrian_steel",
+      ""
+    ]
+  },
+  "silentgems:sugar_cookie": {
+    "result": "silentgems:sugar_cookie",
+    "count": 8,
+    "ingredients": [
+      "",
+      "minecraft:sugar",
+      "",
+      "minecraft:wheat",
+      "minecraft:wheat",
+      "minecraft:wheat",
+      "",
+      "minecraft:sugar",
+      ""
+    ]
+  },
+  "silentgems:summon_kitty": {
+    "result": "silentgems:summon_kitty",
+    "count": 1,
+    "ingredients": [
+      "minecraft:string",
+      "minecraft:stew_fish",
+      "minecraft:string",
+      "minecraft:string",
+      "minecraft:gems",
+      "minecraft:string",
+      "minecraft:string",
+      "minecraft:stew_fish",
+      "minecraft:string"
+    ]
+  },
+  "silentgems:summon_puppy": {
+    "result": "silentgems:summon_puppy",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stew_fish",
+      "",
+      "minecraft:leather",
+      "minecraft:gems",
+      "minecraft:leather",
+      "",
+      "minecraft:stew_fish",
+      ""
+    ]
+  },
+  "sophisticatedstorage:super_packing_tape": {
+    "result": "sophisticatedstorage:super_packing_tape",
+    "count": 1,
+    "ingredients": [
+      "sophisticatedstorage:packing_tape",
+      "sophisticatedstorage:packing_tape",
+      "sophisticatedstorage:packing_tape",
+      "sophisticatedstorage:packing_tape",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "supplementaries:sugar_cube": {
+    "result": "supplementaries:sugar_cube",
+    "count": 1,
+    "ingredients": [
+      "minecraft:sugar",
+      "minecraft:sugar",
+      "minecraft:sugar",
+      "minecraft:sugar",
+      "minecraft:sugar",
+      "minecraft:sugar",
+      "minecraft:sugar",
+      "minecraft:sugar",
+      "minecraft:sugar"
+    ]
+  },
+  "theurgy:sulfuric_flux_emitter": {
+    "result": "theurgy:sulfuric_flux_emitter",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:sal_ammoniac",
+      "",
+      "minecraft:gold_ingot",
+      "minecraft:alchemical_sulfurs",
+      "minecraft:gold_ingot",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone"
+    ]
+  },
+  "the_bumblezone:super_candle_black": {
+    "result": "the_bumblezone:super_candle_black",
+    "count": 1,
+    "ingredients": [
+      "minecraft:super_candles",
+      "minecraft:black",
+      "minecraft:black",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "the_bumblezone:super_candle_blue": {
+    "result": "the_bumblezone:super_candle_blue",
+    "count": 1,
+    "ingredients": [
+      "minecraft:super_candles",
+      "minecraft:blue",
+      "minecraft:blue",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "the_bumblezone:super_candle_brown": {
+    "result": "the_bumblezone:super_candle_brown",
+    "count": 1,
+    "ingredients": [
+      "minecraft:super_candles",
+      "minecraft:brown",
+      "minecraft:brown",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "the_bumblezone:super_candle_cyan": {
+    "result": "the_bumblezone:super_candle_cyan",
+    "count": 1,
+    "ingredients": [
+      "minecraft:super_candles",
+      "minecraft:cyan",
+      "minecraft:cyan",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "the_bumblezone:super_candle_gray": {
+    "result": "the_bumblezone:super_candle_gray",
+    "count": 1,
+    "ingredients": [
+      "minecraft:super_candles",
+      "minecraft:gray",
+      "minecraft:gray",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "the_bumblezone:super_candle_green": {
+    "result": "the_bumblezone:super_candle_green",
+    "count": 1,
+    "ingredients": [
+      "minecraft:super_candles",
+      "minecraft:green",
+      "minecraft:green",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "the_bumblezone:super_candle_light_blue": {
+    "result": "the_bumblezone:super_candle_light_blue",
+    "count": 1,
+    "ingredients": [
+      "minecraft:super_candles",
+      "minecraft:light_blue",
+      "minecraft:light_blue",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "the_bumblezone:super_candle_light_gray": {
+    "result": "the_bumblezone:super_candle_light_gray",
+    "count": 1,
+    "ingredients": [
+      "minecraft:super_candles",
+      "minecraft:light_gray",
+      "minecraft:light_gray",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "the_bumblezone:super_candle_lime": {
+    "result": "the_bumblezone:super_candle_lime",
+    "count": 1,
+    "ingredients": [
+      "minecraft:super_candles",
+      "minecraft:lime",
+      "minecraft:lime",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "the_bumblezone:super_candle_magenta": {
+    "result": "the_bumblezone:super_candle_magenta",
+    "count": 1,
+    "ingredients": [
+      "minecraft:super_candles",
+      "minecraft:magenta",
+      "minecraft:magenta",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "the_bumblezone:super_candle": {
+    "result": "the_bumblezone:super_candle",
+    "count": 1,
+    "ingredients": [
+      "minecraft:string",
+      "",
+      "",
+      "minecraft:carvable_wax",
+      "",
+      "",
+      "minecraft:carvable_wax",
+      "",
+      ""
+    ]
+  },
+  "the_bumblezone:super_candle_orange": {
+    "result": "the_bumblezone:super_candle_orange",
+    "count": 1,
+    "ingredients": [
+      "minecraft:super_candles",
+      "minecraft:orange",
+      "minecraft:orange",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "the_bumblezone:super_candle_pink": {
+    "result": "the_bumblezone:super_candle_pink",
+    "count": 1,
+    "ingredients": [
+      "minecraft:super_candles",
+      "minecraft:pink",
+      "minecraft:pink",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "the_bumblezone:super_candle_purple": {
+    "result": "the_bumblezone:super_candle_purple",
+    "count": 1,
+    "ingredients": [
+      "minecraft:super_candles",
+      "minecraft:purple",
+      "minecraft:purple",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "the_bumblezone:super_candle_red": {
+    "result": "the_bumblezone:super_candle_red",
+    "count": 1,
+    "ingredients": [
+      "minecraft:super_candles",
+      "minecraft:red",
+      "minecraft:red",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "the_bumblezone:super_candle_white": {
+    "result": "the_bumblezone:super_candle_white",
+    "count": 1,
+    "ingredients": [
+      "minecraft:super_candles",
+      "minecraft:white",
+      "minecraft:white",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "the_bumblezone:super_candle_yellow": {
+    "result": "the_bumblezone:super_candle_yellow",
+    "count": 1,
+    "ingredients": [
+      "minecraft:super_candles",
+      "minecraft:yellow",
+      "minecraft:yellow",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

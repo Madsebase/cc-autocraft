@@ -1,0 +1,152 @@
+{
+  "industrialization_overdrive:pyrolyse_oven": {
+    "result": "industrialization_overdrive:pyrolyse_oven",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:cupronickel_wire_magnetic",
+      "modern_industrialization:electronic_circuit",
+      "modern_industrialization:cupronickel_wire_magnetic",
+      "modern_industrialization:coke_oven",
+      "modern_industrialization:advanced_machine_hull",
+      "modern_industrialization:coke_oven",
+      "modern_industrialization:bronze_plated_bricks",
+      "modern_industrialization:electronic_circuit",
+      "modern_industrialization:bronze_plated_bricks"
+    ]
+  },
+  "irons_spellbooks:pyrium_staff": {
+    "result": "irons_spellbooks:pyrium_staff",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:pyrium",
+      "",
+      "",
+      "irons_spellbooks:magic_cloth",
+      "minecraft:pyrium",
+      "minecraft:netherite",
+      "",
+      ""
+    ]
+  },
+  "irons_spellbooks:pyromancer_boots": {
+    "result": "irons_spellbooks:pyromancer_boots",
+    "count": 1,
+    "ingredients": [
+      "minecraft:wizard_base_boots",
+      "irons_spellbooks:fire_rune",
+      "irons_spellbooks:arcane_essence",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "irons_spellbooks:pyromancer_chestplate": {
+    "result": "irons_spellbooks:pyromancer_chestplate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:chest",
+      "irons_spellbooks:fire_rune",
+      "irons_spellbooks:arcane_essence",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "irons_spellbooks:pyromancer_helmet": {
+    "result": "irons_spellbooks:pyromancer_helmet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:wizard_base_helmet",
+      "irons_spellbooks:fire_rune",
+      "irons_spellbooks:arcane_essence",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "irons_spellbooks:pyromancer_leggings": {
+    "result": "irons_spellbooks:pyromancer_leggings",
+    "count": 1,
+    "ingredients": [
+      "minecraft:wizard_base_leggings",
+      "irons_spellbooks:fire_rune",
+      "irons_spellbooks:arcane_essence",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwholidays:pyramid_cobweb": {
+    "result": "mcwholidays:pyramid_cobweb",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:cobweb",
+      "",
+      "minecraft:cobweb",
+      "minecraft:cobweb",
+      "minecraft:cobweb",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mffs:pyramid_mode": {
+    "result": "mffs:pyramid_mode",
+    "count": 1,
+    "ingredients": [
+      "mffs:focus_matrix",
+      "",
+      "",
+      "mffs:focus_matrix",
+      "mffs:focus_matrix",
+      "",
+      "mffs:focus_matrix",
+      "mffs:focus_matrix",
+      "mffs:focus_matrix"
+    ]
+  },
+  "reliquary:pyromancer_staff": {
+    "result": "reliquary:pyromancer_staff",
+    "count": 1,
+    "ingredients": [
+      "reliquary:infernal_claws",
+      "minecraft:blaze",
+      "reliquary:infernal_tear",
+      "reliquary:salamander_eye",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "theurgy:pyromantic_brazier": {
+    "result": "theurgy:pyromantic_brazier",
+    "count": 1,
+    "ingredients": [
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "minecraft:stone",
+      "minecraft:copper_ingot",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone"
+    ]
+  }
+}

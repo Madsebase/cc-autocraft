@@ -1,0 +1,62 @@
+{
+  "herbsandharvest:zucchini_seeds": {
+    "result": "herbsandharvest:zucchini_seeds",
+    "count": 1,
+    "ingredients": [
+      "herbsandharvest:zucchini",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2crops:zucchiniseeditem": {
+    "result": "pamhc2crops:zucchiniseeditem",
+    "count": 1,
+    "ingredients": [
+      "pamhc2crops:zucchiniitem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:zucchinibakeitem": {
+    "result": "pamhc2foodextended:zucchinibakeitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:zucchini",
+      "minecraft:tomato",
+      "minecraft:toast",
+      "minecraft:corn",
+      "minecraft:cheese",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:zucchinifriesitem": {
+    "result": "pamhc2foodextended:zucchinifriesitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:zucchini",
+      "minecraft:toast",
+      "minecraft:cheese",
+      "minecraft:egg",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

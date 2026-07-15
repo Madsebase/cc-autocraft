@@ -1,0 +1,2792 @@
+{
+  "actuallyadditions:netherite_aiot": {
+    "result": "actuallyadditions:netherite_aiot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:netherite_axe",
+      "minecraft:netherite_pickaxe",
+      "minecraft:netherite_sword",
+      "minecraft:netherite_shovel",
+      "minecraft:netherite_hoe",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ae2:nether_quartz_axe": {
+    "result": "ae2:nether_quartz_axe",
+    "count": 1,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "",
+      "minecraft:quartz",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "ae2:nether_quartz_cutting_knife": {
+    "result": "ae2:nether_quartz_cutting_knife",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "minecraft:stick",
+      "minecraft:iron_ingot",
+      "minecraft:stick",
+      "",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      ""
+    ]
+  },
+  "ae2:nether_quartz_hoe": {
+    "result": "ae2:nether_quartz_hoe",
+    "count": 1,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "ae2:nether_quartz_pickaxe": {
+    "result": "ae2:nether_quartz_pickaxe",
+    "count": 1,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "ae2:nether_quartz_shovel": {
+    "result": "ae2:nether_quartz_shovel",
+    "count": 1,
+    "ingredients": [
+      "minecraft:quartz",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "ae2:nether_quartz_sword": {
+    "result": "ae2:nether_quartz_sword",
+    "count": 1,
+    "ingredients": [
+      "minecraft:quartz",
+      "",
+      "",
+      "minecraft:quartz",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "ae2:nether_quartz_wrench": {
+    "result": "ae2:nether_quartz_wrench",
+    "count": 1,
+    "ingredients": [
+      "minecraft:quartz",
+      "",
+      "minecraft:quartz",
+      "",
+      "minecraft:quartz",
+      "",
+      "minecraft:quartz",
+      "",
+      "minecraft:quartz"
+    ]
+  },
+  "ae2:network_tool": {
+    "result": "ae2:network_tool",
+    "count": 1,
+    "ingredients": [
+      "minecraft:illuminated_panel",
+      "minecraft:chest",
+      "minecraft:quartz",
+      "ae2:calculation_processor",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ae2netanalyser:network_analyser": {
+    "result": "ae2netanalyser:network_analyser",
+    "count": 1,
+    "ingredients": [
+      "minecraft:copper_ingot",
+      "",
+      "minecraft:copper_ingot",
+      "minecraft:iron_ingot",
+      "ae2:logic_processor",
+      "minecraft:iron_ingot",
+      "ae2:sky_dust",
+      "minecraft:iron_ingot",
+      "ae2:sky_dust"
+    ]
+  },
+  "allthecompressed:netherite_block_1x": {
+    "result": "allthecompressed:netherite_block_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:netherite_block_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:netherite_block_2x": {
+    "result": "allthecompressed:netherite_block_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:netherite_block_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:netherite_block_3x": {
+    "result": "allthecompressed:netherite_block_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:netherite_block_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:netherite_block_4x": {
+    "result": "allthecompressed:netherite_block_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:netherite_block_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:netherite_block_5x": {
+    "result": "allthecompressed:netherite_block_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:netherite_block_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:netherite_block_6x": {
+    "result": "allthecompressed:netherite_block_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:netherite_block_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:netherite_block_7x": {
+    "result": "allthecompressed:netherite_block_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:netherite_block_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:netherite_block_8x": {
+    "result": "allthecompressed:netherite_block_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:netherite_block_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:netherite_block_9x": {
+    "result": "allthecompressed:netherite_block_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:netherite_block_8x",
+      "allthecompressed:netherite_block_8x",
+      "allthecompressed:netherite_block_8x",
+      "allthecompressed:netherite_block_8x",
+      "allthecompressed:netherite_block_8x",
+      "allthecompressed:netherite_block_8x",
+      "allthecompressed:netherite_block_8x",
+      "allthecompressed:netherite_block_8x",
+      "allthecompressed:netherite_block_8x"
+    ]
+  },
+  "allthecompressed:netherrack_1x": {
+    "result": "allthecompressed:netherrack_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:netherrack_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:netherrack_2x": {
+    "result": "allthecompressed:netherrack_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:netherrack_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:netherrack_3x": {
+    "result": "allthecompressed:netherrack_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:netherrack_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:netherrack_4x": {
+    "result": "allthecompressed:netherrack_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:netherrack_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:netherrack_5x": {
+    "result": "allthecompressed:netherrack_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:netherrack_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:netherrack_6x": {
+    "result": "allthecompressed:netherrack_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:netherrack_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:netherrack_7x": {
+    "result": "allthecompressed:netherrack_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:netherrack_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:netherrack_8x": {
+    "result": "allthecompressed:netherrack_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:netherrack_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:netherrack_9x": {
+    "result": "allthecompressed:netherrack_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:netherrack_8x",
+      "allthecompressed:netherrack_8x",
+      "allthecompressed:netherrack_8x",
+      "allthecompressed:netherrack_8x",
+      "allthecompressed:netherrack_8x",
+      "allthecompressed:netherrack_8x",
+      "allthecompressed:netherrack_8x",
+      "allthecompressed:netherrack_8x",
+      "allthecompressed:netherrack_8x"
+    ]
+  },
+  "allthecompressed:nether_star_block_1x": {
+    "result": "allthecompressed:nether_star_block_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:nether_star_block_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:nether_star_block_2x": {
+    "result": "allthecompressed:nether_star_block_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:nether_star_block_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:nether_star_block_3x": {
+    "result": "allthecompressed:nether_star_block_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:nether_star_block_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:nether_star_block_4x": {
+    "result": "allthecompressed:nether_star_block_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:nether_star_block_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:nether_star_block_5x": {
+    "result": "allthecompressed:nether_star_block_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:nether_star_block_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:nether_star_block_6x": {
+    "result": "allthecompressed:nether_star_block_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:nether_star_block_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:nether_star_block_7x": {
+    "result": "allthecompressed:nether_star_block_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:nether_star_block_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:nether_star_block_8x": {
+    "result": "allthecompressed:nether_star_block_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:nether_star_block_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:nether_star_block_9x": {
+    "result": "allthecompressed:nether_star_block_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:nether_star_block_8x",
+      "allthecompressed:nether_star_block_8x",
+      "allthecompressed:nether_star_block_8x",
+      "allthecompressed:nether_star_block_8x",
+      "allthecompressed:nether_star_block_8x",
+      "allthecompressed:nether_star_block_8x",
+      "allthecompressed:nether_star_block_8x",
+      "allthecompressed:nether_star_block_8x",
+      "allthecompressed:nether_star_block_8x"
+    ]
+  },
+  "allthecompressed:nether_wart_block_1x": {
+    "result": "allthecompressed:nether_wart_block_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:nether_wart_block_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:nether_wart_block_2x": {
+    "result": "allthecompressed:nether_wart_block_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:nether_wart_block_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:nether_wart_block_3x": {
+    "result": "allthecompressed:nether_wart_block_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:nether_wart_block_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:nether_wart_block_4x": {
+    "result": "allthecompressed:nether_wart_block_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:nether_wart_block_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:nether_wart_block_5x": {
+    "result": "allthecompressed:nether_wart_block_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:nether_wart_block_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:nether_wart_block_6x": {
+    "result": "allthecompressed:nether_wart_block_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:nether_wart_block_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:nether_wart_block_7x": {
+    "result": "allthecompressed:nether_wart_block_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:nether_wart_block_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:nether_wart_block_8x": {
+    "result": "allthecompressed:nether_wart_block_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:nether_wart_block_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:nether_wart_block_9x": {
+    "result": "allthecompressed:nether_wart_block_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:nether_wart_block_8x",
+      "allthecompressed:nether_wart_block_8x",
+      "allthecompressed:nether_wart_block_8x",
+      "allthecompressed:nether_wart_block_8x",
+      "allthecompressed:nether_wart_block_8x",
+      "allthecompressed:nether_wart_block_8x",
+      "allthecompressed:nether_wart_block_8x",
+      "allthecompressed:nether_wart_block_8x",
+      "allthecompressed:nether_wart_block_8x"
+    ]
+  },
+  "minecraft:netherite_block": {
+    "result": "minecraft:netherite_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:netherite_ingot",
+      "minecraft:netherite_ingot",
+      "minecraft:netherite_ingot",
+      "minecraft:netherite_ingot",
+      "minecraft:netherite_ingot",
+      "minecraft:netherite_ingot",
+      "minecraft:netherite_ingot",
+      "minecraft:netherite_ingot",
+      "minecraft:netherite_ingot"
+    ]
+  },
+  "minecraft:netherrack": {
+    "result": "minecraft:netherrack",
+    "count": 24,
+    "ingredients": [
+      "mysticalagriculture:nether_essence",
+      "mysticalagriculture:nether_essence",
+      "mysticalagriculture:nether_essence",
+      "mysticalagriculture:nether_essence",
+      "",
+      "mysticalagriculture:nether_essence",
+      "mysticalagriculture:nether_essence",
+      "mysticalagriculture:nether_essence",
+      "mysticalagriculture:nether_essence"
+    ]
+  },
+  "allthetweaks:nether_star_block": {
+    "result": "allthetweaks:nether_star_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:nether_stars",
+      "minecraft:nether_stars",
+      "minecraft:nether_stars",
+      "minecraft:nether_stars",
+      "minecraft:nether_stars",
+      "minecraft:nether_stars",
+      "minecraft:nether_stars",
+      "minecraft:nether_stars",
+      "minecraft:nether_stars"
+    ]
+  },
+  "minecraft:nether_wart_block": {
+    "result": "minecraft:nether_wart_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:nether_wart",
+      "minecraft:nether_wart",
+      "minecraft:nether_wart",
+      "minecraft:nether_wart",
+      "minecraft:nether_wart",
+      "minecraft:nether_wart",
+      "minecraft:nether_wart",
+      "minecraft:nether_wart",
+      "minecraft:nether_wart"
+    ]
+  },
+  "alltheores:netherite_dust": {
+    "result": "alltheores:netherite_dust",
+    "count": 1,
+    "ingredients": [
+      "minecraft:ore_hammers",
+      "minecraft:netherite",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:netherite_scrap": {
+    "result": "minecraft:netherite_scrap",
+    "count": 2,
+    "ingredients": [
+      "minecraft:ore_hammers",
+      "minecraft:netherite_scrap",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "alltheores:netherite_gear": {
+    "result": "alltheores:netherite_gear",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:netherite",
+      "",
+      "minecraft:netherite",
+      "minecraft:iron",
+      "minecraft:netherite",
+      "",
+      "minecraft:netherite",
+      ""
+    ]
+  },
+  "alltheores:netherite_plate": {
+    "result": "alltheores:netherite_plate",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "minecraft:ore_hammers",
+      "minecraft:netherite",
+      "",
+      "minecraft:netherite",
+      "",
+      ""
+    ]
+  },
+  "alltheores:netherite_rod": {
+    "result": "alltheores:netherite_rod",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "minecraft:netherite",
+      "minecraft:ore_hammers",
+      "minecraft:netherite",
+      ""
+    ]
+  },
+  "minecraft:nether_star": {
+    "result": "minecraft:nether_star",
+    "count": 1,
+    "ingredients": [
+      "silentgear:nether_star_fragment",
+      "silentgear:nether_star_fragment",
+      "silentgear:nether_star_fragment",
+      "silentgear:nether_star_fragment",
+      "silentgear:nether_star_fragment",
+      "silentgear:nether_star_fragment",
+      "silentgear:nether_star_fragment",
+      "silentgear:nether_star_fragment",
+      "silentgear:nether_star_fragment"
+    ]
+  },
+  "aquaculture:neptunes_bounty": {
+    "result": "aquaculture:neptunes_bounty",
+    "count": 1,
+    "ingredients": [
+      "minecraft:neptunium",
+      "minecraft:neptunium",
+      "minecraft:neptunium",
+      "minecraft:neptunium",
+      "",
+      "minecraft:neptunium",
+      "minecraft:neptunium",
+      "minecraft:neptunium",
+      "minecraft:neptunium"
+    ]
+  },
+  "aquaculture:neptunium_axe": {
+    "result": "aquaculture:neptunium_axe",
+    "count": 1,
+    "ingredients": [
+      "minecraft:neptunium",
+      "minecraft:neptunium",
+      "",
+      "minecraft:neptunium",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "aquaculture:neptunium_block": {
+    "result": "aquaculture:neptunium_block",
+    "count": 1,
+    "ingredients": [
+      "aquaculture:neptunium_ingot",
+      "aquaculture:neptunium_ingot",
+      "aquaculture:neptunium_ingot",
+      "aquaculture:neptunium_ingot",
+      "aquaculture:neptunium_ingot",
+      "aquaculture:neptunium_ingot",
+      "aquaculture:neptunium_ingot",
+      "aquaculture:neptunium_ingot",
+      "aquaculture:neptunium_ingot"
+    ]
+  },
+  "aquaculture:neptunium_boots": {
+    "result": "aquaculture:neptunium_boots",
+    "count": 1,
+    "ingredients": [
+      "minecraft:neptunium",
+      "",
+      "minecraft:neptunium",
+      "minecraft:neptunium",
+      "",
+      "minecraft:neptunium",
+      "",
+      "",
+      ""
+    ]
+  },
+  "aquaculture:neptunium_bow": {
+    "result": "aquaculture:neptunium_bow",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:neptunium",
+      "minecraft:string",
+      "minecraft:neptunium",
+      "",
+      "minecraft:string",
+      "",
+      "minecraft:neptunium",
+      "minecraft:string"
+    ]
+  },
+  "aquaculture:neptunium_chestplate": {
+    "result": "aquaculture:neptunium_chestplate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:neptunium",
+      "",
+      "minecraft:neptunium",
+      "minecraft:neptunium",
+      "minecraft:neptunium",
+      "minecraft:neptunium",
+      "minecraft:neptunium",
+      "minecraft:neptunium",
+      "minecraft:neptunium"
+    ]
+  },
+  "aquaculture:neptunium_fillet_knife": {
+    "result": "aquaculture:neptunium_fillet_knife",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "minecraft:neptunium",
+      "",
+      "minecraft:neptunium",
+      "",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "aquaculture:neptunium_fishing_rod": {
+    "result": "aquaculture:neptunium_fishing_rod",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "minecraft:neptunium",
+      "",
+      "minecraft:neptunium",
+      "minecraft:string",
+      "minecraft:stick",
+      "",
+      "minecraft:string"
+    ]
+  },
+  "aquaculture:neptunium_helmet": {
+    "result": "aquaculture:neptunium_helmet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:neptunium",
+      "minecraft:neptunium",
+      "minecraft:neptunium",
+      "minecraft:neptunium",
+      "",
+      "minecraft:neptunium",
+      "",
+      "",
+      ""
+    ]
+  },
+  "aquaculture:neptunium_hoe": {
+    "result": "aquaculture:neptunium_hoe",
+    "count": 1,
+    "ingredients": [
+      "minecraft:neptunium",
+      "minecraft:neptunium",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "aquaculture:neptunium_ingot": {
+    "result": "aquaculture:neptunium_ingot",
+    "count": 1,
+    "ingredients": [
+      "aquaculture:neptunium_nugget",
+      "aquaculture:neptunium_nugget",
+      "aquaculture:neptunium_nugget",
+      "aquaculture:neptunium_nugget",
+      "aquaculture:neptunium_nugget",
+      "aquaculture:neptunium_nugget",
+      "aquaculture:neptunium_nugget",
+      "aquaculture:neptunium_nugget",
+      "aquaculture:neptunium_nugget"
+    ]
+  },
+  "aquaculture:neptunium_leggings": {
+    "result": "aquaculture:neptunium_leggings",
+    "count": 1,
+    "ingredients": [
+      "minecraft:neptunium",
+      "minecraft:neptunium",
+      "minecraft:neptunium",
+      "minecraft:neptunium",
+      "",
+      "minecraft:neptunium",
+      "minecraft:neptunium",
+      "",
+      "minecraft:neptunium"
+    ]
+  },
+  "aquaculture:neptunium_nugget": {
+    "result": "aquaculture:neptunium_nugget",
+    "count": 9,
+    "ingredients": [
+      "aquaculture:neptunium_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "aquaculture:neptunium_pickaxe": {
+    "result": "aquaculture:neptunium_pickaxe",
+    "count": 1,
+    "ingredients": [
+      "minecraft:neptunium",
+      "minecraft:neptunium",
+      "minecraft:neptunium",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "aquaculture:neptunium_shovel": {
+    "result": "aquaculture:neptunium_shovel",
+    "count": 1,
+    "ingredients": [
+      "minecraft:neptunium",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "aquaculture:neptunium_sword": {
+    "result": "aquaculture:neptunium_sword",
+    "count": 1,
+    "ingredients": [
+      "minecraft:neptunium",
+      "",
+      "",
+      "minecraft:neptunium",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "aquaculture:nether_star_hook": {
+    "result": "aquaculture:nether_star_hook",
+    "count": 1,
+    "ingredients": [
+      "aquaculture:diamond_hook",
+      "minecraft:nether_stars",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "botanypots:nether_bricks_botany_pot": {
+    "result": "botanypots:nether_bricks_botany_pot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:nether_bricks",
+      "",
+      "minecraft:nether_bricks",
+      "minecraft:nether_bricks",
+      "minecraft:flower_pot",
+      "minecraft:nether_bricks",
+      "",
+      "minecraft:nether_bricks",
+      ""
+    ]
+  },
+  "botanypots:nether_bricks_hopper_botany_pot": {
+    "result": "botanypots:nether_bricks_hopper_botany_pot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:nether_bricks",
+      "minecraft:hopper",
+      "minecraft:nether_bricks",
+      "minecraft:nether_bricks",
+      "minecraft:flower_pot",
+      "minecraft:nether_bricks",
+      "",
+      "minecraft:nether_bricks",
+      ""
+    ]
+  },
+  "botanypots:nether_bricks_waxed_botany_pot": {
+    "result": "botanypots:nether_bricks_waxed_botany_pot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:honeycomb",
+      "botanypots:nether_bricks_botany_pot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "cataclysm:netherite_effigy": {
+    "result": "cataclysm:netherite_effigy",
+    "count": 1,
+    "ingredients": [
+      "minecraft:netherite_ingot",
+      "minecraft:nether_brick",
+      "minecraft:redstone_block",
+      "minecraft:nether_brick",
+      "minecraft:totem_of_undying",
+      "minecraft:nether_brick",
+      "minecraft:gold_ingot",
+      "minecraft:nether_brick",
+      "minecraft:gold_ingot"
+    ]
+  },
+  "chipped:needles": {
+    "result": "chipped:needles",
+    "count": 1,
+    "ingredients": [
+      "chipped:loom_table",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "constructionstick:netherite_stick": {
+    "result": "constructionstick:netherite_stick",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "minecraft:netherite",
+      "",
+      "minecraft:stick",
+      "",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:nebulaite": {
+    "result": "eternal_starlight:nebulaite",
+    "count": 4,
+    "ingredients": [
+      "minecraft:deepslate",
+      "eternal_starlight:raw_aethersent",
+      "",
+      "eternal_starlight:raw_aethersent",
+      "minecraft:deepslate",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:nebulaite_bricks": {
+    "result": "eternal_starlight:nebulaite_bricks",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:nebulaite",
+      "eternal_starlight:nebulaite",
+      "",
+      "eternal_starlight:nebulaite",
+      "eternal_starlight:nebulaite",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:nebulaite_brick_slab": {
+    "result": "eternal_starlight:nebulaite_brick_slab",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:nebulaite_bricks",
+      "eternal_starlight:nebulaite_bricks",
+      "eternal_starlight:nebulaite_bricks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:nebulaite_brick_stairs": {
+    "result": "eternal_starlight:nebulaite_brick_stairs",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:nebulaite_bricks",
+      "",
+      "",
+      "eternal_starlight:nebulaite_bricks",
+      "eternal_starlight:nebulaite_bricks",
+      "",
+      "eternal_starlight:nebulaite_bricks",
+      "eternal_starlight:nebulaite_bricks",
+      "eternal_starlight:nebulaite_bricks"
+    ]
+  },
+  "eternal_starlight:nebulaite_brick_wall": {
+    "result": "eternal_starlight:nebulaite_brick_wall",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:nebulaite_bricks",
+      "eternal_starlight:nebulaite_bricks",
+      "eternal_starlight:nebulaite_bricks",
+      "eternal_starlight:nebulaite_bricks",
+      "eternal_starlight:nebulaite_bricks",
+      "eternal_starlight:nebulaite_bricks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "evilcraft:necromancer_staff": {
+    "result": "evilcraft:necromancer_staff",
+    "count": 1,
+    "ingredients": [
+      "evilcraft:dark_power_gem",
+      "minecraft:skulls",
+      "evilcraft:dark_power_gem",
+      "evilcraft:dark_spike",
+      "evilcraft:inverted_potentia_empowered",
+      "evilcraft:dark_spike",
+      "",
+      "evilcraft:dark_stick",
+      ""
+    ]
+  },
+  "extended_industrialization:netherite_rotary_blade": {
+    "result": "extended_industrialization:netherite_rotary_blade",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:netherite",
+      "",
+      "minecraft:netherite",
+      "minecraft:stainless_steel",
+      "minecraft:netherite",
+      "",
+      "minecraft:netherite",
+      ""
+    ]
+  },
+  "extrastorage:netherite_crafter": {
+    "result": "extrastorage:netherite_crafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:netherite",
+      "minecraft:chest",
+      "minecraft:netherite",
+      "extrastorage:neural_processor",
+      "extrastorage:diamond_crafter",
+      "extrastorage:neural_processor",
+      "minecraft:netherite",
+      "",
+      "minecraft:netherite"
+    ]
+  },
+  "farmersdelight:nether_salad": {
+    "result": "farmersdelight:nether_salad",
+    "count": 1,
+    "ingredients": [
+      "minecraft:crimson_fungus",
+      "minecraft:warped_fungus",
+      "minecraft:bowl",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "generatorgalore:netherite_generator_64x": {
+    "result": "generatorgalore:netherite_generator_64x",
+    "count": 1,
+    "ingredients": [
+      "generatorgalore:netherite_generator_8x",
+      "generatorgalore:netherite_generator_8x",
+      "generatorgalore:netherite_generator_8x",
+      "generatorgalore:netherite_generator_8x",
+      "minecraft:conduit",
+      "generatorgalore:netherite_generator_8x",
+      "generatorgalore:netherite_generator_8x",
+      "generatorgalore:netherite_generator_8x",
+      "generatorgalore:netherite_generator_8x"
+    ]
+  },
+  "generatorgalore:netherstar_generator_64x": {
+    "result": "generatorgalore:netherstar_generator_64x",
+    "count": 1,
+    "ingredients": [
+      "generatorgalore:netherstar_generator_8x",
+      "generatorgalore:netherstar_generator_8x",
+      "generatorgalore:netherstar_generator_8x",
+      "generatorgalore:netherstar_generator_8x",
+      "minecraft:conduit",
+      "generatorgalore:netherstar_generator_8x",
+      "generatorgalore:netherstar_generator_8x",
+      "generatorgalore:netherstar_generator_8x",
+      "generatorgalore:netherstar_generator_8x"
+    ]
+  },
+  "generatorgalore:netherite_generator_8x": {
+    "result": "generatorgalore:netherite_generator_8x",
+    "count": 1,
+    "ingredients": [
+      "generatorgalore:netherite_generator",
+      "generatorgalore:netherite_generator",
+      "generatorgalore:netherite_generator",
+      "generatorgalore:netherite_generator",
+      "minecraft:echo_shard",
+      "generatorgalore:netherite_generator",
+      "generatorgalore:netherite_generator",
+      "generatorgalore:netherite_generator",
+      "generatorgalore:netherite_generator"
+    ]
+  },
+  "generatorgalore:netherstar_generator_8x": {
+    "result": "generatorgalore:netherstar_generator_8x",
+    "count": 1,
+    "ingredients": [
+      "generatorgalore:netherstar_generator",
+      "generatorgalore:netherstar_generator",
+      "generatorgalore:netherstar_generator",
+      "generatorgalore:netherstar_generator",
+      "minecraft:echo_shard",
+      "generatorgalore:netherstar_generator",
+      "generatorgalore:netherstar_generator",
+      "generatorgalore:netherstar_generator",
+      "generatorgalore:netherstar_generator"
+    ]
+  },
+  "generatorgalore:netherstar_generator": {
+    "result": "generatorgalore:netherstar_generator",
+    "count": 1,
+    "ingredients": [
+      "minecraft:wither_skeleton_skull",
+      "minecraft:wither_skeleton_skull",
+      "minecraft:wither_skeleton_skull",
+      "minecraft:wither_skeleton_skull",
+      "generatorgalore:netherite_generator",
+      "minecraft:wither_skeleton_skull",
+      "minecraft:wither_skeleton_skull",
+      "minecraft:redstone",
+      "minecraft:wither_skeleton_skull"
+    ]
+  },
+  "generatorgalore:netherite_to_netherstar_upgrade": {
+    "result": "generatorgalore:netherite_to_netherstar_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:wither_skeleton_skull",
+      "minecraft:wither_skeleton_skull",
+      "minecraft:wither_skeleton_skull",
+      "minecraft:wither_skeleton_skull",
+      "minecraft:item_frame",
+      "minecraft:wither_skeleton_skull",
+      "minecraft:wither_skeleton_skull",
+      "minecraft:redstone",
+      "minecraft:wither_skeleton_skull"
+    ]
+  },
+  "hostilenetworks:nether_prediction": {
+    "result": "hostilenetworks:nether_prediction",
+    "count": 1,
+    "ingredients": [
+      "",
+      "hostilenetworks:overworld_prediction",
+      "",
+      "hostilenetworks:overworld_prediction",
+      "minecraft:netherrack",
+      "hostilenetworks:overworld_prediction",
+      "",
+      "hostilenetworks:overworld_prediction",
+      ""
+    ]
+  },
+  "minecraft:nether_wart": {
+    "result": "minecraft:nether_wart",
+    "count": 9,
+    "ingredients": [
+      "minecraft:nether_wart_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:nest": {
+    "result": "iceandfire:nest",
+    "count": 8,
+    "ingredients": [
+      "minecraft:hay_block",
+      "minecraft:hay_block",
+      "minecraft:hay_block",
+      "minecraft:hay_block",
+      "iceandfire:dragonbone",
+      "minecraft:hay_block",
+      "minecraft:hay_block",
+      "minecraft:hay_block",
+      "minecraft:hay_block"
+    ]
+  },
+  "minecraft:netherite_ingot": {
+    "result": "minecraft:netherite_ingot",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:netherite_essence",
+      "mysticalagriculture:netherite_essence",
+      "mysticalagriculture:netherite_essence",
+      "mysticalagriculture:netherite_essence",
+      "",
+      "mysticalagriculture:netherite_essence",
+      "mysticalagriculture:netherite_essence",
+      "mysticalagriculture:netherite_essence",
+      "mysticalagriculture:netherite_essence"
+    ]
+  },
+  "ironfurnaces:netherite_furnace": {
+    "result": "ironfurnaces:netherite_furnace",
+    "count": 1,
+    "ingredients": [
+      "minecraft:netherite_ingot",
+      "minecraft:magma_cream",
+      "minecraft:netherite_ingot",
+      "minecraft:magma_cream",
+      "minecraft:obsidian",
+      "minecraft:magma_cream",
+      "minecraft:netherite_ingot",
+      "minecraft:soul_fire_base_blocks",
+      "minecraft:netherite_ingot"
+    ]
+  },
+  "irons_spellbooks:netherite_spell_book": {
+    "result": "irons_spellbooks:netherite_spell_book",
+    "count": 1,
+    "ingredients": [
+      "irons_spellbooks:magic_cloth",
+      "minecraft:netherite",
+      "irons_spellbooks:magic_cloth",
+      "irons_spellbooks:blood_vial",
+      "irons_spellbooks:ruined_book",
+      "irons_spellbooks:blood_vial",
+      "irons_spellbooks:magic_cloth",
+      "irons_spellbooks:lightning_bottle",
+      "irons_spellbooks:magic_cloth"
+    ]
+  },
+  "mcwbridges:nether_bricks_bridge": {
+    "result": "mcwbridges:nether_bricks_bridge",
+    "count": 1,
+    "ingredients": [
+      "mcwbridges:nether_bricks_bridge_stair",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:nether_bricks_bridge_pier": {
+    "result": "mcwbridges:nether_bricks_bridge_pier",
+    "count": 3,
+    "ingredients": [
+      "minecraft:nether_bricks",
+      "minecraft:nether_brick_wall",
+      "minecraft:nether_bricks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:nether_bricks_bridge_stair": {
+    "result": "mcwbridges:nether_bricks_bridge_stair",
+    "count": 6,
+    "ingredients": [
+      "",
+      "",
+      "mcwbridges:nether_bricks_bridge",
+      "",
+      "mcwbridges:nether_bricks_bridge",
+      "mcwbridges:nether_bricks_bridge",
+      "mcwbridges:nether_bricks_bridge",
+      "mcwbridges:nether_bricks_bridge",
+      "mcwbridges:nether_bricks_bridge"
+    ]
+  },
+  "mcwfences:nether_brick_grass_topped_wall": {
+    "result": "mcwfences:nether_brick_grass_topped_wall",
+    "count": 6,
+    "ingredients": [
+      "minecraft:netherrack",
+      "minecraft:dirt",
+      "minecraft:netherrack",
+      "minecraft:nether_bricks",
+      "minecraft:nether_bricks",
+      "minecraft:nether_bricks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfences:nether_brick_pillar_wall": {
+    "result": "mcwfences:nether_brick_pillar_wall",
+    "count": 5,
+    "ingredients": [
+      "minecraft:nether_bricks",
+      "minecraft:nether_bricks",
+      "minecraft:nether_bricks",
+      "minecraft:netherrack",
+      "",
+      "minecraft:netherrack",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfences:nether_brick_railing_gate": {
+    "result": "mcwfences:nether_brick_railing_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_bars",
+      "minecraft:nether_bricks",
+      "minecraft:iron_bars",
+      "minecraft:iron_bars",
+      "minecraft:nether_bricks",
+      "minecraft:iron_bars",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwwindows:nether_brick_arrow_slit": {
+    "result": "mcwwindows:nether_brick_arrow_slit",
+    "count": 3,
+    "ingredients": [
+      "",
+      "minecraft:nether_bricks",
+      "minecraft:nether_bricks",
+      "",
+      "minecraft:nether_brick_slab",
+      "minecraft:nether_brick_slab",
+      "",
+      "minecraft:nether_bricks",
+      "minecraft:nether_bricks"
+    ]
+  },
+  "mcwwindows:nether_brick_gothic": {
+    "result": "mcwwindows:nether_brick_gothic",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:nether_bricks",
+      "",
+      "minecraft:nether_bricks",
+      "minecraft:glass_pane",
+      "minecraft:nether_bricks",
+      "",
+      "minecraft:nether_bricks",
+      ""
+    ]
+  },
+  "merrymaking:nether_brick_garland_wall": {
+    "result": "merrymaking:nether_brick_garland_wall",
+    "count": 1,
+    "ingredients": [
+      "minecraft:nether_brick_wall",
+      "merrymaking:garland_horizontal",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:nether_brick_garland_multi_wall": {
+    "result": "merrymaking:nether_brick_garland_multi_wall",
+    "count": 1,
+    "ingredients": [
+      "minecraft:nether_brick_wall",
+      "merrymaking:garland_horizontal_multi",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:nether_brick_garland_lights_wall": {
+    "result": "merrymaking:nether_brick_garland_lights_wall",
+    "count": 1,
+    "ingredients": [
+      "minecraft:nether_brick_wall",
+      "merrymaking:garland_horizontal_lights",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:netherite_upgrade_smithing_template": {
+    "result": "minecraft:netherite_upgrade_smithing_template",
+    "count": 2,
+    "ingredients": [
+      "minecraft:diamond",
+      "minecraft:netherite_upgrade_smithing_template",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:netherrack",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond"
+    ]
+  },
+  "minecraft:nether_bricks": {
+    "result": "minecraft:nether_bricks",
+    "count": 8,
+    "ingredients": [
+      "",
+      "mysticalagriculture:nether_essence",
+      "",
+      "mysticalagriculture:nether_essence",
+      "",
+      "mysticalagriculture:nether_essence",
+      "",
+      "mysticalagriculture:nether_essence",
+      ""
+    ]
+  },
+  "minecraft:nether_brick_fence": {
+    "result": "minecraft:nether_brick_fence",
+    "count": 6,
+    "ingredients": [
+      "minecraft:nether_bricks",
+      "minecraft:nether_brick",
+      "minecraft:nether_bricks",
+      "minecraft:nether_bricks",
+      "minecraft:nether_brick",
+      "minecraft:nether_bricks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:nether_brick_slab": {
+    "result": "minecraft:nether_brick_slab",
+    "count": 6,
+    "ingredients": [
+      "minecraft:nether_bricks",
+      "minecraft:nether_bricks",
+      "minecraft:nether_bricks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:nether_brick_stairs": {
+    "result": "minecraft:nether_brick_stairs",
+    "count": 4,
+    "ingredients": [
+      "minecraft:nether_bricks",
+      "",
+      "",
+      "minecraft:nether_bricks",
+      "minecraft:nether_bricks",
+      "",
+      "minecraft:nether_bricks",
+      "minecraft:nether_bricks",
+      "minecraft:nether_bricks"
+    ]
+  },
+  "minecraft:nether_brick_wall": {
+    "result": "minecraft:nether_brick_wall",
+    "count": 6,
+    "ingredients": [
+      "minecraft:nether_bricks",
+      "minecraft:nether_bricks",
+      "minecraft:nether_bricks",
+      "minecraft:nether_bricks",
+      "minecraft:nether_bricks",
+      "minecraft:nether_bricks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:neodymium_block": {
+    "result": "modern_industrialization:neodymium_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:neodymium",
+      "minecraft:neodymium",
+      "minecraft:neodymium",
+      "minecraft:neodymium",
+      "modern_industrialization:neodymium_dust",
+      "minecraft:neodymium",
+      "minecraft:neodymium",
+      "minecraft:neodymium",
+      "minecraft:neodymium"
+    ]
+  },
+  "modern_industrialization:neodymium_dust": {
+    "result": "modern_industrialization:neodymium_dust",
+    "count": 1,
+    "ingredients": [
+      "minecraft:neodymium",
+      "minecraft:neodymium",
+      "minecraft:neodymium",
+      "minecraft:neodymium",
+      "modern_industrialization:neodymium_tiny_dust",
+      "minecraft:neodymium",
+      "minecraft:neodymium",
+      "minecraft:neodymium",
+      "minecraft:neodymium"
+    ]
+  },
+  "modern_industrialization:neodymium_tiny_dust": {
+    "result": "modern_industrialization:neodymium_tiny_dust",
+    "count": 9,
+    "ingredients": [
+      "modern_industrialization:neodymium_dust",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mysticalagradditions:nether_star_crux": {
+    "result": "mysticalagradditions:nether_star_crux",
+    "count": 1,
+    "ingredients": [
+      "mysticalagradditions:insanium_essence",
+      "minecraft:nether_star",
+      "mysticalagradditions:insanium_essence",
+      "mysticalagradditions:withering_soul",
+      "minecraft:diamond",
+      "mysticalagradditions:withering_soul",
+      "mysticalagradditions:insanium_essence",
+      "minecraft:nether_star",
+      "mysticalagradditions:insanium_essence"
+    ]
+  },
+  "mysticalagradditions:neutronium_crux": {
+    "result": "mysticalagradditions:neutronium_crux",
+    "count": 1,
+    "ingredients": [
+      "mysticalagradditions:insanium_essence",
+      "minecraft:neutronium_ingot",
+      "mysticalagradditions:insanium_essence",
+      "minecraft:neutronium_ingot",
+      "minecraft:diamond",
+      "minecraft:neutronium_ingot",
+      "mysticalagradditions:insanium_essence",
+      "minecraft:neutronium_ingot",
+      "mysticalagradditions:insanium_essence"
+    ]
+  },
+  "mysticalagriculture:nether_agglomeratio": {
+    "result": "mysticalagriculture:nether_agglomeratio",
+    "count": 1,
+    "ingredients": [
+      "minecraft:netherrack",
+      "minecraft:soul_sand",
+      "",
+      "minecraft:nether_bricks",
+      "minecraft:nether_wart",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "naturesaura:netherite_finder": {
+    "result": "naturesaura:netherite_finder",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:warped_stem",
+      "minecraft:netherite_ingot",
+      "naturesaura:sky_ingot",
+      "naturesaura:ancient_stick",
+      "naturesaura:sky_ingot",
+      "naturesaura:ancient_stick",
+      "minecraft:crimson_stem",
+      ""
+    ]
+  },
+  "occultism:netherite_dust": {
+    "result": "occultism:netherite_dust",
+    "count": 1,
+    "ingredients": [
+      "minecraft:netherite_scrap",
+      "minecraft:netherite_scrap",
+      "minecraft:netherite_scrap",
+      "minecraft:netherite_scrap",
+      "minecraft:gold",
+      "minecraft:gold",
+      "minecraft:gold",
+      "minecraft:gold",
+      ""
+    ]
+  },
+  "oritech:netherite_paint": {
+    "result": "oritech:netherite_paint",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:netherite_ingot",
+      "",
+      "minecraft:plastic",
+      "oritech:carbon_fibre_strands",
+      "minecraft:plastic",
+      "",
+      "minecraft:netherite_ingot",
+      ""
+    ]
+  },
+  "pamhc2crops:nettlesseeditem": {
+    "result": "pamhc2crops:nettlesseeditem",
+    "count": 1,
+    "ingredients": [
+      "pamhc2crops:nettlesitem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:neapolitanicecreamitem": {
+    "result": "pamhc2foodextended:neapolitanicecreamitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:chocolatebar",
+      "minecraft:strawberry",
+      "minecraft:vanillaicecream",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pneumaticcraft:network_api": {
+    "result": "pneumaticcraft:network_api",
+    "count": 1,
+    "ingredients": [
+      "minecraft:blue",
+      "minecraft:plastic_sheets",
+      "minecraft:blue",
+      "minecraft:plastic_sheets",
+      "minecraft:chest",
+      "minecraft:plastic_sheets",
+      "minecraft:blue",
+      "minecraft:plastic_sheets",
+      "minecraft:blue"
+    ]
+  },
+  "pneumaticcraft:network_data_storage": {
+    "result": "pneumaticcraft:network_data_storage",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gray",
+      "minecraft:plastic_sheets",
+      "minecraft:gray",
+      "minecraft:plastic_sheets",
+      "minecraft:chest",
+      "minecraft:plastic_sheets",
+      "minecraft:gray",
+      "minecraft:plastic_sheets",
+      "minecraft:gray"
+    ]
+  },
+  "pneumaticcraft:network_io_port": {
+    "result": "pneumaticcraft:network_io_port",
+    "count": 1,
+    "ingredients": [
+      "minecraft:cyan",
+      "pneumaticcraft:capacitor",
+      "minecraft:cyan",
+      "pneumaticcraft:capacitor",
+      "minecraft:chest",
+      "pneumaticcraft:capacitor",
+      "minecraft:cyan",
+      "pneumaticcraft:capacitor",
+      "minecraft:cyan"
+    ]
+  },
+  "pneumaticcraft:network_node": {
+    "result": "pneumaticcraft:network_node",
+    "count": 16,
+    "ingredients": [
+      "minecraft:purple",
+      "pneumaticcraft:transistor",
+      "minecraft:purple",
+      "pneumaticcraft:transistor",
+      "minecraft:chest",
+      "pneumaticcraft:transistor",
+      "minecraft:purple",
+      "pneumaticcraft:transistor",
+      "minecraft:purple"
+    ]
+  },
+  "pneumaticcraft:network_registry": {
+    "result": "pneumaticcraft:network_registry",
+    "count": 1,
+    "ingredients": [
+      "minecraft:lime",
+      "minecraft:plastic_sheets",
+      "minecraft:lime",
+      "minecraft:plastic_sheets",
+      "minecraft:chest",
+      "minecraft:plastic_sheets",
+      "minecraft:lime",
+      "minecraft:plastic_sheets",
+      "minecraft:lime"
+    ]
+  },
+  "productivebees:nest_locator": {
+    "result": "productivebees:nest_locator",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_nugget",
+      "minecraft:iron_bars",
+      "minecraft:gold_nugget",
+      "minecraft:gold_nugget",
+      "minecraft:note_block",
+      "minecraft:gold_nugget",
+      "minecraft:gold_nugget",
+      "minecraft:gold_nugget",
+      "minecraft:gold_nugget"
+    ]
+  },
+  "productivebees:nether_brick_nest": {
+    "result": "productivebees:nether_brick_nest",
+    "count": 1,
+    "ingredients": [
+      "productivebees:nether_brick_nest",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivebees:nether_gold_nest": {
+    "result": "productivebees:nether_gold_nest",
+    "count": 1,
+    "ingredients": [
+      "productivebees:nether_gold_nest",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivebees:nether_quartz_nest": {
+    "result": "productivebees:nether_quartz_nest",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_sword",
+      "productivebees:quartz_netherrack",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:nectarine_bookshelf": {
+    "result": "productivetrees:nectarine_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:nectarine_planks",
+      "productivetrees:nectarine_planks",
+      "productivetrees:nectarine_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:nectarine_planks",
+      "productivetrees:nectarine_planks",
+      "productivetrees:nectarine_planks"
+    ]
+  },
+  "productivetrees:nectarine_button": {
+    "result": "productivetrees:nectarine_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:nectarine_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:nectarine_crate": {
+    "result": "productivetrees:nectarine_crate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:nectarine",
+      "minecraft:nectarine",
+      "minecraft:nectarine",
+      "minecraft:nectarine",
+      "productivetrees:nectarine",
+      "minecraft:nectarine",
+      "minecraft:nectarine",
+      "minecraft:nectarine",
+      "minecraft:nectarine"
+    ]
+  },
+  "productivetrees:nectarine": {
+    "result": "productivetrees:nectarine",
+    "count": 9,
+    "ingredients": [
+      "productivetrees:nectarine_crate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:nectarine_door": {
+    "result": "productivetrees:nectarine_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:nectarine_planks",
+      "productivetrees:nectarine_planks",
+      "",
+      "productivetrees:nectarine_planks",
+      "productivetrees:nectarine_planks",
+      "",
+      "productivetrees:nectarine_planks",
+      "productivetrees:nectarine_planks",
+      ""
+    ]
+  },
+  "productivetrees:nectarine_fence": {
+    "result": "productivetrees:nectarine_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:nectarine_planks",
+      "minecraft:stick",
+      "productivetrees:nectarine_planks",
+      "productivetrees:nectarine_planks",
+      "minecraft:stick",
+      "productivetrees:nectarine_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:nectarine_fence_gate": {
+    "result": "productivetrees:nectarine_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:nectarine_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:nectarine_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:nectarine_hanging_sign": {
+    "result": "productivetrees:nectarine_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:nectarine_planks",
+      "productivetrees:nectarine_planks",
+      "productivetrees:nectarine_planks",
+      "productivetrees:nectarine_planks",
+      "productivetrees:nectarine_planks",
+      "productivetrees:nectarine_planks"
+    ]
+  },
+  "productivetrees:nectarine_planks": {
+    "result": "productivetrees:nectarine_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:nectarine_pressure_plate": {
+    "result": "productivetrees:nectarine_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:nectarine_planks",
+      "productivetrees:nectarine_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:nectarine_sign": {
+    "result": "productivetrees:nectarine_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:nectarine_planks",
+      "productivetrees:nectarine_planks",
+      "productivetrees:nectarine_planks",
+      "productivetrees:nectarine_planks",
+      "productivetrees:nectarine_planks",
+      "productivetrees:nectarine_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:nectarine_slab": {
+    "result": "productivetrees:nectarine_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:nectarine_planks",
+      "productivetrees:nectarine_planks",
+      "productivetrees:nectarine_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:nectarine_stairs": {
+    "result": "productivetrees:nectarine_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:nectarine_planks",
+      "",
+      "",
+      "productivetrees:nectarine_planks",
+      "productivetrees:nectarine_planks",
+      "",
+      "productivetrees:nectarine_planks",
+      "productivetrees:nectarine_planks",
+      "productivetrees:nectarine_planks"
+    ]
+  },
+  "productivetrees:nectarine_trapdoor": {
+    "result": "productivetrees:nectarine_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:nectarine_planks",
+      "productivetrees:nectarine_planks",
+      "productivetrees:nectarine_planks",
+      "productivetrees:nectarine_planks",
+      "productivetrees:nectarine_planks",
+      "productivetrees:nectarine_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:nectarine_wood": {
+    "result": "productivetrees:nectarine_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:nectarine_log",
+      "productivetrees:nectarine_log",
+      "",
+      "productivetrees:nectarine_log",
+      "productivetrees:nectarine_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "refinedstorage:network_card": {
+    "result": "refinedstorage:network_card",
+    "count": 1,
+    "ingredients": [
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:quartz_enriched_iron",
+      "minecraft:paper",
+      "refinedstorage:advanced_processor",
+      "minecraft:paper",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:quartz_enriched_iron"
+    ]
+  },
+  "refinedstorage:network_receiver": {
+    "result": "refinedstorage:network_receiver",
+    "count": 1,
+    "ingredients": [
+      "refinedstorage:advanced_processor",
+      "minecraft:netherite",
+      "refinedstorage:advanced_processor",
+      "refinedstorage:construction_core",
+      "refinedstorage:machine_casing",
+      "refinedstorage:destruction_core",
+      "minecraft:ender_pearl",
+      "minecraft:ender_pearl",
+      "minecraft:ender_pearl"
+    ]
+  },
+  "refinedstorage:network_transmitter": {
+    "result": "refinedstorage:network_transmitter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:ender_pearl",
+      "minecraft:ender_pearl",
+      "minecraft:ender_pearl",
+      "refinedstorage:construction_core",
+      "refinedstorage:machine_casing",
+      "refinedstorage:destruction_core",
+      "refinedstorage:advanced_processor",
+      "minecraft:netherite",
+      "refinedstorage:advanced_processor"
+    ]
+  },
+  "refinedtypes:network_energizer": {
+    "result": "refinedtypes:network_energizer",
+    "count": 1,
+    "ingredients": [
+      "minecraft:copper_block",
+      "minecraft:copper_block",
+      "minecraft:copper_block",
+      "minecraft:copper_block",
+      "refinedstorage:interface",
+      "minecraft:copper_block",
+      "minecraft:copper_block",
+      "minecraft:copper_block",
+      "minecraft:copper_block"
+    ]
+  },
+  "reliquary:nebulous_heart": {
+    "result": "reliquary:nebulous_heart",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:ender_pearl",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot"
+    ]
+  },
+  "securitycraft:netherrack_mine": {
+    "result": "securitycraft:netherrack_mine",
+    "count": 1,
+    "ingredients": [
+      "minecraft:netherrack",
+      "securitycraft:mine",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "securitycraft:nether_gold_mine": {
+    "result": "securitycraft:nether_gold_mine",
+    "count": 1,
+    "ingredients": [
+      "minecraft:nether_gold_ore",
+      "securitycraft:mine",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "sfm:network_tool": {
+    "result": "sfm:network_tool",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:redstone_lamp",
+      "minecraft:signs",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:heavy_weighted_pressure_plate",
+      "minecraft:iron_ingot",
+      "",
+      ""
+    ]
+  },
+  "silentgear:necklace_blueprint": {
+    "result": "silentgear:necklace_blueprint",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "minecraft:paper",
+      "minecraft:gold_ingot",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper"
+    ]
+  },
+  "silentgear:netherwood_charcoal_block": {
+    "result": "silentgear:netherwood_charcoal_block",
+    "count": 1,
+    "ingredients": [
+      "silentgear:netherwood_charcoal",
+      "silentgear:netherwood_charcoal",
+      "silentgear:netherwood_charcoal",
+      "silentgear:netherwood_charcoal",
+      "silentgear:netherwood_charcoal",
+      "silentgear:netherwood_charcoal",
+      "silentgear:netherwood_charcoal",
+      "silentgear:netherwood_charcoal",
+      "silentgear:netherwood_charcoal"
+    ]
+  },
+  "silentgear:netherwood_charcoal": {
+    "result": "silentgear:netherwood_charcoal",
+    "count": 9,
+    "ingredients": [
+      "silentgear:netherwood_charcoal_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgear:netherwood_door": {
+    "result": "silentgear:netherwood_door",
+    "count": 3,
+    "ingredients": [
+      "silentgear:netherwood_planks",
+      "silentgear:netherwood_planks",
+      "",
+      "silentgear:netherwood_planks",
+      "silentgear:netherwood_planks",
+      "",
+      "silentgear:netherwood_planks",
+      "silentgear:netherwood_planks",
+      ""
+    ]
+  },
+  "silentgear:netherwood_fence": {
+    "result": "silentgear:netherwood_fence",
+    "count": 3,
+    "ingredients": [
+      "silentgear:netherwood_planks",
+      "minecraft:stick",
+      "silentgear:netherwood_planks",
+      "silentgear:netherwood_planks",
+      "minecraft:stick",
+      "silentgear:netherwood_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgear:netherwood_fence_gate": {
+    "result": "silentgear:netherwood_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "silentgear:netherwood_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "silentgear:netherwood_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgear:netherwood_planks": {
+    "result": "silentgear:netherwood_planks",
+    "count": 3,
+    "ingredients": [
+      "silentgear:netherwood_stairs",
+      "silentgear:netherwood_stairs",
+      "",
+      "silentgear:netherwood_stairs",
+      "silentgear:netherwood_stairs",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgear:netherwood_slab": {
+    "result": "silentgear:netherwood_slab",
+    "count": 6,
+    "ingredients": [
+      "silentgear:netherwood_planks",
+      "silentgear:netherwood_planks",
+      "silentgear:netherwood_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgear:netherwood_stairs": {
+    "result": "silentgear:netherwood_stairs",
+    "count": 4,
+    "ingredients": [
+      "silentgear:netherwood_planks",
+      "",
+      "",
+      "silentgear:netherwood_planks",
+      "silentgear:netherwood_planks",
+      "",
+      "silentgear:netherwood_planks",
+      "silentgear:netherwood_planks",
+      "silentgear:netherwood_planks"
+    ]
+  },
+  "silentgear:netherwood_stick": {
+    "result": "silentgear:netherwood_stick",
+    "count": 4,
+    "ingredients": [
+      "",
+      "silentgear:netherwood_planks",
+      "",
+      "silentgear:netherwood_planks",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgear:netherwood_trapdoor": {
+    "result": "silentgear:netherwood_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "silentgear:netherwood_planks",
+      "silentgear:netherwood_planks",
+      "silentgear:netherwood_planks",
+      "silentgear:netherwood_planks",
+      "silentgear:netherwood_planks",
+      "silentgear:netherwood_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgear:netherwood_wood": {
+    "result": "silentgear:netherwood_wood",
+    "count": 3,
+    "ingredients": [
+      "silentgear:netherwood_log",
+      "silentgear:netherwood_log",
+      "",
+      "silentgear:netherwood_log",
+      "silentgear:netherwood_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgear:nether_star_fragment": {
+    "result": "silentgear:nether_star_fragment",
+    "count": 9,
+    "ingredients": [
+      "minecraft:nether_star",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "supplementaries:netherite_door": {
+    "result": "supplementaries:netherite_door",
+    "count": 1,
+    "ingredients": [
+      "supplementaries:gold_door",
+      "minecraft:netherite_scrap",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "supplementaries:netherite_trapdoor": {
+    "result": "supplementaries:netherite_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "supplementaries:gold_trapdoor",
+      "minecraft:netherite_scrap",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "tempad:new_location_upgrade": {
+    "result": "tempad:new_location_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dried_kelp",
+      "minecraft:dried_kelp",
+      "minecraft:dried_kelp",
+      "minecraft:ender_pearl",
+      "minecraft:nether_star",
+      "minecraft:ender_pearl",
+      "minecraft:dried_kelp",
+      "minecraft:dried_kelp",
+      "minecraft:dried_kelp"
+    ]
+  },
+  "xnet:netcable_blue": {
+    "result": "xnet:netcable_blue",
+    "count": 1,
+    "ingredients": [
+      "minecraft:blue",
+      "minecraft:cables",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xnet:netcable_green": {
+    "result": "xnet:netcable_green",
+    "count": 1,
+    "ingredients": [
+      "minecraft:green",
+      "minecraft:cables",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xnet:netcable_red": {
+    "result": "xnet:netcable_red",
+    "count": 1,
+    "ingredients": [
+      "minecraft:red",
+      "minecraft:cables",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xnet:netcable_routing": {
+    "result": "xnet:netcable_routing",
+    "count": 32,
+    "ingredients": [
+      "minecraft:string",
+      "minecraft:black",
+      "minecraft:string",
+      "minecraft:redstone",
+      "minecraft:gold",
+      "minecraft:redstone",
+      "minecraft:string",
+      "minecraft:redstone",
+      "minecraft:string"
+    ]
+  },
+  "xnet:netcable_yellow": {
+    "result": "xnet:netcable_yellow",
+    "count": 1,
+    "ingredients": [
+      "minecraft:yellow",
+      "minecraft:cables",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xycraft_override:nether_bricks_blue": {
+    "result": "xycraft_override:nether_bricks_blue",
+    "count": 2,
+    "ingredients": [
+      "xycraft_world:xychorium_gem_blue",
+      "minecraft:nether_bricks",
+      "",
+      "minecraft:nether_bricks",
+      "xycraft_world:xychorium_gem_blue",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xycraft_override:nether_bricks_dark": {
+    "result": "xycraft_override:nether_bricks_dark",
+    "count": 2,
+    "ingredients": [
+      "xycraft_world:xychorium_gem_dark",
+      "minecraft:nether_bricks",
+      "",
+      "minecraft:nether_bricks",
+      "xycraft_world:xychorium_gem_dark",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xycraft_override:nether_bricks_green": {
+    "result": "xycraft_override:nether_bricks_green",
+    "count": 2,
+    "ingredients": [
+      "xycraft_world:xychorium_gem_green",
+      "minecraft:nether_bricks",
+      "",
+      "minecraft:nether_bricks",
+      "xycraft_world:xychorium_gem_green",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xycraft_override:nether_bricks_light": {
+    "result": "xycraft_override:nether_bricks_light",
+    "count": 2,
+    "ingredients": [
+      "xycraft_world:xychorium_gem_light",
+      "minecraft:nether_bricks",
+      "",
+      "minecraft:nether_bricks",
+      "xycraft_world:xychorium_gem_light",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xycraft_override:nether_bricks_red": {
+    "result": "xycraft_override:nether_bricks_red",
+    "count": 2,
+    "ingredients": [
+      "xycraft_world:xychorium_gem_red",
+      "minecraft:nether_bricks",
+      "",
+      "minecraft:nether_bricks",
+      "xycraft_world:xychorium_gem_red",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

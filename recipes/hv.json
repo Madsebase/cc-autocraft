@@ -1,0 +1,152 @@
+{
+  "extended_industrialization:hv_solar_panel": {
+    "result": "extended_industrialization:hv_solar_panel",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stainless_steel",
+      "modern_industrialization:digital_circuit",
+      "minecraft:stainless_steel",
+      "minecraft:fluid_pipes",
+      "modern_industrialization:turbo_machine_hull",
+      "minecraft:fluid_pipes",
+      "modern_industrialization:aluminum_cable",
+      "modern_industrialization:advanced_motor",
+      "modern_industrialization:aluminum_cable"
+    ]
+  },
+  "extended_industrialization:hv_tesla_receiver_hatch": {
+    "result": "extended_industrialization:hv_tesla_receiver_hatch",
+    "count": 1,
+    "ingredients": [
+      "extended_industrialization:tesla_receiver",
+      "",
+      "",
+      "modern_industrialization:turbo_machine_hull",
+      "",
+      "",
+      "modern_industrialization:aluminum_cable",
+      "",
+      ""
+    ]
+  },
+  "moderndynamics:hv_cable": {
+    "result": "moderndynamics:hv_cable",
+    "count": 4,
+    "ingredients": [
+      "modern_industrialization:aluminum_cable",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:hv_diesel_generator": {
+    "result": "modern_industrialization:hv_diesel_generator",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:advanced_pump",
+      "modern_industrialization:digital_circuit",
+      "modern_industrialization:advanced_pump",
+      "minecraft:stainless_steel",
+      "modern_industrialization:turbo_machine_hull",
+      "minecraft:stainless_steel",
+      "modern_industrialization:aluminum_cable",
+      "modern_industrialization:aluminum_cable",
+      "modern_industrialization:aluminum_cable"
+    ]
+  },
+  "modern_industrialization:hv_steam_turbine": {
+    "result": "modern_industrialization:hv_steam_turbine",
+    "count": 1,
+    "ingredients": [
+      "minecraft:fluid_pipes",
+      "modern_industrialization:digital_circuit",
+      "minecraft:fluid_pipes",
+      "modern_industrialization:stainless_steel_rotor",
+      "modern_industrialization:turbo_machine_hull",
+      "modern_industrialization:stainless_steel_rotor",
+      "modern_industrialization:advanced_motor",
+      "modern_industrialization:aluminum_cable",
+      "modern_industrialization:advanced_motor"
+    ]
+  },
+  "modern_industrialization:hv_storage_unit": {
+    "result": "modern_industrialization:hv_storage_unit",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:sodium_battery",
+      "modern_industrialization:sodium_battery",
+      "modern_industrialization:sodium_battery",
+      "minecraft:battery_alloy",
+      "modern_industrialization:turbo_machine_hull",
+      "minecraft:battery_alloy",
+      "modern_industrialization:sodium_battery",
+      "modern_industrialization:sodium_battery",
+      "modern_industrialization:sodium_battery"
+    ]
+  },
+  "modern_industrialization:hv_ev_transformer": {
+    "result": "modern_industrialization:hv_ev_transformer",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:aluminum_cable",
+      "modern_industrialization:aluminum_cable",
+      "",
+      "",
+      "modern_industrialization:turbo_machine_hull",
+      "modern_industrialization:annealed_copper_cable",
+      "modern_industrialization:aluminum_cable",
+      "modern_industrialization:aluminum_cable",
+      ""
+    ]
+  },
+  "modern_industrialization:hv_mv_transformer": {
+    "result": "modern_industrialization:hv_mv_transformer",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:mv_hv_transformer",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:hv_energy_input_hatch": {
+    "result": "modern_industrialization:hv_energy_input_hatch",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:aluminum_cable",
+      "",
+      "",
+      "modern_industrialization:turbo_machine_hull",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:hv_energy_output_hatch": {
+    "result": "modern_industrialization:hv_energy_output_hatch",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:turbo_machine_hull",
+      "",
+      "",
+      "modern_industrialization:aluminum_cable",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

@@ -1,0 +1,1412 @@
+{
+  "gateways:gate_pearl": {
+    "result": "gateways:gate_pearl",
+    "count": 1,
+    "ingredients": [
+      "minecraft:blaze_powder",
+      "minecraft:ghast_tear",
+      "minecraft:blaze_powder",
+      "apotheosis:epic_material",
+      "minecraft:ender_eye",
+      "apotheosis:epic_material",
+      "apotheosis:gem_dust",
+      "apotheosis:gem_dust",
+      "apotheosis:gem_dust"
+    ]
+  },
+  "ars_technica:gargantuan_experience_gem": {
+    "result": "ars_technica:gargantuan_experience_gem",
+    "count": 1,
+    "ingredients": [
+      "ars_technica:giant_experience_gem",
+      "ars_technica:giant_experience_gem",
+      "ars_technica:giant_experience_gem",
+      "ars_technica:giant_experience_gem",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:garnished_nut_bookcase": {
+    "result": "bibliocraft:garnished_nut_bookcase",
+    "count": 1,
+    "ingredients": [
+      "garnished:nut_planks",
+      "garnished:nut_slab",
+      "garnished:nut_planks",
+      "garnished:nut_planks",
+      "garnished:nut_slab",
+      "garnished:nut_planks",
+      "garnished:nut_planks",
+      "garnished:nut_slab",
+      "garnished:nut_planks"
+    ]
+  },
+  "bibliocraft:garnished_nut_fancy_armor_stand": {
+    "result": "bibliocraft:garnished_nut_fancy_armor_stand",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "garnished:nut_slab",
+      "garnished:nut_slab",
+      "garnished:nut_slab"
+    ]
+  },
+  "bibliocraft:garnished_nut_fancy_clock": {
+    "result": "bibliocraft:garnished_nut_fancy_clock",
+    "count": 1,
+    "ingredients": [
+      "garnished:nut_slab",
+      "minecraft:clock",
+      "garnished:nut_slab",
+      "garnished:nut_slab",
+      "minecraft:stick",
+      "garnished:nut_slab",
+      "garnished:nut_slab",
+      "minecraft:copper_ingot",
+      "garnished:nut_slab"
+    ]
+  },
+  "bibliocraft:garnished_nut_fancy_crafter": {
+    "result": "bibliocraft:garnished_nut_fancy_crafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black",
+      "minecraft:crafting_tables",
+      "minecraft:feather",
+      "garnished:nut_planks",
+      "minecraft:glass",
+      "garnished:nut_planks",
+      "garnished:nut_planks",
+      "minecraft:crafter",
+      "garnished:nut_planks"
+    ]
+  },
+  "bibliocraft:garnished_nut_fancy_sign": {
+    "result": "bibliocraft:garnished_nut_fancy_sign",
+    "count": 1,
+    "ingredients": [
+      "garnished:nut_planks",
+      "minecraft:paper",
+      "garnished:nut_planks",
+      "garnished:nut_planks",
+      "minecraft:paper",
+      "garnished:nut_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "bibliocraft:garnished_nut_grandfather_clock": {
+    "result": "bibliocraft:garnished_nut_grandfather_clock",
+    "count": 1,
+    "ingredients": [
+      "bibliocraft:garnished_nut_fancy_clock",
+      "bibliocraft:garnished_nut_fancy_clock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:garnished_nut_label": {
+    "result": "bibliocraft:garnished_nut_label",
+    "count": 1,
+    "ingredients": [
+      "garnished:nut_slab",
+      "garnished:nut_slab",
+      "garnished:nut_slab",
+      "garnished:nut_slab",
+      "garnished:nut_slab",
+      "garnished:nut_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:garnished_nut_potion_shelf": {
+    "result": "bibliocraft:garnished_nut_potion_shelf",
+    "count": 1,
+    "ingredients": [
+      "garnished:nut_slab",
+      "garnished:nut_slab",
+      "garnished:nut_slab",
+      "garnished:nut_planks",
+      "minecraft:glass_bottle",
+      "garnished:nut_planks",
+      "garnished:nut_slab",
+      "garnished:nut_slab",
+      "garnished:nut_slab"
+    ]
+  },
+  "bibliocraft:garnished_nut_shelf": {
+    "result": "bibliocraft:garnished_nut_shelf",
+    "count": 1,
+    "ingredients": [
+      "garnished:nut_slab",
+      "garnished:nut_slab",
+      "garnished:nut_slab",
+      "",
+      "garnished:nut_planks",
+      "",
+      "garnished:nut_slab",
+      "garnished:nut_slab",
+      "garnished:nut_slab"
+    ]
+  },
+  "bibliocraft:garnished_nut_table": {
+    "result": "bibliocraft:garnished_nut_table",
+    "count": 1,
+    "ingredients": [
+      "garnished:nut_slab",
+      "garnished:nut_slab",
+      "garnished:nut_slab",
+      "",
+      "garnished:nut_planks",
+      "",
+      "",
+      "garnished:nut_planks",
+      ""
+    ]
+  },
+  "bibliocraft:garnished_nut_tool_rack": {
+    "result": "bibliocraft:garnished_nut_tool_rack",
+    "count": 1,
+    "ingredients": [
+      "garnished:nut_slab",
+      "garnished:nut_slab",
+      "garnished:nut_slab",
+      "garnished:nut_slab",
+      "minecraft:iron_ingot",
+      "garnished:nut_slab",
+      "garnished:nut_slab",
+      "garnished:nut_slab",
+      "garnished:nut_slab"
+    ]
+  },
+  "bibliocraft:garnished_sepia_bookcase": {
+    "result": "bibliocraft:garnished_sepia_bookcase",
+    "count": 1,
+    "ingredients": [
+      "garnished:sepia_planks",
+      "garnished:sepia_slab",
+      "garnished:sepia_planks",
+      "garnished:sepia_planks",
+      "garnished:sepia_slab",
+      "garnished:sepia_planks",
+      "garnished:sepia_planks",
+      "garnished:sepia_slab",
+      "garnished:sepia_planks"
+    ]
+  },
+  "bibliocraft:garnished_sepia_fancy_armor_stand": {
+    "result": "bibliocraft:garnished_sepia_fancy_armor_stand",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "garnished:sepia_slab",
+      "garnished:sepia_slab",
+      "garnished:sepia_slab"
+    ]
+  },
+  "bibliocraft:garnished_sepia_fancy_clock": {
+    "result": "bibliocraft:garnished_sepia_fancy_clock",
+    "count": 1,
+    "ingredients": [
+      "garnished:sepia_slab",
+      "minecraft:clock",
+      "garnished:sepia_slab",
+      "garnished:sepia_slab",
+      "minecraft:stick",
+      "garnished:sepia_slab",
+      "garnished:sepia_slab",
+      "minecraft:copper_ingot",
+      "garnished:sepia_slab"
+    ]
+  },
+  "bibliocraft:garnished_sepia_fancy_crafter": {
+    "result": "bibliocraft:garnished_sepia_fancy_crafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black",
+      "minecraft:crafting_tables",
+      "minecraft:feather",
+      "garnished:sepia_planks",
+      "minecraft:glass",
+      "garnished:sepia_planks",
+      "garnished:sepia_planks",
+      "minecraft:crafter",
+      "garnished:sepia_planks"
+    ]
+  },
+  "bibliocraft:garnished_sepia_fancy_sign": {
+    "result": "bibliocraft:garnished_sepia_fancy_sign",
+    "count": 1,
+    "ingredients": [
+      "garnished:sepia_planks",
+      "minecraft:paper",
+      "garnished:sepia_planks",
+      "garnished:sepia_planks",
+      "minecraft:paper",
+      "garnished:sepia_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "bibliocraft:garnished_sepia_grandfather_clock": {
+    "result": "bibliocraft:garnished_sepia_grandfather_clock",
+    "count": 1,
+    "ingredients": [
+      "bibliocraft:garnished_sepia_fancy_clock",
+      "bibliocraft:garnished_sepia_fancy_clock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:garnished_sepia_label": {
+    "result": "bibliocraft:garnished_sepia_label",
+    "count": 1,
+    "ingredients": [
+      "garnished:sepia_slab",
+      "garnished:sepia_slab",
+      "garnished:sepia_slab",
+      "garnished:sepia_slab",
+      "garnished:sepia_slab",
+      "garnished:sepia_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:garnished_sepia_potion_shelf": {
+    "result": "bibliocraft:garnished_sepia_potion_shelf",
+    "count": 1,
+    "ingredients": [
+      "garnished:sepia_slab",
+      "garnished:sepia_slab",
+      "garnished:sepia_slab",
+      "garnished:sepia_planks",
+      "minecraft:glass_bottle",
+      "garnished:sepia_planks",
+      "garnished:sepia_slab",
+      "garnished:sepia_slab",
+      "garnished:sepia_slab"
+    ]
+  },
+  "bibliocraft:garnished_sepia_shelf": {
+    "result": "bibliocraft:garnished_sepia_shelf",
+    "count": 1,
+    "ingredients": [
+      "garnished:sepia_slab",
+      "garnished:sepia_slab",
+      "garnished:sepia_slab",
+      "",
+      "garnished:sepia_planks",
+      "",
+      "garnished:sepia_slab",
+      "garnished:sepia_slab",
+      "garnished:sepia_slab"
+    ]
+  },
+  "bibliocraft:garnished_sepia_table": {
+    "result": "bibliocraft:garnished_sepia_table",
+    "count": 1,
+    "ingredients": [
+      "garnished:sepia_slab",
+      "garnished:sepia_slab",
+      "garnished:sepia_slab",
+      "",
+      "garnished:sepia_planks",
+      "",
+      "",
+      "garnished:sepia_planks",
+      ""
+    ]
+  },
+  "bibliocraft:garnished_sepia_tool_rack": {
+    "result": "bibliocraft:garnished_sepia_tool_rack",
+    "count": 1,
+    "ingredients": [
+      "garnished:sepia_slab",
+      "garnished:sepia_slab",
+      "garnished:sepia_slab",
+      "garnished:sepia_slab",
+      "minecraft:iron_ingot",
+      "garnished:sepia_slab",
+      "garnished:sepia_slab",
+      "garnished:sepia_slab",
+      "garnished:sepia_slab"
+    ]
+  },
+  "buildinggadgets2:gadget_building": {
+    "result": "buildinggadgets2:gadget_building",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:redstone",
+      "minecraft:iron_ingot",
+      "minecraft:diamond",
+      "minecraft:redstone",
+      "minecraft:diamond",
+      "minecraft:iron_ingot",
+      "minecraft:lapis_lazuli",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "buildinggadgets2:gadget_copy_paste": {
+    "result": "buildinggadgets2:gadget_copy_paste",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:redstone",
+      "minecraft:iron_ingot",
+      "minecraft:emerald",
+      "minecraft:redstone",
+      "minecraft:emerald",
+      "minecraft:iron_ingot",
+      "minecraft:lapis_lazuli",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "buildinggadgets2:gadget_cut_paste": {
+    "result": "buildinggadgets2:gadget_cut_paste",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:redstone",
+      "minecraft:iron_ingot",
+      "minecraft:shears",
+      "minecraft:redstone",
+      "minecraft:shears",
+      "minecraft:iron_ingot",
+      "minecraft:lapis_lazuli",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "buildinggadgets2:gadget_destruction": {
+    "result": "buildinggadgets2:gadget_destruction",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:redstone",
+      "minecraft:iron_ingot",
+      "minecraft:ender_pearl",
+      "minecraft:redstone",
+      "minecraft:ender_pearl",
+      "minecraft:iron_ingot",
+      "minecraft:lapis_lazuli",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "buildinggadgets2:gadget_exchanging": {
+    "result": "buildinggadgets2:gadget_exchanging",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:redstone",
+      "minecraft:iron_ingot",
+      "minecraft:diamond",
+      "minecraft:lapis_lazuli",
+      "minecraft:diamond",
+      "minecraft:iron_ingot",
+      "minecraft:lapis_lazuli",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "create:gantry_carriage": {
+    "result": "create:gantry_carriage",
+    "count": 1,
+    "ingredients": [
+      "minecraft:wooden_slabs",
+      "",
+      "",
+      "create:andesite_casing",
+      "",
+      "",
+      "create:cogwheel",
+      "",
+      ""
+    ]
+  },
+  "create:gantry_shaft": {
+    "result": "create:gantry_shaft",
+    "count": 8,
+    "ingredients": [
+      "create:andesite_alloy",
+      "",
+      "",
+      "minecraft:redstone",
+      "",
+      "",
+      "create:andesite_alloy",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:galactic_quiver": {
+    "result": "eternal_starlight:galactic_quiver",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:creteor_hide",
+      "",
+      "eternal_starlight:creteor_hide",
+      "",
+      "eternal_starlight:creteor_hide",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "herbsandharvest:garden_salad": {
+    "result": "herbsandharvest:garden_salad",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bowl",
+      "herbsandharvest:cucumber",
+      "minecraft:lettuce",
+      "minecraft:onion",
+      "minecraft:tomato",
+      "minecraft:carrot",
+      "",
+      "",
+      ""
+    ]
+  },
+  "herbsandharvest:garlic_bread": {
+    "result": "herbsandharvest:garlic_bread",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bread",
+      "minecraft:butter",
+      "minecraft:minced_garlic",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "herbsandharvest:garlic_bread_slice": {
+    "result": "herbsandharvest:garlic_bread_slice",
+    "count": 8,
+    "ingredients": [
+      "herbsandharvest:garlic_bread",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "herbsandharvest:garlic_clove": {
+    "result": "herbsandharvest:garlic_clove",
+    "count": 1,
+    "ingredients": [
+      "herbsandharvest:garlic_bulb",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwdoors:garage_black_door": {
+    "result": "mcwdoors:garage_black_door",
+    "count": 8,
+    "ingredients": [
+      "mcwdoors:garage_white_door",
+      "mcwdoors:garage_white_door",
+      "mcwdoors:garage_white_door",
+      "mcwdoors:garage_white_door",
+      "minecraft:black_dye",
+      "mcwdoors:garage_white_door",
+      "mcwdoors:garage_white_door",
+      "mcwdoors:garage_white_door",
+      "mcwdoors:garage_white_door"
+    ]
+  },
+  "mcwdoors:garage_gray_door": {
+    "result": "mcwdoors:garage_gray_door",
+    "count": 8,
+    "ingredients": [
+      "mcwdoors:garage_white_door",
+      "mcwdoors:garage_white_door",
+      "mcwdoors:garage_white_door",
+      "mcwdoors:garage_white_door",
+      "minecraft:gray_dye",
+      "mcwdoors:garage_white_door",
+      "mcwdoors:garage_white_door",
+      "mcwdoors:garage_white_door",
+      "mcwdoors:garage_white_door"
+    ]
+  },
+  "mcwdoors:garage_silver_door": {
+    "result": "mcwdoors:garage_silver_door",
+    "count": 8,
+    "ingredients": [
+      "mcwdoors:garage_white_door",
+      "mcwdoors:garage_white_door",
+      "mcwdoors:garage_white_door",
+      "mcwdoors:garage_white_door",
+      "minecraft:light_gray_dye",
+      "mcwdoors:garage_white_door",
+      "mcwdoors:garage_white_door",
+      "mcwdoors:garage_white_door",
+      "mcwdoors:garage_white_door"
+    ]
+  },
+  "mcwdoors:garage_white_door": {
+    "result": "mcwdoors:garage_white_door",
+    "count": 3,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:glass",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwholidays:garland": {
+    "result": "mcwholidays:garland",
+    "count": 9,
+    "ingredients": [
+      "minecraft:spruce_leaves",
+      "minecraft:spruce_leaves",
+      "minecraft:spruce_leaves",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwholidays:garland_blue_lights": {
+    "result": "mcwholidays:garland_blue_lights",
+    "count": 8,
+    "ingredients": [
+      "mcwholidays:garland",
+      "mcwholidays:garland",
+      "mcwholidays:garland",
+      "mcwholidays:garland",
+      "mcwholidays:blue_string_lights",
+      "mcwholidays:garland",
+      "mcwholidays:garland",
+      "mcwholidays:garland",
+      "mcwholidays:garland"
+    ]
+  },
+  "mcwholidays:garland_colorful_lights": {
+    "result": "mcwholidays:garland_colorful_lights",
+    "count": 8,
+    "ingredients": [
+      "mcwholidays:garland",
+      "mcwholidays:garland",
+      "mcwholidays:garland",
+      "mcwholidays:garland",
+      "mcwholidays:colorful_string_lights",
+      "mcwholidays:garland",
+      "mcwholidays:garland",
+      "mcwholidays:garland",
+      "mcwholidays:garland"
+    ]
+  },
+  "mcwholidays:garland_green_lights": {
+    "result": "mcwholidays:garland_green_lights",
+    "count": 8,
+    "ingredients": [
+      "mcwholidays:garland",
+      "mcwholidays:garland",
+      "mcwholidays:garland",
+      "mcwholidays:garland",
+      "mcwholidays:green_string_lights",
+      "mcwholidays:garland",
+      "mcwholidays:garland",
+      "mcwholidays:garland",
+      "mcwholidays:garland"
+    ]
+  },
+  "mcwholidays:garland_orange_lights": {
+    "result": "mcwholidays:garland_orange_lights",
+    "count": 8,
+    "ingredients": [
+      "mcwholidays:garland",
+      "mcwholidays:garland",
+      "mcwholidays:garland",
+      "mcwholidays:garland",
+      "mcwholidays:orange_string_lights",
+      "mcwholidays:garland",
+      "mcwholidays:garland",
+      "mcwholidays:garland",
+      "mcwholidays:garland"
+    ]
+  },
+  "mcwholidays:garland_purple_lights": {
+    "result": "mcwholidays:garland_purple_lights",
+    "count": 8,
+    "ingredients": [
+      "mcwholidays:garland",
+      "mcwholidays:garland",
+      "mcwholidays:garland",
+      "mcwholidays:garland",
+      "mcwholidays:purple_string_lights",
+      "mcwholidays:garland",
+      "mcwholidays:garland",
+      "mcwholidays:garland",
+      "mcwholidays:garland"
+    ]
+  },
+  "mcwholidays:garland_red_lights": {
+    "result": "mcwholidays:garland_red_lights",
+    "count": 8,
+    "ingredients": [
+      "mcwholidays:garland",
+      "mcwholidays:garland",
+      "mcwholidays:garland",
+      "mcwholidays:garland",
+      "mcwholidays:red_string_lights",
+      "mcwholidays:garland",
+      "mcwholidays:garland",
+      "mcwholidays:garland",
+      "mcwholidays:garland"
+    ]
+  },
+  "mcwholidays:garland_wall_deco": {
+    "result": "mcwholidays:garland_wall_deco",
+    "count": 1,
+    "ingredients": [
+      "minecraft:green_dye",
+      "minecraft:paper",
+      "minecraft:green_dye",
+      "",
+      "minecraft:green_dye",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwholidays:garland_yellow_lights": {
+    "result": "mcwholidays:garland_yellow_lights",
+    "count": 8,
+    "ingredients": [
+      "mcwholidays:garland",
+      "mcwholidays:garland",
+      "mcwholidays:garland",
+      "mcwholidays:garland",
+      "mcwholidays:yellow_string_lights",
+      "mcwholidays:garland",
+      "mcwholidays:garland",
+      "mcwholidays:garland",
+      "mcwholidays:garland"
+    ]
+  },
+  "mcwlights:garden_light": {
+    "result": "mcwlights:garden_light",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:iron_nugget",
+      "",
+      "minecraft:iron_nugget",
+      "minecraft:glowstone_dust",
+      "minecraft:iron_nugget",
+      "",
+      "minecraft:iron_ingot",
+      ""
+    ]
+  },
+  "mekanism:gauge_dropper": {
+    "result": "mekanism:gauge_dropper",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:osmium",
+      "",
+      "minecraft:glass",
+      "",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass"
+    ]
+  },
+  "mekanismgenerators:gas_burning_generator": {
+    "result": "mekanismgenerators:gas_burning_generator",
+    "count": 1,
+    "ingredients": [
+      "minecraft:osmium",
+      "minecraft:infused",
+      "minecraft:osmium",
+      "mekanism:steel_casing",
+      "mekanism:electrolytic_core",
+      "mekanism:steel_casing",
+      "minecraft:osmium",
+      "minecraft:infused",
+      "minecraft:osmium"
+    ]
+  },
+  "merrymaking:garland_diagonal_left": {
+    "result": "merrymaking:garland_diagonal_left",
+    "count": 3,
+    "ingredients": [
+      "merrymaking:left_diag_template",
+      "merrymaking:garland_horizontal",
+      "merrymaking:garland_horizontal",
+      "merrymaking:garland_horizontal",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:garland_diagonal_right": {
+    "result": "merrymaking:garland_diagonal_right",
+    "count": 3,
+    "ingredients": [
+      "merrymaking:right_diag_template",
+      "merrymaking:garland_horizontal",
+      "merrymaking:garland_horizontal",
+      "merrymaking:garland_horizontal",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:garland_horizontal": {
+    "result": "merrymaking:garland_horizontal",
+    "count": 3,
+    "ingredients": [
+      "minecraft:spruce_leaves",
+      "minecraft:spruce_leaves",
+      "minecraft:spruce_leaves",
+      "merrymaking:bow",
+      "",
+      "merrymaking:bow",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:garland_horizontal_multi": {
+    "result": "merrymaking:garland_horizontal_multi",
+    "count": 1,
+    "ingredients": [
+      "merrymaking:garland_horizontal",
+      "merrymaking:tree_lights_multi",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:garland_horizontal_lights": {
+    "result": "merrymaking:garland_horizontal_lights",
+    "count": 1,
+    "ingredients": [
+      "merrymaking:garland_horizontal",
+      "merrymaking:tree_lights_white",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:garland_lights_diagonal_left": {
+    "result": "merrymaking:garland_lights_diagonal_left",
+    "count": 3,
+    "ingredients": [
+      "merrymaking:left_diag_template",
+      "merrymaking:garland_horizontal_lights",
+      "merrymaking:garland_horizontal_lights",
+      "merrymaking:garland_horizontal_lights",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:garland_lights_diagonal_right": {
+    "result": "merrymaking:garland_lights_diagonal_right",
+    "count": 3,
+    "ingredients": [
+      "merrymaking:right_diag_template",
+      "merrymaking:garland_horizontal_lights",
+      "merrymaking:garland_horizontal_lights",
+      "merrymaking:garland_horizontal_lights",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:garland_vertical_corner_lights_left": {
+    "result": "merrymaking:garland_vertical_corner_lights_left",
+    "count": 3,
+    "ingredients": [
+      "merrymaking:left_corner_template",
+      "merrymaking:garland_horizontal_lights",
+      "merrymaking:garland_horizontal_lights",
+      "merrymaking:garland_horizontal_lights",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:garland_vertical_corner_lights_right": {
+    "result": "merrymaking:garland_vertical_corner_lights_right",
+    "count": 3,
+    "ingredients": [
+      "merrymaking:right_corner_template",
+      "merrymaking:garland_horizontal_lights",
+      "merrymaking:garland_horizontal_lights",
+      "merrymaking:garland_horizontal_lights",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:garland_vertical_lights_left": {
+    "result": "merrymaking:garland_vertical_lights_left",
+    "count": 3,
+    "ingredients": [
+      "merrymaking:left_vert_template",
+      "merrymaking:garland_horizontal_lights",
+      "merrymaking:garland_horizontal_lights",
+      "merrymaking:garland_horizontal_lights",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:garland_vertical_lights_right": {
+    "result": "merrymaking:garland_vertical_lights_right",
+    "count": 3,
+    "ingredients": [
+      "merrymaking:right_vert_template",
+      "merrymaking:garland_horizontal_lights",
+      "merrymaking:garland_horizontal_lights",
+      "merrymaking:garland_horizontal_lights",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:garland_multi_diagonal_left": {
+    "result": "merrymaking:garland_multi_diagonal_left",
+    "count": 3,
+    "ingredients": [
+      "merrymaking:left_diag_template",
+      "merrymaking:garland_horizontal_multi",
+      "merrymaking:garland_horizontal_multi",
+      "merrymaking:garland_horizontal_multi",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:garland_multi_diagonal_right": {
+    "result": "merrymaking:garland_multi_diagonal_right",
+    "count": 3,
+    "ingredients": [
+      "merrymaking:right_diag_template",
+      "merrymaking:garland_horizontal_multi",
+      "merrymaking:garland_horizontal_multi",
+      "merrymaking:garland_horizontal_multi",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:garland_vertical_corner_multi_left": {
+    "result": "merrymaking:garland_vertical_corner_multi_left",
+    "count": 3,
+    "ingredients": [
+      "merrymaking:left_corner_template",
+      "merrymaking:garland_horizontal_multi",
+      "merrymaking:garland_horizontal_multi",
+      "merrymaking:garland_horizontal_multi",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:garland_vertical_corner_multi_right": {
+    "result": "merrymaking:garland_vertical_corner_multi_right",
+    "count": 3,
+    "ingredients": [
+      "merrymaking:right_corner_template",
+      "merrymaking:garland_horizontal_multi",
+      "merrymaking:garland_horizontal_multi",
+      "merrymaking:garland_horizontal_multi",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:garland_vertical_multi_left": {
+    "result": "merrymaking:garland_vertical_multi_left",
+    "count": 3,
+    "ingredients": [
+      "merrymaking:left_vert_template",
+      "merrymaking:garland_horizontal_multi",
+      "merrymaking:garland_horizontal_multi",
+      "merrymaking:garland_horizontal_multi",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:garland_vertical_multi_right": {
+    "result": "merrymaking:garland_vertical_multi_right",
+    "count": 3,
+    "ingredients": [
+      "merrymaking:right_vert_template",
+      "merrymaking:garland_horizontal_multi",
+      "merrymaking:garland_horizontal_multi",
+      "merrymaking:garland_horizontal_multi",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:garland_vertical_corner_left": {
+    "result": "merrymaking:garland_vertical_corner_left",
+    "count": 3,
+    "ingredients": [
+      "merrymaking:left_corner_template",
+      "merrymaking:garland_horizontal",
+      "merrymaking:garland_horizontal",
+      "merrymaking:garland_horizontal",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:garland_vertical_corner_right": {
+    "result": "merrymaking:garland_vertical_corner_right",
+    "count": 3,
+    "ingredients": [
+      "merrymaking:right_corner_template",
+      "merrymaking:garland_horizontal",
+      "merrymaking:garland_horizontal",
+      "merrymaking:garland_horizontal",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:garland_vertical_left": {
+    "result": "merrymaking:garland_vertical_left",
+    "count": 3,
+    "ingredients": [
+      "merrymaking:left_vert_template",
+      "merrymaking:garland_horizontal",
+      "merrymaking:garland_horizontal",
+      "merrymaking:garland_horizontal",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:garland_vertical_right": {
+    "result": "merrymaking:garland_vertical_right",
+    "count": 3,
+    "ingredients": [
+      "merrymaking:right_vert_template",
+      "merrymaking:garland_horizontal",
+      "merrymaking:garland_horizontal",
+      "merrymaking:garland_horizontal",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mysticalagradditions:gaia_spirit_crux": {
+    "result": "mysticalagradditions:gaia_spirit_crux",
+    "count": 1,
+    "ingredients": [
+      "mysticalagradditions:insanium_essence",
+      "botania:terrasteel_block",
+      "mysticalagradditions:insanium_essence",
+      "botania:gaia_ingot",
+      "minecraft:diamond",
+      "botania:gaia_ingot",
+      "mysticalagradditions:insanium_essence",
+      "botania:gaia_ingot",
+      "mysticalagradditions:insanium_essence"
+    ]
+  },
+  "pamhc2crops:garlicseeditem": {
+    "result": "pamhc2crops:garlicseeditem",
+    "count": 1,
+    "ingredients": [
+      "pamhc2crops:garlicitem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:garammasalaitem": {
+    "result": "pamhc2foodextended:garammasalaitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_grinder",
+      "minecraft:blackpepper",
+      "minecraft:groundcinnamon",
+      "minecraft:spiceleaf",
+      "minecraft:groundnutmeg",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:gardensoupitem": {
+    "result": "pamhc2foodextended:gardensoupitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:stock",
+      "minecraft:vegetables",
+      "minecraft:vegetables",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:garlicbreaditem": {
+    "result": "pamhc2foodextended:garlicbreaditem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:garlic",
+      "minecraft:toast",
+      "minecraft:butter",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:garlicchickenitem": {
+    "result": "pamhc2foodextended:garlicchickenitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:garlic",
+      "minecraft:garlic",
+      "minecraft:garlic",
+      "minecraft:cookingoil",
+      "minecraft:rawchicken",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:garlicmashedpotatoesitem": {
+    "result": "pamhc2foodextended:garlicmashedpotatoesitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:salt",
+      "minecraft:butter",
+      "minecraft:baked_potato",
+      "minecraft:garlic",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:garlicsteakitem": {
+    "result": "pamhc2foodextended:garlicsteakitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_skillet",
+      "minecraft:rawbeef",
+      "minecraft:garlic",
+      "minecraft:butter",
+      "minecraft:spiceleaf",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pipez:gas_pipe": {
+    "result": "pipez:gas_pipe",
+    "count": 16,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "mekanism:alloy_infused",
+      "minecraft:redstone",
+      "mekanism:alloy_infused",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "railcraft:gated_track_kit": {
+    "result": "railcraft:gated_track_kit",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "railcraft:track_parts",
+      "minecraft:fence_gates",
+      "railcraft:advanced_rail",
+      "minecraft:redstone",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgems:garnet": {
+    "result": "silentgems:garnet",
+    "count": 9,
+    "ingredients": [
+      "silentgems:garnet_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgems:garnet_bricks": {
+    "result": "silentgems:garnet_bricks",
+    "count": 12,
+    "ingredients": [
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:garnet",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks"
+    ]
+  },
+  "silentgems:garnet_block": {
+    "result": "silentgems:garnet_block",
+    "count": 1,
+    "ingredients": [
+      "silentgems:garnet",
+      "silentgems:garnet",
+      "silentgems:garnet",
+      "silentgems:garnet",
+      "silentgems:garnet",
+      "silentgems:garnet",
+      "silentgems:garnet",
+      "silentgems:garnet",
+      "silentgems:garnet"
+    ]
+  },
+  "silentgems:garnet_glass": {
+    "result": "silentgems:garnet_glass",
+    "count": 12,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:garnet",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass"
+    ]
+  },
+  "silentgems:garnet_lamp": {
+    "result": "silentgems:garnet_lamp",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:garnet",
+      "minecraft:stone",
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:redstone"
+    ]
+  },
+  "silentgems:garnet_lamp_inverted_on": {
+    "result": "silentgems:garnet_lamp_inverted_on",
+    "count": 1,
+    "ingredients": [
+      "silentgems:garnet_lamp",
+      "minecraft:redstone_torch",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgems:garnet_redstone_teleporter": {
+    "result": "silentgems:garnet_redstone_teleporter",
+    "count": 1,
+    "ingredients": [
+      "silentgems:garnet_teleporter",
+      "minecraft:redstone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgems:garnet_small_bricks": {
+    "result": "silentgems:garnet_small_bricks",
+    "count": 12,
+    "ingredients": [
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:garnet",
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:bricks"
+    ]
+  },
+  "silentgems:garnet_teleporter": {
+    "result": "silentgems:garnet_teleporter",
+    "count": 2,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "minecraft:garnet",
+      "minecraft:gold_ingot",
+      "minecraft:garnet",
+      "silentgems:chaos_essence_block",
+      "minecraft:garnet",
+      "",
+      "minecraft:ender_pearl",
+      ""
+    ]
+  },
+  "silentgems:garnet_tiles": {
+    "result": "silentgems:garnet_tiles",
+    "count": 12,
+    "ingredients": [
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:garnet",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles"
+    ]
+  },
+  "stevescarts:galgadorian_metal": {
+    "result": "stevescarts:galgadorian_metal",
+    "count": 1,
+    "ingredients": [
+      "stevescarts:component_galgadorian_metal",
+      "stevescarts:component_galgadorian_metal",
+      "stevescarts:component_galgadorian_metal",
+      "stevescarts:component_galgadorian_metal",
+      "stevescarts:component_galgadorian_metal",
+      "stevescarts:component_galgadorian_metal",
+      "stevescarts:component_galgadorian_metal",
+      "stevescarts:component_galgadorian_metal",
+      "stevescarts:component_galgadorian_metal"
+    ]
+  }
+}

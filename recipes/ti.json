@@ -1,0 +1,2387 @@
+{
+  "actuallyadditions:tiny_charcoal": {
+    "result": "actuallyadditions:tiny_charcoal",
+    "count": 8,
+    "ingredients": [
+      "minecraft:charcoal",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "actuallyadditions:tiny_coal": {
+    "result": "actuallyadditions:tiny_coal",
+    "count": 8,
+    "ingredients": [
+      "minecraft:coal",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "actuallyadditions:tiny_torch": {
+    "result": "actuallyadditions:tiny_torch",
+    "count": 2,
+    "ingredients": [
+      "minecraft:coal",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ae2:tiny_tnt": {
+    "result": "ae2:tiny_tnt",
+    "count": 1,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:gunpowder",
+      "",
+      "minecraft:gunpowder",
+      "minecraft:quartz",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:tin_block_1x": {
+    "result": "allthecompressed:tin_block_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:tin_block_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:tin_block_2x": {
+    "result": "allthecompressed:tin_block_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:tin_block_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:tin_block_3x": {
+    "result": "allthecompressed:tin_block_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:tin_block_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:tin_block_4x": {
+    "result": "allthecompressed:tin_block_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:tin_block_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:tin_block_5x": {
+    "result": "allthecompressed:tin_block_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:tin_block_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:tin_block_6x": {
+    "result": "allthecompressed:tin_block_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:tin_block_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:tin_block_7x": {
+    "result": "allthecompressed:tin_block_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:tin_block_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:tin_block_8x": {
+    "result": "allthecompressed:tin_block_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:tin_block_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:tin_block_9x": {
+    "result": "allthecompressed:tin_block_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:tin_block_8x",
+      "allthecompressed:tin_block_8x",
+      "allthecompressed:tin_block_8x",
+      "allthecompressed:tin_block_8x",
+      "allthecompressed:tin_block_8x",
+      "allthecompressed:tin_block_8x",
+      "allthecompressed:tin_block_8x",
+      "allthecompressed:tin_block_8x",
+      "allthecompressed:tin_block_8x"
+    ]
+  },
+  "alltheores:tin_block": {
+    "result": "alltheores:tin_block",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:tin_ingot",
+      "modern_industrialization:tin_ingot",
+      "modern_industrialization:tin_ingot",
+      "modern_industrialization:tin_ingot",
+      "modern_industrialization:tin_ingot",
+      "modern_industrialization:tin_ingot",
+      "modern_industrialization:tin_ingot",
+      "modern_industrialization:tin_ingot",
+      "modern_industrialization:tin_ingot"
+    ]
+  },
+  "alltheores:tin_dust": {
+    "result": "alltheores:tin_dust",
+    "count": 2,
+    "ingredients": [
+      "minecraft:ore_hammers",
+      "minecraft:tin",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "alltheores:tin_gear": {
+    "result": "alltheores:tin_gear",
+    "count": 1,
+    "ingredients": [
+      "",
+      "modern_industrialization:tin_ingot",
+      "",
+      "modern_industrialization:tin_ingot",
+      "minecraft:iron",
+      "modern_industrialization:tin_ingot",
+      "",
+      "modern_industrialization:tin_ingot",
+      ""
+    ]
+  },
+  "alltheores:tin_ingot": {
+    "result": "alltheores:tin_ingot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tin",
+      "minecraft:tin",
+      "minecraft:tin",
+      "minecraft:tin",
+      "minecraft:tin",
+      "minecraft:tin",
+      "minecraft:tin",
+      "minecraft:tin",
+      "minecraft:tin"
+    ]
+  },
+  "alltheores:tin_nugget": {
+    "result": "alltheores:tin_nugget",
+    "count": 9,
+    "ingredients": [
+      "modern_industrialization:tin_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "alltheores:tin_plate": {
+    "result": "alltheores:tin_plate",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "minecraft:ore_hammers",
+      "modern_industrialization:tin_ingot",
+      "",
+      "modern_industrialization:tin_ingot",
+      "",
+      ""
+    ]
+  },
+  "alltheores:tin_rod": {
+    "result": "alltheores:tin_rod",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "modern_industrialization:tin_ingot",
+      "minecraft:ore_hammers",
+      "modern_industrialization:tin_ingot",
+      ""
+    ]
+  },
+  "connectedglass:tinted_borderless_glass": {
+    "result": "connectedglass:tinted_borderless_glass",
+    "count": 4,
+    "ingredients": [
+      "minecraft:tinted_glass",
+      "minecraft:tinted_glass",
+      "",
+      "minecraft:tinted_glass",
+      "minecraft:tinted_glass",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "connectedglass:tinted_borderless_glass_black": {
+    "result": "connectedglass:tinted_borderless_glass_black",
+    "count": 8,
+    "ingredients": [
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "minecraft:black",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass"
+    ]
+  },
+  "connectedglass:tinted_borderless_glass_blue": {
+    "result": "connectedglass:tinted_borderless_glass_blue",
+    "count": 8,
+    "ingredients": [
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "minecraft:blue",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass"
+    ]
+  },
+  "connectedglass:tinted_borderless_glass_brown": {
+    "result": "connectedglass:tinted_borderless_glass_brown",
+    "count": 8,
+    "ingredients": [
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "minecraft:brown",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass"
+    ]
+  },
+  "connectedglass:tinted_borderless_glass_cyan": {
+    "result": "connectedglass:tinted_borderless_glass_cyan",
+    "count": 8,
+    "ingredients": [
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "minecraft:cyan",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass"
+    ]
+  },
+  "connectedglass:tinted_borderless_glass_gray": {
+    "result": "connectedglass:tinted_borderless_glass_gray",
+    "count": 8,
+    "ingredients": [
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "minecraft:gray",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass"
+    ]
+  },
+  "connectedglass:tinted_borderless_glass_green": {
+    "result": "connectedglass:tinted_borderless_glass_green",
+    "count": 8,
+    "ingredients": [
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "minecraft:green",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass"
+    ]
+  },
+  "connectedglass:tinted_borderless_glass_light_blue": {
+    "result": "connectedglass:tinted_borderless_glass_light_blue",
+    "count": 8,
+    "ingredients": [
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "minecraft:light_blue",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass"
+    ]
+  },
+  "connectedglass:tinted_borderless_glass_light_gray": {
+    "result": "connectedglass:tinted_borderless_glass_light_gray",
+    "count": 8,
+    "ingredients": [
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "minecraft:light_gray",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass"
+    ]
+  },
+  "connectedglass:tinted_borderless_glass_lime": {
+    "result": "connectedglass:tinted_borderless_glass_lime",
+    "count": 8,
+    "ingredients": [
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "minecraft:lime",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass"
+    ]
+  },
+  "connectedglass:tinted_borderless_glass_magenta": {
+    "result": "connectedglass:tinted_borderless_glass_magenta",
+    "count": 8,
+    "ingredients": [
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "minecraft:magenta",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass"
+    ]
+  },
+  "connectedglass:tinted_borderless_glass_orange": {
+    "result": "connectedglass:tinted_borderless_glass_orange",
+    "count": 8,
+    "ingredients": [
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "minecraft:orange",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass"
+    ]
+  },
+  "connectedglass:tinted_borderless_glass_pink": {
+    "result": "connectedglass:tinted_borderless_glass_pink",
+    "count": 8,
+    "ingredients": [
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "minecraft:pink",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass"
+    ]
+  },
+  "connectedglass:tinted_borderless_glass_purple": {
+    "result": "connectedglass:tinted_borderless_glass_purple",
+    "count": 8,
+    "ingredients": [
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "minecraft:purple",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass"
+    ]
+  },
+  "connectedglass:tinted_borderless_glass_red": {
+    "result": "connectedglass:tinted_borderless_glass_red",
+    "count": 8,
+    "ingredients": [
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "minecraft:red",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass"
+    ]
+  },
+  "connectedglass:tinted_borderless_glass_white": {
+    "result": "connectedglass:tinted_borderless_glass_white",
+    "count": 8,
+    "ingredients": [
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "minecraft:white",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass"
+    ]
+  },
+  "connectedglass:tinted_borderless_glass_yellow": {
+    "result": "connectedglass:tinted_borderless_glass_yellow",
+    "count": 8,
+    "ingredients": [
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "minecraft:yellow",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass",
+      "connectedglass:tinted_borderless_glass"
+    ]
+  },
+  "minecraft:tinted_glass": {
+    "result": "minecraft:tinted_glass",
+    "count": 2,
+    "ingredients": [
+      "",
+      "minecraft:amethyst_shard",
+      "",
+      "minecraft:amethyst_shard",
+      "minecraft:glass",
+      "minecraft:amethyst_shard",
+      "",
+      "minecraft:amethyst_shard",
+      ""
+    ]
+  },
+  "create:tiled_glass_pane": {
+    "result": "create:tiled_glass_pane",
+    "count": 16,
+    "ingredients": [
+      "create:tiled_glass",
+      "create:tiled_glass",
+      "create:tiled_glass",
+      "create:tiled_glass",
+      "create:tiled_glass",
+      "create:tiled_glass",
+      "",
+      "",
+      ""
+    ]
+  },
+  "extended_industrialization:tin_can": {
+    "result": "extended_industrialization:tin_can",
+    "count": 2,
+    "ingredients": [
+      "modern_industrialization:tin_curved_plate",
+      "",
+      "",
+      "modern_industrialization:tin_curved_plate",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "glassential:tinted_glass_door": {
+    "result": "glassential:tinted_glass_door",
+    "count": 3,
+    "ingredients": [
+      "minecraft:tinted_glass",
+      "minecraft:tinted_glass",
+      "",
+      "minecraft:tinted_glass",
+      "minecraft:tinted_glass",
+      "",
+      "minecraft:tinted_glass",
+      "minecraft:tinted_glass",
+      ""
+    ]
+  },
+  "glassential:tinted_glass_trapdoor": {
+    "result": "glassential:tinted_glass_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "minecraft:tinted_glass",
+      "minecraft:tinted_glass",
+      "",
+      "minecraft:tinted_glass",
+      "minecraft:tinted_glass",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "glassential:tinted_one_way_glass": {
+    "result": "glassential:tinted_one_way_glass",
+    "count": 6,
+    "ingredients": [
+      "minecraft:tinted_glass",
+      "minecraft:tinted_glass",
+      "minecraft:tinted_glass",
+      "minecraft:tinted_glass",
+      "minecraft:observer",
+      "minecraft:tinted_glass",
+      "minecraft:tinted_glass",
+      "minecraft:black_dye",
+      "minecraft:tinted_glass"
+    ]
+  },
+  "iceandfire:tide_blue_boots": {
+    "result": "iceandfire:tide_blue_boots",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:shiny_scales",
+      "",
+      "iceandfire:shiny_scales",
+      "iceandfire:sea_serpent_scales_blue",
+      "",
+      "iceandfire:sea_serpent_scales_blue",
+      "iceandfire:sea_serpent_scales_blue",
+      "",
+      "iceandfire:sea_serpent_scales_blue"
+    ]
+  },
+  "iceandfire:tide_blue_chestplate": {
+    "result": "iceandfire:tide_blue_chestplate",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:sea_serpent_scales_blue",
+      "",
+      "iceandfire:sea_serpent_scales_blue",
+      "iceandfire:sea_serpent_scales_blue",
+      "iceandfire:sea_serpent_scales_blue",
+      "iceandfire:sea_serpent_scales_blue",
+      "iceandfire:shiny_scales",
+      "iceandfire:sea_serpent_scales_blue",
+      "iceandfire:shiny_scales"
+    ]
+  },
+  "iceandfire:tide_blue_helmet": {
+    "result": "iceandfire:tide_blue_helmet",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:shiny_scales",
+      "",
+      "iceandfire:shiny_scales",
+      "iceandfire:sea_serpent_scales_blue",
+      "iceandfire:sea_serpent_scales_blue",
+      "iceandfire:sea_serpent_scales_blue",
+      "iceandfire:sea_serpent_scales_blue",
+      "",
+      "iceandfire:sea_serpent_scales_blue"
+    ]
+  },
+  "iceandfire:tide_blue_leggings": {
+    "result": "iceandfire:tide_blue_leggings",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:sea_serpent_scales_blue",
+      "iceandfire:sea_serpent_scales_blue",
+      "iceandfire:sea_serpent_scales_blue",
+      "iceandfire:sea_serpent_scales_blue",
+      "",
+      "iceandfire:sea_serpent_scales_blue",
+      "iceandfire:shiny_scales",
+      "",
+      "iceandfire:shiny_scales"
+    ]
+  },
+  "iceandfire:tide_bronze_boots": {
+    "result": "iceandfire:tide_bronze_boots",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:shiny_scales",
+      "",
+      "iceandfire:shiny_scales",
+      "iceandfire:sea_serpent_scales_bronze",
+      "",
+      "iceandfire:sea_serpent_scales_bronze",
+      "iceandfire:sea_serpent_scales_bronze",
+      "",
+      "iceandfire:sea_serpent_scales_bronze"
+    ]
+  },
+  "iceandfire:tide_bronze_chestplate": {
+    "result": "iceandfire:tide_bronze_chestplate",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:sea_serpent_scales_bronze",
+      "",
+      "iceandfire:sea_serpent_scales_bronze",
+      "iceandfire:sea_serpent_scales_bronze",
+      "iceandfire:sea_serpent_scales_bronze",
+      "iceandfire:sea_serpent_scales_bronze",
+      "iceandfire:shiny_scales",
+      "iceandfire:sea_serpent_scales_bronze",
+      "iceandfire:shiny_scales"
+    ]
+  },
+  "iceandfire:tide_bronze_helmet": {
+    "result": "iceandfire:tide_bronze_helmet",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:shiny_scales",
+      "",
+      "iceandfire:shiny_scales",
+      "iceandfire:sea_serpent_scales_bronze",
+      "iceandfire:sea_serpent_scales_bronze",
+      "iceandfire:sea_serpent_scales_bronze",
+      "iceandfire:sea_serpent_scales_bronze",
+      "",
+      "iceandfire:sea_serpent_scales_bronze"
+    ]
+  },
+  "iceandfire:tide_bronze_leggings": {
+    "result": "iceandfire:tide_bronze_leggings",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:sea_serpent_scales_bronze",
+      "iceandfire:sea_serpent_scales_bronze",
+      "iceandfire:sea_serpent_scales_bronze",
+      "iceandfire:sea_serpent_scales_bronze",
+      "",
+      "iceandfire:sea_serpent_scales_bronze",
+      "iceandfire:shiny_scales",
+      "",
+      "iceandfire:shiny_scales"
+    ]
+  },
+  "iceandfire:tide_deepblue_boots": {
+    "result": "iceandfire:tide_deepblue_boots",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:shiny_scales",
+      "",
+      "iceandfire:shiny_scales",
+      "iceandfire:sea_serpent_scales_deepblue",
+      "",
+      "iceandfire:sea_serpent_scales_deepblue",
+      "iceandfire:sea_serpent_scales_deepblue",
+      "",
+      "iceandfire:sea_serpent_scales_deepblue"
+    ]
+  },
+  "iceandfire:tide_deepblue_chestplate": {
+    "result": "iceandfire:tide_deepblue_chestplate",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:sea_serpent_scales_deepblue",
+      "",
+      "iceandfire:sea_serpent_scales_deepblue",
+      "iceandfire:sea_serpent_scales_deepblue",
+      "iceandfire:sea_serpent_scales_deepblue",
+      "iceandfire:sea_serpent_scales_deepblue",
+      "iceandfire:shiny_scales",
+      "iceandfire:sea_serpent_scales_deepblue",
+      "iceandfire:shiny_scales"
+    ]
+  },
+  "iceandfire:tide_deepblue_helmet": {
+    "result": "iceandfire:tide_deepblue_helmet",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:shiny_scales",
+      "",
+      "iceandfire:shiny_scales",
+      "iceandfire:sea_serpent_scales_deepblue",
+      "iceandfire:sea_serpent_scales_deepblue",
+      "iceandfire:sea_serpent_scales_deepblue",
+      "iceandfire:sea_serpent_scales_deepblue",
+      "",
+      "iceandfire:sea_serpent_scales_deepblue"
+    ]
+  },
+  "iceandfire:tide_deepblue_leggings": {
+    "result": "iceandfire:tide_deepblue_leggings",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:sea_serpent_scales_deepblue",
+      "iceandfire:sea_serpent_scales_deepblue",
+      "iceandfire:sea_serpent_scales_deepblue",
+      "iceandfire:sea_serpent_scales_deepblue",
+      "",
+      "iceandfire:sea_serpent_scales_deepblue",
+      "iceandfire:shiny_scales",
+      "",
+      "iceandfire:shiny_scales"
+    ]
+  },
+  "iceandfire:tide_green_boots": {
+    "result": "iceandfire:tide_green_boots",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:shiny_scales",
+      "",
+      "iceandfire:shiny_scales",
+      "iceandfire:sea_serpent_scales_green",
+      "",
+      "iceandfire:sea_serpent_scales_green",
+      "iceandfire:sea_serpent_scales_green",
+      "",
+      "iceandfire:sea_serpent_scales_green"
+    ]
+  },
+  "iceandfire:tide_green_chestplate": {
+    "result": "iceandfire:tide_green_chestplate",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:sea_serpent_scales_green",
+      "",
+      "iceandfire:sea_serpent_scales_green",
+      "iceandfire:sea_serpent_scales_green",
+      "iceandfire:sea_serpent_scales_green",
+      "iceandfire:sea_serpent_scales_green",
+      "iceandfire:shiny_scales",
+      "iceandfire:sea_serpent_scales_green",
+      "iceandfire:shiny_scales"
+    ]
+  },
+  "iceandfire:tide_green_helmet": {
+    "result": "iceandfire:tide_green_helmet",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:shiny_scales",
+      "",
+      "iceandfire:shiny_scales",
+      "iceandfire:sea_serpent_scales_green",
+      "iceandfire:sea_serpent_scales_green",
+      "iceandfire:sea_serpent_scales_green",
+      "iceandfire:sea_serpent_scales_green",
+      "",
+      "iceandfire:sea_serpent_scales_green"
+    ]
+  },
+  "iceandfire:tide_green_leggings": {
+    "result": "iceandfire:tide_green_leggings",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:sea_serpent_scales_green",
+      "iceandfire:sea_serpent_scales_green",
+      "iceandfire:sea_serpent_scales_green",
+      "iceandfire:sea_serpent_scales_green",
+      "",
+      "iceandfire:sea_serpent_scales_green",
+      "iceandfire:shiny_scales",
+      "",
+      "iceandfire:shiny_scales"
+    ]
+  },
+  "iceandfire:tide_purple_boots": {
+    "result": "iceandfire:tide_purple_boots",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:shiny_scales",
+      "",
+      "iceandfire:shiny_scales",
+      "iceandfire:sea_serpent_scales_purple",
+      "",
+      "iceandfire:sea_serpent_scales_purple",
+      "iceandfire:sea_serpent_scales_purple",
+      "",
+      "iceandfire:sea_serpent_scales_purple"
+    ]
+  },
+  "iceandfire:tide_purple_chestplate": {
+    "result": "iceandfire:tide_purple_chestplate",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:sea_serpent_scales_purple",
+      "",
+      "iceandfire:sea_serpent_scales_purple",
+      "iceandfire:sea_serpent_scales_purple",
+      "iceandfire:sea_serpent_scales_purple",
+      "iceandfire:sea_serpent_scales_purple",
+      "iceandfire:shiny_scales",
+      "iceandfire:sea_serpent_scales_purple",
+      "iceandfire:shiny_scales"
+    ]
+  },
+  "iceandfire:tide_purple_helmet": {
+    "result": "iceandfire:tide_purple_helmet",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:shiny_scales",
+      "",
+      "iceandfire:shiny_scales",
+      "iceandfire:sea_serpent_scales_purple",
+      "iceandfire:sea_serpent_scales_purple",
+      "iceandfire:sea_serpent_scales_purple",
+      "iceandfire:sea_serpent_scales_purple",
+      "",
+      "iceandfire:sea_serpent_scales_purple"
+    ]
+  },
+  "iceandfire:tide_purple_leggings": {
+    "result": "iceandfire:tide_purple_leggings",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:sea_serpent_scales_purple",
+      "iceandfire:sea_serpent_scales_purple",
+      "iceandfire:sea_serpent_scales_purple",
+      "iceandfire:sea_serpent_scales_purple",
+      "",
+      "iceandfire:sea_serpent_scales_purple",
+      "iceandfire:shiny_scales",
+      "",
+      "iceandfire:shiny_scales"
+    ]
+  },
+  "iceandfire:tide_red_boots": {
+    "result": "iceandfire:tide_red_boots",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:shiny_scales",
+      "",
+      "iceandfire:shiny_scales",
+      "iceandfire:sea_serpent_scales_red",
+      "",
+      "iceandfire:sea_serpent_scales_red",
+      "iceandfire:sea_serpent_scales_red",
+      "",
+      "iceandfire:sea_serpent_scales_red"
+    ]
+  },
+  "iceandfire:tide_red_chestplate": {
+    "result": "iceandfire:tide_red_chestplate",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:sea_serpent_scales_red",
+      "",
+      "iceandfire:sea_serpent_scales_red",
+      "iceandfire:sea_serpent_scales_red",
+      "iceandfire:sea_serpent_scales_red",
+      "iceandfire:sea_serpent_scales_red",
+      "iceandfire:shiny_scales",
+      "iceandfire:sea_serpent_scales_red",
+      "iceandfire:shiny_scales"
+    ]
+  },
+  "iceandfire:tide_red_helmet": {
+    "result": "iceandfire:tide_red_helmet",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:shiny_scales",
+      "",
+      "iceandfire:shiny_scales",
+      "iceandfire:sea_serpent_scales_red",
+      "iceandfire:sea_serpent_scales_red",
+      "iceandfire:sea_serpent_scales_red",
+      "iceandfire:sea_serpent_scales_red",
+      "",
+      "iceandfire:sea_serpent_scales_red"
+    ]
+  },
+  "iceandfire:tide_red_leggings": {
+    "result": "iceandfire:tide_red_leggings",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:sea_serpent_scales_red",
+      "iceandfire:sea_serpent_scales_red",
+      "iceandfire:sea_serpent_scales_red",
+      "iceandfire:sea_serpent_scales_red",
+      "",
+      "iceandfire:sea_serpent_scales_red",
+      "iceandfire:shiny_scales",
+      "",
+      "iceandfire:shiny_scales"
+    ]
+  },
+  "iceandfire:tide_teal_boots": {
+    "result": "iceandfire:tide_teal_boots",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:shiny_scales",
+      "",
+      "iceandfire:shiny_scales",
+      "iceandfire:sea_serpent_scales_teal",
+      "",
+      "iceandfire:sea_serpent_scales_teal",
+      "iceandfire:sea_serpent_scales_teal",
+      "",
+      "iceandfire:sea_serpent_scales_teal"
+    ]
+  },
+  "iceandfire:tide_teal_chestplate": {
+    "result": "iceandfire:tide_teal_chestplate",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:sea_serpent_scales_teal",
+      "",
+      "iceandfire:sea_serpent_scales_teal",
+      "iceandfire:sea_serpent_scales_teal",
+      "iceandfire:sea_serpent_scales_teal",
+      "iceandfire:sea_serpent_scales_teal",
+      "iceandfire:shiny_scales",
+      "iceandfire:sea_serpent_scales_teal",
+      "iceandfire:shiny_scales"
+    ]
+  },
+  "iceandfire:tide_teal_helmet": {
+    "result": "iceandfire:tide_teal_helmet",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:shiny_scales",
+      "",
+      "iceandfire:shiny_scales",
+      "iceandfire:sea_serpent_scales_teal",
+      "iceandfire:sea_serpent_scales_teal",
+      "iceandfire:sea_serpent_scales_teal",
+      "iceandfire:sea_serpent_scales_teal",
+      "",
+      "iceandfire:sea_serpent_scales_teal"
+    ]
+  },
+  "iceandfire:tide_teal_leggings": {
+    "result": "iceandfire:tide_teal_leggings",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:sea_serpent_scales_teal",
+      "iceandfire:sea_serpent_scales_teal",
+      "iceandfire:sea_serpent_scales_teal",
+      "iceandfire:sea_serpent_scales_teal",
+      "",
+      "iceandfire:sea_serpent_scales_teal",
+      "iceandfire:shiny_scales",
+      "",
+      "iceandfire:shiny_scales"
+    ]
+  },
+  "iceandfire:tide_trident": {
+    "result": "iceandfire:tide_trident",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:sea_serpent_fang",
+      "iceandfire:sea_serpent_fang",
+      "iceandfire:sea_serpent_fang",
+      "minecraft:sea_serpent",
+      "minecraft:diamond",
+      "minecraft:sea_serpent",
+      "",
+      "iceandfire:dragonbone",
+      ""
+    ]
+  },
+  "justdirethings:time_crystal_block": {
+    "result": "justdirethings:time_crystal_block",
+    "count": 1,
+    "ingredients": [
+      "justdirethings:time_crystal",
+      "justdirethings:time_crystal",
+      "justdirethings:time_crystal",
+      "justdirethings:time_crystal",
+      "justdirethings:time_crystal",
+      "justdirethings:time_crystal",
+      "justdirethings:time_crystal",
+      "justdirethings:time_crystal",
+      "justdirethings:time_crystal"
+    ]
+  },
+  "justdirethings:time_crystal": {
+    "result": "justdirethings:time_crystal",
+    "count": 9,
+    "ingredients": [
+      "justdirethings:time_crystal_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "justdirethings:time_wand": {
+    "result": "justdirethings:time_wand",
+    "count": 1,
+    "ingredients": [
+      "",
+      "justdirethings:blazegold_ingot",
+      "justdirethings:time_crystal",
+      "",
+      "justdirethings:ferricore_ingot",
+      "justdirethings:blazegold_ingot",
+      "justdirethings:ferricore_ingot",
+      "",
+      ""
+    ]
+  },
+  "minecraft:tide_armor_trim_smithing_template": {
+    "result": "minecraft:tide_armor_trim_smithing_template",
+    "count": 2,
+    "ingredients": [
+      "minecraft:diamond",
+      "minecraft:tide_armor_trim_smithing_template",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:prismarine",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond"
+    ]
+  },
+  "chipped:tinkering_table": {
+    "result": "chipped:tinkering_table",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone_torch",
+      "minecraft:redstone",
+      "minecraft:redstone_torch",
+      "minecraft:iron_ingot",
+      "minecraft:crafting_table",
+      "minecraft:iron_ingot",
+      "minecraft:oak_log",
+      "",
+      "minecraft:oak_log"
+    ]
+  },
+  "mob_grinding_utils:tinted_glass": {
+    "result": "mob_grinding_utils:tinted_glass",
+    "count": 4,
+    "ingredients": [
+      "minecraft:coal",
+      "minecraft:glass",
+      "minecraft:coal",
+      "minecraft:glass",
+      "minecraft:coal",
+      "minecraft:glass",
+      "minecraft:coal",
+      "minecraft:glass",
+      "minecraft:coal"
+    ]
+  },
+  "modern_industrialization:tin_cable": {
+    "result": "modern_industrialization:tin_cable",
+    "count": 3,
+    "ingredients": [
+      "modern_industrialization:rubber_sheet",
+      "modern_industrialization:rubber_sheet",
+      "modern_industrialization:rubber_sheet",
+      "modern_industrialization:tin_wire",
+      "modern_industrialization:tin_wire",
+      "modern_industrialization:tin_wire",
+      "modern_industrialization:rubber_sheet",
+      "modern_industrialization:rubber_sheet",
+      "modern_industrialization:rubber_sheet"
+    ]
+  },
+  "modern_industrialization:titanium_machine_casing_pipe": {
+    "result": "modern_industrialization:titanium_machine_casing_pipe",
+    "count": 2,
+    "ingredients": [
+      "modern_industrialization:titanium_curved_plate",
+      "",
+      "modern_industrialization:titanium_curved_plate",
+      "modern_industrialization:titanium_curved_plate",
+      "modern_industrialization:solid_titanium_machine_casing",
+      "modern_industrialization:titanium_curved_plate",
+      "modern_industrialization:titanium_curved_plate",
+      "",
+      "modern_industrialization:titanium_curved_plate"
+    ]
+  },
+  "modern_industrialization:tin_blade": {
+    "result": "modern_industrialization:tin_blade",
+    "count": 4,
+    "ingredients": [
+      "modern_industrialization:tin_curved_plate",
+      "",
+      "",
+      "modern_industrialization:tin_curved_plate",
+      "",
+      "",
+      "minecraft:tin",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:tin_block": {
+    "result": "modern_industrialization:tin_block",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:tin_ingot",
+      "modern_industrialization:tin_ingot",
+      "modern_industrialization:tin_ingot",
+      "modern_industrialization:tin_ingot",
+      "modern_industrialization:tin_ingot",
+      "modern_industrialization:tin_ingot",
+      "modern_industrialization:tin_ingot",
+      "modern_industrialization:tin_ingot",
+      "modern_industrialization:tin_ingot"
+    ]
+  },
+  "modern_industrialization:tin_ore": {
+    "result": "modern_industrialization:tin_ore",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:deepslate_tin_ore",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:tin_dust": {
+    "result": "modern_industrialization:tin_dust",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tin",
+      "minecraft:tin",
+      "minecraft:tin",
+      "minecraft:tin",
+      "modern_industrialization:tin_tiny_dust",
+      "minecraft:tin",
+      "minecraft:tin",
+      "minecraft:tin",
+      "minecraft:tin"
+    ]
+  },
+  "modern_industrialization:tin_gear": {
+    "result": "modern_industrialization:tin_gear",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tin",
+      "modern_industrialization:tin_bolt",
+      "minecraft:tin",
+      "modern_industrialization:tin_bolt",
+      "modern_industrialization:tin_ring",
+      "modern_industrialization:tin_bolt",
+      "minecraft:tin",
+      "modern_industrialization:tin_bolt",
+      "minecraft:tin"
+    ]
+  },
+  "modern_industrialization:tin_ingot": {
+    "result": "modern_industrialization:tin_ingot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tin",
+      "minecraft:tin",
+      "minecraft:tin",
+      "minecraft:tin",
+      "modern_industrialization:tin_nugget",
+      "minecraft:tin",
+      "minecraft:tin",
+      "minecraft:tin",
+      "minecraft:tin"
+    ]
+  },
+  "modern_industrialization:tin_nugget": {
+    "result": "modern_industrialization:tin_nugget",
+    "count": 9,
+    "ingredients": [
+      "modern_industrialization:tin_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:tin_ring": {
+    "result": "modern_industrialization:tin_ring",
+    "count": 2,
+    "ingredients": [
+      "modern_industrialization:tin_bolt",
+      "minecraft:tin",
+      "modern_industrialization:tin_bolt",
+      "minecraft:tin",
+      "",
+      "minecraft:tin",
+      "modern_industrialization:tin_bolt",
+      "minecraft:tin",
+      "modern_industrialization:tin_bolt"
+    ]
+  },
+  "modern_industrialization:tin_rotor": {
+    "result": "modern_industrialization:tin_rotor",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:tin_bolt",
+      "modern_industrialization:tin_blade",
+      "modern_industrialization:tin_bolt",
+      "modern_industrialization:tin_blade",
+      "modern_industrialization:tin_ring",
+      "modern_industrialization:tin_blade",
+      "modern_industrialization:tin_bolt",
+      "modern_industrialization:tin_blade",
+      "modern_industrialization:tin_bolt"
+    ]
+  },
+  "modern_industrialization:tin_tiny_dust": {
+    "result": "modern_industrialization:tin_tiny_dust",
+    "count": 9,
+    "ingredients": [
+      "modern_industrialization:tin_dust",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:titanium_barrel": {
+    "result": "modern_industrialization:titanium_barrel",
+    "count": 1,
+    "ingredients": [
+      "minecraft:titanium",
+      "minecraft:titanium",
+      "minecraft:titanium",
+      "minecraft:titanium",
+      "minecraft:wooden",
+      "minecraft:titanium",
+      "minecraft:titanium",
+      "minecraft:titanium",
+      "minecraft:titanium"
+    ]
+  },
+  "modern_industrialization:titanium_blade": {
+    "result": "modern_industrialization:titanium_blade",
+    "count": 4,
+    "ingredients": [
+      "modern_industrialization:titanium_curved_plate",
+      "",
+      "",
+      "modern_industrialization:titanium_curved_plate",
+      "",
+      "",
+      "minecraft:titanium",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:titanium_block": {
+    "result": "modern_industrialization:titanium_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:titanium",
+      "minecraft:titanium",
+      "minecraft:titanium",
+      "minecraft:titanium",
+      "modern_industrialization:titanium_ingot",
+      "minecraft:titanium",
+      "minecraft:titanium",
+      "minecraft:titanium",
+      "minecraft:titanium"
+    ]
+  },
+  "modern_industrialization:titanium_drill_head": {
+    "result": "modern_industrialization:titanium_drill_head",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:titanium_bolt",
+      "modern_industrialization:titanium_curved_plate",
+      "minecraft:titanium",
+      "minecraft:titanium",
+      "minecraft:titanium",
+      "modern_industrialization:titanium_curved_plate",
+      "modern_industrialization:titanium_bolt",
+      "minecraft:titanium",
+      "modern_industrialization:titanium_bolt"
+    ]
+  },
+  "modern_industrialization:titanium_dust": {
+    "result": "modern_industrialization:titanium_dust",
+    "count": 1,
+    "ingredients": [
+      "minecraft:titanium",
+      "minecraft:titanium",
+      "minecraft:titanium",
+      "minecraft:titanium",
+      "modern_industrialization:titanium_tiny_dust",
+      "minecraft:titanium",
+      "minecraft:titanium",
+      "minecraft:titanium",
+      "minecraft:titanium"
+    ]
+  },
+  "modern_industrialization:titanium_gear": {
+    "result": "modern_industrialization:titanium_gear",
+    "count": 1,
+    "ingredients": [
+      "minecraft:titanium",
+      "modern_industrialization:titanium_bolt",
+      "minecraft:titanium",
+      "modern_industrialization:titanium_bolt",
+      "modern_industrialization:titanium_ring",
+      "modern_industrialization:titanium_bolt",
+      "minecraft:titanium",
+      "modern_industrialization:titanium_bolt",
+      "minecraft:titanium"
+    ]
+  },
+  "modern_industrialization:titanium_ingot": {
+    "result": "modern_industrialization:titanium_ingot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:titanium",
+      "minecraft:titanium",
+      "minecraft:titanium",
+      "minecraft:titanium",
+      "modern_industrialization:titanium_nugget",
+      "minecraft:titanium",
+      "minecraft:titanium",
+      "minecraft:titanium",
+      "minecraft:titanium"
+    ]
+  },
+  "modern_industrialization:titanium_large_plate": {
+    "result": "modern_industrialization:titanium_large_plate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:titanium",
+      "minecraft:titanium",
+      "",
+      "minecraft:titanium",
+      "minecraft:titanium",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:titanium_nugget": {
+    "result": "modern_industrialization:titanium_nugget",
+    "count": 9,
+    "ingredients": [
+      "modern_industrialization:titanium_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:titanium_ring": {
+    "result": "modern_industrialization:titanium_ring",
+    "count": 2,
+    "ingredients": [
+      "modern_industrialization:titanium_bolt",
+      "minecraft:titanium",
+      "modern_industrialization:titanium_bolt",
+      "minecraft:titanium",
+      "",
+      "minecraft:titanium",
+      "modern_industrialization:titanium_bolt",
+      "minecraft:titanium",
+      "modern_industrialization:titanium_bolt"
+    ]
+  },
+  "modern_industrialization:titanium_rotor": {
+    "result": "modern_industrialization:titanium_rotor",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:titanium_bolt",
+      "modern_industrialization:titanium_blade",
+      "modern_industrialization:titanium_bolt",
+      "modern_industrialization:titanium_blade",
+      "modern_industrialization:titanium_ring",
+      "modern_industrialization:titanium_blade",
+      "modern_industrialization:titanium_bolt",
+      "modern_industrialization:titanium_blade",
+      "modern_industrialization:titanium_bolt"
+    ]
+  },
+  "modern_industrialization:titanium_tank": {
+    "result": "modern_industrialization:titanium_tank",
+    "count": 1,
+    "ingredients": [
+      "minecraft:titanium",
+      "minecraft:titanium",
+      "minecraft:titanium",
+      "minecraft:titanium",
+      "minecraft:glass",
+      "minecraft:titanium",
+      "minecraft:titanium",
+      "minecraft:titanium",
+      "minecraft:titanium"
+    ]
+  },
+  "modern_industrialization:titanium_tiny_dust": {
+    "result": "modern_industrialization:titanium_tiny_dust",
+    "count": 9,
+    "ingredients": [
+      "modern_industrialization:titanium_dust",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:titanium_drill": {
+    "result": "modern_industrialization:titanium_drill",
+    "count": 4,
+    "ingredients": [
+      "minecraft:iron",
+      "minecraft:item_pipes",
+      "modern_industrialization:titanium_drill_head",
+      "modern_industrialization:large_advanced_motor",
+      "modern_industrialization:processing_unit",
+      "minecraft:item_pipes",
+      "modern_industrialization:annealed_copper_cable",
+      "modern_industrialization:large_advanced_motor",
+      "minecraft:iron"
+    ]
+  },
+  "mysticalagriculture:tinkering_table": {
+    "result": "mysticalagriculture:tinkering_table",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "mysticalagriculture:soulium_dust",
+      "minecraft:stone",
+      "mysticalagriculture:soulium_dust",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone"
+    ]
+  },
+  "naturesaura:time_changer": {
+    "result": "naturesaura:time_changer",
+    "count": 1,
+    "ingredients": [
+      "",
+      "naturesaura:token_euphoria",
+      "",
+      "naturesaura:infused_brick",
+      "minecraft:clock",
+      "naturesaura:infused_brick",
+      "",
+      "naturesaura:token_terror",
+      ""
+    ]
+  },
+  "pamhc2foodextended:timpanoitem": {
+    "result": "pamhc2foodextended:timpanoitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:dough",
+      "pamhc2foodextended:spagettiandmeatballsitem",
+      "pamhc2foodextended:deviledeggitem",
+      "minecraft:sausage",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:timtamitem": {
+    "result": "pamhc2foodextended:timtamitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:sugar",
+      "minecraft:flour",
+      "minecraft:milk",
+      "minecraft:chocolatebar",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:tiropitaitem": {
+    "result": "pamhc2foodextended:tiropitaitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:dough",
+      "minecraft:cookingoil",
+      "minecraft:egg",
+      "minecraft:cheese",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "potionsmaster:tile_mortar": {
+    "result": "potionsmaster:tile_mortar",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:bricks",
+      "",
+      "minecraft:bricks",
+      "minecraft:stone",
+      "minecraft:bricks",
+      "",
+      "minecraft:bricks",
+      ""
+    ]
+  },
+  "productivetrees:time_traveller_display": {
+    "result": "productivetrees:time_traveller_display",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:time_traveller_planks",
+      "productivetrees:time_traveller_planks",
+      "productivetrees:time_traveller_planks",
+      "minecraft:string",
+      "minecraft:glass",
+      "minecraft:string",
+      "productivetrees:time_traveller_planks",
+      "productivetrees:time_traveller_planks",
+      "productivetrees:time_traveller_planks"
+    ]
+  },
+  "productivetrees:time_traveller_bookshelf": {
+    "result": "productivetrees:time_traveller_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:time_traveller_planks",
+      "productivetrees:time_traveller_planks",
+      "productivetrees:time_traveller_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:time_traveller_planks",
+      "productivetrees:time_traveller_planks",
+      "productivetrees:time_traveller_planks"
+    ]
+  },
+  "productivetrees:time_traveller_button": {
+    "result": "productivetrees:time_traveller_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:time_traveller_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:time_traveller_door": {
+    "result": "productivetrees:time_traveller_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:time_traveller_planks",
+      "productivetrees:time_traveller_planks",
+      "",
+      "productivetrees:time_traveller_planks",
+      "productivetrees:time_traveller_planks",
+      "",
+      "productivetrees:time_traveller_planks",
+      "productivetrees:time_traveller_planks",
+      ""
+    ]
+  },
+  "productivetrees:time_traveller_fence": {
+    "result": "productivetrees:time_traveller_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:time_traveller_planks",
+      "minecraft:stick",
+      "productivetrees:time_traveller_planks",
+      "productivetrees:time_traveller_planks",
+      "minecraft:stick",
+      "productivetrees:time_traveller_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:time_traveller_fence_gate": {
+    "result": "productivetrees:time_traveller_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:time_traveller_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:time_traveller_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:time_traveller_hanging_sign": {
+    "result": "productivetrees:time_traveller_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:time_traveller_planks",
+      "productivetrees:time_traveller_planks",
+      "productivetrees:time_traveller_planks",
+      "productivetrees:time_traveller_planks",
+      "productivetrees:time_traveller_planks",
+      "productivetrees:time_traveller_planks"
+    ]
+  },
+  "productivetrees:time_traveller_planks": {
+    "result": "productivetrees:time_traveller_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:time_traveller_pressure_plate": {
+    "result": "productivetrees:time_traveller_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:time_traveller_planks",
+      "productivetrees:time_traveller_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:time_traveller_sign": {
+    "result": "productivetrees:time_traveller_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:time_traveller_planks",
+      "productivetrees:time_traveller_planks",
+      "productivetrees:time_traveller_planks",
+      "productivetrees:time_traveller_planks",
+      "productivetrees:time_traveller_planks",
+      "productivetrees:time_traveller_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:time_traveller_slab": {
+    "result": "productivetrees:time_traveller_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:time_traveller_planks",
+      "productivetrees:time_traveller_planks",
+      "productivetrees:time_traveller_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:time_traveller_stairs": {
+    "result": "productivetrees:time_traveller_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:time_traveller_planks",
+      "",
+      "",
+      "productivetrees:time_traveller_planks",
+      "productivetrees:time_traveller_planks",
+      "",
+      "productivetrees:time_traveller_planks",
+      "productivetrees:time_traveller_planks",
+      "productivetrees:time_traveller_planks"
+    ]
+  },
+  "productivetrees:time_traveller_trapdoor": {
+    "result": "productivetrees:time_traveller_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:time_traveller_planks",
+      "productivetrees:time_traveller_planks",
+      "productivetrees:time_traveller_planks",
+      "productivetrees:time_traveller_planks",
+      "productivetrees:time_traveller_planks",
+      "productivetrees:time_traveller_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:time_traveller_wood": {
+    "result": "productivetrees:time_traveller_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:time_traveller_log",
+      "productivetrees:time_traveller_log",
+      "",
+      "productivetrees:time_traveller_log",
+      "productivetrees:time_traveller_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:tin_block": {
+    "result": "railcraft:tin_block",
+    "count": 1,
+    "ingredients": [
+      "railcraft:tin_ingot",
+      "railcraft:tin_ingot",
+      "railcraft:tin_ingot",
+      "railcraft:tin_ingot",
+      "railcraft:tin_ingot",
+      "railcraft:tin_ingot",
+      "railcraft:tin_ingot",
+      "railcraft:tin_ingot",
+      "railcraft:tin_ingot"
+    ]
+  },
+  "railcraft:tin_gear": {
+    "result": "railcraft:tin_gear",
+    "count": 1,
+    "ingredients": [
+      "",
+      "modern_industrialization:tin_ingot",
+      "",
+      "modern_industrialization:tin_ingot",
+      "railcraft:bushing_gear",
+      "modern_industrialization:tin_ingot",
+      "",
+      "modern_industrialization:tin_ingot",
+      ""
+    ]
+  },
+  "railcraft:tin_ingot": {
+    "result": "railcraft:tin_ingot",
+    "count": 1,
+    "ingredients": [
+      "railcraft:tin_nugget",
+      "railcraft:tin_nugget",
+      "railcraft:tin_nugget",
+      "railcraft:tin_nugget",
+      "railcraft:tin_nugget",
+      "railcraft:tin_nugget",
+      "railcraft:tin_nugget",
+      "railcraft:tin_nugget",
+      "railcraft:tin_nugget"
+    ]
+  },
+  "railcraft:tin_nugget": {
+    "result": "railcraft:tin_nugget",
+    "count": 9,
+    "ingredients": [
+      "railcraft:tin_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "rftoolsutility:timer": {
+    "result": "rftoolsutility:timer",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "minecraft:clock",
+      "minecraft:redstone",
+      "minecraft:redstone_torch",
+      "rftoolsbase:machine_base",
+      "minecraft:redstone_torch",
+      "minecraft:redstone",
+      "minecraft:redstone_torch",
+      "minecraft:redstone"
+    ]
+  },
+  "silentgear:tip_blueprint": {
+    "result": "silentgear:tip_blueprint",
+    "count": 1,
+    "ingredients": [
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:stone",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgear:tip_template": {
+    "result": "silentgear:tip_template",
+    "count": 1,
+    "ingredients": [
+      "minecraft:template_boards",
+      "minecraft:template_boards",
+      "minecraft:paper",
+      "minecraft:stone",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "supplementaries:timber_brace": {
+    "result": "supplementaries:timber_brace",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "minecraft:stick",
+      "minecraft:stick",
+      "",
+      "minecraft:stick",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "supplementaries:timber_cross_brace": {
+    "result": "supplementaries:timber_cross_brace",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "minecraft:stick"
+    ]
+  },
+  "supplementaries:timber_frame": {
+    "result": "supplementaries:timber_frame",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "minecraft:stick",
+      "",
+      "minecraft:stick",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "tempad:timedoor_marker": {
+    "result": "tempad:timedoor_marker",
+    "count": 1,
+    "ingredients": [
+      "tempad:timedoor_marker",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "tempad:timedoor_projector": {
+    "result": "tempad:timedoor_projector",
+    "count": 1,
+    "ingredients": [
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "",
+      "minecraft:glass",
+      "minecraft:ender_pearl",
+      "tempad:chronon_cell",
+      "minecraft:iron",
+      "minecraft:iron",
+      "minecraft:iron"
+    ]
+  },
+  "tempad:time_steel": {
+    "result": "tempad:time_steel",
+    "count": 2,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:netherite_scrap",
+      "minecraft:netherite_scrap",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "tempad:time_twister": {
+    "result": "tempad:time_twister",
+    "count": 1,
+    "ingredients": [
+      "tempad:time_steel",
+      "minecraft:glass",
+      "",
+      "tempad:chronon_battery",
+      "minecraft:ender_pearl",
+      "minecraft:glass",
+      "tempad:time_steel",
+      "minecraft:glass",
+      ""
+    ]
+  },
+  "tiab:time_in_a_bottle": {
+    "result": "tiab:time_in_a_bottle",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:diamond",
+      "minecraft:clock",
+      "minecraft:diamond",
+      "minecraft:lapis_lazuli",
+      "minecraft:glass_bottle",
+      "minecraft:lapis_lazuli"
+    ]
+  },
+  "twilightforest:time_boat": {
+    "result": "twilightforest:time_boat",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:time_planks",
+      "",
+      "twilightforest:time_planks",
+      "twilightforest:time_planks",
+      "twilightforest:time_planks",
+      "twilightforest:time_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:time_chest_boat": {
+    "result": "twilightforest:time_chest_boat",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:time_boat",
+      "minecraft:chest",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:time_banister": {
+    "result": "twilightforest:time_banister",
+    "count": 3,
+    "ingredients": [
+      "twilightforest:time_slab",
+      "twilightforest:time_slab",
+      "twilightforest:time_slab",
+      "minecraft:stick",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:time_button": {
+    "result": "twilightforest:time_button",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:time_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:time_chest": {
+    "result": "twilightforest:time_chest",
+    "count": 2,
+    "ingredients": [
+      "twilightforest:time_planks",
+      "twilightforest:time_planks",
+      "twilightforest:time_planks",
+      "twilightforest:time_planks",
+      "minecraft:chest",
+      "twilightforest:time_planks",
+      "twilightforest:time_planks",
+      "twilightforest:time_planks",
+      "twilightforest:time_planks"
+    ]
+  },
+  "twilightforest:time_door": {
+    "result": "twilightforest:time_door",
+    "count": 3,
+    "ingredients": [
+      "twilightforest:time_planks",
+      "twilightforest:time_planks",
+      "",
+      "twilightforest:time_planks",
+      "twilightforest:time_planks",
+      "",
+      "twilightforest:time_planks",
+      "twilightforest:time_planks",
+      ""
+    ]
+  },
+  "twilightforest:time_drying_rack": {
+    "result": "twilightforest:time_drying_rack",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:time_slab",
+      "twilightforest:time_slab",
+      "twilightforest:time_slab",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:time_fence": {
+    "result": "twilightforest:time_fence",
+    "count": 3,
+    "ingredients": [
+      "twilightforest:time_planks",
+      "minecraft:stick",
+      "twilightforest:time_planks",
+      "twilightforest:time_planks",
+      "minecraft:stick",
+      "twilightforest:time_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:time_fence_gate": {
+    "result": "twilightforest:time_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "twilightforest:time_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "twilightforest:time_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:time_hanging_sign": {
+    "result": "twilightforest:time_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "twilightforest:stripped_time_log",
+      "twilightforest:stripped_time_log",
+      "twilightforest:stripped_time_log",
+      "twilightforest:stripped_time_log",
+      "twilightforest:stripped_time_log",
+      "twilightforest:stripped_time_log"
+    ]
+  },
+  "twilightforest:time_planks": {
+    "result": "twilightforest:time_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:time_pressure_plate": {
+    "result": "twilightforest:time_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:time_planks",
+      "twilightforest:time_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:time_sign": {
+    "result": "twilightforest:time_sign",
+    "count": 3,
+    "ingredients": [
+      "twilightforest:time_planks",
+      "twilightforest:time_planks",
+      "twilightforest:time_planks",
+      "twilightforest:time_planks",
+      "twilightforest:time_planks",
+      "twilightforest:time_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "twilightforest:time_slab": {
+    "result": "twilightforest:time_slab",
+    "count": 6,
+    "ingredients": [
+      "twilightforest:time_planks",
+      "twilightforest:time_planks",
+      "twilightforest:time_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:time_stairs": {
+    "result": "twilightforest:time_stairs",
+    "count": 8,
+    "ingredients": [
+      "twilightforest:time_planks",
+      "",
+      "",
+      "twilightforest:time_planks",
+      "twilightforest:time_planks",
+      "",
+      "twilightforest:time_planks",
+      "twilightforest:time_planks",
+      "twilightforest:time_planks"
+    ]
+  },
+  "twilightforest:time_trapdoor": {
+    "result": "twilightforest:time_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "twilightforest:time_planks",
+      "twilightforest:time_planks",
+      "twilightforest:time_planks",
+      "twilightforest:time_planks",
+      "twilightforest:time_planks",
+      "twilightforest:time_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:time_trapped_chest": {
+    "result": "twilightforest:time_trapped_chest",
+    "count": 2,
+    "ingredients": [
+      "twilightforest:time_planks",
+      "twilightforest:time_planks",
+      "twilightforest:time_planks",
+      "twilightforest:time_planks",
+      "minecraft:trapped_chest",
+      "twilightforest:time_planks",
+      "twilightforest:time_planks",
+      "twilightforest:time_planks",
+      "twilightforest:time_planks"
+    ]
+  },
+  "twilightforest:time_wood": {
+    "result": "twilightforest:time_wood",
+    "count": 3,
+    "ingredients": [
+      "twilightforest:time_log",
+      "twilightforest:time_log",
+      "",
+      "twilightforest:time_log",
+      "twilightforest:time_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "utilitarian:tiny_charcoal": {
+    "result": "utilitarian:tiny_charcoal",
+    "count": 8,
+    "ingredients": [
+      "minecraft:charcoal",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "utilitarian:tiny_coal": {
+    "result": "utilitarian:tiny_coal",
+    "count": 8,
+    "ingredients": [
+      "minecraft:coal",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

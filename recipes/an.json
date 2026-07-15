@@ -1,0 +1,2927 @@
+{
+  "ae2:annihilation_core": {
+    "result": "ae2:annihilation_core",
+    "count": 2,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:fluix",
+      "ae2:logic_processor",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ae2:annihilation_plane": {
+    "result": "ae2:annihilation_plane",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:all_fluix",
+      "",
+      "ae2:annihilation_core",
+      "minecraft:all_fluix",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:all_fluix",
+      ""
+    ]
+  },
+  "aether:angelic_slab": {
+    "result": "aether:angelic_slab",
+    "count": 6,
+    "ingredients": [
+      "aether:angelic_stone",
+      "aether:angelic_stone",
+      "aether:angelic_stone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "aether:angelic_stairs": {
+    "result": "aether:angelic_stairs",
+    "count": 4,
+    "ingredients": [
+      "aether:angelic_stone",
+      "",
+      "",
+      "aether:angelic_stone",
+      "aether:angelic_stone",
+      "",
+      "aether:angelic_stone",
+      "aether:angelic_stone",
+      "aether:angelic_stone"
+    ]
+  },
+  "aether:angelic_wall": {
+    "result": "aether:angelic_wall",
+    "count": 6,
+    "ingredients": [
+      "aether:angelic_stone",
+      "aether:angelic_stone",
+      "aether:angelic_stone",
+      "aether:angelic_stone",
+      "aether:angelic_stone",
+      "aether:angelic_stone",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:ancient_log_0_1x": {
+    "result": "allthecompressed:ancient_log_0_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:ancient_log_0_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:ancient_log_0_2x": {
+    "result": "allthecompressed:ancient_log_0_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:ancient_log_0_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:ancient_log_0_3x": {
+    "result": "allthecompressed:ancient_log_0_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:ancient_log_0_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:ancient_log_0_4x": {
+    "result": "allthecompressed:ancient_log_0_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:ancient_log_0_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:ancient_log_0_5x": {
+    "result": "allthecompressed:ancient_log_0_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:ancient_log_0_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:ancient_log_0_6x": {
+    "result": "allthecompressed:ancient_log_0_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:ancient_log_0_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:ancient_log_0_7x": {
+    "result": "allthecompressed:ancient_log_0_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:ancient_log_0_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:ancient_log_0_8x": {
+    "result": "allthecompressed:ancient_log_0_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:ancient_log_0_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:ancient_log_0_9x": {
+    "result": "allthecompressed:ancient_log_0_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:ancient_log_0_8x",
+      "allthecompressed:ancient_log_0_8x",
+      "allthecompressed:ancient_log_0_8x",
+      "allthecompressed:ancient_log_0_8x",
+      "allthecompressed:ancient_log_0_8x",
+      "allthecompressed:ancient_log_0_8x",
+      "allthecompressed:ancient_log_0_8x",
+      "allthecompressed:ancient_log_0_8x",
+      "allthecompressed:ancient_log_0_8x"
+    ]
+  },
+  "allthecompressed:ancient_rock_1x": {
+    "result": "allthecompressed:ancient_rock_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:ancient_rock_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:ancient_rock_2x": {
+    "result": "allthecompressed:ancient_rock_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:ancient_rock_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:ancient_rock_3x": {
+    "result": "allthecompressed:ancient_rock_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:ancient_rock_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:ancient_rock_4x": {
+    "result": "allthecompressed:ancient_rock_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:ancient_rock_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:ancient_rock_5x": {
+    "result": "allthecompressed:ancient_rock_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:ancient_rock_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:ancient_rock_6x": {
+    "result": "allthecompressed:ancient_rock_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:ancient_rock_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:ancient_rock_7x": {
+    "result": "allthecompressed:ancient_rock_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:ancient_rock_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:ancient_rock_8x": {
+    "result": "allthecompressed:ancient_rock_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:ancient_rock_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:ancient_rock_9x": {
+    "result": "allthecompressed:ancient_rock_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:ancient_rock_8x",
+      "allthecompressed:ancient_rock_8x",
+      "allthecompressed:ancient_rock_8x",
+      "allthecompressed:ancient_rock_8x",
+      "allthecompressed:ancient_rock_8x",
+      "allthecompressed:ancient_rock_8x",
+      "allthecompressed:ancient_rock_8x",
+      "allthecompressed:ancient_rock_8x",
+      "allthecompressed:ancient_rock_8x"
+    ]
+  },
+  "allthecompressed:ancient_stone_1x": {
+    "result": "allthecompressed:ancient_stone_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:ancient_stone_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:ancient_stone_2x": {
+    "result": "allthecompressed:ancient_stone_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:ancient_stone_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:ancient_stone_3x": {
+    "result": "allthecompressed:ancient_stone_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:ancient_stone_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:ancient_stone_4x": {
+    "result": "allthecompressed:ancient_stone_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:ancient_stone_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:ancient_stone_5x": {
+    "result": "allthecompressed:ancient_stone_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:ancient_stone_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:ancient_stone_6x": {
+    "result": "allthecompressed:ancient_stone_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:ancient_stone_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:ancient_stone_7x": {
+    "result": "allthecompressed:ancient_stone_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:ancient_stone_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:ancient_stone_8x": {
+    "result": "allthecompressed:ancient_stone_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:ancient_stone_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:ancient_stone_9x": {
+    "result": "allthecompressed:ancient_stone_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:ancient_stone_8x",
+      "allthecompressed:ancient_stone_8x",
+      "allthecompressed:ancient_stone_8x",
+      "allthecompressed:ancient_stone_8x",
+      "allthecompressed:ancient_stone_8x",
+      "allthecompressed:ancient_stone_8x",
+      "allthecompressed:ancient_stone_8x",
+      "allthecompressed:ancient_stone_8x",
+      "allthecompressed:ancient_stone_8x"
+    ]
+  },
+  "allthecompressed:andesite_1x": {
+    "result": "allthecompressed:andesite_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:andesite_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:andesite_2x": {
+    "result": "allthecompressed:andesite_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:andesite_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:andesite_3x": {
+    "result": "allthecompressed:andesite_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:andesite_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:andesite_4x": {
+    "result": "allthecompressed:andesite_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:andesite_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:andesite_5x": {
+    "result": "allthecompressed:andesite_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:andesite_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:andesite_6x": {
+    "result": "allthecompressed:andesite_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:andesite_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:andesite_7x": {
+    "result": "allthecompressed:andesite_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:andesite_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:andesite_8x": {
+    "result": "allthecompressed:andesite_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:andesite_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:andesite_9x": {
+    "result": "allthecompressed:andesite_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:andesite_8x",
+      "allthecompressed:andesite_8x",
+      "allthecompressed:andesite_8x",
+      "allthecompressed:andesite_8x",
+      "allthecompressed:andesite_8x",
+      "allthecompressed:andesite_8x",
+      "allthecompressed:andesite_8x",
+      "allthecompressed:andesite_8x",
+      "allthecompressed:andesite_8x"
+    ]
+  },
+  "allthecompressed:antimatter_block": {
+    "result": "allthecompressed:antimatter_block",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:antimatter_block_1x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:antimatter_block_1x": {
+    "result": "allthecompressed:antimatter_block_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:antimatter_block_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:antimatter_block_2x": {
+    "result": "allthecompressed:antimatter_block_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:antimatter_block_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:antimatter_block_3x": {
+    "result": "allthecompressed:antimatter_block_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:antimatter_block_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:antimatter_block_4x": {
+    "result": "allthecompressed:antimatter_block_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:antimatter_block_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:antimatter_block_5x": {
+    "result": "allthecompressed:antimatter_block_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:antimatter_block_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:antimatter_block_6x": {
+    "result": "allthecompressed:antimatter_block_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:antimatter_block_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:antimatter_block_7x": {
+    "result": "allthecompressed:antimatter_block_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:antimatter_block_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:antimatter_block_8x": {
+    "result": "allthecompressed:antimatter_block_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:antimatter_block_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:antimatter_block_9x": {
+    "result": "allthecompressed:antimatter_block_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:antimatter_block_8x",
+      "allthecompressed:antimatter_block_8x",
+      "allthecompressed:antimatter_block_8x",
+      "allthecompressed:antimatter_block_8x",
+      "allthecompressed:antimatter_block_8x",
+      "allthecompressed:antimatter_block_8x",
+      "allthecompressed:antimatter_block_8x",
+      "allthecompressed:antimatter_block_8x",
+      "allthecompressed:antimatter_block_8x"
+    ]
+  },
+  "allthemodium:ancient_log_0": {
+    "result": "allthemodium:ancient_log_0",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:ancient_log_0_1x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "aoa3:ancient_rock": {
+    "result": "aoa3:ancient_rock",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:ancient_rock_1x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthemodium:ancient_stone": {
+    "result": "allthemodium:ancient_stone",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:ancient_stone_1x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:andesite": {
+    "result": "minecraft:andesite",
+    "count": 16,
+    "ingredients": [
+      "",
+      "mysticalagriculture:stone_essence",
+      "",
+      "mysticalagriculture:stone_essence",
+      "mysticalagriculture:stone_essence",
+      "mysticalagriculture:stone_essence",
+      "",
+      "mysticalagriculture:nether_quartz_essence",
+      ""
+    ]
+  },
+  "allthemodium:ancient_bookshelf": {
+    "result": "allthemodium:ancient_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks"
+    ]
+  },
+  "allthemodium:ancient_chiseled_stone_bricks": {
+    "result": "allthemodium:ancient_chiseled_stone_bricks",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone",
+      "minecraft:ore_hammers",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthemodium:ancient_chiseled_stone_brick_slabs": {
+    "result": "allthemodium:ancient_chiseled_stone_brick_slabs",
+    "count": 6,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone"
+    ]
+  },
+  "allthemodium:ancient_chiseled_stone_brick_stairs": {
+    "result": "allthemodium:ancient_chiseled_stone_brick_stairs",
+    "count": 4,
+    "ingredients": [
+      "minecraft:stone",
+      "",
+      "",
+      "minecraft:stone",
+      "minecraft:stone",
+      "",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone"
+    ]
+  },
+  "allthemodium:ancient_chiseled_stone_brick_wall": {
+    "result": "allthemodium:ancient_chiseled_stone_brick_wall",
+    "count": 6,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone"
+    ]
+  },
+  "allthemodium:ancient_cracked_stone_bricks": {
+    "result": "allthemodium:ancient_cracked_stone_bricks",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone",
+      "minecraft:ore_hammers",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthemodium:ancient_cracked_stone_brick_slabs": {
+    "result": "allthemodium:ancient_cracked_stone_brick_slabs",
+    "count": 6,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone"
+    ]
+  },
+  "allthemodium:ancient_cracked_stone_brick_stairs": {
+    "result": "allthemodium:ancient_cracked_stone_brick_stairs",
+    "count": 4,
+    "ingredients": [
+      "minecraft:stone",
+      "",
+      "",
+      "minecraft:stone",
+      "minecraft:stone",
+      "",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone"
+    ]
+  },
+  "allthemodium:ancient_cracked_stone_brick_wall": {
+    "result": "allthemodium:ancient_cracked_stone_brick_wall",
+    "count": 6,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone"
+    ]
+  },
+  "allthemodium:ancient_door": {
+    "result": "allthemodium:ancient_door",
+    "count": 3,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      ""
+    ]
+  },
+  "allthemodium:ancient_mossy_stone": {
+    "result": "allthemodium:ancient_mossy_stone",
+    "count": 1,
+    "ingredients": [
+      "allthemodium:ancient_stone",
+      "minecraft:vine",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthemodium:ancient_mossy_stone_slabs": {
+    "result": "allthemodium:ancient_mossy_stone_slabs",
+    "count": 6,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone"
+    ]
+  },
+  "allthemodium:ancient_mossy_stone_stairs": {
+    "result": "allthemodium:ancient_mossy_stone_stairs",
+    "count": 4,
+    "ingredients": [
+      "minecraft:stone",
+      "",
+      "",
+      "minecraft:stone",
+      "minecraft:stone",
+      "",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone"
+    ]
+  },
+  "allthemodium:ancient_mossy_stone_wall": {
+    "result": "allthemodium:ancient_mossy_stone_wall",
+    "count": 6,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone"
+    ]
+  },
+  "allthemodium:ancient_planks": {
+    "result": "allthemodium:ancient_planks",
+    "count": 4,
+    "ingredients": [
+      "allthemodium:ancient_log_0",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthemodium:ancient_polished_stone": {
+    "result": "allthemodium:ancient_polished_stone",
+    "count": 1,
+    "ingredients": [
+      "allthemodium:ancient_smooth_stone",
+      "minecraft:honeycomb",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthemodium:ancient_polished_stone_slabs": {
+    "result": "allthemodium:ancient_polished_stone_slabs",
+    "count": 6,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone"
+    ]
+  },
+  "allthemodium:ancient_polished_stone_stairs": {
+    "result": "allthemodium:ancient_polished_stone_stairs",
+    "count": 4,
+    "ingredients": [
+      "minecraft:stone",
+      "",
+      "",
+      "minecraft:stone",
+      "minecraft:stone",
+      "",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone"
+    ]
+  },
+  "allthemodium:ancient_polished_stone_wall": {
+    "result": "allthemodium:ancient_polished_stone_wall",
+    "count": 6,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone"
+    ]
+  },
+  "allthemodium:ancient_smooth_stone_slabs": {
+    "result": "allthemodium:ancient_smooth_stone_slabs",
+    "count": 6,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone"
+    ]
+  },
+  "allthemodium:ancient_smooth_stone_stairs": {
+    "result": "allthemodium:ancient_smooth_stone_stairs",
+    "count": 4,
+    "ingredients": [
+      "minecraft:stone",
+      "",
+      "",
+      "minecraft:stone",
+      "minecraft:stone",
+      "",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone"
+    ]
+  },
+  "allthemodium:ancient_smooth_stone_wall": {
+    "result": "allthemodium:ancient_smooth_stone_wall",
+    "count": 6,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone"
+    ]
+  },
+  "allthemodium:ancient_stone_bricks": {
+    "result": "allthemodium:ancient_stone_bricks",
+    "count": 4,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "minecraft:stone",
+      "minecraft:stone",
+      "",
+      "minecraft:stone",
+      "minecraft:stone",
+      ""
+    ]
+  },
+  "allthemodium:ancient_stone_brick_slabs": {
+    "result": "allthemodium:ancient_stone_brick_slabs",
+    "count": 6,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone"
+    ]
+  },
+  "allthemodium:ancient_stone_brick_stairs": {
+    "result": "allthemodium:ancient_stone_brick_stairs",
+    "count": 4,
+    "ingredients": [
+      "minecraft:stone",
+      "",
+      "",
+      "minecraft:stone",
+      "minecraft:stone",
+      "",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone"
+    ]
+  },
+  "allthemodium:ancient_stone_brick_wall": {
+    "result": "allthemodium:ancient_stone_brick_wall",
+    "count": 6,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone"
+    ]
+  },
+  "allthemodium:ancient_stone_slabs": {
+    "result": "allthemodium:ancient_stone_slabs",
+    "count": 6,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone"
+    ]
+  },
+  "allthemodium:ancient_stone_stairs": {
+    "result": "allthemodium:ancient_stone_stairs",
+    "count": 4,
+    "ingredients": [
+      "minecraft:stone",
+      "",
+      "",
+      "minecraft:stone",
+      "minecraft:stone",
+      "",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone"
+    ]
+  },
+  "allthemodium:ancient_stone_wall": {
+    "result": "allthemodium:ancient_stone_wall",
+    "count": 6,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone"
+    ]
+  },
+  "allthemodium:ancient_trap_door": {
+    "result": "allthemodium:ancient_trap_door",
+    "count": 2,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks"
+    ]
+  },
+  "allthemodium:ancient_wooden_fence": {
+    "result": "allthemodium:ancient_wooden_fence",
+    "count": 3,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "minecraft:oak_planks",
+      "minecraft:stick",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:stick",
+      "minecraft:oak_planks"
+    ]
+  },
+  "allthemodium:ancient_wooden_fence_gate": {
+    "result": "allthemodium:ancient_wooden_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "minecraft:stick",
+      "minecraft:oak_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:oak_planks",
+      "minecraft:stick"
+    ]
+  },
+  "allthemodium:ancient_wooden_slabs": {
+    "result": "allthemodium:ancient_wooden_slabs",
+    "count": 6,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks"
+    ]
+  },
+  "allthemodium:ancient_wooden_stairs": {
+    "result": "allthemodium:ancient_wooden_stairs",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "",
+      "",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks"
+    ]
+  },
+  "ars_nouveau:annotated_codex": {
+    "result": "ars_nouveau:annotated_codex",
+    "count": 1,
+    "ingredients": [
+      "ars_nouveau:blank_parchment",
+      "minecraft:leather",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bellsandwhistles:andesite_bogie_steps": {
+    "result": "bellsandwhistles:andesite_bogie_steps",
+    "count": 6,
+    "ingredients": [
+      "create:andesite_alloy",
+      "",
+      "create:andesite_alloy",
+      "create:andesite_alloy",
+      "",
+      "create:andesite_alloy",
+      "create:andesite_alloy",
+      "create:andesite_alloy",
+      "create:andesite_alloy"
+    ]
+  },
+  "bellsandwhistles:andesite_door_step": {
+    "result": "bellsandwhistles:andesite_door_step",
+    "count": 8,
+    "ingredients": [
+      "create:andesite_alloy",
+      "create:andesite_alloy",
+      "create:andesite_alloy",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bellsandwhistles:andesite_grab_rails": {
+    "result": "bellsandwhistles:andesite_grab_rails",
+    "count": 8,
+    "ingredients": [
+      "create:andesite_alloy",
+      "",
+      "create:andesite_alloy",
+      "create:andesite_alloy",
+      "",
+      "create:andesite_alloy",
+      "create:andesite_alloy",
+      "",
+      "create:andesite_alloy"
+    ]
+  },
+  "bellsandwhistles:andesite_pilot": {
+    "result": "bellsandwhistles:andesite_pilot",
+    "count": 1,
+    "ingredients": [
+      "",
+      "andesite",
+      "",
+      "create:andesite_alloy",
+      "",
+      "create:andesite_alloy",
+      "andesite",
+      "andesite",
+      "andesite"
+    ]
+  },
+  "cataclysm:ancient_metal_block": {
+    "result": "cataclysm:ancient_metal_block",
+    "count": 1,
+    "ingredients": [
+      "cataclysm:ancient_metal_ingot",
+      "cataclysm:ancient_metal_ingot",
+      "cataclysm:ancient_metal_ingot",
+      "cataclysm:ancient_metal_ingot",
+      "cataclysm:ancient_metal_ingot",
+      "cataclysm:ancient_metal_ingot",
+      "cataclysm:ancient_metal_ingot",
+      "cataclysm:ancient_metal_ingot",
+      "cataclysm:ancient_metal_ingot"
+    ]
+  },
+  "cataclysm:ancient_metal_ingot": {
+    "result": "cataclysm:ancient_metal_ingot",
+    "count": 1,
+    "ingredients": [
+      "cataclysm:ancient_metal_nugget",
+      "cataclysm:ancient_metal_nugget",
+      "cataclysm:ancient_metal_nugget",
+      "cataclysm:ancient_metal_nugget",
+      "cataclysm:ancient_metal_nugget",
+      "cataclysm:ancient_metal_nugget",
+      "cataclysm:ancient_metal_nugget",
+      "cataclysm:ancient_metal_nugget",
+      "cataclysm:ancient_metal_nugget"
+    ]
+  },
+  "cataclysm:ancient_metal_nugget": {
+    "result": "cataclysm:ancient_metal_nugget",
+    "count": 9,
+    "ingredients": [
+      "cataclysm:ancient_metal_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "cataclysm:ancient_spear": {
+    "result": "cataclysm:ancient_spear",
+    "count": 1,
+    "ingredients": [
+      "",
+      "cataclysm:ancient_metal_ingot",
+      "",
+      "",
+      "cataclysm:ancient_metal_ingot",
+      "cataclysm:ancient_metal_ingot",
+      "cataclysm:ancient_metal_ingot",
+      "",
+      ""
+    ]
+  },
+  "crafting_on_a_stick:anvil": {
+    "result": "crafting_on_a_stick:anvil",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:anvil",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:anvil": {
+    "result": "minecraft:anvil",
+    "count": 2,
+    "ingredients": [
+      "modern_industrialization:steel_block",
+      "modern_industrialization:steel_block",
+      "modern_industrialization:steel_block",
+      "",
+      "modern_industrialization:steel_ingot",
+      "",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot"
+    ]
+  },
+  "create:analog_lever": {
+    "result": "create:analog_lever",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "",
+      "",
+      "create:andesite_casing",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:andesite_door": {
+    "result": "create:andesite_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:wooden_doors",
+      "create:andesite_casing",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:andesite_funnel": {
+    "result": "create:andesite_funnel",
+    "count": 2,
+    "ingredients": [
+      "create:andesite_alloy",
+      "",
+      "",
+      "minecraft:dried_kelp",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:andesite_table_cloth": {
+    "result": "create:andesite_table_cloth",
+    "count": 1,
+    "ingredients": [
+      "create:andesite_table_cloth",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:andesite_tunnel": {
+    "result": "create:andesite_tunnel",
+    "count": 2,
+    "ingredients": [
+      "create:andesite_alloy",
+      "create:andesite_alloy",
+      "",
+      "minecraft:dried_kelp",
+      "minecraft:dried_kelp",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:andesite_alloy": {
+    "result": "create:andesite_alloy",
+    "count": 1,
+    "ingredients": [
+      "minecraft:zinc",
+      "minecraft:andesite",
+      "",
+      "minecraft:andesite",
+      "minecraft:zinc",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:andesite_alloy_block": {
+    "result": "create:andesite_alloy_block",
+    "count": 1,
+    "ingredients": [
+      "create:andesite_alloy",
+      "create:andesite_alloy",
+      "create:andesite_alloy",
+      "create:andesite_alloy",
+      "create:andesite_alloy",
+      "create:andesite_alloy",
+      "create:andesite_alloy",
+      "create:andesite_alloy",
+      "create:andesite_alloy"
+    ]
+  },
+  "deeperdarker:ancient_compass": {
+    "result": "deeperdarker:ancient_compass",
+    "count": 1,
+    "ingredients": [
+      "",
+      "deeperdarker:warden_carapace",
+      "",
+      "deeperdarker:warden_carapace",
+      "minecraft:compass",
+      "deeperdarker:warden_carapace",
+      "",
+      "deeperdarker:warden_carapace",
+      ""
+    ]
+  },
+  "handcrafted:andesite_corner_trim": {
+    "result": "handcrafted:andesite_corner_trim",
+    "count": 4,
+    "ingredients": [
+      "minecraft:andesite",
+      "",
+      "",
+      "minecraft:andesite",
+      "",
+      "",
+      "minecraft:andesite",
+      "minecraft:andesite",
+      "minecraft:andesite"
+    ]
+  },
+  "handcrafted:andesite_pillar_trim": {
+    "result": "handcrafted:andesite_pillar_trim",
+    "count": 4,
+    "ingredients": [
+      "minecraft:andesite",
+      "",
+      "",
+      "minecraft:andesite",
+      "",
+      "",
+      "minecraft:andesite",
+      "",
+      ""
+    ]
+  },
+  "industrialforegoing:animal_baby_separator": {
+    "result": "industrialforegoing:animal_baby_separator",
+    "count": 1,
+    "ingredients": [
+      "minecraft:plastics",
+      "minecraft:golden_carrot",
+      "minecraft:plastics",
+      "minecraft:wheat",
+      "minecraft:pity",
+      "minecraft:wheat",
+      "minecraft:purple",
+      "minecraft:gold",
+      "minecraft:purple"
+    ]
+  },
+  "industrialforegoing:animal_feeder": {
+    "result": "industrialforegoing:animal_feeder",
+    "count": 1,
+    "ingredients": [
+      "minecraft:plastics",
+      "minecraft:golden_apple",
+      "minecraft:plastics",
+      "minecraft:golden_carrot",
+      "minecraft:pity",
+      "minecraft:golden_carrot",
+      "minecraft:purple",
+      "minecraft:iron",
+      "minecraft:purple"
+    ]
+  },
+  "industrialforegoing:animal_rancher": {
+    "result": "industrialforegoing:animal_rancher",
+    "count": 1,
+    "ingredients": [
+      "minecraft:plastics",
+      "minecraft:plastics",
+      "minecraft:plastics",
+      "minecraft:shears",
+      "minecraft:bucket",
+      "minecraft:shears",
+      "minecraft:gold",
+      "minecraft:pity",
+      "minecraft:gold"
+    ]
+  },
+  "little_big_redstone:and_gate": {
+    "result": "little_big_redstone:and_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone_torch",
+      "",
+      "",
+      "minecraft:redstone",
+      "little_big_redstone:redstone_bit",
+      "minecraft:redstone_torch",
+      "minecraft:redstone_torch",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:andesite_bridge": {
+    "result": "mcwbridges:andesite_bridge",
+    "count": 1,
+    "ingredients": [
+      "mcwbridges:andesite_bridge_stair",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:andesite_bridge_pier": {
+    "result": "mcwbridges:andesite_bridge_pier",
+    "count": 3,
+    "ingredients": [
+      "minecraft:andesite",
+      "minecraft:andesite_wall",
+      "minecraft:andesite",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:andesite_bridge_stair": {
+    "result": "mcwbridges:andesite_bridge_stair",
+    "count": 6,
+    "ingredients": [
+      "",
+      "",
+      "mcwbridges:andesite_bridge",
+      "",
+      "mcwbridges:andesite_bridge",
+      "mcwbridges:andesite_bridge",
+      "mcwbridges:andesite_bridge",
+      "mcwbridges:andesite_bridge",
+      "mcwbridges:andesite_bridge"
+    ]
+  },
+  "mcwfences:andesite_grass_topped_wall": {
+    "result": "mcwfences:andesite_grass_topped_wall",
+    "count": 6,
+    "ingredients": [
+      "minecraft:andesite",
+      "minecraft:dirt",
+      "minecraft:andesite",
+      "minecraft:polished_andesite",
+      "minecraft:polished_andesite",
+      "minecraft:polished_andesite",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfences:andesite_pillar_wall": {
+    "result": "mcwfences:andesite_pillar_wall",
+    "count": 5,
+    "ingredients": [
+      "minecraft:polished_andesite",
+      "minecraft:polished_andesite",
+      "minecraft:polished_andesite",
+      "minecraft:andesite",
+      "",
+      "minecraft:andesite",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfences:andesite_railing_gate": {
+    "result": "mcwfences:andesite_railing_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_bars",
+      "minecraft:polished_andesite",
+      "minecraft:iron_bars",
+      "minecraft:iron_bars",
+      "minecraft:polished_andesite",
+      "minecraft:iron_bars",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwwindows:andesite_four_window": {
+    "result": "mcwwindows:andesite_four_window",
+    "count": 8,
+    "ingredients": [
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "minecraft:andesite",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base"
+    ]
+  },
+  "mcwwindows:andesite_louvered_shutter": {
+    "result": "mcwwindows:andesite_louvered_shutter",
+    "count": 3,
+    "ingredients": [
+      "minecraft:andesite_slab",
+      "",
+      "",
+      "minecraft:andesite_slab",
+      "",
+      "",
+      "minecraft:andesite_slab",
+      "",
+      ""
+    ]
+  },
+  "mcwwindows:andesite_pane_window": {
+    "result": "mcwwindows:andesite_pane_window",
+    "count": 8,
+    "ingredients": [
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "minecraft:andesite",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base"
+    ]
+  },
+  "mcwwindows:andesite_parapet": {
+    "result": "mcwwindows:andesite_parapet",
+    "count": 5,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:andesite",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwwindows:andesite_window": {
+    "result": "mcwwindows:andesite_window",
+    "count": 4,
+    "ingredients": [
+      "",
+      "mcwwindows:window_base",
+      "",
+      "mcwwindows:window_base",
+      "minecraft:andesite",
+      "mcwwindows:window_base",
+      "",
+      "mcwwindows:window_base",
+      ""
+    ]
+  },
+  "mcwwindows:andesite_window2": {
+    "result": "mcwwindows:andesite_window2",
+    "count": 8,
+    "ingredients": [
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "minecraft:andesite",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base"
+    ]
+  },
+  "mekanism:antiprotonic_nucleosynthesizer": {
+    "result": "mekanism:antiprotonic_nucleosynthesizer",
+    "count": 1,
+    "ingredients": [
+      "mekanism:alloy_atomic",
+      "minecraft:ultimate",
+      "mekanism:alloy_atomic",
+      "minecraft:antimatter",
+      "mekanism:steel_casing",
+      "minecraft:antimatter",
+      "mekanism:alloy_atomic",
+      "minecraft:ultimate",
+      "mekanism:alloy_atomic"
+    ]
+  },
+  "merrymaking:andesite_garland_wall": {
+    "result": "merrymaking:andesite_garland_wall",
+    "count": 1,
+    "ingredients": [
+      "minecraft:andesite_wall",
+      "merrymaking:garland_horizontal",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:andesite_garland_multi_wall": {
+    "result": "merrymaking:andesite_garland_multi_wall",
+    "count": 1,
+    "ingredients": [
+      "minecraft:andesite_wall",
+      "merrymaking:garland_horizontal_multi",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:andesite_garland_lights_wall": {
+    "result": "merrymaking:andesite_garland_lights_wall",
+    "count": 1,
+    "ingredients": [
+      "minecraft:andesite_wall",
+      "merrymaking:garland_horizontal_lights",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mffs:anti_friendly_module": {
+    "result": "mffs:anti_friendly_module",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:white_wool",
+      "",
+      "minecraft:cooked_porkchop",
+      "mffs:focus_matrix",
+      "minecraft:leather",
+      "",
+      "minecraft:slime_ball",
+      ""
+    ]
+  },
+  "mffs:anti_hostile_module": {
+    "result": "mffs:anti_hostile_module",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:rotten_flesh",
+      "",
+      "minecraft:gunpowder",
+      "mffs:focus_matrix",
+      "minecraft:bone",
+      "",
+      "minecraft:ghast_tear",
+      ""
+    ]
+  },
+  "mffs:anti_personnel_module": {
+    "result": "mffs:anti_personnel_module",
+    "count": 1,
+    "ingredients": [
+      "mffs:anti_friendly_module",
+      "mffs:focus_matrix",
+      "mffs:anti_hostile_module",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mffs:anti_spawn_module": {
+    "result": "mffs:anti_spawn_module",
+    "count": 1,
+    "ingredients": [
+      "",
+      "mffs:anti_hostile_module",
+      "",
+      "mffs:anti_friendly_module",
+      "",
+      "mffs:anti_friendly_module",
+      "",
+      "mffs:anti_hostile_module",
+      ""
+    ]
+  },
+  "minecraft:andesite_slab": {
+    "result": "minecraft:andesite_slab",
+    "count": 6,
+    "ingredients": [
+      "minecraft:andesite",
+      "minecraft:andesite",
+      "minecraft:andesite",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:andesite_stairs": {
+    "result": "minecraft:andesite_stairs",
+    "count": 4,
+    "ingredients": [
+      "minecraft:andesite",
+      "",
+      "",
+      "minecraft:andesite",
+      "minecraft:andesite",
+      "",
+      "minecraft:andesite",
+      "minecraft:andesite",
+      "minecraft:andesite"
+    ]
+  },
+  "minecraft:andesite_wall": {
+    "result": "minecraft:andesite_wall",
+    "count": 6,
+    "ingredients": [
+      "minecraft:andesite",
+      "minecraft:andesite",
+      "minecraft:andesite",
+      "minecraft:andesite",
+      "minecraft:andesite",
+      "minecraft:andesite",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:annealed_copper_cable": {
+    "result": "modern_industrialization:annealed_copper_cable",
+    "count": 3,
+    "ingredients": [
+      "modern_industrialization:rubber_sheet",
+      "modern_industrialization:rubber_sheet",
+      "modern_industrialization:rubber_sheet",
+      "modern_industrialization:annealed_copper_wire",
+      "modern_industrialization:annealed_copper_wire",
+      "modern_industrialization:annealed_copper_wire",
+      "modern_industrialization:rubber_sheet",
+      "modern_industrialization:rubber_sheet",
+      "modern_industrialization:rubber_sheet"
+    ]
+  },
+  "modern_industrialization:analog_circuit": {
+    "result": "modern_industrialization:analog_circuit",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:resistor",
+      "modern_industrialization:inductor",
+      "modern_industrialization:resistor",
+      "modern_industrialization:capacitor",
+      "modern_industrialization:analog_circuit_board",
+      "modern_industrialization:capacitor",
+      "modern_industrialization:copper_wire",
+      "modern_industrialization:copper_wire",
+      "modern_industrialization:copper_wire"
+    ]
+  },
+  "modern_industrialization:analog_circuit_board": {
+    "result": "modern_industrialization:analog_circuit_board",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:rubber_sheet",
+      "",
+      "",
+      "minecraft:copper",
+      "",
+      "",
+      "modern_industrialization:rubber_sheet",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:and_gate": {
+    "result": "modern_industrialization:and_gate",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:aluminum_wire",
+      "modern_industrialization:resistor",
+      "",
+      "modern_industrialization:aluminum_wire",
+      "modern_industrialization:op_amp",
+      "modern_industrialization:aluminum_wire",
+      "modern_industrialization:aluminum_wire",
+      "modern_industrialization:resistor",
+      ""
+    ]
+  },
+  "modern_industrialization:annealed_copper_block": {
+    "result": "modern_industrialization:annealed_copper_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "modern_industrialization:annealed_copper_ingot",
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot"
+    ]
+  },
+  "modern_industrialization:annealed_copper_dust": {
+    "result": "modern_industrialization:annealed_copper_dust",
+    "count": 1,
+    "ingredients": [
+      "minecraft:annealed_copper",
+      "minecraft:annealed_copper",
+      "minecraft:annealed_copper",
+      "minecraft:annealed_copper",
+      "modern_industrialization:annealed_copper_tiny_dust",
+      "minecraft:annealed_copper",
+      "minecraft:annealed_copper",
+      "minecraft:annealed_copper",
+      "minecraft:annealed_copper"
+    ]
+  },
+  "modern_industrialization:annealed_copper_ingot": {
+    "result": "modern_industrialization:annealed_copper_ingot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:annealed_copper",
+      "minecraft:annealed_copper",
+      "minecraft:annealed_copper",
+      "minecraft:annealed_copper",
+      "modern_industrialization:annealed_copper_nugget",
+      "minecraft:annealed_copper",
+      "minecraft:annealed_copper",
+      "minecraft:annealed_copper",
+      "minecraft:annealed_copper"
+    ]
+  },
+  "modern_industrialization:annealed_copper_nugget": {
+    "result": "modern_industrialization:annealed_copper_nugget",
+    "count": 9,
+    "ingredients": [
+      "modern_industrialization:annealed_copper_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:annealed_copper_tiny_dust": {
+    "result": "modern_industrialization:annealed_copper_tiny_dust",
+    "count": 9,
+    "ingredients": [
+      "modern_industrialization:annealed_copper_dust",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:antimony_block": {
+    "result": "modern_industrialization:antimony_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:antimony",
+      "minecraft:antimony",
+      "minecraft:antimony",
+      "minecraft:antimony",
+      "modern_industrialization:antimony_ingot",
+      "minecraft:antimony",
+      "minecraft:antimony",
+      "minecraft:antimony",
+      "minecraft:antimony"
+    ]
+  },
+  "modern_industrialization:antimony_ore": {
+    "result": "modern_industrialization:antimony_ore",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:deepslate_antimony_ore",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:antimony_dust": {
+    "result": "modern_industrialization:antimony_dust",
+    "count": 1,
+    "ingredients": [
+      "minecraft:antimony",
+      "minecraft:antimony",
+      "minecraft:antimony",
+      "minecraft:antimony",
+      "modern_industrialization:antimony_tiny_dust",
+      "minecraft:antimony",
+      "minecraft:antimony",
+      "minecraft:antimony",
+      "minecraft:antimony"
+    ]
+  },
+  "modern_industrialization:antimony_ingot": {
+    "result": "modern_industrialization:antimony_ingot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:antimony",
+      "minecraft:antimony",
+      "minecraft:antimony",
+      "minecraft:antimony",
+      "modern_industrialization:antimony_nugget",
+      "minecraft:antimony",
+      "minecraft:antimony",
+      "minecraft:antimony",
+      "minecraft:antimony"
+    ]
+  },
+  "modern_industrialization:antimony_nugget": {
+    "result": "modern_industrialization:antimony_nugget",
+    "count": 9,
+    "ingredients": [
+      "modern_industrialization:antimony_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:antimony_tiny_dust": {
+    "result": "modern_industrialization:antimony_tiny_dust",
+    "count": 9,
+    "ingredients": [
+      "modern_industrialization:antimony_dust",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "morered:and_2_gate": {
+    "result": "morered:and_2_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone",
+      "minecraft:redstone_torch",
+      "minecraft:stone",
+      "minecraft:redstone_torch",
+      "minecraft:redstone",
+      "minecraft:redstone_torch",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone"
+    ]
+  },
+  "morered:and_gate": {
+    "result": "morered:and_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone",
+      "minecraft:redstone_torch",
+      "minecraft:stone",
+      "minecraft:redstone_torch",
+      "minecraft:redstone",
+      "minecraft:redstone_torch",
+      "minecraft:stone",
+      "minecraft:redstone_torch",
+      "minecraft:stone"
+    ]
+  },
+  "naturesaura:ancient_bark": {
+    "result": "naturesaura:ancient_bark",
+    "count": 3,
+    "ingredients": [
+      "naturesaura:ancient_log",
+      "naturesaura:ancient_log",
+      "",
+      "naturesaura:ancient_log",
+      "naturesaura:ancient_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "naturesaura:ancient_planks": {
+    "result": "naturesaura:ancient_planks",
+    "count": 2,
+    "ingredients": [
+      "naturesaura:ancient_bark",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "naturesaura:ancient_slab": {
+    "result": "naturesaura:ancient_slab",
+    "count": 6,
+    "ingredients": [
+      "naturesaura:ancient_planks",
+      "naturesaura:ancient_planks",
+      "naturesaura:ancient_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "naturesaura:ancient_stairs": {
+    "result": "naturesaura:ancient_stairs",
+    "count": 4,
+    "ingredients": [
+      "naturesaura:ancient_planks",
+      "",
+      "",
+      "naturesaura:ancient_planks",
+      "naturesaura:ancient_planks",
+      "",
+      "naturesaura:ancient_planks",
+      "naturesaura:ancient_planks",
+      "naturesaura:ancient_planks"
+    ]
+  },
+  "naturesaura:ancient_stick": {
+    "result": "naturesaura:ancient_stick",
+    "count": 2,
+    "ingredients": [
+      "naturesaura:ancient_slab",
+      "",
+      "",
+      "naturesaura:ancient_slab",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "naturesaura:animal_container": {
+    "result": "naturesaura:animal_container",
+    "count": 1,
+    "ingredients": [
+      "minecraft:wheat_seeds",
+      "naturesaura:eye",
+      "minecraft:wheat_seeds",
+      "minecraft:wheat",
+      "naturesaura:infused_brick",
+      "minecraft:wheat",
+      "naturesaura:infused_brick",
+      "naturesaura:infused_brick",
+      "naturesaura:infused_brick"
+    ]
+  },
+  "naturesaura:animal_generator": {
+    "result": "naturesaura:animal_generator",
+    "count": 1,
+    "ingredients": [
+      "minecraft:nether_brick",
+      "naturesaura:tainted_gold",
+      "minecraft:nether_brick",
+      "minecraft:iron_bars",
+      "minecraft:soul_sand",
+      "minecraft:iron_bars",
+      "minecraft:nether_brick",
+      "naturesaura:token_sorrow",
+      "minecraft:nether_brick"
+    ]
+  },
+  "naturesaura:animal_spawner": {
+    "result": "naturesaura:animal_spawner",
+    "count": 1,
+    "ingredients": [
+      "naturesaura:sky_ingot",
+      "minecraft:hay_block",
+      "naturesaura:sky_ingot",
+      "minecraft:iron_bars",
+      "naturesaura:token_euphoria",
+      "minecraft:iron_bars",
+      "naturesaura:sky_ingot",
+      "minecraft:hay_block",
+      "naturesaura:sky_ingot"
+    ]
+  },
+  "pamhc2foodextended:anchovypepperonipizzaitem": {
+    "result": "pamhc2foodextended:anchovypepperonipizzaitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:dough",
+      "minecraft:tomato",
+      "minecraft:cheese",
+      "minecraft:pepperoni",
+      "minecraft:rawfish",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:analog_signal_controller_box": {
+    "result": "railcraft:analog_signal_controller_box",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "railcraft:controller_circuit",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:comparator",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:animal_detector": {
+    "result": "railcraft:animal_detector",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_log",
+      "minecraft:oak_log",
+      "minecraft:oak_log",
+      "minecraft:oak_log",
+      "minecraft:stone_pressure_plate",
+      "minecraft:oak_log",
+      "minecraft:oak_log",
+      "minecraft:oak_log",
+      "minecraft:oak_log"
+    ]
+  },
+  "railcraft:any_detector": {
+    "result": "railcraft:any_detector",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone_pressure_plate",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone"
+    ]
+  },
+  "reliquary:angelheart_vial": {
+    "result": "reliquary:angelheart_vial",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:milk_bucket",
+      "minecraft:glass",
+      "minecraft:glass",
+      "reliquary:infernal_claw",
+      "minecraft:glass",
+      "reliquary:fertile_essence",
+      "minecraft:glass",
+      "reliquary:fertile_essence"
+    ]
+  },
+  "reliquary:angelic_feather": {
+    "result": "reliquary:angelic_feather",
+    "count": 1,
+    "ingredients": [
+      "minecraft:feather",
+      "reliquary:nebulous_heart",
+      "reliquary:bat_wing",
+      "reliquary:fertile_essence",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "rftoolsutility:analog": {
+    "result": "rftoolsutility:analog",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "rftoolsbase:machine_base",
+      "minecraft:comparator",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "securitycraft:ancient_debris_mine": {
+    "result": "securitycraft:ancient_debris_mine",
+    "count": 1,
+    "ingredients": [
+      "minecraft:ancient_debris",
+      "securitycraft:mine",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "sophisticatedbackpacks:anvil_upgrade": {
+    "result": "sophisticatedbackpacks:anvil_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:anvil",
+      "minecraft:diamond",
+      "minecraft:anvil",
+      "minecraft:iron_ingot",
+      "sophisticatedbackpacks:upgrade_base",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:chest",
+      ""
+    ]
+  },
+  "the_bumblezone:ancient_wax_bricks_slab": {
+    "result": "the_bumblezone:ancient_wax_bricks_slab",
+    "count": 6,
+    "ingredients": [
+      "the_bumblezone:ancient_wax_bricks",
+      "the_bumblezone:ancient_wax_bricks",
+      "the_bumblezone:ancient_wax_bricks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "the_bumblezone:ancient_wax_bricks_stairs": {
+    "result": "the_bumblezone:ancient_wax_bricks_stairs",
+    "count": 4,
+    "ingredients": [
+      "the_bumblezone:ancient_wax_bricks",
+      "",
+      "",
+      "the_bumblezone:ancient_wax_bricks",
+      "the_bumblezone:ancient_wax_bricks",
+      "",
+      "the_bumblezone:ancient_wax_bricks",
+      "the_bumblezone:ancient_wax_bricks",
+      "the_bumblezone:ancient_wax_bricks"
+    ]
+  },
+  "the_bumblezone:ancient_wax_compound_eyes_slab": {
+    "result": "the_bumblezone:ancient_wax_compound_eyes_slab",
+    "count": 6,
+    "ingredients": [
+      "the_bumblezone:ancient_wax_compound_eyes",
+      "the_bumblezone:ancient_wax_compound_eyes",
+      "the_bumblezone:ancient_wax_compound_eyes",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "the_bumblezone:ancient_wax_compound_eyes_stairs": {
+    "result": "the_bumblezone:ancient_wax_compound_eyes_stairs",
+    "count": 4,
+    "ingredients": [
+      "the_bumblezone:ancient_wax_compound_eyes",
+      "",
+      "",
+      "the_bumblezone:ancient_wax_compound_eyes",
+      "the_bumblezone:ancient_wax_compound_eyes",
+      "",
+      "the_bumblezone:ancient_wax_compound_eyes",
+      "the_bumblezone:ancient_wax_compound_eyes",
+      "the_bumblezone:ancient_wax_compound_eyes"
+    ]
+  },
+  "the_bumblezone:ancient_wax_diamond_slab": {
+    "result": "the_bumblezone:ancient_wax_diamond_slab",
+    "count": 6,
+    "ingredients": [
+      "the_bumblezone:ancient_wax_diamond",
+      "the_bumblezone:ancient_wax_diamond",
+      "the_bumblezone:ancient_wax_diamond",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "the_bumblezone:ancient_wax_diamond_stairs": {
+    "result": "the_bumblezone:ancient_wax_diamond_stairs",
+    "count": 4,
+    "ingredients": [
+      "the_bumblezone:ancient_wax_diamond",
+      "",
+      "",
+      "the_bumblezone:ancient_wax_diamond",
+      "the_bumblezone:ancient_wax_diamond",
+      "",
+      "the_bumblezone:ancient_wax_diamond",
+      "the_bumblezone:ancient_wax_diamond",
+      "the_bumblezone:ancient_wax_diamond"
+    ]
+  },
+  "tombstone:ankh_of_prayer": {
+    "result": "tombstone:ankh_of_prayer",
+    "count": 1,
+    "ingredients": [
+      "tombstone:grave_dust",
+      "minecraft:stick",
+      "tombstone:grave_dust",
+      "minecraft:stick",
+      "minecraft:gold_ingot",
+      "minecraft:stick",
+      "tombstone:grave_dust",
+      "minecraft:stick",
+      "tombstone:grave_dust"
+    ]
+  },
+  "undergarden:ancient_root_boat": {
+    "result": "undergarden:ancient_root_boat",
+    "count": 1,
+    "ingredients": [
+      "undergarden:ancient_root_planks",
+      "",
+      "undergarden:ancient_root_planks",
+      "undergarden:ancient_root_planks",
+      "undergarden:ancient_root_planks",
+      "undergarden:ancient_root_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:ancient_root_button": {
+    "result": "undergarden:ancient_root_button",
+    "count": 1,
+    "ingredients": [
+      "undergarden:ancient_root_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:ancient_root_chest_boat": {
+    "result": "undergarden:ancient_root_chest_boat",
+    "count": 1,
+    "ingredients": [
+      "undergarden:ancient_root_boat",
+      "minecraft:chest",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:ancient_root_door": {
+    "result": "undergarden:ancient_root_door",
+    "count": 3,
+    "ingredients": [
+      "undergarden:ancient_root_planks",
+      "undergarden:ancient_root_planks",
+      "",
+      "undergarden:ancient_root_planks",
+      "undergarden:ancient_root_planks",
+      "",
+      "undergarden:ancient_root_planks",
+      "undergarden:ancient_root_planks",
+      ""
+    ]
+  },
+  "undergarden:ancient_root_fence": {
+    "result": "undergarden:ancient_root_fence",
+    "count": 6,
+    "ingredients": [
+      "undergarden:ancient_root_planks",
+      "minecraft:stick",
+      "undergarden:ancient_root_planks",
+      "undergarden:ancient_root_planks",
+      "minecraft:stick",
+      "undergarden:ancient_root_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:ancient_root_fence_gate": {
+    "result": "undergarden:ancient_root_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "undergarden:ancient_root_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "undergarden:ancient_root_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:ancient_root_hanging_sign": {
+    "result": "undergarden:ancient_root_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "undergarden:ancient_root",
+      "undergarden:ancient_root",
+      "undergarden:ancient_root",
+      "undergarden:ancient_root",
+      "undergarden:ancient_root",
+      "undergarden:ancient_root"
+    ]
+  },
+  "undergarden:ancient_root_planks": {
+    "result": "undergarden:ancient_root_planks",
+    "count": 4,
+    "ingredients": [
+      "undergarden:ancient_root",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:ancient_root_pressure_plate": {
+    "result": "undergarden:ancient_root_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "undergarden:ancient_root_planks",
+      "undergarden:ancient_root_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:ancient_root_sign": {
+    "result": "undergarden:ancient_root_sign",
+    "count": 3,
+    "ingredients": [
+      "undergarden:ancient_root_planks",
+      "undergarden:ancient_root_planks",
+      "undergarden:ancient_root_planks",
+      "undergarden:ancient_root_planks",
+      "undergarden:ancient_root_planks",
+      "undergarden:ancient_root_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "undergarden:ancient_root_slab": {
+    "result": "undergarden:ancient_root_slab",
+    "count": 6,
+    "ingredients": [
+      "undergarden:ancient_root_planks",
+      "undergarden:ancient_root_planks",
+      "undergarden:ancient_root_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:ancient_root_stairs": {
+    "result": "undergarden:ancient_root_stairs",
+    "count": 4,
+    "ingredients": [
+      "undergarden:ancient_root_planks",
+      "",
+      "",
+      "undergarden:ancient_root_planks",
+      "undergarden:ancient_root_planks",
+      "",
+      "undergarden:ancient_root_planks",
+      "undergarden:ancient_root_planks",
+      "undergarden:ancient_root_planks"
+    ]
+  },
+  "undergarden:ancient_root_trapdoor": {
+    "result": "undergarden:ancient_root_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "undergarden:ancient_root_planks",
+      "undergarden:ancient_root_planks",
+      "undergarden:ancient_root_planks",
+      "undergarden:ancient_root_planks",
+      "undergarden:ancient_root_planks",
+      "undergarden:ancient_root_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "utilitarian:angel_block": {
+    "result": "utilitarian:angel_block",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:gold_ingot",
+      "",
+      "minecraft:feather",
+      "minecraft:obsidians",
+      "minecraft:feather",
+      "",
+      "minecraft:gold_ingot",
+      ""
+    ]
+  },
+  "xnet:antenna": {
+    "result": "xnet:antenna",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_bars",
+      "minecraft:iron_ingot",
+      "minecraft:iron_bars",
+      "minecraft:iron_bars",
+      "minecraft:iron_ingot",
+      "minecraft:iron_bars",
+      "",
+      "minecraft:iron_ingot",
+      ""
+    ]
+  },
+  "xnet:antenna_base": {
+    "result": "xnet:antenna_base",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:iron_block",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "xnet:antenna_dish": {
+    "result": "xnet:antenna_dish",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_trapdoor",
+      "minecraft:iron_trapdoor",
+      "minecraft:iron_trapdoor",
+      "minecraft:iron_trapdoor",
+      "minecraft:ender_pearl",
+      "minecraft:iron_trapdoor",
+      "",
+      "minecraft:iron_ingot",
+      ""
+    ]
+  }
+}

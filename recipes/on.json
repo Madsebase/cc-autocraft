@@ -1,0 +1,197 @@
+{
+  "farmersdelight:onion": {
+    "result": "farmersdelight:onion",
+    "count": 9,
+    "ingredients": [
+      "farmersdelight:onion_crate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "farmersdelight:onion_crate": {
+    "result": "farmersdelight:onion_crate",
+    "count": 1,
+    "ingredients": [
+      "farmersdelight:onion",
+      "farmersdelight:onion",
+      "farmersdelight:onion",
+      "farmersdelight:onion",
+      "farmersdelight:onion",
+      "farmersdelight:onion",
+      "farmersdelight:onion",
+      "farmersdelight:onion",
+      "farmersdelight:onion"
+    ]
+  },
+  "glassential:one_way_glass": {
+    "result": "glassential:one_way_glass",
+    "count": 6,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:observer",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:black_dye",
+      "minecraft:glass"
+    ]
+  },
+  "integrateddynamics:on_the_dynamics_of_integration": {
+    "result": "integrateddynamics:on_the_dynamics_of_integration",
+    "count": 1,
+    "ingredients": [
+      "minecraft:book",
+      "integrateddynamics:crystalized_menril_chunk",
+      "integrateddynamics:crystalized_menril_chunk",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwwindows:one_way_glass": {
+    "result": "mcwwindows:one_way_glass",
+    "count": 6,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:black_dye",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:black_dye",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:black_dye"
+    ]
+  },
+  "mcwwindows:one_way_glass_pane": {
+    "result": "mcwwindows:one_way_glass_pane",
+    "count": 12,
+    "ingredients": [
+      "mcwwindows:one_way_glass",
+      "mcwwindows:one_way_glass",
+      "mcwwindows:one_way_glass",
+      "mcwwindows:one_way_glass",
+      "mcwwindows:one_way_glass",
+      "mcwwindows:one_way_glass",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2crops:onionseeditem": {
+    "result": "pamhc2crops:onionseeditem",
+    "count": 1,
+    "ingredients": [
+      "pamhc2crops:onionitem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:onigiriitem": {
+    "result": "pamhc2foodextended:onigiriitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:rice",
+      "minecraft:kelp",
+      "minecraft:sesameseeds",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:onionhamburgeritem": {
+    "result": "pamhc2foodextended:onionhamburgeritem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "pamhc2foodcore:basichamburgeritem",
+      "pamhc2foodextended:friedonionsitem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:onionringsitem": {
+    "result": "pamhc2foodextended:onionringsitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:onion",
+      "minecraft:cookingoil",
+      "minecraft:batter",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:one_way_track_kit": {
+    "result": "railcraft:one_way_track_kit",
+    "count": 8,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "railcraft:track_parts",
+      "minecraft:stone_pressure_plate",
+      "minecraft:piston",
+      "minecraft:redstone",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "restrictions:oneway": {
+    "result": "restrictions:oneway",
+    "count": 1,
+    "ingredients": [
+      "minecraft:slime_ball",
+      "minecraft:redstone",
+      "minecraft:slime_ball",
+      "minecraft:redstone",
+      "minecraft:rail",
+      "minecraft:redstone",
+      "minecraft:slime_ball",
+      "minecraft:redstone",
+      "minecraft:slime_ball"
+    ]
+  },
+  "restrictions:oneway_wall": {
+    "result": "restrictions:oneway_wall",
+    "count": 1,
+    "ingredients": [
+      "minecraft:slime_ball",
+      "minecraft:redstone",
+      "minecraft:slime_ball",
+      "minecraft:redstone",
+      "minecraft:glass",
+      "minecraft:redstone",
+      "minecraft:slime_ball",
+      "minecraft:redstone",
+      "minecraft:slime_ball"
+    ]
+  }
+}

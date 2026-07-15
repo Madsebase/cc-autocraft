@@ -1,0 +1,1187 @@
+{
+  "biomeswevegone:zelkova_boat": {
+    "result": "biomeswevegone:zelkova_boat",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:zelkova_planks",
+      "",
+      "biomeswevegone:zelkova_planks",
+      "biomeswevegone:zelkova_planks",
+      "biomeswevegone:zelkova_planks",
+      "biomeswevegone:zelkova_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:zelkova_bookshelf": {
+    "result": "biomeswevegone:zelkova_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:zelkova_planks",
+      "biomeswevegone:zelkova_planks",
+      "biomeswevegone:zelkova_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "biomeswevegone:zelkova_planks",
+      "biomeswevegone:zelkova_planks",
+      "biomeswevegone:zelkova_planks"
+    ]
+  },
+  "biomeswevegone:zelkova_button": {
+    "result": "biomeswevegone:zelkova_button",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:zelkova_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:zelkova_chest_boat": {
+    "result": "biomeswevegone:zelkova_chest_boat",
+    "count": 1,
+    "ingredients": [
+      "minecraft:chest",
+      "biomeswevegone:zelkova_boat",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:zelkova_crafting_table": {
+    "result": "biomeswevegone:zelkova_crafting_table",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:zelkova_planks",
+      "biomeswevegone:zelkova_planks",
+      "",
+      "biomeswevegone:zelkova_planks",
+      "biomeswevegone:zelkova_planks",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:zelkova_door": {
+    "result": "biomeswevegone:zelkova_door",
+    "count": 3,
+    "ingredients": [
+      "biomeswevegone:zelkova_planks",
+      "biomeswevegone:zelkova_planks",
+      "",
+      "biomeswevegone:zelkova_planks",
+      "biomeswevegone:zelkova_planks",
+      "",
+      "biomeswevegone:zelkova_planks",
+      "biomeswevegone:zelkova_planks",
+      ""
+    ]
+  },
+  "biomeswevegone:zelkova_fence": {
+    "result": "biomeswevegone:zelkova_fence",
+    "count": 3,
+    "ingredients": [
+      "biomeswevegone:zelkova_planks",
+      "minecraft:stick",
+      "biomeswevegone:zelkova_planks",
+      "biomeswevegone:zelkova_planks",
+      "minecraft:stick",
+      "biomeswevegone:zelkova_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:zelkova_fence_gate": {
+    "result": "biomeswevegone:zelkova_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "biomeswevegone:zelkova_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "biomeswevegone:zelkova_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:zelkova_hanging_sign": {
+    "result": "biomeswevegone:zelkova_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "biomeswevegone:stripped_zelkova_log",
+      "biomeswevegone:stripped_zelkova_log",
+      "biomeswevegone:stripped_zelkova_log",
+      "biomeswevegone:stripped_zelkova_log",
+      "biomeswevegone:stripped_zelkova_log",
+      "biomeswevegone:stripped_zelkova_log"
+    ]
+  },
+  "biomeswevegone:zelkova_planks": {
+    "result": "biomeswevegone:zelkova_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:zelkova_pressure_plate": {
+    "result": "biomeswevegone:zelkova_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:zelkova_planks",
+      "biomeswevegone:zelkova_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:zelkova_sign": {
+    "result": "biomeswevegone:zelkova_sign",
+    "count": 3,
+    "ingredients": [
+      "biomeswevegone:zelkova_planks",
+      "biomeswevegone:zelkova_planks",
+      "biomeswevegone:zelkova_planks",
+      "biomeswevegone:zelkova_planks",
+      "biomeswevegone:zelkova_planks",
+      "biomeswevegone:zelkova_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "biomeswevegone:zelkova_slab": {
+    "result": "biomeswevegone:zelkova_slab",
+    "count": 6,
+    "ingredients": [
+      "biomeswevegone:zelkova_planks",
+      "biomeswevegone:zelkova_planks",
+      "biomeswevegone:zelkova_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:zelkova_stairs": {
+    "result": "biomeswevegone:zelkova_stairs",
+    "count": 4,
+    "ingredients": [
+      "biomeswevegone:zelkova_planks",
+      "",
+      "",
+      "biomeswevegone:zelkova_planks",
+      "biomeswevegone:zelkova_planks",
+      "",
+      "biomeswevegone:zelkova_planks",
+      "biomeswevegone:zelkova_planks",
+      "biomeswevegone:zelkova_planks"
+    ]
+  },
+  "biomeswevegone:zelkova_trapdoor": {
+    "result": "biomeswevegone:zelkova_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "biomeswevegone:zelkova_planks",
+      "biomeswevegone:zelkova_planks",
+      "biomeswevegone:zelkova_planks",
+      "biomeswevegone:zelkova_planks",
+      "biomeswevegone:zelkova_planks",
+      "biomeswevegone:zelkova_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:zelkova_wood": {
+    "result": "biomeswevegone:zelkova_wood",
+    "count": 3,
+    "ingredients": [
+      "biomeswevegone:zelkova_log",
+      "biomeswevegone:zelkova_log",
+      "",
+      "biomeswevegone:zelkova_log",
+      "biomeswevegone:zelkova_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:zeppoleitem": {
+    "result": "pamhc2foodextended:zeppoleitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:cookingoil",
+      "minecraft:dough",
+      "minecraft:groundcinnamon",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:zestyzucchiniitem": {
+    "result": "pamhc2foodextended:zestyzucchiniitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:zucchini",
+      "minecraft:pasta",
+      "minecraft:chilipepper",
+      "minecraft:garlic",
+      "minecraft:cheese",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:zebrano_bookshelf": {
+    "result": "productivetrees:zebrano_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:zebrano_planks",
+      "productivetrees:zebrano_planks",
+      "productivetrees:zebrano_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:zebrano_planks",
+      "productivetrees:zebrano_planks",
+      "productivetrees:zebrano_planks"
+    ]
+  },
+  "productivetrees:zebrano_button": {
+    "result": "productivetrees:zebrano_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:zebrano_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:zebrano_door": {
+    "result": "productivetrees:zebrano_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:zebrano_planks",
+      "productivetrees:zebrano_planks",
+      "",
+      "productivetrees:zebrano_planks",
+      "productivetrees:zebrano_planks",
+      "",
+      "productivetrees:zebrano_planks",
+      "productivetrees:zebrano_planks",
+      ""
+    ]
+  },
+  "productivetrees:zebrano_fence": {
+    "result": "productivetrees:zebrano_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:zebrano_planks",
+      "minecraft:stick",
+      "productivetrees:zebrano_planks",
+      "productivetrees:zebrano_planks",
+      "minecraft:stick",
+      "productivetrees:zebrano_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:zebrano_fence_gate": {
+    "result": "productivetrees:zebrano_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:zebrano_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:zebrano_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:zebrano_hanging_sign": {
+    "result": "productivetrees:zebrano_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:zebrano_planks",
+      "productivetrees:zebrano_planks",
+      "productivetrees:zebrano_planks",
+      "productivetrees:zebrano_planks",
+      "productivetrees:zebrano_planks",
+      "productivetrees:zebrano_planks"
+    ]
+  },
+  "productivetrees:zebrano_planks": {
+    "result": "productivetrees:zebrano_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:zebrano_pressure_plate": {
+    "result": "productivetrees:zebrano_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:zebrano_planks",
+      "productivetrees:zebrano_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:zebrano_sign": {
+    "result": "productivetrees:zebrano_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:zebrano_planks",
+      "productivetrees:zebrano_planks",
+      "productivetrees:zebrano_planks",
+      "productivetrees:zebrano_planks",
+      "productivetrees:zebrano_planks",
+      "productivetrees:zebrano_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:zebrano_slab": {
+    "result": "productivetrees:zebrano_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:zebrano_planks",
+      "productivetrees:zebrano_planks",
+      "productivetrees:zebrano_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:zebrano_stairs": {
+    "result": "productivetrees:zebrano_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:zebrano_planks",
+      "",
+      "",
+      "productivetrees:zebrano_planks",
+      "productivetrees:zebrano_planks",
+      "",
+      "productivetrees:zebrano_planks",
+      "productivetrees:zebrano_planks",
+      "productivetrees:zebrano_planks"
+    ]
+  },
+  "productivetrees:zebrano_trapdoor": {
+    "result": "productivetrees:zebrano_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:zebrano_planks",
+      "productivetrees:zebrano_planks",
+      "productivetrees:zebrano_planks",
+      "productivetrees:zebrano_planks",
+      "productivetrees:zebrano_planks",
+      "productivetrees:zebrano_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:zebrano_wood": {
+    "result": "productivetrees:zebrano_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:zebrano_log",
+      "productivetrees:zebrano_log",
+      "",
+      "productivetrees:zebrano_log",
+      "productivetrees:zebrano_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xtonesreworked:zech_block_0": {
+    "result": "xtonesreworked:zech_block_0",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:white",
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:zech"
+    ]
+  },
+  "xtonesreworked:zech_block_15": {
+    "result": "xtonesreworked:zech_block_15",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:black",
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:zech"
+    ]
+  },
+  "xtonesreworked:zech_block_1": {
+    "result": "xtonesreworked:zech_block_1",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:yellow",
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:zech"
+    ]
+  },
+  "xtonesreworked:zech_block_10": {
+    "result": "xtonesreworked:zech_block_10",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:magenta",
+      "minecraft:zech"
+    ]
+  },
+  "xtonesreworked:zech_block_11": {
+    "result": "xtonesreworked:zech_block_11",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:pink",
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:zech"
+    ]
+  },
+  "xtonesreworked:zech_block_12": {
+    "result": "xtonesreworked:zech_block_12",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:red",
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:zech"
+    ]
+  },
+  "xtonesreworked:zech_block_13": {
+    "result": "xtonesreworked:zech_block_13",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:orange",
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:zech"
+    ]
+  },
+  "xtonesreworked:zech_block_14": {
+    "result": "xtonesreworked:zech_block_14",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:brown",
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:zech"
+    ]
+  },
+  "xtonesreworked:zech_block_2": {
+    "result": "xtonesreworked:zech_block_2",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:lime",
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:zech"
+    ]
+  },
+  "xtonesreworked:zech_block_3": {
+    "result": "xtonesreworked:zech_block_3",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:green",
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:zech"
+    ]
+  },
+  "xtonesreworked:zech_block_4": {
+    "result": "xtonesreworked:zech_block_4",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:cyan",
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:zech"
+    ]
+  },
+  "xtonesreworked:zech_block_5": {
+    "result": "xtonesreworked:zech_block_5",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:light_blue",
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:zech"
+    ]
+  },
+  "xtonesreworked:zech_block_6": {
+    "result": "xtonesreworked:zech_block_6",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:blue",
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:zech"
+    ]
+  },
+  "xtonesreworked:zech_block_7": {
+    "result": "xtonesreworked:zech_block_7",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:blue",
+      "minecraft:zech"
+    ]
+  },
+  "xtonesreworked:zech_block_8": {
+    "result": "xtonesreworked:zech_block_8",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:purple",
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:zech"
+    ]
+  },
+  "xtonesreworked:zech_block_9": {
+    "result": "xtonesreworked:zech_block_9",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:magenta",
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:zech",
+      "minecraft:zech"
+    ]
+  },
+  "xtonesreworked:zest_block_0": {
+    "result": "xtonesreworked:zest_block_0",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:white",
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:zest"
+    ]
+  },
+  "xtonesreworked:zest_block_15": {
+    "result": "xtonesreworked:zest_block_15",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:black",
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:zest"
+    ]
+  },
+  "xtonesreworked:zest_block_1": {
+    "result": "xtonesreworked:zest_block_1",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:yellow",
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:zest"
+    ]
+  },
+  "xtonesreworked:zest_block_10": {
+    "result": "xtonesreworked:zest_block_10",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:pink",
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:zest"
+    ]
+  },
+  "xtonesreworked:zest_block_11": {
+    "result": "xtonesreworked:zest_block_11",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:red",
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:zest"
+    ]
+  },
+  "xtonesreworked:zest_block_12": {
+    "result": "xtonesreworked:zest_block_12",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:orange",
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:zest"
+    ]
+  },
+  "xtonesreworked:zest_block_13": {
+    "result": "xtonesreworked:zest_block_13",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:brown",
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:zest"
+    ]
+  },
+  "xtonesreworked:zest_block_14": {
+    "result": "xtonesreworked:zest_block_14",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:yellow",
+      "minecraft:zest"
+    ]
+  },
+  "xtonesreworked:zest_block_2": {
+    "result": "xtonesreworked:zest_block_2",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:lime",
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:zest"
+    ]
+  },
+  "xtonesreworked:zest_block_3": {
+    "result": "xtonesreworked:zest_block_3",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:green",
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:zest"
+    ]
+  },
+  "xtonesreworked:zest_block_4": {
+    "result": "xtonesreworked:zest_block_4",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:green",
+      "minecraft:zest"
+    ]
+  },
+  "xtonesreworked:zest_block_5": {
+    "result": "xtonesreworked:zest_block_5",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:cyan",
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:zest"
+    ]
+  },
+  "xtonesreworked:zest_block_6": {
+    "result": "xtonesreworked:zest_block_6",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:light_blue",
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:zest"
+    ]
+  },
+  "xtonesreworked:zest_block_7": {
+    "result": "xtonesreworked:zest_block_7",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:blue",
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:zest"
+    ]
+  },
+  "xtonesreworked:zest_block_8": {
+    "result": "xtonesreworked:zest_block_8",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:purple",
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:zest"
+    ]
+  },
+  "xtonesreworked:zest_block_9": {
+    "result": "xtonesreworked:zest_block_9",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:magenta",
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:zest",
+      "minecraft:zest"
+    ]
+  },
+  "xtonesreworked:zeta_block_0": {
+    "result": "xtonesreworked:zeta_block_0",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:white",
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:zeta"
+    ]
+  },
+  "xtonesreworked:zeta_block_15": {
+    "result": "xtonesreworked:zeta_block_15",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:gray",
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:zeta"
+    ]
+  },
+  "xtonesreworked:zeta_block_1": {
+    "result": "xtonesreworked:zeta_block_1",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:yellow",
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:zeta"
+    ]
+  },
+  "xtonesreworked:zeta_block_10": {
+    "result": "xtonesreworked:zeta_block_10",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:magenta",
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:zeta"
+    ]
+  },
+  "xtonesreworked:zeta_block_11": {
+    "result": "xtonesreworked:zeta_block_11",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:pink",
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:zeta"
+    ]
+  },
+  "xtonesreworked:zeta_block_12": {
+    "result": "xtonesreworked:zeta_block_12",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:red",
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:zeta"
+    ]
+  },
+  "xtonesreworked:zeta_block_13": {
+    "result": "xtonesreworked:zeta_block_13",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:orange",
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:zeta"
+    ]
+  },
+  "xtonesreworked:zeta_block_14": {
+    "result": "xtonesreworked:zeta_block_14",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:brown",
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:zeta"
+    ]
+  },
+  "xtonesreworked:zeta_block_2": {
+    "result": "xtonesreworked:zeta_block_2",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:lime",
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:zeta"
+    ]
+  },
+  "xtonesreworked:zeta_block_3": {
+    "result": "xtonesreworked:zeta_block_3",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:green",
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:zeta"
+    ]
+  },
+  "xtonesreworked:zeta_block_4": {
+    "result": "xtonesreworked:zeta_block_4",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:green",
+      "minecraft:zeta"
+    ]
+  },
+  "xtonesreworked:zeta_block_5": {
+    "result": "xtonesreworked:zeta_block_5",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:cyan",
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:zeta"
+    ]
+  },
+  "xtonesreworked:zeta_block_6": {
+    "result": "xtonesreworked:zeta_block_6",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:light_blue",
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:zeta"
+    ]
+  },
+  "xtonesreworked:zeta_block_7": {
+    "result": "xtonesreworked:zeta_block_7",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:blue",
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:zeta"
+    ]
+  },
+  "xtonesreworked:zeta_block_8": {
+    "result": "xtonesreworked:zeta_block_8",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:purple",
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:zeta"
+    ]
+  },
+  "xtonesreworked:zeta_block_9": {
+    "result": "xtonesreworked:zeta_block_9",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:zeta",
+      "minecraft:purple",
+      "minecraft:zeta"
+    ]
+  }
+}

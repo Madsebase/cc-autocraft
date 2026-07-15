@@ -1,0 +1,1322 @@
+{
+  "minecraft:beehive": {
+    "result": "minecraft:beehive",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:honeycombs",
+      "minecraft:honeycombs",
+      "minecraft:honeycombs",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks"
+    ]
+  },
+  "apothic_enchanting:beeshelf": {
+    "result": "apothic_enchanting:beeshelf",
+    "count": 1,
+    "ingredients": [
+      "minecraft:honeycomb",
+      "minecraft:beehive",
+      "minecraft:honeycomb",
+      "minecraft:honey_block",
+      "minecraft:bookshelves",
+      "minecraft:honey_block",
+      "minecraft:honeycomb",
+      "minecraft:beehive",
+      "minecraft:honeycomb"
+    ]
+  },
+  "cataclysm:belt_of_beginner": {
+    "result": "cataclysm:belt_of_beginner",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "minecraft:leather",
+      "minecraft:iron_ingot",
+      "minecraft:leather",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:belt_connector": {
+    "result": "create:belt_connector",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dried_kelp",
+      "minecraft:dried_kelp",
+      "minecraft:dried_kelp",
+      "minecraft:dried_kelp",
+      "minecraft:dried_kelp",
+      "minecraft:dried_kelp",
+      "",
+      "",
+      ""
+    ]
+  },
+  "domum_ornamentum:beige_bricks": {
+    "result": "domum_ornamentum:beige_bricks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:gravel",
+      "minecraft:gravel",
+      "minecraft:brick",
+      "minecraft:brick",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "domum_ornamentum:beige_stone_bricks": {
+    "result": "domum_ornamentum:beige_stone_bricks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:gravel",
+      "minecraft:gravel",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dysoncubeproject:beam": {
+    "result": "dysoncubeproject:beam",
+    "count": 2,
+    "ingredients": [
+      "minecraft:iron",
+      "minecraft:iron",
+      "minecraft:iron",
+      "minecraft:iron_bars",
+      "minecraft:iron",
+      "minecraft:iron_bars",
+      "minecraft:iron",
+      "minecraft:iron",
+      "minecraft:iron"
+    ]
+  },
+  "dysoncubeproject:beam_package": {
+    "result": "dysoncubeproject:beam_package",
+    "count": 1,
+    "ingredients": [
+      "",
+      "dysoncubeproject:beam",
+      "",
+      "dysoncubeproject:beam",
+      "minecraft:copper",
+      "dysoncubeproject:beam",
+      "",
+      "dysoncubeproject:beam",
+      ""
+    ]
+  },
+  "farmersdelight:beetroot_crate": {
+    "result": "farmersdelight:beetroot_crate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:beetroot",
+      "minecraft:beetroot",
+      "minecraft:beetroot",
+      "minecraft:beetroot",
+      "minecraft:beetroot",
+      "minecraft:beetroot",
+      "minecraft:beetroot",
+      "minecraft:beetroot",
+      "minecraft:beetroot"
+    ]
+  },
+  "minecraft:beetroot": {
+    "result": "minecraft:beetroot",
+    "count": 8,
+    "ingredients": [
+      "mysticalagriculture:nature_essence",
+      "",
+      "",
+      "",
+      "mysticalagriculture:nature_essence",
+      "",
+      "",
+      "mysticalagriculture:nature_essence",
+      ""
+    ]
+  },
+  "handcrafted:bear_trophy": {
+    "result": "handcrafted:bear_trophy",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:cod",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks"
+    ]
+  },
+  "handcrafted:bench": {
+    "result": "handcrafted:bench",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_bars",
+      "minecraft:iron_ingot",
+      "minecraft:iron_bars",
+      "minecraft:iron_bars",
+      "minecraft:iron_ingot",
+      "minecraft:iron_bars",
+      "minecraft:iron_bars",
+      "",
+      "minecraft:iron_bars"
+    ]
+  },
+  "handcrafted:berry_jam_jar": {
+    "result": "handcrafted:berry_jam_jar",
+    "count": 1,
+    "ingredients": [
+      "minecraft:sweet_berries",
+      "minecraft:glass_bottle",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "herbsandharvest:beef_cheddar": {
+    "result": "herbsandharvest:beef_cheddar",
+    "count": 1,
+    "ingredients": [
+      "minecraft:cooked_beef",
+      "herbsandharvest:bread_slice",
+      "herbsandharvest:bread_slice",
+      "minecraft:cheddar",
+      "minecraft:lettuce",
+      "minecraft:mayonnaise",
+      "minecraft:tomato",
+      "",
+      ""
+    ]
+  },
+  "herbsandharvest:beef_pie": {
+    "result": "herbsandharvest:beef_pie",
+    "count": 1,
+    "ingredients": [
+      "minecraft:cooked_beef",
+      "minecraft:wheat",
+      "minecraft:onion",
+      "minecraft:potato",
+      "minecraft:carrot",
+      "minecraft:mushroom",
+      "herbsandharvest:chopped_thyme",
+      "herbsandharvest:chopped_sage",
+      ""
+    ]
+  },
+  "herbsandharvest:beef_stew_pot": {
+    "result": "herbsandharvest:beef_stew_pot",
+    "count": 1,
+    "ingredients": [
+      "herbsandharvest:empty_pot",
+      "minecraft:raw_beef",
+      "minecraft:onion",
+      "minecraft:wheat",
+      "minecraft:potato",
+      "minecraft:carrot",
+      "minecraft:minced_garlic",
+      "minecraft:pepper",
+      "herbsandharvest:chopped_thyme"
+    ]
+  },
+  "iceandfire:bestiary": {
+    "result": "iceandfire:bestiary",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:manuscript",
+      "iceandfire:manuscript",
+      "iceandfire:manuscript",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwholidays:bells_wall_deco_1": {
+    "result": "mcwholidays:bells_wall_deco_1",
+    "count": 1,
+    "ingredients": [
+      "mcwholidays:bell_wall_deco_1",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwholidays:bells_wall_deco_2": {
+    "result": "mcwholidays:bells_wall_deco_2",
+    "count": 1,
+    "ingredients": [
+      "mcwholidays:bell_wall_deco_2",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwholidays:bell_wall_deco_1": {
+    "result": "mcwholidays:bell_wall_deco_1",
+    "count": 1,
+    "ingredients": [
+      "minecraft:paper",
+      "",
+      "",
+      "minecraft:yellow_dye",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwholidays:bell_wall_deco_2": {
+    "result": "mcwholidays:bell_wall_deco_2",
+    "count": 2,
+    "ingredients": [
+      "",
+      "minecraft:yellow_dye",
+      "",
+      "minecraft:yellow_dye",
+      "minecraft:paper",
+      "minecraft:yellow_dye",
+      "minecraft:yellow_dye",
+      "minecraft:yellow_dye",
+      "minecraft:yellow_dye"
+    ]
+  },
+  "mcwholidays:bell_wall_deco_3": {
+    "result": "mcwholidays:bell_wall_deco_3",
+    "count": 1,
+    "ingredients": [
+      "minecraft:yellow_dye",
+      "minecraft:paper",
+      "minecraft:yellow_dye",
+      "minecraft:green_dye",
+      "minecraft:yellow_dye",
+      "minecraft:green_dye",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwholidays:bell_wall_deco_4": {
+    "result": "mcwholidays:bell_wall_deco_4",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:paper",
+      "",
+      "minecraft:green_dye",
+      "minecraft:yellow_dye",
+      "minecraft:green_dye",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwlights:bell_lantern": {
+    "result": "mcwlights:bell_lantern",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:iron_nugget",
+      "",
+      "minecraft:iron_nugget",
+      "minecraft:torch",
+      "minecraft:iron_nugget",
+      "minecraft:iron_nugget",
+      "",
+      "minecraft:iron_nugget"
+    ]
+  },
+  "mcwlights:bell_wall_lantern": {
+    "result": "mcwlights:bell_wall_lantern",
+    "count": 1,
+    "ingredients": [
+      "minecraft:wooden_fences",
+      "mcwlights:bell_lantern",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:beacon": {
+    "result": "minecraft:beacon",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:nether_star",
+      "minecraft:glass",
+      "minecraft:obsidian",
+      "minecraft:obsidian",
+      "minecraft:obsidian"
+    ]
+  },
+  "minecraft:beetroot_soup": {
+    "result": "minecraft:beetroot_soup",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bowl",
+      "minecraft:beetroot",
+      "minecraft:beetroot",
+      "minecraft:beetroot",
+      "minecraft:beetroot",
+      "minecraft:beetroot",
+      "minecraft:beetroot",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:beryllium_block": {
+    "result": "modern_industrialization:beryllium_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:beryllium",
+      "minecraft:beryllium",
+      "minecraft:beryllium",
+      "minecraft:beryllium",
+      "modern_industrialization:beryllium_ingot",
+      "minecraft:beryllium",
+      "minecraft:beryllium",
+      "minecraft:beryllium",
+      "minecraft:beryllium"
+    ]
+  },
+  "modern_industrialization:beryllium_dust": {
+    "result": "modern_industrialization:beryllium_dust",
+    "count": 1,
+    "ingredients": [
+      "minecraft:beryllium",
+      "minecraft:beryllium",
+      "minecraft:beryllium",
+      "minecraft:beryllium",
+      "modern_industrialization:beryllium_tiny_dust",
+      "minecraft:beryllium",
+      "minecraft:beryllium",
+      "minecraft:beryllium",
+      "minecraft:beryllium"
+    ]
+  },
+  "modern_industrialization:beryllium_ingot": {
+    "result": "modern_industrialization:beryllium_ingot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:beryllium",
+      "minecraft:beryllium",
+      "minecraft:beryllium",
+      "minecraft:beryllium",
+      "modern_industrialization:beryllium_nugget",
+      "minecraft:beryllium",
+      "minecraft:beryllium",
+      "minecraft:beryllium",
+      "minecraft:beryllium"
+    ]
+  },
+  "modern_industrialization:beryllium_nugget": {
+    "result": "modern_industrialization:beryllium_nugget",
+    "count": 9,
+    "ingredients": [
+      "modern_industrialization:beryllium_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:beryllium_tiny_dust": {
+    "result": "modern_industrialization:beryllium_tiny_dust",
+    "count": 9,
+    "ingredients": [
+      "modern_industrialization:beryllium_dust",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modularbees:bee_extractor": {
+    "result": "modularbees:bee_extractor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "minecraft:piston",
+      "minecraft:redstone",
+      "minecraft:stone",
+      "",
+      "minecraft:stone",
+      "",
+      "productivebees:bottler",
+      ""
+    ]
+  },
+  "minecraft:beef": {
+    "result": "minecraft:beef",
+    "count": 6,
+    "ingredients": [
+      "mysticalagriculture:cow_essence",
+      "mysticalagriculture:cow_essence",
+      "mysticalagriculture:cow_essence",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2crops:beanseeditem": {
+    "result": "pamhc2crops:beanseeditem",
+    "count": 1,
+    "ingredients": [
+      "pamhc2crops:beanitem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2crops:bellpepperseeditem": {
+    "result": "pamhc2crops:bellpepperseeditem",
+    "count": 1,
+    "ingredients": [
+      "pamhc2crops:bellpepperitem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:beefjerkyitem": {
+    "result": "pamhc2foodcore:beefjerkyitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:rawbeef",
+      "minecraft:salt",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:beefnoodlesoupitem": {
+    "result": "pamhc2foodcore:beefnoodlesoupitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:pasta",
+      "minecraft:stock",
+      "minecraft:vegetables",
+      "minecraft:rawbeef",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:beefpotpieitem": {
+    "result": "pamhc2foodcore:beefpotpieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:rawbeef",
+      "minecraft:potato",
+      "minecraft:carrot",
+      "minecraft:dough",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:beanburritoitem": {
+    "result": "pamhc2foodextended:beanburritoitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_skillet",
+      "minecraft:bean",
+      "minecraft:tortilla",
+      "minecraft:rice",
+      "minecraft:cheese",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:beancornmealitem": {
+    "result": "pamhc2foodextended:beancornmealitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_skillet",
+      "minecraft:bean",
+      "minecraft:corn",
+      "minecraft:grain",
+      "minecraft:garlic",
+      "minecraft:onion",
+      "minecraft:tomato",
+      "minecraft:mustardseeds",
+      ""
+    ]
+  },
+  "pamhc2foodextended:beansandriceitem": {
+    "result": "pamhc2foodextended:beansandriceitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:bean",
+      "minecraft:rice",
+      "minecraft:bellpepper",
+      "minecraft:rawpork",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:beansontoastitem": {
+    "result": "pamhc2foodextended:beansontoastitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:toast",
+      "minecraft:butter",
+      "pamhc2foodextended:bakedbeansitem",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:beefwellingtonitem": {
+    "result": "pamhc2foodextended:beefwellingtonitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:rawbeef",
+      "minecraft:dough",
+      "minecraft:mushrooms",
+      "minecraft:spinach",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:beetburgeritem": {
+    "result": "pamhc2foodextended:beetburgeritem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:rawbeef",
+      "minecraft:beetroot",
+      "minecraft:friedegg",
+      "minecraft:rawpork",
+      "minecraft:pineapple",
+      "minecraft:toast",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:bentoboxitem": {
+    "result": "pamhc2foodextended:bentoboxitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "pamhc2foodextended:bamboosteamedriceitem",
+      "pamhc2foodcore:pickledbeetsitem",
+      "pamhc2foodextended:teriyakichickenitem",
+      "pamhc2foodextended:sushiitem",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:berrymeringuenestitem": {
+    "result": "pamhc2foodextended:berrymeringuenestitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:meringue",
+      "minecraft:berries",
+      "minecraft:berries",
+      "minecraft:berries",
+      "minecraft:yogurt",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:berryvinaigrettesaladitem": {
+    "result": "pamhc2foodextended:berryvinaigrettesaladitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:vegetables",
+      "minecraft:leafyvegetables",
+      "minecraft:juices",
+      "minecraft:vinegar",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivebees:bee_bomb": {
+    "result": "productivebees:bee_bomb",
+    "count": 1,
+    "ingredients": [
+      "productivebees:bee_bomb_angry",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivebees:bee_bomb_angry": {
+    "result": "productivebees:bee_bomb_angry",
+    "count": 1,
+    "ingredients": [
+      "productivebees:bee_bomb",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivebees:bee_cage": {
+    "result": "productivebees:bee_cage",
+    "count": 16,
+    "ingredients": [
+      "minecraft:oak_log",
+      "minecraft:honey_block",
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivebees:bee_nest_diamond_helmet": {
+    "result": "productivebees:bee_nest_diamond_helmet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bee_nest",
+      "minecraft:diamond_helmet",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:beech_bookshelf": {
+    "result": "productivetrees:beech_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:beech_planks",
+      "productivetrees:beech_planks",
+      "productivetrees:beech_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:beech_planks",
+      "productivetrees:beech_planks",
+      "productivetrees:beech_planks"
+    ]
+  },
+  "productivetrees:beliy_naliv_apple_bookshelf": {
+    "result": "productivetrees:beliy_naliv_apple_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:beliy_naliv_apple_planks",
+      "productivetrees:beliy_naliv_apple_planks",
+      "productivetrees:beliy_naliv_apple_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:beliy_naliv_apple_planks",
+      "productivetrees:beliy_naliv_apple_planks",
+      "productivetrees:beliy_naliv_apple_planks"
+    ]
+  },
+  "productivetrees:beech_button": {
+    "result": "productivetrees:beech_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:beech_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:beliy_naliv_apple_button": {
+    "result": "productivetrees:beliy_naliv_apple_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:beliy_naliv_apple_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:beechnut_crate": {
+    "result": "productivetrees:beechnut_crate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:beechnut",
+      "minecraft:beechnut",
+      "minecraft:beechnut",
+      "minecraft:beechnut",
+      "productivetrees:beechnut",
+      "minecraft:beechnut",
+      "minecraft:beechnut",
+      "minecraft:beechnut",
+      "minecraft:beechnut"
+    ]
+  },
+  "productivetrees:beechnut": {
+    "result": "productivetrees:beechnut",
+    "count": 9,
+    "ingredients": [
+      "productivetrees:beechnut_crate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:beliy_naliv_apple_crate": {
+    "result": "productivetrees:beliy_naliv_apple_crate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:beliy_naliv_apple",
+      "minecraft:beliy_naliv_apple",
+      "minecraft:beliy_naliv_apple",
+      "minecraft:beliy_naliv_apple",
+      "productivetrees:beliy_naliv_apple",
+      "minecraft:beliy_naliv_apple",
+      "minecraft:beliy_naliv_apple",
+      "minecraft:beliy_naliv_apple",
+      "minecraft:beliy_naliv_apple"
+    ]
+  },
+  "productivetrees:beliy_naliv_apple": {
+    "result": "productivetrees:beliy_naliv_apple",
+    "count": 9,
+    "ingredients": [
+      "productivetrees:beliy_naliv_apple_crate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:beech_door": {
+    "result": "productivetrees:beech_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:beech_planks",
+      "productivetrees:beech_planks",
+      "",
+      "productivetrees:beech_planks",
+      "productivetrees:beech_planks",
+      "",
+      "productivetrees:beech_planks",
+      "productivetrees:beech_planks",
+      ""
+    ]
+  },
+  "productivetrees:beliy_naliv_apple_door": {
+    "result": "productivetrees:beliy_naliv_apple_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:beliy_naliv_apple_planks",
+      "productivetrees:beliy_naliv_apple_planks",
+      "",
+      "productivetrees:beliy_naliv_apple_planks",
+      "productivetrees:beliy_naliv_apple_planks",
+      "",
+      "productivetrees:beliy_naliv_apple_planks",
+      "productivetrees:beliy_naliv_apple_planks",
+      ""
+    ]
+  },
+  "productivetrees:beech_fence": {
+    "result": "productivetrees:beech_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:beech_planks",
+      "minecraft:stick",
+      "productivetrees:beech_planks",
+      "productivetrees:beech_planks",
+      "minecraft:stick",
+      "productivetrees:beech_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:beliy_naliv_apple_fence": {
+    "result": "productivetrees:beliy_naliv_apple_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:beliy_naliv_apple_planks",
+      "minecraft:stick",
+      "productivetrees:beliy_naliv_apple_planks",
+      "productivetrees:beliy_naliv_apple_planks",
+      "minecraft:stick",
+      "productivetrees:beliy_naliv_apple_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:beech_fence_gate": {
+    "result": "productivetrees:beech_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:beech_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:beech_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:beliy_naliv_apple_fence_gate": {
+    "result": "productivetrees:beliy_naliv_apple_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:beliy_naliv_apple_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:beliy_naliv_apple_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:beech_hanging_sign": {
+    "result": "productivetrees:beech_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:beech_planks",
+      "productivetrees:beech_planks",
+      "productivetrees:beech_planks",
+      "productivetrees:beech_planks",
+      "productivetrees:beech_planks",
+      "productivetrees:beech_planks"
+    ]
+  },
+  "productivetrees:beliy_naliv_apple_hanging_sign": {
+    "result": "productivetrees:beliy_naliv_apple_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:beliy_naliv_apple_planks",
+      "productivetrees:beliy_naliv_apple_planks",
+      "productivetrees:beliy_naliv_apple_planks",
+      "productivetrees:beliy_naliv_apple_planks",
+      "productivetrees:beliy_naliv_apple_planks",
+      "productivetrees:beliy_naliv_apple_planks"
+    ]
+  },
+  "productivetrees:beech_planks": {
+    "result": "productivetrees:beech_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:beliy_naliv_apple_planks": {
+    "result": "productivetrees:beliy_naliv_apple_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:beech_pressure_plate": {
+    "result": "productivetrees:beech_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:beech_planks",
+      "productivetrees:beech_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:beliy_naliv_apple_pressure_plate": {
+    "result": "productivetrees:beliy_naliv_apple_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:beliy_naliv_apple_planks",
+      "productivetrees:beliy_naliv_apple_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:beech_sign": {
+    "result": "productivetrees:beech_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:beech_planks",
+      "productivetrees:beech_planks",
+      "productivetrees:beech_planks",
+      "productivetrees:beech_planks",
+      "productivetrees:beech_planks",
+      "productivetrees:beech_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:beliy_naliv_apple_sign": {
+    "result": "productivetrees:beliy_naliv_apple_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:beliy_naliv_apple_planks",
+      "productivetrees:beliy_naliv_apple_planks",
+      "productivetrees:beliy_naliv_apple_planks",
+      "productivetrees:beliy_naliv_apple_planks",
+      "productivetrees:beliy_naliv_apple_planks",
+      "productivetrees:beliy_naliv_apple_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:beech_slab": {
+    "result": "productivetrees:beech_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:beech_planks",
+      "productivetrees:beech_planks",
+      "productivetrees:beech_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:beliy_naliv_apple_slab": {
+    "result": "productivetrees:beliy_naliv_apple_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:beliy_naliv_apple_planks",
+      "productivetrees:beliy_naliv_apple_planks",
+      "productivetrees:beliy_naliv_apple_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:beech_stairs": {
+    "result": "productivetrees:beech_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:beech_planks",
+      "",
+      "",
+      "productivetrees:beech_planks",
+      "productivetrees:beech_planks",
+      "",
+      "productivetrees:beech_planks",
+      "productivetrees:beech_planks",
+      "productivetrees:beech_planks"
+    ]
+  },
+  "productivetrees:beliy_naliv_apple_stairs": {
+    "result": "productivetrees:beliy_naliv_apple_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:beliy_naliv_apple_planks",
+      "",
+      "",
+      "productivetrees:beliy_naliv_apple_planks",
+      "productivetrees:beliy_naliv_apple_planks",
+      "",
+      "productivetrees:beliy_naliv_apple_planks",
+      "productivetrees:beliy_naliv_apple_planks",
+      "productivetrees:beliy_naliv_apple_planks"
+    ]
+  },
+  "productivetrees:beech_trapdoor": {
+    "result": "productivetrees:beech_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:beech_planks",
+      "productivetrees:beech_planks",
+      "productivetrees:beech_planks",
+      "productivetrees:beech_planks",
+      "productivetrees:beech_planks",
+      "productivetrees:beech_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:beliy_naliv_apple_trapdoor": {
+    "result": "productivetrees:beliy_naliv_apple_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:beliy_naliv_apple_planks",
+      "productivetrees:beliy_naliv_apple_planks",
+      "productivetrees:beliy_naliv_apple_planks",
+      "productivetrees:beliy_naliv_apple_planks",
+      "productivetrees:beliy_naliv_apple_planks",
+      "productivetrees:beliy_naliv_apple_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:beech_wood": {
+    "result": "productivetrees:beech_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:beech_log",
+      "productivetrees:beech_log",
+      "",
+      "productivetrees:beech_log",
+      "productivetrees:beech_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:beliy_naliv_apple_wood": {
+    "result": "productivetrees:beliy_naliv_apple_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:beliy_naliv_apple_log",
+      "productivetrees:beliy_naliv_apple_log",
+      "",
+      "productivetrees:beliy_naliv_apple_log",
+      "productivetrees:beliy_naliv_apple_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "supplementaries:bellows": {
+    "result": "supplementaries:bellows",
+    "count": 1,
+    "ingredients": [
+      "minecraft:wooden_slabs",
+      "minecraft:wooden_slabs",
+      "minecraft:wooden_slabs",
+      "minecraft:leather",
+      "",
+      "minecraft:leather",
+      "minecraft:wooden_slabs",
+      "minecraft:wooden_slabs",
+      "minecraft:wooden_slabs"
+    ]
+  },
+  "minecraft:bee_nest": {
+    "result": "minecraft:bee_nest",
+    "count": 1,
+    "ingredients": [
+      "the_bumblezone:beehive_beeswax",
+      "the_bumblezone:beehive_beeswax",
+      "the_bumblezone:beehive_beeswax",
+      "the_bumblezone:beehive_beeswax",
+      "minecraft:honeycomb",
+      "the_bumblezone:beehive_beeswax",
+      "the_bumblezone:beehive_beeswax",
+      "the_bumblezone:beehive_beeswax",
+      "the_bumblezone:beehive_beeswax"
+    ]
+  },
+  "the_bumblezone:bee_cannon": {
+    "result": "the_bumblezone:bee_cannon",
+    "count": 1,
+    "ingredients": [
+      "the_bumblezone:sugar_infused_stone",
+      "",
+      "the_bumblezone:sugar_infused_stone",
+      "the_bumblezone:sugar_infused_stone",
+      "minecraft:gunpowder",
+      "the_bumblezone:sugar_infused_stone",
+      "the_bumblezone:sugar_infused_cobblestone",
+      "the_bumblezone:sugar_infused_stone",
+      "the_bumblezone:sugar_infused_cobblestone"
+    ]
+  },
+  "the_bumblezone:bee_soup": {
+    "result": "the_bumblezone:bee_soup",
+    "count": 1,
+    "ingredients": [
+      "the_bumblezone:bee_bread",
+      "minecraft:bowl",
+      "minecraft:beetroot",
+      "minecraft:potato",
+      "minecraft:honeycomb",
+      "minecraft:honeycomb",
+      "the_bumblezone:bee_stinger",
+      "",
+      ""
+    ]
+  },
+  "toolbelt:belt": {
+    "result": "toolbelt:belt",
+    "count": 1,
+    "ingredients": [
+      "minecraft:string",
+      "minecraft:leather",
+      "minecraft:string",
+      "minecraft:leather",
+      "",
+      "minecraft:leather",
+      "minecraft:leather",
+      "minecraft:iron_ingot",
+      "minecraft:leather"
+    ]
+  },
+  "twilightforest:berry_medley": {
+    "result": "twilightforest:berry_medley",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bowl",
+      "twilightforest:raspberry",
+      "twilightforest:blueberry",
+      "twilightforest:blackberry",
+      "twilightforest:maloberry",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

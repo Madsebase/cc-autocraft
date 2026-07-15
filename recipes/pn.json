@@ -1,0 +1,137 @@
+{
+  "pneumaticcraft:pneumatic_boots": {
+    "result": "pneumaticcraft:pneumatic_boots",
+    "count": 1,
+    "ingredients": [
+      "pneumaticcraft:air_canister",
+      "pneumaticcraft:printed_circuit_board",
+      "pneumaticcraft:air_canister",
+      "pneumaticcraft:air_canister",
+      "pneumaticcraft:compressed_iron_boots",
+      "pneumaticcraft:air_canister",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pneumaticcraft:pneumatic_chestplate": {
+    "result": "pneumaticcraft:pneumatic_chestplate",
+    "count": 1,
+    "ingredients": [
+      "pneumaticcraft:air_canister",
+      "pneumaticcraft:printed_circuit_board",
+      "pneumaticcraft:air_canister",
+      "pneumaticcraft:air_canister",
+      "pneumaticcraft:compressed_iron_chestplate",
+      "pneumaticcraft:air_canister",
+      "pneumaticcraft:air_canister",
+      "pneumaticcraft:air_canister",
+      "pneumaticcraft:air_canister"
+    ]
+  },
+  "pneumaticcraft:pneumatic_cylinder": {
+    "result": "pneumaticcraft:pneumatic_cylinder",
+    "count": 2,
+    "ingredients": [
+      "minecraft:plastic_sheets",
+      "minecraft:iron_ingot",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:iron_ingot",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "pneumaticcraft:cannon_barrel",
+      "minecraft:plastic_sheets"
+    ]
+  },
+  "pneumaticcraft:pneumatic_door": {
+    "result": "pneumaticcraft:pneumatic_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      ""
+    ]
+  },
+  "pneumaticcraft:pneumatic_door_base": {
+    "result": "pneumaticcraft:pneumatic_door_base",
+    "count": 1,
+    "ingredients": [
+      "",
+      "pneumaticcraft:pneumatic_cylinder",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "pneumaticcraft:pressure_tube",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "pneumaticcraft:pneumatic_dynamo": {
+    "result": "pneumaticcraft:pneumatic_dynamo",
+    "count": 1,
+    "ingredients": [
+      "",
+      "pneumaticcraft:advanced_pressure_tube",
+      "",
+      "pneumaticcraft:compressed_iron_gear",
+      "minecraft:iron_ingot",
+      "pneumaticcraft:compressed_iron_gear",
+      "minecraft:iron_ingot",
+      "pneumaticcraft:printed_circuit_board",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "pneumaticcraft:pneumatic_helmet": {
+    "result": "pneumaticcraft:pneumatic_helmet",
+    "count": 1,
+    "ingredients": [
+      "pneumaticcraft:air_canister",
+      "pneumaticcraft:printed_circuit_board",
+      "pneumaticcraft:air_canister",
+      "pneumaticcraft:air_canister",
+      "pneumaticcraft:compressed_iron_helmet",
+      "pneumaticcraft:air_canister",
+      "pneumaticcraft:air_canister",
+      "pneumaticcraft:air_canister",
+      "pneumaticcraft:air_canister"
+    ]
+  },
+  "pneumaticcraft:pneumatic_leggings": {
+    "result": "pneumaticcraft:pneumatic_leggings",
+    "count": 1,
+    "ingredients": [
+      "pneumaticcraft:air_canister",
+      "pneumaticcraft:printed_circuit_board",
+      "pneumaticcraft:air_canister",
+      "pneumaticcraft:air_canister",
+      "pneumaticcraft:compressed_iron_leggings",
+      "pneumaticcraft:air_canister",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "pneumaticcraft:pneumatic_wrench": {
+    "result": "pneumaticcraft:pneumatic_wrench",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:orange",
+      "minecraft:iron_ingot",
+      "pneumaticcraft:air_canister",
+      "",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:lever",
+      "minecraft:iron_ingot"
+    ]
+  }
+}

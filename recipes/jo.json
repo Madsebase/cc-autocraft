@@ -1,0 +1,257 @@
+{
+  "regions_unexplored:joshua_beard": {
+    "result": "regions_unexplored:joshua_beard",
+    "count": 2,
+    "ingredients": [
+      "regions_unexplored:joshua_log",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:joshua_boat": {
+    "result": "regions_unexplored:joshua_boat",
+    "count": 1,
+    "ingredients": [
+      "regions_unexplored:joshua_planks",
+      "",
+      "regions_unexplored:joshua_planks",
+      "regions_unexplored:joshua_planks",
+      "regions_unexplored:joshua_planks",
+      "regions_unexplored:joshua_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:joshua_button": {
+    "result": "regions_unexplored:joshua_button",
+    "count": 1,
+    "ingredients": [
+      "regions_unexplored:joshua_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:joshua_chest_boat": {
+    "result": "regions_unexplored:joshua_chest_boat",
+    "count": 1,
+    "ingredients": [
+      "minecraft:chest",
+      "regions_unexplored:joshua_boat",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:joshua_door": {
+    "result": "regions_unexplored:joshua_door",
+    "count": 3,
+    "ingredients": [
+      "regions_unexplored:joshua_planks",
+      "regions_unexplored:joshua_planks",
+      "",
+      "regions_unexplored:joshua_planks",
+      "regions_unexplored:joshua_planks",
+      "",
+      "regions_unexplored:joshua_planks",
+      "regions_unexplored:joshua_planks",
+      ""
+    ]
+  },
+  "regions_unexplored:joshua_fence": {
+    "result": "regions_unexplored:joshua_fence",
+    "count": 3,
+    "ingredients": [
+      "regions_unexplored:joshua_planks",
+      "minecraft:stick",
+      "regions_unexplored:joshua_planks",
+      "regions_unexplored:joshua_planks",
+      "minecraft:stick",
+      "regions_unexplored:joshua_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:joshua_fence_gate": {
+    "result": "regions_unexplored:joshua_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "regions_unexplored:joshua_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "regions_unexplored:joshua_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:joshua_hanging_sign": {
+    "result": "regions_unexplored:joshua_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "regions_unexplored:stripped_joshua_log",
+      "regions_unexplored:stripped_joshua_log",
+      "regions_unexplored:stripped_joshua_log",
+      "regions_unexplored:stripped_joshua_log",
+      "regions_unexplored:stripped_joshua_log",
+      "regions_unexplored:stripped_joshua_log"
+    ]
+  },
+  "regions_unexplored:joshua_planks": {
+    "result": "regions_unexplored:joshua_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:joshua_pressure_plate": {
+    "result": "regions_unexplored:joshua_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "regions_unexplored:joshua_planks",
+      "regions_unexplored:joshua_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:joshua_sapling": {
+    "result": "regions_unexplored:joshua_sapling",
+    "count": 2,
+    "ingredients": [
+      "regions_unexplored:joshua_shrub",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:joshua_shrub": {
+    "result": "regions_unexplored:joshua_shrub",
+    "count": 1,
+    "ingredients": [
+      "regions_unexplored:joshua_sapling",
+      "",
+      "",
+      "regions_unexplored:joshua_sapling",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:joshua_sign": {
+    "result": "regions_unexplored:joshua_sign",
+    "count": 3,
+    "ingredients": [
+      "regions_unexplored:joshua_planks",
+      "regions_unexplored:joshua_planks",
+      "regions_unexplored:joshua_planks",
+      "regions_unexplored:joshua_planks",
+      "regions_unexplored:joshua_planks",
+      "regions_unexplored:joshua_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "regions_unexplored:joshua_slab": {
+    "result": "regions_unexplored:joshua_slab",
+    "count": 6,
+    "ingredients": [
+      "regions_unexplored:joshua_planks",
+      "regions_unexplored:joshua_planks",
+      "regions_unexplored:joshua_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:joshua_stairs": {
+    "result": "regions_unexplored:joshua_stairs",
+    "count": 4,
+    "ingredients": [
+      "regions_unexplored:joshua_planks",
+      "",
+      "",
+      "regions_unexplored:joshua_planks",
+      "regions_unexplored:joshua_planks",
+      "",
+      "regions_unexplored:joshua_planks",
+      "regions_unexplored:joshua_planks",
+      "regions_unexplored:joshua_planks"
+    ]
+  },
+  "regions_unexplored:joshua_trapdoor": {
+    "result": "regions_unexplored:joshua_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "regions_unexplored:joshua_planks",
+      "regions_unexplored:joshua_planks",
+      "regions_unexplored:joshua_planks",
+      "regions_unexplored:joshua_planks",
+      "regions_unexplored:joshua_planks",
+      "regions_unexplored:joshua_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:joshua_wood": {
+    "result": "regions_unexplored:joshua_wood",
+    "count": 3,
+    "ingredients": [
+      "regions_unexplored:joshua_log",
+      "regions_unexplored:joshua_log",
+      "",
+      "regions_unexplored:joshua_log",
+      "regions_unexplored:joshua_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

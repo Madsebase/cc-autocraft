@@ -1,0 +1,257 @@
+{
+  "bigreactors:wrench": {
+    "result": "bigreactors:wrench",
+    "count": 1,
+    "ingredients": [
+      "minecraft:green",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:white_wool",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:white_wool",
+      ""
+    ]
+  },
+  "biomeswevegone:wreath": {
+    "result": "biomeswevegone:wreath",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:leaves",
+      "",
+      "minecraft:leaves",
+      "",
+      "minecraft:leaves",
+      "",
+      "minecraft:leaves",
+      ""
+    ]
+  },
+  "create:wrench": {
+    "result": "create:wrench",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold",
+      "minecraft:gold",
+      "",
+      "minecraft:gold",
+      "create:cogwheel",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "integrateddynamics:wrench": {
+    "result": "integrateddynamics:wrench",
+    "count": 1,
+    "ingredients": [
+      "",
+      "integrateddynamics:crystalized_menril_chunk",
+      "minecraft:redstone",
+      "",
+      "integrateddynamics:crystalized_menril_chunk",
+      "integrateddynamics:crystalized_menril_chunk",
+      "integrateddynamics:crystalized_menril_chunk",
+      "",
+      ""
+    ]
+  },
+  "mcwholidays:wreath_wall_deco_1": {
+    "result": "mcwholidays:wreath_wall_deco_1",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:green_dye",
+      "",
+      "minecraft:green_dye",
+      "minecraft:paper",
+      "minecraft:green_dye",
+      "",
+      "minecraft:green_dye",
+      ""
+    ]
+  },
+  "mcwholidays:wreath_wall_deco_2": {
+    "result": "mcwholidays:wreath_wall_deco_2",
+    "count": 1,
+    "ingredients": [
+      "mcwholidays:wreath_wall_deco_1",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:writable_book": {
+    "result": "minecraft:writable_book",
+    "count": 1,
+    "ingredients": [
+      "minecraft:book",
+      "minecraft:ink_sac",
+      "minecraft:feather",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "moderndynamics:wrench": {
+    "result": "moderndynamics:wrench",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:lapis_lazuli",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:lapis_lazuli",
+      ""
+    ]
+  },
+  "modern_industrialization:wrench": {
+    "result": "modern_industrialization:wrench",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bronze",
+      "",
+      "minecraft:bronze",
+      "minecraft:bronze",
+      "minecraft:bronze",
+      "minecraft:bronze",
+      "",
+      "minecraft:bronze",
+      ""
+    ]
+  },
+  "oritech:wrench": {
+    "result": "oritech:wrench",
+    "count": 1,
+    "ingredients": [
+      "",
+      "modern_industrialization:steel_ingot",
+      "",
+      "",
+      "minecraft:nickel",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "",
+      ""
+    ]
+  },
+  "pipez:wrench": {
+    "result": "pipez:wrench",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:flint",
+      "",
+      "",
+      "minecraft:rods",
+      "minecraft:flint",
+      "minecraft:rods",
+      "",
+      ""
+    ]
+  },
+  "powah:wrench": {
+    "result": "powah:wrench",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:iron_ingot",
+      "powah:dielectric_paste",
+      "",
+      "powah:dielectric_paste",
+      "minecraft:iron_ingot",
+      "powah:dielectric_paste",
+      "",
+      ""
+    ]
+  },
+  "refinedstorage:wrench": {
+    "result": "refinedstorage:wrench",
+    "count": 1,
+    "ingredients": [
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:basic_processor",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:quartz_enriched_iron",
+      "",
+      "refinedstorage:quartz_enriched_iron",
+      ""
+    ]
+  },
+  "refurbished_furniture:wrench": {
+    "result": "refurbished_furniture:wrench",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:string",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:leather",
+      "minecraft:string",
+      ""
+    ]
+  },
+  "reliquary:wraith_node": {
+    "result": "reliquary:wraith_node",
+    "count": 1,
+    "ingredients": [
+      "reliquary:nebulous_heart",
+      "minecraft:emerald",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "supplementaries:wrench": {
+    "result": "supplementaries:wrench",
+    "count": 1,
+    "ingredients": [
+      "minecraft:copper_ingot",
+      "",
+      "minecraft:copper_ingot",
+      "",
+      "minecraft:copper_ingot",
+      "",
+      "",
+      "minecraft:copper_ingot",
+      ""
+    ]
+  },
+  "twilightforest:wrought_iron_fence": {
+    "result": "twilightforest:wrought_iron_fence",
+    "count": 3,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      ""
+    ]
+  }
+}

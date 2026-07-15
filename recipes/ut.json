@@ -1,0 +1,197 @@
+{
+  "forbidden_arcanus:utrem_jar": {
+    "result": "forbidden_arcanus:utrem_jar",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glass",
+      "forbidden_arcanus:edelwood_planks",
+      "minecraft:glass",
+      "minecraft:glass",
+      "",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass"
+    ]
+  },
+  "undergarden:utheric_cluster": {
+    "result": "undergarden:utheric_cluster",
+    "count": 1,
+    "ingredients": [
+      "undergarden:utheric_shard",
+      "undergarden:utheric_shard",
+      "undergarden:utheric_shard",
+      "undergarden:utheric_shard",
+      "undergarden:utheric_shard",
+      "undergarden:utheric_shard",
+      "undergarden:utheric_shard",
+      "undergarden:utheric_shard",
+      "undergarden:utheric_shard"
+    ]
+  },
+  "undergarden:utherium_axe": {
+    "result": "undergarden:utherium_axe",
+    "count": 1,
+    "ingredients": [
+      "undergarden:utherium_crystal",
+      "undergarden:utherium_crystal",
+      "",
+      "undergarden:utherium_crystal",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "undergarden:utherium_block": {
+    "result": "undergarden:utherium_block",
+    "count": 1,
+    "ingredients": [
+      "undergarden:utherium_crystal",
+      "undergarden:utherium_crystal",
+      "undergarden:utherium_crystal",
+      "undergarden:utherium_crystal",
+      "undergarden:utherium_crystal",
+      "undergarden:utherium_crystal",
+      "undergarden:utherium_crystal",
+      "undergarden:utherium_crystal",
+      "undergarden:utherium_crystal"
+    ]
+  },
+  "undergarden:utherium_crystal": {
+    "result": "undergarden:utherium_crystal",
+    "count": 9,
+    "ingredients": [
+      "undergarden:utherium_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:utherium_boots": {
+    "result": "undergarden:utherium_boots",
+    "count": 1,
+    "ingredients": [
+      "undergarden:utherium_crystal",
+      "",
+      "undergarden:utherium_crystal",
+      "undergarden:utherium_crystal",
+      "",
+      "undergarden:utherium_crystal",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:utherium_chestplate": {
+    "result": "undergarden:utherium_chestplate",
+    "count": 1,
+    "ingredients": [
+      "undergarden:utherium_crystal",
+      "",
+      "undergarden:utherium_crystal",
+      "undergarden:utherium_crystal",
+      "undergarden:utherium_crystal",
+      "undergarden:utherium_crystal",
+      "undergarden:utherium_crystal",
+      "undergarden:utherium_crystal",
+      "undergarden:utherium_crystal"
+    ]
+  },
+  "undergarden:utherium_helmet": {
+    "result": "undergarden:utherium_helmet",
+    "count": 1,
+    "ingredients": [
+      "undergarden:utherium_crystal",
+      "undergarden:utherium_crystal",
+      "undergarden:utherium_crystal",
+      "undergarden:utherium_crystal",
+      "",
+      "undergarden:utherium_crystal",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:utherium_hoe": {
+    "result": "undergarden:utherium_hoe",
+    "count": 1,
+    "ingredients": [
+      "undergarden:utherium_crystal",
+      "undergarden:utherium_crystal",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "undergarden:utherium_leggings": {
+    "result": "undergarden:utherium_leggings",
+    "count": 1,
+    "ingredients": [
+      "undergarden:utherium_crystal",
+      "undergarden:utherium_crystal",
+      "undergarden:utherium_crystal",
+      "undergarden:utherium_crystal",
+      "",
+      "undergarden:utherium_crystal",
+      "undergarden:utherium_crystal",
+      "",
+      "undergarden:utherium_crystal"
+    ]
+  },
+  "undergarden:utherium_pickaxe": {
+    "result": "undergarden:utherium_pickaxe",
+    "count": 1,
+    "ingredients": [
+      "undergarden:utherium_crystal",
+      "undergarden:utherium_crystal",
+      "undergarden:utherium_crystal",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "undergarden:utherium_shovel": {
+    "result": "undergarden:utherium_shovel",
+    "count": 1,
+    "ingredients": [
+      "undergarden:utherium_crystal",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "undergarden:utherium_sword": {
+    "result": "undergarden:utherium_sword",
+    "count": 1,
+    "ingredients": [
+      "undergarden:utherium_crystal",
+      "",
+      "",
+      "undergarden:utherium_crystal",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  }
+}

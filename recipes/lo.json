@@ -1,0 +1,1037 @@
+{
+  "actuallyadditions:long_range_breaker": {
+    "result": "actuallyadditions:long_range_breaker",
+    "count": 1,
+    "ingredients": [
+      "actuallyadditions:breaker",
+      "actuallyadditions:breaker",
+      "actuallyadditions:breaker",
+      "",
+      "actuallyadditions:void_crystal",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:loom": {
+    "result": "minecraft:loom",
+    "count": 1,
+    "ingredients": [
+      "minecraft:string",
+      "minecraft:string",
+      "",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:lock_and_key": {
+    "result": "bibliocraft:lock_and_key",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold",
+      "minecraft:gold_ingot",
+      "",
+      "minecraft:gold",
+      "minecraft:gold_ingot",
+      "",
+      "",
+      "minecraft:gold_ingot",
+      ""
+    ]
+  },
+  "crafting_on_a_stick:loom": {
+    "result": "crafting_on_a_stick:loom",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:loom",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ftbquests:loot_crate_opener": {
+    "result": "ftbquests:loot_crate_opener",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "minecraft:stone_pickaxe",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "book",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks"
+    ]
+  },
+  "hostilenetworks:loot_fabricator": {
+    "result": "hostilenetworks:loot_fabricator",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:netherite",
+      "",
+      "minecraft:diamond",
+      "minecraft:obsidians",
+      "minecraft:diamond",
+      "minecraft:gold_ingot",
+      "minecraft:comparator",
+      "minecraft:gold_ingot"
+    ]
+  },
+  "immersiveengineering:logic_unit": {
+    "result": "immersiveengineering:logic_unit",
+    "count": 1,
+    "ingredients": [
+      "",
+      "immersiveengineering:electron_tube",
+      "",
+      "immersiveengineering:electron_tube",
+      "immersiveengineering:basic_engineering",
+      "immersiveengineering:electron_tube",
+      "",
+      "immersiveengineering:electron_tube",
+      ""
+    ]
+  },
+  "integrateddynamics:logic_director": {
+    "result": "integrateddynamics:logic_director",
+    "count": 4,
+    "ingredients": [
+      "integrateddynamics:crystalized_chorus_chunk",
+      "integrateddynamics:crystalized_menril_chunk",
+      "integrateddynamics:crystalized_chorus_chunk",
+      "integrateddynamics:crystalized_chorus_chunk",
+      "minecraft:diamond",
+      "integrateddynamics:crystalized_chorus_chunk",
+      "integrateddynamics:crystalized_chorus_chunk",
+      "integrateddynamics:crystalized_menril_chunk",
+      "integrateddynamics:crystalized_chorus_chunk"
+    ]
+  },
+  "integrateddynamics:logic_programmer": {
+    "result": "integrateddynamics:logic_programmer",
+    "count": 1,
+    "ingredients": [
+      "integrateddynamics:portable_logic_programmer",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "laserio:logic_chip_raw": {
+    "result": "laserio:logic_chip_raw",
+    "count": 4,
+    "ingredients": [
+      "minecraft:redstone",
+      "minecraft:gold",
+      "minecraft:redstone",
+      "minecraft:clay_ball",
+      "minecraft:quartz_block",
+      "minecraft:clay_ball",
+      "minecraft:redstone",
+      "minecraft:gold",
+      "minecraft:redstone"
+    ]
+  },
+  "mekanism:logistical_sorter": {
+    "result": "mekanism:logistical_sorter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:piston",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:basic",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "minecraft:lodestone": {
+    "result": "minecraft:lodestone",
+    "count": 1,
+    "ingredients": [
+      "minecraft:chiseled_stone_bricks",
+      "minecraft:chiseled_stone_bricks",
+      "minecraft:chiseled_stone_bricks",
+      "minecraft:chiseled_stone_bricks",
+      "minecraft:netherite_ingot",
+      "minecraft:chiseled_stone_bricks",
+      "minecraft:chiseled_stone_bricks",
+      "minecraft:chiseled_stone_bricks",
+      "minecraft:chiseled_stone_bricks"
+    ]
+  },
+  "chipped:loom_table": {
+    "result": "chipped:loom_table",
+    "count": 1,
+    "ingredients": [
+      "minecraft:white_wool",
+      "minecraft:white_wool",
+      "minecraft:white_wool",
+      "minecraft:stick",
+      "minecraft:crafting_table",
+      "minecraft:stick",
+      "minecraft:oak_log",
+      "minecraft:oak_log",
+      "minecraft:oak_log"
+    ]
+  },
+  "ae2:logic_processor_press": {
+    "result": "ae2:logic_processor_press",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:certus_quartz_essence",
+      "mysticalagriculture:certus_quartz_essence",
+      "mysticalagriculture:certus_quartz_essence",
+      "mysticalagriculture:certus_quartz_essence",
+      "minecraft:gold_ingot",
+      "mysticalagriculture:certus_quartz_essence",
+      "mysticalagriculture:certus_quartz_essence",
+      "mysticalagriculture:certus_quartz_essence",
+      "mysticalagriculture:certus_quartz_essence"
+    ]
+  },
+  "naturesaura:loot_finder": {
+    "result": "naturesaura:loot_finder",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:diamond",
+      "naturesaura:token_euphoria",
+      "minecraft:gold_ingot",
+      "naturesaura:ancient_stick",
+      "minecraft:diamond",
+      "naturesaura:ancient_stick",
+      "minecraft:gold_ingot",
+      ""
+    ]
+  },
+  "naturesaura:lower_limiter": {
+    "result": "naturesaura:lower_limiter",
+    "count": 1,
+    "ingredients": [
+      "naturesaura:infused_stone",
+      "naturesaura:token_euphoria",
+      "naturesaura:infused_stone",
+      "naturesaura:token_terror",
+      "naturesaura:vacuum_bottle",
+      "naturesaura:token_rage",
+      "naturesaura:infused_stone",
+      "naturesaura:token_grief",
+      "naturesaura:infused_stone"
+    ]
+  },
+  "oritech:low_yield_nuke": {
+    "result": "oritech:low_yield_nuke",
+    "count": 1,
+    "ingredients": [
+      "oritech:uranium_pellet",
+      "oritech:dubios_container",
+      "oritech:uranium_pellet",
+      "oritech:dubios_container",
+      "minecraft:tnt",
+      "oritech:dubios_container",
+      "oritech:uranium_pellet",
+      "oritech:dubios_container",
+      "oritech:uranium_pellet"
+    ]
+  },
+  "pamhc2crops:lotusseeditem": {
+    "result": "pamhc2crops:lotusseeditem",
+    "count": 1,
+    "ingredients": [
+      "pamhc2crops:lotusitem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:loadedbakedpotatoitem": {
+    "result": "pamhc2foodextended:loadedbakedpotatoitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:baked_potato",
+      "minecraft:cookedpork",
+      "minecraft:cheese",
+      "minecraft:onions",
+      "minecraft:cream",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:loxbagelsandwichitem": {
+    "result": "pamhc2foodextended:loxbagelsandwichitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:rawfish",
+      "minecraft:toast",
+      "minecraft:cream",
+      "minecraft:scallion",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pneumaticcraft:logistics_configurator": {
+    "result": "pneumaticcraft:logistics_configurator",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:red",
+      "minecraft:iron_ingot",
+      "pneumaticcraft:air_canister",
+      "",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:lever",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "pneumaticcraft:logistics_core": {
+    "result": "pneumaticcraft:logistics_core",
+    "count": 2,
+    "ingredients": [
+      "pneumaticcraft:reinforced_brick_tile",
+      "pneumaticcraft:reinforced_brick_tile",
+      "pneumaticcraft:reinforced_brick_tile",
+      "pneumaticcraft:reinforced_brick_tile",
+      "minecraft:redstone",
+      "pneumaticcraft:reinforced_brick_tile",
+      "pneumaticcraft:reinforced_brick_tile",
+      "pneumaticcraft:reinforced_brick_tile",
+      "pneumaticcraft:reinforced_brick_tile"
+    ]
+  },
+  "pneumaticcraft:logistics_drone": {
+    "result": "pneumaticcraft:logistics_drone",
+    "count": 1,
+    "ingredients": [
+      "",
+      "pneumaticcraft:turbine_rotor",
+      "",
+      "pneumaticcraft:turbine_rotor",
+      "pneumaticcraft:logistics_core",
+      "pneumaticcraft:turbine_rotor",
+      "",
+      "pneumaticcraft:turbine_rotor",
+      ""
+    ]
+  },
+  "pneumaticcraft:logistics_frame_active_provider": {
+    "result": "pneumaticcraft:logistics_frame_active_provider",
+    "count": 1,
+    "ingredients": [
+      "pneumaticcraft:logistics_frame_active_provider",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pneumaticcraft:logistics_frame_default_storage": {
+    "result": "pneumaticcraft:logistics_frame_default_storage",
+    "count": 1,
+    "ingredients": [
+      "pneumaticcraft:logistics_frame_default_storage",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pneumaticcraft:logistics_frame_passive_provider": {
+    "result": "pneumaticcraft:logistics_frame_passive_provider",
+    "count": 1,
+    "ingredients": [
+      "pneumaticcraft:logistics_frame_passive_provider",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pneumaticcraft:logistics_frame_requester": {
+    "result": "pneumaticcraft:logistics_frame_requester",
+    "count": 1,
+    "ingredients": [
+      "pneumaticcraft:logistics_frame_requester",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pneumaticcraft:logistics_frame_storage": {
+    "result": "pneumaticcraft:logistics_frame_storage",
+    "count": 1,
+    "ingredients": [
+      "pneumaticcraft:logistics_frame_storage",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pneumaticcraft:logistics_module": {
+    "result": "pneumaticcraft:logistics_module",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:redstone",
+      "",
+      "minecraft:redstone",
+      "pneumaticcraft:logistics_core",
+      "minecraft:redstone",
+      "pneumaticcraft:pressure_tube",
+      "minecraft:redstone",
+      "pneumaticcraft:pressure_tube"
+    ]
+  },
+  "productivetrees:loblolly_pine_bookshelf": {
+    "result": "productivetrees:loblolly_pine_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:loblolly_pine_planks",
+      "productivetrees:loblolly_pine_planks",
+      "productivetrees:loblolly_pine_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:loblolly_pine_planks",
+      "productivetrees:loblolly_pine_planks",
+      "productivetrees:loblolly_pine_planks"
+    ]
+  },
+  "productivetrees:logwood_bookshelf": {
+    "result": "productivetrees:logwood_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:logwood_planks",
+      "productivetrees:logwood_planks",
+      "productivetrees:logwood_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:logwood_planks",
+      "productivetrees:logwood_planks",
+      "productivetrees:logwood_planks"
+    ]
+  },
+  "productivetrees:loblolly_pine_button": {
+    "result": "productivetrees:loblolly_pine_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:loblolly_pine_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:logwood_button": {
+    "result": "productivetrees:logwood_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:logwood_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:loblolly_pine_door": {
+    "result": "productivetrees:loblolly_pine_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:loblolly_pine_planks",
+      "productivetrees:loblolly_pine_planks",
+      "",
+      "productivetrees:loblolly_pine_planks",
+      "productivetrees:loblolly_pine_planks",
+      "",
+      "productivetrees:loblolly_pine_planks",
+      "productivetrees:loblolly_pine_planks",
+      ""
+    ]
+  },
+  "productivetrees:logwood_door": {
+    "result": "productivetrees:logwood_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:logwood_planks",
+      "productivetrees:logwood_planks",
+      "",
+      "productivetrees:logwood_planks",
+      "productivetrees:logwood_planks",
+      "",
+      "productivetrees:logwood_planks",
+      "productivetrees:logwood_planks",
+      ""
+    ]
+  },
+  "productivetrees:loblolly_pine_fence": {
+    "result": "productivetrees:loblolly_pine_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:loblolly_pine_planks",
+      "minecraft:stick",
+      "productivetrees:loblolly_pine_planks",
+      "productivetrees:loblolly_pine_planks",
+      "minecraft:stick",
+      "productivetrees:loblolly_pine_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:logwood_fence": {
+    "result": "productivetrees:logwood_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:logwood_planks",
+      "minecraft:stick",
+      "productivetrees:logwood_planks",
+      "productivetrees:logwood_planks",
+      "minecraft:stick",
+      "productivetrees:logwood_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:loblolly_pine_fence_gate": {
+    "result": "productivetrees:loblolly_pine_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:loblolly_pine_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:loblolly_pine_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:logwood_fence_gate": {
+    "result": "productivetrees:logwood_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:logwood_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:logwood_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:loblolly_pine_hanging_sign": {
+    "result": "productivetrees:loblolly_pine_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:loblolly_pine_planks",
+      "productivetrees:loblolly_pine_planks",
+      "productivetrees:loblolly_pine_planks",
+      "productivetrees:loblolly_pine_planks",
+      "productivetrees:loblolly_pine_planks",
+      "productivetrees:loblolly_pine_planks"
+    ]
+  },
+  "productivetrees:logwood_hanging_sign": {
+    "result": "productivetrees:logwood_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:logwood_planks",
+      "productivetrees:logwood_planks",
+      "productivetrees:logwood_planks",
+      "productivetrees:logwood_planks",
+      "productivetrees:logwood_planks",
+      "productivetrees:logwood_planks"
+    ]
+  },
+  "productivetrees:loblolly_pine_planks": {
+    "result": "productivetrees:loblolly_pine_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:logwood_planks": {
+    "result": "productivetrees:logwood_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:loblolly_pine_pressure_plate": {
+    "result": "productivetrees:loblolly_pine_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:loblolly_pine_planks",
+      "productivetrees:loblolly_pine_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:logwood_pressure_plate": {
+    "result": "productivetrees:logwood_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:logwood_planks",
+      "productivetrees:logwood_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:loblolly_pine_sign": {
+    "result": "productivetrees:loblolly_pine_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:loblolly_pine_planks",
+      "productivetrees:loblolly_pine_planks",
+      "productivetrees:loblolly_pine_planks",
+      "productivetrees:loblolly_pine_planks",
+      "productivetrees:loblolly_pine_planks",
+      "productivetrees:loblolly_pine_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:logwood_sign": {
+    "result": "productivetrees:logwood_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:logwood_planks",
+      "productivetrees:logwood_planks",
+      "productivetrees:logwood_planks",
+      "productivetrees:logwood_planks",
+      "productivetrees:logwood_planks",
+      "productivetrees:logwood_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:loblolly_pine_slab": {
+    "result": "productivetrees:loblolly_pine_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:loblolly_pine_planks",
+      "productivetrees:loblolly_pine_planks",
+      "productivetrees:loblolly_pine_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:logwood_slab": {
+    "result": "productivetrees:logwood_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:logwood_planks",
+      "productivetrees:logwood_planks",
+      "productivetrees:logwood_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:loblolly_pine_stairs": {
+    "result": "productivetrees:loblolly_pine_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:loblolly_pine_planks",
+      "",
+      "",
+      "productivetrees:loblolly_pine_planks",
+      "productivetrees:loblolly_pine_planks",
+      "",
+      "productivetrees:loblolly_pine_planks",
+      "productivetrees:loblolly_pine_planks",
+      "productivetrees:loblolly_pine_planks"
+    ]
+  },
+  "productivetrees:logwood_stairs": {
+    "result": "productivetrees:logwood_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:logwood_planks",
+      "",
+      "",
+      "productivetrees:logwood_planks",
+      "productivetrees:logwood_planks",
+      "",
+      "productivetrees:logwood_planks",
+      "productivetrees:logwood_planks",
+      "productivetrees:logwood_planks"
+    ]
+  },
+  "productivetrees:loblolly_pine_trapdoor": {
+    "result": "productivetrees:loblolly_pine_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:loblolly_pine_planks",
+      "productivetrees:loblolly_pine_planks",
+      "productivetrees:loblolly_pine_planks",
+      "productivetrees:loblolly_pine_planks",
+      "productivetrees:loblolly_pine_planks",
+      "productivetrees:loblolly_pine_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:logwood_trapdoor": {
+    "result": "productivetrees:logwood_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:logwood_planks",
+      "productivetrees:logwood_planks",
+      "productivetrees:logwood_planks",
+      "productivetrees:logwood_planks",
+      "productivetrees:logwood_planks",
+      "productivetrees:logwood_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:loblolly_pine_wood": {
+    "result": "productivetrees:loblolly_pine_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:loblolly_pine_log",
+      "productivetrees:loblolly_pine_log",
+      "",
+      "productivetrees:loblolly_pine_log",
+      "productivetrees:loblolly_pine_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:logwood_wood": {
+    "result": "productivetrees:logwood_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:logwood_log",
+      "productivetrees:logwood_log",
+      "",
+      "productivetrees:logwood_log",
+      "productivetrees:logwood_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:locking_track_kit": {
+    "result": "railcraft:locking_track_kit",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "railcraft:track_parts",
+      "minecraft:stone_pressure_plate",
+      "minecraft:sticky_piston",
+      "minecraft:redstone",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:locomotive_detector": {
+    "result": "railcraft:locomotive_detector",
+    "count": 1,
+    "ingredients": [
+      "railcraft:blast_furnace_bricks",
+      "railcraft:blast_furnace_bricks",
+      "railcraft:blast_furnace_bricks",
+      "railcraft:blast_furnace_bricks",
+      "minecraft:stone_pressure_plate",
+      "railcraft:blast_furnace_bricks",
+      "railcraft:blast_furnace_bricks",
+      "railcraft:blast_furnace_bricks",
+      "railcraft:blast_furnace_bricks"
+    ]
+  },
+  "railcraft:locomotive_track_kit": {
+    "result": "railcraft:locomotive_track_kit",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "railcraft:track_parts",
+      "railcraft:signal_lamp",
+      "minecraft:redstone",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:logbook": {
+    "result": "railcraft:logbook",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:writable_book",
+      "",
+      "minecraft:gold_ingot",
+      "minecraft:red_wool",
+      "minecraft:gold_ingot",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks"
+    ]
+  },
+  "railcraft:low_pressure_steam_boiler_tank": {
+    "result": "railcraft:low_pressure_steam_boiler_tank",
+    "count": 2,
+    "ingredients": [
+      "minecraft:iron",
+      "",
+      "",
+      "minecraft:invar",
+      "",
+      "",
+      "minecraft:iron",
+      "",
+      ""
+    ]
+  },
+  "rftoolsutility:logic": {
+    "result": "rftoolsutility:logic",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "minecraft:comparator",
+      "minecraft:redstone",
+      "minecraft:comparator",
+      "rftoolsbase:machine_base",
+      "minecraft:comparator",
+      "minecraft:redstone",
+      "minecraft:comparator",
+      "minecraft:redstone"
+    ]
+  },
+  "supplementaries:lock_block": {
+    "result": "supplementaries:lock_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:oak_planks",
+      "minecraft:iron_ingot",
+      "minecraft:oak_planks",
+      "minecraft:redstone",
+      "minecraft:oak_planks",
+      "minecraft:iron_ingot",
+      "minecraft:oak_planks",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "tempad:location_card": {
+    "result": "tempad:location_card",
+    "count": 1,
+    "ingredients": [
+      "tempad:location_card",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "tempad:location_broadcaster": {
+    "result": "tempad:location_broadcaster",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:glass",
+      "",
+      "minecraft:emerald",
+      "minecraft:compass",
+      "minecraft:redstone",
+      "",
+      "minecraft:iron_ingot",
+      ""
+    ]
+  },
+  "theurgy:logistics_connector_node": {
+    "result": "theurgy:logistics_connector_node",
+    "count": 3,
+    "ingredients": [
+      "",
+      "theurgy:mercury_shard",
+      "",
+      "",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:normal",
+      "minecraft:normal",
+      "minecraft:normal"
+    ]
+  },
+  "theurgy:logistics_fluid_extractor": {
+    "result": "theurgy:logistics_fluid_extractor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:blue",
+      "",
+      "",
+      "minecraft:copper_ingot",
+      "",
+      "",
+      "theurgy:mercury_shard",
+      "",
+      ""
+    ]
+  },
+  "theurgy:logistics_fluid_inserter": {
+    "result": "theurgy:logistics_fluid_inserter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:blue",
+      "",
+      "",
+      "theurgy:mercury_shard",
+      "",
+      "",
+      "minecraft:copper_ingot",
+      "",
+      ""
+    ]
+  },
+  "theurgy:logistics_item_extractor": {
+    "result": "theurgy:logistics_item_extractor",
+    "count": 1,
+    "ingredients": [
+      "theurgy:logistics_item_inserter",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "theurgy:logistics_item_inserter": {
+    "result": "theurgy:logistics_item_inserter",
+    "count": 1,
+    "ingredients": [
+      "theurgy:logistics_item_extractor",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

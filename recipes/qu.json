@@ -1,0 +1,1472 @@
+{
+  "advanced_ae:quantum_accelerator": {
+    "result": "advanced_ae:quantum_accelerator",
+    "count": 1,
+    "ingredients": [
+      "advanced_ae:shattered_singularity",
+      "ae2:singularity",
+      "advanced_ae:shattered_singularity",
+      "ae2:singularity",
+      "advanced_ae:quantum_unit",
+      "ae2:singularity",
+      "advanced_ae:shattered_singularity",
+      "ae2:singularity",
+      "advanced_ae:shattered_singularity"
+    ]
+  },
+  "advanced_ae:quantum_unit": {
+    "result": "advanced_ae:quantum_unit",
+    "count": 1,
+    "ingredients": [
+      "ae2:crafting_unit",
+      "ae2:singularity",
+      "advanced_ae:shattered_singularity",
+      "advanced_ae:shattered_singularity",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "advanced_ae:quantum_core": {
+    "result": "advanced_ae:quantum_core",
+    "count": 1,
+    "ingredients": [
+      "ae2:singularity",
+      "advanced_ae:shattered_singularity",
+      "ae2:singularity",
+      "advanced_ae:quantum_accelerator",
+      "advanced_ae:quantum_unit",
+      "advanced_ae:quantum_storage_256",
+      "ae2:singularity",
+      "advanced_ae:shattered_singularity",
+      "ae2:singularity"
+    ]
+  },
+  "advanced_ae:quantum_crafter": {
+    "result": "advanced_ae:quantum_crafter",
+    "count": 1,
+    "ingredients": [
+      "advanced_ae:shattered_singularity",
+      "advanced_ae:quantum_accelerator",
+      "advanced_ae:shattered_singularity",
+      "ae2:cell_component_64k",
+      "advanced_ae:quantum_unit",
+      "ae2:cell_component_64k",
+      "advanced_ae:shattered_singularity",
+      "advanced_ae:quantum_accelerator",
+      "advanced_ae:shattered_singularity"
+    ]
+  },
+  "advanced_ae:quantum_multi_threader": {
+    "result": "advanced_ae:quantum_multi_threader",
+    "count": 1,
+    "ingredients": [
+      "advanced_ae:shattered_singularity",
+      "advanced_ae:shattered_singularity",
+      "advanced_ae:shattered_singularity",
+      "advanced_ae:quantum_accelerator",
+      "advanced_ae:quantum_unit",
+      "advanced_ae:quantum_accelerator",
+      "advanced_ae:quantum_accelerator",
+      "advanced_ae:quantum_core",
+      "advanced_ae:quantum_accelerator"
+    ]
+  },
+  "advanced_ae:quantum_storage_128": {
+    "result": "advanced_ae:quantum_storage_128",
+    "count": 1,
+    "ingredients": [
+      "advanced_ae:shattered_singularity",
+      "advanced_ae:quantum_storage_component",
+      "advanced_ae:shattered_singularity",
+      "advanced_ae:quantum_storage_component",
+      "advanced_ae:quantum_unit",
+      "advanced_ae:quantum_storage_component",
+      "advanced_ae:shattered_singularity",
+      "advanced_ae:quantum_storage_component",
+      "advanced_ae:shattered_singularity"
+    ]
+  },
+  "advanced_ae:quantum_storage_256": {
+    "result": "advanced_ae:quantum_storage_256",
+    "count": 1,
+    "ingredients": [
+      "advanced_ae:shattered_singularity",
+      "advanced_ae:quantum_storage_128",
+      "advanced_ae:quantum_storage_128",
+      "advanced_ae:quantum_unit",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "advanced_ae:quantum_structure": {
+    "result": "advanced_ae:quantum_structure",
+    "count": 1,
+    "ingredients": [
+      "ae2:quartz_glass",
+      "ae2:sky_stone_block",
+      "ae2:quartz_glass",
+      "ae2:sky_stone_block",
+      "",
+      "ae2:sky_stone_block",
+      "ae2:quartz_glass",
+      "ae2:sky_stone_block",
+      "ae2:quartz_glass"
+    ]
+  },
+  "advanced_ae:quantum_alloy_block": {
+    "result": "advanced_ae:quantum_alloy_block",
+    "count": 1,
+    "ingredients": [
+      "advanced_ae:quantum_alloy",
+      "advanced_ae:quantum_alloy",
+      "advanced_ae:quantum_alloy",
+      "advanced_ae:quantum_alloy",
+      "advanced_ae:quantum_alloy",
+      "advanced_ae:quantum_alloy",
+      "advanced_ae:quantum_alloy",
+      "advanced_ae:quantum_alloy",
+      "advanced_ae:quantum_alloy"
+    ]
+  },
+  "advanced_ae:quantum_alloy_slab": {
+    "result": "advanced_ae:quantum_alloy_slab",
+    "count": 6,
+    "ingredients": [
+      "advanced_ae:quantum_alloy_block",
+      "advanced_ae:quantum_alloy_block",
+      "advanced_ae:quantum_alloy_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "advanced_ae:quantum_alloy_stairs": {
+    "result": "advanced_ae:quantum_alloy_stairs",
+    "count": 4,
+    "ingredients": [
+      "advanced_ae:quantum_alloy_block",
+      "",
+      "",
+      "advanced_ae:quantum_alloy_block",
+      "advanced_ae:quantum_alloy_block",
+      "",
+      "advanced_ae:quantum_alloy_block",
+      "advanced_ae:quantum_alloy_block",
+      "advanced_ae:quantum_alloy_block"
+    ]
+  },
+  "advanced_ae:quantum_alloy_wall": {
+    "result": "advanced_ae:quantum_alloy_wall",
+    "count": 6,
+    "ingredients": [
+      "advanced_ae:quantum_alloy_block",
+      "advanced_ae:quantum_alloy_block",
+      "advanced_ae:quantum_alloy_block",
+      "advanced_ae:quantum_alloy_block",
+      "advanced_ae:quantum_alloy_block",
+      "advanced_ae:quantum_alloy_block",
+      "",
+      "",
+      ""
+    ]
+  },
+  "advanced_ae:quantum_alloy": {
+    "result": "advanced_ae:quantum_alloy",
+    "count": 9,
+    "ingredients": [
+      "advanced_ae:quantum_alloy_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "advanced_ae:quantum_upgrade_base": {
+    "result": "advanced_ae:quantum_upgrade_base",
+    "count": 1,
+    "ingredients": [
+      "",
+      "advanced_ae:quantum_processor",
+      "",
+      "advanced_ae:quantum_processor",
+      "advanced_ae:quantum_alloy_plate",
+      "advanced_ae:quantum_processor",
+      "",
+      "advanced_ae:quantum_processor",
+      ""
+    ]
+  },
+  "advanced_ae:quantum_boots": {
+    "result": "advanced_ae:quantum_boots",
+    "count": 1,
+    "ingredients": [
+      "advanced_ae:quantum_boots",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "advanced_ae:quantum_chestplate": {
+    "result": "advanced_ae:quantum_chestplate",
+    "count": 1,
+    "ingredients": [
+      "advanced_ae:quantum_chestplate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "advanced_ae:quantum_crafter_terminal": {
+    "result": "advanced_ae:quantum_crafter_terminal",
+    "count": 1,
+    "ingredients": [
+      "ae2:pattern_access_terminal",
+      "advanced_ae:quantum_processor",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "advanced_ae:quantum_helmet": {
+    "result": "advanced_ae:quantum_helmet",
+    "count": 1,
+    "ingredients": [
+      "advanced_ae:quantum_helmet",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "advanced_ae:quantum_leggings": {
+    "result": "advanced_ae:quantum_leggings",
+    "count": 1,
+    "ingredients": [
+      "advanced_ae:quantum_leggings",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "advanced_ae:quantum_storage_component": {
+    "result": "advanced_ae:quantum_storage_component",
+    "count": 1,
+    "ingredients": [
+      "advanced_ae:quantum_processor",
+      "ae2:spatial_cell_component_2",
+      "advanced_ae:quantum_processor",
+      "ae2:cell_component_256k",
+      "ae2:quartz_vibrant_glass",
+      "ae2:cell_component_256k",
+      "advanced_ae:quantum_processor",
+      "ae2:cell_component_256k",
+      "advanced_ae:quantum_processor"
+    ]
+  },
+  "ae2:quartz_bricks": {
+    "result": "ae2:quartz_bricks",
+    "count": 4,
+    "ingredients": [
+      "ae2:cut_quartz_block",
+      "ae2:cut_quartz_block",
+      "",
+      "ae2:cut_quartz_block",
+      "ae2:cut_quartz_block",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ae2:quartz_pillar": {
+    "result": "ae2:quartz_pillar",
+    "count": 2,
+    "ingredients": [
+      "ae2:cut_quartz_block",
+      "",
+      "",
+      "ae2:cut_quartz_block",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ae2:quartz_block": {
+    "result": "ae2:quartz_block",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:certus_quartz_block_1x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ae2:quartz_fixture": {
+    "result": "ae2:quartz_fixture",
+    "count": 2,
+    "ingredients": [
+      "ae2:charged_certus_quartz_crystal",
+      "ae2:cable_anchor",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ae2:quartz_glass": {
+    "result": "ae2:quartz_glass",
+    "count": 4,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:glass",
+      "minecraft:quartz",
+      "minecraft:glass",
+      "minecraft:quartz",
+      "minecraft:glass",
+      "minecraft:quartz",
+      "minecraft:glass",
+      "minecraft:quartz"
+    ]
+  },
+  "ae2:quartz_vibrant_glass": {
+    "result": "ae2:quartz_vibrant_glass",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glowstone_dust",
+      "ae2:quartz_glass",
+      "minecraft:glowstone_dust",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ae2:quantum_link": {
+    "result": "ae2:quantum_link",
+    "count": 1,
+    "ingredients": [
+      "ae2:quartz_glass",
+      "ae2:fluix_pearl",
+      "ae2:quartz_glass",
+      "ae2:fluix_pearl",
+      "",
+      "ae2:fluix_pearl",
+      "ae2:quartz_glass",
+      "ae2:fluix_pearl",
+      "ae2:quartz_glass"
+    ]
+  },
+  "ae2:quantum_ring": {
+    "result": "ae2:quantum_ring",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "ae2:logic_processor",
+      "minecraft:iron_ingot",
+      "ae2:engineering_processor",
+      "ae2:energy_cell",
+      "minecraft:smart_dense_cable",
+      "minecraft:iron_ingot",
+      "ae2:logic_processor",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "ae2:quartz_fiber": {
+    "result": "ae2:quartz_fiber",
+    "count": 3,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass"
+    ]
+  },
+  "ae2:quartz_slab": {
+    "result": "ae2:quartz_slab",
+    "count": 6,
+    "ingredients": [
+      "ae2:quartz_block",
+      "ae2:quartz_block",
+      "ae2:quartz_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ae2:quartz_brick_slab": {
+    "result": "ae2:quartz_brick_slab",
+    "count": 6,
+    "ingredients": [
+      "ae2:quartz_bricks",
+      "ae2:quartz_bricks",
+      "ae2:quartz_bricks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ae2:quartz_pillar_slab": {
+    "result": "ae2:quartz_pillar_slab",
+    "count": 6,
+    "ingredients": [
+      "ae2:quartz_pillar",
+      "ae2:quartz_pillar",
+      "ae2:quartz_pillar",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ae2:quartz_stairs": {
+    "result": "ae2:quartz_stairs",
+    "count": 4,
+    "ingredients": [
+      "ae2:quartz_block",
+      "",
+      "",
+      "ae2:quartz_block",
+      "ae2:quartz_block",
+      "",
+      "ae2:quartz_block",
+      "ae2:quartz_block",
+      "ae2:quartz_block"
+    ]
+  },
+  "ae2:quartz_brick_stairs": {
+    "result": "ae2:quartz_brick_stairs",
+    "count": 4,
+    "ingredients": [
+      "ae2:quartz_bricks",
+      "",
+      "",
+      "ae2:quartz_bricks",
+      "ae2:quartz_bricks",
+      "",
+      "ae2:quartz_bricks",
+      "ae2:quartz_bricks",
+      "ae2:quartz_bricks"
+    ]
+  },
+  "ae2:quartz_pillar_stairs": {
+    "result": "ae2:quartz_pillar_stairs",
+    "count": 4,
+    "ingredients": [
+      "ae2:quartz_pillar",
+      "",
+      "",
+      "ae2:quartz_pillar",
+      "ae2:quartz_pillar",
+      "",
+      "ae2:quartz_pillar",
+      "ae2:quartz_pillar",
+      "ae2:quartz_pillar"
+    ]
+  },
+  "ae2:quartz_wall": {
+    "result": "ae2:quartz_wall",
+    "count": 6,
+    "ingredients": [
+      "ae2:quartz_block",
+      "ae2:quartz_block",
+      "ae2:quartz_block",
+      "ae2:quartz_block",
+      "ae2:quartz_block",
+      "ae2:quartz_block",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ae2:quartz_brick_wall": {
+    "result": "ae2:quartz_brick_wall",
+    "count": 6,
+    "ingredients": [
+      "ae2:quartz_bricks",
+      "ae2:quartz_bricks",
+      "ae2:quartz_bricks",
+      "ae2:quartz_bricks",
+      "ae2:quartz_bricks",
+      "ae2:quartz_bricks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ae2:quartz_pillar_wall": {
+    "result": "ae2:quartz_pillar_wall",
+    "count": 6,
+    "ingredients": [
+      "ae2:quartz_pillar",
+      "ae2:quartz_pillar",
+      "ae2:quartz_pillar",
+      "ae2:quartz_pillar",
+      "ae2:quartz_pillar",
+      "ae2:quartz_pillar",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ae2wtlib:quantum_bridge_card": {
+    "result": "ae2wtlib:quantum_bridge_card",
+    "count": 1,
+    "ingredients": [
+      "ae2:quantum_ring",
+      "",
+      "ae2:quantum_ring",
+      "",
+      "ae2:advanced_card",
+      "",
+      "ae2:quantum_ring",
+      "ae2:quantum_link",
+      "ae2:quantum_ring"
+    ]
+  },
+  "aether:quicksoil_glass_pane": {
+    "result": "aether:quicksoil_glass_pane",
+    "count": 16,
+    "ingredients": [
+      "aether:quicksoil_glass",
+      "aether:quicksoil_glass",
+      "aether:quicksoil_glass",
+      "aether:quicksoil_glass",
+      "aether:quicksoil_glass",
+      "aether:quicksoil_glass",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:quartz_block_1x": {
+    "result": "allthecompressed:quartz_block_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:quartz_block_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:quartz_block_2x": {
+    "result": "allthecompressed:quartz_block_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:quartz_block_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:quartz_block_3x": {
+    "result": "allthecompressed:quartz_block_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:quartz_block_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:quartz_block_4x": {
+    "result": "allthecompressed:quartz_block_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:quartz_block_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:quartz_block_5x": {
+    "result": "allthecompressed:quartz_block_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:quartz_block_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:quartz_block_6x": {
+    "result": "allthecompressed:quartz_block_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:quartz_block_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:quartz_block_7x": {
+    "result": "allthecompressed:quartz_block_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:quartz_block_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:quartz_block_8x": {
+    "result": "allthecompressed:quartz_block_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:quartz_block_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:quartz_block_9x": {
+    "result": "allthecompressed:quartz_block_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:quartz_block_8x",
+      "allthecompressed:quartz_block_8x",
+      "allthecompressed:quartz_block_8x",
+      "allthecompressed:quartz_block_8x",
+      "allthecompressed:quartz_block_8x",
+      "allthecompressed:quartz_block_8x",
+      "allthecompressed:quartz_block_8x",
+      "allthecompressed:quartz_block_8x",
+      "allthecompressed:quartz_block_8x"
+    ]
+  },
+  "minecraft:quartz_block": {
+    "result": "minecraft:quartz_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "botanypots:quartz_bricks_botany_pot": {
+    "result": "botanypots:quartz_bricks_botany_pot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:quartz_bricks",
+      "",
+      "minecraft:quartz_bricks",
+      "minecraft:quartz_bricks",
+      "minecraft:flower_pot",
+      "minecraft:quartz_bricks",
+      "",
+      "minecraft:quartz_bricks",
+      ""
+    ]
+  },
+  "botanypots:quartz_bricks_hopper_botany_pot": {
+    "result": "botanypots:quartz_bricks_hopper_botany_pot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:quartz_bricks",
+      "minecraft:hopper",
+      "minecraft:quartz_bricks",
+      "minecraft:quartz_bricks",
+      "minecraft:flower_pot",
+      "minecraft:quartz_bricks",
+      "",
+      "minecraft:quartz_bricks",
+      ""
+    ]
+  },
+  "botanypots:quartz_bricks_waxed_botany_pot": {
+    "result": "botanypots:quartz_bricks_waxed_botany_pot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:honeycomb",
+      "botanypots:quartz_bricks_botany_pot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "cataclysm:quartz_brick_wall": {
+    "result": "cataclysm:quartz_brick_wall",
+    "count": 6,
+    "ingredients": [
+      "minecraft:quartz_bricks",
+      "minecraft:quartz_bricks",
+      "minecraft:quartz_bricks",
+      "minecraft:quartz_bricks",
+      "minecraft:quartz_bricks",
+      "minecraft:quartz_bricks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "extendedae:quartz_blend": {
+    "result": "extendedae:quartz_blend",
+    "count": 6,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:coal",
+      "minecraft:coal",
+      "minecraft:sands",
+      "minecraft:sands",
+      "minecraft:sands",
+      "minecraft:sands",
+      "minecraft:sands",
+      "minecraft:sands"
+    ]
+  },
+  "forbidden_arcanus:quantum_core": {
+    "result": "forbidden_arcanus:quantum_core",
+    "count": 1,
+    "ingredients": [
+      "forbidden_arcanus:rune",
+      "minecraft:flint",
+      "forbidden_arcanus:mundabitur_dust",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "handcrafted:quartz_corner_trim": {
+    "result": "handcrafted:quartz_corner_trim",
+    "count": 4,
+    "ingredients": [
+      "minecraft:quartz_block",
+      "",
+      "",
+      "minecraft:quartz_block",
+      "",
+      "",
+      "minecraft:quartz_block",
+      "minecraft:quartz_block",
+      "minecraft:quartz_block"
+    ]
+  },
+  "handcrafted:quartz_pillar_trim": {
+    "result": "handcrafted:quartz_pillar_trim",
+    "count": 4,
+    "ingredients": [
+      "minecraft:quartz_block",
+      "",
+      "",
+      "minecraft:quartz_block",
+      "",
+      "",
+      "minecraft:quartz_block",
+      "",
+      ""
+    ]
+  },
+  "mcwfences:quartz_grass_topped_wall": {
+    "result": "mcwfences:quartz_grass_topped_wall",
+    "count": 6,
+    "ingredients": [
+      "minecraft:quartz_block",
+      "minecraft:dirt",
+      "minecraft:quartz_block",
+      "minecraft:quartz_bricks",
+      "minecraft:quartz_bricks",
+      "minecraft:quartz_bricks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfences:quartz_pillar_wall": {
+    "result": "mcwfences:quartz_pillar_wall",
+    "count": 5,
+    "ingredients": [
+      "minecraft:quartz_bricks",
+      "minecraft:quartz_bricks",
+      "minecraft:quartz_bricks",
+      "minecraft:quartz_block",
+      "",
+      "minecraft:quartz_block",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfences:quartz_railing_gate": {
+    "result": "mcwfences:quartz_railing_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_bars",
+      "minecraft:quartz_block",
+      "minecraft:iron_bars",
+      "minecraft:iron_bars",
+      "minecraft:quartz_block",
+      "minecraft:iron_bars",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwwindows:quartz_four_window": {
+    "result": "mcwwindows:quartz_four_window",
+    "count": 8,
+    "ingredients": [
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "minecraft:quartz_block",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base"
+    ]
+  },
+  "mcwwindows:quartz_pane_window": {
+    "result": "mcwwindows:quartz_pane_window",
+    "count": 8,
+    "ingredients": [
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "minecraft:quartz_block",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base"
+    ]
+  },
+  "mcwwindows:quartz_window": {
+    "result": "mcwwindows:quartz_window",
+    "count": 4,
+    "ingredients": [
+      "",
+      "mcwwindows:window_base",
+      "",
+      "mcwwindows:window_base",
+      "minecraft:quartz_block",
+      "mcwwindows:window_base",
+      "",
+      "mcwwindows:window_base",
+      ""
+    ]
+  },
+  "mcwwindows:quartz_window2": {
+    "result": "mcwwindows:quartz_window2",
+    "count": 8,
+    "ingredients": [
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "minecraft:quartz_block",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base"
+    ]
+  },
+  "mekanism:quantum_entangloporter": {
+    "result": "mekanism:quantum_entangloporter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:refined_obsidian",
+      "minecraft:ultimate",
+      "minecraft:refined_obsidian",
+      "minecraft:atomic",
+      "mekanism:teleportation_core",
+      "minecraft:atomic",
+      "minecraft:refined_obsidian",
+      "minecraft:ultimate",
+      "minecraft:refined_obsidian"
+    ]
+  },
+  "merrymaking:quartz_platter": {
+    "result": "merrymaking:quartz_platter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecolonies:questlog": {
+    "result": "minecolonies:questlog",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "structurize:sceptergold",
+      "minecraft:stick",
+      "minecraft:leather",
+      "minecraft:paper",
+      "minecraft:leather",
+      "minecraft:stick",
+      "minecraft:paper",
+      "minecraft:stick"
+    ]
+  },
+  "minecraft:quartz_bricks": {
+    "result": "minecraft:quartz_bricks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:quartz_block",
+      "minecraft:quartz_block",
+      "",
+      "minecraft:quartz_block",
+      "minecraft:quartz_block",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:quartz_pillar": {
+    "result": "minecraft:quartz_pillar",
+    "count": 2,
+    "ingredients": [
+      "minecraft:quartz_block",
+      "",
+      "",
+      "minecraft:quartz_block",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:quartz_slab": {
+    "result": "minecraft:quartz_slab",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chiseled_quartz_block",
+      "minecraft:chiseled_quartz_block",
+      "minecraft:chiseled_quartz_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:quartz_stairs": {
+    "result": "minecraft:quartz_stairs",
+    "count": 4,
+    "ingredients": [
+      "minecraft:chiseled_quartz_block",
+      "",
+      "",
+      "minecraft:chiseled_quartz_block",
+      "minecraft:chiseled_quartz_block",
+      "",
+      "minecraft:chiseled_quartz_block",
+      "minecraft:chiseled_quartz_block",
+      "minecraft:chiseled_quartz_block"
+    ]
+  },
+  "modern_industrialization:quantum_machine_casing": {
+    "result": "modern_industrialization:quantum_machine_casing",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iridium",
+      "minecraft:iridium",
+      "minecraft:iridium",
+      "minecraft:iridium",
+      "modern_industrialization:highly_advanced_machine_hull",
+      "minecraft:iridium",
+      "minecraft:iridium",
+      "minecraft:iridium",
+      "minecraft:iridium"
+    ]
+  },
+  "modern_industrialization:quantum_circuit": {
+    "result": "modern_industrialization:quantum_circuit",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:processing_unit",
+      "modern_industrialization:cooling_cell",
+      "modern_industrialization:processing_unit",
+      "modern_industrialization:qubit",
+      "modern_industrialization:quantum_circuit_board",
+      "modern_industrialization:qubit",
+      "modern_industrialization:processing_unit",
+      "modern_industrialization:cooling_cell",
+      "modern_industrialization:processing_unit"
+    ]
+  },
+  "modern_industrialization:quantum_machine_hull": {
+    "result": "modern_industrialization:quantum_machine_hull",
+    "count": 1,
+    "ingredients": [
+      "",
+      "modern_industrialization:quantum_circuit",
+      "",
+      "modern_industrialization:plutonium_battery",
+      "modern_industrialization:quantum_machine_casing",
+      "modern_industrialization:plutonium_battery",
+      "modern_industrialization:superconductor_cable",
+      "modern_industrialization:superconductor_cable",
+      "modern_industrialization:superconductor_cable"
+    ]
+  },
+  "modern_industrialization:quartz_dust": {
+    "result": "modern_industrialization:quartz_dust",
+    "count": 1,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "modern_industrialization:quartz_tiny_dust",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz"
+    ]
+  },
+  "modern_industrialization:quartz_tiny_dust": {
+    "result": "modern_industrialization:quartz_tiny_dust",
+    "count": 9,
+    "ingredients": [
+      "modern_industrialization:quartz_dust",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:quartz": {
+    "result": "minecraft:quartz",
+    "count": 4,
+    "ingredients": [
+      "minecraft:quartz_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "refinedstorage:quartz_enriched_iron": {
+    "result": "refinedstorage:quartz_enriched_iron",
+    "count": 4,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:quartz",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "tconstruct:queens_slime_ingot": {
+    "result": "tconstruct:queens_slime_ingot",
+    "count": 2,
+    "ingredients": [
+      "mysticalagriculture:queens_slime_essence",
+      "mysticalagriculture:queens_slime_essence",
+      "mysticalagriculture:queens_slime_essence",
+      "mysticalagriculture:queens_slime_essence",
+      "",
+      "mysticalagriculture:queens_slime_essence",
+      "mysticalagriculture:queens_slime_essence",
+      "mysticalagriculture:queens_slime_essence",
+      "mysticalagriculture:queens_slime_essence"
+    ]
+  },
+  "oritech:quarry_addon": {
+    "result": "oritech:quarry_addon",
+    "count": 1,
+    "ingredients": [
+      "minecraft:plastic",
+      "minecraft:plastic",
+      "minecraft:plastic",
+      "minecraft:plastic",
+      "minecraft:diamond_pickaxe",
+      "minecraft:plastic",
+      "oritech:motor",
+      "minecraft:plating",
+      "oritech:motor"
+    ]
+  },
+  "pamhc2crops:quinoaseeditem": {
+    "result": "pamhc2crops:quinoaseeditem",
+    "count": 1,
+    "ingredients": [
+      "pamhc2crops:quinoaitem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:quesadillaitem": {
+    "result": "pamhc2foodextended:quesadillaitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_skillet",
+      "minecraft:tortilla",
+      "minecraft:cheese",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivebees:quartz_netherrack": {
+    "result": "productivebees:quartz_netherrack",
+    "count": 1,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:netherrack",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz",
+      "minecraft:quartz"
+    ]
+  },
+  "quarryplus:quarry": {
+    "result": "quarryplus:quarry",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:obsidians",
+      "minecraft:iron_ingot",
+      "minecraft:diamond_pickaxe",
+      "minecraft:dropper",
+      "minecraft:diamond_pickaxe",
+      "minecraft:iron_ingot",
+      "minecraft:redstone",
+      "minecraft:markers"
+    ]
+  },
+  "railcraft:quarried_bricks": {
+    "result": "railcraft:quarried_bricks",
+    "count": 4,
+    "ingredients": [
+      "railcraft:polished_quarried_stone",
+      "railcraft:polished_quarried_stone",
+      "",
+      "railcraft:polished_quarried_stone",
+      "railcraft:polished_quarried_stone",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:quarried_brick_slab": {
+    "result": "railcraft:quarried_brick_slab",
+    "count": 6,
+    "ingredients": [
+      "railcraft:quarried_bricks",
+      "railcraft:quarried_bricks",
+      "railcraft:quarried_bricks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:quarried_brick_stairs": {
+    "result": "railcraft:quarried_brick_stairs",
+    "count": 4,
+    "ingredients": [
+      "railcraft:quarried_bricks",
+      "",
+      "",
+      "railcraft:quarried_bricks",
+      "railcraft:quarried_bricks",
+      "",
+      "railcraft:quarried_bricks",
+      "railcraft:quarried_bricks",
+      "railcraft:quarried_bricks"
+    ]
+  },
+  "railcraft:quarried_paver": {
+    "result": "railcraft:quarried_paver",
+    "count": 4,
+    "ingredients": [
+      "railcraft:quarried_bricks",
+      "railcraft:quarried_bricks",
+      "",
+      "railcraft:quarried_bricks",
+      "railcraft:quarried_bricks",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:quarried_paver_slab": {
+    "result": "railcraft:quarried_paver_slab",
+    "count": 6,
+    "ingredients": [
+      "railcraft:quarried_paver",
+      "railcraft:quarried_paver",
+      "railcraft:quarried_paver",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:quarried_paver_stairs": {
+    "result": "railcraft:quarried_paver_stairs",
+    "count": 4,
+    "ingredients": [
+      "railcraft:quarried_paver",
+      "",
+      "",
+      "railcraft:quarried_paver",
+      "railcraft:quarried_paver",
+      "",
+      "railcraft:quarried_paver",
+      "railcraft:quarried_paver",
+      "railcraft:quarried_paver"
+    ]
+  },
+  "refinedstorage:quartz_enriched_copper": {
+    "result": "refinedstorage:quartz_enriched_copper",
+    "count": 4,
+    "ingredients": [
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "",
+      "minecraft:copper_ingot",
+      "minecraft:quartz",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "securitycraft:quartz_mine": {
+    "result": "securitycraft:quartz_mine",
+    "count": 1,
+    "ingredients": [
+      "minecraft:nether_quartz_ore",
+      "securitycraft:mine",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xycraft_override:quartz_bricks_blue": {
+    "result": "xycraft_override:quartz_bricks_blue",
+    "count": 2,
+    "ingredients": [
+      "xycraft_world:xychorium_gem_blue",
+      "minecraft:quartz_bricks",
+      "",
+      "minecraft:quartz_bricks",
+      "xycraft_world:xychorium_gem_blue",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xycraft_override:quartz_bricks_dark": {
+    "result": "xycraft_override:quartz_bricks_dark",
+    "count": 2,
+    "ingredients": [
+      "xycraft_world:xychorium_gem_dark",
+      "minecraft:quartz_bricks",
+      "",
+      "minecraft:quartz_bricks",
+      "xycraft_world:xychorium_gem_dark",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xycraft_override:quartz_bricks_green": {
+    "result": "xycraft_override:quartz_bricks_green",
+    "count": 2,
+    "ingredients": [
+      "xycraft_world:xychorium_gem_green",
+      "minecraft:quartz_bricks",
+      "",
+      "minecraft:quartz_bricks",
+      "xycraft_world:xychorium_gem_green",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xycraft_override:quartz_bricks_light": {
+    "result": "xycraft_override:quartz_bricks_light",
+    "count": 2,
+    "ingredients": [
+      "xycraft_world:xychorium_gem_light",
+      "minecraft:quartz_bricks",
+      "",
+      "minecraft:quartz_bricks",
+      "xycraft_world:xychorium_gem_light",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xycraft_override:quartz_bricks_red": {
+    "result": "xycraft_override:quartz_bricks_red",
+    "count": 2,
+    "ingredients": [
+      "xycraft_world:xychorium_gem_red",
+      "minecraft:quartz_bricks",
+      "",
+      "minecraft:quartz_bricks",
+      "xycraft_world:xychorium_gem_red",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

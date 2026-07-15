@@ -1,0 +1,92 @@
+{
+  "herbsandharvest:squash_seeds": {
+    "result": "herbsandharvest:squash_seeds",
+    "count": 1,
+    "ingredients": [
+      "herbsandharvest:squash",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "herbsandharvest:squash_soup_pot": {
+    "result": "herbsandharvest:squash_soup_pot",
+    "count": 1,
+    "ingredients": [
+      "herbsandharvest:empty_pot",
+      "minecraft:squash",
+      "minecraft:cream",
+      "minecraft:onion",
+      "minecraft:salt",
+      "minecraft:pepper",
+      "herbsandharvest:chopped_sage",
+      "herbsandharvest:chopped_thyme",
+      "herbsandharvest:ground_ginger"
+    ]
+  },
+  "integrateddynamics:squeezer": {
+    "result": "integrateddynamics:squeezer",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:iron",
+      "minecraft:stick",
+      "minecraft:stick",
+      "",
+      "minecraft:stick",
+      "minecraft:oak_planks",
+      "minecraft:iron_ingot",
+      "minecraft:oak_planks"
+    ]
+  },
+  "mcwlights:square_wall_lamp": {
+    "result": "mcwlights:square_wall_lamp",
+    "count": 6,
+    "ingredients": [
+      "minecraft:white_wool",
+      "minecraft:white_wool",
+      "minecraft:white_wool",
+      "minecraft:white_wool",
+      "minecraft:redstone_lamp",
+      "minecraft:white_wool",
+      "",
+      "",
+      "minecraft:wooden_fences"
+    ]
+  },
+  "minecolonies:squash_soup": {
+    "result": "minecolonies:squash_soup",
+    "count": 2,
+    "ingredients": [
+      "minecolonies:onion",
+      "minecolonies:butternut_squash",
+      "minecraft:bowl",
+      "minecraft:bowl",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "reliquary:squid_beak": {
+    "result": "reliquary:squid_beak",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:ink_sac",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot"
+    ]
+  }
+}

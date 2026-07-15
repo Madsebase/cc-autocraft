@@ -1,0 +1,3137 @@
+{
+  "ae2:cut_quartz_block": {
+    "result": "ae2:cut_quartz_block",
+    "count": 4,
+    "ingredients": [
+      "ae2:quartz_block",
+      "ae2:quartz_block",
+      "",
+      "ae2:quartz_block",
+      "ae2:quartz_block",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ae2:cut_quartz_slab": {
+    "result": "ae2:cut_quartz_slab",
+    "count": 6,
+    "ingredients": [
+      "ae2:cut_quartz_block",
+      "ae2:cut_quartz_block",
+      "ae2:cut_quartz_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ae2:cut_quartz_stairs": {
+    "result": "ae2:cut_quartz_stairs",
+    "count": 4,
+    "ingredients": [
+      "ae2:cut_quartz_block",
+      "",
+      "",
+      "ae2:cut_quartz_block",
+      "ae2:cut_quartz_block",
+      "",
+      "ae2:cut_quartz_block",
+      "ae2:cut_quartz_block",
+      "ae2:cut_quartz_block"
+    ]
+  },
+  "ae2:cut_quartz_wall": {
+    "result": "ae2:cut_quartz_wall",
+    "count": 6,
+    "ingredients": [
+      "ae2:cut_quartz_block",
+      "ae2:cut_quartz_block",
+      "ae2:cut_quartz_block",
+      "ae2:cut_quartz_block",
+      "ae2:cut_quartz_block",
+      "ae2:cut_quartz_block",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_elemental:curio_bag": {
+    "result": "ars_elemental:curio_bag",
+    "count": 1,
+    "ingredients": [
+      "ars_nouveau:magebloom_fiber",
+      "ars_nouveau:magebloom_fiber",
+      "ars_nouveau:magebloom_fiber",
+      "ars_nouveau:magebloom_fiber",
+      "minecraft:chest",
+      "ars_nouveau:magebloom_fiber",
+      "ars_nouveau:magebloom_fiber",
+      "ars_nouveau:magebloom_fiber",
+      "ars_nouveau:magebloom_fiber"
+    ]
+  },
+  "biomeswevegone:cut_black_sandstone": {
+    "result": "biomeswevegone:cut_black_sandstone",
+    "count": 4,
+    "ingredients": [
+      "biomeswevegone:black_sandstone",
+      "biomeswevegone:black_sandstone",
+      "",
+      "biomeswevegone:black_sandstone",
+      "biomeswevegone:black_sandstone",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:cut_black_sandstone_slab": {
+    "result": "biomeswevegone:cut_black_sandstone_slab",
+    "count": 6,
+    "ingredients": [
+      "biomeswevegone:cut_black_sandstone",
+      "biomeswevegone:cut_black_sandstone",
+      "biomeswevegone:cut_black_sandstone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:cut_blue_sandstone": {
+    "result": "biomeswevegone:cut_blue_sandstone",
+    "count": 4,
+    "ingredients": [
+      "biomeswevegone:blue_sandstone",
+      "biomeswevegone:blue_sandstone",
+      "",
+      "biomeswevegone:blue_sandstone",
+      "biomeswevegone:blue_sandstone",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:cut_blue_sandstone_slab": {
+    "result": "biomeswevegone:cut_blue_sandstone_slab",
+    "count": 6,
+    "ingredients": [
+      "biomeswevegone:cut_blue_sandstone",
+      "biomeswevegone:cut_blue_sandstone",
+      "biomeswevegone:cut_blue_sandstone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:cut_pink_sandstone": {
+    "result": "biomeswevegone:cut_pink_sandstone",
+    "count": 4,
+    "ingredients": [
+      "biomeswevegone:pink_sandstone",
+      "biomeswevegone:pink_sandstone",
+      "",
+      "biomeswevegone:pink_sandstone",
+      "biomeswevegone:pink_sandstone",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:cut_pink_sandstone_slab": {
+    "result": "biomeswevegone:cut_pink_sandstone_slab",
+    "count": 6,
+    "ingredients": [
+      "biomeswevegone:cut_pink_sandstone",
+      "biomeswevegone:cut_pink_sandstone",
+      "biomeswevegone:cut_pink_sandstone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:cut_purple_sandstone": {
+    "result": "biomeswevegone:cut_purple_sandstone",
+    "count": 4,
+    "ingredients": [
+      "biomeswevegone:purple_sandstone",
+      "biomeswevegone:purple_sandstone",
+      "",
+      "biomeswevegone:purple_sandstone",
+      "biomeswevegone:purple_sandstone",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:cut_purple_sandstone_slab": {
+    "result": "biomeswevegone:cut_purple_sandstone_slab",
+    "count": 6,
+    "ingredients": [
+      "biomeswevegone:cut_purple_sandstone",
+      "biomeswevegone:cut_purple_sandstone",
+      "biomeswevegone:cut_purple_sandstone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:cut_white_sandstone": {
+    "result": "biomeswevegone:cut_white_sandstone",
+    "count": 4,
+    "ingredients": [
+      "biomeswevegone:white_sandstone",
+      "biomeswevegone:white_sandstone",
+      "",
+      "biomeswevegone:white_sandstone",
+      "biomeswevegone:white_sandstone",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:cut_white_sandstone_slab": {
+    "result": "biomeswevegone:cut_white_sandstone_slab",
+    "count": 6,
+    "ingredients": [
+      "biomeswevegone:cut_white_sandstone",
+      "biomeswevegone:cut_white_sandstone",
+      "biomeswevegone:cut_white_sandstone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:cut_windswept_sandstone": {
+    "result": "biomeswevegone:cut_windswept_sandstone",
+    "count": 4,
+    "ingredients": [
+      "biomeswevegone:windswept_sandstone",
+      "biomeswevegone:windswept_sandstone",
+      "",
+      "biomeswevegone:windswept_sandstone",
+      "biomeswevegone:windswept_sandstone",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:cut_windswept_sandstone_slab": {
+    "result": "biomeswevegone:cut_windswept_sandstone_slab",
+    "count": 6,
+    "ingredients": [
+      "biomeswevegone:cut_windswept_sandstone",
+      "biomeswevegone:cut_windswept_sandstone",
+      "biomeswevegone:cut_windswept_sandstone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "cataclysm:cursed_bow": {
+    "result": "cataclysm:cursed_bow",
+    "count": 1,
+    "ingredients": [
+      "",
+      "cataclysm:cursium_ingot",
+      "minecraft:string",
+      "cataclysm:cursium_ingot",
+      "",
+      "minecraft:string",
+      "",
+      "cataclysm:black_steel_ingot",
+      "minecraft:string"
+    ]
+  },
+  "cataclysm:cursed_eye": {
+    "result": "cataclysm:cursed_eye",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "minecraft:bone",
+      "minecraft:gold_ingot",
+      "minecraft:phantom_membrane",
+      "minecraft:ender_eye",
+      "minecraft:phantom_membrane",
+      "minecraft:gold_ingot",
+      "minecraft:rotten_flesh",
+      "minecraft:gold_ingot"
+    ]
+  },
+  "cataclysm:cursium_block": {
+    "result": "cataclysm:cursium_block",
+    "count": 1,
+    "ingredients": [
+      "cataclysm:cursium_ingot",
+      "cataclysm:cursium_ingot",
+      "cataclysm:cursium_ingot",
+      "cataclysm:cursium_ingot",
+      "cataclysm:cursium_ingot",
+      "cataclysm:cursium_ingot",
+      "cataclysm:cursium_ingot",
+      "cataclysm:cursium_ingot",
+      "cataclysm:cursium_ingot"
+    ]
+  },
+  "cataclysm:cursium_ingot": {
+    "result": "cataclysm:cursium_ingot",
+    "count": 9,
+    "ingredients": [
+      "cataclysm:cursium_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "cataclysm:cursium_upgrade_smithing_template": {
+    "result": "cataclysm:cursium_upgrade_smithing_template",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "cataclysm:black_steel_ingot",
+      "minecraft:netherite_upgrade_smithing_template",
+      "cataclysm:black_steel_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot"
+    ]
+  },
+  "cookingforblockheads:cutting_board": {
+    "result": "cookingforblockheads:cutting_board",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_axe",
+      "",
+      "",
+      "minecraft:wooden_slabs",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_andesite_brick_slab": {
+    "result": "create:cut_andesite_brick_slab",
+    "count": 6,
+    "ingredients": [
+      "create:cut_andesite_bricks",
+      "create:cut_andesite_bricks",
+      "create:cut_andesite_bricks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_andesite_bricks": {
+    "result": "create:cut_andesite_bricks",
+    "count": 1,
+    "ingredients": [
+      "create:cut_andesite_brick_slab",
+      "create:cut_andesite_brick_slab",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_andesite_brick_stairs": {
+    "result": "create:cut_andesite_brick_stairs",
+    "count": 4,
+    "ingredients": [
+      "create:cut_andesite_bricks",
+      "",
+      "",
+      "create:cut_andesite_bricks",
+      "create:cut_andesite_bricks",
+      "",
+      "create:cut_andesite_bricks",
+      "create:cut_andesite_bricks",
+      "create:cut_andesite_bricks"
+    ]
+  },
+  "create:cut_andesite_brick_wall": {
+    "result": "create:cut_andesite_brick_wall",
+    "count": 6,
+    "ingredients": [
+      "create:cut_andesite_bricks",
+      "create:cut_andesite_bricks",
+      "create:cut_andesite_bricks",
+      "create:cut_andesite_bricks",
+      "create:cut_andesite_bricks",
+      "create:cut_andesite_bricks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_andesite_slab": {
+    "result": "create:cut_andesite_slab",
+    "count": 6,
+    "ingredients": [
+      "create:cut_andesite",
+      "create:cut_andesite",
+      "create:cut_andesite",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_andesite": {
+    "result": "create:cut_andesite",
+    "count": 1,
+    "ingredients": [
+      "create:cut_andesite_slab",
+      "create:cut_andesite_slab",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_andesite_stairs": {
+    "result": "create:cut_andesite_stairs",
+    "count": 4,
+    "ingredients": [
+      "create:cut_andesite",
+      "",
+      "",
+      "create:cut_andesite",
+      "create:cut_andesite",
+      "",
+      "create:cut_andesite",
+      "create:cut_andesite",
+      "create:cut_andesite"
+    ]
+  },
+  "create:cut_andesite_wall": {
+    "result": "create:cut_andesite_wall",
+    "count": 6,
+    "ingredients": [
+      "create:cut_andesite",
+      "create:cut_andesite",
+      "create:cut_andesite",
+      "create:cut_andesite",
+      "create:cut_andesite",
+      "create:cut_andesite",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_asurine_brick_slab": {
+    "result": "create:cut_asurine_brick_slab",
+    "count": 6,
+    "ingredients": [
+      "create:cut_asurine_bricks",
+      "create:cut_asurine_bricks",
+      "create:cut_asurine_bricks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_asurine_bricks": {
+    "result": "create:cut_asurine_bricks",
+    "count": 1,
+    "ingredients": [
+      "create:cut_asurine_brick_slab",
+      "create:cut_asurine_brick_slab",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_asurine_brick_stairs": {
+    "result": "create:cut_asurine_brick_stairs",
+    "count": 4,
+    "ingredients": [
+      "create:cut_asurine_bricks",
+      "",
+      "",
+      "create:cut_asurine_bricks",
+      "create:cut_asurine_bricks",
+      "",
+      "create:cut_asurine_bricks",
+      "create:cut_asurine_bricks",
+      "create:cut_asurine_bricks"
+    ]
+  },
+  "create:cut_asurine_brick_wall": {
+    "result": "create:cut_asurine_brick_wall",
+    "count": 6,
+    "ingredients": [
+      "create:cut_asurine_bricks",
+      "create:cut_asurine_bricks",
+      "create:cut_asurine_bricks",
+      "create:cut_asurine_bricks",
+      "create:cut_asurine_bricks",
+      "create:cut_asurine_bricks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_asurine_slab": {
+    "result": "create:cut_asurine_slab",
+    "count": 6,
+    "ingredients": [
+      "create:cut_asurine",
+      "create:cut_asurine",
+      "create:cut_asurine",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_asurine": {
+    "result": "create:cut_asurine",
+    "count": 1,
+    "ingredients": [
+      "create:cut_asurine_slab",
+      "create:cut_asurine_slab",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_asurine_stairs": {
+    "result": "create:cut_asurine_stairs",
+    "count": 4,
+    "ingredients": [
+      "create:cut_asurine",
+      "",
+      "",
+      "create:cut_asurine",
+      "create:cut_asurine",
+      "",
+      "create:cut_asurine",
+      "create:cut_asurine",
+      "create:cut_asurine"
+    ]
+  },
+  "create:cut_asurine_wall": {
+    "result": "create:cut_asurine_wall",
+    "count": 6,
+    "ingredients": [
+      "create:cut_asurine",
+      "create:cut_asurine",
+      "create:cut_asurine",
+      "create:cut_asurine",
+      "create:cut_asurine",
+      "create:cut_asurine",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_calcite_brick_slab": {
+    "result": "create:cut_calcite_brick_slab",
+    "count": 6,
+    "ingredients": [
+      "create:cut_calcite_bricks",
+      "create:cut_calcite_bricks",
+      "create:cut_calcite_bricks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_calcite_bricks": {
+    "result": "create:cut_calcite_bricks",
+    "count": 1,
+    "ingredients": [
+      "create:cut_calcite_brick_slab",
+      "create:cut_calcite_brick_slab",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_calcite_brick_stairs": {
+    "result": "create:cut_calcite_brick_stairs",
+    "count": 4,
+    "ingredients": [
+      "create:cut_calcite_bricks",
+      "",
+      "",
+      "create:cut_calcite_bricks",
+      "create:cut_calcite_bricks",
+      "",
+      "create:cut_calcite_bricks",
+      "create:cut_calcite_bricks",
+      "create:cut_calcite_bricks"
+    ]
+  },
+  "create:cut_calcite_brick_wall": {
+    "result": "create:cut_calcite_brick_wall",
+    "count": 6,
+    "ingredients": [
+      "create:cut_calcite_bricks",
+      "create:cut_calcite_bricks",
+      "create:cut_calcite_bricks",
+      "create:cut_calcite_bricks",
+      "create:cut_calcite_bricks",
+      "create:cut_calcite_bricks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_calcite_slab": {
+    "result": "create:cut_calcite_slab",
+    "count": 6,
+    "ingredients": [
+      "create:cut_calcite",
+      "create:cut_calcite",
+      "create:cut_calcite",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_calcite": {
+    "result": "create:cut_calcite",
+    "count": 1,
+    "ingredients": [
+      "create:cut_calcite_slab",
+      "create:cut_calcite_slab",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_calcite_stairs": {
+    "result": "create:cut_calcite_stairs",
+    "count": 4,
+    "ingredients": [
+      "create:cut_calcite",
+      "",
+      "",
+      "create:cut_calcite",
+      "create:cut_calcite",
+      "",
+      "create:cut_calcite",
+      "create:cut_calcite",
+      "create:cut_calcite"
+    ]
+  },
+  "create:cut_calcite_wall": {
+    "result": "create:cut_calcite_wall",
+    "count": 6,
+    "ingredients": [
+      "create:cut_calcite",
+      "create:cut_calcite",
+      "create:cut_calcite",
+      "create:cut_calcite",
+      "create:cut_calcite",
+      "create:cut_calcite",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_crimsite_brick_slab": {
+    "result": "create:cut_crimsite_brick_slab",
+    "count": 6,
+    "ingredients": [
+      "create:cut_crimsite_bricks",
+      "create:cut_crimsite_bricks",
+      "create:cut_crimsite_bricks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_crimsite_bricks": {
+    "result": "create:cut_crimsite_bricks",
+    "count": 1,
+    "ingredients": [
+      "create:cut_crimsite_brick_slab",
+      "create:cut_crimsite_brick_slab",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_crimsite_brick_stairs": {
+    "result": "create:cut_crimsite_brick_stairs",
+    "count": 4,
+    "ingredients": [
+      "create:cut_crimsite_bricks",
+      "",
+      "",
+      "create:cut_crimsite_bricks",
+      "create:cut_crimsite_bricks",
+      "",
+      "create:cut_crimsite_bricks",
+      "create:cut_crimsite_bricks",
+      "create:cut_crimsite_bricks"
+    ]
+  },
+  "create:cut_crimsite_brick_wall": {
+    "result": "create:cut_crimsite_brick_wall",
+    "count": 6,
+    "ingredients": [
+      "create:cut_crimsite_bricks",
+      "create:cut_crimsite_bricks",
+      "create:cut_crimsite_bricks",
+      "create:cut_crimsite_bricks",
+      "create:cut_crimsite_bricks",
+      "create:cut_crimsite_bricks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_crimsite_slab": {
+    "result": "create:cut_crimsite_slab",
+    "count": 6,
+    "ingredients": [
+      "create:cut_crimsite",
+      "create:cut_crimsite",
+      "create:cut_crimsite",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_crimsite": {
+    "result": "create:cut_crimsite",
+    "count": 1,
+    "ingredients": [
+      "create:cut_crimsite_slab",
+      "create:cut_crimsite_slab",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_crimsite_stairs": {
+    "result": "create:cut_crimsite_stairs",
+    "count": 4,
+    "ingredients": [
+      "create:cut_crimsite",
+      "",
+      "",
+      "create:cut_crimsite",
+      "create:cut_crimsite",
+      "",
+      "create:cut_crimsite",
+      "create:cut_crimsite",
+      "create:cut_crimsite"
+    ]
+  },
+  "create:cut_crimsite_wall": {
+    "result": "create:cut_crimsite_wall",
+    "count": 6,
+    "ingredients": [
+      "create:cut_crimsite",
+      "create:cut_crimsite",
+      "create:cut_crimsite",
+      "create:cut_crimsite",
+      "create:cut_crimsite",
+      "create:cut_crimsite",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_deepslate_brick_slab": {
+    "result": "create:cut_deepslate_brick_slab",
+    "count": 6,
+    "ingredients": [
+      "create:cut_deepslate_bricks",
+      "create:cut_deepslate_bricks",
+      "create:cut_deepslate_bricks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_deepslate_bricks": {
+    "result": "create:cut_deepslate_bricks",
+    "count": 1,
+    "ingredients": [
+      "create:cut_deepslate_brick_slab",
+      "create:cut_deepslate_brick_slab",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_deepslate_brick_stairs": {
+    "result": "create:cut_deepslate_brick_stairs",
+    "count": 4,
+    "ingredients": [
+      "create:cut_deepslate_bricks",
+      "",
+      "",
+      "create:cut_deepslate_bricks",
+      "create:cut_deepslate_bricks",
+      "",
+      "create:cut_deepslate_bricks",
+      "create:cut_deepslate_bricks",
+      "create:cut_deepslate_bricks"
+    ]
+  },
+  "create:cut_deepslate_brick_wall": {
+    "result": "create:cut_deepslate_brick_wall",
+    "count": 6,
+    "ingredients": [
+      "create:cut_deepslate_bricks",
+      "create:cut_deepslate_bricks",
+      "create:cut_deepslate_bricks",
+      "create:cut_deepslate_bricks",
+      "create:cut_deepslate_bricks",
+      "create:cut_deepslate_bricks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_deepslate_slab": {
+    "result": "create:cut_deepslate_slab",
+    "count": 6,
+    "ingredients": [
+      "create:cut_deepslate",
+      "create:cut_deepslate",
+      "create:cut_deepslate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_deepslate": {
+    "result": "create:cut_deepslate",
+    "count": 1,
+    "ingredients": [
+      "create:cut_deepslate_slab",
+      "create:cut_deepslate_slab",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_deepslate_stairs": {
+    "result": "create:cut_deepslate_stairs",
+    "count": 4,
+    "ingredients": [
+      "create:cut_deepslate",
+      "",
+      "",
+      "create:cut_deepslate",
+      "create:cut_deepslate",
+      "",
+      "create:cut_deepslate",
+      "create:cut_deepslate",
+      "create:cut_deepslate"
+    ]
+  },
+  "create:cut_deepslate_wall": {
+    "result": "create:cut_deepslate_wall",
+    "count": 6,
+    "ingredients": [
+      "create:cut_deepslate",
+      "create:cut_deepslate",
+      "create:cut_deepslate",
+      "create:cut_deepslate",
+      "create:cut_deepslate",
+      "create:cut_deepslate",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_diorite_brick_slab": {
+    "result": "create:cut_diorite_brick_slab",
+    "count": 6,
+    "ingredients": [
+      "create:cut_diorite_bricks",
+      "create:cut_diorite_bricks",
+      "create:cut_diorite_bricks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_diorite_bricks": {
+    "result": "create:cut_diorite_bricks",
+    "count": 1,
+    "ingredients": [
+      "create:cut_diorite_brick_slab",
+      "create:cut_diorite_brick_slab",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_diorite_brick_stairs": {
+    "result": "create:cut_diorite_brick_stairs",
+    "count": 4,
+    "ingredients": [
+      "create:cut_diorite_bricks",
+      "",
+      "",
+      "create:cut_diorite_bricks",
+      "create:cut_diorite_bricks",
+      "",
+      "create:cut_diorite_bricks",
+      "create:cut_diorite_bricks",
+      "create:cut_diorite_bricks"
+    ]
+  },
+  "create:cut_diorite_brick_wall": {
+    "result": "create:cut_diorite_brick_wall",
+    "count": 6,
+    "ingredients": [
+      "create:cut_diorite_bricks",
+      "create:cut_diorite_bricks",
+      "create:cut_diorite_bricks",
+      "create:cut_diorite_bricks",
+      "create:cut_diorite_bricks",
+      "create:cut_diorite_bricks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_diorite_slab": {
+    "result": "create:cut_diorite_slab",
+    "count": 6,
+    "ingredients": [
+      "create:cut_diorite",
+      "create:cut_diorite",
+      "create:cut_diorite",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_diorite": {
+    "result": "create:cut_diorite",
+    "count": 1,
+    "ingredients": [
+      "create:cut_diorite_slab",
+      "create:cut_diorite_slab",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_diorite_stairs": {
+    "result": "create:cut_diorite_stairs",
+    "count": 4,
+    "ingredients": [
+      "create:cut_diorite",
+      "",
+      "",
+      "create:cut_diorite",
+      "create:cut_diorite",
+      "",
+      "create:cut_diorite",
+      "create:cut_diorite",
+      "create:cut_diorite"
+    ]
+  },
+  "create:cut_diorite_wall": {
+    "result": "create:cut_diorite_wall",
+    "count": 6,
+    "ingredients": [
+      "create:cut_diorite",
+      "create:cut_diorite",
+      "create:cut_diorite",
+      "create:cut_diorite",
+      "create:cut_diorite",
+      "create:cut_diorite",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_dripstone_brick_slab": {
+    "result": "create:cut_dripstone_brick_slab",
+    "count": 6,
+    "ingredients": [
+      "create:cut_dripstone_bricks",
+      "create:cut_dripstone_bricks",
+      "create:cut_dripstone_bricks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_dripstone_bricks": {
+    "result": "create:cut_dripstone_bricks",
+    "count": 1,
+    "ingredients": [
+      "create:cut_dripstone_brick_slab",
+      "create:cut_dripstone_brick_slab",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_dripstone_brick_stairs": {
+    "result": "create:cut_dripstone_brick_stairs",
+    "count": 4,
+    "ingredients": [
+      "create:cut_dripstone_bricks",
+      "",
+      "",
+      "create:cut_dripstone_bricks",
+      "create:cut_dripstone_bricks",
+      "",
+      "create:cut_dripstone_bricks",
+      "create:cut_dripstone_bricks",
+      "create:cut_dripstone_bricks"
+    ]
+  },
+  "create:cut_dripstone_brick_wall": {
+    "result": "create:cut_dripstone_brick_wall",
+    "count": 6,
+    "ingredients": [
+      "create:cut_dripstone_bricks",
+      "create:cut_dripstone_bricks",
+      "create:cut_dripstone_bricks",
+      "create:cut_dripstone_bricks",
+      "create:cut_dripstone_bricks",
+      "create:cut_dripstone_bricks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_dripstone_slab": {
+    "result": "create:cut_dripstone_slab",
+    "count": 6,
+    "ingredients": [
+      "create:cut_dripstone",
+      "create:cut_dripstone",
+      "create:cut_dripstone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_dripstone": {
+    "result": "create:cut_dripstone",
+    "count": 1,
+    "ingredients": [
+      "create:cut_dripstone_slab",
+      "create:cut_dripstone_slab",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_dripstone_stairs": {
+    "result": "create:cut_dripstone_stairs",
+    "count": 4,
+    "ingredients": [
+      "create:cut_dripstone",
+      "",
+      "",
+      "create:cut_dripstone",
+      "create:cut_dripstone",
+      "",
+      "create:cut_dripstone",
+      "create:cut_dripstone",
+      "create:cut_dripstone"
+    ]
+  },
+  "create:cut_dripstone_wall": {
+    "result": "create:cut_dripstone_wall",
+    "count": 6,
+    "ingredients": [
+      "create:cut_dripstone",
+      "create:cut_dripstone",
+      "create:cut_dripstone",
+      "create:cut_dripstone",
+      "create:cut_dripstone",
+      "create:cut_dripstone",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_granite_brick_slab": {
+    "result": "create:cut_granite_brick_slab",
+    "count": 6,
+    "ingredients": [
+      "create:cut_granite_bricks",
+      "create:cut_granite_bricks",
+      "create:cut_granite_bricks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_granite_bricks": {
+    "result": "create:cut_granite_bricks",
+    "count": 1,
+    "ingredients": [
+      "create:cut_granite_brick_slab",
+      "create:cut_granite_brick_slab",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_granite_brick_stairs": {
+    "result": "create:cut_granite_brick_stairs",
+    "count": 4,
+    "ingredients": [
+      "create:cut_granite_bricks",
+      "",
+      "",
+      "create:cut_granite_bricks",
+      "create:cut_granite_bricks",
+      "",
+      "create:cut_granite_bricks",
+      "create:cut_granite_bricks",
+      "create:cut_granite_bricks"
+    ]
+  },
+  "create:cut_granite_brick_wall": {
+    "result": "create:cut_granite_brick_wall",
+    "count": 6,
+    "ingredients": [
+      "create:cut_granite_bricks",
+      "create:cut_granite_bricks",
+      "create:cut_granite_bricks",
+      "create:cut_granite_bricks",
+      "create:cut_granite_bricks",
+      "create:cut_granite_bricks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_granite_slab": {
+    "result": "create:cut_granite_slab",
+    "count": 6,
+    "ingredients": [
+      "create:cut_granite",
+      "create:cut_granite",
+      "create:cut_granite",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_granite": {
+    "result": "create:cut_granite",
+    "count": 1,
+    "ingredients": [
+      "create:cut_granite_slab",
+      "create:cut_granite_slab",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_granite_stairs": {
+    "result": "create:cut_granite_stairs",
+    "count": 4,
+    "ingredients": [
+      "create:cut_granite",
+      "",
+      "",
+      "create:cut_granite",
+      "create:cut_granite",
+      "",
+      "create:cut_granite",
+      "create:cut_granite",
+      "create:cut_granite"
+    ]
+  },
+  "create:cut_granite_wall": {
+    "result": "create:cut_granite_wall",
+    "count": 6,
+    "ingredients": [
+      "create:cut_granite",
+      "create:cut_granite",
+      "create:cut_granite",
+      "create:cut_granite",
+      "create:cut_granite",
+      "create:cut_granite",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_limestone_brick_slab": {
+    "result": "create:cut_limestone_brick_slab",
+    "count": 6,
+    "ingredients": [
+      "create:cut_limestone_bricks",
+      "create:cut_limestone_bricks",
+      "create:cut_limestone_bricks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_limestone_bricks": {
+    "result": "create:cut_limestone_bricks",
+    "count": 1,
+    "ingredients": [
+      "create:cut_limestone_brick_slab",
+      "create:cut_limestone_brick_slab",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_limestone_brick_stairs": {
+    "result": "create:cut_limestone_brick_stairs",
+    "count": 4,
+    "ingredients": [
+      "create:cut_limestone_bricks",
+      "",
+      "",
+      "create:cut_limestone_bricks",
+      "create:cut_limestone_bricks",
+      "",
+      "create:cut_limestone_bricks",
+      "create:cut_limestone_bricks",
+      "create:cut_limestone_bricks"
+    ]
+  },
+  "create:cut_limestone_brick_wall": {
+    "result": "create:cut_limestone_brick_wall",
+    "count": 6,
+    "ingredients": [
+      "create:cut_limestone_bricks",
+      "create:cut_limestone_bricks",
+      "create:cut_limestone_bricks",
+      "create:cut_limestone_bricks",
+      "create:cut_limestone_bricks",
+      "create:cut_limestone_bricks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_limestone_slab": {
+    "result": "create:cut_limestone_slab",
+    "count": 6,
+    "ingredients": [
+      "create:cut_limestone",
+      "create:cut_limestone",
+      "create:cut_limestone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_limestone": {
+    "result": "create:cut_limestone",
+    "count": 1,
+    "ingredients": [
+      "create:cut_limestone_slab",
+      "create:cut_limestone_slab",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_limestone_stairs": {
+    "result": "create:cut_limestone_stairs",
+    "count": 4,
+    "ingredients": [
+      "create:cut_limestone",
+      "",
+      "",
+      "create:cut_limestone",
+      "create:cut_limestone",
+      "",
+      "create:cut_limestone",
+      "create:cut_limestone",
+      "create:cut_limestone"
+    ]
+  },
+  "create:cut_limestone_wall": {
+    "result": "create:cut_limestone_wall",
+    "count": 6,
+    "ingredients": [
+      "create:cut_limestone",
+      "create:cut_limestone",
+      "create:cut_limestone",
+      "create:cut_limestone",
+      "create:cut_limestone",
+      "create:cut_limestone",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_ochrum_brick_slab": {
+    "result": "create:cut_ochrum_brick_slab",
+    "count": 6,
+    "ingredients": [
+      "create:cut_ochrum_bricks",
+      "create:cut_ochrum_bricks",
+      "create:cut_ochrum_bricks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_ochrum_bricks": {
+    "result": "create:cut_ochrum_bricks",
+    "count": 1,
+    "ingredients": [
+      "create:cut_ochrum_brick_slab",
+      "create:cut_ochrum_brick_slab",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_ochrum_brick_stairs": {
+    "result": "create:cut_ochrum_brick_stairs",
+    "count": 4,
+    "ingredients": [
+      "create:cut_ochrum_bricks",
+      "",
+      "",
+      "create:cut_ochrum_bricks",
+      "create:cut_ochrum_bricks",
+      "",
+      "create:cut_ochrum_bricks",
+      "create:cut_ochrum_bricks",
+      "create:cut_ochrum_bricks"
+    ]
+  },
+  "create:cut_ochrum_brick_wall": {
+    "result": "create:cut_ochrum_brick_wall",
+    "count": 6,
+    "ingredients": [
+      "create:cut_ochrum_bricks",
+      "create:cut_ochrum_bricks",
+      "create:cut_ochrum_bricks",
+      "create:cut_ochrum_bricks",
+      "create:cut_ochrum_bricks",
+      "create:cut_ochrum_bricks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_ochrum_slab": {
+    "result": "create:cut_ochrum_slab",
+    "count": 6,
+    "ingredients": [
+      "create:cut_ochrum",
+      "create:cut_ochrum",
+      "create:cut_ochrum",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_ochrum": {
+    "result": "create:cut_ochrum",
+    "count": 1,
+    "ingredients": [
+      "create:cut_ochrum_slab",
+      "create:cut_ochrum_slab",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_ochrum_stairs": {
+    "result": "create:cut_ochrum_stairs",
+    "count": 4,
+    "ingredients": [
+      "create:cut_ochrum",
+      "",
+      "",
+      "create:cut_ochrum",
+      "create:cut_ochrum",
+      "",
+      "create:cut_ochrum",
+      "create:cut_ochrum",
+      "create:cut_ochrum"
+    ]
+  },
+  "create:cut_ochrum_wall": {
+    "result": "create:cut_ochrum_wall",
+    "count": 6,
+    "ingredients": [
+      "create:cut_ochrum",
+      "create:cut_ochrum",
+      "create:cut_ochrum",
+      "create:cut_ochrum",
+      "create:cut_ochrum",
+      "create:cut_ochrum",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_scorchia_brick_slab": {
+    "result": "create:cut_scorchia_brick_slab",
+    "count": 6,
+    "ingredients": [
+      "create:cut_scorchia_bricks",
+      "create:cut_scorchia_bricks",
+      "create:cut_scorchia_bricks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_scorchia_bricks": {
+    "result": "create:cut_scorchia_bricks",
+    "count": 1,
+    "ingredients": [
+      "create:cut_scorchia_brick_slab",
+      "create:cut_scorchia_brick_slab",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_scorchia_brick_stairs": {
+    "result": "create:cut_scorchia_brick_stairs",
+    "count": 4,
+    "ingredients": [
+      "create:cut_scorchia_bricks",
+      "",
+      "",
+      "create:cut_scorchia_bricks",
+      "create:cut_scorchia_bricks",
+      "",
+      "create:cut_scorchia_bricks",
+      "create:cut_scorchia_bricks",
+      "create:cut_scorchia_bricks"
+    ]
+  },
+  "create:cut_scorchia_brick_wall": {
+    "result": "create:cut_scorchia_brick_wall",
+    "count": 6,
+    "ingredients": [
+      "create:cut_scorchia_bricks",
+      "create:cut_scorchia_bricks",
+      "create:cut_scorchia_bricks",
+      "create:cut_scorchia_bricks",
+      "create:cut_scorchia_bricks",
+      "create:cut_scorchia_bricks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_scorchia_slab": {
+    "result": "create:cut_scorchia_slab",
+    "count": 6,
+    "ingredients": [
+      "create:cut_scorchia",
+      "create:cut_scorchia",
+      "create:cut_scorchia",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_scorchia": {
+    "result": "create:cut_scorchia",
+    "count": 1,
+    "ingredients": [
+      "create:cut_scorchia_slab",
+      "create:cut_scorchia_slab",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_scorchia_stairs": {
+    "result": "create:cut_scorchia_stairs",
+    "count": 4,
+    "ingredients": [
+      "create:cut_scorchia",
+      "",
+      "",
+      "create:cut_scorchia",
+      "create:cut_scorchia",
+      "",
+      "create:cut_scorchia",
+      "create:cut_scorchia",
+      "create:cut_scorchia"
+    ]
+  },
+  "create:cut_scorchia_wall": {
+    "result": "create:cut_scorchia_wall",
+    "count": 6,
+    "ingredients": [
+      "create:cut_scorchia",
+      "create:cut_scorchia",
+      "create:cut_scorchia",
+      "create:cut_scorchia",
+      "create:cut_scorchia",
+      "create:cut_scorchia",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_scoria_brick_slab": {
+    "result": "create:cut_scoria_brick_slab",
+    "count": 6,
+    "ingredients": [
+      "create:cut_scoria_bricks",
+      "create:cut_scoria_bricks",
+      "create:cut_scoria_bricks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_scoria_bricks": {
+    "result": "create:cut_scoria_bricks",
+    "count": 1,
+    "ingredients": [
+      "create:cut_scoria_brick_slab",
+      "create:cut_scoria_brick_slab",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_scoria_brick_stairs": {
+    "result": "create:cut_scoria_brick_stairs",
+    "count": 4,
+    "ingredients": [
+      "create:cut_scoria_bricks",
+      "",
+      "",
+      "create:cut_scoria_bricks",
+      "create:cut_scoria_bricks",
+      "",
+      "create:cut_scoria_bricks",
+      "create:cut_scoria_bricks",
+      "create:cut_scoria_bricks"
+    ]
+  },
+  "create:cut_scoria_brick_wall": {
+    "result": "create:cut_scoria_brick_wall",
+    "count": 6,
+    "ingredients": [
+      "create:cut_scoria_bricks",
+      "create:cut_scoria_bricks",
+      "create:cut_scoria_bricks",
+      "create:cut_scoria_bricks",
+      "create:cut_scoria_bricks",
+      "create:cut_scoria_bricks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_scoria_slab": {
+    "result": "create:cut_scoria_slab",
+    "count": 6,
+    "ingredients": [
+      "create:cut_scoria",
+      "create:cut_scoria",
+      "create:cut_scoria",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_scoria": {
+    "result": "create:cut_scoria",
+    "count": 1,
+    "ingredients": [
+      "create:cut_scoria_slab",
+      "create:cut_scoria_slab",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_scoria_stairs": {
+    "result": "create:cut_scoria_stairs",
+    "count": 4,
+    "ingredients": [
+      "create:cut_scoria",
+      "",
+      "",
+      "create:cut_scoria",
+      "create:cut_scoria",
+      "",
+      "create:cut_scoria",
+      "create:cut_scoria",
+      "create:cut_scoria"
+    ]
+  },
+  "create:cut_scoria_wall": {
+    "result": "create:cut_scoria_wall",
+    "count": 6,
+    "ingredients": [
+      "create:cut_scoria",
+      "create:cut_scoria",
+      "create:cut_scoria",
+      "create:cut_scoria",
+      "create:cut_scoria",
+      "create:cut_scoria",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_tuff_brick_slab": {
+    "result": "create:cut_tuff_brick_slab",
+    "count": 6,
+    "ingredients": [
+      "create:cut_tuff_bricks",
+      "create:cut_tuff_bricks",
+      "create:cut_tuff_bricks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_tuff_bricks": {
+    "result": "create:cut_tuff_bricks",
+    "count": 1,
+    "ingredients": [
+      "create:cut_tuff_brick_slab",
+      "create:cut_tuff_brick_slab",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_tuff_brick_stairs": {
+    "result": "create:cut_tuff_brick_stairs",
+    "count": 4,
+    "ingredients": [
+      "create:cut_tuff_bricks",
+      "",
+      "",
+      "create:cut_tuff_bricks",
+      "create:cut_tuff_bricks",
+      "",
+      "create:cut_tuff_bricks",
+      "create:cut_tuff_bricks",
+      "create:cut_tuff_bricks"
+    ]
+  },
+  "create:cut_tuff_brick_wall": {
+    "result": "create:cut_tuff_brick_wall",
+    "count": 6,
+    "ingredients": [
+      "create:cut_tuff_bricks",
+      "create:cut_tuff_bricks",
+      "create:cut_tuff_bricks",
+      "create:cut_tuff_bricks",
+      "create:cut_tuff_bricks",
+      "create:cut_tuff_bricks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_tuff_slab": {
+    "result": "create:cut_tuff_slab",
+    "count": 6,
+    "ingredients": [
+      "create:cut_tuff",
+      "create:cut_tuff",
+      "create:cut_tuff",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_tuff": {
+    "result": "create:cut_tuff",
+    "count": 1,
+    "ingredients": [
+      "create:cut_tuff_slab",
+      "create:cut_tuff_slab",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_tuff_stairs": {
+    "result": "create:cut_tuff_stairs",
+    "count": 4,
+    "ingredients": [
+      "create:cut_tuff",
+      "",
+      "",
+      "create:cut_tuff",
+      "create:cut_tuff",
+      "",
+      "create:cut_tuff",
+      "create:cut_tuff",
+      "create:cut_tuff"
+    ]
+  },
+  "create:cut_tuff_wall": {
+    "result": "create:cut_tuff_wall",
+    "count": 6,
+    "ingredients": [
+      "create:cut_tuff",
+      "create:cut_tuff",
+      "create:cut_tuff",
+      "create:cut_tuff",
+      "create:cut_tuff",
+      "create:cut_tuff",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_veridium_brick_slab": {
+    "result": "create:cut_veridium_brick_slab",
+    "count": 6,
+    "ingredients": [
+      "create:cut_veridium_bricks",
+      "create:cut_veridium_bricks",
+      "create:cut_veridium_bricks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_veridium_bricks": {
+    "result": "create:cut_veridium_bricks",
+    "count": 1,
+    "ingredients": [
+      "create:cut_veridium_brick_slab",
+      "create:cut_veridium_brick_slab",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_veridium_brick_stairs": {
+    "result": "create:cut_veridium_brick_stairs",
+    "count": 4,
+    "ingredients": [
+      "create:cut_veridium_bricks",
+      "",
+      "",
+      "create:cut_veridium_bricks",
+      "create:cut_veridium_bricks",
+      "",
+      "create:cut_veridium_bricks",
+      "create:cut_veridium_bricks",
+      "create:cut_veridium_bricks"
+    ]
+  },
+  "create:cut_veridium_brick_wall": {
+    "result": "create:cut_veridium_brick_wall",
+    "count": 6,
+    "ingredients": [
+      "create:cut_veridium_bricks",
+      "create:cut_veridium_bricks",
+      "create:cut_veridium_bricks",
+      "create:cut_veridium_bricks",
+      "create:cut_veridium_bricks",
+      "create:cut_veridium_bricks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_veridium_slab": {
+    "result": "create:cut_veridium_slab",
+    "count": 6,
+    "ingredients": [
+      "create:cut_veridium",
+      "create:cut_veridium",
+      "create:cut_veridium",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_veridium": {
+    "result": "create:cut_veridium",
+    "count": 1,
+    "ingredients": [
+      "create:cut_veridium_slab",
+      "create:cut_veridium_slab",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cut_veridium_stairs": {
+    "result": "create:cut_veridium_stairs",
+    "count": 4,
+    "ingredients": [
+      "create:cut_veridium",
+      "",
+      "",
+      "create:cut_veridium",
+      "create:cut_veridium",
+      "",
+      "create:cut_veridium",
+      "create:cut_veridium",
+      "create:cut_veridium"
+    ]
+  },
+  "create:cut_veridium_wall": {
+    "result": "create:cut_veridium_wall",
+    "count": 6,
+    "ingredients": [
+      "create:cut_veridium",
+      "create:cut_veridium",
+      "create:cut_veridium",
+      "create:cut_veridium",
+      "create:cut_veridium",
+      "create:cut_veridium",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:cuckoo_clock": {
+    "result": "create:cuckoo_clock",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "",
+      "",
+      "create:andesite_casing",
+      "",
+      "",
+      "minecraft:clock",
+      "",
+      ""
+    ]
+  },
+  "deeperdarker:cut_gloomslate": {
+    "result": "deeperdarker:cut_gloomslate",
+    "count": 4,
+    "ingredients": [
+      "deeperdarker:smooth_gloomslate",
+      "deeperdarker:smooth_gloomslate",
+      "",
+      "deeperdarker:smooth_gloomslate",
+      "deeperdarker:smooth_gloomslate",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "deeperdarker:cut_gloomslate_slab": {
+    "result": "deeperdarker:cut_gloomslate_slab",
+    "count": 6,
+    "ingredients": [
+      "deeperdarker:cut_gloomslate",
+      "deeperdarker:cut_gloomslate",
+      "deeperdarker:cut_gloomslate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "deeperdarker:cut_gloomslate_stairs": {
+    "result": "deeperdarker:cut_gloomslate_stairs",
+    "count": 4,
+    "ingredients": [
+      "deeperdarker:cut_gloomslate",
+      "",
+      "",
+      "deeperdarker:cut_gloomslate",
+      "deeperdarker:cut_gloomslate",
+      "",
+      "deeperdarker:cut_gloomslate",
+      "deeperdarker:cut_gloomslate",
+      "deeperdarker:cut_gloomslate"
+    ]
+  },
+  "deeperdarker:cut_gloomslate_wall": {
+    "result": "deeperdarker:cut_gloomslate_wall",
+    "count": 6,
+    "ingredients": [
+      "deeperdarker:cut_gloomslate",
+      "deeperdarker:cut_gloomslate",
+      "deeperdarker:cut_gloomslate",
+      "deeperdarker:cut_gloomslate",
+      "deeperdarker:cut_gloomslate",
+      "deeperdarker:cut_gloomslate",
+      "",
+      "",
+      ""
+    ]
+  },
+  "deeperdarker:cut_sculk_stone": {
+    "result": "deeperdarker:cut_sculk_stone",
+    "count": 4,
+    "ingredients": [
+      "deeperdarker:smooth_sculk_stone",
+      "deeperdarker:smooth_sculk_stone",
+      "",
+      "deeperdarker:smooth_sculk_stone",
+      "deeperdarker:smooth_sculk_stone",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "deeperdarker:cut_sculk_stone_slab": {
+    "result": "deeperdarker:cut_sculk_stone_slab",
+    "count": 6,
+    "ingredients": [
+      "deeperdarker:cut_sculk_stone",
+      "deeperdarker:cut_sculk_stone",
+      "deeperdarker:cut_sculk_stone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "deeperdarker:cut_sculk_stone_stairs": {
+    "result": "deeperdarker:cut_sculk_stone_stairs",
+    "count": 4,
+    "ingredients": [
+      "deeperdarker:cut_sculk_stone",
+      "",
+      "",
+      "deeperdarker:cut_sculk_stone",
+      "deeperdarker:cut_sculk_stone",
+      "",
+      "deeperdarker:cut_sculk_stone",
+      "deeperdarker:cut_sculk_stone",
+      "deeperdarker:cut_sculk_stone"
+    ]
+  },
+  "deeperdarker:cut_sculk_stone_wall": {
+    "result": "deeperdarker:cut_sculk_stone_wall",
+    "count": 6,
+    "ingredients": [
+      "deeperdarker:cut_sculk_stone",
+      "deeperdarker:cut_sculk_stone",
+      "deeperdarker:cut_sculk_stone",
+      "deeperdarker:cut_sculk_stone",
+      "deeperdarker:cut_sculk_stone",
+      "deeperdarker:cut_sculk_stone",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:cut_flare_brick_slab": {
+    "result": "eternal_starlight:cut_flare_brick_slab",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:cut_flare_bricks",
+      "eternal_starlight:cut_flare_bricks",
+      "eternal_starlight:cut_flare_bricks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:cut_flare_brick_stairs": {
+    "result": "eternal_starlight:cut_flare_brick_stairs",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:cut_flare_bricks",
+      "",
+      "",
+      "eternal_starlight:cut_flare_bricks",
+      "eternal_starlight:cut_flare_bricks",
+      "",
+      "eternal_starlight:cut_flare_bricks",
+      "eternal_starlight:cut_flare_bricks",
+      "eternal_starlight:cut_flare_bricks"
+    ]
+  },
+  "eternal_starlight:cut_flare_brick_wall": {
+    "result": "eternal_starlight:cut_flare_brick_wall",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:cut_flare_bricks",
+      "eternal_starlight:cut_flare_bricks",
+      "eternal_starlight:cut_flare_bricks",
+      "eternal_starlight:cut_flare_bricks",
+      "eternal_starlight:cut_flare_bricks",
+      "eternal_starlight:cut_flare_bricks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:cut_flare_tile_slab": {
+    "result": "eternal_starlight:cut_flare_tile_slab",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:cut_flare_tiles",
+      "eternal_starlight:cut_flare_tiles",
+      "eternal_starlight:cut_flare_tiles",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:cut_flare_tile_stairs": {
+    "result": "eternal_starlight:cut_flare_tile_stairs",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:cut_flare_tiles",
+      "",
+      "",
+      "eternal_starlight:cut_flare_tiles",
+      "eternal_starlight:cut_flare_tiles",
+      "",
+      "eternal_starlight:cut_flare_tiles",
+      "eternal_starlight:cut_flare_tiles",
+      "eternal_starlight:cut_flare_tiles"
+    ]
+  },
+  "eternal_starlight:cut_flare_tile_wall": {
+    "result": "eternal_starlight:cut_flare_tile_wall",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:cut_flare_tiles",
+      "eternal_starlight:cut_flare_tiles",
+      "eternal_starlight:cut_flare_tiles",
+      "eternal_starlight:cut_flare_tiles",
+      "eternal_starlight:cut_flare_tiles",
+      "eternal_starlight:cut_flare_tiles",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:cut_twilight_sandstone": {
+    "result": "eternal_starlight:cut_twilight_sandstone",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:twilight_sandstone",
+      "eternal_starlight:twilight_sandstone",
+      "",
+      "eternal_starlight:twilight_sandstone",
+      "eternal_starlight:twilight_sandstone",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:cut_twilight_sandstone_slab": {
+    "result": "eternal_starlight:cut_twilight_sandstone_slab",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:cut_twilight_sandstone",
+      "eternal_starlight:cut_twilight_sandstone",
+      "eternal_starlight:cut_twilight_sandstone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:cut_twilight_sandstone_stairs": {
+    "result": "eternal_starlight:cut_twilight_sandstone_stairs",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:cut_twilight_sandstone",
+      "",
+      "",
+      "eternal_starlight:cut_twilight_sandstone",
+      "eternal_starlight:cut_twilight_sandstone",
+      "",
+      "eternal_starlight:cut_twilight_sandstone",
+      "eternal_starlight:cut_twilight_sandstone",
+      "eternal_starlight:cut_twilight_sandstone"
+    ]
+  },
+  "eternal_starlight:cut_twilight_sandstone_wall": {
+    "result": "eternal_starlight:cut_twilight_sandstone_wall",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:cut_twilight_sandstone",
+      "eternal_starlight:cut_twilight_sandstone",
+      "eternal_starlight:cut_twilight_sandstone",
+      "eternal_starlight:cut_twilight_sandstone",
+      "eternal_starlight:cut_twilight_sandstone",
+      "eternal_starlight:cut_twilight_sandstone",
+      "",
+      "",
+      ""
+    ]
+  },
+  "farmersdelight:cutting_board": {
+    "result": "farmersdelight:cutting_board",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:stick",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "forbidden_arcanus:cut_soulless_sandstone_slab": {
+    "result": "forbidden_arcanus:cut_soulless_sandstone_slab",
+    "count": 6,
+    "ingredients": [
+      "forbidden_arcanus:cut_soulless_sandstone",
+      "forbidden_arcanus:cut_soulless_sandstone",
+      "forbidden_arcanus:cut_soulless_sandstone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "generatorgalore:culinary_generator_64x": {
+    "result": "generatorgalore:culinary_generator_64x",
+    "count": 1,
+    "ingredients": [
+      "generatorgalore:culinary_generator_8x",
+      "generatorgalore:culinary_generator_8x",
+      "generatorgalore:culinary_generator_8x",
+      "generatorgalore:culinary_generator_8x",
+      "minecraft:conduit",
+      "generatorgalore:culinary_generator_8x",
+      "generatorgalore:culinary_generator_8x",
+      "generatorgalore:culinary_generator_8x",
+      "generatorgalore:culinary_generator_8x"
+    ]
+  },
+  "generatorgalore:culinary_generator_8x": {
+    "result": "generatorgalore:culinary_generator_8x",
+    "count": 1,
+    "ingredients": [
+      "generatorgalore:culinary_generator",
+      "generatorgalore:culinary_generator",
+      "generatorgalore:culinary_generator",
+      "generatorgalore:culinary_generator",
+      "minecraft:echo_shard",
+      "generatorgalore:culinary_generator",
+      "generatorgalore:culinary_generator",
+      "generatorgalore:culinary_generator",
+      "generatorgalore:culinary_generator"
+    ]
+  },
+  "generatorgalore:culinary_generator": {
+    "result": "generatorgalore:culinary_generator",
+    "count": 1,
+    "ingredients": [
+      "minecraft:crops",
+      "minecraft:cake",
+      "minecraft:crops",
+      "minecraft:crops",
+      "generatorgalore:gold_generator",
+      "minecraft:crops",
+      "minecraft:eggs",
+      "minecraft:redstone",
+      "minecraft:eggs"
+    ]
+  },
+  "generatorgalore:culinary_to_honey_upgrade": {
+    "result": "generatorgalore:culinary_to_honey_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:honey_block",
+      "minecraft:honey_block",
+      "minecraft:honey_block",
+      "minecraft:honey_block",
+      "minecraft:item_frame",
+      "minecraft:honey_block",
+      "minecraft:bucket",
+      "minecraft:redstone",
+      "minecraft:bucket"
+    ]
+  },
+  "generatorgalore:culinary_to_potion_upgrade": {
+    "result": "generatorgalore:culinary_to_potion_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:pink",
+      "minecraft:pink",
+      "minecraft:pink",
+      "minecraft:pink",
+      "minecraft:item_frame",
+      "minecraft:pink",
+      "minecraft:brewing_stand",
+      "minecraft:redstone",
+      "minecraft:brewing_stand"
+    ]
+  },
+  "herbsandharvest:cucumber_seeds": {
+    "result": "herbsandharvest:cucumber_seeds",
+    "count": 1,
+    "ingredients": [
+      "herbsandharvest:cucumber",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "herbsandharvest:cup": {
+    "result": "herbsandharvest:cup",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glass_pane",
+      "",
+      "minecraft:glass_pane",
+      "",
+      "minecraft:glass_pane",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "herbsandharvest:cupcake_stand": {
+    "result": "herbsandharvest:cupcake_stand",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_slab",
+      "minecraft:oak_slab",
+      "minecraft:oak_slab",
+      "",
+      "minecraft:stick",
+      "",
+      "minecraft:oak_slab",
+      "minecraft:oak_slab",
+      "minecraft:oak_slab"
+    ]
+  },
+  "immersiveengineering:current_transformer": {
+    "result": "immersiveengineering:current_transformer",
+    "count": 1,
+    "ingredients": [
+      "",
+      "immersiveengineering:voltmeter",
+      "",
+      "",
+      "minecraft:connector_insulator",
+      "",
+      "minecraft:iron_ingot",
+      "immersiveengineering:component_electronic",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "immersiveengineering:cushion": {
+    "result": "immersiveengineering:cushion",
+    "count": 3,
+    "ingredients": [
+      "immersiveengineering:hemp_fabric",
+      "immersiveengineering:hemp_fabric",
+      "immersiveengineering:hemp_fabric",
+      "immersiveengineering:hemp_fabric",
+      "",
+      "immersiveengineering:hemp_fabric",
+      "immersiveengineering:hemp_fabric",
+      "immersiveengineering:hemp_fabric",
+      "immersiveengineering:hemp_fabric"
+    ]
+  },
+  "irons_spellbooks:cultist_boots": {
+    "result": "irons_spellbooks:cultist_boots",
+    "count": 1,
+    "ingredients": [
+      "minecraft:wizard_base_boots",
+      "irons_spellbooks:blood_rune",
+      "irons_spellbooks:arcane_essence",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "irons_spellbooks:cultist_chestplate": {
+    "result": "irons_spellbooks:cultist_chestplate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:chest",
+      "irons_spellbooks:blood_rune",
+      "irons_spellbooks:arcane_essence",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "irons_spellbooks:cultist_helmet": {
+    "result": "irons_spellbooks:cultist_helmet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:wizard_base_helmet",
+      "irons_spellbooks:blood_rune",
+      "irons_spellbooks:arcane_essence",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "irons_spellbooks:cultist_leggings": {
+    "result": "irons_spellbooks:cultist_leggings",
+    "count": 1,
+    "ingredients": [
+      "minecraft:wizard_base_leggings",
+      "irons_spellbooks:blood_rune",
+      "irons_spellbooks:arcane_essence",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "irons_spellbooks:cursed_doll_spell_book": {
+    "result": "irons_spellbooks:cursed_doll_spell_book",
+    "count": 1,
+    "ingredients": [
+      "irons_spellbooks:arcane_ingot",
+      "irons_spellbooks:bloody_vellum",
+      "",
+      "irons_spellbooks:bloody_vellum",
+      "irons_spellbooks:ruined_book",
+      "irons_spellbooks:bloody_vellum",
+      "",
+      "irons_spellbooks:bloody_vellum",
+      "irons_spellbooks:arcane_ingot"
+    ]
+  },
+  "mcwfences:curved_metal_fence_gate": {
+    "result": "mcwfences:curved_metal_fence_gate",
+    "count": 6,
+    "ingredients": [
+      "mcwfences:curved_metal_fence",
+      "mcwfences:curved_metal_fence",
+      "mcwfences:curved_metal_fence",
+      "mcwfences:curved_metal_fence",
+      "mcwfences:curved_metal_fence",
+      "mcwfences:curved_metal_fence",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mffs:cube_mode": {
+    "result": "mffs:cube_mode",
+    "count": 1,
+    "ingredients": [
+      "mffs:focus_matrix",
+      "mffs:focus_matrix",
+      "mffs:focus_matrix",
+      "mffs:focus_matrix",
+      "mffs:focus_matrix",
+      "mffs:focus_matrix",
+      "mffs:focus_matrix",
+      "mffs:focus_matrix",
+      "mffs:focus_matrix"
+    ]
+  },
+  "mffs:custom_mode": {
+    "result": "mffs:custom_mode",
+    "count": 1,
+    "ingredients": [
+      "",
+      "mffs:cube_mode",
+      "",
+      "mffs:tube_mode",
+      "mffs:focus_matrix",
+      "mffs:pyramid_mode",
+      "",
+      "mffs:sphere_mode",
+      ""
+    ]
+  },
+  "minecraft:cut_copper": {
+    "result": "minecraft:cut_copper",
+    "count": 4,
+    "ingredients": [
+      "minecraft:copper_block",
+      "minecraft:copper_block",
+      "",
+      "minecraft:copper_block",
+      "minecraft:copper_block",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:cut_copper_slab": {
+    "result": "minecraft:cut_copper_slab",
+    "count": 6,
+    "ingredients": [
+      "minecraft:cut_copper",
+      "minecraft:cut_copper",
+      "minecraft:cut_copper",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:cut_copper_stairs": {
+    "result": "minecraft:cut_copper_stairs",
+    "count": 4,
+    "ingredients": [
+      "minecraft:cut_copper",
+      "",
+      "",
+      "minecraft:cut_copper",
+      "minecraft:cut_copper",
+      "",
+      "minecraft:cut_copper",
+      "minecraft:cut_copper",
+      "minecraft:cut_copper"
+    ]
+  },
+  "minecraft:cut_red_sandstone": {
+    "result": "minecraft:cut_red_sandstone",
+    "count": 4,
+    "ingredients": [
+      "minecraft:red_sandstone",
+      "minecraft:red_sandstone",
+      "",
+      "minecraft:red_sandstone",
+      "minecraft:red_sandstone",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:cut_red_sandstone_slab": {
+    "result": "minecraft:cut_red_sandstone_slab",
+    "count": 6,
+    "ingredients": [
+      "minecraft:cut_red_sandstone",
+      "minecraft:cut_red_sandstone",
+      "minecraft:cut_red_sandstone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:cut_sandstone": {
+    "result": "minecraft:cut_sandstone",
+    "count": 4,
+    "ingredients": [
+      "minecraft:sandstone",
+      "minecraft:sandstone",
+      "",
+      "minecraft:sandstone",
+      "minecraft:sandstone",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:cut_sandstone_slab": {
+    "result": "minecraft:cut_sandstone_slab",
+    "count": 6,
+    "ingredients": [
+      "minecraft:cut_sandstone",
+      "minecraft:cut_sandstone",
+      "minecraft:cut_sandstone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:cupronickel_block": {
+    "result": "modern_industrialization:cupronickel_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:cupronickel",
+      "minecraft:cupronickel",
+      "minecraft:cupronickel",
+      "minecraft:cupronickel",
+      "modern_industrialization:cupronickel_ingot",
+      "minecraft:cupronickel",
+      "minecraft:cupronickel",
+      "minecraft:cupronickel",
+      "minecraft:cupronickel"
+    ]
+  },
+  "modern_industrialization:cupronickel_cable": {
+    "result": "modern_industrialization:cupronickel_cable",
+    "count": 3,
+    "ingredients": [
+      "modern_industrialization:rubber_sheet",
+      "modern_industrialization:rubber_sheet",
+      "modern_industrialization:rubber_sheet",
+      "modern_industrialization:cupronickel_wire",
+      "modern_industrialization:cupronickel_wire",
+      "modern_industrialization:cupronickel_wire",
+      "modern_industrialization:rubber_sheet",
+      "modern_industrialization:rubber_sheet",
+      "modern_industrialization:rubber_sheet"
+    ]
+  },
+  "modern_industrialization:cupronickel_coil": {
+    "result": "modern_industrialization:cupronickel_coil",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:cupronickel_cable",
+      "modern_industrialization:cupronickel_cable",
+      "modern_industrialization:cupronickel_cable",
+      "modern_industrialization:cupronickel_cable",
+      "",
+      "modern_industrialization:cupronickel_cable",
+      "modern_industrialization:cupronickel_cable",
+      "modern_industrialization:cupronickel_cable",
+      "modern_industrialization:cupronickel_cable"
+    ]
+  },
+  "modern_industrialization:cupronickel_dust": {
+    "result": "modern_industrialization:cupronickel_dust",
+    "count": 1,
+    "ingredients": [
+      "minecraft:cupronickel",
+      "minecraft:cupronickel",
+      "minecraft:cupronickel",
+      "minecraft:cupronickel",
+      "modern_industrialization:cupronickel_tiny_dust",
+      "minecraft:cupronickel",
+      "minecraft:cupronickel",
+      "minecraft:cupronickel",
+      "minecraft:cupronickel"
+    ]
+  },
+  "modern_industrialization:cupronickel_ingot": {
+    "result": "modern_industrialization:cupronickel_ingot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:cupronickel",
+      "minecraft:cupronickel",
+      "minecraft:cupronickel",
+      "minecraft:cupronickel",
+      "modern_industrialization:cupronickel_nugget",
+      "minecraft:cupronickel",
+      "minecraft:cupronickel",
+      "minecraft:cupronickel",
+      "minecraft:cupronickel"
+    ]
+  },
+  "modern_industrialization:cupronickel_nugget": {
+    "result": "modern_industrialization:cupronickel_nugget",
+    "count": 9,
+    "ingredients": [
+      "modern_industrialization:cupronickel_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:cupronickel_tiny_dust": {
+    "result": "modern_industrialization:cupronickel_tiny_dust",
+    "count": 9,
+    "ingredients": [
+      "modern_industrialization:cupronickel_dust",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2crops:cucumberseeditem": {
+    "result": "pamhc2crops:cucumberseeditem",
+    "count": 1,
+    "ingredients": [
+      "pamhc2crops:cucumberitem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:cuttingboarditem": {
+    "result": "pamhc2foodcore:cuttingboarditem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:copper_ingot",
+      "",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      "minecraft:oak_planks"
+    ]
+  },
+  "pamhc2foodextended:cucumbersandwichitem": {
+    "result": "pamhc2foodextended:cucumbersandwichitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:bread",
+      "minecraft:cucumber",
+      "minecraft:cheese",
+      "minecraft:cream",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:curryitem": {
+    "result": "pamhc2foodextended:curryitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:rice",
+      "minecraft:blackpepper",
+      "minecraft:chilipepper",
+      "minecraft:coconut",
+      "minecraft:currypowder",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:currypowderitem": {
+    "result": "pamhc2foodextended:currypowderitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_grinder",
+      "minecraft:spiceleaf",
+      "minecraft:mustardseeds",
+      "minecraft:groundcinnamon",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:custarditem": {
+    "result": "pamhc2foodextended:custarditem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:egg",
+      "minecraft:groundnutmeg",
+      "minecraft:groundcinnamon",
+      "minecraft:cream",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:cultivated_pear_bookshelf": {
+    "result": "productivetrees:cultivated_pear_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:cultivated_pear_planks",
+      "productivetrees:cultivated_pear_planks",
+      "productivetrees:cultivated_pear_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:cultivated_pear_planks",
+      "productivetrees:cultivated_pear_planks",
+      "productivetrees:cultivated_pear_planks"
+    ]
+  },
+  "productivetrees:cultivated_pear_button": {
+    "result": "productivetrees:cultivated_pear_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:cultivated_pear_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:cultivated_pear_door": {
+    "result": "productivetrees:cultivated_pear_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:cultivated_pear_planks",
+      "productivetrees:cultivated_pear_planks",
+      "",
+      "productivetrees:cultivated_pear_planks",
+      "productivetrees:cultivated_pear_planks",
+      "",
+      "productivetrees:cultivated_pear_planks",
+      "productivetrees:cultivated_pear_planks",
+      ""
+    ]
+  },
+  "productivetrees:cultivated_pear_fence": {
+    "result": "productivetrees:cultivated_pear_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:cultivated_pear_planks",
+      "minecraft:stick",
+      "productivetrees:cultivated_pear_planks",
+      "productivetrees:cultivated_pear_planks",
+      "minecraft:stick",
+      "productivetrees:cultivated_pear_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:cultivated_pear_fence_gate": {
+    "result": "productivetrees:cultivated_pear_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:cultivated_pear_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:cultivated_pear_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:cultivated_pear_hanging_sign": {
+    "result": "productivetrees:cultivated_pear_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:cultivated_pear_planks",
+      "productivetrees:cultivated_pear_planks",
+      "productivetrees:cultivated_pear_planks",
+      "productivetrees:cultivated_pear_planks",
+      "productivetrees:cultivated_pear_planks",
+      "productivetrees:cultivated_pear_planks"
+    ]
+  },
+  "productivetrees:cultivated_pear_planks": {
+    "result": "productivetrees:cultivated_pear_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:cultivated_pear_pressure_plate": {
+    "result": "productivetrees:cultivated_pear_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:cultivated_pear_planks",
+      "productivetrees:cultivated_pear_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:cultivated_pear_sign": {
+    "result": "productivetrees:cultivated_pear_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:cultivated_pear_planks",
+      "productivetrees:cultivated_pear_planks",
+      "productivetrees:cultivated_pear_planks",
+      "productivetrees:cultivated_pear_planks",
+      "productivetrees:cultivated_pear_planks",
+      "productivetrees:cultivated_pear_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:cultivated_pear_slab": {
+    "result": "productivetrees:cultivated_pear_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:cultivated_pear_planks",
+      "productivetrees:cultivated_pear_planks",
+      "productivetrees:cultivated_pear_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:cultivated_pear_stairs": {
+    "result": "productivetrees:cultivated_pear_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:cultivated_pear_planks",
+      "",
+      "",
+      "productivetrees:cultivated_pear_planks",
+      "productivetrees:cultivated_pear_planks",
+      "",
+      "productivetrees:cultivated_pear_planks",
+      "productivetrees:cultivated_pear_planks",
+      "productivetrees:cultivated_pear_planks"
+    ]
+  },
+  "productivetrees:cultivated_pear_trapdoor": {
+    "result": "productivetrees:cultivated_pear_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:cultivated_pear_planks",
+      "productivetrees:cultivated_pear_planks",
+      "productivetrees:cultivated_pear_planks",
+      "productivetrees:cultivated_pear_planks",
+      "productivetrees:cultivated_pear_planks",
+      "productivetrees:cultivated_pear_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:cultivated_pear_wood": {
+    "result": "productivetrees:cultivated_pear_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:cultivated_pear_log",
+      "productivetrees:cultivated_pear_log",
+      "",
+      "productivetrees:cultivated_pear_log",
+      "productivetrees:cultivated_pear_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:cut_firestone": {
+    "result": "railcraft:cut_firestone",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:netherite_pickaxe",
+      "",
+      "minecraft:netherite_pickaxe",
+      "railcraft:raw_firestone",
+      "minecraft:netherite_pickaxe",
+      "",
+      "minecraft:netherite_pickaxe",
+      ""
+    ]
+  },
+  "sushigocrafting:cutting_board": {
+    "result": "sushigocrafting:cutting_board",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "minecraft:slabs",
+      "minecraft:slabs",
+      "minecraft:slabs",
+      "minecraft:oak_log",
+      "minecraft:oak_log",
+      "minecraft:oak_log"
+    ]
+  }
+}

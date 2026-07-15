@@ -1,0 +1,32 @@
+{
+  "little_big_redstone:xor_gate": {
+    "result": "little_big_redstone:xor_gate",
+    "count": 1,
+    "ingredients": [
+      "little_big_redstone:and_gate",
+      "",
+      "",
+      "minecraft:redstone",
+      "little_big_redstone:redstone_bit",
+      "little_big_redstone:nor_gate",
+      "little_big_redstone:nor_gate",
+      "",
+      ""
+    ]
+  },
+  "morered:xor_gate": {
+    "result": "morered:xor_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone",
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:redstone_torch",
+      "minecraft:redstone_torch",
+      "minecraft:redstone_torch",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone"
+    ]
+  }
+}

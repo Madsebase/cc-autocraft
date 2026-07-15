@@ -1,0 +1,1592 @@
+{
+  "actuallyadditions:leaf_blower": {
+    "result": "actuallyadditions:leaf_blower",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:flint",
+      "",
+      "actuallyadditions:enori_crystal",
+      "minecraft:piston",
+      "",
+      "actuallyadditions:enori_crystal",
+      "actuallyadditions:advanced_coil",
+      ""
+    ]
+  },
+  "actuallyadditions:leaf_blo_pattern": {
+    "result": "actuallyadditions:leaf_blo_pattern",
+    "count": 1,
+    "ingredients": [
+      "actuallyadditions:leaf_blower",
+      "minecraft:paper",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "actuallyadditions:leaf_generator": {
+    "result": "actuallyadditions:leaf_generator",
+    "count": 1,
+    "ingredients": [
+      "actuallyadditions:leaf_generator",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "actuallyadditions:lens": {
+    "result": "actuallyadditions:lens",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "actuallyadditions:black_quartz",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass"
+    ]
+  },
+  "actuallyadditions:lens_of_disenchanting": {
+    "result": "actuallyadditions:lens_of_disenchanting",
+    "count": 1,
+    "ingredients": [
+      "actuallyadditions:lens",
+      "minecraft:enchanting_table",
+      "actuallyadditions:empowered_diamatine_crystal",
+      "actuallyadditions:empowered_diamatine_crystal",
+      "actuallyadditions:empowered_diamatine_crystal",
+      "actuallyadditions:empowered_diamatine_crystal",
+      "actuallyadditions:empowered_diamatine_crystal",
+      "actuallyadditions:empowered_diamatine_crystal",
+      "actuallyadditions:empowered_diamatine_crystal"
+    ]
+  },
+  "actuallyadditions:lens_of_the_miner": {
+    "result": "actuallyadditions:lens_of_the_miner",
+    "count": 1,
+    "ingredients": [
+      "minecraft:diamond",
+      "minecraft:gold_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:coal",
+      "actuallyadditions:lens",
+      "actuallyadditions:black_quartz",
+      "minecraft:quartz",
+      "minecraft:lapis_lazuli",
+      "minecraft:emerald"
+    ]
+  },
+  "ae2:level_emitter": {
+    "result": "ae2:level_emitter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone_torch",
+      "ae2:calculation_processor",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "aether:leather_gloves": {
+    "result": "aether:leather_gloves",
+    "count": 1,
+    "ingredients": [
+      "minecraft:leather",
+      "",
+      "minecraft:leather",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:lectern": {
+    "result": "minecraft:lectern",
+    "count": 1,
+    "ingredients": [
+      "minecraft:wooden_slabs",
+      "minecraft:wooden_slabs",
+      "minecraft:wooden_slabs",
+      "",
+      "minecraft:bookshelf",
+      "",
+      "",
+      "minecraft:wooden_slabs",
+      ""
+    ]
+  },
+  "minecraft:lead": {
+    "result": "minecraft:lead",
+    "count": 2,
+    "ingredients": [
+      "minecraft:string",
+      "minecraft:string",
+      "",
+      "minecraft:string",
+      "minecraft:slime_ball",
+      "",
+      "",
+      "",
+      "minecraft:string"
+    ]
+  },
+  "allthecompressed:lead_block_1x": {
+    "result": "allthecompressed:lead_block_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:lead_block_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:lead_block_2x": {
+    "result": "allthecompressed:lead_block_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:lead_block_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:lead_block_3x": {
+    "result": "allthecompressed:lead_block_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:lead_block_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:lead_block_4x": {
+    "result": "allthecompressed:lead_block_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:lead_block_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:lead_block_5x": {
+    "result": "allthecompressed:lead_block_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:lead_block_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:lead_block_6x": {
+    "result": "allthecompressed:lead_block_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:lead_block_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:lead_block_7x": {
+    "result": "allthecompressed:lead_block_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:lead_block_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:lead_block_8x": {
+    "result": "allthecompressed:lead_block_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:lead_block_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:lead_block_9x": {
+    "result": "allthecompressed:lead_block_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:lead_block_8x",
+      "allthecompressed:lead_block_8x",
+      "allthecompressed:lead_block_8x",
+      "allthecompressed:lead_block_8x",
+      "allthecompressed:lead_block_8x",
+      "allthecompressed:lead_block_8x",
+      "allthecompressed:lead_block_8x",
+      "allthecompressed:lead_block_8x",
+      "allthecompressed:lead_block_8x"
+    ]
+  },
+  "alltheores:lead_block": {
+    "result": "alltheores:lead_block",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:lead_ingot",
+      "modern_industrialization:lead_ingot",
+      "modern_industrialization:lead_ingot",
+      "modern_industrialization:lead_ingot",
+      "modern_industrialization:lead_ingot",
+      "modern_industrialization:lead_ingot",
+      "modern_industrialization:lead_ingot",
+      "modern_industrialization:lead_ingot",
+      "modern_industrialization:lead_ingot"
+    ]
+  },
+  "alltheores:lead_dust": {
+    "result": "alltheores:lead_dust",
+    "count": 2,
+    "ingredients": [
+      "minecraft:ore_hammers",
+      "minecraft:lead",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "alltheores:lead_gear": {
+    "result": "alltheores:lead_gear",
+    "count": 1,
+    "ingredients": [
+      "",
+      "modern_industrialization:lead_ingot",
+      "",
+      "modern_industrialization:lead_ingot",
+      "minecraft:iron",
+      "modern_industrialization:lead_ingot",
+      "",
+      "modern_industrialization:lead_ingot",
+      ""
+    ]
+  },
+  "alltheores:lead_ingot": {
+    "result": "alltheores:lead_ingot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:lead",
+      "minecraft:lead",
+      "minecraft:lead",
+      "minecraft:lead",
+      "minecraft:lead",
+      "minecraft:lead",
+      "minecraft:lead",
+      "minecraft:lead",
+      "minecraft:lead"
+    ]
+  },
+  "alltheores:lead_nugget": {
+    "result": "alltheores:lead_nugget",
+    "count": 9,
+    "ingredients": [
+      "modern_industrialization:lead_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "alltheores:lead_plate": {
+    "result": "alltheores:lead_plate",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "minecraft:ore_hammers",
+      "modern_industrialization:lead_ingot",
+      "",
+      "modern_industrialization:lead_ingot",
+      "",
+      ""
+    ]
+  },
+  "alltheores:lead_rod": {
+    "result": "alltheores:lead_rod",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "modern_industrialization:lead_ingot",
+      "minecraft:ore_hammers",
+      "modern_industrialization:lead_ingot",
+      ""
+    ]
+  },
+  "apothic_enchanting:leggings_tome": {
+    "result": "apothic_enchanting:leggings_tome",
+    "count": 7,
+    "ingredients": [
+      "minecraft:book",
+      "",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:blaze_rod",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book"
+    ]
+  },
+  "minecraft:leather": {
+    "result": "minecraft:leather",
+    "count": 1,
+    "ingredients": [
+      "silentgear:leather_scrap",
+      "silentgear:leather_scrap",
+      "silentgear:leather_scrap",
+      "silentgear:leather_scrap",
+      "silentgear:leather_scrap",
+      "silentgear:leather_scrap",
+      "silentgear:leather_scrap",
+      "silentgear:leather_scrap",
+      "silentgear:leather_scrap"
+    ]
+  },
+  "create_dragons_plus:levitite_fragile_fluid_tank": {
+    "result": "create_dragons_plus:levitite_fragile_fluid_tank",
+    "count": 8,
+    "ingredients": [
+      "create_dragons_plus:fragile_fluid_tank",
+      "create_dragons_plus:fragile_fluid_tank",
+      "create_dragons_plus:fragile_fluid_tank",
+      "create_dragons_plus:fragile_fluid_tank",
+      "aeronautics:levitite_blend_bucket",
+      "create_dragons_plus:fragile_fluid_tank",
+      "create_dragons_plus:fragile_fluid_tank",
+      "create_dragons_plus:fragile_fluid_tank",
+      "create_dragons_plus:fragile_fluid_tank"
+    ]
+  },
+  "minecraft:lever": {
+    "result": "minecraft:lever",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:cobblestone",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "extended_industrialization:lethal_tesla_coil": {
+    "result": "extended_industrialization:lethal_tesla_coil",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:tungsten_plate",
+      "extended_industrialization:silver_tesla_top_load",
+      "modern_industrialization:tungsten_plate",
+      "modern_industrialization:aluminum_cable",
+      "modern_industrialization:advanced_machine_hull",
+      "modern_industrialization:aluminum_cable",
+      "modern_industrialization:electronic_circuit",
+      "modern_industrialization:sodium_battery",
+      "modern_industrialization:electronic_circuit"
+    ]
+  },
+  "herbsandharvest:lemon_meringue_pie": {
+    "result": "herbsandharvest:lemon_meringue_pie",
+    "count": 1,
+    "ingredients": [
+      "minecraft:wheat",
+      "minecraft:butter",
+      "minecraft:milk",
+      "minecraft:egg",
+      "minecraft:lemon",
+      "minecraft:sugar",
+      "",
+      "",
+      ""
+    ]
+  },
+  "herbsandharvest:lettuce_seeds": {
+    "result": "herbsandharvest:lettuce_seeds",
+    "count": 1,
+    "ingredients": [
+      "herbsandharvest:lettuce",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:lectern": {
+    "result": "iceandfire:lectern",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:manuscript",
+      "",
+      "",
+      "minecraft:oak_planks",
+      "",
+      "",
+      "minecraft:oak_planks",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:legendary_dragon_seeker": {
+    "result": "iceandfire:legendary_dragon_seeker",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dragon_skulls",
+      "",
+      "",
+      "minecraft:dragon_steels",
+      "",
+      "",
+      "minecraft:dragon_steels",
+      "",
+      ""
+    ]
+  },
+  "irons_spellbooks:lesser_spell_slot_upgrade": {
+    "result": "irons_spellbooks:lesser_spell_slot_upgrade",
+    "count": 1,
+    "ingredients": [
+      "irons_spellbooks:hogskin",
+      "irons_spellbooks:magic_cloth",
+      "irons_spellbooks:hogskin",
+      "irons_spellbooks:hogskin",
+      "irons_spellbooks:magic_cloth",
+      "irons_spellbooks:hogskin",
+      "irons_spellbooks:hogskin",
+      "irons_spellbooks:magic_cloth",
+      "irons_spellbooks:hogskin"
+    ]
+  },
+  "livingthings:lexicon": {
+    "result": "livingthings:lexicon",
+    "count": 1,
+    "ingredients": [
+      "minecraft:book",
+      "minecraft:lapis_lazuli",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:left_corner_template": {
+    "result": "merrymaking:left_corner_template",
+    "count": 1,
+    "ingredients": [
+      "minecraft:green_dye",
+      "minecraft:green_dye",
+      "minecraft:paper",
+      "minecraft:green_dye",
+      "",
+      "",
+      "minecraft:green_dye",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:left_diag_template": {
+    "result": "merrymaking:left_diag_template",
+    "count": 1,
+    "ingredients": [
+      "minecraft:green_dye",
+      "",
+      "minecraft:green_dye",
+      "",
+      "minecraft:green_dye",
+      "",
+      "minecraft:green_dye",
+      "minecraft:paper",
+      ""
+    ]
+  },
+  "merrymaking:left_vert_template": {
+    "result": "merrymaking:left_vert_template",
+    "count": 1,
+    "ingredients": [
+      "minecraft:green_dye",
+      "minecraft:paper",
+      "",
+      "minecraft:green_dye",
+      "",
+      "",
+      "minecraft:green_dye",
+      "",
+      ""
+    ]
+  },
+  "minecraft:leather_boots": {
+    "result": "minecraft:leather_boots",
+    "count": 1,
+    "ingredients": [
+      "minecraft:leather",
+      "",
+      "minecraft:leather",
+      "minecraft:leather",
+      "",
+      "minecraft:leather",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:leather_chestplate": {
+    "result": "minecraft:leather_chestplate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:leather",
+      "",
+      "minecraft:leather",
+      "minecraft:leather",
+      "minecraft:leather",
+      "minecraft:leather",
+      "minecraft:leather",
+      "minecraft:leather",
+      "minecraft:leather"
+    ]
+  },
+  "minecraft:leather_helmet": {
+    "result": "minecraft:leather_helmet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:leather",
+      "minecraft:leather",
+      "minecraft:leather",
+      "minecraft:leather",
+      "",
+      "minecraft:leather",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:leather_horse_armor": {
+    "result": "minecraft:leather_horse_armor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:leather",
+      "",
+      "minecraft:leather",
+      "minecraft:leather",
+      "minecraft:leather",
+      "minecraft:leather",
+      "minecraft:leather",
+      "",
+      "minecraft:leather"
+    ]
+  },
+  "minecraft:leather_leggings": {
+    "result": "minecraft:leather_leggings",
+    "count": 1,
+    "ingredients": [
+      "minecraft:leather",
+      "minecraft:leather",
+      "minecraft:leather",
+      "minecraft:leather",
+      "",
+      "minecraft:leather",
+      "minecraft:leather",
+      "",
+      "minecraft:leather"
+    ]
+  },
+  "modern_industrialization:lead_block": {
+    "result": "modern_industrialization:lead_block",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:lead_ingot",
+      "modern_industrialization:lead_ingot",
+      "modern_industrialization:lead_ingot",
+      "modern_industrialization:lead_ingot",
+      "modern_industrialization:lead_ingot",
+      "modern_industrialization:lead_ingot",
+      "modern_industrialization:lead_ingot",
+      "modern_industrialization:lead_ingot",
+      "modern_industrialization:lead_ingot"
+    ]
+  },
+  "modern_industrialization:lead_ore": {
+    "result": "modern_industrialization:lead_ore",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:deepslate_lead_ore",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:lead_dust": {
+    "result": "modern_industrialization:lead_dust",
+    "count": 1,
+    "ingredients": [
+      "minecraft:lead",
+      "minecraft:lead",
+      "minecraft:lead",
+      "minecraft:lead",
+      "modern_industrialization:lead_tiny_dust",
+      "minecraft:lead",
+      "minecraft:lead",
+      "minecraft:lead",
+      "minecraft:lead"
+    ]
+  },
+  "modern_industrialization:lead_ingot": {
+    "result": "modern_industrialization:lead_ingot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:lead",
+      "minecraft:lead",
+      "minecraft:lead",
+      "minecraft:lead",
+      "modern_industrialization:lead_nugget",
+      "minecraft:lead",
+      "minecraft:lead",
+      "minecraft:lead",
+      "minecraft:lead"
+    ]
+  },
+  "modern_industrialization:lead_nugget": {
+    "result": "modern_industrialization:lead_nugget",
+    "count": 9,
+    "ingredients": [
+      "modern_industrialization:lead_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:lead_tiny_dust": {
+    "result": "modern_industrialization:lead_tiny_dust",
+    "count": 9,
+    "ingredients": [
+      "modern_industrialization:lead_dust",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:le_mox_block": {
+    "result": "modern_industrialization:le_mox_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:le_mox",
+      "minecraft:le_mox",
+      "minecraft:le_mox",
+      "minecraft:le_mox",
+      "modern_industrialization:le_mox_ingot",
+      "minecraft:le_mox",
+      "minecraft:le_mox",
+      "minecraft:le_mox",
+      "minecraft:le_mox"
+    ]
+  },
+  "modern_industrialization:le_mox_dust": {
+    "result": "modern_industrialization:le_mox_dust",
+    "count": 1,
+    "ingredients": [
+      "minecraft:le_mox",
+      "minecraft:le_mox",
+      "minecraft:le_mox",
+      "minecraft:le_mox",
+      "modern_industrialization:le_mox_tiny_dust",
+      "minecraft:le_mox",
+      "minecraft:le_mox",
+      "minecraft:le_mox",
+      "minecraft:le_mox"
+    ]
+  },
+  "modern_industrialization:le_mox_ingot": {
+    "result": "modern_industrialization:le_mox_ingot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:le_mox",
+      "minecraft:le_mox",
+      "minecraft:le_mox",
+      "minecraft:le_mox",
+      "modern_industrialization:le_mox_nugget",
+      "minecraft:le_mox",
+      "minecraft:le_mox",
+      "minecraft:le_mox",
+      "minecraft:le_mox"
+    ]
+  },
+  "modern_industrialization:le_mox_nugget": {
+    "result": "modern_industrialization:le_mox_nugget",
+    "count": 9,
+    "ingredients": [
+      "modern_industrialization:le_mox_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:le_mox_tiny_dust": {
+    "result": "modern_industrialization:le_mox_tiny_dust",
+    "count": 9,
+    "ingredients": [
+      "modern_industrialization:le_mox_dust",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:le_uranium_block": {
+    "result": "modern_industrialization:le_uranium_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:le_uranium",
+      "minecraft:le_uranium",
+      "minecraft:le_uranium",
+      "minecraft:le_uranium",
+      "modern_industrialization:le_uranium_ingot",
+      "minecraft:le_uranium",
+      "minecraft:le_uranium",
+      "minecraft:le_uranium",
+      "minecraft:le_uranium"
+    ]
+  },
+  "modern_industrialization:le_uranium_dust": {
+    "result": "modern_industrialization:le_uranium_dust",
+    "count": 1,
+    "ingredients": [
+      "minecraft:le_uranium",
+      "minecraft:le_uranium",
+      "minecraft:le_uranium",
+      "minecraft:le_uranium",
+      "modern_industrialization:le_uranium_tiny_dust",
+      "minecraft:le_uranium",
+      "minecraft:le_uranium",
+      "minecraft:le_uranium",
+      "minecraft:le_uranium"
+    ]
+  },
+  "modern_industrialization:le_uranium_ingot": {
+    "result": "modern_industrialization:le_uranium_ingot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:le_uranium",
+      "minecraft:le_uranium",
+      "minecraft:le_uranium",
+      "minecraft:le_uranium",
+      "modern_industrialization:le_uranium_nugget",
+      "minecraft:le_uranium",
+      "minecraft:le_uranium",
+      "minecraft:le_uranium",
+      "minecraft:le_uranium"
+    ]
+  },
+  "modern_industrialization:le_uranium_nugget": {
+    "result": "modern_industrialization:le_uranium_nugget",
+    "count": 9,
+    "ingredients": [
+      "modern_industrialization:le_uranium_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:le_uranium_tiny_dust": {
+    "result": "modern_industrialization:le_uranium_tiny_dust",
+    "count": 9,
+    "ingredients": [
+      "modern_industrialization:le_uranium_dust",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "occultism:lenses": {
+    "result": "occultism:lenses",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "occultism:spirit_attuned_gem",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass"
+    ]
+  },
+  "occultism:lens_frame": {
+    "result": "occultism:lens_frame",
+    "count": 1,
+    "ingredients": [
+      "occultism:otherrock",
+      "occultism:otherrock",
+      "occultism:otherrock",
+      "modern_industrialization:silver_ingot",
+      "minecraft:white",
+      "modern_industrialization:silver_ingot",
+      "occultism:otherrock",
+      "occultism:otherrock",
+      "occultism:otherrock"
+    ]
+  },
+  "pamhc2crops:leekseeditem": {
+    "result": "pamhc2crops:leekseeditem",
+    "count": 1,
+    "ingredients": [
+      "pamhc2crops:leekitem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2crops:lentilseeditem": {
+    "result": "pamhc2crops:lentilseeditem",
+    "count": 1,
+    "ingredients": [
+      "pamhc2crops:lentilitem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2crops:lettuceseeditem": {
+    "result": "pamhc2crops:lettuceseeditem",
+    "count": 1,
+    "ingredients": [
+      "pamhc2crops:lettuceitem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:leafychickensandwichitem": {
+    "result": "pamhc2foodextended:leafychickensandwichitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "pamhc2foodcore:basicchickensandwichitem",
+      "minecraft:leafyvegetables",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:leafyfishsandwichitem": {
+    "result": "pamhc2foodextended:leafyfishsandwichitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "pamhc2foodcore:basicfishsandwichitem",
+      "minecraft:leafyvegetables",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:leekbaconsoupitem": {
+    "result": "pamhc2foodextended:leekbaconsoupitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:leek",
+      "minecraft:rawpork",
+      "minecraft:potato",
+      "minecraft:cream",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:lemonaideitem": {
+    "result": "pamhc2foodextended:lemonaideitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:lemon",
+      "minecraft:lemon",
+      "minecraft:sugar",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:lemonchickenitem": {
+    "result": "pamhc2foodextended:lemonchickenitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:lemon",
+      "minecraft:rawchicken",
+      "minecraft:butter",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:lemondrizzlecakeitem": {
+    "result": "pamhc2foodextended:lemondrizzlecakeitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:lemon",
+      "minecraft:butter",
+      "minecraft:sugar",
+      "minecraft:batter",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:lemonjellyitem": {
+    "result": "pamhc2foodextended:lemonjellyitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:lemon",
+      "minecraft:sugar",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:lemonjellysandwichitem": {
+    "result": "pamhc2foodextended:lemonjellysandwichitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:lemonjelly",
+      "minecraft:bread",
+      "minecraft:nutbutters",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:lemonjellytoastitem": {
+    "result": "pamhc2foodextended:lemonjellytoastitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:lemonjelly",
+      "minecraft:toast",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:lemonjuiceitem": {
+    "result": "pamhc2foodextended:lemonjuiceitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_juicer",
+      "minecraft:lemon",
+      "minecraft:lemon",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:lemonlimesodaitem": {
+    "result": "pamhc2foodextended:lemonlimesodaitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:water",
+      "minecraft:sugar",
+      "minecraft:lemon",
+      "minecraft:lime",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:lemonmeringueitem": {
+    "result": "pamhc2foodextended:lemonmeringueitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:lemon",
+      "minecraft:sugar",
+      "minecraft:dough",
+      "minecraft:meringue",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:lemonpieitem": {
+    "result": "pamhc2foodextended:lemonpieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:lemon",
+      "minecraft:sugar",
+      "minecraft:dough",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:lemonsmoothieitem": {
+    "result": "pamhc2foodextended:lemonsmoothieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:lemon",
+      "minecraft:ices",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:lemonyogurtitem": {
+    "result": "pamhc2foodextended:lemonyogurtitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:lemon",
+      "minecraft:yogurt",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2trees:lemon_sapling": {
+    "result": "pamhc2trees:lemon_sapling",
+    "count": 1,
+    "ingredients": [
+      "pamhc2trees:lemonitem",
+      "pamhc2trees:lemonitem",
+      "pamhc2trees:lemonitem",
+      "pamhc2trees:lemonitem",
+      "pamhc2trees:lemonitem",
+      "pamhc2trees:lemonitem",
+      "pamhc2trees:lemonitem",
+      "pamhc2trees:lemonitem",
+      "minecraft:saplings"
+    ]
+  },
+  "productivetrees:lemon_bookshelf": {
+    "result": "productivetrees:lemon_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:lemon_planks",
+      "productivetrees:lemon_planks",
+      "productivetrees:lemon_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:lemon_planks",
+      "productivetrees:lemon_planks",
+      "productivetrees:lemon_planks"
+    ]
+  },
+  "productivetrees:lemon_button": {
+    "result": "productivetrees:lemon_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:lemon_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:lemon_crate": {
+    "result": "productivetrees:lemon_crate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:lemon",
+      "minecraft:lemon",
+      "minecraft:lemon",
+      "minecraft:lemon",
+      "productivetrees:lemon",
+      "minecraft:lemon",
+      "minecraft:lemon",
+      "minecraft:lemon",
+      "minecraft:lemon"
+    ]
+  },
+  "productivetrees:lemon": {
+    "result": "productivetrees:lemon",
+    "count": 9,
+    "ingredients": [
+      "productivetrees:lemon_crate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:lemon_door": {
+    "result": "productivetrees:lemon_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:lemon_planks",
+      "productivetrees:lemon_planks",
+      "",
+      "productivetrees:lemon_planks",
+      "productivetrees:lemon_planks",
+      "",
+      "productivetrees:lemon_planks",
+      "productivetrees:lemon_planks",
+      ""
+    ]
+  },
+  "productivetrees:lemon_fence": {
+    "result": "productivetrees:lemon_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:lemon_planks",
+      "minecraft:stick",
+      "productivetrees:lemon_planks",
+      "productivetrees:lemon_planks",
+      "minecraft:stick",
+      "productivetrees:lemon_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:lemon_fence_gate": {
+    "result": "productivetrees:lemon_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:lemon_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:lemon_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:lemon_hanging_sign": {
+    "result": "productivetrees:lemon_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:lemon_planks",
+      "productivetrees:lemon_planks",
+      "productivetrees:lemon_planks",
+      "productivetrees:lemon_planks",
+      "productivetrees:lemon_planks",
+      "productivetrees:lemon_planks"
+    ]
+  },
+  "productivetrees:lemon_planks": {
+    "result": "productivetrees:lemon_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:lemon_pressure_plate": {
+    "result": "productivetrees:lemon_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:lemon_planks",
+      "productivetrees:lemon_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:lemon_sign": {
+    "result": "productivetrees:lemon_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:lemon_planks",
+      "productivetrees:lemon_planks",
+      "productivetrees:lemon_planks",
+      "productivetrees:lemon_planks",
+      "productivetrees:lemon_planks",
+      "productivetrees:lemon_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:lemon_slab": {
+    "result": "productivetrees:lemon_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:lemon_planks",
+      "productivetrees:lemon_planks",
+      "productivetrees:lemon_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:lemon_stairs": {
+    "result": "productivetrees:lemon_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:lemon_planks",
+      "",
+      "",
+      "productivetrees:lemon_planks",
+      "productivetrees:lemon_planks",
+      "",
+      "productivetrees:lemon_planks",
+      "productivetrees:lemon_planks",
+      "productivetrees:lemon_planks"
+    ]
+  },
+  "productivetrees:lemon_trapdoor": {
+    "result": "productivetrees:lemon_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:lemon_planks",
+      "productivetrees:lemon_planks",
+      "productivetrees:lemon_planks",
+      "productivetrees:lemon_planks",
+      "productivetrees:lemon_planks",
+      "productivetrees:lemon_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:lemon_wood": {
+    "result": "productivetrees:lemon_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:lemon_log",
+      "productivetrees:lemon_log",
+      "",
+      "productivetrees:lemon_log",
+      "productivetrees:lemon_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:lead_block": {
+    "result": "railcraft:lead_block",
+    "count": 1,
+    "ingredients": [
+      "railcraft:lead_ingot",
+      "railcraft:lead_ingot",
+      "railcraft:lead_ingot",
+      "railcraft:lead_ingot",
+      "railcraft:lead_ingot",
+      "railcraft:lead_ingot",
+      "railcraft:lead_ingot",
+      "railcraft:lead_ingot",
+      "railcraft:lead_ingot"
+    ]
+  },
+  "railcraft:lead_gear": {
+    "result": "railcraft:lead_gear",
+    "count": 1,
+    "ingredients": [
+      "",
+      "modern_industrialization:lead_ingot",
+      "",
+      "modern_industrialization:lead_ingot",
+      "railcraft:bushing_gear",
+      "modern_industrialization:lead_ingot",
+      "",
+      "modern_industrialization:lead_ingot",
+      ""
+    ]
+  },
+  "railcraft:lead_ingot": {
+    "result": "railcraft:lead_ingot",
+    "count": 1,
+    "ingredients": [
+      "railcraft:lead_nugget",
+      "railcraft:lead_nugget",
+      "railcraft:lead_nugget",
+      "railcraft:lead_nugget",
+      "railcraft:lead_nugget",
+      "railcraft:lead_nugget",
+      "railcraft:lead_nugget",
+      "railcraft:lead_nugget",
+      "railcraft:lead_nugget"
+    ]
+  },
+  "railcraft:lead_nugget": {
+    "result": "railcraft:lead_nugget",
+    "count": 9,
+    "ingredients": [
+      "railcraft:lead_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "securitycraft:lens": {
+    "result": "securitycraft:lens",
+    "count": 1,
+    "ingredients": [
+      "",
+      "securitycraft:reinforced_yellow_stained_glass_pane",
+      "",
+      "securitycraft:reinforced_yellow_stained_glass_pane",
+      "",
+      "",
+      "",
+      "securitycraft:reinforced_yellow_stained_glass_pane",
+      ""
+    ]
+  },
+  "silentgear:leather_scrap": {
+    "result": "silentgear:leather_scrap",
+    "count": 9,
+    "ingredients": [
+      "minecraft:leather",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgear:leggings_blueprint": {
+    "result": "silentgear:leggings_blueprint",
+    "count": 1,
+    "ingredients": [
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      "minecraft:paper",
+      "",
+      "minecraft:paper"
+    ]
+  },
+  "silentgear:leggings_template": {
+    "result": "silentgear:leggings_template",
+    "count": 1,
+    "ingredients": [
+      "minecraft:template_boards",
+      "minecraft:template_boards",
+      "minecraft:template_boards",
+      "minecraft:template_boards",
+      "",
+      "minecraft:template_boards",
+      "minecraft:template_boards",
+      "",
+      "minecraft:template_boards"
+    ]
+  },
+  "utilityvest:leather_utility_vest": {
+    "result": "utilityvest:leather_utility_vest",
+    "count": 1,
+    "ingredients": [
+      "minecraft:leather",
+      "",
+      "minecraft:leather",
+      "minecraft:leather",
+      "minecraft:chest",
+      "minecraft:leather",
+      "minecraft:leather",
+      "minecraft:leather",
+      "minecraft:leather"
+    ]
+  }
+}

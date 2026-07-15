@@ -1,0 +1,617 @@
+{
+  "allthecompressed:zinc_block_1x": {
+    "result": "allthecompressed:zinc_block_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:zinc_block_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:zinc_block_2x": {
+    "result": "allthecompressed:zinc_block_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:zinc_block_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:zinc_block_3x": {
+    "result": "allthecompressed:zinc_block_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:zinc_block_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:zinc_block_4x": {
+    "result": "allthecompressed:zinc_block_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:zinc_block_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:zinc_block_5x": {
+    "result": "allthecompressed:zinc_block_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:zinc_block_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:zinc_block_6x": {
+    "result": "allthecompressed:zinc_block_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:zinc_block_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:zinc_block_7x": {
+    "result": "allthecompressed:zinc_block_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:zinc_block_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:zinc_block_8x": {
+    "result": "allthecompressed:zinc_block_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:zinc_block_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:zinc_block_9x": {
+    "result": "allthecompressed:zinc_block_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:zinc_block_8x",
+      "allthecompressed:zinc_block_8x",
+      "allthecompressed:zinc_block_8x",
+      "allthecompressed:zinc_block_8x",
+      "allthecompressed:zinc_block_8x",
+      "allthecompressed:zinc_block_8x",
+      "allthecompressed:zinc_block_8x",
+      "allthecompressed:zinc_block_8x",
+      "allthecompressed:zinc_block_8x"
+    ]
+  },
+  "alltheores:zinc_block": {
+    "result": "alltheores:zinc_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:zinc",
+      "minecraft:zinc",
+      "minecraft:zinc",
+      "minecraft:zinc",
+      "minecraft:zinc",
+      "minecraft:zinc",
+      "minecraft:zinc",
+      "minecraft:zinc",
+      "minecraft:zinc"
+    ]
+  },
+  "alltheores:zinc_dust": {
+    "result": "alltheores:zinc_dust",
+    "count": 2,
+    "ingredients": [
+      "minecraft:ore_hammers",
+      "minecraft:zinc",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "alltheores:zinc_gear": {
+    "result": "alltheores:zinc_gear",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:zinc",
+      "",
+      "minecraft:zinc",
+      "minecraft:iron",
+      "minecraft:zinc",
+      "",
+      "minecraft:zinc",
+      ""
+    ]
+  },
+  "alltheores:zinc_ingot": {
+    "result": "alltheores:zinc_ingot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:zinc",
+      "minecraft:zinc",
+      "minecraft:zinc",
+      "minecraft:zinc",
+      "minecraft:zinc",
+      "minecraft:zinc",
+      "minecraft:zinc",
+      "minecraft:zinc",
+      "minecraft:zinc"
+    ]
+  },
+  "alltheores:zinc_nugget": {
+    "result": "alltheores:zinc_nugget",
+    "count": 9,
+    "ingredients": [
+      "minecraft:zinc",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "alltheores:zinc_plate": {
+    "result": "alltheores:zinc_plate",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "minecraft:ore_hammers",
+      "minecraft:zinc",
+      "",
+      "minecraft:zinc",
+      "",
+      ""
+    ]
+  },
+  "alltheores:zinc_rod": {
+    "result": "alltheores:zinc_rod",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "minecraft:zinc",
+      "minecraft:ore_hammers",
+      "minecraft:zinc",
+      ""
+    ]
+  },
+  "create:zinc_block": {
+    "result": "create:zinc_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:zinc",
+      "minecraft:zinc",
+      "minecraft:zinc",
+      "minecraft:zinc",
+      "minecraft:zinc",
+      "minecraft:zinc",
+      "minecraft:zinc",
+      "minecraft:zinc",
+      "minecraft:zinc"
+    ]
+  },
+  "create:zinc_ingot": {
+    "result": "create:zinc_ingot",
+    "count": 9,
+    "ingredients": [
+      "minecraft:zinc",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:zinc_nugget": {
+    "result": "create:zinc_nugget",
+    "count": 9,
+    "ingredients": [
+      "minecraft:zinc",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:zinc_block": {
+    "result": "railcraft:zinc_block",
+    "count": 1,
+    "ingredients": [
+      "railcraft:zinc_ingot",
+      "railcraft:zinc_ingot",
+      "railcraft:zinc_ingot",
+      "railcraft:zinc_ingot",
+      "railcraft:zinc_ingot",
+      "railcraft:zinc_ingot",
+      "railcraft:zinc_ingot",
+      "railcraft:zinc_ingot",
+      "railcraft:zinc_ingot"
+    ]
+  },
+  "railcraft:zinc_carbon_battery": {
+    "result": "railcraft:zinc_carbon_battery",
+    "count": 1,
+    "ingredients": [
+      "railcraft:charge_terminal",
+      "railcraft:charge_spool_medium",
+      "railcraft:charge_terminal",
+      "railcraft:zinc_electrode",
+      "minecraft:saltpeter",
+      "railcraft:carbon_electrode",
+      "railcraft:zinc_electrode",
+      "minecraft:water_bucket",
+      "railcraft:carbon_electrode"
+    ]
+  },
+  "railcraft:zinc_gear": {
+    "result": "railcraft:zinc_gear",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:zinc",
+      "",
+      "minecraft:zinc",
+      "railcraft:bushing_gear",
+      "minecraft:zinc",
+      "",
+      "minecraft:zinc",
+      ""
+    ]
+  },
+  "railcraft:zinc_ingot": {
+    "result": "railcraft:zinc_ingot",
+    "count": 1,
+    "ingredients": [
+      "railcraft:zinc_nugget",
+      "railcraft:zinc_nugget",
+      "railcraft:zinc_nugget",
+      "railcraft:zinc_nugget",
+      "railcraft:zinc_nugget",
+      "railcraft:zinc_nugget",
+      "railcraft:zinc_nugget",
+      "railcraft:zinc_nugget",
+      "railcraft:zinc_nugget"
+    ]
+  },
+  "railcraft:zinc_nugget": {
+    "result": "railcraft:zinc_nugget",
+    "count": 9,
+    "ingredients": [
+      "railcraft:zinc_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:zinc_silver_battery": {
+    "result": "railcraft:zinc_silver_battery",
+    "count": 1,
+    "ingredients": [
+      "railcraft:charge_terminal",
+      "railcraft:charge_spool_medium",
+      "railcraft:charge_terminal",
+      "railcraft:zinc_electrode",
+      "minecraft:saltpeter",
+      "railcraft:silver_electrode",
+      "railcraft:zinc_electrode",
+      "minecraft:water_bucket",
+      "railcraft:silver_electrode"
+    ]
+  },
+  "xtonesreworked:zion_block_0": {
+    "result": "xtonesreworked:zion_block_0",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:white",
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:zion"
+    ]
+  },
+  "xtonesreworked:zion_block_15": {
+    "result": "xtonesreworked:zion_block_15",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:gray",
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:zion"
+    ]
+  },
+  "xtonesreworked:zion_block_1": {
+    "result": "xtonesreworked:zion_block_1",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:yellow",
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:zion"
+    ]
+  },
+  "xtonesreworked:zion_block_10": {
+    "result": "xtonesreworked:zion_block_10",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:magenta",
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:zion"
+    ]
+  },
+  "xtonesreworked:zion_block_11": {
+    "result": "xtonesreworked:zion_block_11",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:pink",
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:zion"
+    ]
+  },
+  "xtonesreworked:zion_block_12": {
+    "result": "xtonesreworked:zion_block_12",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:red",
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:zion"
+    ]
+  },
+  "xtonesreworked:zion_block_13": {
+    "result": "xtonesreworked:zion_block_13",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:orange",
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:zion"
+    ]
+  },
+  "xtonesreworked:zion_block_14": {
+    "result": "xtonesreworked:zion_block_14",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:brown",
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:zion"
+    ]
+  },
+  "xtonesreworked:zion_block_2": {
+    "result": "xtonesreworked:zion_block_2",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:lime",
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:zion"
+    ]
+  },
+  "xtonesreworked:zion_block_3": {
+    "result": "xtonesreworked:zion_block_3",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:green",
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:zion"
+    ]
+  },
+  "xtonesreworked:zion_block_4": {
+    "result": "xtonesreworked:zion_block_4",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:green",
+      "minecraft:zion"
+    ]
+  },
+  "xtonesreworked:zion_block_5": {
+    "result": "xtonesreworked:zion_block_5",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:cyan",
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:zion"
+    ]
+  },
+  "xtonesreworked:zion_block_6": {
+    "result": "xtonesreworked:zion_block_6",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:light_blue",
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:zion"
+    ]
+  },
+  "xtonesreworked:zion_block_7": {
+    "result": "xtonesreworked:zion_block_7",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:blue",
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:zion"
+    ]
+  },
+  "xtonesreworked:zion_block_8": {
+    "result": "xtonesreworked:zion_block_8",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:purple",
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:zion"
+    ]
+  },
+  "xtonesreworked:zion_block_9": {
+    "result": "xtonesreworked:zion_block_9",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:zion",
+      "minecraft:purple",
+      "minecraft:zion"
+    ]
+  }
+}

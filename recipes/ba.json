@@ -1,0 +1,7067 @@
+{
+  "actuallyadditions:basic_coil": {
+    "result": "actuallyadditions:basic_coil",
+    "count": 1,
+    "ingredients": [
+      "",
+      "actuallyadditions:restonia_crystal",
+      "",
+      "actuallyadditions:restonia_crystal",
+      "actuallyadditions:black_quartz",
+      "actuallyadditions:restonia_crystal",
+      "",
+      "actuallyadditions:restonia_crystal",
+      ""
+    ]
+  },
+  "actuallyadditions:battery_box": {
+    "result": "actuallyadditions:battery_box",
+    "count": 1,
+    "ingredients": [
+      "actuallyadditions:energizer",
+      "actuallyadditions:enervator",
+      "actuallyadditions:basic_coil",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ae2:basic_card": {
+    "result": "ae2:basic_card",
+    "count": 2,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:redstone",
+      "ae2:calculation_processor",
+      "minecraft:iron_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:iron_ingot",
+      ""
+    ]
+  },
+  "minecraft:barrel": {
+    "result": "minecraft:barrel",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "minecraft:wooden_slabs",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:wooden_slabs",
+      "minecraft:oak_planks"
+    ]
+  },
+  "allthecompressed:baobab_log_1x": {
+    "result": "allthecompressed:baobab_log_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:baobab_log_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:baobab_log_2x": {
+    "result": "allthecompressed:baobab_log_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:baobab_log_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:baobab_log_3x": {
+    "result": "allthecompressed:baobab_log_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:baobab_log_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:baobab_log_4x": {
+    "result": "allthecompressed:baobab_log_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:baobab_log_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:baobab_log_5x": {
+    "result": "allthecompressed:baobab_log_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:baobab_log_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:baobab_log_6x": {
+    "result": "allthecompressed:baobab_log_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:baobab_log_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:baobab_log_7x": {
+    "result": "allthecompressed:baobab_log_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:baobab_log_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:baobab_log_8x": {
+    "result": "allthecompressed:baobab_log_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:baobab_log_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:baobab_log_9x": {
+    "result": "allthecompressed:baobab_log_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:baobab_log_8x",
+      "allthecompressed:baobab_log_8x",
+      "allthecompressed:baobab_log_8x",
+      "allthecompressed:baobab_log_8x",
+      "allthecompressed:baobab_log_8x",
+      "allthecompressed:baobab_log_8x",
+      "allthecompressed:baobab_log_8x",
+      "allthecompressed:baobab_log_8x",
+      "allthecompressed:baobab_log_8x"
+    ]
+  },
+  "allthecompressed:baobab_planks_1x": {
+    "result": "allthecompressed:baobab_planks_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:baobab_planks_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:baobab_planks_2x": {
+    "result": "allthecompressed:baobab_planks_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:baobab_planks_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:baobab_planks_3x": {
+    "result": "allthecompressed:baobab_planks_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:baobab_planks_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:baobab_planks_4x": {
+    "result": "allthecompressed:baobab_planks_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:baobab_planks_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:baobab_planks_5x": {
+    "result": "allthecompressed:baobab_planks_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:baobab_planks_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:baobab_planks_6x": {
+    "result": "allthecompressed:baobab_planks_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:baobab_planks_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:baobab_planks_7x": {
+    "result": "allthecompressed:baobab_planks_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:baobab_planks_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:baobab_planks_8x": {
+    "result": "allthecompressed:baobab_planks_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:baobab_planks_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:baobab_planks_9x": {
+    "result": "allthecompressed:baobab_planks_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:baobab_planks_8x",
+      "allthecompressed:baobab_planks_8x",
+      "allthecompressed:baobab_planks_8x",
+      "allthecompressed:baobab_planks_8x",
+      "allthecompressed:baobab_planks_8x",
+      "allthecompressed:baobab_planks_8x",
+      "allthecompressed:baobab_planks_8x",
+      "allthecompressed:baobab_planks_8x",
+      "allthecompressed:baobab_planks_8x"
+    ]
+  },
+  "allthecompressed:basalt_1x": {
+    "result": "allthecompressed:basalt_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:basalt_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:basalt_2x": {
+    "result": "allthecompressed:basalt_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:basalt_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:basalt_3x": {
+    "result": "allthecompressed:basalt_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:basalt_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:basalt_4x": {
+    "result": "allthecompressed:basalt_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:basalt_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:basalt_5x": {
+    "result": "allthecompressed:basalt_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:basalt_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:basalt_6x": {
+    "result": "allthecompressed:basalt_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:basalt_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:basalt_7x": {
+    "result": "allthecompressed:basalt_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:basalt_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:basalt_8x": {
+    "result": "allthecompressed:basalt_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:basalt_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:basalt_9x": {
+    "result": "allthecompressed:basalt_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:basalt_8x",
+      "allthecompressed:basalt_8x",
+      "allthecompressed:basalt_8x",
+      "allthecompressed:basalt_8x",
+      "allthecompressed:basalt_8x",
+      "allthecompressed:basalt_8x",
+      "allthecompressed:basalt_8x",
+      "allthecompressed:basalt_8x",
+      "allthecompressed:basalt_8x"
+    ]
+  },
+  "aoa3:baobab_log": {
+    "result": "aoa3:baobab_log",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:baobab_log_1x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "aoa3:baobab_planks": {
+    "result": "aoa3:baobab_planks",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:baobab_planks_1x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:basalt": {
+    "result": "minecraft:basalt",
+    "count": 20,
+    "ingredients": [
+      "mysticalagriculture:nether_essence",
+      "mysticalagriculture:nether_essence",
+      "mysticalagriculture:nether_essence",
+      "mysticalagriculture:nether_essence",
+      "mysticalagriculture:ice_essence",
+      "mysticalagriculture:nether_essence",
+      "mysticalagriculture:nether_essence",
+      "mysticalagriculture:nether_essence",
+      "mysticalagriculture:nether_essence"
+    ]
+  },
+  "ars_nouveau:basic_spell_turret": {
+    "result": "ars_nouveau:basic_spell_turret",
+    "count": 1,
+    "ingredients": [
+      "ars_nouveau:rotating_spell_turret",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:bamboo_bookcase": {
+    "result": "bibliocraft:bamboo_bookcase",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bamboo_planks",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_planks",
+      "minecraft:bamboo_planks",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_planks",
+      "minecraft:bamboo_planks",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_planks"
+    ]
+  },
+  "bibliocraft:bamboo_fancy_armor_stand": {
+    "result": "bibliocraft:bamboo_fancy_armor_stand",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab"
+    ]
+  },
+  "bibliocraft:bamboo_fancy_clock": {
+    "result": "bibliocraft:bamboo_fancy_clock",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bamboo_slab",
+      "minecraft:clock",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab",
+      "minecraft:stick",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab",
+      "minecraft:copper_ingot",
+      "minecraft:bamboo_slab"
+    ]
+  },
+  "bibliocraft:bamboo_fancy_crafter": {
+    "result": "bibliocraft:bamboo_fancy_crafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black",
+      "minecraft:crafting_tables",
+      "minecraft:feather",
+      "minecraft:bamboo_planks",
+      "minecraft:glass",
+      "minecraft:bamboo_planks",
+      "minecraft:bamboo_planks",
+      "minecraft:crafter",
+      "minecraft:bamboo_planks"
+    ]
+  },
+  "bibliocraft:bamboo_fancy_sign": {
+    "result": "bibliocraft:bamboo_fancy_sign",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bamboo_planks",
+      "minecraft:paper",
+      "minecraft:bamboo_planks",
+      "minecraft:bamboo_planks",
+      "minecraft:paper",
+      "minecraft:bamboo_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "bibliocraft:bamboo_grandfather_clock": {
+    "result": "bibliocraft:bamboo_grandfather_clock",
+    "count": 1,
+    "ingredients": [
+      "bibliocraft:bamboo_fancy_clock",
+      "bibliocraft:bamboo_fancy_clock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:bamboo_label": {
+    "result": "bibliocraft:bamboo_label",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:bamboo_potion_shelf": {
+    "result": "bibliocraft:bamboo_potion_shelf",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_planks",
+      "minecraft:glass_bottle",
+      "minecraft:bamboo_planks",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab"
+    ]
+  },
+  "bibliocraft:bamboo_shelf": {
+    "result": "bibliocraft:bamboo_shelf",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab",
+      "",
+      "minecraft:bamboo_planks",
+      "",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab"
+    ]
+  },
+  "bibliocraft:bamboo_table": {
+    "result": "bibliocraft:bamboo_table",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab",
+      "",
+      "minecraft:bamboo_planks",
+      "",
+      "",
+      "minecraft:bamboo_planks",
+      ""
+    ]
+  },
+  "bibliocraft:bamboo_tool_rack": {
+    "result": "bibliocraft:bamboo_tool_rack",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab",
+      "minecraft:iron_ingot",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab"
+    ]
+  },
+  "bigreactors:basic_reactorpowertapfe_active": {
+    "result": "bigreactors:basic_reactorpowertapfe_active",
+    "count": 1,
+    "ingredients": [
+      "bigreactors:basic_reactorcasing",
+      "minecraft:redstone_block",
+      "bigreactors:basic_reactorcasing",
+      "minecraft:redstone_block",
+      "minecraft:redstone",
+      "minecraft:redstone_block",
+      "bigreactors:basic_reactorcasing",
+      "minecraft:redstone_block",
+      "bigreactors:basic_reactorcasing"
+    ]
+  },
+  "bigreactors:basic_reactorcasing": {
+    "result": "bigreactors:basic_reactorcasing",
+    "count": 1,
+    "ingredients": [
+      "bigreactors:basic_reactorglass",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bigreactors:basic_reactorchargingportfe": {
+    "result": "bigreactors:basic_reactorchargingportfe",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "minecraft:lapis_lazuli",
+      "minecraft:redstone",
+      "minecraft:glass",
+      "bigreactors:basic_reactorpowertapfe_active",
+      "minecraft:glass",
+      "minecraft:redstone",
+      "minecraft:lapis_lazuli",
+      "minecraft:redstone"
+    ]
+  },
+  "bigreactors:basic_reactorcontroller": {
+    "result": "bigreactors:basic_reactorcontroller",
+    "count": 1,
+    "ingredients": [
+      "bigreactors:basic_reactorcasing",
+      "minecraft:comparator",
+      "bigreactors:basic_reactorcasing",
+      "minecraft:yellorium",
+      "minecraft:diamond",
+      "minecraft:yellorium",
+      "bigreactors:basic_reactorcasing",
+      "minecraft:redstone",
+      "bigreactors:basic_reactorcasing"
+    ]
+  },
+  "bigreactors:basic_reactorcontrolrod": {
+    "result": "bigreactors:basic_reactorcontrolrod",
+    "count": 1,
+    "ingredients": [
+      "bigreactors:basic_reactorcasing",
+      "minecraft:redstone",
+      "bigreactors:basic_reactorcasing",
+      "minecraft:iron_ingot",
+      "minecraft:piston",
+      "minecraft:iron_ingot",
+      "bigreactors:basic_reactorcasing",
+      "minecraft:graphite",
+      "bigreactors:basic_reactorcasing"
+    ]
+  },
+  "bigreactors:basic_reactorfuelrod": {
+    "result": "bigreactors:basic_reactorfuelrod",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:graphite",
+      "minecraft:iron_ingot",
+      "minecraft:glass",
+      "minecraft:yellorium",
+      "minecraft:glass",
+      "minecraft:iron_ingot",
+      "minecraft:graphite",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "bigreactors:basic_reactorglass": {
+    "result": "bigreactors:basic_reactorglass",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glass",
+      "bigreactors:basic_reactorcasing",
+      "minecraft:glass",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bigreactors:basic_reactorpowertapfe_passive": {
+    "result": "bigreactors:basic_reactorpowertapfe_passive",
+    "count": 1,
+    "ingredients": [
+      "bigreactors:basic_reactorcasing",
+      "minecraft:redstone",
+      "bigreactors:basic_reactorcasing",
+      "minecraft:redstone",
+      "minecraft:redstone_block",
+      "minecraft:redstone",
+      "bigreactors:basic_reactorcasing",
+      "minecraft:redstone",
+      "bigreactors:basic_reactorcasing"
+    ]
+  },
+  "bigreactors:basic_reactorredstoneport": {
+    "result": "bigreactors:basic_reactorredstoneport",
+    "count": 1,
+    "ingredients": [
+      "bigreactors:basic_reactorcasing",
+      "minecraft:comparator",
+      "bigreactors:basic_reactorcasing",
+      "minecraft:iron_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:iron_ingot",
+      "bigreactors:basic_reactorcasing",
+      "minecraft:repeater",
+      "bigreactors:basic_reactorcasing"
+    ]
+  },
+  "bigreactors:basic_reactorsolidaccessport": {
+    "result": "bigreactors:basic_reactorsolidaccessport",
+    "count": 1,
+    "ingredients": [
+      "bigreactors:basic_reactorcasing",
+      "minecraft:hopper",
+      "bigreactors:basic_reactorcasing",
+      "minecraft:iron_ingot",
+      "minecraft:chest",
+      "minecraft:iron_ingot",
+      "bigreactors:basic_reactorcasing",
+      "minecraft:piston",
+      "bigreactors:basic_reactorcasing"
+    ]
+  },
+  "bigreactors:basic_turbinefluidport_forge_active": {
+    "result": "bigreactors:basic_turbinefluidport_forge_active",
+    "count": 1,
+    "ingredients": [
+      "bigreactors:basic_turbinecasing",
+      "minecraft:lava_bucket",
+      "bigreactors:basic_turbinecasing",
+      "minecraft:lava_bucket",
+      "minecraft:water_bucket",
+      "minecraft:lava_bucket",
+      "bigreactors:basic_turbinecasing",
+      "minecraft:lava_bucket",
+      "bigreactors:basic_turbinecasing"
+    ]
+  },
+  "bigreactors:basic_turbinepowertapfe_active": {
+    "result": "bigreactors:basic_turbinepowertapfe_active",
+    "count": 1,
+    "ingredients": [
+      "bigreactors:basic_turbinecasing",
+      "minecraft:redstone_block",
+      "bigreactors:basic_turbinecasing",
+      "minecraft:redstone_block",
+      "minecraft:redstone",
+      "minecraft:redstone_block",
+      "bigreactors:basic_turbinecasing",
+      "minecraft:redstone_block",
+      "bigreactors:basic_turbinecasing"
+    ]
+  },
+  "bigreactors:basic_turbinerotorbearing": {
+    "result": "bigreactors:basic_turbinerotorbearing",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:redstone_block",
+      "minecraft:iron_ingot",
+      "minecraft:iron",
+      "",
+      "minecraft:iron",
+      "minecraft:iron_ingot",
+      "minecraft:redstone_block",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "bigreactors:basic_turbinerotorblade": {
+    "result": "bigreactors:basic_turbinerotorblade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:cyanite",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bigreactors:basic_turbinecasing": {
+    "result": "bigreactors:basic_turbinecasing",
+    "count": 1,
+    "ingredients": [
+      "bigreactors:basic_turbineglass",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bigreactors:basic_turbinechargingportfe": {
+    "result": "bigreactors:basic_turbinechargingportfe",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "minecraft:glowstone_dust",
+      "minecraft:redstone",
+      "minecraft:glass",
+      "bigreactors:basic_turbinepowertapfe_active",
+      "minecraft:glass",
+      "minecraft:redstone",
+      "minecraft:glowstone_dust",
+      "minecraft:redstone"
+    ]
+  },
+  "bigreactors:basic_turbinecontroller": {
+    "result": "bigreactors:basic_turbinecontroller",
+    "count": 1,
+    "ingredients": [
+      "bigreactors:basic_turbinecasing",
+      "minecraft:comparator",
+      "bigreactors:basic_turbinecasing",
+      "minecraft:cyanite",
+      "minecraft:diamond",
+      "minecraft:cyanite",
+      "bigreactors:basic_turbinecasing",
+      "minecraft:redstone",
+      "bigreactors:basic_turbinecasing"
+    ]
+  },
+  "bigreactors:basic_turbineglass": {
+    "result": "bigreactors:basic_turbineglass",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glass",
+      "bigreactors:basic_turbinecasing",
+      "minecraft:glass",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bigreactors:basic_turbinefluidport_forge_passive": {
+    "result": "bigreactors:basic_turbinefluidport_forge_passive",
+    "count": 1,
+    "ingredients": [
+      "bigreactors:basic_turbinecasing",
+      "minecraft:water_bucket",
+      "bigreactors:basic_turbinecasing",
+      "minecraft:water_bucket",
+      "minecraft:lava_bucket",
+      "minecraft:water_bucket",
+      "bigreactors:basic_turbinecasing",
+      "minecraft:water_bucket",
+      "bigreactors:basic_turbinecasing"
+    ]
+  },
+  "bigreactors:basic_turbinepowertapfe_passive": {
+    "result": "bigreactors:basic_turbinepowertapfe_passive",
+    "count": 1,
+    "ingredients": [
+      "bigreactors:basic_turbinecasing",
+      "minecraft:redstone",
+      "bigreactors:basic_turbinecasing",
+      "minecraft:redstone",
+      "minecraft:redstone_block",
+      "minecraft:redstone",
+      "bigreactors:basic_turbinecasing",
+      "minecraft:redstone",
+      "bigreactors:basic_turbinecasing"
+    ]
+  },
+  "bigreactors:basic_turbineredstoneport": {
+    "result": "bigreactors:basic_turbineredstoneport",
+    "count": 1,
+    "ingredients": [
+      "bigreactors:basic_turbinecasing",
+      "minecraft:comparator",
+      "bigreactors:basic_turbinecasing",
+      "minecraft:iron_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:iron_ingot",
+      "bigreactors:basic_turbinecasing",
+      "minecraft:repeater",
+      "bigreactors:basic_turbinecasing"
+    ]
+  },
+  "bigreactors:basic_turbinerotorshaft": {
+    "result": "bigreactors:basic_turbinerotorshaft",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:cyanite",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      ""
+    ]
+  },
+  "biomeswevegone:baobab_boat": {
+    "result": "biomeswevegone:baobab_boat",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:baobab_planks",
+      "",
+      "biomeswevegone:baobab_planks",
+      "biomeswevegone:baobab_planks",
+      "biomeswevegone:baobab_planks",
+      "biomeswevegone:baobab_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:baobab_bookshelf": {
+    "result": "biomeswevegone:baobab_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:baobab_planks",
+      "biomeswevegone:baobab_planks",
+      "biomeswevegone:baobab_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "biomeswevegone:baobab_planks",
+      "biomeswevegone:baobab_planks",
+      "biomeswevegone:baobab_planks"
+    ]
+  },
+  "biomeswevegone:baobab_button": {
+    "result": "biomeswevegone:baobab_button",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:baobab_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:baobab_chest_boat": {
+    "result": "biomeswevegone:baobab_chest_boat",
+    "count": 1,
+    "ingredients": [
+      "minecraft:chest",
+      "biomeswevegone:baobab_boat",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:baobab_crafting_table": {
+    "result": "biomeswevegone:baobab_crafting_table",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:baobab_planks",
+      "biomeswevegone:baobab_planks",
+      "",
+      "biomeswevegone:baobab_planks",
+      "biomeswevegone:baobab_planks",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:baobab_door": {
+    "result": "biomeswevegone:baobab_door",
+    "count": 3,
+    "ingredients": [
+      "biomeswevegone:baobab_planks",
+      "biomeswevegone:baobab_planks",
+      "",
+      "biomeswevegone:baobab_planks",
+      "biomeswevegone:baobab_planks",
+      "",
+      "biomeswevegone:baobab_planks",
+      "biomeswevegone:baobab_planks",
+      ""
+    ]
+  },
+  "biomeswevegone:baobab_fence": {
+    "result": "biomeswevegone:baobab_fence",
+    "count": 3,
+    "ingredients": [
+      "biomeswevegone:baobab_planks",
+      "minecraft:stick",
+      "biomeswevegone:baobab_planks",
+      "biomeswevegone:baobab_planks",
+      "minecraft:stick",
+      "biomeswevegone:baobab_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:baobab_fence_gate": {
+    "result": "biomeswevegone:baobab_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "biomeswevegone:baobab_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "biomeswevegone:baobab_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:baobab_hanging_sign": {
+    "result": "biomeswevegone:baobab_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "biomeswevegone:stripped_baobab_log",
+      "biomeswevegone:stripped_baobab_log",
+      "biomeswevegone:stripped_baobab_log",
+      "biomeswevegone:stripped_baobab_log",
+      "biomeswevegone:stripped_baobab_log",
+      "biomeswevegone:stripped_baobab_log"
+    ]
+  },
+  "biomeswevegone:baobab_planks": {
+    "result": "biomeswevegone:baobab_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:baobab_pressure_plate": {
+    "result": "biomeswevegone:baobab_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:baobab_planks",
+      "biomeswevegone:baobab_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:baobab_sign": {
+    "result": "biomeswevegone:baobab_sign",
+    "count": 3,
+    "ingredients": [
+      "biomeswevegone:baobab_planks",
+      "biomeswevegone:baobab_planks",
+      "biomeswevegone:baobab_planks",
+      "biomeswevegone:baobab_planks",
+      "biomeswevegone:baobab_planks",
+      "biomeswevegone:baobab_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "biomeswevegone:baobab_slab": {
+    "result": "biomeswevegone:baobab_slab",
+    "count": 6,
+    "ingredients": [
+      "biomeswevegone:baobab_planks",
+      "biomeswevegone:baobab_planks",
+      "biomeswevegone:baobab_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:baobab_stairs": {
+    "result": "biomeswevegone:baobab_stairs",
+    "count": 4,
+    "ingredients": [
+      "biomeswevegone:baobab_planks",
+      "",
+      "",
+      "biomeswevegone:baobab_planks",
+      "biomeswevegone:baobab_planks",
+      "",
+      "biomeswevegone:baobab_planks",
+      "biomeswevegone:baobab_planks",
+      "biomeswevegone:baobab_planks"
+    ]
+  },
+  "biomeswevegone:baobab_trapdoor": {
+    "result": "biomeswevegone:baobab_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "biomeswevegone:baobab_planks",
+      "biomeswevegone:baobab_planks",
+      "biomeswevegone:baobab_planks",
+      "biomeswevegone:baobab_planks",
+      "biomeswevegone:baobab_planks",
+      "biomeswevegone:baobab_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:baobab_wood": {
+    "result": "biomeswevegone:baobab_wood",
+    "count": 3,
+    "ingredients": [
+      "biomeswevegone:baobab_log",
+      "biomeswevegone:baobab_log",
+      "",
+      "biomeswevegone:baobab_log",
+      "biomeswevegone:baobab_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:bamboo_window": {
+    "result": "create:bamboo_window",
+    "count": 2,
+    "ingredients": [
+      "",
+      "minecraft:bamboo_planks",
+      "",
+      "minecraft:bamboo_planks",
+      "minecraft:glass",
+      "minecraft:bamboo_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:bamboo_window_pane": {
+    "result": "create:bamboo_window_pane",
+    "count": 16,
+    "ingredients": [
+      "create:bamboo_window",
+      "create:bamboo_window",
+      "create:bamboo_window",
+      "create:bamboo_window",
+      "create:bamboo_window",
+      "create:bamboo_window",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:basin": {
+    "result": "create:basin",
+    "count": 1,
+    "ingredients": [
+      "create:andesite_alloy",
+      "",
+      "create:andesite_alloy",
+      "create:andesite_alloy",
+      "create:andesite_alloy",
+      "create:andesite_alloy",
+      "",
+      "",
+      ""
+    ]
+  },
+  "createaddition:barbed_wire": {
+    "result": "createaddition:barbed_wire",
+    "count": 2,
+    "ingredients": [
+      "",
+      "minecraft:iron",
+      "",
+      "minecraft:iron",
+      "",
+      "minecraft:iron",
+      "",
+      "minecraft:iron",
+      ""
+    ]
+  },
+  "draconicevolution:basic_crafting_injector": {
+    "result": "draconicevolution:basic_crafting_injector",
+    "count": 1,
+    "ingredients": [
+      "minecraft:diamond",
+      "draconicevolution:draconium_core",
+      "minecraft:diamond",
+      "minecraft:stone",
+      "minecraft:iron",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone"
+    ]
+  },
+  "draconicevolution:basic_io_crystal": {
+    "result": "draconicevolution:basic_io_crystal",
+    "count": 2,
+    "ingredients": [
+      "draconicevolution:basic_relay_crystal",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "draconicevolution:basic_relay_crystal": {
+    "result": "draconicevolution:basic_relay_crystal",
+    "count": 1,
+    "ingredients": [
+      "draconicevolution:basic_io_crystal",
+      "draconicevolution:basic_io_crystal",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "draconicevolution:basic_wireless_crystal": {
+    "result": "draconicevolution:basic_wireless_crystal",
+    "count": 1,
+    "ingredients": [
+      "minecraft:ender_pearl",
+      "draconicevolution:particle_generator",
+      "minecraft:ender_pearl",
+      "minecraft:ender_eye",
+      "draconicevolution:basic_relay_crystal",
+      "minecraft:ender_eye",
+      "minecraft:ender_pearl",
+      "draconicevolution:particle_generator",
+      "minecraft:ender_pearl"
+    ]
+  },
+  "enderio:basic_capacitor": {
+    "result": "enderio:basic_capacitor",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:gold",
+      "minecraft:grains_of_infinity",
+      "minecraft:gold",
+      "minecraft:copper_ingot",
+      "minecraft:gold",
+      "minecraft:grains_of_infinity",
+      "minecraft:gold",
+      ""
+    ]
+  },
+  "enderio:basic_capacitor_bank": {
+    "result": "enderio:basic_capacitor_bank",
+    "count": 1,
+    "ingredients": [
+      "enderio:basic_capacitor_bank",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "enderio:basic_fluid_filter": {
+    "result": "enderio:basic_fluid_filter",
+    "count": 1,
+    "ingredients": [
+      "enderio:basic_fluid_filter",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "enderio:basic_item_filter": {
+    "result": "enderio:basic_item_filter",
+    "count": 1,
+    "ingredients": [
+      "enderio:basic_item_filter",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "enderio:basic_soul_filter": {
+    "result": "enderio:basic_soul_filter",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      "enderio:soul_vial",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      ""
+    ]
+  },
+  "eternal_starlight:bamboo_starfire_bird_aviary": {
+    "result": "eternal_starlight:bamboo_starfire_bird_aviary",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bamboo_planks",
+      "minecraft:bamboo_planks",
+      "minecraft:bamboo_planks",
+      "eternal_starlight:starfire",
+      "eternal_starlight:starfire",
+      "eternal_starlight:starfire",
+      "minecraft:bamboo_planks",
+      "minecraft:bamboo_planks",
+      "minecraft:bamboo_planks"
+    ]
+  },
+  "eternal_starlight:banyin_boat": {
+    "result": "eternal_starlight:banyin_boat",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:banyin_planks",
+      "",
+      "eternal_starlight:banyin_planks",
+      "eternal_starlight:banyin_planks",
+      "eternal_starlight:banyin_planks",
+      "eternal_starlight:banyin_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:banyin_button": {
+    "result": "eternal_starlight:banyin_button",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:banyin_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:banyin_chest_boat": {
+    "result": "eternal_starlight:banyin_chest_boat",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:banyin_boat",
+      "minecraft:chest",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:banyin_door": {
+    "result": "eternal_starlight:banyin_door",
+    "count": 3,
+    "ingredients": [
+      "eternal_starlight:banyin_planks",
+      "eternal_starlight:banyin_planks",
+      "",
+      "eternal_starlight:banyin_planks",
+      "eternal_starlight:banyin_planks",
+      "",
+      "eternal_starlight:banyin_planks",
+      "eternal_starlight:banyin_planks",
+      ""
+    ]
+  },
+  "eternal_starlight:banyin_fence": {
+    "result": "eternal_starlight:banyin_fence",
+    "count": 3,
+    "ingredients": [
+      "eternal_starlight:banyin_planks",
+      "minecraft:stick",
+      "eternal_starlight:banyin_planks",
+      "eternal_starlight:banyin_planks",
+      "minecraft:stick",
+      "eternal_starlight:banyin_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:banyin_fence_gate": {
+    "result": "eternal_starlight:banyin_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "eternal_starlight:banyin_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "eternal_starlight:banyin_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:banyin_hanging_sign": {
+    "result": "eternal_starlight:banyin_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "eternal_starlight:stripped_banyin_log",
+      "eternal_starlight:stripped_banyin_log",
+      "eternal_starlight:stripped_banyin_log",
+      "eternal_starlight:stripped_banyin_log",
+      "eternal_starlight:stripped_banyin_log",
+      "eternal_starlight:stripped_banyin_log"
+    ]
+  },
+  "eternal_starlight:banyin_planks": {
+    "result": "eternal_starlight:banyin_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:banyin_pressure_plate": {
+    "result": "eternal_starlight:banyin_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:banyin_planks",
+      "eternal_starlight:banyin_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:banyin_sign": {
+    "result": "eternal_starlight:banyin_sign",
+    "count": 3,
+    "ingredients": [
+      "eternal_starlight:banyin_planks",
+      "eternal_starlight:banyin_planks",
+      "eternal_starlight:banyin_planks",
+      "eternal_starlight:banyin_planks",
+      "eternal_starlight:banyin_planks",
+      "eternal_starlight:banyin_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "eternal_starlight:banyin_slab": {
+    "result": "eternal_starlight:banyin_slab",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:banyin_planks",
+      "eternal_starlight:banyin_planks",
+      "eternal_starlight:banyin_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:banyin_stairs": {
+    "result": "eternal_starlight:banyin_stairs",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:banyin_planks",
+      "",
+      "",
+      "eternal_starlight:banyin_planks",
+      "eternal_starlight:banyin_planks",
+      "",
+      "eternal_starlight:banyin_planks",
+      "eternal_starlight:banyin_planks",
+      "eternal_starlight:banyin_planks"
+    ]
+  },
+  "eternal_starlight:banyin_starfire_bird_aviary": {
+    "result": "eternal_starlight:banyin_starfire_bird_aviary",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:banyin_planks",
+      "eternal_starlight:banyin_planks",
+      "eternal_starlight:banyin_planks",
+      "eternal_starlight:starfire",
+      "eternal_starlight:starfire",
+      "eternal_starlight:starfire",
+      "eternal_starlight:banyin_planks",
+      "eternal_starlight:banyin_planks",
+      "eternal_starlight:banyin_planks"
+    ]
+  },
+  "eternal_starlight:banyin_trapdoor": {
+    "result": "eternal_starlight:banyin_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "eternal_starlight:banyin_planks",
+      "eternal_starlight:banyin_planks",
+      "eternal_starlight:banyin_planks",
+      "eternal_starlight:banyin_planks",
+      "eternal_starlight:banyin_planks",
+      "eternal_starlight:banyin_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:banyin_wood": {
+    "result": "eternal_starlight:banyin_wood",
+    "count": 3,
+    "ingredients": [
+      "eternal_starlight:banyin_log",
+      "eternal_starlight:banyin_log",
+      "",
+      "eternal_starlight:banyin_log",
+      "eternal_starlight:banyin_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "farmersdelight:bacon_and_eggs": {
+    "result": "farmersdelight:bacon_and_eggs",
+    "count": 1,
+    "ingredients": [
+      "minecraft:cooked_bacon",
+      "minecraft:cooked_bacon",
+      "minecraft:bowl",
+      "minecraft:cooked_egg",
+      "minecraft:cooked_egg",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "farmersdelight:bacon_sandwich": {
+    "result": "farmersdelight:bacon_sandwich",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bread",
+      "minecraft:cooked_bacon",
+      "minecraft:leafy_green",
+      "minecraft:tomato",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "farmersdelight:bamboo_basket": {
+    "result": "farmersdelight:bamboo_basket",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bamboo",
+      "",
+      "minecraft:bamboo",
+      "farmersdelight:canvas",
+      "",
+      "farmersdelight:canvas",
+      "minecraft:bamboo",
+      "farmersdelight:canvas",
+      "minecraft:bamboo"
+    ]
+  },
+  "farmersdelight:bamboo_cabinet": {
+    "result": "farmersdelight:bamboo_cabinet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_trapdoor",
+      "",
+      "minecraft:bamboo_trapdoor",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab"
+    ]
+  },
+  "farmersdelight:barbecue_stick": {
+    "result": "farmersdelight:barbecue_stick",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tomato",
+      "minecraft:onion",
+      "minecraft:cooked_meat",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "fluxnetworks:basic_flux_storage": {
+    "result": "fluxnetworks:basic_flux_storage",
+    "count": 1,
+    "ingredients": [
+      "fluxnetworks:flux_block",
+      "fluxnetworks:flux_block",
+      "fluxnetworks:flux_block",
+      "minecraft:glass",
+      "",
+      "minecraft:glass",
+      "fluxnetworks:flux_block",
+      "fluxnetworks:flux_block",
+      "fluxnetworks:flux_block"
+    ]
+  },
+  "forbidden_arcanus:bat_soup": {
+    "result": "forbidden_arcanus:bat_soup",
+    "count": 1,
+    "ingredients": [
+      "minecraft:mushrooms",
+      "minecraft:nether_wart",
+      "minecraft:bowl",
+      "forbidden_arcanus:bat_wing",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:bamboo_door": {
+    "result": "minecraft:bamboo_door",
+    "count": 6,
+    "ingredients": [
+      "minecraft:bamboo_block",
+      "minecraft:bamboo_block",
+      "",
+      "minecraft:bamboo_block",
+      "minecraft:bamboo_block",
+      "",
+      "minecraft:bamboo_block",
+      "minecraft:bamboo_block",
+      ""
+    ]
+  },
+  "glassential:bamboo_glass_door": {
+    "result": "glassential:bamboo_glass_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bamboo_door",
+      "minecraft:glass_pane",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "glassential:bamboo_glass_trapdoor": {
+    "result": "glassential:bamboo_glass_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bamboo_trapdoor",
+      "minecraft:glass_pane",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:bamboo_trapdoor": {
+    "result": "minecraft:bamboo_trapdoor",
+    "count": 6,
+    "ingredients": [
+      "minecraft:bamboo_block",
+      "minecraft:bamboo_block",
+      "minecraft:bamboo_block",
+      "minecraft:bamboo_block",
+      "minecraft:bamboo_block",
+      "minecraft:bamboo_block",
+      "",
+      "",
+      ""
+    ]
+  },
+  "handcrafted:bamboo_bench": {
+    "result": "handcrafted:bamboo_bench",
+    "count": 2,
+    "ingredients": [
+      "minecraft:bamboo_planks",
+      "minecraft:bamboo_planks",
+      "minecraft:bamboo_planks",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_planks",
+      "",
+      "minecraft:bamboo_planks"
+    ]
+  },
+  "handcrafted:bamboo_chair": {
+    "result": "handcrafted:bamboo_chair",
+    "count": 2,
+    "ingredients": [
+      "minecraft:bamboo_slab",
+      "",
+      "",
+      "minecraft:bamboo_planks",
+      "minecraft:bamboo_planks",
+      "",
+      "minecraft:stick",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "handcrafted:bamboo_corner_trim": {
+    "result": "handcrafted:bamboo_corner_trim",
+    "count": 4,
+    "ingredients": [
+      "minecraft:bamboo_planks",
+      "",
+      "",
+      "minecraft:bamboo_planks",
+      "",
+      "",
+      "minecraft:bamboo_planks",
+      "minecraft:bamboo_planks",
+      "minecraft:bamboo_planks"
+    ]
+  },
+  "handcrafted:bamboo_couch": {
+    "result": "handcrafted:bamboo_couch",
+    "count": 2,
+    "ingredients": [
+      "minecraft:white_wool",
+      "minecraft:cushions",
+      "minecraft:white_wool",
+      "minecraft:bamboo_planks",
+      "minecraft:bamboo_planks",
+      "minecraft:bamboo_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "handcrafted:bamboo_counter": {
+    "result": "handcrafted:bamboo_counter",
+    "count": 3,
+    "ingredients": [
+      "minecraft:calcite",
+      "minecraft:calcite",
+      "minecraft:calcite",
+      "minecraft:bamboo_planks",
+      "minecraft:chest",
+      "minecraft:bamboo_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "handcrafted:bamboo_cupboard": {
+    "result": "handcrafted:bamboo_cupboard",
+    "count": 3,
+    "ingredients": [
+      "minecraft:bamboo_planks",
+      "minecraft:bamboo_planks",
+      "minecraft:bamboo_planks",
+      "minecraft:bamboo_planks",
+      "minecraft:chest",
+      "minecraft:bamboo_planks",
+      "minecraft:bamboo_planks",
+      "minecraft:bamboo_planks",
+      "minecraft:bamboo_planks"
+    ]
+  },
+  "handcrafted:bamboo_desk": {
+    "result": "handcrafted:bamboo_desk",
+    "count": 2,
+    "ingredients": [
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_planks",
+      "minecraft:chest",
+      "minecraft:bamboo_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "handcrafted:bamboo_dining_bench": {
+    "result": "handcrafted:bamboo_dining_bench",
+    "count": 2,
+    "ingredients": [
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_planks",
+      "",
+      "minecraft:bamboo_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "handcrafted:bamboo_drawer": {
+    "result": "handcrafted:bamboo_drawer",
+    "count": 2,
+    "ingredients": [
+      "minecraft:bamboo_planks",
+      "minecraft:chest",
+      "minecraft:bamboo_planks",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab"
+    ]
+  },
+  "handcrafted:bamboo_fancy_bed": {
+    "result": "handcrafted:bamboo_fancy_bed",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:cushions",
+      "minecraft:sheets",
+      "minecraft:bamboo_planks",
+      "minecraft:white_wool",
+      "minecraft:white_wool",
+      "minecraft:bamboo_planks",
+      "minecraft:bamboo_planks",
+      "minecraft:bamboo_planks"
+    ]
+  },
+  "handcrafted:bamboo_nightstand": {
+    "result": "handcrafted:bamboo_nightstand",
+    "count": 2,
+    "ingredients": [
+      "minecraft:bamboo_planks",
+      "minecraft:bamboo_planks",
+      "minecraft:bamboo_planks",
+      "minecraft:bamboo_planks",
+      "minecraft:chest",
+      "minecraft:bamboo_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "handcrafted:bamboo_pillar_trim": {
+    "result": "handcrafted:bamboo_pillar_trim",
+    "count": 4,
+    "ingredients": [
+      "minecraft:bamboo_planks",
+      "",
+      "",
+      "minecraft:bamboo_planks",
+      "",
+      "",
+      "minecraft:bamboo_planks",
+      "",
+      ""
+    ]
+  },
+  "handcrafted:bamboo_shelf": {
+    "result": "handcrafted:bamboo_shelf",
+    "count": 2,
+    "ingredients": [
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_planks",
+      "minecraft:chest",
+      "minecraft:bamboo_planks",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab"
+    ]
+  },
+  "handcrafted:bamboo_side_table": {
+    "result": "handcrafted:bamboo_side_table",
+    "count": 2,
+    "ingredients": [
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_planks",
+      "minecraft:chest",
+      "minecraft:bamboo_planks",
+      "minecraft:bamboo_planks",
+      "",
+      "minecraft:bamboo_planks"
+    ]
+  },
+  "handcrafted:bamboo_table": {
+    "result": "handcrafted:bamboo_table",
+    "count": 2,
+    "ingredients": [
+      "minecraft:bamboo_planks",
+      "minecraft:bamboo_planks",
+      "minecraft:bamboo_planks",
+      "minecraft:stick",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "herbsandharvest:bagel": {
+    "result": "herbsandharvest:bagel",
+    "count": 4,
+    "ingredients": [
+      "minecraft:wheat",
+      "minecraft:honey_bottle",
+      "minecraft:barley",
+      "minecraft:salt",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "herbsandharvest:bagel_cream_cheese": {
+    "result": "herbsandharvest:bagel_cream_cheese",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bagel",
+      "herbsandharvest:cream_cheese",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "herbsandharvest:bagel_with_salmon": {
+    "result": "herbsandharvest:bagel_with_salmon",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bagel",
+      "herbsandharvest:cream_cheese",
+      "minecraft:raw_salmon",
+      "minecraft:lemon",
+      "herbsandharvest:fresh_dill",
+      "minecraft:pepper",
+      "",
+      "",
+      ""
+    ]
+  },
+  "herbsandharvest:barley_loaf": {
+    "result": "herbsandharvest:barley_loaf",
+    "count": 1,
+    "ingredients": [
+      "minecraft:barley",
+      "minecraft:barley",
+      "minecraft:barley",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "herbsandharvest:barley_seeds": {
+    "result": "herbsandharvest:barley_seeds",
+    "count": 1,
+    "ingredients": [
+      "herbsandharvest:barley",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "herbsandharvest:barley_slice": {
+    "result": "herbsandharvest:barley_slice",
+    "count": 8,
+    "ingredients": [
+      "minecraft:barley",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:banner_pattern_amphithere": {
+    "result": "iceandfire:banner_pattern_amphithere",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:amphithere_feather",
+      "minecraft:paper",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:banner_pattern_bird": {
+    "result": "iceandfire:banner_pattern_bird",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:stymphalian_bird_feather",
+      "minecraft:paper",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:banner_pattern_dread": {
+    "result": "iceandfire:banner_pattern_dread",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dread_shard",
+      "minecraft:paper",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:banner_pattern_eye": {
+    "result": "iceandfire:banner_pattern_eye",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:cyclops_eye",
+      "minecraft:paper",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:banner_pattern_fae": {
+    "result": "iceandfire:banner_pattern_fae",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:pixie_wings",
+      "minecraft:paper",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:banner_pattern_feather": {
+    "result": "iceandfire:banner_pattern_feather",
+    "count": 1,
+    "ingredients": [
+      "minecraft:feather",
+      "minecraft:paper",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:banner_pattern_fire": {
+    "result": "iceandfire:banner_pattern_fire",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:fire_dragon_heart",
+      "minecraft:paper",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:banner_pattern_fire_head": {
+    "result": "iceandfire:banner_pattern_fire_head",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragon_skull_fire",
+      "minecraft:paper",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:banner_pattern_gorgon": {
+    "result": "iceandfire:banner_pattern_gorgon",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:gorgon_head",
+      "minecraft:paper",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:banner_pattern_hippocampus": {
+    "result": "iceandfire:banner_pattern_hippocampus",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:hippocampus_fin",
+      "minecraft:paper",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:banner_pattern_hippogryph_head": {
+    "result": "iceandfire:banner_pattern_hippogryph_head",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:hippogryph_skull",
+      "minecraft:paper",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:banner_pattern_ice": {
+    "result": "iceandfire:banner_pattern_ice",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:ice_dragon_heart",
+      "minecraft:paper",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:banner_pattern_ice_head": {
+    "result": "iceandfire:banner_pattern_ice_head",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragon_skull_ice",
+      "minecraft:paper",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:banner_pattern_lightning": {
+    "result": "iceandfire:banner_pattern_lightning",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:lightning_dragon_heart",
+      "minecraft:paper",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:banner_pattern_lightning_head": {
+    "result": "iceandfire:banner_pattern_lightning_head",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:dragon_skull_lightning",
+      "minecraft:paper",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:banner_pattern_mermaid": {
+    "result": "iceandfire:banner_pattern_mermaid",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:siren_tear",
+      "minecraft:paper",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:banner_pattern_sea_serpent": {
+    "result": "iceandfire:banner_pattern_sea_serpent",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:sea_serpent_fang",
+      "minecraft:paper",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:banner_pattern_troll": {
+    "result": "iceandfire:banner_pattern_troll",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:troll_tusk",
+      "minecraft:paper",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:banner_pattern_weezer": {
+    "result": "iceandfire:banner_pattern_weezer",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:weezer_blue_album",
+      "minecraft:paper",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:balloon": {
+    "result": "immersiveengineering:balloon",
+    "count": 2,
+    "ingredients": [
+      "",
+      "immersiveengineering:hemp_fabric",
+      "",
+      "immersiveengineering:hemp_fabric",
+      "minecraft:torch",
+      "immersiveengineering:hemp_fabric",
+      "",
+      "minecraft:treated_wood_slab",
+      ""
+    ]
+  },
+  "immersiveengineering:basic_engineering": {
+    "result": "immersiveengineering:basic_engineering",
+    "count": 4,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:treated_wood",
+      "minecraft:iron_ingot",
+      "minecraft:treated_wood",
+      "",
+      "minecraft:treated_wood",
+      "minecraft:iron_ingot",
+      "minecraft:treated_wood",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "ironjetpacks:basic_coil": {
+    "result": "ironjetpacks:basic_coil",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:redstone",
+      "minecraft:iron_ingot",
+      "minecraft:stick",
+      "minecraft:iron_ingot",
+      "minecraft:redstone",
+      "minecraft:iron_ingot",
+      ""
+    ]
+  },
+  "itemcollectors:basic_collector": {
+    "result": "itemcollectors:basic_collector",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:ender_pearl",
+      "",
+      "",
+      "minecraft:obsidians",
+      "",
+      "minecraft:obsidians",
+      "minecraft:obsidians",
+      "minecraft:obsidians"
+    ]
+  },
+  "mcwbridges:balustrade_andesite_bridge": {
+    "result": "mcwbridges:balustrade_andesite_bridge",
+    "count": 5,
+    "ingredients": [
+      "minecraft:andesite_wall",
+      "minecraft:andesite_wall",
+      "minecraft:andesite_wall",
+      "minecraft:andesite_slab",
+      "minecraft:andesite_slab",
+      "minecraft:andesite_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:balustrade_blackstone_bridge": {
+    "result": "mcwbridges:balustrade_blackstone_bridge",
+    "count": 5,
+    "ingredients": [
+      "minecraft:blackstone_wall",
+      "minecraft:blackstone_wall",
+      "minecraft:blackstone_wall",
+      "minecraft:blackstone_slab",
+      "minecraft:blackstone_slab",
+      "minecraft:blackstone_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:balustrade_bricks_bridge": {
+    "result": "mcwbridges:balustrade_bricks_bridge",
+    "count": 5,
+    "ingredients": [
+      "minecraft:brick_wall",
+      "minecraft:brick_wall",
+      "minecraft:brick_wall",
+      "minecraft:brick_slab",
+      "minecraft:brick_slab",
+      "minecraft:brick_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:balustrade_cobblestone_bridge": {
+    "result": "mcwbridges:balustrade_cobblestone_bridge",
+    "count": 5,
+    "ingredients": [
+      "minecraft:cobblestone_wall",
+      "minecraft:cobblestone_wall",
+      "minecraft:cobblestone_wall",
+      "minecraft:cobblestone_slab",
+      "minecraft:cobblestone_slab",
+      "minecraft:cobblestone_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:balustrade_deepslate_bricks_bridge": {
+    "result": "mcwbridges:balustrade_deepslate_bricks_bridge",
+    "count": 5,
+    "ingredients": [
+      "minecraft:deepslate_brick_wall",
+      "minecraft:deepslate_brick_wall",
+      "minecraft:deepslate_brick_wall",
+      "minecraft:deepslate_brick_slab",
+      "minecraft:deepslate_brick_slab",
+      "minecraft:deepslate_brick_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:balustrade_deepslate_tiles_bridge": {
+    "result": "mcwbridges:balustrade_deepslate_tiles_bridge",
+    "count": 5,
+    "ingredients": [
+      "minecraft:deepslate_tile_wall",
+      "minecraft:deepslate_tile_wall",
+      "minecraft:deepslate_tile_wall",
+      "minecraft:deepslate_tile_slab",
+      "minecraft:deepslate_tile_slab",
+      "minecraft:deepslate_tile_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:balustrade_diorite_bridge": {
+    "result": "mcwbridges:balustrade_diorite_bridge",
+    "count": 5,
+    "ingredients": [
+      "minecraft:diorite_wall",
+      "minecraft:diorite_wall",
+      "minecraft:diorite_wall",
+      "minecraft:diorite_slab",
+      "minecraft:diorite_slab",
+      "minecraft:diorite_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:balustrade_end_stone_bricks_bridge": {
+    "result": "mcwbridges:balustrade_end_stone_bricks_bridge",
+    "count": 5,
+    "ingredients": [
+      "minecraft:end_stone_brick_wall",
+      "minecraft:end_stone_brick_wall",
+      "minecraft:end_stone_brick_wall",
+      "minecraft:end_stone_brick_slab",
+      "minecraft:end_stone_brick_slab",
+      "minecraft:end_stone_brick_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:balustrade_granite_bridge": {
+    "result": "mcwbridges:balustrade_granite_bridge",
+    "count": 5,
+    "ingredients": [
+      "minecraft:granite_wall",
+      "minecraft:granite_wall",
+      "minecraft:granite_wall",
+      "minecraft:granite_slab",
+      "minecraft:granite_slab",
+      "minecraft:granite_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:balustrade_mossy_cobblestone_bridge": {
+    "result": "mcwbridges:balustrade_mossy_cobblestone_bridge",
+    "count": 5,
+    "ingredients": [
+      "minecraft:mossy_cobblestone_wall",
+      "minecraft:mossy_cobblestone_wall",
+      "minecraft:mossy_cobblestone_wall",
+      "minecraft:mossy_cobblestone_slab",
+      "minecraft:mossy_cobblestone_slab",
+      "minecraft:mossy_cobblestone_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:balustrade_mossy_stone_bricks_bridge": {
+    "result": "mcwbridges:balustrade_mossy_stone_bricks_bridge",
+    "count": 5,
+    "ingredients": [
+      "minecraft:mossy_stone_brick_wall",
+      "minecraft:mossy_stone_brick_wall",
+      "minecraft:mossy_stone_brick_wall",
+      "minecraft:mossy_stone_brick_slab",
+      "minecraft:mossy_stone_brick_slab",
+      "minecraft:mossy_stone_brick_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:balustrade_mud_bricks_bridge": {
+    "result": "mcwbridges:balustrade_mud_bricks_bridge",
+    "count": 5,
+    "ingredients": [
+      "minecraft:mud_brick_wall",
+      "minecraft:mud_brick_wall",
+      "minecraft:mud_brick_wall",
+      "minecraft:mud_brick_slab",
+      "minecraft:mud_brick_slab",
+      "minecraft:mud_brick_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:balustrade_nether_bricks_bridge": {
+    "result": "mcwbridges:balustrade_nether_bricks_bridge",
+    "count": 5,
+    "ingredients": [
+      "minecraft:nether_brick_wall",
+      "minecraft:nether_brick_wall",
+      "minecraft:nether_brick_wall",
+      "minecraft:nether_brick_slab",
+      "minecraft:nether_brick_slab",
+      "minecraft:nether_brick_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:balustrade_orange_sandstone_bridge": {
+    "result": "mcwbridges:balustrade_orange_sandstone_bridge",
+    "count": 5,
+    "ingredients": [
+      "minecraft:red_sandstone_wall",
+      "minecraft:red_sandstone_wall",
+      "minecraft:red_sandstone_wall",
+      "minecraft:red_sandstone_slab",
+      "minecraft:red_sandstone_slab",
+      "minecraft:red_sandstone_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:balustrade_prismarine_bricks_bridge": {
+    "result": "mcwbridges:balustrade_prismarine_bricks_bridge",
+    "count": 5,
+    "ingredients": [
+      "minecraft:prismarine_wall",
+      "minecraft:prismarine_wall",
+      "minecraft:prismarine_wall",
+      "minecraft:prismarine_brick_slab",
+      "minecraft:prismarine_brick_slab",
+      "minecraft:prismarine_brick_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:balustrade_sandstone_bridge": {
+    "result": "mcwbridges:balustrade_sandstone_bridge",
+    "count": 5,
+    "ingredients": [
+      "minecraft:sandstone_wall",
+      "minecraft:sandstone_wall",
+      "minecraft:sandstone_wall",
+      "minecraft:sandstone_slab",
+      "minecraft:sandstone_slab",
+      "minecraft:sandstone_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:balustrade_stone_bricks_bridge": {
+    "result": "mcwbridges:balustrade_stone_bricks_bridge",
+    "count": 5,
+    "ingredients": [
+      "minecraft:stone_brick_wall",
+      "minecraft:stone_brick_wall",
+      "minecraft:stone_brick_wall",
+      "minecraft:stone_brick_slab",
+      "minecraft:stone_brick_slab",
+      "minecraft:stone_brick_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:bamboo_bridge": {
+    "result": "mcwbridges:bamboo_bridge",
+    "count": 1,
+    "ingredients": [
+      "mcwbridges:bamboo_bridge_stair",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:bamboo_bridge_pier": {
+    "result": "mcwbridges:bamboo_bridge_pier",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bamboo",
+      "minecraft:string",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "",
+      "minecraft:bamboo",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:bamboo_bridge_stair": {
+    "result": "mcwbridges:bamboo_bridge_stair",
+    "count": 6,
+    "ingredients": [
+      "",
+      "",
+      "mcwbridges:bamboo_bridge",
+      "",
+      "mcwbridges:bamboo_bridge",
+      "mcwbridges:bamboo_bridge",
+      "mcwbridges:bamboo_bridge",
+      "mcwbridges:bamboo_bridge",
+      "mcwbridges:bamboo_bridge"
+    ]
+  },
+  "mcwdoors:bamboo_bark_glass_door": {
+    "result": "mcwdoors:bamboo_bark_glass_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bamboo",
+      "minecraft:glass",
+      "",
+      "minecraft:glass",
+      "minecraft:glass",
+      "",
+      "minecraft:bamboo",
+      "minecraft:glass",
+      ""
+    ]
+  },
+  "mcwdoors:bamboo_barn_door": {
+    "result": "mcwdoors:bamboo_barn_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:stick",
+      "",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      ""
+    ]
+  },
+  "mcwdoors:bamboo_barn_glass_door": {
+    "result": "mcwdoors:bamboo_barn_glass_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      ""
+    ]
+  },
+  "mcwdoors:bamboo_beach_door": {
+    "result": "mcwdoors:bamboo_beach_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bamboo",
+      "",
+      "",
+      "mcwdoors:print_jungle",
+      "",
+      "",
+      "minecraft:bamboo",
+      "",
+      ""
+    ]
+  },
+  "mcwdoors:bamboo_classic_door": {
+    "result": "mcwdoors:bamboo_classic_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bamboo",
+      "",
+      "",
+      "mcwdoors:print_oak",
+      "",
+      "",
+      "minecraft:bamboo",
+      "",
+      ""
+    ]
+  },
+  "mcwdoors:bamboo_cottage_door": {
+    "result": "mcwdoors:bamboo_cottage_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bamboo",
+      "",
+      "",
+      "mcwdoors:print_spruce",
+      "",
+      "",
+      "minecraft:bamboo",
+      "",
+      ""
+    ]
+  },
+  "mcwdoors:bamboo_four_panel_door": {
+    "result": "mcwdoors:bamboo_four_panel_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bamboo",
+      "",
+      "",
+      "mcwdoors:print_dark_oak",
+      "",
+      "",
+      "minecraft:bamboo",
+      "",
+      ""
+    ]
+  },
+  "mcwdoors:bamboo_glass_door": {
+    "result": "mcwdoors:bamboo_glass_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bamboo",
+      "minecraft:glass_pane",
+      "",
+      "minecraft:bamboo",
+      "minecraft:glass_pane",
+      "",
+      "minecraft:bamboo",
+      "minecraft:glass_pane",
+      ""
+    ]
+  },
+  "mcwdoors:bamboo_japanese2_door": {
+    "result": "mcwdoors:bamboo_japanese2_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:paper",
+      "minecraft:paper",
+      "",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      ""
+    ]
+  },
+  "mcwdoors:bamboo_japanese_door": {
+    "result": "mcwdoors:bamboo_japanese_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:paper",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      "minecraft:paper",
+      "",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      ""
+    ]
+  },
+  "mcwdoors:bamboo_modern_door": {
+    "result": "mcwdoors:bamboo_modern_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bamboo",
+      "minecraft:glass_pane",
+      "",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "",
+      "minecraft:bamboo",
+      "minecraft:glass_pane",
+      ""
+    ]
+  },
+  "mcwdoors:bamboo_mystic_door": {
+    "result": "mcwdoors:bamboo_mystic_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bamboo",
+      "",
+      "",
+      "mcwdoors:print_mystic",
+      "",
+      "",
+      "minecraft:bamboo",
+      "",
+      ""
+    ]
+  },
+  "mcwdoors:bamboo_nether_door": {
+    "result": "mcwdoors:bamboo_nether_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bamboo",
+      "",
+      "",
+      "mcwdoors:print_nether",
+      "",
+      "",
+      "minecraft:bamboo",
+      "",
+      ""
+    ]
+  },
+  "mcwdoors:bamboo_paper_door": {
+    "result": "mcwdoors:bamboo_paper_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bamboo",
+      "",
+      "",
+      "mcwdoors:print_birch",
+      "",
+      "",
+      "minecraft:bamboo",
+      "",
+      ""
+    ]
+  },
+  "mcwdoors:bamboo_stable_door": {
+    "result": "mcwdoors:bamboo_stable_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_bars",
+      "minecraft:iron_bars",
+      "",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      ""
+    ]
+  },
+  "mcwdoors:bamboo_stable_head_door": {
+    "result": "mcwdoors:bamboo_stable_head_door",
+    "count": 1,
+    "ingredients": [
+      "mcwdoors:bamboo_stable_door",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwdoors:bamboo_swamp_door": {
+    "result": "mcwdoors:bamboo_swamp_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bamboo",
+      "",
+      "",
+      "mcwdoors:print_swamp",
+      "",
+      "",
+      "minecraft:bamboo",
+      "",
+      ""
+    ]
+  },
+  "mcwdoors:bamboo_tropical_door": {
+    "result": "mcwdoors:bamboo_tropical_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bamboo",
+      "",
+      "",
+      "mcwdoors:print_acacia",
+      "",
+      "",
+      "minecraft:bamboo",
+      "",
+      ""
+    ]
+  },
+  "mcwdoors:bamboo_waffle_door": {
+    "result": "mcwdoors:bamboo_waffle_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bamboo",
+      "",
+      "",
+      "mcwdoors:print_waffle",
+      "",
+      "",
+      "minecraft:bamboo",
+      "",
+      ""
+    ]
+  },
+  "mcwdoors:bamboo_western_door": {
+    "result": "mcwdoors:bamboo_western_door",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "minecraft:bamboo"
+    ]
+  },
+  "mcwdoors:bamboo_whispering_door": {
+    "result": "mcwdoors:bamboo_whispering_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bamboo",
+      "",
+      "",
+      "mcwdoors:print_whispering",
+      "",
+      "",
+      "minecraft:bamboo",
+      "",
+      ""
+    ]
+  },
+  "mcwfences:bamboo_curved_gate": {
+    "result": "mcwfences:bamboo_curved_gate",
+    "count": 4,
+    "ingredients": [
+      "minecraft:bamboo_block",
+      "",
+      "minecraft:bamboo_planks",
+      "minecraft:bamboo_block",
+      "minecraft:bamboo_planks",
+      "minecraft:bamboo_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfences:bamboo_fence": {
+    "result": "mcwfences:bamboo_fence",
+    "count": 2,
+    "ingredients": [
+      "minecraft:bamboo",
+      "",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "",
+      "minecraft:bamboo",
+      ""
+    ]
+  },
+  "mcwfences:bamboo_highley_gate": {
+    "result": "mcwfences:bamboo_highley_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:stripped_bamboo_block",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stripped_bamboo_block",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfences:bamboo_horse_fence": {
+    "result": "mcwfences:bamboo_horse_fence",
+    "count": 3,
+    "ingredients": [
+      "minecraft:stripped_bamboo_block",
+      "minecraft:stick",
+      "minecraft:stripped_bamboo_block",
+      "minecraft:stick",
+      "minecraft:stripped_bamboo_block",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfences:bamboo_picket_fence": {
+    "result": "mcwfences:bamboo_picket_fence",
+    "count": 3,
+    "ingredients": [
+      "minecraft:stripped_bamboo_block",
+      "minecraft:bamboo_planks",
+      "minecraft:stripped_bamboo_block",
+      "minecraft:stripped_bamboo_block",
+      "minecraft:stick",
+      "minecraft:stripped_bamboo_block",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfences:bamboo_pyramid_gate": {
+    "result": "mcwfences:bamboo_pyramid_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:stripped_bamboo_block",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:bamboo_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfences:bamboo_stockade_fence": {
+    "result": "mcwfences:bamboo_stockade_fence",
+    "count": 3,
+    "ingredients": [
+      "minecraft:stripped_bamboo_block",
+      "minecraft:bamboo_planks",
+      "minecraft:stripped_bamboo_block",
+      "minecraft:stripped_bamboo_block",
+      "minecraft:bamboo_planks",
+      "minecraft:stripped_bamboo_block",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfences:bamboo_wired_fence": {
+    "result": "mcwfences:bamboo_wired_fence",
+    "count": 3,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:iron_bars",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stripped_bamboo_block",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfences:bastion_metal_fence_gate": {
+    "result": "mcwfences:bastion_metal_fence_gate",
+    "count": 6,
+    "ingredients": [
+      "mcwfences:bastion_metal_fence",
+      "mcwfences:bastion_metal_fence",
+      "mcwfences:bastion_metal_fence",
+      "mcwfences:bastion_metal_fence",
+      "mcwfences:bastion_metal_fence",
+      "mcwfences:bastion_metal_fence",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwholidays:bat_doormat": {
+    "result": "mcwholidays:bat_doormat",
+    "count": 8,
+    "ingredients": [
+      "minecraft:brown_carpet",
+      "minecraft:brown_carpet",
+      "minecraft:brown_carpet",
+      "minecraft:brown_carpet",
+      "minecraft:black_dye",
+      "minecraft:brown_carpet",
+      "minecraft:brown_carpet",
+      "minecraft:brown_carpet",
+      "minecraft:brown_carpet"
+    ]
+  },
+  "mcwholidays:bat_sleeping": {
+    "result": "mcwholidays:bat_sleeping",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:brown_wool",
+      "",
+      "minecraft:brown_carpet",
+      "minecraft:brown_wool",
+      "minecraft:brown_carpet",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwholidays:bat_wall_deco_1": {
+    "result": "mcwholidays:bat_wall_deco_1",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black_dye",
+      "",
+      "minecraft:black_dye",
+      "",
+      "minecraft:paper",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwholidays:bat_wall_deco_2": {
+    "result": "mcwholidays:bat_wall_deco_2",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black_dye",
+      "minecraft:paper",
+      "minecraft:black_dye",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwholidays:bat_wall_deco_3": {
+    "result": "mcwholidays:bat_wall_deco_3",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black_dye",
+      "minecraft:paper",
+      "minecraft:black_dye",
+      "minecraft:black_dye",
+      "",
+      "minecraft:black_dye",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwlights:bamboo_tiki_torch": {
+    "result": "mcwlights:bamboo_tiki_torch",
+    "count": 1,
+    "ingredients": [
+      "minecraft:torch",
+      "",
+      "",
+      "minecraft:bamboo",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwpaths:bamboo_planks_path": {
+    "result": "mcwpaths:bamboo_planks_path",
+    "count": 3,
+    "ingredients": [
+      "minecraft:bamboo_slab",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:bamboo_attic_roof": {
+    "result": "mcwroofs:bamboo_attic_roof",
+    "count": 2,
+    "ingredients": [
+      "",
+      "minecraft:bamboo_block",
+      "",
+      "minecraft:bamboo_block",
+      "minecraft:glass",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:bamboo_lower_roof": {
+    "result": "mcwroofs:bamboo_lower_roof",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:bamboo_block",
+      "minecraft:bamboo_block",
+      "minecraft:bamboo_block",
+      "minecraft:bamboo_block",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:bamboo_mosaic_attic_roof": {
+    "result": "mcwroofs:bamboo_mosaic_attic_roof",
+    "count": 2,
+    "ingredients": [
+      "",
+      "minecraft:bamboo_mosaic",
+      "",
+      "minecraft:bamboo_mosaic",
+      "minecraft:glass",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:bamboo_mosaic_lower_roof": {
+    "result": "mcwroofs:bamboo_mosaic_lower_roof",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:bamboo_mosaic",
+      "minecraft:bamboo_mosaic",
+      "minecraft:bamboo_mosaic",
+      "minecraft:bamboo_mosaic",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:bamboo_mosaic_roof": {
+    "result": "mcwroofs:bamboo_mosaic_roof",
+    "count": 2,
+    "ingredients": [
+      "",
+      "minecraft:bamboo_mosaic",
+      "",
+      "minecraft:bamboo_mosaic",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:bamboo_mosaic_steep_roof": {
+    "result": "mcwroofs:bamboo_mosaic_steep_roof",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:bamboo_mosaic",
+      "",
+      "minecraft:bamboo_mosaic",
+      "minecraft:bamboo_mosaic",
+      "",
+      "minecraft:bamboo_mosaic",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "mcwroofs:bamboo_mosaic_top_roof": {
+    "result": "mcwroofs:bamboo_mosaic_top_roof",
+    "count": 2,
+    "ingredients": [
+      "minecraft:bamboo_mosaic",
+      "minecraft:stick",
+      "minecraft:bamboo_mosaic",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:bamboo_mosaic_upper_lower_roof": {
+    "result": "mcwroofs:bamboo_mosaic_upper_lower_roof",
+    "count": 3,
+    "ingredients": [
+      "",
+      "",
+      "minecraft:bamboo_mosaic",
+      "minecraft:bamboo_mosaic",
+      "minecraft:bamboo_mosaic",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:bamboo_mosaic_upper_steep_roof": {
+    "result": "mcwroofs:bamboo_mosaic_upper_steep_roof",
+    "count": 3,
+    "ingredients": [
+      "",
+      "minecraft:bamboo_mosaic",
+      "",
+      "",
+      "minecraft:bamboo_mosaic",
+      "",
+      "minecraft:bamboo_mosaic",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "mcwroofs:bamboo_planks_attic_roof": {
+    "result": "mcwroofs:bamboo_planks_attic_roof",
+    "count": 2,
+    "ingredients": [
+      "",
+      "minecraft:bamboo_planks",
+      "",
+      "minecraft:bamboo_planks",
+      "minecraft:glass",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:bamboo_planks_lower_roof": {
+    "result": "mcwroofs:bamboo_planks_lower_roof",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:bamboo_planks",
+      "minecraft:bamboo_planks",
+      "minecraft:bamboo_planks",
+      "minecraft:bamboo_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:bamboo_planks_roof": {
+    "result": "mcwroofs:bamboo_planks_roof",
+    "count": 2,
+    "ingredients": [
+      "",
+      "minecraft:bamboo_planks",
+      "",
+      "minecraft:bamboo_planks",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:bamboo_planks_steep_roof": {
+    "result": "mcwroofs:bamboo_planks_steep_roof",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:bamboo_planks",
+      "",
+      "minecraft:bamboo_planks",
+      "minecraft:bamboo_planks",
+      "",
+      "minecraft:bamboo_planks",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "mcwroofs:bamboo_planks_top_roof": {
+    "result": "mcwroofs:bamboo_planks_top_roof",
+    "count": 2,
+    "ingredients": [
+      "minecraft:bamboo_planks",
+      "minecraft:stick",
+      "minecraft:bamboo_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:bamboo_planks_upper_lower_roof": {
+    "result": "mcwroofs:bamboo_planks_upper_lower_roof",
+    "count": 3,
+    "ingredients": [
+      "",
+      "",
+      "minecraft:bamboo_planks",
+      "minecraft:bamboo_planks",
+      "minecraft:bamboo_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:bamboo_planks_upper_steep_roof": {
+    "result": "mcwroofs:bamboo_planks_upper_steep_roof",
+    "count": 3,
+    "ingredients": [
+      "",
+      "minecraft:bamboo_planks",
+      "",
+      "",
+      "minecraft:bamboo_planks",
+      "",
+      "minecraft:bamboo_planks",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "mcwroofs:bamboo_roof": {
+    "result": "mcwroofs:bamboo_roof",
+    "count": 2,
+    "ingredients": [
+      "",
+      "minecraft:bamboo_block",
+      "",
+      "minecraft:bamboo_block",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:bamboo_steep_roof": {
+    "result": "mcwroofs:bamboo_steep_roof",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:bamboo_block",
+      "",
+      "minecraft:bamboo_block",
+      "minecraft:bamboo_block",
+      "",
+      "minecraft:bamboo_block",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "mcwroofs:bamboo_top_roof": {
+    "result": "mcwroofs:bamboo_top_roof",
+    "count": 2,
+    "ingredients": [
+      "minecraft:bamboo_block",
+      "minecraft:stick",
+      "minecraft:bamboo_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:bamboo_upper_lower_roof": {
+    "result": "mcwroofs:bamboo_upper_lower_roof",
+    "count": 3,
+    "ingredients": [
+      "",
+      "",
+      "minecraft:bamboo_block",
+      "minecraft:bamboo_block",
+      "minecraft:bamboo_block",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:bamboo_upper_steep_roof": {
+    "result": "mcwroofs:bamboo_upper_steep_roof",
+    "count": 3,
+    "ingredients": [
+      "",
+      "minecraft:bamboo_block",
+      "",
+      "",
+      "minecraft:bamboo_block",
+      "",
+      "minecraft:bamboo_block",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "mcwtrpdoors:bamboo_bark_trapdoor": {
+    "result": "mcwtrpdoors:bamboo_bark_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "minecraft:bamboo_block",
+      "minecraft:glass_pane",
+      "minecraft:bamboo_block",
+      "minecraft:bamboo_block",
+      "minecraft:glass_pane",
+      "minecraft:bamboo_block",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwtrpdoors:bamboo_barn_trapdoor": {
+    "result": "mcwtrpdoors:bamboo_barn_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "mcwtrpdoors:bamboo_glass_trapdoor",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "minecraft:bamboo"
+    ]
+  },
+  "mcwtrpdoors:bamboo_barred_trapdoor": {
+    "result": "mcwtrpdoors:bamboo_barred_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "mcwtrpdoors:print_barred",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "minecraft:bamboo"
+    ]
+  },
+  "mcwtrpdoors:bamboo_barrel_trapdoor": {
+    "result": "mcwtrpdoors:bamboo_barrel_trapdoor",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:bamboo",
+      "",
+      "minecraft:bamboo",
+      "minecraft:barrel",
+      "minecraft:bamboo",
+      "",
+      "minecraft:bamboo",
+      ""
+    ]
+  },
+  "mcwtrpdoors:bamboo_beach_trapdoor": {
+    "result": "mcwtrpdoors:bamboo_beach_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "mcwtrpdoors:print_beach",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "minecraft:bamboo"
+    ]
+  },
+  "mcwtrpdoors:bamboo_blossom_trapdoor": {
+    "result": "mcwtrpdoors:bamboo_blossom_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "mcwtrpdoors:print_blossom",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "minecraft:bamboo"
+    ]
+  },
+  "mcwtrpdoors:bamboo_classic_trapdoor": {
+    "result": "mcwtrpdoors:bamboo_classic_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "mcwtrpdoors:print_classic",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "minecraft:bamboo"
+    ]
+  },
+  "mcwtrpdoors:bamboo_cottage_trapdoor": {
+    "result": "mcwtrpdoors:bamboo_cottage_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "mcwtrpdoors:print_cottage",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "minecraft:bamboo"
+    ]
+  },
+  "mcwtrpdoors:bamboo_four_panel_trapdoor": {
+    "result": "mcwtrpdoors:bamboo_four_panel_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "mcwtrpdoors:print_four_panel",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "minecraft:bamboo"
+    ]
+  },
+  "mcwtrpdoors:bamboo_glass_trapdoor": {
+    "result": "mcwtrpdoors:bamboo_glass_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "minecraft:glass_pane",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "minecraft:bamboo"
+    ]
+  },
+  "mcwtrpdoors:bamboo_mystic_trapdoor": {
+    "result": "mcwtrpdoors:bamboo_mystic_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "mcwtrpdoors:print_mystic",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "minecraft:bamboo"
+    ]
+  },
+  "mcwtrpdoors:bamboo_paper_trapdoor": {
+    "result": "mcwtrpdoors:bamboo_paper_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "mcwtrpdoors:print_paper",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "minecraft:bamboo"
+    ]
+  },
+  "mcwtrpdoors:bamboo_swamp_trapdoor": {
+    "result": "mcwtrpdoors:bamboo_swamp_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "mcwtrpdoors:print_swamp",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "minecraft:bamboo"
+    ]
+  },
+  "mcwtrpdoors:bamboo_trapdoor": {
+    "result": "mcwtrpdoors:bamboo_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwtrpdoors:bamboo_tropical_trapdoor": {
+    "result": "mcwtrpdoors:bamboo_tropical_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "mcwtrpdoors:print_tropical",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "minecraft:bamboo"
+    ]
+  },
+  "mcwtrpdoors:bamboo_whispering_trapdoor": {
+    "result": "mcwtrpdoors:bamboo_whispering_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bamboo",
+      "",
+      "",
+      "mcwtrpdoors:print_whispering",
+      "",
+      "",
+      "minecraft:bamboo",
+      "",
+      ""
+    ]
+  },
+  "mcwwindows:bamboo_shutter": {
+    "result": "mcwwindows:bamboo_shutter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bamboo",
+      "",
+      "",
+      "minecraft:bamboo",
+      "",
+      "",
+      "minecraft:bamboo",
+      "",
+      ""
+    ]
+  },
+  "mekanism:basic_bin": {
+    "result": "mekanism:basic_bin",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone",
+      "minecraft:basic",
+      "minecraft:stone",
+      "minecraft:basic",
+      "",
+      "minecraft:basic",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone"
+    ]
+  },
+  "mekanism:basic_chemical_tank": {
+    "result": "mekanism:basic_chemical_tank",
+    "count": 1,
+    "ingredients": [
+      "minecraft:basic",
+      "minecraft:osmium",
+      "minecraft:basic",
+      "minecraft:osmium",
+      "",
+      "minecraft:osmium",
+      "minecraft:basic",
+      "minecraft:osmium",
+      "minecraft:basic"
+    ]
+  },
+  "mekanism:basic_fluid_tank": {
+    "result": "mekanism:basic_fluid_tank",
+    "count": 1,
+    "ingredients": [
+      "minecraft:basic",
+      "minecraft:iron_ingot",
+      "minecraft:basic",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:basic",
+      "minecraft:iron_ingot",
+      "minecraft:basic"
+    ]
+  },
+  "mekanism:basic_induction_provider": {
+    "result": "mekanism:basic_induction_provider",
+    "count": 1,
+    "ingredients": [
+      "minecraft:lithium",
+      "minecraft:basic",
+      "minecraft:lithium",
+      "minecraft:basic",
+      "mekanism:basic_energy_cube",
+      "minecraft:basic",
+      "minecraft:lithium",
+      "minecraft:basic",
+      "minecraft:lithium"
+    ]
+  },
+  "mekanism:basic_tier_installer": {
+    "result": "mekanism:basic_tier_installer",
+    "count": 1,
+    "ingredients": [
+      "minecraft:basic",
+      "minecraft:basic",
+      "minecraft:basic",
+      "minecraft:iron_ingot",
+      "minecraft:oak_planks",
+      "minecraft:iron_ingot",
+      "minecraft:basic",
+      "minecraft:basic",
+      "minecraft:basic"
+    ]
+  },
+  "mekanism:basic_logistical_transporter": {
+    "result": "mekanism:basic_logistical_transporter",
+    "count": 8,
+    "ingredients": [
+      "modern_industrialization:steel_ingot",
+      "minecraft:basic",
+      "modern_industrialization:steel_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mekanism:basic_mechanical_pipe": {
+    "result": "mekanism:basic_mechanical_pipe",
+    "count": 8,
+    "ingredients": [
+      "modern_industrialization:steel_ingot",
+      "minecraft:bucket",
+      "modern_industrialization:steel_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mekanism:basic_pressurized_tube": {
+    "result": "mekanism:basic_pressurized_tube",
+    "count": 8,
+    "ingredients": [
+      "modern_industrialization:steel_ingot",
+      "minecraft:glass",
+      "modern_industrialization:steel_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mekanism:basic_thermodynamic_conductor": {
+    "result": "mekanism:basic_thermodynamic_conductor",
+    "count": 8,
+    "ingredients": [
+      "modern_industrialization:steel_ingot",
+      "minecraft:copper_ingot",
+      "modern_industrialization:steel_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mekanism:basic_universal_cable": {
+    "result": "mekanism:basic_universal_cable",
+    "count": 8,
+    "ingredients": [
+      "modern_industrialization:steel_ingot",
+      "minecraft:redstone",
+      "modern_industrialization:steel_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:bamboo_mantel": {
+    "result": "merrymaking:bamboo_mantel",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_planks",
+      "",
+      "minecraft:bamboo_planks",
+      "minecraft:bamboo_planks",
+      "",
+      "minecraft:bamboo_planks"
+    ]
+  },
+  "merrymaking:bamboo_picket_fence": {
+    "result": "merrymaking:bamboo_picket_fence",
+    "count": 3,
+    "ingredients": [
+      "minecraft:bamboo_planks",
+      "minecraft:stick",
+      "minecraft:bamboo_planks",
+      "minecraft:bamboo_planks",
+      "minecraft:stick",
+      "minecraft:bamboo_planks",
+      "minecraft:bamboo_planks",
+      "minecraft:stick",
+      "minecraft:bamboo_planks"
+    ]
+  },
+  "merrymaking:bamboo_picket_fence_gate": {
+    "result": "merrymaking:bamboo_picket_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:bamboo_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:bamboo_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:bamboo_planks",
+      "minecraft:stick"
+    ]
+  },
+  "merrymaking:bamboo_wreath_door": {
+    "result": "merrymaking:bamboo_wreath_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bamboo_door",
+      "merrymaking:christmas_wreath",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:bamboo_wreath_fence": {
+    "result": "merrymaking:bamboo_wreath_fence",
+    "count": 1,
+    "ingredients": [
+      "merrymaking:bamboo_picket_fence",
+      "merrymaking:garland_horizontal",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:bamboo_wreath_fence_gate": {
+    "result": "merrymaking:bamboo_wreath_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "merrymaking:bamboo_picket_fence_gate",
+      "merrymaking:christmas_wreath",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:bamboo_wreath_lights_multi_door": {
+    "result": "merrymaking:bamboo_wreath_lights_multi_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bamboo_door",
+      "merrymaking:christmas_wreath_multi_lights",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:bamboo_wreath_multi_fence": {
+    "result": "merrymaking:bamboo_wreath_multi_fence",
+    "count": 1,
+    "ingredients": [
+      "merrymaking:bamboo_picket_fence",
+      "merrymaking:garland_horizontal_multi",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:bamboo_wreath_multi_fence_gate": {
+    "result": "merrymaking:bamboo_wreath_multi_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "merrymaking:bamboo_picket_fence_gate",
+      "merrymaking:christmas_wreath_multi_lights",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:bamboo_wreath_lights_white_door": {
+    "result": "merrymaking:bamboo_wreath_lights_white_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bamboo_door",
+      "merrymaking:christmas_wreath_white_lights",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:bamboo_wreath_lights_fence": {
+    "result": "merrymaking:bamboo_wreath_lights_fence",
+    "count": 1,
+    "ingredients": [
+      "merrymaking:bamboo_picket_fence",
+      "merrymaking:garland_horizontal_lights",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:bamboo_wreath_lights_fence_gate": {
+    "result": "merrymaking:bamboo_wreath_lights_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "merrymaking:bamboo_picket_fence_gate",
+      "merrymaking:christmas_wreath_white_lights",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:bamboo_roof_slab": {
+    "result": "merrymaking:bamboo_roof_slab",
+    "count": 4,
+    "ingredients": [
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab",
+      "merrymaking:roof_tiles",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mffs:battery": {
+    "result": "mffs:battery",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:copper_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:redstone",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:coal",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "minecolonies:baked_salmon": {
+    "result": "minecolonies:baked_salmon",
+    "count": 2,
+    "ingredients": [
+      "minecolonies:garlic",
+      "minecolonies:garlic",
+      "minecolonies:garlic",
+      "minecolonies:onion",
+      "minecolonies:onion",
+      "minecraft:salmon",
+      "minecraft:salmon",
+      "",
+      ""
+    ]
+  },
+  "minecolonies:banner_rally_guards": {
+    "result": "minecolonies:banner_rally_guards",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_sword",
+      "minecraft:iron_sword",
+      "minecraft:iron_sword",
+      "minecolonies:blockhutguardtower",
+      "minecraft:yellow_banner",
+      "minecolonies:blockhutguardtower",
+      "minecraft:bow",
+      "minecraft:bow",
+      "minecraft:bow"
+    ]
+  },
+  "minecolonies:barrel_block": {
+    "result": "minecolonies:barrel_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "structurize:sceptergold",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:dirt",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:iron_ingot",
+      "minecraft:oak_planks"
+    ]
+  },
+  "minecraft:bamboo": {
+    "result": "minecraft:bamboo",
+    "count": 12,
+    "ingredients": [
+      "",
+      "",
+      "mysticalagriculture:nature_essence",
+      "",
+      "mysticalagriculture:nature_essence",
+      "",
+      "",
+      "",
+      "mysticalagriculture:nature_essence"
+    ]
+  },
+  "minecraft:bamboo_block": {
+    "result": "minecraft:bamboo_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "minecraft:bamboo"
+    ]
+  },
+  "minecraft:bamboo_button": {
+    "result": "minecraft:bamboo_button",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bamboo_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:bamboo_chest_raft": {
+    "result": "minecraft:bamboo_chest_raft",
+    "count": 1,
+    "ingredients": [
+      "minecraft:chest",
+      "minecraft:bamboo_raft",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:bamboo_fence": {
+    "result": "minecraft:bamboo_fence",
+    "count": 3,
+    "ingredients": [
+      "minecraft:bamboo_planks",
+      "minecraft:stick",
+      "minecraft:bamboo_planks",
+      "minecraft:bamboo_planks",
+      "minecraft:stick",
+      "minecraft:bamboo_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:bamboo_fence_gate": {
+    "result": "minecraft:bamboo_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:bamboo_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:bamboo_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:bamboo_hanging_sign": {
+    "result": "minecraft:bamboo_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "minecraft:stripped_bamboo_block",
+      "minecraft:stripped_bamboo_block",
+      "minecraft:stripped_bamboo_block",
+      "minecraft:stripped_bamboo_block",
+      "minecraft:stripped_bamboo_block",
+      "minecraft:stripped_bamboo_block"
+    ]
+  },
+  "minecraft:bamboo_mosaic": {
+    "result": "minecraft:bamboo_mosaic",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bamboo_slab",
+      "",
+      "",
+      "minecraft:bamboo_slab",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:bamboo_mosaic_slab": {
+    "result": "minecraft:bamboo_mosaic_slab",
+    "count": 6,
+    "ingredients": [
+      "minecraft:bamboo_mosaic",
+      "minecraft:bamboo_mosaic",
+      "minecraft:bamboo_mosaic",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:bamboo_mosaic_stairs": {
+    "result": "minecraft:bamboo_mosaic_stairs",
+    "count": 4,
+    "ingredients": [
+      "minecraft:bamboo_mosaic",
+      "",
+      "",
+      "minecraft:bamboo_mosaic",
+      "minecraft:bamboo_mosaic",
+      "",
+      "minecraft:bamboo_mosaic",
+      "minecraft:bamboo_mosaic",
+      "minecraft:bamboo_mosaic"
+    ]
+  },
+  "minecraft:bamboo_planks": {
+    "result": "minecraft:bamboo_planks",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bamboo_slab",
+      "",
+      "",
+      "",
+      "minecraft:bamboo_slab",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:bamboo_pressure_plate": {
+    "result": "minecraft:bamboo_pressure_plate",
+    "count": 2,
+    "ingredients": [
+      "minecraft:bamboo_block",
+      "minecraft:bamboo_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:bamboo_raft": {
+    "result": "minecraft:bamboo_raft",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bamboo_planks",
+      "",
+      "minecraft:bamboo_planks",
+      "minecraft:bamboo_planks",
+      "minecraft:bamboo_planks",
+      "minecraft:bamboo_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:bamboo_sign": {
+    "result": "minecraft:bamboo_sign",
+    "count": 3,
+    "ingredients": [
+      "minecraft:bamboo_planks",
+      "minecraft:bamboo_planks",
+      "minecraft:bamboo_planks",
+      "minecraft:bamboo_planks",
+      "minecraft:bamboo_planks",
+      "minecraft:bamboo_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "minecraft:bamboo_slab": {
+    "result": "minecraft:bamboo_slab",
+    "count": 12,
+    "ingredients": [
+      "minecraft:bamboo_block",
+      "minecraft:bamboo_block",
+      "minecraft:bamboo_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:bamboo_stairs": {
+    "result": "minecraft:bamboo_stairs",
+    "count": 8,
+    "ingredients": [
+      "minecraft:bamboo_block",
+      "",
+      "",
+      "minecraft:bamboo_block",
+      "minecraft:bamboo_block",
+      "",
+      "minecraft:bamboo_block",
+      "minecraft:bamboo_block",
+      "minecraft:bamboo_block"
+    ]
+  },
+  "modern_industrialization:basic_machine_hull": {
+    "result": "modern_industrialization:basic_machine_hull",
+    "count": 1,
+    "ingredients": [
+      "",
+      "modern_industrialization:analog_circuit",
+      "",
+      "modern_industrialization:redstone_battery",
+      "modern_industrialization:steel_machine_casing",
+      "modern_industrialization:redstone_battery",
+      "modern_industrialization:tin_cable",
+      "modern_industrialization:tin_cable",
+      "modern_industrialization:tin_cable"
+    ]
+  },
+  "modern_industrialization:battery_alloy_block": {
+    "result": "modern_industrialization:battery_alloy_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:battery_alloy",
+      "minecraft:battery_alloy",
+      "minecraft:battery_alloy",
+      "minecraft:battery_alloy",
+      "modern_industrialization:battery_alloy_ingot",
+      "minecraft:battery_alloy",
+      "minecraft:battery_alloy",
+      "minecraft:battery_alloy",
+      "minecraft:battery_alloy"
+    ]
+  },
+  "modern_industrialization:battery_alloy_dust": {
+    "result": "modern_industrialization:battery_alloy_dust",
+    "count": 1,
+    "ingredients": [
+      "minecraft:battery_alloy",
+      "minecraft:battery_alloy",
+      "minecraft:battery_alloy",
+      "minecraft:battery_alloy",
+      "modern_industrialization:battery_alloy_tiny_dust",
+      "minecraft:battery_alloy",
+      "minecraft:battery_alloy",
+      "minecraft:battery_alloy",
+      "minecraft:battery_alloy"
+    ]
+  },
+  "modern_industrialization:battery_alloy_ingot": {
+    "result": "modern_industrialization:battery_alloy_ingot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:battery_alloy",
+      "minecraft:battery_alloy",
+      "minecraft:battery_alloy",
+      "minecraft:battery_alloy",
+      "modern_industrialization:battery_alloy_nugget",
+      "minecraft:battery_alloy",
+      "minecraft:battery_alloy",
+      "minecraft:battery_alloy",
+      "minecraft:battery_alloy"
+    ]
+  },
+  "modern_industrialization:battery_alloy_nugget": {
+    "result": "modern_industrialization:battery_alloy_nugget",
+    "count": 9,
+    "ingredients": [
+      "modern_industrialization:battery_alloy_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:battery_alloy_tiny_dust": {
+    "result": "modern_industrialization:battery_alloy_tiny_dust",
+    "count": 9,
+    "ingredients": [
+      "modern_industrialization:battery_alloy_dust",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:bauxite_block": {
+    "result": "modern_industrialization:bauxite_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bauxite",
+      "minecraft:bauxite",
+      "minecraft:bauxite",
+      "minecraft:bauxite",
+      "modern_industrialization:bauxite_dust",
+      "minecraft:bauxite",
+      "minecraft:bauxite",
+      "minecraft:bauxite",
+      "minecraft:bauxite"
+    ]
+  },
+  "modern_industrialization:bauxite_ore": {
+    "result": "modern_industrialization:bauxite_ore",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:deepslate_bauxite_ore",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:bauxite_dust": {
+    "result": "modern_industrialization:bauxite_dust",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bauxite",
+      "minecraft:bauxite",
+      "minecraft:bauxite",
+      "minecraft:bauxite",
+      "modern_industrialization:bauxite_tiny_dust",
+      "minecraft:bauxite",
+      "minecraft:bauxite",
+      "minecraft:bauxite",
+      "minecraft:bauxite"
+    ]
+  },
+  "modern_industrialization:bauxite_tiny_dust": {
+    "result": "modern_industrialization:bauxite_tiny_dust",
+    "count": 9,
+    "ingredients": [
+      "modern_industrialization:bauxite_dust",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "thermal:basalz_rod": {
+    "result": "thermal:basalz_rod",
+    "count": 6,
+    "ingredients": [
+      "mysticalagriculture:basalz_essence",
+      "mysticalagriculture:basalz_essence",
+      "mysticalagriculture:basalz_essence",
+      "mysticalagriculture:basalz_essence",
+      "",
+      "mysticalagriculture:basalz_essence",
+      "mysticalagriculture:basalz_essence",
+      "mysticalagriculture:basalz_essence",
+      "mysticalagriculture:basalz_essence"
+    ]
+  },
+  "oritech:basic_generator_block": {
+    "result": "oritech:basic_generator_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:nickel",
+      "minecraft:nickel",
+      "minecraft:nickel",
+      "minecraft:nickel",
+      "minecraft:copper_ingot",
+      "minecraft:nickel",
+      "oritech:magnetic_coil",
+      "minecraft:furnaces",
+      "oritech:magnetic_coil"
+    ]
+  },
+  "oritech:basic_battery": {
+    "result": "oritech:basic_battery",
+    "count": 1,
+    "ingredients": [
+      "",
+      "modern_industrialization:steel_ingot",
+      "",
+      "minecraft:plastic",
+      "minecraft:electrum",
+      "minecraft:plastic",
+      "minecraft:plastic",
+      "minecraft:electrum",
+      "minecraft:plastic"
+    ]
+  },
+  "pamhc2crops:barleyseeditem": {
+    "result": "pamhc2crops:barleyseeditem",
+    "count": 1,
+    "ingredients": [
+      "pamhc2crops:barleyitem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2crops:barrelcactusseeditem": {
+    "result": "pamhc2crops:barrelcactusseeditem",
+    "count": 1,
+    "ingredients": [
+      "pamhc2crops:barrelcactusitem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:baconandeggsitem": {
+    "result": "pamhc2foodcore:baconandeggsitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_skillet",
+      "minecraft:egg",
+      "minecraft:rawpork",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:baconcheeseburgeritem": {
+    "result": "pamhc2foodcore:baconcheeseburgeritem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_skillet",
+      "minecraft:groundbeef",
+      "minecraft:condiments",
+      "minecraft:bread",
+      "minecraft:rawpork",
+      "minecraft:cheese",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:bakedvegetablemedlyitem": {
+    "result": "pamhc2foodcore:bakedvegetablemedlyitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:vegetables",
+      "minecraft:vegetables",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:basiccheeseburgeritem": {
+    "result": "pamhc2foodcore:basiccheeseburgeritem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_skillet",
+      "minecraft:groundbeef",
+      "minecraft:condiments",
+      "minecraft:bread",
+      "minecraft:cheese",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:basicchickensandwichitem": {
+    "result": "pamhc2foodcore:basicchickensandwichitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_skillet",
+      "minecraft:groundchicken",
+      "minecraft:condiments",
+      "minecraft:bread",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:basicfishsandwichitem": {
+    "result": "pamhc2foodcore:basicfishsandwichitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_skillet",
+      "minecraft:groundfish",
+      "minecraft:condiments",
+      "minecraft:bread",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:basichamburgeritem": {
+    "result": "pamhc2foodcore:basichamburgeritem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_skillet",
+      "minecraft:groundbeef",
+      "minecraft:condiments",
+      "minecraft:bread",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:basicmuttonsandwichitem": {
+    "result": "pamhc2foodcore:basicmuttonsandwichitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_skillet",
+      "minecraft:groundmutton",
+      "minecraft:condiments",
+      "minecraft:bread",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:basicporksandwichitem": {
+    "result": "pamhc2foodcore:basicporksandwichitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_skillet",
+      "minecraft:groundpork",
+      "minecraft:condiments",
+      "minecraft:bread",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:basicrabbitsandwichitem": {
+    "result": "pamhc2foodcore:basicrabbitsandwichitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_skillet",
+      "minecraft:groundrabbit",
+      "minecraft:condiments",
+      "minecraft:bread",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:basicveggieburgeritem": {
+    "result": "pamhc2foodcore:basicveggieburgeritem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_skillet",
+      "minecraft:vegetables",
+      "minecraft:vegetables",
+      "minecraft:condiments",
+      "minecraft:bread",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:batteritem": {
+    "result": "pamhc2foodcore:batteritem",
+    "count": 2,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:flour",
+      "minecraft:milk",
+      "minecraft:egg",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:bakewareitem": {
+    "result": "pamhc2foodcore:bakewareitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "",
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:terracotta"
+    ]
+  },
+  "pamhc2foodextended:babaganoushitem": {
+    "result": "pamhc2foodextended:babaganoushitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:eggplant",
+      "minecraft:garlic",
+      "minecraft:lemon",
+      "minecraft:cookingoil",
+      "minecraft:spiceleaf",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:baconmushroomburgeritem": {
+    "result": "pamhc2foodextended:baconmushroomburgeritem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_skillet",
+      "minecraft:groundbeef",
+      "minecraft:rawpork",
+      "minecraft:mushrooms",
+      "minecraft:condiments",
+      "minecraft:bread",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:baconpancakesitem": {
+    "result": "pamhc2foodextended:baconpancakesitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_skillet",
+      "minecraft:batter",
+      "minecraft:milk",
+      "minecraft:cookedpork",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:baconwrappedchiliitem": {
+    "result": "pamhc2foodextended:baconwrappedchiliitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:chilipepper",
+      "minecraft:rawpork",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:baconwrappeddatesitem": {
+    "result": "pamhc2foodextended:baconwrappeddatesitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:date",
+      "minecraft:rawpork",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:bakedalaskaitem": {
+    "result": "pamhc2foodextended:bakedalaskaitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:meringue",
+      "minecraft:dough",
+      "minecraft:sugar",
+      "minecraft:icecreams",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:bakedbeansitem": {
+    "result": "pamhc2foodextended:bakedbeansitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:bean",
+      "minecraft:rawpork",
+      "minecraft:bbqsauce",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:bakedcactusitem": {
+    "result": "pamhc2foodextended:bakedcactusitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:cactus",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:bakedhamitem": {
+    "result": "pamhc2foodextended:bakedhamitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:rawpork",
+      "minecraft:apple",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:baklavaitem": {
+    "result": "pamhc2foodextended:baklavaitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:dough",
+      "minecraft:walnut",
+      "minecraft:groundcinnamon",
+      "minecraft:butter",
+      "minecraft:sugar",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:bamboosteamedriceitem": {
+    "result": "pamhc2foodextended:bamboosteamedriceitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_grinder",
+      "minecraft:rice",
+      "minecraft:bamboo",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:bananajellyitem": {
+    "result": "pamhc2foodextended:bananajellyitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:banana",
+      "minecraft:sugar",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:bananajellysandwichitem": {
+    "result": "pamhc2foodextended:bananajellysandwichitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:bananajelly",
+      "minecraft:bread",
+      "minecraft:nutbutters",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:bananajellytoastitem": {
+    "result": "pamhc2foodextended:bananajellytoastitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:bananajelly",
+      "minecraft:toast",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:bananajuiceitem": {
+    "result": "pamhc2foodextended:bananajuiceitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_juicer",
+      "minecraft:banana",
+      "minecraft:banana",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:banananutbreaditem": {
+    "result": "pamhc2foodextended:banananutbreaditem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:banana",
+      "minecraft:flour",
+      "minecraft:nuts",
+      "minecraft:milk",
+      "minecraft:salt",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:bananapieitem": {
+    "result": "pamhc2foodextended:bananapieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:banana",
+      "minecraft:sugar",
+      "minecraft:dough",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:bananasmoothieitem": {
+    "result": "pamhc2foodextended:bananasmoothieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:banana",
+      "minecraft:ices",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:bananasplititem": {
+    "result": "pamhc2foodextended:bananasplititem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:banana",
+      "minecraft:icecreams",
+      "minecraft:fruits",
+      "minecraft:nuts",
+      "minecraft:chocolatebar",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:bananayogurtitem": {
+    "result": "pamhc2foodextended:bananayogurtitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:banana",
+      "minecraft:yogurt",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:bangersandmashitem": {
+    "result": "pamhc2foodextended:bangersandmashitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_skillet",
+      "minecraft:sausage",
+      "pamhc2foodcore:mashedpotatoesitem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:battenbergitem": {
+    "result": "pamhc2foodextended:battenbergitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:dough",
+      "minecraft:sugar",
+      "pamhc2foodextended:marzipanitem",
+      "minecraft:apricotjelly",
+      "minecraft:pink",
+      "minecraft:yellow",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:batteredsausageitem": {
+    "result": "pamhc2foodextended:batteredsausageitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:sausage",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2trees:banana_sapling": {
+    "result": "pamhc2trees:banana_sapling",
+    "count": 1,
+    "ingredients": [
+      "pamhc2trees:bananaitem",
+      "pamhc2trees:bananaitem",
+      "pamhc2trees:bananaitem",
+      "pamhc2trees:bananaitem",
+      "pamhc2trees:bananaitem",
+      "pamhc2trees:bananaitem",
+      "pamhc2trees:bananaitem",
+      "pamhc2trees:bananaitem",
+      "minecraft:saplings"
+    ]
+  },
+  "pipez:basic_upgrade": {
+    "result": "pipez:basic_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:iron",
+      "minecraft:iron_ingot",
+      "minecraft:iron",
+      "minecraft:redstone",
+      "minecraft:iron",
+      "minecraft:iron_ingot",
+      "minecraft:iron",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "pneumaticcraft:bandage": {
+    "result": "pneumaticcraft:bandage",
+    "count": 1,
+    "ingredients": [
+      "",
+      "pneumaticcraft:glycerol",
+      "",
+      "pneumaticcraft:glycerol",
+      "minecraft:white_wool",
+      "pneumaticcraft:glycerol",
+      "",
+      "pneumaticcraft:glycerol",
+      ""
+    ]
+  },
+  "powah:battery_basic": {
+    "result": "powah:battery_basic",
+    "count": 1,
+    "ingredients": [
+      "powah:dielectric_paste",
+      "minecraft:iron_ingot",
+      "powah:dielectric_paste",
+      "powah:capacitor_basic_large",
+      "minecraft:redstone_block",
+      "powah:capacitor_basic_large",
+      "powah:dielectric_paste",
+      "powah:battery_starter",
+      "powah:dielectric_paste"
+    ]
+  },
+  "powah:battery_blazing": {
+    "result": "powah:battery_blazing",
+    "count": 1,
+    "ingredients": [
+      "powah:dielectric_paste",
+      "powah:crystal_blazing",
+      "powah:dielectric_paste",
+      "powah:capacitor_blazing",
+      "minecraft:redstone_block",
+      "powah:capacitor_blazing",
+      "powah:dielectric_paste",
+      "powah:battery_hardened",
+      "powah:dielectric_paste"
+    ]
+  },
+  "powah:battery_hardened": {
+    "result": "powah:battery_hardened",
+    "count": 1,
+    "ingredients": [
+      "powah:dielectric_paste",
+      "powah:steel_energized",
+      "powah:dielectric_paste",
+      "powah:capacitor_hardened",
+      "minecraft:redstone_block",
+      "powah:capacitor_hardened",
+      "powah:dielectric_paste",
+      "powah:battery_basic",
+      "powah:dielectric_paste"
+    ]
+  },
+  "powah:battery_niotic": {
+    "result": "powah:battery_niotic",
+    "count": 1,
+    "ingredients": [
+      "powah:dielectric_paste",
+      "powah:crystal_niotic",
+      "powah:dielectric_paste",
+      "powah:capacitor_niotic",
+      "minecraft:redstone_block",
+      "powah:capacitor_niotic",
+      "powah:dielectric_paste",
+      "powah:battery_blazing",
+      "powah:dielectric_paste"
+    ]
+  },
+  "powah:battery_nitro": {
+    "result": "powah:battery_nitro",
+    "count": 1,
+    "ingredients": [
+      "powah:dielectric_paste",
+      "powah:crystal_nitro",
+      "powah:dielectric_paste",
+      "powah:capacitor_nitro",
+      "minecraft:redstone_block",
+      "powah:capacitor_nitro",
+      "powah:dielectric_paste",
+      "powah:battery_spirited",
+      "powah:dielectric_paste"
+    ]
+  },
+  "powah:battery_spirited": {
+    "result": "powah:battery_spirited",
+    "count": 1,
+    "ingredients": [
+      "powah:dielectric_paste",
+      "powah:crystal_spirited",
+      "powah:dielectric_paste",
+      "powah:capacitor_spirited",
+      "minecraft:redstone_block",
+      "powah:capacitor_spirited",
+      "powah:dielectric_paste",
+      "powah:battery_niotic",
+      "powah:dielectric_paste"
+    ]
+  },
+  "powah:battery_starter": {
+    "result": "powah:battery_starter",
+    "count": 1,
+    "ingredients": [
+      "powah:dielectric_paste",
+      "powah:capacitor_basic",
+      "powah:dielectric_paste",
+      "powah:capacitor_basic",
+      "minecraft:redstone_block",
+      "powah:capacitor_basic",
+      "powah:dielectric_paste",
+      "powah:capacitor_basic",
+      "powah:dielectric_paste"
+    ]
+  },
+  "productivebees:bamboo_hive": {
+    "result": "productivebees:bamboo_hive",
+    "count": 1,
+    "ingredients": [
+      "productivebees:bamboo_hive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:balsam_fir_bookshelf": {
+    "result": "productivetrees:balsam_fir_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:balsam_fir_planks",
+      "productivetrees:balsam_fir_planks",
+      "productivetrees:balsam_fir_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:balsam_fir_planks",
+      "productivetrees:balsam_fir_planks",
+      "productivetrees:balsam_fir_planks"
+    ]
+  },
+  "productivetrees:balsa_bookshelf": {
+    "result": "productivetrees:balsa_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:balsa_planks",
+      "productivetrees:balsa_planks",
+      "productivetrees:balsa_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:balsa_planks",
+      "productivetrees:balsa_planks",
+      "productivetrees:balsa_planks"
+    ]
+  },
+  "productivetrees:banana_bookshelf": {
+    "result": "productivetrees:banana_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:banana_planks",
+      "productivetrees:banana_planks",
+      "productivetrees:banana_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:banana_planks",
+      "productivetrees:banana_planks",
+      "productivetrees:banana_planks"
+    ]
+  },
+  "productivetrees:bay_leaf_bookshelf": {
+    "result": "productivetrees:bay_leaf_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:bay_leaf_planks",
+      "productivetrees:bay_leaf_planks",
+      "productivetrees:bay_leaf_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:bay_leaf_planks",
+      "productivetrees:bay_leaf_planks",
+      "productivetrees:bay_leaf_planks"
+    ]
+  },
+  "productivetrees:balsam_fir_button": {
+    "result": "productivetrees:balsam_fir_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:balsam_fir_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:balsa_button": {
+    "result": "productivetrees:balsa_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:balsa_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:banana_button": {
+    "result": "productivetrees:banana_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:banana_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:bay_leaf_button": {
+    "result": "productivetrees:bay_leaf_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:bay_leaf_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:banana_crate": {
+    "result": "productivetrees:banana_crate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:banana",
+      "minecraft:banana",
+      "minecraft:banana",
+      "minecraft:banana",
+      "productivetrees:banana",
+      "minecraft:banana",
+      "minecraft:banana",
+      "minecraft:banana",
+      "minecraft:banana"
+    ]
+  },
+  "productivetrees:banana": {
+    "result": "productivetrees:banana",
+    "count": 9,
+    "ingredients": [
+      "productivetrees:banana_crate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:baobab_fruit_crate": {
+    "result": "productivetrees:baobab_fruit_crate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:baobab_fruit",
+      "minecraft:baobab_fruit",
+      "minecraft:baobab_fruit",
+      "minecraft:baobab_fruit",
+      "productivetrees:baobab_fruit",
+      "minecraft:baobab_fruit",
+      "minecraft:baobab_fruit",
+      "minecraft:baobab_fruit",
+      "minecraft:baobab_fruit"
+    ]
+  },
+  "productivetrees:baobab_fruit": {
+    "result": "productivetrees:baobab_fruit",
+    "count": 9,
+    "ingredients": [
+      "productivetrees:baobab_fruit_crate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:balsam_fir_door": {
+    "result": "productivetrees:balsam_fir_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:balsam_fir_planks",
+      "productivetrees:balsam_fir_planks",
+      "",
+      "productivetrees:balsam_fir_planks",
+      "productivetrees:balsam_fir_planks",
+      "",
+      "productivetrees:balsam_fir_planks",
+      "productivetrees:balsam_fir_planks",
+      ""
+    ]
+  },
+  "productivetrees:balsa_door": {
+    "result": "productivetrees:balsa_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:balsa_planks",
+      "productivetrees:balsa_planks",
+      "",
+      "productivetrees:balsa_planks",
+      "productivetrees:balsa_planks",
+      "",
+      "productivetrees:balsa_planks",
+      "productivetrees:balsa_planks",
+      ""
+    ]
+  },
+  "productivetrees:banana_door": {
+    "result": "productivetrees:banana_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:banana_planks",
+      "productivetrees:banana_planks",
+      "",
+      "productivetrees:banana_planks",
+      "productivetrees:banana_planks",
+      "",
+      "productivetrees:banana_planks",
+      "productivetrees:banana_planks",
+      ""
+    ]
+  },
+  "productivetrees:bay_leaf_door": {
+    "result": "productivetrees:bay_leaf_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:bay_leaf_planks",
+      "productivetrees:bay_leaf_planks",
+      "",
+      "productivetrees:bay_leaf_planks",
+      "productivetrees:bay_leaf_planks",
+      "",
+      "productivetrees:bay_leaf_planks",
+      "productivetrees:bay_leaf_planks",
+      ""
+    ]
+  },
+  "productivetrees:balsam_fir_fence": {
+    "result": "productivetrees:balsam_fir_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:balsam_fir_planks",
+      "minecraft:stick",
+      "productivetrees:balsam_fir_planks",
+      "productivetrees:balsam_fir_planks",
+      "minecraft:stick",
+      "productivetrees:balsam_fir_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:balsa_fence": {
+    "result": "productivetrees:balsa_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:balsa_planks",
+      "minecraft:stick",
+      "productivetrees:balsa_planks",
+      "productivetrees:balsa_planks",
+      "minecraft:stick",
+      "productivetrees:balsa_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:banana_fence": {
+    "result": "productivetrees:banana_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:banana_planks",
+      "minecraft:stick",
+      "productivetrees:banana_planks",
+      "productivetrees:banana_planks",
+      "minecraft:stick",
+      "productivetrees:banana_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:bay_leaf_fence": {
+    "result": "productivetrees:bay_leaf_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:bay_leaf_planks",
+      "minecraft:stick",
+      "productivetrees:bay_leaf_planks",
+      "productivetrees:bay_leaf_planks",
+      "minecraft:stick",
+      "productivetrees:bay_leaf_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:balsam_fir_fence_gate": {
+    "result": "productivetrees:balsam_fir_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:balsam_fir_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:balsam_fir_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:balsa_fence_gate": {
+    "result": "productivetrees:balsa_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:balsa_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:balsa_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:banana_fence_gate": {
+    "result": "productivetrees:banana_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:banana_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:banana_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:bay_leaf_fence_gate": {
+    "result": "productivetrees:bay_leaf_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:bay_leaf_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:bay_leaf_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:balsam_fir_hanging_sign": {
+    "result": "productivetrees:balsam_fir_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:balsam_fir_planks",
+      "productivetrees:balsam_fir_planks",
+      "productivetrees:balsam_fir_planks",
+      "productivetrees:balsam_fir_planks",
+      "productivetrees:balsam_fir_planks",
+      "productivetrees:balsam_fir_planks"
+    ]
+  },
+  "productivetrees:balsa_hanging_sign": {
+    "result": "productivetrees:balsa_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:balsa_planks",
+      "productivetrees:balsa_planks",
+      "productivetrees:balsa_planks",
+      "productivetrees:balsa_planks",
+      "productivetrees:balsa_planks",
+      "productivetrees:balsa_planks"
+    ]
+  },
+  "productivetrees:banana_hanging_sign": {
+    "result": "productivetrees:banana_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:banana_planks",
+      "productivetrees:banana_planks",
+      "productivetrees:banana_planks",
+      "productivetrees:banana_planks",
+      "productivetrees:banana_planks",
+      "productivetrees:banana_planks"
+    ]
+  },
+  "productivetrees:bay_leaf_hanging_sign": {
+    "result": "productivetrees:bay_leaf_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:bay_leaf_planks",
+      "productivetrees:bay_leaf_planks",
+      "productivetrees:bay_leaf_planks",
+      "productivetrees:bay_leaf_planks",
+      "productivetrees:bay_leaf_planks",
+      "productivetrees:bay_leaf_planks"
+    ]
+  },
+  "productivetrees:balsam_fir_planks": {
+    "result": "productivetrees:balsam_fir_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:balsa_planks": {
+    "result": "productivetrees:balsa_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:banana_planks": {
+    "result": "productivetrees:banana_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:bay_leaf_planks": {
+    "result": "productivetrees:bay_leaf_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:balsam_fir_pressure_plate": {
+    "result": "productivetrees:balsam_fir_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:balsam_fir_planks",
+      "productivetrees:balsam_fir_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:balsa_pressure_plate": {
+    "result": "productivetrees:balsa_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:balsa_planks",
+      "productivetrees:balsa_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:banana_pressure_plate": {
+    "result": "productivetrees:banana_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:banana_planks",
+      "productivetrees:banana_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:bay_leaf_pressure_plate": {
+    "result": "productivetrees:bay_leaf_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:bay_leaf_planks",
+      "productivetrees:bay_leaf_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:balsam_fir_sign": {
+    "result": "productivetrees:balsam_fir_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:balsam_fir_planks",
+      "productivetrees:balsam_fir_planks",
+      "productivetrees:balsam_fir_planks",
+      "productivetrees:balsam_fir_planks",
+      "productivetrees:balsam_fir_planks",
+      "productivetrees:balsam_fir_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:balsa_sign": {
+    "result": "productivetrees:balsa_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:balsa_planks",
+      "productivetrees:balsa_planks",
+      "productivetrees:balsa_planks",
+      "productivetrees:balsa_planks",
+      "productivetrees:balsa_planks",
+      "productivetrees:balsa_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:banana_sign": {
+    "result": "productivetrees:banana_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:banana_planks",
+      "productivetrees:banana_planks",
+      "productivetrees:banana_planks",
+      "productivetrees:banana_planks",
+      "productivetrees:banana_planks",
+      "productivetrees:banana_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:bay_leaf_sign": {
+    "result": "productivetrees:bay_leaf_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:bay_leaf_planks",
+      "productivetrees:bay_leaf_planks",
+      "productivetrees:bay_leaf_planks",
+      "productivetrees:bay_leaf_planks",
+      "productivetrees:bay_leaf_planks",
+      "productivetrees:bay_leaf_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:balsam_fir_slab": {
+    "result": "productivetrees:balsam_fir_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:balsam_fir_planks",
+      "productivetrees:balsam_fir_planks",
+      "productivetrees:balsam_fir_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:balsa_slab": {
+    "result": "productivetrees:balsa_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:balsa_planks",
+      "productivetrees:balsa_planks",
+      "productivetrees:balsa_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:banana_slab": {
+    "result": "productivetrees:banana_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:banana_planks",
+      "productivetrees:banana_planks",
+      "productivetrees:banana_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:bay_leaf_slab": {
+    "result": "productivetrees:bay_leaf_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:bay_leaf_planks",
+      "productivetrees:bay_leaf_planks",
+      "productivetrees:bay_leaf_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:balsam_fir_stairs": {
+    "result": "productivetrees:balsam_fir_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:balsam_fir_planks",
+      "",
+      "",
+      "productivetrees:balsam_fir_planks",
+      "productivetrees:balsam_fir_planks",
+      "",
+      "productivetrees:balsam_fir_planks",
+      "productivetrees:balsam_fir_planks",
+      "productivetrees:balsam_fir_planks"
+    ]
+  },
+  "productivetrees:balsa_stairs": {
+    "result": "productivetrees:balsa_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:balsa_planks",
+      "",
+      "",
+      "productivetrees:balsa_planks",
+      "productivetrees:balsa_planks",
+      "",
+      "productivetrees:balsa_planks",
+      "productivetrees:balsa_planks",
+      "productivetrees:balsa_planks"
+    ]
+  },
+  "productivetrees:banana_stairs": {
+    "result": "productivetrees:banana_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:banana_planks",
+      "",
+      "",
+      "productivetrees:banana_planks",
+      "productivetrees:banana_planks",
+      "",
+      "productivetrees:banana_planks",
+      "productivetrees:banana_planks",
+      "productivetrees:banana_planks"
+    ]
+  },
+  "productivetrees:bay_leaf_stairs": {
+    "result": "productivetrees:bay_leaf_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:bay_leaf_planks",
+      "",
+      "",
+      "productivetrees:bay_leaf_planks",
+      "productivetrees:bay_leaf_planks",
+      "",
+      "productivetrees:bay_leaf_planks",
+      "productivetrees:bay_leaf_planks",
+      "productivetrees:bay_leaf_planks"
+    ]
+  },
+  "productivetrees:balsam_fir_trapdoor": {
+    "result": "productivetrees:balsam_fir_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:balsam_fir_planks",
+      "productivetrees:balsam_fir_planks",
+      "productivetrees:balsam_fir_planks",
+      "productivetrees:balsam_fir_planks",
+      "productivetrees:balsam_fir_planks",
+      "productivetrees:balsam_fir_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:balsa_trapdoor": {
+    "result": "productivetrees:balsa_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:balsa_planks",
+      "productivetrees:balsa_planks",
+      "productivetrees:balsa_planks",
+      "productivetrees:balsa_planks",
+      "productivetrees:balsa_planks",
+      "productivetrees:balsa_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:banana_trapdoor": {
+    "result": "productivetrees:banana_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:banana_planks",
+      "productivetrees:banana_planks",
+      "productivetrees:banana_planks",
+      "productivetrees:banana_planks",
+      "productivetrees:banana_planks",
+      "productivetrees:banana_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:bay_leaf_trapdoor": {
+    "result": "productivetrees:bay_leaf_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:bay_leaf_planks",
+      "productivetrees:bay_leaf_planks",
+      "productivetrees:bay_leaf_planks",
+      "productivetrees:bay_leaf_planks",
+      "productivetrees:bay_leaf_planks",
+      "productivetrees:bay_leaf_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:balsam_fir_wood": {
+    "result": "productivetrees:balsam_fir_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:balsam_fir_log",
+      "productivetrees:balsam_fir_log",
+      "",
+      "productivetrees:balsam_fir_log",
+      "productivetrees:balsam_fir_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:balsa_wood": {
+    "result": "productivetrees:balsa_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:balsa_log",
+      "productivetrees:balsa_log",
+      "",
+      "productivetrees:balsa_log",
+      "productivetrees:balsa_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:banana_wood": {
+    "result": "productivetrees:banana_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:banana_log",
+      "productivetrees:banana_log",
+      "",
+      "productivetrees:banana_log",
+      "productivetrees:banana_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:bay_leaf_wood": {
+    "result": "productivetrees:bay_leaf_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:bay_leaf_log",
+      "productivetrees:bay_leaf_log",
+      "",
+      "productivetrees:bay_leaf_log",
+      "productivetrees:bay_leaf_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:bag_of_cement": {
+    "result": "railcraft:bag_of_cement",
+    "count": 2,
+    "ingredients": [
+      "minecraft:gravel",
+      "minecraft:quartz",
+      "",
+      "railcraft:slag",
+      "minecraft:gravel",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "redstonepen:basic_gauge": {
+    "result": "redstonepen:basic_gauge",
+    "count": 3,
+    "ingredients": [
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:redstone",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane"
+    ]
+  },
+  "regions_unexplored:baobab_boat": {
+    "result": "regions_unexplored:baobab_boat",
+    "count": 1,
+    "ingredients": [
+      "regions_unexplored:baobab_planks",
+      "",
+      "regions_unexplored:baobab_planks",
+      "regions_unexplored:baobab_planks",
+      "regions_unexplored:baobab_planks",
+      "regions_unexplored:baobab_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:baobab_branch": {
+    "result": "regions_unexplored:baobab_branch",
+    "count": 2,
+    "ingredients": [
+      "regions_unexplored:baobab_log",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:baobab_button": {
+    "result": "regions_unexplored:baobab_button",
+    "count": 1,
+    "ingredients": [
+      "regions_unexplored:baobab_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:baobab_chest_boat": {
+    "result": "regions_unexplored:baobab_chest_boat",
+    "count": 1,
+    "ingredients": [
+      "minecraft:chest",
+      "regions_unexplored:baobab_boat",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:baobab_door": {
+    "result": "regions_unexplored:baobab_door",
+    "count": 3,
+    "ingredients": [
+      "regions_unexplored:baobab_planks",
+      "regions_unexplored:baobab_planks",
+      "",
+      "regions_unexplored:baobab_planks",
+      "regions_unexplored:baobab_planks",
+      "",
+      "regions_unexplored:baobab_planks",
+      "regions_unexplored:baobab_planks",
+      ""
+    ]
+  },
+  "regions_unexplored:baobab_fence": {
+    "result": "regions_unexplored:baobab_fence",
+    "count": 3,
+    "ingredients": [
+      "regions_unexplored:baobab_planks",
+      "minecraft:stick",
+      "regions_unexplored:baobab_planks",
+      "regions_unexplored:baobab_planks",
+      "minecraft:stick",
+      "regions_unexplored:baobab_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:baobab_fence_gate": {
+    "result": "regions_unexplored:baobab_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "regions_unexplored:baobab_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "regions_unexplored:baobab_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:baobab_hanging_sign": {
+    "result": "regions_unexplored:baobab_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "regions_unexplored:stripped_baobab_log",
+      "regions_unexplored:stripped_baobab_log",
+      "regions_unexplored:stripped_baobab_log",
+      "regions_unexplored:stripped_baobab_log",
+      "regions_unexplored:stripped_baobab_log",
+      "regions_unexplored:stripped_baobab_log"
+    ]
+  },
+  "regions_unexplored:baobab_planks": {
+    "result": "regions_unexplored:baobab_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:baobab_pressure_plate": {
+    "result": "regions_unexplored:baobab_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "regions_unexplored:baobab_planks",
+      "regions_unexplored:baobab_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:baobab_sapling": {
+    "result": "regions_unexplored:baobab_sapling",
+    "count": 2,
+    "ingredients": [
+      "regions_unexplored:baobab_shrub",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:baobab_shrub": {
+    "result": "regions_unexplored:baobab_shrub",
+    "count": 1,
+    "ingredients": [
+      "regions_unexplored:baobab_sapling",
+      "",
+      "",
+      "regions_unexplored:baobab_sapling",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:baobab_sign": {
+    "result": "regions_unexplored:baobab_sign",
+    "count": 3,
+    "ingredients": [
+      "regions_unexplored:baobab_planks",
+      "regions_unexplored:baobab_planks",
+      "regions_unexplored:baobab_planks",
+      "regions_unexplored:baobab_planks",
+      "regions_unexplored:baobab_planks",
+      "regions_unexplored:baobab_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "regions_unexplored:baobab_slab": {
+    "result": "regions_unexplored:baobab_slab",
+    "count": 6,
+    "ingredients": [
+      "regions_unexplored:baobab_planks",
+      "regions_unexplored:baobab_planks",
+      "regions_unexplored:baobab_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:baobab_stairs": {
+    "result": "regions_unexplored:baobab_stairs",
+    "count": 4,
+    "ingredients": [
+      "regions_unexplored:baobab_planks",
+      "",
+      "",
+      "regions_unexplored:baobab_planks",
+      "regions_unexplored:baobab_planks",
+      "",
+      "regions_unexplored:baobab_planks",
+      "regions_unexplored:baobab_planks",
+      "regions_unexplored:baobab_planks"
+    ]
+  },
+  "regions_unexplored:baobab_trapdoor": {
+    "result": "regions_unexplored:baobab_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "regions_unexplored:baobab_planks",
+      "regions_unexplored:baobab_planks",
+      "regions_unexplored:baobab_planks",
+      "regions_unexplored:baobab_planks",
+      "regions_unexplored:baobab_planks",
+      "regions_unexplored:baobab_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:baobab_wood": {
+    "result": "regions_unexplored:baobab_wood",
+    "count": 3,
+    "ingredients": [
+      "regions_unexplored:baobab_log",
+      "regions_unexplored:baobab_log",
+      "",
+      "regions_unexplored:baobab_log",
+      "regions_unexplored:baobab_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "reliquary:barrel_assembly": {
+    "result": "reliquary:barrel_assembly",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "reliquary:nebulous_heart",
+      "minecraft:magma_cream",
+      "reliquary:nebulous_heart",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "reliquary:bat_wing": {
+    "result": "reliquary:bat_wing",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:feather",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot"
+    ]
+  },
+  "rootsclassic:bark_knife": {
+    "result": "rootsclassic:bark_knife",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:saplings",
+      "minecraft:saplings",
+      "minecraft:saplings",
+      "minecraft:oak_planks",
+      "minecraft:saplings",
+      "minecraft:stick",
+      "minecraft:saplings",
+      ""
+    ]
+  },
+  "securitycraft:bamboo_security_sea_raft": {
+    "result": "securitycraft:bamboo_security_sea_raft",
+    "count": 1,
+    "ingredients": [
+      "securitycraft:reinforced_bamboo_planks",
+      "securitycraft:keypad_chest",
+      "securitycraft:reinforced_bamboo_planks",
+      "securitycraft:reinforced_bamboo_planks",
+      "securitycraft:reinforced_bamboo_planks",
+      "securitycraft:reinforced_bamboo_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "simplemagnets:basicmagnet": {
+    "result": "simplemagnets:basicmagnet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:lapis_lazuli",
+      "minecraft:iron_ingot",
+      "minecraft:ender_pearl",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:redstone"
+    ]
+  },
+  "simplemagnets:basic_demagnetization_coil": {
+    "result": "simplemagnets:basic_demagnetization_coil",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:gold_ingot",
+      "",
+      "minecraft:redstone",
+      "minecraft:iron_ingot",
+      "minecraft:redstone",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "sophisticatedstorage:barrel": {
+    "result": "sophisticatedstorage:barrel",
+    "count": 1,
+    "ingredients": [
+      "minecraft:warped_planks",
+      "minecraft:warped_slab",
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      "minecraft:lever",
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      "minecraft:warped_slab",
+      "minecraft:warped_planks"
+    ]
+  },
+  "sophisticatedstorage:bamboo_storage_connector": {
+    "result": "sophisticatedstorage:bamboo_storage_connector",
+    "count": 4,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:bamboo_planks",
+      "minecraft:stick",
+      "minecraft:bamboo_planks",
+      "minecraft:stick",
+      "minecraft:bamboo_planks",
+      "minecraft:stick",
+      "minecraft:bamboo_planks",
+      "minecraft:stick"
+    ]
+  },
+  "sophisticatedstorage:basic_tier_upgrade": {
+    "result": "sophisticatedstorage:basic_tier_upgrade",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "minecraft:stick",
+      "minecraft:lever",
+      "minecraft:stick",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "sophisticatedstorage:basic_to_copper_tier_upgrade": {
+    "result": "sophisticatedstorage:basic_to_copper_tier_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "minecraft:lever",
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot"
+    ]
+  },
+  "sophisticatedstorage:basic_to_diamond_tier_upgrade": {
+    "result": "sophisticatedstorage:basic_to_diamond_tier_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "sophisticatedstorage:basic_to_gold_tier_upgrade",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond"
+    ]
+  },
+  "sophisticatedstorage:basic_to_gold_tier_upgrade": {
+    "result": "sophisticatedstorage:basic_to_gold_tier_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "sophisticatedstorage:basic_to_iron_tier_upgrade",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot"
+    ]
+  },
+  "sophisticatedstorage:basic_to_iron_tier_upgrade": {
+    "result": "sophisticatedstorage:basic_to_iron_tier_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:lever",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "sophisticatedstorage:basic_to_netherite_tier_upgrade": {
+    "result": "sophisticatedstorage:basic_to_netherite_tier_upgrade",
+    "count": 1,
+    "ingredients": [
+      "sophisticatedstorage:basic_to_diamond_tier_upgrade",
+      "minecraft:netherite",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "storagedelight:bamboo_bookshelf_with_door": {
+    "result": "storagedelight:bamboo_bookshelf_with_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_trapdoor",
+      "minecraft:bamboo_slab",
+      "minecraft:bookshelf",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab"
+    ]
+  },
+  "storagedelight:bamboo_cabinet_with_glass_doors": {
+    "result": "storagedelight:bamboo_cabinet_with_glass_doors",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab",
+      "minecraft:glass",
+      "minecraft:bamboo_trapdoor",
+      "minecraft:glass",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab"
+    ]
+  },
+  "storagedelight:bamboo_cabinet_with_polished_andesite_countertop": {
+    "result": "storagedelight:bamboo_cabinet_with_polished_andesite_countertop",
+    "count": 1,
+    "ingredients": [
+      "minecraft:polished_andesite_slab",
+      "minecraft:polished_andesite_slab",
+      "minecraft:polished_andesite_slab",
+      "minecraft:bamboo_trapdoor",
+      "",
+      "minecraft:bamboo_trapdoor",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab"
+    ]
+  },
+  "storagedelight:bamboo_cabinet_with_polished_deepslate_countertop": {
+    "result": "storagedelight:bamboo_cabinet_with_polished_deepslate_countertop",
+    "count": 1,
+    "ingredients": [
+      "minecraft:polished_deepslate_slab",
+      "minecraft:polished_deepslate_slab",
+      "minecraft:polished_deepslate_slab",
+      "minecraft:bamboo_trapdoor",
+      "",
+      "minecraft:bamboo_trapdoor",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab"
+    ]
+  },
+  "storagedelight:bamboo_cabinet_with_polished_tuff_countertop": {
+    "result": "storagedelight:bamboo_cabinet_with_polished_tuff_countertop",
+    "count": 1,
+    "ingredients": [
+      "minecraft:polished_tuff_slab",
+      "minecraft:polished_tuff_slab",
+      "minecraft:polished_tuff_slab",
+      "minecraft:bamboo_trapdoor",
+      "",
+      "minecraft:bamboo_trapdoor",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab"
+    ]
+  },
+  "storagedelight:bamboo_drawer": {
+    "result": "storagedelight:bamboo_drawer",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_trapdoor",
+      "minecraft:bamboo_trapdoor",
+      "minecraft:bamboo_trapdoor",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab"
+    ]
+  },
+  "storagedelight:bamboo_drawer_with_books": {
+    "result": "storagedelight:bamboo_drawer_with_books",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_trapdoor",
+      "minecraft:bamboo_trapdoor",
+      "minecraft:bamboo_trapdoor",
+      "minecraft:bamboo_slab",
+      "minecraft:bookshelf",
+      "minecraft:bamboo_slab"
+    ]
+  },
+  "storagedelight:bamboo_drawer_with_door": {
+    "result": "storagedelight:bamboo_drawer_with_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_trapdoor",
+      "minecraft:bamboo_trapdoor",
+      "minecraft:bamboo_trapdoor",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_trapdoor",
+      "minecraft:bamboo_slab"
+    ]
+  },
+  "storagedelight:bamboo_single_door_cabinet": {
+    "result": "storagedelight:bamboo_single_door_cabinet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab",
+      "",
+      "minecraft:bamboo_trapdoor",
+      "",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab"
+    ]
+  },
+  "supplementaries:bamboo_spikes": {
+    "result": "supplementaries:bamboo_spikes",
+    "count": 1,
+    "ingredients": [
+      "supplementaries:bamboo_spikes_tipped",
+      "supplementaries:soap",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:bamboo_banister": {
+    "result": "twilightforest:bamboo_banister",
+    "count": 3,
+    "ingredients": [
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab",
+      "minecraft:stick",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:bamboo_drying_rack": {
+    "result": "twilightforest:bamboo_drying_rack",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab",
+      "minecraft:bamboo_slab",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "wirelesschargers:basic_wireless_block_charger": {
+    "result": "wirelesschargers:basic_wireless_block_charger",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stone",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:ender_pearl",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:redstone",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "wirelesschargers:basic_wireless_player_charger": {
+    "result": "wirelesschargers:basic_wireless_player_charger",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:gold_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:ender_pearl",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:redstone",
+      "minecraft:iron_ingot"
+    ]
+  }
+}

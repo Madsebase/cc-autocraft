@@ -1,0 +1,77 @@
+{
+  "pamhc2foodextended:bbqchickenbiscuititem": {
+    "result": "pamhc2foodextended:bbqchickenbiscuititem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "pamhc2foodcore:friedchickenitem",
+      "pamhc2foodextended:biscuititem",
+      "minecraft:bbqsauce",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:bbqchickenpizzaitem": {
+    "result": "pamhc2foodextended:bbqchickenpizzaitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:rawchicken",
+      "minecraft:bbqsauce",
+      "minecraft:onion",
+      "minecraft:cheese",
+      "minecraft:dough",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:bbqjackfruititem": {
+    "result": "pamhc2foodextended:bbqjackfruititem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_skillet",
+      "minecraft:jackfruit",
+      "minecraft:bbqsauce",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:bbqpotatochipsitem": {
+    "result": "pamhc2foodextended:bbqpotatochipsitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:bbqsauce",
+      "minecraft:potato",
+      "minecraft:cookingoil",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:bbqsauceitem": {
+    "result": "pamhc2foodextended:bbqsauceitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:tomato",
+      "minecraft:mustardseeds",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

@@ -1,0 +1,1652 @@
+{
+  "actuallyadditions:handheld_filler": {
+    "result": "actuallyadditions:handheld_filler",
+    "count": 1,
+    "ingredients": [
+      "actuallyadditions:empowered_enori_crystal",
+      "actuallyadditions:palis_crystal",
+      "actuallyadditions:empowered_enori_crystal",
+      "actuallyadditions:diamatine_crystal",
+      "actuallyadditions:advanced_coil",
+      "actuallyadditions:diamatine_crystal",
+      "",
+      "actuallyadditions:triple_battery",
+      ""
+    ]
+  },
+  "allthecompressed:hay_block_1x": {
+    "result": "allthecompressed:hay_block_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:hay_block_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:hay_block_2x": {
+    "result": "allthecompressed:hay_block_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:hay_block_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:hay_block_3x": {
+    "result": "allthecompressed:hay_block_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:hay_block_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:hay_block_4x": {
+    "result": "allthecompressed:hay_block_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:hay_block_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:hay_block_5x": {
+    "result": "allthecompressed:hay_block_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:hay_block_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:hay_block_6x": {
+    "result": "allthecompressed:hay_block_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:hay_block_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:hay_block_7x": {
+    "result": "allthecompressed:hay_block_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:hay_block_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:hay_block_8x": {
+    "result": "allthecompressed:hay_block_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:hay_block_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:hay_block_9x": {
+    "result": "allthecompressed:hay_block_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:hay_block_8x",
+      "allthecompressed:hay_block_8x",
+      "allthecompressed:hay_block_8x",
+      "allthecompressed:hay_block_8x",
+      "allthecompressed:hay_block_8x",
+      "allthecompressed:hay_block_8x",
+      "allthecompressed:hay_block_8x",
+      "allthecompressed:hay_block_8x",
+      "allthecompressed:hay_block_8x"
+    ]
+  },
+  "minecraft:hay_block": {
+    "result": "minecraft:hay_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:wheat",
+      "minecraft:wheat",
+      "minecraft:wheat",
+      "minecraft:wheat",
+      "minecraft:wheat",
+      "minecraft:wheat",
+      "minecraft:wheat",
+      "minecraft:wheat",
+      "minecraft:wheat"
+    ]
+  },
+  "ars_additions:handy_haversack": {
+    "result": "ars_additions:handy_haversack",
+    "count": 1,
+    "ingredients": [
+      "minecraft:string",
+      "minecraft:gold_ingot",
+      "minecraft:string",
+      "minecraft:purple_wool",
+      "minecraft:ender_pearl",
+      "minecraft:purple_wool",
+      "minecraft:purple_wool",
+      "minecraft:purple_wool",
+      "minecraft:purple_wool"
+    ]
+  },
+  "comforts:hammock_black": {
+    "result": "comforts:hammock_black",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "minecraft:string",
+      "minecraft:black_wool",
+      "minecraft:string",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "comforts:hammock_blue": {
+    "result": "comforts:hammock_blue",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "minecraft:string",
+      "minecraft:blue_wool",
+      "minecraft:string",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "comforts:hammock_brown": {
+    "result": "comforts:hammock_brown",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "minecraft:string",
+      "minecraft:brown_wool",
+      "minecraft:string",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "comforts:hammock_cyan": {
+    "result": "comforts:hammock_cyan",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "minecraft:string",
+      "minecraft:cyan_wool",
+      "minecraft:string",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "comforts:hammock_gray": {
+    "result": "comforts:hammock_gray",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "minecraft:string",
+      "minecraft:gray_wool",
+      "minecraft:string",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "comforts:hammock_green": {
+    "result": "comforts:hammock_green",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "minecraft:string",
+      "minecraft:green_wool",
+      "minecraft:string",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "comforts:hammock_light_blue": {
+    "result": "comforts:hammock_light_blue",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "minecraft:string",
+      "minecraft:light_blue_wool",
+      "minecraft:string",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "comforts:hammock_light_gray": {
+    "result": "comforts:hammock_light_gray",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "minecraft:string",
+      "minecraft:light_gray_wool",
+      "minecraft:string",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "comforts:hammock_lime": {
+    "result": "comforts:hammock_lime",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "minecraft:string",
+      "minecraft:lime_wool",
+      "minecraft:string",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "comforts:hammock_magenta": {
+    "result": "comforts:hammock_magenta",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "minecraft:string",
+      "minecraft:magenta_wool",
+      "minecraft:string",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "comforts:hammock_orange": {
+    "result": "comforts:hammock_orange",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "minecraft:string",
+      "minecraft:orange_wool",
+      "minecraft:string",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "comforts:hammock_pink": {
+    "result": "comforts:hammock_pink",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "minecraft:string",
+      "minecraft:pink_wool",
+      "minecraft:string",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "comforts:hammock_purple": {
+    "result": "comforts:hammock_purple",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "minecraft:string",
+      "minecraft:purple_wool",
+      "minecraft:string",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "comforts:hammock_red": {
+    "result": "comforts:hammock_red",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "minecraft:string",
+      "minecraft:red_wool",
+      "minecraft:string",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "comforts:hammock_white": {
+    "result": "comforts:hammock_white",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "minecraft:string",
+      "minecraft:white_wool",
+      "minecraft:string",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "comforts:hammock_yellow": {
+    "result": "comforts:hammock_yellow",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "minecraft:string",
+      "minecraft:yellow_wool",
+      "minecraft:string",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "create:hand_crank": {
+    "result": "create:hand_crank",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "",
+      "",
+      "create:andesite_alloy",
+      "",
+      "",
+      ""
+    ]
+  },
+  "enderio:hardened_conduit_facade": {
+    "result": "enderio:hardened_conduit_facade",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:obsidian",
+      "",
+      "minecraft:obsidian",
+      "enderio:conduit_facade",
+      "minecraft:obsidian",
+      "",
+      "minecraft:obsidian",
+      ""
+    ]
+  },
+  "eternal_starlight:haze_ice_bricks": {
+    "result": "eternal_starlight:haze_ice_bricks",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:haze_ice",
+      "eternal_starlight:haze_ice",
+      "",
+      "eternal_starlight:haze_ice",
+      "eternal_starlight:haze_ice",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:haze_ice_brick_slab": {
+    "result": "eternal_starlight:haze_ice_brick_slab",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:haze_ice_bricks",
+      "eternal_starlight:haze_ice_bricks",
+      "eternal_starlight:haze_ice_bricks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:haze_ice_brick_stairs": {
+    "result": "eternal_starlight:haze_ice_brick_stairs",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:haze_ice_bricks",
+      "",
+      "",
+      "eternal_starlight:haze_ice_bricks",
+      "eternal_starlight:haze_ice_bricks",
+      "",
+      "eternal_starlight:haze_ice_bricks",
+      "eternal_starlight:haze_ice_bricks",
+      "eternal_starlight:haze_ice_bricks"
+    ]
+  },
+  "eternal_starlight:haze_ice_brick_wall": {
+    "result": "eternal_starlight:haze_ice_brick_wall",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:haze_ice_bricks",
+      "eternal_starlight:haze_ice_bricks",
+      "eternal_starlight:haze_ice_bricks",
+      "eternal_starlight:haze_ice_bricks",
+      "eternal_starlight:haze_ice_bricks",
+      "eternal_starlight:haze_ice_bricks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:haze_ice_lantern": {
+    "result": "eternal_starlight:haze_ice_lantern",
+    "count": 1,
+    "ingredients": [
+      "",
+      "eternal_starlight:haze_ice",
+      "",
+      "eternal_starlight:haze_ice",
+      "minecraft:torch",
+      "eternal_starlight:haze_ice",
+      "",
+      "eternal_starlight:haze_ice",
+      ""
+    ]
+  },
+  "farmersdelight:half_tatami_mat": {
+    "result": "farmersdelight:half_tatami_mat",
+    "count": 2,
+    "ingredients": [
+      "farmersdelight:full_tatami_mat",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "farmersdelight:hamburger": {
+    "result": "farmersdelight:hamburger",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bread",
+      "farmersdelight:beef_patty",
+      "minecraft:leafy_green",
+      "minecraft:tomato",
+      "minecraft:onion",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "farmersdelight:hanging_canvas_sign": {
+    "result": "farmersdelight:hanging_canvas_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "minecraft:oak_log",
+      "farmersdelight:canvas",
+      "minecraft:oak_log",
+      "minecraft:oak_log",
+      "farmersdelight:canvas",
+      "minecraft:oak_log"
+    ]
+  },
+  "generatorgalore:halitosis_generator_64x": {
+    "result": "generatorgalore:halitosis_generator_64x",
+    "count": 1,
+    "ingredients": [
+      "generatorgalore:halitosis_generator_8x",
+      "generatorgalore:halitosis_generator_8x",
+      "generatorgalore:halitosis_generator_8x",
+      "generatorgalore:halitosis_generator_8x",
+      "minecraft:conduit",
+      "generatorgalore:halitosis_generator_8x",
+      "generatorgalore:halitosis_generator_8x",
+      "generatorgalore:halitosis_generator_8x",
+      "generatorgalore:halitosis_generator_8x"
+    ]
+  },
+  "generatorgalore:halitosis_generator_8x": {
+    "result": "generatorgalore:halitosis_generator_8x",
+    "count": 1,
+    "ingredients": [
+      "generatorgalore:halitosis_generator",
+      "generatorgalore:halitosis_generator",
+      "generatorgalore:halitosis_generator",
+      "generatorgalore:halitosis_generator",
+      "minecraft:echo_shard",
+      "generatorgalore:halitosis_generator",
+      "generatorgalore:halitosis_generator",
+      "generatorgalore:halitosis_generator",
+      "generatorgalore:halitosis_generator"
+    ]
+  },
+  "generatorgalore:halitosis_generator": {
+    "result": "generatorgalore:halitosis_generator",
+    "count": 1,
+    "ingredients": [
+      "minecraft:amethyst",
+      "minecraft:amethyst",
+      "minecraft:amethyst",
+      "minecraft:amethyst",
+      "generatorgalore:ender_generator",
+      "minecraft:amethyst",
+      "minecraft:amethyst",
+      "minecraft:end_rod",
+      "minecraft:amethyst"
+    ]
+  },
+  "handcrafted:hammer": {
+    "result": "handcrafted:hammer",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      "minecraft:stick",
+      "minecraft:iron_ingot",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "herbsandharvest:ham_swiss": {
+    "result": "herbsandharvest:ham_swiss",
+    "count": 1,
+    "ingredients": [
+      "minecraft:cooked_pork",
+      "herbsandharvest:bread_slice",
+      "herbsandharvest:bread_slice",
+      "minecraft:swiss",
+      "minecraft:lettuce",
+      "minecraft:mayonnaise",
+      "minecraft:tomato",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:hammer": {
+    "result": "immersiveengineering:hammer",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:string",
+      "",
+      "minecraft:stick",
+      "minecraft:iron_ingot",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:hatch": {
+    "result": "immersiveengineering:hatch",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron",
+      "minecraft:iron",
+      "",
+      "minecraft:iron",
+      "minecraft:iron",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mahoutsukai:hammer": {
+    "result": "mahoutsukai:hammer",
+    "count": 1,
+    "ingredients": [
+      "minecraft:string",
+      "minecraft:cobblestone",
+      "",
+      "minecraft:cobblestone",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      "minecraft:stick"
+    ]
+  },
+  "mcwholidays:half_cobweb": {
+    "result": "mcwholidays:half_cobweb",
+    "count": 6,
+    "ingredients": [
+      "minecraft:cobweb",
+      "minecraft:cobweb",
+      "minecraft:cobweb",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwholidays:hanging_cobweb": {
+    "result": "mcwholidays:hanging_cobweb",
+    "count": 2,
+    "ingredients": [
+      "",
+      "minecraft:cobweb",
+      "minecraft:cobweb",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwholidays:hay_wheelbarrow": {
+    "result": "mcwholidays:hay_wheelbarrow",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:hay_block",
+      "minecraft:oak_planks",
+      "minecraft:stick",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwwindows:hammer": {
+    "result": "mcwwindows:hammer",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      "minecraft:stick",
+      "minecraft:iron_nugget",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "mekanism:hazmat_boots": {
+    "result": "mekanism:hazmat_boots",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:lead_ingot",
+      "",
+      "modern_industrialization:lead_ingot",
+      "modern_industrialization:lead_ingot",
+      "minecraft:black",
+      "modern_industrialization:lead_ingot",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mekanism:hazmat_gown": {
+    "result": "mekanism:hazmat_gown",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:lead_ingot",
+      "minecraft:orange",
+      "modern_industrialization:lead_ingot",
+      "modern_industrialization:lead_ingot",
+      "modern_industrialization:lead_ingot",
+      "modern_industrialization:lead_ingot",
+      "modern_industrialization:lead_ingot",
+      "modern_industrialization:lead_ingot",
+      "modern_industrialization:lead_ingot"
+    ]
+  },
+  "mekanism:hazmat_mask": {
+    "result": "mekanism:hazmat_mask",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:lead_ingot",
+      "modern_industrialization:lead_ingot",
+      "modern_industrialization:lead_ingot",
+      "modern_industrialization:lead_ingot",
+      "minecraft:orange",
+      "modern_industrialization:lead_ingot",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mekanism:hazmat_pants": {
+    "result": "mekanism:hazmat_pants",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:lead_ingot",
+      "modern_industrialization:lead_ingot",
+      "modern_industrialization:lead_ingot",
+      "modern_industrialization:lead_ingot",
+      "minecraft:orange",
+      "modern_industrialization:lead_ingot",
+      "modern_industrialization:lead_ingot",
+      "",
+      "modern_industrialization:lead_ingot"
+    ]
+  },
+  "merrymaking:ham_dinner": {
+    "result": "merrymaking:ham_dinner",
+    "count": 1,
+    "ingredients": [
+      "merrymaking:quartz_platter",
+      "merrymaking:cooked_ham",
+      "minecraft:apple",
+      "minecraft:carrot",
+      "minecraft:honey_bottle",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:harvest_tray": {
+    "result": "merrymaking:harvest_tray",
+    "count": 1,
+    "ingredients": [
+      "merrymaking:empty_tray",
+      "herbsandharvest:sweet_potato",
+      "herbsandharvest:corn",
+      "minecraft:carrot",
+      "minecraft:apple",
+      "minecraft:potato",
+      "minecraft:sweet_berries",
+      "minecraft:beetroot",
+      "minecraft:wheat"
+    ]
+  },
+  "mysticalagriculture:harvester": {
+    "result": "mysticalagriculture:harvester",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "mysticalagriculture:soulium_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:diamond",
+      "mysticalagriculture:machine_frame",
+      "minecraft:diamond",
+      "minecraft:iron_ingot",
+      "mysticalagriculture:soulium_ingot",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "oritech:hand_drill": {
+    "result": "oritech:hand_drill",
+    "count": 1,
+    "ingredients": [
+      "",
+      "oritech:enderic_compound",
+      "",
+      "oritech:enderic_compound",
+      "oritech:adamant_ingot",
+      "oritech:enderic_compound",
+      "oritech:motor",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot"
+    ]
+  },
+  "oritech:hangar_door": {
+    "result": "oritech:hangar_door",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:steel_ingot",
+      "oritech:motor",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "oritech:motor",
+      "modern_industrialization:steel_ingot"
+    ]
+  },
+  "pamhc2foodextended:haggisitem": {
+    "result": "pamhc2foodextended:haggisitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:rotten_flesh",
+      "minecraft:spider_eye",
+      "minecraft:onion",
+      "minecraft:oats",
+      "minecraft:saltandpepper",
+      "minecraft:spiceleaf",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:hamandcheesesandwichitem": {
+    "result": "pamhc2foodextended:hamandcheesesandwichitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:bread",
+      "minecraft:rawpork",
+      "minecraft:cheese",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:hamandpineapplepizzaitem": {
+    "result": "pamhc2foodextended:hamandpineapplepizzaitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:dough",
+      "minecraft:tomato",
+      "minecraft:rawpork",
+      "minecraft:pineapple",
+      "minecraft:cheese",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:hamsweetpicklesandwichitem": {
+    "result": "pamhc2foodextended:hamsweetpicklesandwichitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "pamhc2foodextended:sweetpickleitem",
+      "minecraft:bread",
+      "minecraft:rawpork",
+      "minecraft:mayonaise",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:hashitem": {
+    "result": "pamhc2foodextended:hashitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_skillet",
+      "minecraft:onion",
+      "minecraft:groundpork",
+      "minecraft:potato",
+      "minecraft:ketchup",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:hazelnutbutteritem": {
+    "result": "pamhc2foodextended:hazelnutbutteritem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_grinder",
+      "minecraft:hazelnut",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:hazelnutchocolateitem": {
+    "result": "pamhc2foodextended:hazelnutchocolateitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:chocolatebar",
+      "minecraft:hazelnut",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:hazelnutcoffeeitem": {
+    "result": "pamhc2foodextended:hazelnutcoffeeitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:coffeebean",
+      "minecraft:hazelnut",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2trees:hazelnut_sapling": {
+    "result": "pamhc2trees:hazelnut_sapling",
+    "count": 1,
+    "ingredients": [
+      "pamhc2trees:hazelnutitem",
+      "pamhc2trees:hazelnutitem",
+      "pamhc2trees:hazelnutitem",
+      "pamhc2trees:hazelnutitem",
+      "pamhc2trees:hazelnutitem",
+      "pamhc2trees:hazelnutitem",
+      "pamhc2trees:hazelnutitem",
+      "pamhc2trees:hazelnutitem",
+      "minecraft:saplings"
+    ]
+  },
+  "pneumaticcraft:harvesting_drone": {
+    "result": "pneumaticcraft:harvesting_drone",
+    "count": 1,
+    "ingredients": [
+      "",
+      "pneumaticcraft:turbine_rotor",
+      "",
+      "pneumaticcraft:turbine_rotor",
+      "minecraft:crops",
+      "pneumaticcraft:turbine_rotor",
+      "",
+      "pneumaticcraft:turbine_rotor",
+      ""
+    ]
+  },
+  "productivetrees:hawthorn_bookshelf": {
+    "result": "productivetrees:hawthorn_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:hawthorn_planks",
+      "productivetrees:hawthorn_planks",
+      "productivetrees:hawthorn_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:hawthorn_planks",
+      "productivetrees:hawthorn_planks",
+      "productivetrees:hawthorn_planks"
+    ]
+  },
+  "productivetrees:hazel_bookshelf": {
+    "result": "productivetrees:hazel_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:hazel_planks",
+      "productivetrees:hazel_planks",
+      "productivetrees:hazel_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:hazel_planks",
+      "productivetrees:hazel_planks",
+      "productivetrees:hazel_planks"
+    ]
+  },
+  "productivetrees:hawthorn_button": {
+    "result": "productivetrees:hawthorn_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:hawthorn_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:hazel_button": {
+    "result": "productivetrees:hazel_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:hazel_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:hala_fruit_crate": {
+    "result": "productivetrees:hala_fruit_crate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:hala_fruit",
+      "minecraft:hala_fruit",
+      "minecraft:hala_fruit",
+      "minecraft:hala_fruit",
+      "productivetrees:hala_fruit",
+      "minecraft:hala_fruit",
+      "minecraft:hala_fruit",
+      "minecraft:hala_fruit",
+      "minecraft:hala_fruit"
+    ]
+  },
+  "productivetrees:hala_fruit": {
+    "result": "productivetrees:hala_fruit",
+    "count": 9,
+    "ingredients": [
+      "productivetrees:hala_fruit_crate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:haw_crate": {
+    "result": "productivetrees:haw_crate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:haw",
+      "minecraft:haw",
+      "minecraft:haw",
+      "minecraft:haw",
+      "productivetrees:haw",
+      "minecraft:haw",
+      "minecraft:haw",
+      "minecraft:haw",
+      "minecraft:haw"
+    ]
+  },
+  "productivetrees:haw": {
+    "result": "productivetrees:haw",
+    "count": 9,
+    "ingredients": [
+      "productivetrees:haw_crate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:hazelnut_crate": {
+    "result": "productivetrees:hazelnut_crate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:hazelnut",
+      "minecraft:hazelnut",
+      "minecraft:hazelnut",
+      "minecraft:hazelnut",
+      "productivetrees:hazelnut",
+      "minecraft:hazelnut",
+      "minecraft:hazelnut",
+      "minecraft:hazelnut",
+      "minecraft:hazelnut"
+    ]
+  },
+  "productivetrees:hazelnut": {
+    "result": "productivetrees:hazelnut",
+    "count": 9,
+    "ingredients": [
+      "productivetrees:hazelnut_crate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:hawthorn_door": {
+    "result": "productivetrees:hawthorn_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:hawthorn_planks",
+      "productivetrees:hawthorn_planks",
+      "",
+      "productivetrees:hawthorn_planks",
+      "productivetrees:hawthorn_planks",
+      "",
+      "productivetrees:hawthorn_planks",
+      "productivetrees:hawthorn_planks",
+      ""
+    ]
+  },
+  "productivetrees:hazel_door": {
+    "result": "productivetrees:hazel_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:hazel_planks",
+      "productivetrees:hazel_planks",
+      "",
+      "productivetrees:hazel_planks",
+      "productivetrees:hazel_planks",
+      "",
+      "productivetrees:hazel_planks",
+      "productivetrees:hazel_planks",
+      ""
+    ]
+  },
+  "productivetrees:hawthorn_fence": {
+    "result": "productivetrees:hawthorn_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:hawthorn_planks",
+      "minecraft:stick",
+      "productivetrees:hawthorn_planks",
+      "productivetrees:hawthorn_planks",
+      "minecraft:stick",
+      "productivetrees:hawthorn_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:hazel_fence": {
+    "result": "productivetrees:hazel_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:hazel_planks",
+      "minecraft:stick",
+      "productivetrees:hazel_planks",
+      "productivetrees:hazel_planks",
+      "minecraft:stick",
+      "productivetrees:hazel_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:hawthorn_fence_gate": {
+    "result": "productivetrees:hawthorn_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:hawthorn_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:hawthorn_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:hazel_fence_gate": {
+    "result": "productivetrees:hazel_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:hazel_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:hazel_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:hawthorn_hanging_sign": {
+    "result": "productivetrees:hawthorn_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:hawthorn_planks",
+      "productivetrees:hawthorn_planks",
+      "productivetrees:hawthorn_planks",
+      "productivetrees:hawthorn_planks",
+      "productivetrees:hawthorn_planks",
+      "productivetrees:hawthorn_planks"
+    ]
+  },
+  "productivetrees:hazel_hanging_sign": {
+    "result": "productivetrees:hazel_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:hazel_planks",
+      "productivetrees:hazel_planks",
+      "productivetrees:hazel_planks",
+      "productivetrees:hazel_planks",
+      "productivetrees:hazel_planks",
+      "productivetrees:hazel_planks"
+    ]
+  },
+  "productivetrees:hawthorn_planks": {
+    "result": "productivetrees:hawthorn_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:hazel_planks": {
+    "result": "productivetrees:hazel_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:hawthorn_pressure_plate": {
+    "result": "productivetrees:hawthorn_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:hawthorn_planks",
+      "productivetrees:hawthorn_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:hazel_pressure_plate": {
+    "result": "productivetrees:hazel_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:hazel_planks",
+      "productivetrees:hazel_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:hawthorn_sign": {
+    "result": "productivetrees:hawthorn_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:hawthorn_planks",
+      "productivetrees:hawthorn_planks",
+      "productivetrees:hawthorn_planks",
+      "productivetrees:hawthorn_planks",
+      "productivetrees:hawthorn_planks",
+      "productivetrees:hawthorn_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:hazel_sign": {
+    "result": "productivetrees:hazel_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:hazel_planks",
+      "productivetrees:hazel_planks",
+      "productivetrees:hazel_planks",
+      "productivetrees:hazel_planks",
+      "productivetrees:hazel_planks",
+      "productivetrees:hazel_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:hawthorn_slab": {
+    "result": "productivetrees:hawthorn_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:hawthorn_planks",
+      "productivetrees:hawthorn_planks",
+      "productivetrees:hawthorn_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:hazel_slab": {
+    "result": "productivetrees:hazel_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:hazel_planks",
+      "productivetrees:hazel_planks",
+      "productivetrees:hazel_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:hawthorn_stairs": {
+    "result": "productivetrees:hawthorn_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:hawthorn_planks",
+      "",
+      "",
+      "productivetrees:hawthorn_planks",
+      "productivetrees:hawthorn_planks",
+      "",
+      "productivetrees:hawthorn_planks",
+      "productivetrees:hawthorn_planks",
+      "productivetrees:hawthorn_planks"
+    ]
+  },
+  "productivetrees:hazel_stairs": {
+    "result": "productivetrees:hazel_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:hazel_planks",
+      "",
+      "",
+      "productivetrees:hazel_planks",
+      "productivetrees:hazel_planks",
+      "",
+      "productivetrees:hazel_planks",
+      "productivetrees:hazel_planks",
+      "productivetrees:hazel_planks"
+    ]
+  },
+  "productivetrees:hawthorn_trapdoor": {
+    "result": "productivetrees:hawthorn_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:hawthorn_planks",
+      "productivetrees:hawthorn_planks",
+      "productivetrees:hawthorn_planks",
+      "productivetrees:hawthorn_planks",
+      "productivetrees:hawthorn_planks",
+      "productivetrees:hawthorn_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:hazel_trapdoor": {
+    "result": "productivetrees:hazel_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:hazel_planks",
+      "productivetrees:hazel_planks",
+      "productivetrees:hazel_planks",
+      "productivetrees:hazel_planks",
+      "productivetrees:hazel_planks",
+      "productivetrees:hazel_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:hawthorn_wood": {
+    "result": "productivetrees:hawthorn_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:hawthorn_log",
+      "productivetrees:hawthorn_log",
+      "",
+      "productivetrees:hawthorn_log",
+      "productivetrees:hawthorn_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:hazel_wood": {
+    "result": "productivetrees:hazel_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:hazel_log",
+      "productivetrees:hazel_log",
+      "",
+      "productivetrees:hazel_log",
+      "productivetrees:hazel_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pylons:harvester_pylon": {
+    "result": "pylons:harvester_pylon",
+    "count": 1,
+    "ingredients": [
+      "minecraft:quartz_slab",
+      "minecraft:quartz_slab",
+      "minecraft:quartz_slab",
+      "minecraft:iron_bars",
+      "minecraft:hay_block",
+      "minecraft:iron_bars",
+      "minecraft:polished_blackstone",
+      "minecraft:polished_blackstone",
+      "minecraft:polished_blackstone"
+    ]
+  },
+  "regions_unexplored:hanging_prismarite": {
+    "result": "regions_unexplored:hanging_prismarite",
+    "count": 1,
+    "ingredients": [
+      "regions_unexplored:prismarite_cluster",
+      "",
+      "",
+      "regions_unexplored:prismarite_cluster",
+      "",
+      "",
+      "regions_unexplored:prismarite_cluster",
+      "",
+      ""
+    ]
+  },
+  "reliquary:hammer_assembly": {
+    "result": "reliquary:hammer_assembly",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:stone_button",
+      "minecraft:blaze",
+      "reliquary:molten_core",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "reliquary:handgun": {
+    "result": "reliquary:handgun",
+    "count": 1,
+    "ingredients": [
+      "reliquary:barrel_assembly",
+      "minecraft:iron_ingot",
+      "reliquary:hammer_assembly",
+      "minecraft:iron_ingot",
+      "reliquary:slime_pearl",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "reliquary:grip_assembly",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "rftoolsutility:hasteplus_module": {
+    "result": "rftoolsutility:hasteplus_module",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "rftoolsutility:haste_module",
+      "minecraft:redstone",
+      "rftoolsbase:infused_diamond",
+      "rftoolsutility:moduleplus_template",
+      "rftoolsbase:infused_diamond",
+      "minecraft:redstone",
+      "rftoolsbase:infused_diamond",
+      "minecraft:redstone"
+    ]
+  },
+  "securitycraft:harming_module": {
+    "result": "securitycraft:harming_module",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:paper",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:arrows",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "silentgear:hammer_blueprint": {
+    "result": "silentgear:hammer_blueprint",
+    "count": 1,
+    "ingredients": [
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "silentgear:hammer_template": {
+    "result": "silentgear:hammer_template",
+    "count": 1,
+    "ingredients": [
+      "minecraft:template_boards",
+      "minecraft:template_boards",
+      "minecraft:template_boards",
+      "minecraft:template_boards",
+      "minecraft:template_boards",
+      "minecraft:template_boards",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "supplementaries:hat_stand": {
+    "result": "supplementaries:hat_stand",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "",
+      "",
+      "minecraft:smooth_stone_slab",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

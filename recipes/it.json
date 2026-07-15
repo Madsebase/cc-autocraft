@@ -1,0 +1,1517 @@
+{
+  "actuallyadditions:item_interface": {
+    "result": "actuallyadditions:item_interface",
+    "count": 1,
+    "ingredients": [
+      "actuallyadditions:basic_coil",
+      "minecraft:redstone",
+      "actuallyadditions:basic_coil",
+      "actuallyadditions:restonia_crystal",
+      "minecraft:chest",
+      "actuallyadditions:restonia_crystal",
+      "actuallyadditions:basic_coil",
+      "minecraft:redstone",
+      "actuallyadditions:basic_coil"
+    ]
+  },
+  "actuallyadditions:item_tag": {
+    "result": "actuallyadditions:item_tag",
+    "count": 1,
+    "ingredients": [
+      "minecraft:paper",
+      "actuallyadditions:black_quartz",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ae2:item_cell_housing": {
+    "result": "ae2:item_cell_housing",
+    "count": 1,
+    "ingredients": [
+      "ae2:quartz_glass",
+      "minecraft:redstone",
+      "ae2:quartz_glass",
+      "minecraft:redstone",
+      "",
+      "minecraft:redstone",
+      "minecraft:iron_ingot",
+      "minecraft:copper_ingot",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "ae2:item_storage_cell_16k": {
+    "result": "ae2:item_storage_cell_16k",
+    "count": 1,
+    "ingredients": [
+      "ae2:cell_component_16k",
+      "ae2:item_cell_housing",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ae2:item_storage_cell_1k": {
+    "result": "ae2:item_storage_cell_1k",
+    "count": 1,
+    "ingredients": [
+      "ae2:item_cell_housing",
+      "ae2:cell_component_1k",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ae2:item_storage_cell_256k": {
+    "result": "ae2:item_storage_cell_256k",
+    "count": 1,
+    "ingredients": [
+      "ae2:item_cell_housing",
+      "ae2:cell_component_256k",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ae2:item_storage_cell_4k": {
+    "result": "ae2:item_storage_cell_4k",
+    "count": 1,
+    "ingredients": [
+      "ae2:item_cell_housing",
+      "ae2:cell_component_4k",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ae2:item_storage_cell_64k": {
+    "result": "ae2:item_storage_cell_64k",
+    "count": 1,
+    "ingredients": [
+      "ae2:item_cell_housing",
+      "ae2:cell_component_64k",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_nouveau:item_detector": {
+    "result": "ars_nouveau:item_detector",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:observer",
+      "minecraft:glass",
+      "ars_nouveau:archwood_planks",
+      "ars_nouveau:archwood_planks",
+      "ars_nouveau:archwood_planks"
+    ]
+  },
+  "minecraft:item_frame": {
+    "result": "minecraft:item_frame",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:leather",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick"
+    ]
+  },
+  "create:item_drain": {
+    "result": "create:item_drain",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_bars",
+      "",
+      "",
+      "create:copper_casing",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:item_vault": {
+    "result": "create:item_vault",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron",
+      "",
+      "",
+      "minecraft:wooden",
+      "",
+      "",
+      "minecraft:iron",
+      "",
+      ""
+    ]
+  },
+  "create:item_hatch": {
+    "result": "create:item_hatch",
+    "count": 1,
+    "ingredients": [
+      "create:andesite_alloy",
+      "minecraft:iron_trapdoor",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "draconicevolution:item_chaotic_aoe": {
+    "result": "draconicevolution:item_chaotic_aoe",
+    "count": 1,
+    "ingredients": [
+      "minecraft:netherite",
+      "minecraft:draconium_awakened",
+      "minecraft:netherite",
+      "draconicevolution:item_draconic_aoe",
+      "draconicevolution:chaotic_core",
+      "draconicevolution:item_draconic_aoe",
+      "minecraft:netherite",
+      "minecraft:draconium_awakened",
+      "minecraft:netherite"
+    ]
+  },
+  "draconicevolution:item_chaotic_damage": {
+    "result": "draconicevolution:item_chaotic_damage",
+    "count": 1,
+    "ingredients": [
+      "draconicevolution:medium_chaos_frag",
+      "draconicevolution:medium_chaos_frag",
+      "draconicevolution:medium_chaos_frag",
+      "draconicevolution:item_draconic_damage",
+      "draconicevolution:awakened_core",
+      "draconicevolution:item_draconic_damage",
+      "draconicevolution:medium_chaos_frag",
+      "draconicevolution:medium_chaos_frag",
+      "draconicevolution:medium_chaos_frag"
+    ]
+  },
+  "draconicevolution:item_chaotic_energy": {
+    "result": "draconicevolution:item_chaotic_energy",
+    "count": 1,
+    "ingredients": [
+      "draconicevolution:medium_chaos_frag",
+      "draconicevolution:medium_chaos_frag",
+      "draconicevolution:medium_chaos_frag",
+      "draconicevolution:item_draconic_energy",
+      "draconicevolution:awakened_core",
+      "draconicevolution:item_draconic_energy",
+      "draconicevolution:medium_chaos_frag",
+      "draconicevolution:medium_chaos_frag",
+      "draconicevolution:medium_chaos_frag"
+    ]
+  },
+  "draconicevolution:item_chaotic_energy_link": {
+    "result": "draconicevolution:item_chaotic_energy_link",
+    "count": 1,
+    "ingredients": [
+      "minecraft:netherite",
+      "minecraft:end_crystal",
+      "minecraft:netherite",
+      "draconicevolution:draconic_wireless_crystal",
+      "draconicevolution:item_draconic_energy_link",
+      "draconicevolution:draconic_wireless_crystal",
+      "minecraft:netherite",
+      "draconicevolution:chaotic_core",
+      "minecraft:netherite"
+    ]
+  },
+  "draconicevolution:item_chaotic_jump": {
+    "result": "draconicevolution:item_chaotic_jump",
+    "count": 1,
+    "ingredients": [
+      "draconicevolution:medium_chaos_frag",
+      "draconicevolution:medium_chaos_frag",
+      "draconicevolution:medium_chaos_frag",
+      "draconicevolution:item_draconic_jump",
+      "draconicevolution:awakened_core",
+      "draconicevolution:item_draconic_jump",
+      "draconicevolution:medium_chaos_frag",
+      "draconicevolution:medium_chaos_frag",
+      "draconicevolution:medium_chaos_frag"
+    ]
+  },
+  "draconicevolution:item_chaotic_large_shield_capacity": {
+    "result": "draconicevolution:item_chaotic_large_shield_capacity",
+    "count": 1,
+    "ingredients": [
+      "draconicevolution:item_chaotic_shield_capacity",
+      "draconicevolution:draconium_core",
+      "draconicevolution:item_chaotic_shield_capacity",
+      "draconicevolution:draconium_core",
+      "draconicevolution:item_chaotic_shield_capacity",
+      "draconicevolution:draconium_core",
+      "draconicevolution:item_chaotic_shield_capacity",
+      "draconicevolution:draconium_core",
+      "draconicevolution:item_chaotic_shield_capacity"
+    ]
+  },
+  "draconicevolution:item_chaotic_proj_accuracy": {
+    "result": "draconicevolution:item_chaotic_proj_accuracy",
+    "count": 1,
+    "ingredients": [
+      "draconicevolution:medium_chaos_frag",
+      "draconicevolution:medium_chaos_frag",
+      "draconicevolution:medium_chaos_frag",
+      "draconicevolution:item_draconic_proj_accuracy",
+      "draconicevolution:awakened_core",
+      "draconicevolution:item_draconic_proj_accuracy",
+      "draconicevolution:medium_chaos_frag",
+      "draconicevolution:medium_chaos_frag",
+      "draconicevolution:medium_chaos_frag"
+    ]
+  },
+  "draconicevolution:item_chaotic_proj_damage": {
+    "result": "draconicevolution:item_chaotic_proj_damage",
+    "count": 1,
+    "ingredients": [
+      "draconicevolution:medium_chaos_frag",
+      "draconicevolution:medium_chaos_frag",
+      "draconicevolution:medium_chaos_frag",
+      "draconicevolution:item_draconic_proj_damage",
+      "draconicevolution:awakened_core",
+      "draconicevolution:item_draconic_proj_damage",
+      "draconicevolution:medium_chaos_frag",
+      "draconicevolution:medium_chaos_frag",
+      "draconicevolution:medium_chaos_frag"
+    ]
+  },
+  "draconicevolution:item_chaotic_proj_grav_comp": {
+    "result": "draconicevolution:item_chaotic_proj_grav_comp",
+    "count": 1,
+    "ingredients": [
+      "draconicevolution:medium_chaos_frag",
+      "draconicevolution:medium_chaos_frag",
+      "draconicevolution:medium_chaos_frag",
+      "draconicevolution:item_draconic_proj_grav_comp",
+      "draconicevolution:awakened_core",
+      "draconicevolution:item_draconic_proj_grav_comp",
+      "draconicevolution:medium_chaos_frag",
+      "draconicevolution:medium_chaos_frag",
+      "draconicevolution:medium_chaos_frag"
+    ]
+  },
+  "draconicevolution:item_chaotic_proj_penetration": {
+    "result": "draconicevolution:item_chaotic_proj_penetration",
+    "count": 1,
+    "ingredients": [
+      "draconicevolution:medium_chaos_frag",
+      "draconicevolution:medium_chaos_frag",
+      "draconicevolution:medium_chaos_frag",
+      "draconicevolution:item_draconic_proj_penetration",
+      "draconicevolution:awakened_core",
+      "draconicevolution:item_draconic_proj_penetration",
+      "draconicevolution:medium_chaos_frag",
+      "draconicevolution:medium_chaos_frag",
+      "draconicevolution:medium_chaos_frag"
+    ]
+  },
+  "draconicevolution:item_chaotic_proj_velocity": {
+    "result": "draconicevolution:item_chaotic_proj_velocity",
+    "count": 1,
+    "ingredients": [
+      "draconicevolution:medium_chaos_frag",
+      "draconicevolution:medium_chaos_frag",
+      "draconicevolution:medium_chaos_frag",
+      "draconicevolution:item_draconic_proj_velocity",
+      "draconicevolution:awakened_core",
+      "draconicevolution:item_draconic_proj_velocity",
+      "draconicevolution:medium_chaos_frag",
+      "draconicevolution:medium_chaos_frag",
+      "draconicevolution:medium_chaos_frag"
+    ]
+  },
+  "draconicevolution:item_chaotic_shield_capacity": {
+    "result": "draconicevolution:item_chaotic_shield_capacity",
+    "count": 5,
+    "ingredients": [
+      "draconicevolution:item_chaotic_large_shield_capacity",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "draconicevolution:item_chaotic_shield_control": {
+    "result": "draconicevolution:item_chaotic_shield_control",
+    "count": 1,
+    "ingredients": [
+      "minecraft:nether_stars",
+      "minecraft:netherite",
+      "minecraft:nether_stars",
+      "draconicevolution:chaotic_core",
+      "draconicevolution:item_draconic_shield_control",
+      "draconicevolution:chaotic_core",
+      "minecraft:nether_stars",
+      "minecraft:netherite",
+      "minecraft:nether_stars"
+    ]
+  },
+  "draconicevolution:item_chaotic_shield_recovery": {
+    "result": "draconicevolution:item_chaotic_shield_recovery",
+    "count": 1,
+    "ingredients": [
+      "minecraft:draconium_awakened",
+      "draconicevolution:wyvern_core",
+      "minecraft:draconium_awakened",
+      "draconicevolution:large_chaos_frag",
+      "draconicevolution:item_draconic_shield_recovery",
+      "draconicevolution:large_chaos_frag",
+      "minecraft:draconium_awakened",
+      "draconicevolution:awakened_core",
+      "minecraft:draconium_awakened"
+    ]
+  },
+  "draconicevolution:item_chaotic_speed": {
+    "result": "draconicevolution:item_chaotic_speed",
+    "count": 1,
+    "ingredients": [
+      "draconicevolution:medium_chaos_frag",
+      "draconicevolution:medium_chaos_frag",
+      "draconicevolution:medium_chaos_frag",
+      "draconicevolution:item_draconic_speed",
+      "draconicevolution:awakened_core",
+      "draconicevolution:item_draconic_speed",
+      "draconicevolution:medium_chaos_frag",
+      "draconicevolution:medium_chaos_frag",
+      "draconicevolution:medium_chaos_frag"
+    ]
+  },
+  "draconicevolution:item_chaotic_tree_harvest": {
+    "result": "draconicevolution:item_chaotic_tree_harvest",
+    "count": 1,
+    "ingredients": [
+      "minecraft:netherite",
+      "draconicevolution:draconium_core",
+      "minecraft:netherite",
+      "draconicevolution:large_chaos_frag",
+      "draconicevolution:item_draconic_tree_harvest",
+      "draconicevolution:large_chaos_frag",
+      "minecraft:netherite",
+      "draconicevolution:awakened_core",
+      "minecraft:netherite"
+    ]
+  },
+  "draconicevolution:item_chaotic_undying": {
+    "result": "draconicevolution:item_chaotic_undying",
+    "count": 1,
+    "ingredients": [
+      "draconicevolution:medium_chaos_frag",
+      "minecraft:enchanted_golden_apple",
+      "draconicevolution:medium_chaos_frag",
+      "draconicevolution:awakened_core",
+      "draconicevolution:item_draconic_undying",
+      "draconicevolution:awakened_core",
+      "draconicevolution:medium_chaos_frag",
+      "draconicevolution:item_chaotic_shield_capacity",
+      "draconicevolution:medium_chaos_frag"
+    ]
+  },
+  "draconicevolution:item_draconic_aoe": {
+    "result": "draconicevolution:item_draconic_aoe",
+    "count": 1,
+    "ingredients": [
+      "minecraft:netherite",
+      "minecraft:draconium_awakened",
+      "minecraft:netherite",
+      "draconicevolution:item_wyvern_aoe",
+      "draconicevolution:awakened_core",
+      "draconicevolution:item_wyvern_aoe",
+      "minecraft:netherite",
+      "minecraft:draconium_awakened",
+      "minecraft:netherite"
+    ]
+  },
+  "draconicevolution:item_draconic_auto_feed": {
+    "result": "draconicevolution:item_draconic_auto_feed",
+    "count": 1,
+    "ingredients": [
+      "minecraft:draconium_awakened",
+      "minecraft:cookie",
+      "minecraft:draconium_awakened",
+      "draconicevolution:draconium_core",
+      "draconicevolution:item_wyvern_auto_feed",
+      "draconicevolution:draconium_core",
+      "minecraft:draconium_awakened",
+      "minecraft:cookie",
+      "minecraft:draconium_awakened"
+    ]
+  },
+  "draconicevolution:item_draconic_damage": {
+    "result": "draconicevolution:item_draconic_damage",
+    "count": 1,
+    "ingredients": [
+      "minecraft:draconium_awakened",
+      "minecraft:dragon_breath",
+      "minecraft:draconium_awakened",
+      "draconicevolution:item_wyvern_damage",
+      "draconicevolution:wyvern_core",
+      "draconicevolution:item_wyvern_damage",
+      "minecraft:draconium_awakened",
+      "minecraft:dragon_breath",
+      "minecraft:draconium_awakened"
+    ]
+  },
+  "draconicevolution:item_draconic_ender_collection": {
+    "result": "draconicevolution:item_draconic_ender_collection",
+    "count": 1,
+    "ingredients": [
+      "minecraft:draconium_awakened",
+      "draconicevolution:draconium_core",
+      "minecraft:draconium_awakened",
+      "minecraft:comparator",
+      "draconicevolution:item_wyvern_ender_collection",
+      "minecraft:comparator",
+      "minecraft:draconium_awakened",
+      "minecraft:chest",
+      "minecraft:draconium_awakened"
+    ]
+  },
+  "draconicevolution:item_draconic_energy": {
+    "result": "draconicevolution:item_draconic_energy",
+    "count": 1,
+    "ingredients": [
+      "minecraft:draconium_awakened",
+      "minecraft:draconium_awakened",
+      "minecraft:draconium_awakened",
+      "draconicevolution:item_wyvern_energy",
+      "draconicevolution:wyvern_core",
+      "draconicevolution:item_wyvern_energy",
+      "minecraft:draconium_awakened",
+      "minecraft:draconium_awakened",
+      "minecraft:draconium_awakened"
+    ]
+  },
+  "draconicevolution:item_draconic_energy_link": {
+    "result": "draconicevolution:item_draconic_energy_link",
+    "count": 1,
+    "ingredients": [
+      "minecraft:draconium_awakened",
+      "minecraft:end_crystal",
+      "minecraft:draconium_awakened",
+      "draconicevolution:wyvern_wireless_crystal",
+      "draconicevolution:item_wyvern_energy_link",
+      "draconicevolution:wyvern_wireless_crystal",
+      "minecraft:draconium_awakened",
+      "draconicevolution:awakened_core",
+      "minecraft:draconium_awakened"
+    ]
+  },
+  "draconicevolution:item_draconic_jump": {
+    "result": "draconicevolution:item_draconic_jump",
+    "count": 1,
+    "ingredients": [
+      "minecraft:draconium_awakened",
+      "minecraft:draconium_awakened",
+      "minecraft:draconium_awakened",
+      "draconicevolution:item_wyvern_jump",
+      "draconicevolution:wyvern_core",
+      "draconicevolution:item_wyvern_jump",
+      "minecraft:draconium_awakened",
+      "minecraft:draconium_awakened",
+      "minecraft:draconium_awakened"
+    ]
+  },
+  "draconicevolution:item_draconic_large_shield_capacity": {
+    "result": "draconicevolution:item_draconic_large_shield_capacity",
+    "count": 1,
+    "ingredients": [
+      "draconicevolution:item_draconic_shield_capacity",
+      "draconicevolution:draconium_core",
+      "draconicevolution:item_draconic_shield_capacity",
+      "draconicevolution:draconium_core",
+      "draconicevolution:item_draconic_shield_capacity",
+      "draconicevolution:draconium_core",
+      "draconicevolution:item_draconic_shield_capacity",
+      "draconicevolution:draconium_core",
+      "draconicevolution:item_draconic_shield_capacity"
+    ]
+  },
+  "draconicevolution:item_draconic_proj_accuracy": {
+    "result": "draconicevolution:item_draconic_proj_accuracy",
+    "count": 1,
+    "ingredients": [
+      "minecraft:draconium_awakened",
+      "minecraft:draconium_awakened",
+      "minecraft:draconium_awakened",
+      "draconicevolution:item_wyvern_proj_accuracy",
+      "draconicevolution:wyvern_core",
+      "draconicevolution:item_wyvern_proj_accuracy",
+      "minecraft:draconium_awakened",
+      "minecraft:draconium_awakened",
+      "minecraft:draconium_awakened"
+    ]
+  },
+  "draconicevolution:item_draconic_proj_anti_immune": {
+    "result": "draconicevolution:item_draconic_proj_anti_immune",
+    "count": 1,
+    "ingredients": [
+      "minecraft:draconium_awakened",
+      "minecraft:wither_skeleton_skull",
+      "minecraft:draconium_awakened",
+      "draconicevolution:wyvern_core",
+      "draconicevolution:module_core",
+      "draconicevolution:wyvern_core",
+      "minecraft:draconium_awakened",
+      "minecraft:ender_pearl",
+      "minecraft:draconium_awakened"
+    ]
+  },
+  "draconicevolution:item_draconic_proj_damage": {
+    "result": "draconicevolution:item_draconic_proj_damage",
+    "count": 1,
+    "ingredients": [
+      "minecraft:draconium_awakened",
+      "minecraft:draconium_awakened",
+      "minecraft:draconium_awakened",
+      "draconicevolution:item_wyvern_proj_damage",
+      "draconicevolution:wyvern_core",
+      "draconicevolution:item_wyvern_proj_damage",
+      "minecraft:draconium_awakened",
+      "minecraft:draconium_awakened",
+      "minecraft:draconium_awakened"
+    ]
+  },
+  "draconicevolution:item_draconic_proj_grav_comp": {
+    "result": "draconicevolution:item_draconic_proj_grav_comp",
+    "count": 1,
+    "ingredients": [
+      "minecraft:draconium_awakened",
+      "minecraft:draconium_awakened",
+      "minecraft:draconium_awakened",
+      "draconicevolution:item_wyvern_proj_grav_comp",
+      "draconicevolution:wyvern_core",
+      "draconicevolution:item_wyvern_proj_grav_comp",
+      "minecraft:draconium_awakened",
+      "minecraft:draconium_awakened",
+      "minecraft:draconium_awakened"
+    ]
+  },
+  "draconicevolution:item_draconic_proj_penetration": {
+    "result": "draconicevolution:item_draconic_proj_penetration",
+    "count": 1,
+    "ingredients": [
+      "minecraft:draconium_awakened",
+      "minecraft:draconium_awakened",
+      "minecraft:draconium_awakened",
+      "draconicevolution:item_wyvern_proj_penetration",
+      "draconicevolution:wyvern_core",
+      "draconicevolution:item_wyvern_proj_penetration",
+      "minecraft:draconium_awakened",
+      "minecraft:draconium_awakened",
+      "minecraft:draconium_awakened"
+    ]
+  },
+  "draconicevolution:item_draconic_proj_velocity": {
+    "result": "draconicevolution:item_draconic_proj_velocity",
+    "count": 1,
+    "ingredients": [
+      "minecraft:draconium_awakened",
+      "minecraft:draconium_awakened",
+      "minecraft:draconium_awakened",
+      "draconicevolution:item_wyvern_proj_velocity",
+      "draconicevolution:wyvern_core",
+      "draconicevolution:item_wyvern_proj_velocity",
+      "minecraft:draconium_awakened",
+      "minecraft:draconium_awakened",
+      "minecraft:draconium_awakened"
+    ]
+  },
+  "draconicevolution:item_draconic_shield_capacity": {
+    "result": "draconicevolution:item_draconic_shield_capacity",
+    "count": 5,
+    "ingredients": [
+      "draconicevolution:item_draconic_large_shield_capacity",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "draconicevolution:item_draconic_shield_control": {
+    "result": "draconicevolution:item_draconic_shield_control",
+    "count": 1,
+    "ingredients": [
+      "minecraft:emerald",
+      "minecraft:netherite",
+      "minecraft:emerald",
+      "draconicevolution:awakened_core",
+      "draconicevolution:item_wyvern_shield_control",
+      "draconicevolution:awakened_core",
+      "minecraft:emerald",
+      "minecraft:netherite",
+      "minecraft:emerald"
+    ]
+  },
+  "draconicevolution:item_draconic_shield_recovery": {
+    "result": "draconicevolution:item_draconic_shield_recovery",
+    "count": 1,
+    "ingredients": [
+      "minecraft:netherite",
+      "draconicevolution:draconium_core",
+      "minecraft:netherite",
+      "minecraft:draconium_awakened",
+      "draconicevolution:item_wyvern_shield_recovery",
+      "minecraft:draconium_awakened",
+      "minecraft:netherite",
+      "draconicevolution:wyvern_core",
+      "minecraft:netherite"
+    ]
+  },
+  "draconicevolution:item_draconic_speed": {
+    "result": "draconicevolution:item_draconic_speed",
+    "count": 1,
+    "ingredients": [
+      "minecraft:draconium_awakened",
+      "minecraft:draconium_awakened",
+      "minecraft:draconium_awakened",
+      "draconicevolution:item_wyvern_speed",
+      "draconicevolution:wyvern_core",
+      "draconicevolution:item_wyvern_speed",
+      "minecraft:draconium_awakened",
+      "minecraft:draconium_awakened",
+      "minecraft:draconium_awakened"
+    ]
+  },
+  "draconicevolution:item_draconic_tree_harvest": {
+    "result": "draconicevolution:item_draconic_tree_harvest",
+    "count": 1,
+    "ingredients": [
+      "minecraft:draconium_awakened",
+      "draconicevolution:draconium_core",
+      "minecraft:draconium_awakened",
+      "minecraft:netherite",
+      "draconicevolution:item_wyvern_tree_harvest",
+      "minecraft:netherite",
+      "minecraft:draconium_awakened",
+      "draconicevolution:wyvern_core",
+      "minecraft:draconium_awakened"
+    ]
+  },
+  "draconicevolution:item_draconium_aoe": {
+    "result": "draconicevolution:item_draconium_aoe",
+    "count": 1,
+    "ingredients": [
+      "minecraft:piston",
+      "minecraft:draconium",
+      "minecraft:piston",
+      "draconicevolution:draconium_core",
+      "draconicevolution:module_core",
+      "draconicevolution:draconium_core",
+      "minecraft:piston",
+      "minecraft:draconium",
+      "minecraft:piston"
+    ]
+  },
+  "draconicevolution:item_draconium_auto_feed": {
+    "result": "draconicevolution:item_draconium_auto_feed",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:golden_apple",
+      "minecraft:iron_ingot",
+      "minecraft:cookie",
+      "draconicevolution:module_core",
+      "minecraft:cookie",
+      "minecraft:iron_ingot",
+      "draconicevolution:draconium_core",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "draconicevolution:item_draconium_energy": {
+    "result": "draconicevolution:item_draconium_energy",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "minecraft:redstone",
+      "minecraft:redstone",
+      "minecraft:iron_ingot",
+      "draconicevolution:module_core",
+      "minecraft:iron_ingot",
+      "minecraft:redstone",
+      "minecraft:redstone",
+      "minecraft:redstone"
+    ]
+  },
+  "draconicevolution:item_wyvern_aoe": {
+    "result": "draconicevolution:item_wyvern_aoe",
+    "count": 1,
+    "ingredients": [
+      "minecraft:draconium",
+      "minecraft:netherite_scrap",
+      "minecraft:draconium",
+      "draconicevolution:item_draconium_aoe",
+      "draconicevolution:wyvern_core",
+      "draconicevolution:item_draconium_aoe",
+      "minecraft:draconium",
+      "minecraft:netherite_scrap",
+      "minecraft:draconium"
+    ]
+  },
+  "draconicevolution:item_wyvern_aqua_adapt": {
+    "result": "draconicevolution:item_wyvern_aqua_adapt",
+    "count": 1,
+    "ingredients": [
+      "minecraft:draconium",
+      "minecraft:heart_of_the_sea",
+      "minecraft:draconium",
+      "draconicevolution:draconium_core",
+      "draconicevolution:module_core",
+      "draconicevolution:draconium_core",
+      "minecraft:draconium",
+      "minecraft:iron_pickaxe",
+      "minecraft:draconium"
+    ]
+  },
+  "draconicevolution:item_wyvern_auto_feed": {
+    "result": "draconicevolution:item_wyvern_auto_feed",
+    "count": 1,
+    "ingredients": [
+      "minecraft:draconium",
+      "minecraft:cookie",
+      "minecraft:draconium",
+      "draconicevolution:draconium_core",
+      "draconicevolution:item_draconium_auto_feed",
+      "draconicevolution:draconium_core",
+      "minecraft:draconium",
+      "minecraft:cookie",
+      "minecraft:draconium"
+    ]
+  },
+  "draconicevolution:item_wyvern_auto_fire": {
+    "result": "draconicevolution:item_wyvern_auto_fire",
+    "count": 1,
+    "ingredients": [
+      "minecraft:draconium",
+      "minecraft:clock",
+      "minecraft:draconium",
+      "draconicevolution:draconium_core",
+      "draconicevolution:module_core",
+      "draconicevolution:draconium_core",
+      "minecraft:draconium",
+      "minecraft:bow",
+      "minecraft:draconium"
+    ]
+  },
+  "draconicevolution:item_wyvern_ender_collection": {
+    "result": "draconicevolution:item_wyvern_ender_collection",
+    "count": 1,
+    "ingredients": [
+      "minecraft:ender_eye",
+      "draconicevolution:draconium_core",
+      "minecraft:ender_eye",
+      "minecraft:draconium",
+      "draconicevolution:module_core",
+      "minecraft:draconium",
+      "minecraft:ender_eye",
+      "minecraft:chest",
+      "minecraft:ender_eye"
+    ]
+  },
+  "draconicevolution:item_wyvern_energy": {
+    "result": "draconicevolution:item_wyvern_energy",
+    "count": 1,
+    "ingredients": [
+      "minecraft:draconium",
+      "minecraft:draconium",
+      "minecraft:draconium",
+      "draconicevolution:item_draconium_energy",
+      "draconicevolution:draconium_core",
+      "draconicevolution:item_draconium_energy",
+      "minecraft:draconium",
+      "minecraft:draconium",
+      "minecraft:draconium"
+    ]
+  },
+  "draconicevolution:item_wyvern_energy_link": {
+    "result": "draconicevolution:item_wyvern_energy_link",
+    "count": 1,
+    "ingredients": [
+      "minecraft:draconium",
+      "minecraft:end_crystal",
+      "minecraft:draconium",
+      "draconicevolution:basic_wireless_crystal",
+      "draconicevolution:module_core",
+      "draconicevolution:basic_wireless_crystal",
+      "minecraft:draconium",
+      "draconicevolution:wyvern_core",
+      "minecraft:draconium"
+    ]
+  },
+  "draconicevolution:item_wyvern_flight": {
+    "result": "draconicevolution:item_wyvern_flight",
+    "count": 1,
+    "ingredients": [
+      "minecraft:draconium",
+      "minecraft:elytra",
+      "minecraft:draconium",
+      "draconicevolution:draconium_core",
+      "draconicevolution:module_core",
+      "draconicevolution:draconium_core",
+      "minecraft:draconium",
+      "minecraft:firework_rocket",
+      "minecraft:draconium"
+    ]
+  },
+  "draconicevolution:item_wyvern_hill_step": {
+    "result": "draconicevolution:item_wyvern_hill_step",
+    "count": 1,
+    "ingredients": [
+      "minecraft:draconium",
+      "minecraft:golden_boots",
+      "minecraft:draconium",
+      "draconicevolution:draconium_core",
+      "draconicevolution:module_core",
+      "draconicevolution:draconium_core",
+      "minecraft:piston",
+      "minecraft:draconium",
+      "minecraft:piston"
+    ]
+  },
+  "draconicevolution:item_wyvern_junk_filter": {
+    "result": "draconicevolution:item_wyvern_junk_filter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:draconium",
+      "minecraft:lava_bucket",
+      "minecraft:draconium",
+      "draconicevolution:draconium_core",
+      "draconicevolution:module_core",
+      "draconicevolution:draconium_core",
+      "minecraft:draconium",
+      "minecraft:redstone",
+      "minecraft:draconium"
+    ]
+  },
+  "draconicevolution:item_wyvern_large_shield_capacity": {
+    "result": "draconicevolution:item_wyvern_large_shield_capacity",
+    "count": 1,
+    "ingredients": [
+      "draconicevolution:item_wyvern_shield_capacity",
+      "draconicevolution:draconium_core",
+      "draconicevolution:item_wyvern_shield_capacity",
+      "draconicevolution:draconium_core",
+      "draconicevolution:item_wyvern_shield_capacity",
+      "draconicevolution:draconium_core",
+      "draconicevolution:item_wyvern_shield_capacity",
+      "draconicevolution:draconium_core",
+      "draconicevolution:item_wyvern_shield_capacity"
+    ]
+  },
+  "draconicevolution:item_wyvern_mining_stability": {
+    "result": "draconicevolution:item_wyvern_mining_stability",
+    "count": 1,
+    "ingredients": [
+      "minecraft:draconium",
+      "minecraft:phantom_membrane",
+      "minecraft:draconium",
+      "draconicevolution:draconium_core",
+      "draconicevolution:module_core",
+      "draconicevolution:draconium_core",
+      "minecraft:draconium",
+      "minecraft:golden_pickaxe",
+      "minecraft:draconium"
+    ]
+  },
+  "draconicevolution:item_wyvern_proj_accuracy": {
+    "result": "draconicevolution:item_wyvern_proj_accuracy",
+    "count": 1,
+    "ingredients": [
+      "minecraft:draconium",
+      "minecraft:target",
+      "minecraft:draconium",
+      "draconicevolution:draconium_core",
+      "draconicevolution:module_core",
+      "draconicevolution:draconium_core",
+      "minecraft:draconium",
+      "minecraft:arrows",
+      "minecraft:draconium"
+    ]
+  },
+  "draconicevolution:item_wyvern_proj_penetration": {
+    "result": "draconicevolution:item_wyvern_proj_penetration",
+    "count": 1,
+    "ingredients": [
+      "minecraft:draconium",
+      "minecraft:shield",
+      "minecraft:draconium",
+      "draconicevolution:draconium_core",
+      "draconicevolution:module_core",
+      "draconicevolution:draconium_core",
+      "minecraft:draconium",
+      "minecraft:arrows",
+      "minecraft:draconium"
+    ]
+  },
+  "draconicevolution:item_wyvern_shield_capacity": {
+    "result": "draconicevolution:item_wyvern_shield_capacity",
+    "count": 5,
+    "ingredients": [
+      "draconicevolution:item_wyvern_large_shield_capacity",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "draconicevolution:item_wyvern_shield_control": {
+    "result": "draconicevolution:item_wyvern_shield_control",
+    "count": 1,
+    "ingredients": [
+      "minecraft:diamond",
+      "draconicevolution:dragon_heart",
+      "minecraft:diamond",
+      "draconicevolution:wyvern_core",
+      "draconicevolution:module_core",
+      "draconicevolution:wyvern_core",
+      "minecraft:diamond",
+      "draconicevolution:particle_generator",
+      "minecraft:diamond"
+    ]
+  },
+  "draconicevolution:item_wyvern_shield_recovery": {
+    "result": "draconicevolution:item_wyvern_shield_recovery",
+    "count": 1,
+    "ingredients": [
+      "minecraft:draconium",
+      "minecraft:netherite_scrap",
+      "minecraft:draconium",
+      "minecraft:redstone",
+      "draconicevolution:module_core",
+      "minecraft:redstone",
+      "minecraft:draconium",
+      "minecraft:netherite_scrap",
+      "minecraft:draconium"
+    ]
+  },
+  "draconicevolution:item_wyvern_speed": {
+    "result": "draconicevolution:item_wyvern_speed",
+    "count": 1,
+    "ingredients": [
+      "minecraft:draconium",
+      "minecraft:draconium",
+      "minecraft:draconium",
+      "draconicevolution:item_draconium_speed",
+      "draconicevolution:draconium_core",
+      "draconicevolution:item_draconium_speed",
+      "minecraft:draconium",
+      "minecraft:draconium",
+      "minecraft:draconium"
+    ]
+  },
+  "draconicevolution:item_wyvern_tree_harvest": {
+    "result": "draconicevolution:item_wyvern_tree_harvest",
+    "count": 1,
+    "ingredients": [
+      "minecraft:draconium",
+      "minecraft:diamond_axe",
+      "minecraft:draconium",
+      "draconicevolution:draconium_core",
+      "draconicevolution:module_core",
+      "draconicevolution:draconium_core",
+      "minecraft:draconium",
+      "minecraft:diamond_axe",
+      "minecraft:draconium"
+    ]
+  },
+  "draconicevolution:item_wyvern_undying": {
+    "result": "draconicevolution:item_wyvern_undying",
+    "count": 1,
+    "ingredients": [
+      "minecraft:draconium",
+      "minecraft:totem_of_undying",
+      "minecraft:draconium",
+      "draconicevolution:draconium_core",
+      "draconicevolution:module_core",
+      "draconicevolution:draconium_core",
+      "minecraft:draconium",
+      "draconicevolution:item_wyvern_shield_capacity",
+      "minecraft:draconium"
+    ]
+  },
+  "entangled:item": {
+    "result": "entangled:item",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:ender_pearl",
+      "minecraft:diamond",
+      "",
+      "minecraft:obsidians",
+      "minecraft:ender_pearl",
+      "minecraft:obsidians",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:item_batcher": {
+    "result": "immersiveengineering:item_batcher",
+    "count": 1,
+    "ingredients": [
+      "immersiveengineering:component_iron",
+      "",
+      "",
+      "immersiveengineering:basic_engineering",
+      "",
+      "",
+      "immersiveengineering:component_electronic",
+      "",
+      ""
+    ]
+  },
+  "industrialforegoing:item_transporter_type": {
+    "result": "industrialforegoing:item_transporter_type",
+    "count": 2,
+    "ingredients": [
+      "minecraft:redstone",
+      "minecraft:ender_pearl",
+      "minecraft:redstone",
+      "minecraft:gold_ingot",
+      "minecraft:pity",
+      "minecraft:gold_ingot",
+      "minecraft:redstone",
+      "minecraft:piston",
+      "minecraft:redstone"
+    ]
+  },
+  "ironfurnaces:item_copy": {
+    "result": "ironfurnaces:item_copy",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      "minecraft:furnace",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      ""
+    ]
+  },
+  "ironfurnaces:item_heater": {
+    "result": "ironfurnaces:item_heater",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone",
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:redstone",
+      "minecraft:comparator",
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:redstone",
+      "minecraft:stone"
+    ]
+  },
+  "ironfurnaces:item_spooky": {
+    "result": "ironfurnaces:item_spooky",
+    "count": 1,
+    "ingredients": [
+      "minecraft:carved_pumpkin",
+      "minecraft:furnace",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ironfurnaces:item_xmas": {
+    "result": "ironfurnaces:item_xmas",
+    "count": 1,
+    "ingredients": [
+      "minecraft:yellow_dye",
+      "minecraft:red_dye",
+      "minecraft:paper",
+      "minecraft:furnace",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "justdirethings:itemcollector": {
+    "result": "justdirethings:itemcollector",
+    "count": 1,
+    "ingredients": [
+      "justdirethings:itemcollector",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "megacells:item_storage_cell_16m": {
+    "result": "megacells:item_storage_cell_16m",
+    "count": 1,
+    "ingredients": [
+      "megacells:mega_item_cell_housing",
+      "megacells:cell_component_16m",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "megacells:item_storage_cell_1m": {
+    "result": "megacells:item_storage_cell_1m",
+    "count": 1,
+    "ingredients": [
+      "megacells:mega_item_cell_housing",
+      "megacells:cell_component_1m",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "megacells:item_storage_cell_256m": {
+    "result": "megacells:item_storage_cell_256m",
+    "count": 1,
+    "ingredients": [
+      "megacells:mega_item_cell_housing",
+      "megacells:cell_component_256m",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "megacells:item_storage_cell_4m": {
+    "result": "megacells:item_storage_cell_4m",
+    "count": 1,
+    "ingredients": [
+      "megacells:mega_item_cell_housing",
+      "megacells:cell_component_4m",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "megacells:item_storage_cell_64m": {
+    "result": "megacells:item_storage_cell_64m",
+    "count": 1,
+    "ingredients": [
+      "megacells:mega_item_cell_housing",
+      "megacells:cell_component_64m",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "moderndynamics:item_pipe": {
+    "result": "moderndynamics:item_pipe",
+    "count": 8,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:glass",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:item_pipe": {
+    "result": "modern_industrialization:item_pipe",
+    "count": 1,
+    "ingredients": [
+      "minecraft:item_pipes",
+      "water_bucket",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "naturesaura:item_distributor": {
+    "result": "naturesaura:item_distributor",
+    "count": 1,
+    "ingredients": [
+      "naturesaura:infused_stone",
+      "naturesaura:infused_stone",
+      "naturesaura:infused_stone",
+      "naturesaura:infused_iron",
+      "",
+      "naturesaura:infused_iron",
+      "naturesaura:infused_stone",
+      "naturesaura:infused_stone",
+      "naturesaura:infused_stone"
+    ]
+  },
+  "oritech:item_pipe_duct_block": {
+    "result": "oritech:item_pipe_duct_block",
+    "count": 4,
+    "ingredients": [
+      "oritech:item_pipe",
+      "minecraft:stone",
+      "oritech:item_pipe",
+      "minecraft:stone",
+      "minecraft:plating",
+      "minecraft:stone",
+      "oritech:item_pipe",
+      "minecraft:stone",
+      "oritech:item_pipe"
+    ]
+  },
+  "oritech:item_pipe": {
+    "result": "oritech:item_pipe",
+    "count": 1,
+    "ingredients": [
+      "oritech:framed_item_pipe",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "oritech:item_filter_block": {
+    "result": "oritech:item_filter_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "oritech:processing_unit",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:plating",
+      "minecraft:oak_planks"
+    ]
+  },
+  "pipez:item_pipe": {
+    "result": "pipez:item_pipe",
+    "count": 16,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:dropper",
+      "minecraft:redstone",
+      "minecraft:dropper",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "pneumaticcraft:item_life_upgrade": {
+    "result": "pneumaticcraft:item_life_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:upgrade_components",
+      "minecraft:apple",
+      "minecraft:upgrade_components",
+      "minecraft:apple",
+      "minecraft:clock",
+      "minecraft:apple",
+      "minecraft:upgrade_components",
+      "minecraft:apple",
+      "minecraft:upgrade_components"
+    ]
+  },
+  "railcraft:item_detector": {
+    "result": "railcraft:item_detector",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stripped_acacia_wood",
+      "minecraft:stripped_acacia_wood",
+      "minecraft:stripped_acacia_wood",
+      "minecraft:stripped_acacia_wood",
+      "minecraft:stone_pressure_plate",
+      "minecraft:stripped_acacia_wood",
+      "minecraft:stripped_acacia_wood",
+      "minecraft:stripped_acacia_wood",
+      "minecraft:stripped_acacia_wood"
+    ]
+  },
+  "railcraft:item_loader": {
+    "result": "railcraft:item_loader",
+    "count": 1,
+    "ingredients": [
+      "minecraft:cobblestone",
+      "minecraft:cobblestone",
+      "minecraft:cobblestone",
+      "minecraft:cobblestone",
+      "minecraft:hopper",
+      "minecraft:cobblestone",
+      "minecraft:cobblestone",
+      "railcraft:item_detector",
+      "minecraft:cobblestone"
+    ]
+  },
+  "railcraft:item_unloader": {
+    "result": "railcraft:item_unloader",
+    "count": 1,
+    "ingredients": [
+      "minecraft:cobblestone",
+      "minecraft:cobblestone",
+      "minecraft:cobblestone",
+      "minecraft:cobblestone",
+      "railcraft:item_detector",
+      "minecraft:cobblestone",
+      "minecraft:cobblestone",
+      "minecraft:hopper",
+      "minecraft:cobblestone"
+    ]
+  },
+  "supplementaries:item_shelf": {
+    "result": "supplementaries:item_shelf",
+    "count": 2,
+    "ingredients": [
+      "minecraft:wooden_slabs",
+      "minecraft:wooden_slabs",
+      "minecraft:wooden_slabs",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "transfer_labels:itemstack_extract_transfer_label": {
+    "result": "transfer_labels:itemstack_extract_transfer_label",
+    "count": 2,
+    "ingredients": [
+      "",
+      "minecraft:redstone",
+      "",
+      "",
+      "minecraft:chest",
+      "",
+      "",
+      "minecraft:hopper",
+      ""
+    ]
+  },
+  "transfer_labels:itemstack_insert_transfer_label": {
+    "result": "transfer_labels:itemstack_insert_transfer_label",
+    "count": 2,
+    "ingredients": [
+      "",
+      "minecraft:hopper",
+      "",
+      "",
+      "minecraft:chest",
+      "",
+      "",
+      "minecraft:redstone",
+      ""
+    ]
+  },
+  "trashcans:item_trash_can": {
+    "result": "trashcans:item_trash_can",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:cobblestone",
+      "minecraft:chest",
+      "minecraft:cobblestone",
+      "minecraft:cobblestone",
+      "minecraft:cobblestone",
+      "minecraft:cobblestone"
+    ]
+  },
+  "xycraft_machines:item_io": {
+    "result": "xycraft_machines:item_io",
+    "count": 1,
+    "ingredients": [
+      "minecraft:kivi",
+      "xycraft_machines:port_item",
+      "minecraft:kivi",
+      "minecraft:xychorium",
+      "xycraft_machines:machine_base",
+      "minecraft:xychorium",
+      "minecraft:kivi",
+      "xycraft_machines:port_item",
+      "minecraft:kivi"
+    ]
+  }
+}

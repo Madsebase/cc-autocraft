@@ -1,0 +1,692 @@
+{
+  "apothic_enchanting:dormant_deepshelf": {
+    "result": "apothic_enchanting:dormant_deepshelf",
+    "count": 1,
+    "ingredients": [
+      "minecraft:cracked_deepslate_tiles",
+      "minecraft:cracked_deepslate_tiles",
+      "minecraft:cracked_deepslate_tiles",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:cracked_deepslate_tiles",
+      "minecraft:cracked_deepslate_tiles",
+      "minecraft:cracked_deepslate_tiles"
+    ]
+  },
+  "aquaculture:double_hook": {
+    "result": "aquaculture:double_hook",
+    "count": 1,
+    "ingredients": [
+      "aquaculture:iron_hook",
+      "aquaculture:iron_hook",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_nouveau:dowsing_rod": {
+    "result": "ars_nouveau:dowsing_rod",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:gold_ingot",
+      "",
+      "ars_nouveau:archwood_planks",
+      "",
+      "ars_nouveau:archwood_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:dough": {
+    "result": "create:dough",
+    "count": 1,
+    "ingredients": [
+      "minecraft:wheat",
+      "minecraft:water_bucket",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "enderio:double_layer_capacitor": {
+    "result": "enderio:double_layer_capacitor",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:energetic_alloy",
+      "",
+      "enderio:basic_capacitor",
+      "minecraft:coal",
+      "enderio:basic_capacitor",
+      "",
+      "minecraft:energetic_alloy",
+      ""
+    ]
+  },
+  "eternal_starlight:doomeden_brick_slab": {
+    "result": "eternal_starlight:doomeden_brick_slab",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:doomeden_bricks",
+      "eternal_starlight:doomeden_bricks",
+      "eternal_starlight:doomeden_bricks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:doomeden_brick_stairs": {
+    "result": "eternal_starlight:doomeden_brick_stairs",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:doomeden_bricks",
+      "",
+      "",
+      "eternal_starlight:doomeden_bricks",
+      "eternal_starlight:doomeden_bricks",
+      "",
+      "eternal_starlight:doomeden_bricks",
+      "eternal_starlight:doomeden_bricks",
+      "eternal_starlight:doomeden_bricks"
+    ]
+  },
+  "eternal_starlight:doomeden_brick_wall": {
+    "result": "eternal_starlight:doomeden_brick_wall",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:doomeden_bricks",
+      "eternal_starlight:doomeden_bricks",
+      "eternal_starlight:doomeden_bricks",
+      "eternal_starlight:doomeden_bricks",
+      "eternal_starlight:doomeden_bricks",
+      "eternal_starlight:doomeden_bricks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:doomeden_tiles": {
+    "result": "eternal_starlight:doomeden_tiles",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:polished_doomeden_bricks",
+      "eternal_starlight:polished_doomeden_bricks",
+      "",
+      "eternal_starlight:polished_doomeden_bricks",
+      "eternal_starlight:polished_doomeden_bricks",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:doomeden_tile_slab": {
+    "result": "eternal_starlight:doomeden_tile_slab",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:doomeden_tiles",
+      "eternal_starlight:doomeden_tiles",
+      "eternal_starlight:doomeden_tiles",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:doomeden_tile_stairs": {
+    "result": "eternal_starlight:doomeden_tile_stairs",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:doomeden_tiles",
+      "",
+      "",
+      "eternal_starlight:doomeden_tiles",
+      "eternal_starlight:doomeden_tiles",
+      "",
+      "eternal_starlight:doomeden_tiles",
+      "eternal_starlight:doomeden_tiles",
+      "eternal_starlight:doomeden_tiles"
+    ]
+  },
+  "eternal_starlight:doomeden_tile_wall": {
+    "result": "eternal_starlight:doomeden_tile_wall",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:doomeden_tiles",
+      "eternal_starlight:doomeden_tiles",
+      "eternal_starlight:doomeden_tiles",
+      "eternal_starlight:doomeden_tiles",
+      "eternal_starlight:doomeden_tiles",
+      "eternal_starlight:doomeden_tiles",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwlights:double_street_lamp": {
+    "result": "mcwlights:double_street_lamp",
+    "count": 3,
+    "ingredients": [
+      "minecraft:lantern",
+      "minecraft:wooden_fences",
+      "minecraft:lantern",
+      "",
+      "minecraft:wooden_fences",
+      "",
+      "",
+      "minecraft:stone_brick_wall",
+      ""
+    ]
+  },
+  "mekanism:dosimeter": {
+    "result": "mekanism:dosimeter",
+    "count": 1,
+    "ingredients": [
+      "",
+      "modern_industrialization:lead_ingot",
+      "",
+      "modern_industrialization:lead_ingot",
+      "minecraft:redstone",
+      "modern_industrialization:lead_ingot",
+      "",
+      "modern_industrialization:lead_ingot",
+      ""
+    ]
+  },
+  "mffs:dome_module": {
+    "result": "mffs:dome_module",
+    "count": 1,
+    "ingredients": [
+      "mffs:focus_matrix",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "mffs:focus_matrix",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:doughitem": {
+    "result": "pamhc2foodcore:doughitem",
+    "count": 2,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:flour",
+      "minecraft:water",
+      "minecraft:salt",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:dogwood_bookshelf": {
+    "result": "productivetrees:dogwood_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:dogwood_planks",
+      "productivetrees:dogwood_planks",
+      "productivetrees:dogwood_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:dogwood_planks",
+      "productivetrees:dogwood_planks",
+      "productivetrees:dogwood_planks"
+    ]
+  },
+  "productivetrees:douglas_fir_bookshelf": {
+    "result": "productivetrees:douglas_fir_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:douglas_fir_planks",
+      "productivetrees:douglas_fir_planks",
+      "productivetrees:douglas_fir_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:douglas_fir_planks",
+      "productivetrees:douglas_fir_planks",
+      "productivetrees:douglas_fir_planks"
+    ]
+  },
+  "productivetrees:dogwood_button": {
+    "result": "productivetrees:dogwood_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:dogwood_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:douglas_fir_button": {
+    "result": "productivetrees:douglas_fir_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:douglas_fir_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:dogwood_door": {
+    "result": "productivetrees:dogwood_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:dogwood_planks",
+      "productivetrees:dogwood_planks",
+      "",
+      "productivetrees:dogwood_planks",
+      "productivetrees:dogwood_planks",
+      "",
+      "productivetrees:dogwood_planks",
+      "productivetrees:dogwood_planks",
+      ""
+    ]
+  },
+  "productivetrees:douglas_fir_door": {
+    "result": "productivetrees:douglas_fir_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:douglas_fir_planks",
+      "productivetrees:douglas_fir_planks",
+      "",
+      "productivetrees:douglas_fir_planks",
+      "productivetrees:douglas_fir_planks",
+      "",
+      "productivetrees:douglas_fir_planks",
+      "productivetrees:douglas_fir_planks",
+      ""
+    ]
+  },
+  "productivetrees:dogwood_fence": {
+    "result": "productivetrees:dogwood_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:dogwood_planks",
+      "minecraft:stick",
+      "productivetrees:dogwood_planks",
+      "productivetrees:dogwood_planks",
+      "minecraft:stick",
+      "productivetrees:dogwood_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:douglas_fir_fence": {
+    "result": "productivetrees:douglas_fir_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:douglas_fir_planks",
+      "minecraft:stick",
+      "productivetrees:douglas_fir_planks",
+      "productivetrees:douglas_fir_planks",
+      "minecraft:stick",
+      "productivetrees:douglas_fir_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:dogwood_fence_gate": {
+    "result": "productivetrees:dogwood_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:dogwood_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:dogwood_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:douglas_fir_fence_gate": {
+    "result": "productivetrees:douglas_fir_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:douglas_fir_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:douglas_fir_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:dogwood_hanging_sign": {
+    "result": "productivetrees:dogwood_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:dogwood_planks",
+      "productivetrees:dogwood_planks",
+      "productivetrees:dogwood_planks",
+      "productivetrees:dogwood_planks",
+      "productivetrees:dogwood_planks",
+      "productivetrees:dogwood_planks"
+    ]
+  },
+  "productivetrees:douglas_fir_hanging_sign": {
+    "result": "productivetrees:douglas_fir_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:douglas_fir_planks",
+      "productivetrees:douglas_fir_planks",
+      "productivetrees:douglas_fir_planks",
+      "productivetrees:douglas_fir_planks",
+      "productivetrees:douglas_fir_planks",
+      "productivetrees:douglas_fir_planks"
+    ]
+  },
+  "productivetrees:dogwood_planks": {
+    "result": "productivetrees:dogwood_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:douglas_fir_planks": {
+    "result": "productivetrees:douglas_fir_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:dogwood_pressure_plate": {
+    "result": "productivetrees:dogwood_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:dogwood_planks",
+      "productivetrees:dogwood_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:douglas_fir_pressure_plate": {
+    "result": "productivetrees:douglas_fir_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:douglas_fir_planks",
+      "productivetrees:douglas_fir_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:dogwood_sign": {
+    "result": "productivetrees:dogwood_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:dogwood_planks",
+      "productivetrees:dogwood_planks",
+      "productivetrees:dogwood_planks",
+      "productivetrees:dogwood_planks",
+      "productivetrees:dogwood_planks",
+      "productivetrees:dogwood_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:douglas_fir_sign": {
+    "result": "productivetrees:douglas_fir_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:douglas_fir_planks",
+      "productivetrees:douglas_fir_planks",
+      "productivetrees:douglas_fir_planks",
+      "productivetrees:douglas_fir_planks",
+      "productivetrees:douglas_fir_planks",
+      "productivetrees:douglas_fir_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:dogwood_slab": {
+    "result": "productivetrees:dogwood_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:dogwood_planks",
+      "productivetrees:dogwood_planks",
+      "productivetrees:dogwood_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:douglas_fir_slab": {
+    "result": "productivetrees:douglas_fir_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:douglas_fir_planks",
+      "productivetrees:douglas_fir_planks",
+      "productivetrees:douglas_fir_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:dogwood_stairs": {
+    "result": "productivetrees:dogwood_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:dogwood_planks",
+      "",
+      "",
+      "productivetrees:dogwood_planks",
+      "productivetrees:dogwood_planks",
+      "",
+      "productivetrees:dogwood_planks",
+      "productivetrees:dogwood_planks",
+      "productivetrees:dogwood_planks"
+    ]
+  },
+  "productivetrees:douglas_fir_stairs": {
+    "result": "productivetrees:douglas_fir_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:douglas_fir_planks",
+      "",
+      "",
+      "productivetrees:douglas_fir_planks",
+      "productivetrees:douglas_fir_planks",
+      "",
+      "productivetrees:douglas_fir_planks",
+      "productivetrees:douglas_fir_planks",
+      "productivetrees:douglas_fir_planks"
+    ]
+  },
+  "productivetrees:dogwood_trapdoor": {
+    "result": "productivetrees:dogwood_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:dogwood_planks",
+      "productivetrees:dogwood_planks",
+      "productivetrees:dogwood_planks",
+      "productivetrees:dogwood_planks",
+      "productivetrees:dogwood_planks",
+      "productivetrees:dogwood_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:douglas_fir_trapdoor": {
+    "result": "productivetrees:douglas_fir_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:douglas_fir_planks",
+      "productivetrees:douglas_fir_planks",
+      "productivetrees:douglas_fir_planks",
+      "productivetrees:douglas_fir_planks",
+      "productivetrees:douglas_fir_planks",
+      "productivetrees:douglas_fir_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:dogwood_wood": {
+    "result": "productivetrees:dogwood_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:dogwood_log",
+      "productivetrees:dogwood_log",
+      "",
+      "productivetrees:dogwood_log",
+      "productivetrees:dogwood_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:douglas_fir_wood": {
+    "result": "productivetrees:douglas_fir_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:douglas_fir_log",
+      "productivetrees:douglas_fir_log",
+      "",
+      "productivetrees:douglas_fir_log",
+      "productivetrees:douglas_fir_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "refurbished_furniture:dough": {
+    "result": "refurbished_furniture:dough",
+    "count": 2,
+    "ingredients": [
+      "refurbished_furniture:wheat_flour",
+      "minecraft:water_bucket",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "securitycraft:door_indestructible_iron_item": {
+    "result": "securitycraft:door_indestructible_iron_item",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_door",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "supplementaries:doormat": {
+    "result": "supplementaries:doormat",
+    "count": 1,
+    "ingredients": [
+      "minecraft:flax",
+      "minecraft:flax",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "waystones:dormant_shard": {
+    "result": "waystones:dormant_shard",
+    "count": 1,
+    "ingredients": [
+      "waystones:warp_dust",
+      "waystones:warp_dust",
+      "minecraft:flint",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

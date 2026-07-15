@@ -1,0 +1,4577 @@
+{
+  "additional_lights:soul_fire_for_fire_pit_l": {
+    "result": "additional_lights:soul_fire_for_fire_pit_l",
+    "count": 2,
+    "ingredients": [
+      "minecraft:coal",
+      "minecraft:coal",
+      "",
+      "minecraft:soul_sand",
+      "minecraft:coal",
+      "",
+      "",
+      "minecraft:coal",
+      ""
+    ]
+  },
+  "additional_lights:soul_fire_for_fire_pit_s": {
+    "result": "additional_lights:soul_fire_for_fire_pit_s",
+    "count": 2,
+    "ingredients": [
+      "",
+      "minecraft:coal",
+      "",
+      "minecraft:soul_sand",
+      "minecraft:coal",
+      "",
+      "minecraft:coal",
+      "minecraft:coal",
+      ""
+    ]
+  },
+  "additional_lights:soul_fire_for_standing_torch_l": {
+    "result": "additional_lights:soul_fire_for_standing_torch_l",
+    "count": 2,
+    "ingredients": [
+      "",
+      "minecraft:coal",
+      "",
+      "minecraft:soul_sand",
+      "minecraft:coal",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "additional_lights:soul_fire_for_standing_torch_s": {
+    "result": "additional_lights:soul_fire_for_standing_torch_s",
+    "count": 1,
+    "ingredients": [
+      "minecraft:coal",
+      "minecraft:soul_sand",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "additional_lights:soul_wand": {
+    "result": "additional_lights:soul_wand",
+    "count": 1,
+    "ingredients": [
+      "minecraft:soul_sand",
+      "minecraft:diamond",
+      "minecraft:soul_sand",
+      "",
+      "minecraft:obsidian",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "allthecompressed:soularium_block_1x": {
+    "result": "allthecompressed:soularium_block_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:soularium_block_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:soularium_block_2x": {
+    "result": "allthecompressed:soularium_block_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:soularium_block_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:soularium_block_3x": {
+    "result": "allthecompressed:soularium_block_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:soularium_block_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:soularium_block_4x": {
+    "result": "allthecompressed:soularium_block_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:soularium_block_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:soularium_block_5x": {
+    "result": "allthecompressed:soularium_block_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:soularium_block_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:soularium_block_6x": {
+    "result": "allthecompressed:soularium_block_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:soularium_block_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:soularium_block_7x": {
+    "result": "allthecompressed:soularium_block_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:soularium_block_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:soularium_block_8x": {
+    "result": "allthecompressed:soularium_block_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:soularium_block_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:soularium_block_9x": {
+    "result": "allthecompressed:soularium_block_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:soularium_block_8x",
+      "allthecompressed:soularium_block_8x",
+      "allthecompressed:soularium_block_8x",
+      "allthecompressed:soularium_block_8x",
+      "allthecompressed:soularium_block_8x",
+      "allthecompressed:soularium_block_8x",
+      "allthecompressed:soularium_block_8x",
+      "allthecompressed:soularium_block_8x",
+      "allthecompressed:soularium_block_8x"
+    ]
+  },
+  "allthecompressed:soul_sand_1x": {
+    "result": "allthecompressed:soul_sand_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:soul_sand_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:soul_sand_2x": {
+    "result": "allthecompressed:soul_sand_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:soul_sand_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:soul_sand_3x": {
+    "result": "allthecompressed:soul_sand_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:soul_sand_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:soul_sand_4x": {
+    "result": "allthecompressed:soul_sand_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:soul_sand_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:soul_sand_5x": {
+    "result": "allthecompressed:soul_sand_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:soul_sand_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:soul_sand_6x": {
+    "result": "allthecompressed:soul_sand_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:soul_sand_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:soul_sand_7x": {
+    "result": "allthecompressed:soul_sand_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:soul_sand_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:soul_sand_8x": {
+    "result": "allthecompressed:soul_sand_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:soul_sand_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:soul_sand_9x": {
+    "result": "allthecompressed:soul_sand_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:soul_sand_8x",
+      "allthecompressed:soul_sand_8x",
+      "allthecompressed:soul_sand_8x",
+      "allthecompressed:soul_sand_8x",
+      "allthecompressed:soul_sand_8x",
+      "allthecompressed:soul_sand_8x",
+      "allthecompressed:soul_sand_8x",
+      "allthecompressed:soul_sand_8x",
+      "allthecompressed:soul_sand_8x"
+    ]
+  },
+  "allthecompressed:soul_soil_1x": {
+    "result": "allthecompressed:soul_soil_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:soul_soil_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:soul_soil_2x": {
+    "result": "allthecompressed:soul_soil_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:soul_soil_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:soul_soil_3x": {
+    "result": "allthecompressed:soul_soil_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:soul_soil_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:soul_soil_4x": {
+    "result": "allthecompressed:soul_soil_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:soul_soil_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:soul_soil_5x": {
+    "result": "allthecompressed:soul_soil_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:soul_soil_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:soul_soil_6x": {
+    "result": "allthecompressed:soul_soil_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:soul_soil_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:soul_soil_7x": {
+    "result": "allthecompressed:soul_soil_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:soul_soil_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:soul_soil_8x": {
+    "result": "allthecompressed:soul_soil_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:soul_soil_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:soul_soil_9x": {
+    "result": "allthecompressed:soul_soil_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:soul_soil_8x",
+      "allthecompressed:soul_soil_8x",
+      "allthecompressed:soul_soil_8x",
+      "allthecompressed:soul_soil_8x",
+      "allthecompressed:soul_soil_8x",
+      "allthecompressed:soul_soil_8x",
+      "allthecompressed:soul_soil_8x",
+      "allthecompressed:soul_soil_8x",
+      "allthecompressed:soul_soil_8x"
+    ]
+  },
+  "enderio:soularium_block": {
+    "result": "enderio:soularium_block",
+    "count": 1,
+    "ingredients": [
+      "enderio:soularium_ingot",
+      "enderio:soularium_ingot",
+      "enderio:soularium_ingot",
+      "enderio:soularium_ingot",
+      "enderio:soularium_ingot",
+      "enderio:soularium_ingot",
+      "enderio:soularium_ingot",
+      "enderio:soularium_ingot",
+      "enderio:soularium_ingot"
+    ]
+  },
+  "minecraft:soul_sand": {
+    "result": "minecraft:soul_sand",
+    "count": 16,
+    "ingredients": [
+      "mysticalagriculture:nether_essence",
+      "mysticalagriculture:nether_essence",
+      "mysticalagriculture:nether_essence",
+      "mysticalagriculture:nether_essence",
+      "mysticalagriculture:fire_essence",
+      "mysticalagriculture:nether_essence",
+      "mysticalagriculture:nether_essence",
+      "mysticalagriculture:nether_essence",
+      "mysticalagriculture:nether_essence"
+    ]
+  },
+  "minecraft:soul_soil": {
+    "result": "minecraft:soul_soil",
+    "count": 16,
+    "ingredients": [
+      "mysticalagriculture:nether_essence",
+      "mysticalagriculture:nether_essence",
+      "mysticalagriculture:nether_essence",
+      "mysticalagriculture:nether_essence",
+      "mysticalagriculture:earth_essence",
+      "mysticalagriculture:nether_essence",
+      "mysticalagriculture:nether_essence",
+      "mysticalagriculture:nether_essence",
+      "mysticalagriculture:nether_essence"
+    ]
+  },
+  "allthemodium:soul_bookshelf": {
+    "result": "allthemodium:soul_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks"
+    ]
+  },
+  "allthemodium:soul_door": {
+    "result": "allthemodium:soul_door",
+    "count": 3,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      ""
+    ]
+  },
+  "allthemodium:soul_planks": {
+    "result": "allthemodium:soul_planks",
+    "count": 4,
+    "ingredients": [
+      "allthemodium:soul_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthemodium:soul_trap_door": {
+    "result": "allthemodium:soul_trap_door",
+    "count": 2,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks"
+    ]
+  },
+  "allthemodium:soul_wooden_fence": {
+    "result": "allthemodium:soul_wooden_fence",
+    "count": 3,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "minecraft:oak_planks",
+      "minecraft:stick",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:stick",
+      "minecraft:oak_planks"
+    ]
+  },
+  "allthemodium:soul_wooden_fence_gate": {
+    "result": "allthemodium:soul_wooden_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "minecraft:stick",
+      "minecraft:oak_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:oak_planks",
+      "minecraft:stick"
+    ]
+  },
+  "allthemodium:soul_wooden_slabs": {
+    "result": "allthemodium:soul_wooden_slabs",
+    "count": 6,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks"
+    ]
+  },
+  "allthemodium:soul_wooden_stairs": {
+    "result": "allthemodium:soul_wooden_stairs",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "",
+      "",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks"
+    ]
+  },
+  "apothic_enchanting:soul_touched_deepshelf": {
+    "result": "apothic_enchanting:soul_touched_deepshelf",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:soul_lantern",
+      "",
+      "",
+      "apothic_enchanting:deepshelf",
+      "",
+      "minecraft:sculk",
+      "minecraft:sculk",
+      "minecraft:sculk"
+    ]
+  },
+  "apothic_enchanting:soul_touched_sculkshelf": {
+    "result": "apothic_enchanting:soul_touched_sculkshelf",
+    "count": 1,
+    "ingredients": [
+      "",
+      "apothic_enchanting:warden_tendril",
+      "",
+      "minecraft:sculk",
+      "apothic_enchanting:soul_touched_deepshelf",
+      "minecraft:sculk",
+      "minecraft:sculk",
+      "minecraft:sculk_catalyst",
+      "minecraft:sculk"
+    ]
+  },
+  "arseng:source_acceptor": {
+    "result": "arseng:source_acceptor",
+    "count": 1,
+    "ingredients": [
+      "arseng:cable_source_acceptor",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "arseng:source_storage_cell_16k": {
+    "result": "arseng:source_storage_cell_16k",
+    "count": 1,
+    "ingredients": [
+      "arseng:source_cell_housing",
+      "ae2:cell_component_16k",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "arseng:source_storage_cell_1k": {
+    "result": "arseng:source_storage_cell_1k",
+    "count": 1,
+    "ingredients": [
+      "arseng:source_cell_housing",
+      "ae2:cell_component_1k",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "arseng:source_storage_cell_256k": {
+    "result": "arseng:source_storage_cell_256k",
+    "count": 1,
+    "ingredients": [
+      "arseng:source_cell_housing",
+      "ae2:cell_component_256k",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "arseng:source_storage_cell_4k": {
+    "result": "arseng:source_storage_cell_4k",
+    "count": 1,
+    "ingredients": [
+      "arseng:source_cell_housing",
+      "ae2:cell_component_4k",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "arseng:source_storage_cell_64k": {
+    "result": "arseng:source_storage_cell_64k",
+    "count": 1,
+    "ingredients": [
+      "arseng:source_cell_housing",
+      "ae2:cell_component_64k",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_additions:sourcestone_button": {
+    "result": "ars_additions:sourcestone_button",
+    "count": 1,
+    "ingredients": [
+      "ars_nouveau:sourcestone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_additions:sourcestone_chain": {
+    "result": "ars_additions:sourcestone_chain",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_nugget",
+      "",
+      "",
+      "ars_nouveau:sourcestone",
+      "",
+      "",
+      "minecraft:iron_nugget",
+      "",
+      ""
+    ]
+  },
+  "ars_additions:sourcestone_door": {
+    "result": "ars_additions:sourcestone_door",
+    "count": 1,
+    "ingredients": [
+      "ars_nouveau:sourcestone",
+      "ars_nouveau:sourcestone",
+      "",
+      "ars_nouveau:sourcestone",
+      "ars_nouveau:sourcestone",
+      "",
+      "ars_nouveau:sourcestone",
+      "ars_nouveau:sourcestone",
+      ""
+    ]
+  },
+  "ars_additions:sourcestone_lantern": {
+    "result": "ars_additions:sourcestone_lantern",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_nugget",
+      "ars_nouveau:sourcestone",
+      "minecraft:iron_nugget",
+      "ars_nouveau:sourcestone",
+      "minecraft:torch",
+      "ars_nouveau:sourcestone",
+      "minecraft:iron_nugget",
+      "ars_nouveau:sourcestone",
+      "minecraft:iron_nugget"
+    ]
+  },
+  "ars_additions:sourcestone_magelight_lantern": {
+    "result": "ars_additions:sourcestone_magelight_lantern",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_nugget",
+      "ars_nouveau:sourcestone",
+      "minecraft:iron_nugget",
+      "ars_nouveau:sourcestone",
+      "ars_nouveau:source_gem",
+      "ars_nouveau:sourcestone",
+      "minecraft:iron_nugget",
+      "ars_nouveau:sourcestone",
+      "minecraft:iron_nugget"
+    ]
+  },
+  "ars_additions:soul_magelight_lantern": {
+    "result": "ars_additions:soul_magelight_lantern",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_nugget",
+      "minecraft:soul_sand",
+      "minecraft:iron_nugget",
+      "minecraft:soul_sand",
+      "ars_nouveau:source_gem",
+      "minecraft:soul_sand",
+      "minecraft:iron_nugget",
+      "minecraft:soul_sand",
+      "minecraft:iron_nugget"
+    ]
+  },
+  "ars_nouveau:sourcestone": {
+    "result": "ars_nouveau:sourcestone",
+    "count": 1,
+    "ingredients": [
+      "ars_nouveau:sourcestone_small_bricks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_additions:sourcestone_trapdoor": {
+    "result": "ars_additions:sourcestone_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "ars_nouveau:sourcestone",
+      "ars_nouveau:sourcestone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_additions:sourcestone_wall": {
+    "result": "ars_additions:sourcestone_wall",
+    "count": 6,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "ars_nouveau:sourcestone",
+      "ars_nouveau:sourcestone",
+      "ars_nouveau:sourcestone",
+      "ars_nouveau:sourcestone",
+      "ars_nouveau:sourcestone",
+      "ars_nouveau:sourcestone"
+    ]
+  },
+  "ars_nouveau:sourcestone_sconce": {
+    "result": "ars_nouveau:sourcestone_sconce",
+    "count": 1,
+    "ingredients": [
+      "minecraft:source",
+      "ars_nouveau:sourcestone",
+      "ars_nouveau:sourcestone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_nouveau:sourceberry_sack": {
+    "result": "ars_nouveau:sourceberry_sack",
+    "count": 1,
+    "ingredients": [
+      "ars_nouveau:sourceberry_bush",
+      "ars_nouveau:sourceberry_bush",
+      "ars_nouveau:sourceberry_bush",
+      "ars_nouveau:sourceberry_bush",
+      "ars_nouveau:sourceberry_bush",
+      "ars_nouveau:sourceberry_bush",
+      "ars_nouveau:sourceberry_bush",
+      "ars_nouveau:sourceberry_bush",
+      "ars_nouveau:sourceberry_bush"
+    ]
+  },
+  "ars_nouveau:sourceberry_bush": {
+    "result": "ars_nouveau:sourceberry_bush",
+    "count": 9,
+    "ingredients": [
+      "ars_nouveau:sourceberry_sack",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_nouveau:sourcestone_alternating_slab": {
+    "result": "ars_nouveau:sourcestone_alternating_slab",
+    "count": 6,
+    "ingredients": [
+      "ars_nouveau:sourcestone_alternating",
+      "ars_nouveau:sourcestone_alternating",
+      "ars_nouveau:sourcestone_alternating",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_nouveau:sourcestone_alternating_stairs": {
+    "result": "ars_nouveau:sourcestone_alternating_stairs",
+    "count": 4,
+    "ingredients": [
+      "ars_nouveau:sourcestone_alternating",
+      "",
+      "",
+      "ars_nouveau:sourcestone_alternating",
+      "ars_nouveau:sourcestone_alternating",
+      "",
+      "ars_nouveau:sourcestone_alternating",
+      "ars_nouveau:sourcestone_alternating",
+      "ars_nouveau:sourcestone_alternating"
+    ]
+  },
+  "ars_nouveau:sourcestone_basketweave_slab": {
+    "result": "ars_nouveau:sourcestone_basketweave_slab",
+    "count": 6,
+    "ingredients": [
+      "ars_nouveau:sourcestone_basketweave",
+      "ars_nouveau:sourcestone_basketweave",
+      "ars_nouveau:sourcestone_basketweave",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_nouveau:sourcestone_basketweave_stairs": {
+    "result": "ars_nouveau:sourcestone_basketweave_stairs",
+    "count": 4,
+    "ingredients": [
+      "ars_nouveau:sourcestone_basketweave",
+      "",
+      "",
+      "ars_nouveau:sourcestone_basketweave",
+      "ars_nouveau:sourcestone_basketweave",
+      "",
+      "ars_nouveau:sourcestone_basketweave",
+      "ars_nouveau:sourcestone_basketweave",
+      "ars_nouveau:sourcestone_basketweave"
+    ]
+  },
+  "ars_nouveau:sourcestone_grate": {
+    "result": "ars_nouveau:sourcestone_grate",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:iron_bars",
+      "",
+      "minecraft:iron_bars",
+      "ars_nouveau:sourcestone",
+      "minecraft:iron_bars",
+      "",
+      "minecraft:iron_bars",
+      ""
+    ]
+  },
+  "ars_nouveau:sourcestone_large_bricks_slab": {
+    "result": "ars_nouveau:sourcestone_large_bricks_slab",
+    "count": 6,
+    "ingredients": [
+      "ars_nouveau:sourcestone_large_bricks",
+      "ars_nouveau:sourcestone_large_bricks",
+      "ars_nouveau:sourcestone_large_bricks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_nouveau:sourcestone_large_bricks_stairs": {
+    "result": "ars_nouveau:sourcestone_large_bricks_stairs",
+    "count": 4,
+    "ingredients": [
+      "ars_nouveau:sourcestone_large_bricks",
+      "",
+      "",
+      "ars_nouveau:sourcestone_large_bricks",
+      "ars_nouveau:sourcestone_large_bricks",
+      "",
+      "ars_nouveau:sourcestone_large_bricks",
+      "ars_nouveau:sourcestone_large_bricks",
+      "ars_nouveau:sourcestone_large_bricks"
+    ]
+  },
+  "ars_nouveau:sourcestone_mosaic_slab": {
+    "result": "ars_nouveau:sourcestone_mosaic_slab",
+    "count": 6,
+    "ingredients": [
+      "ars_nouveau:sourcestone_mosaic",
+      "ars_nouveau:sourcestone_mosaic",
+      "ars_nouveau:sourcestone_mosaic",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_nouveau:sourcestone_mosaic_stairs": {
+    "result": "ars_nouveau:sourcestone_mosaic_stairs",
+    "count": 4,
+    "ingredients": [
+      "ars_nouveau:sourcestone_mosaic",
+      "",
+      "",
+      "ars_nouveau:sourcestone_mosaic",
+      "ars_nouveau:sourcestone_mosaic",
+      "",
+      "ars_nouveau:sourcestone_mosaic",
+      "ars_nouveau:sourcestone_mosaic",
+      "ars_nouveau:sourcestone_mosaic"
+    ]
+  },
+  "ars_nouveau:sourcestone_slab": {
+    "result": "ars_nouveau:sourcestone_slab",
+    "count": 6,
+    "ingredients": [
+      "ars_nouveau:sourcestone",
+      "ars_nouveau:sourcestone",
+      "ars_nouveau:sourcestone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_nouveau:sourcestone_small_bricks_slab": {
+    "result": "ars_nouveau:sourcestone_small_bricks_slab",
+    "count": 6,
+    "ingredients": [
+      "ars_nouveau:sourcestone_small_bricks",
+      "ars_nouveau:sourcestone_small_bricks",
+      "ars_nouveau:sourcestone_small_bricks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_nouveau:sourcestone_small_bricks_stairs": {
+    "result": "ars_nouveau:sourcestone_small_bricks_stairs",
+    "count": 4,
+    "ingredients": [
+      "ars_nouveau:sourcestone_small_bricks",
+      "",
+      "",
+      "ars_nouveau:sourcestone_small_bricks",
+      "ars_nouveau:sourcestone_small_bricks",
+      "",
+      "ars_nouveau:sourcestone_small_bricks",
+      "ars_nouveau:sourcestone_small_bricks",
+      "ars_nouveau:sourcestone_small_bricks"
+    ]
+  },
+  "ars_nouveau:sourcestone_stairs": {
+    "result": "ars_nouveau:sourcestone_stairs",
+    "count": 4,
+    "ingredients": [
+      "ars_nouveau:sourcestone",
+      "",
+      "",
+      "ars_nouveau:sourcestone",
+      "ars_nouveau:sourcestone",
+      "",
+      "ars_nouveau:sourcestone",
+      "ars_nouveau:sourcestone",
+      "ars_nouveau:sourcestone"
+    ]
+  },
+  "ars_nouveau:source_berry_pie": {
+    "result": "ars_nouveau:source_berry_pie",
+    "count": 1,
+    "ingredients": [
+      "minecraft:egg",
+      "minecraft:sugar",
+      "ars_nouveau:magebloom",
+      "ars_nouveau:sourceberry_bush",
+      "ars_nouveau:sourceberry_bush",
+      "ars_nouveau:sourceberry_bush",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_nouveau:source_berry_roll": {
+    "result": "ars_nouveau:source_berry_roll",
+    "count": 1,
+    "ingredients": [
+      "minecraft:wheat",
+      "minecraft:wheat",
+      "minecraft:wheat",
+      "ars_nouveau:sourceberry_bush",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_nouveau:source_gem_block": {
+    "result": "ars_nouveau:source_gem_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:source",
+      "minecraft:source",
+      "",
+      "minecraft:source",
+      "minecraft:source",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_nouveau:source_gem": {
+    "result": "ars_nouveau:source_gem",
+    "count": 4,
+    "ingredients": [
+      "ars_nouveau:source_gem_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_nouveau:source_jar": {
+    "result": "ars_nouveau:source_jar",
+    "count": 1,
+    "ingredients": [
+      "ars_nouveau:archwood_slab",
+      "ars_nouveau:archwood_slab",
+      "ars_nouveau:archwood_slab",
+      "minecraft:glass",
+      "",
+      "minecraft:glass",
+      "ars_nouveau:archwood_slab",
+      "ars_nouveau:archwood_slab",
+      "ars_nouveau:archwood_slab"
+    ]
+  },
+  "ars_nouveau:source_lamp": {
+    "result": "ars_nouveau:source_lamp",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:source",
+      "",
+      "minecraft:source",
+      "minecraft:blaze",
+      "minecraft:source",
+      "",
+      "minecraft:redstone",
+      ""
+    ]
+  },
+  "ars_technica:source_motor": {
+    "result": "ars_technica:source_motor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:brass",
+      "create:electron_tube",
+      "minecraft:brass",
+      "create:cogwheel",
+      "ars_technica:calibrated_precision_mechanism",
+      "create:cogwheel",
+      "minecraft:brass",
+      "create:cogwheel",
+      "minecraft:brass"
+    ]
+  },
+  "bhc:soul_heart_amulet": {
+    "result": "bhc:soul_heart_amulet",
+    "count": 1,
+    "ingredients": [
+      "bhc:heart_amulet",
+      "bhc:soul_heart_crystal",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bhc:soul_heart_crystal": {
+    "result": "bhc:soul_heart_crystal",
+    "count": 1,
+    "ingredients": [
+      "minecraft:echo_shard",
+      "bhc:red_heart",
+      "minecraft:echo_shard",
+      "bhc:yellow_heart",
+      "minecraft:amethyst_shard",
+      "bhc:green_heart",
+      "minecraft:echo_shard",
+      "bhc:blue_heart",
+      "minecraft:echo_shard"
+    ]
+  },
+  "bibliocraft:soul_fancy_gold_lantern": {
+    "result": "bibliocraft:soul_fancy_gold_lantern",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:gold_ingot",
+      "minecraft:glass",
+      "minecraft:gold_ingot",
+      "buzzier_bees:soul_candle",
+      "minecraft:gold_ingot",
+      "minecraft:glass",
+      "minecraft:gold_ingot",
+      "minecraft:glass"
+    ]
+  },
+  "bibliocraft:soul_fancy_iron_lantern": {
+    "result": "bibliocraft:soul_fancy_iron_lantern",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:iron_ingot",
+      "minecraft:glass",
+      "minecraft:iron_ingot",
+      "buzzier_bees:soul_candle",
+      "minecraft:iron_ingot",
+      "minecraft:glass",
+      "minecraft:iron_ingot",
+      "minecraft:glass"
+    ]
+  },
+  "minecraft:soul_torch": {
+    "result": "minecraft:soul_torch",
+    "count": 4,
+    "ingredients": [
+      "minecraft:coal",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:soul_fire_base_blocks",
+      "",
+      ""
+    ]
+  },
+  "cataclysm:soul_render": {
+    "result": "cataclysm:soul_render",
+    "count": 1,
+    "ingredients": [
+      "cataclysm:cursium_ingot",
+      "cataclysm:cursium_ingot",
+      "",
+      "cataclysm:cursium_ingot",
+      "cataclysm:black_steel_ingot",
+      "",
+      "",
+      "cataclysm:black_steel_ingot",
+      ""
+    ]
+  },
+  "deeperdarker:sonorous_staff": {
+    "result": "deeperdarker:sonorous_staff",
+    "count": 1,
+    "ingredients": [
+      "",
+      "deeperdarker:soul_crystal",
+      "deeperdarker:heart_of_the_deep",
+      "",
+      "deeperdarker:sculk_bone",
+      "deeperdarker:soul_crystal",
+      "deeperdarker:sculk_bone",
+      "",
+      ""
+    ]
+  },
+  "deeperdarker:soul_elytra": {
+    "result": "deeperdarker:soul_elytra",
+    "count": 1,
+    "ingredients": [
+      "deeperdarker:sculk_bone",
+      "deeperdarker:soul_crystal",
+      "deeperdarker:sculk_bone",
+      "deeperdarker:soul_dust",
+      "minecraft:elytra",
+      "deeperdarker:soul_dust",
+      "deeperdarker:sculk_bone",
+      "",
+      "deeperdarker:sculk_bone"
+    ]
+  },
+  "deeperdarker:soundproof_glass": {
+    "result": "deeperdarker:soundproof_glass",
+    "count": 2,
+    "ingredients": [
+      "",
+      "deeperdarker:soul_dust",
+      "",
+      "deeperdarker:soul_dust",
+      "minecraft:glass",
+      "deeperdarker:soul_dust",
+      "",
+      "deeperdarker:soul_dust",
+      ""
+    ]
+  },
+  "dimstorage:solid_dim_core": {
+    "result": "dimstorage:solid_dim_core",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "dimstorage:dim_core",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "dysoncubeproject:solar_sail": {
+    "result": "dysoncubeproject:solar_sail",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:copper_ingot",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:copper_ingot",
+      "minecraft:glass",
+      "minecraft:lapis_lazuli",
+      "minecraft:copper_ingot",
+      "minecraft:lapis_lazuli"
+    ]
+  },
+  "dysoncubeproject:solar_sail_package": {
+    "result": "dysoncubeproject:solar_sail_package",
+    "count": 1,
+    "ingredients": [
+      "dysoncubeproject:solar_sail",
+      "dysoncubeproject:solar_sail",
+      "dysoncubeproject:solar_sail",
+      "dysoncubeproject:solar_sail",
+      "minecraft:iron",
+      "dysoncubeproject:solar_sail",
+      "dysoncubeproject:solar_sail",
+      "dysoncubeproject:solar_sail",
+      "dysoncubeproject:solar_sail"
+    ]
+  },
+  "enderio:soul_binder": {
+    "result": "enderio:soul_binder",
+    "count": 1,
+    "ingredients": [
+      "minecraft:soularium",
+      "enderio:soul_vial",
+      "minecraft:soularium",
+      "minecraft:energized",
+      "enderio:ensouled_chassis",
+      "minecraft:energized",
+      "minecraft:soularium",
+      "enderio:z_logic_controller",
+      "minecraft:soularium"
+    ]
+  },
+  "enderio:soul_engine": {
+    "result": "enderio:soul_engine",
+    "count": 1,
+    "ingredients": [
+      "minecraft:soularium",
+      "minecraft:quartz",
+      "minecraft:soularium",
+      "minecraft:bucket",
+      "enderio:ensouled_chassis",
+      "minecraft:bucket",
+      "minecraft:soularium",
+      "enderio:zombie_electrode",
+      "minecraft:soularium"
+    ]
+  },
+  "enderio:soularium_ingot": {
+    "result": "enderio:soularium_ingot",
+    "count": 4,
+    "ingredients": [
+      "mysticalagriculture:soularium_essence",
+      "mysticalagriculture:soularium_essence",
+      "mysticalagriculture:soularium_essence",
+      "mysticalagriculture:soularium_essence",
+      "",
+      "mysticalagriculture:soularium_essence",
+      "mysticalagriculture:soularium_essence",
+      "mysticalagriculture:soularium_essence",
+      "mysticalagriculture:soularium_essence"
+    ]
+  },
+  "enderio:soularium_grinding_ball": {
+    "result": "enderio:soularium_grinding_ball",
+    "count": 24,
+    "ingredients": [
+      "",
+      "minecraft:soularium",
+      "",
+      "minecraft:soularium",
+      "minecraft:soularium",
+      "minecraft:soularium",
+      "",
+      "minecraft:soularium",
+      ""
+    ]
+  },
+  "enderio:soularium_nugget": {
+    "result": "enderio:soularium_nugget",
+    "count": 9,
+    "ingredients": [
+      "enderio:soularium_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "enderio:soularium_pressure_plate": {
+    "result": "enderio:soularium_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:soularium",
+      "minecraft:soularium",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "enderio:soul_chain": {
+    "result": "enderio:soul_chain",
+    "count": 2,
+    "ingredients": [
+      "",
+      "minecraft:soularium",
+      "",
+      "minecraft:quartz",
+      "minecraft:soularium",
+      "minecraft:quartz",
+      "",
+      "minecraft:soularium",
+      ""
+    ]
+  },
+  "enderio:soul_vial": {
+    "result": "enderio:soul_vial",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:soularium",
+      "",
+      "minecraft:quartz",
+      "",
+      "minecraft:quartz",
+      "",
+      "minecraft:quartz",
+      ""
+    ]
+  },
+  "eternal_starlight:sonar_bomb": {
+    "result": "eternal_starlight:sonar_bomb",
+    "count": 12,
+    "ingredients": [
+      "",
+      "minecraft:deepsilver",
+      "",
+      "minecraft:deepsilver",
+      "eternal_starlight:shivering_gel",
+      "minecraft:deepsilver",
+      "",
+      "minecraft:deepsilver",
+      ""
+    ]
+  },
+  "eternal_starlight:soulit_spectator": {
+    "result": "eternal_starlight:soulit_spectator",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:soul_dew",
+      "eternal_starlight:nightfall_spider_eye",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "forbidden_arcanus:soulless_sandstone": {
+    "result": "forbidden_arcanus:soulless_sandstone",
+    "count": 1,
+    "ingredients": [
+      "forbidden_arcanus:soulless_sand",
+      "forbidden_arcanus:soulless_sand",
+      "",
+      "forbidden_arcanus:soulless_sand",
+      "forbidden_arcanus:soulless_sand",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "forbidden_arcanus:soulless_sandstone_slab": {
+    "result": "forbidden_arcanus:soulless_sandstone_slab",
+    "count": 6,
+    "ingredients": [
+      "forbidden_arcanus:soulless_sandstone",
+      "forbidden_arcanus:soulless_sandstone",
+      "forbidden_arcanus:soulless_sandstone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "forbidden_arcanus:soulless_sandstone_stairs": {
+    "result": "forbidden_arcanus:soulless_sandstone_stairs",
+    "count": 4,
+    "ingredients": [
+      "forbidden_arcanus:soulless_sandstone",
+      "",
+      "",
+      "forbidden_arcanus:soulless_sandstone",
+      "forbidden_arcanus:soulless_sandstone",
+      "",
+      "forbidden_arcanus:soulless_sandstone",
+      "forbidden_arcanus:soulless_sandstone",
+      "forbidden_arcanus:soulless_sandstone"
+    ]
+  },
+  "forbidden_arcanus:soulless_sandstone_wall": {
+    "result": "forbidden_arcanus:soulless_sandstone_wall",
+    "count": 6,
+    "ingredients": [
+      "forbidden_arcanus:soulless_sandstone",
+      "forbidden_arcanus:soulless_sandstone",
+      "forbidden_arcanus:soulless_sandstone",
+      "forbidden_arcanus:soulless_sandstone",
+      "forbidden_arcanus:soulless_sandstone",
+      "forbidden_arcanus:soulless_sandstone",
+      "",
+      "",
+      ""
+    ]
+  },
+  "forbidden_arcanus:soul_extractor": {
+    "result": "forbidden_arcanus:soul_extractor",
+    "count": 1,
+    "ingredients": [
+      "forbidden_arcanus:utrem_jar",
+      "",
+      "",
+      "minecraft:nether_bricks",
+      "minecraft:nether_bricks",
+      "minecraft:quartz_block",
+      "minecraft:quartz",
+      "",
+      ""
+    ]
+  },
+  "herbsandharvest:sour_cream": {
+    "result": "herbsandharvest:sour_cream",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bowl",
+      "minecraft:cream",
+      "minecraft:lemon",
+      "minecraft:milk",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:sorter": {
+    "result": "immersiveengineering:sorter",
+    "count": 1,
+    "ingredients": [
+      "immersiveengineering:component_iron",
+      "",
+      "",
+      "immersiveengineering:basic_engineering",
+      "",
+      "",
+      "immersiveengineering:conveyor_basic",
+      "",
+      ""
+    ]
+  },
+  "industrialforegoingsouls:soul_laser_base": {
+    "result": "industrialforegoingsouls:soul_laser_base",
+    "count": 1,
+    "ingredients": [
+      "minecraft:plastics",
+      "minecraft:sculk_shrieker",
+      "minecraft:plastics",
+      "minecraft:iron_bars",
+      "minecraft:advanced",
+      "minecraft:iron_bars",
+      "minecraft:diamond",
+      "minecraft:sculk_catalyst",
+      "minecraft:diamond"
+    ]
+  },
+  "industrialforegoingsouls:soul_network_pipe": {
+    "result": "industrialforegoingsouls:soul_network_pipe",
+    "count": 8,
+    "ingredients": [
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:plastics",
+      "minecraft:echo_shard",
+      "minecraft:plastics",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone"
+    ]
+  },
+  "industrialforegoingsouls:soul_surge": {
+    "result": "industrialforegoingsouls:soul_surge",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone",
+      "minecraft:plastics",
+      "minecraft:stone",
+      "minecraft:echo_shard",
+      "minecraft:plastics",
+      "minecraft:echo_shard",
+      "minecraft:echo_shard",
+      "minecraft:piston",
+      "minecraft:echo_shard"
+    ]
+  },
+  "mcwholidays:sock_doormat": {
+    "result": "mcwholidays:sock_doormat",
+    "count": 8,
+    "ingredients": [
+      "minecraft:brown_carpet",
+      "minecraft:brown_carpet",
+      "minecraft:brown_carpet",
+      "minecraft:brown_carpet",
+      "minecraft:red_dye",
+      "minecraft:brown_carpet",
+      "minecraft:brown_carpet",
+      "minecraft:brown_carpet",
+      "minecraft:brown_carpet"
+    ]
+  },
+  "mcwlights:soul_acacia_tiki_torch": {
+    "result": "mcwlights:soul_acacia_tiki_torch",
+    "count": 1,
+    "ingredients": [
+      "minecraft:soul_torch",
+      "",
+      "",
+      "minecraft:acacia_fence",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwlights:soul_bamboo_tiki_torch": {
+    "result": "mcwlights:soul_bamboo_tiki_torch",
+    "count": 1,
+    "ingredients": [
+      "minecraft:soul_torch",
+      "",
+      "",
+      "minecraft:bamboo",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwlights:soul_birch_tiki_torch": {
+    "result": "mcwlights:soul_birch_tiki_torch",
+    "count": 1,
+    "ingredients": [
+      "minecraft:soul_torch",
+      "",
+      "",
+      "minecraft:birch_fence",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwlights:soul_cherry_tiki_torch": {
+    "result": "mcwlights:soul_cherry_tiki_torch",
+    "count": 1,
+    "ingredients": [
+      "minecraft:soul_torch",
+      "",
+      "",
+      "minecraft:cherry_fence",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwlights:soul_classic_street_lamp": {
+    "result": "mcwlights:soul_classic_street_lamp",
+    "count": 3,
+    "ingredients": [
+      "minecraft:soul_lantern",
+      "",
+      "",
+      "minecraft:wooden_fences",
+      "",
+      "",
+      "minecraft:stone_brick_wall",
+      "",
+      ""
+    ]
+  },
+  "mcwlights:soul_crimson_tiki_torch": {
+    "result": "mcwlights:soul_crimson_tiki_torch",
+    "count": 1,
+    "ingredients": [
+      "minecraft:soul_torch",
+      "",
+      "",
+      "minecraft:crimson_fence",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwlights:soul_dark_oak_tiki_torch": {
+    "result": "mcwlights:soul_dark_oak_tiki_torch",
+    "count": 1,
+    "ingredients": [
+      "minecraft:soul_torch",
+      "",
+      "",
+      "minecraft:dark_oak_fence",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwlights:soul_double_street_lamp": {
+    "result": "mcwlights:soul_double_street_lamp",
+    "count": 3,
+    "ingredients": [
+      "minecraft:soul_lantern",
+      "minecraft:wooden_fences",
+      "minecraft:soul_lantern",
+      "",
+      "minecraft:wooden_fences",
+      "",
+      "",
+      "minecraft:stone_brick_wall",
+      ""
+    ]
+  },
+  "mcwlights:soul_jungle_tiki_torch": {
+    "result": "mcwlights:soul_jungle_tiki_torch",
+    "count": 1,
+    "ingredients": [
+      "minecraft:soul_torch",
+      "",
+      "",
+      "minecraft:jungle_fence",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwlights:soul_mangrove_tiki_torch": {
+    "result": "mcwlights:soul_mangrove_tiki_torch",
+    "count": 1,
+    "ingredients": [
+      "minecraft:soul_torch",
+      "",
+      "",
+      "minecraft:mangrove_fence",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwlights:soul_oak_tiki_torch": {
+    "result": "mcwlights:soul_oak_tiki_torch",
+    "count": 1,
+    "ingredients": [
+      "minecraft:soul_torch",
+      "",
+      "",
+      "minecraft:oak_fence",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwlights:soul_spruce_tiki_torch": {
+    "result": "mcwlights:soul_spruce_tiki_torch",
+    "count": 1,
+    "ingredients": [
+      "minecraft:soul_torch",
+      "",
+      "",
+      "minecraft:spruce_fence",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwlights:soul_warped_tiki_torch": {
+    "result": "mcwlights:soul_warped_tiki_torch",
+    "count": 1,
+    "ingredients": [
+      "minecraft:soul_torch",
+      "",
+      "",
+      "minecraft:warped_fence",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "megacells:soul_storage_cell_16m": {
+    "result": "megacells:soul_storage_cell_16m",
+    "count": 1,
+    "ingredients": [
+      "megacells:mega_soul_cell_housing",
+      "megacells:cell_component_16m",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "megacells:soul_storage_cell_1m": {
+    "result": "megacells:soul_storage_cell_1m",
+    "count": 1,
+    "ingredients": [
+      "megacells:mega_soul_cell_housing",
+      "megacells:cell_component_1m",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "megacells:soul_storage_cell_256m": {
+    "result": "megacells:soul_storage_cell_256m",
+    "count": 1,
+    "ingredients": [
+      "megacells:mega_soul_cell_housing",
+      "megacells:cell_component_256m",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "megacells:soul_storage_cell_4m": {
+    "result": "megacells:soul_storage_cell_4m",
+    "count": 1,
+    "ingredients": [
+      "megacells:mega_soul_cell_housing",
+      "megacells:cell_component_4m",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "megacells:soul_storage_cell_64m": {
+    "result": "megacells:soul_storage_cell_64m",
+    "count": 1,
+    "ingredients": [
+      "megacells:mega_soul_cell_housing",
+      "megacells:cell_component_64m",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "megacells:source_storage_cell_16m": {
+    "result": "megacells:source_storage_cell_16m",
+    "count": 1,
+    "ingredients": [
+      "megacells:mega_source_cell_housing",
+      "megacells:cell_component_16m",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "megacells:source_storage_cell_1m": {
+    "result": "megacells:source_storage_cell_1m",
+    "count": 1,
+    "ingredients": [
+      "megacells:mega_source_cell_housing",
+      "megacells:cell_component_1m",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "megacells:source_storage_cell_256m": {
+    "result": "megacells:source_storage_cell_256m",
+    "count": 1,
+    "ingredients": [
+      "megacells:mega_source_cell_housing",
+      "megacells:cell_component_256m",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "megacells:source_storage_cell_4m": {
+    "result": "megacells:source_storage_cell_4m",
+    "count": 1,
+    "ingredients": [
+      "megacells:mega_source_cell_housing",
+      "megacells:cell_component_4m",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "megacells:source_storage_cell_64m": {
+    "result": "megacells:source_storage_cell_64m",
+    "count": 1,
+    "ingredients": [
+      "megacells:mega_source_cell_housing",
+      "megacells:cell_component_64m",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mekanism:solar_neutron_activator": {
+    "result": "mekanism:solar_neutron_activator",
+    "count": 1,
+    "ingredients": [
+      "minecraft:reinforced",
+      "mekanism:hdpe_sheet",
+      "minecraft:reinforced",
+      "minecraft:elite",
+      "mekanism:steel_casing",
+      "minecraft:elite",
+      "modern_industrialization:bronze_ingot",
+      "modern_industrialization:bronze_ingot",
+      "modern_industrialization:bronze_ingot"
+    ]
+  },
+  "mekanismgenerators:solar_panel": {
+    "result": "mekanismgenerators:solar_panel",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:redstone",
+      "minecraft:infused",
+      "minecraft:redstone",
+      "minecraft:osmium",
+      "minecraft:osmium",
+      "minecraft:osmium"
+    ]
+  },
+  "mekanismgenerators:solar_generator": {
+    "result": "mekanismgenerators:solar_generator",
+    "count": 1,
+    "ingredients": [
+      "mekanismgenerators:solar_panel",
+      "mekanismgenerators:solar_panel",
+      "mekanismgenerators:solar_panel",
+      "minecraft:infused",
+      "minecraft:iron_ingot",
+      "minecraft:infused",
+      "minecraft:osmium",
+      "mekanism:energy_tablet",
+      "minecraft:osmium"
+    ]
+  },
+  "minecolonies:soysauce": {
+    "result": "minecolonies:soysauce",
+    "count": 1,
+    "ingredients": [
+      "minecolonies:soybean",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:soul_campfire": {
+    "result": "minecraft:soul_campfire",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "minecraft:stick",
+      "minecraft:soul_fire_base_blocks",
+      "minecraft:stick",
+      "minecraft:oak_log",
+      "minecraft:oak_log",
+      "minecraft:oak_log"
+    ]
+  },
+  "minecraft:soul_lantern": {
+    "result": "minecraft:soul_lantern",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_nugget",
+      "minecraft:iron_nugget",
+      "minecraft:iron_nugget",
+      "minecraft:iron_nugget",
+      "minecraft:soul_torch",
+      "minecraft:iron_nugget",
+      "minecraft:iron_nugget",
+      "minecraft:iron_nugget",
+      "minecraft:iron_nugget"
+    ]
+  },
+  "mob_grinding_utils:solid_xp_mould_baby": {
+    "result": "mob_grinding_utils:solid_xp_mould_baby",
+    "count": 1,
+    "ingredients": [
+      "mob_grinding_utils:solid_xp_mould_blank",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mob_grinding_utils:solid_xp_mould_blank": {
+    "result": "mob_grinding_utils:solid_xp_mould_blank",
+    "count": 1,
+    "ingredients": [
+      "mob_grinding_utils:solid_xp_mould_baby",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mob_grinding_utils:solid_xp_block": {
+    "result": "mob_grinding_utils:solid_xp_block",
+    "count": 1,
+    "ingredients": [
+      "mob_grinding_utils:solid_xp_baby",
+      "mob_grinding_utils:solid_xp_baby",
+      "mob_grinding_utils:solid_xp_baby",
+      "mob_grinding_utils:solid_xp_baby",
+      "mob_grinding_utils:solid_xp_baby",
+      "mob_grinding_utils:solid_xp_baby",
+      "mob_grinding_utils:solid_xp_baby",
+      "mob_grinding_utils:solid_xp_baby",
+      "mob_grinding_utils:solid_xp_baby"
+    ]
+  },
+  "mob_grinding_utils:solid_xp_baby": {
+    "result": "mob_grinding_utils:solid_xp_baby",
+    "count": 9,
+    "ingredients": [
+      "mob_grinding_utils:solid_xp_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:sodium_battery": {
+    "result": "modern_industrialization:sodium_battery",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:aluminum_cable",
+      "minecraft:battery_alloy",
+      "modern_industrialization:aluminum_cable",
+      "modern_industrialization:battery_alloy_curved_plate",
+      "minecraft:sodium",
+      "modern_industrialization:battery_alloy_curved_plate",
+      "modern_industrialization:battery_alloy_curved_plate",
+      "minecraft:sodium",
+      "modern_industrialization:battery_alloy_curved_plate"
+    ]
+  },
+  "modern_industrialization:solid_titanium_machine_casing": {
+    "result": "modern_industrialization:solid_titanium_machine_casing",
+    "count": 1,
+    "ingredients": [
+      "minecraft:titanium",
+      "minecraft:titanium",
+      "minecraft:titanium",
+      "minecraft:titanium",
+      "minecraft:titanium",
+      "minecraft:titanium",
+      "minecraft:titanium",
+      "minecraft:titanium",
+      "minecraft:titanium"
+    ]
+  },
+  "modern_industrialization:sodium_block": {
+    "result": "modern_industrialization:sodium_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:sodium",
+      "minecraft:sodium",
+      "minecraft:sodium",
+      "minecraft:sodium",
+      "modern_industrialization:sodium_dust",
+      "minecraft:sodium",
+      "minecraft:sodium",
+      "minecraft:sodium",
+      "minecraft:sodium"
+    ]
+  },
+  "modern_industrialization:sodium_dust": {
+    "result": "modern_industrialization:sodium_dust",
+    "count": 1,
+    "ingredients": [
+      "minecraft:sodium",
+      "minecraft:sodium",
+      "minecraft:sodium",
+      "minecraft:sodium",
+      "modern_industrialization:sodium_tiny_dust",
+      "minecraft:sodium",
+      "minecraft:sodium",
+      "minecraft:sodium",
+      "minecraft:sodium"
+    ]
+  },
+  "modern_industrialization:sodium_tiny_dust": {
+    "result": "modern_industrialization:sodium_tiny_dust",
+    "count": 9,
+    "ingredients": [
+      "modern_industrialization:sodium_dust",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:soldering_alloy_block": {
+    "result": "modern_industrialization:soldering_alloy_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:soldering_alloy",
+      "minecraft:soldering_alloy",
+      "minecraft:soldering_alloy",
+      "minecraft:soldering_alloy",
+      "modern_industrialization:soldering_alloy_dust",
+      "minecraft:soldering_alloy",
+      "minecraft:soldering_alloy",
+      "minecraft:soldering_alloy",
+      "minecraft:soldering_alloy"
+    ]
+  },
+  "modern_industrialization:soldering_alloy_dust": {
+    "result": "modern_industrialization:soldering_alloy_dust",
+    "count": 1,
+    "ingredients": [
+      "minecraft:soldering_alloy",
+      "minecraft:soldering_alloy",
+      "minecraft:soldering_alloy",
+      "minecraft:soldering_alloy",
+      "modern_industrialization:soldering_alloy_tiny_dust",
+      "minecraft:soldering_alloy",
+      "minecraft:soldering_alloy",
+      "minecraft:soldering_alloy",
+      "minecraft:soldering_alloy"
+    ]
+  },
+  "modern_industrialization:soldering_alloy_tiny_dust": {
+    "result": "modern_industrialization:soldering_alloy_tiny_dust",
+    "count": 9,
+    "ingredients": [
+      "modern_industrialization:soldering_alloy_dust",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "morered:soldering_table": {
+    "result": "morered:soldering_table",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:red_nether_bricks",
+      "minecraft:blaze",
+      "minecraft:red_nether_bricks",
+      "minecraft:red_nether_bricks",
+      "minecraft:blaze",
+      "minecraft:red_nether_bricks"
+    ]
+  },
+  "mysticalagriculture:soulium_block": {
+    "result": "mysticalagriculture:soulium_block",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:soulium_dust",
+      "mysticalagriculture:soulium_dust",
+      "mysticalagriculture:soulium_dust",
+      "mysticalagriculture:soulium_dust",
+      "mysticalagriculture:soulium_dust",
+      "mysticalagriculture:soulium_dust",
+      "mysticalagriculture:soulium_dust",
+      "mysticalagriculture:soulium_dust",
+      "mysticalagriculture:soulium_dust"
+    ]
+  },
+  "mysticalagriculture:soulium_dust": {
+    "result": "mysticalagriculture:soulium_dust",
+    "count": 4,
+    "ingredients": [
+      "mysticalagriculture:soulium_essence",
+      "mysticalagriculture:soulium_essence",
+      "mysticalagriculture:soulium_essence",
+      "mysticalagriculture:soulium_essence",
+      "",
+      "mysticalagriculture:soulium_essence",
+      "mysticalagriculture:soulium_essence",
+      "mysticalagriculture:soulium_essence",
+      "mysticalagriculture:soulium_essence"
+    ]
+  },
+  "mysticalagriculture:soulium_gemstone": {
+    "result": "mysticalagriculture:soulium_gemstone",
+    "count": 9,
+    "ingredients": [
+      "mysticalagriculture:soulium_gemstone_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mysticalagriculture:soulium_gemstone_block": {
+    "result": "mysticalagriculture:soulium_gemstone_block",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:soulium_gemstone",
+      "mysticalagriculture:soulium_gemstone",
+      "mysticalagriculture:soulium_gemstone",
+      "mysticalagriculture:soulium_gemstone",
+      "mysticalagriculture:soulium_gemstone",
+      "mysticalagriculture:soulium_gemstone",
+      "mysticalagriculture:soulium_gemstone",
+      "mysticalagriculture:soulium_gemstone",
+      "mysticalagriculture:soulium_gemstone"
+    ]
+  },
+  "mysticalagriculture:soulium_ingot": {
+    "result": "mysticalagriculture:soulium_ingot",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:soulium_nugget",
+      "mysticalagriculture:soulium_nugget",
+      "mysticalagriculture:soulium_nugget",
+      "mysticalagriculture:soulium_nugget",
+      "mysticalagriculture:soulium_nugget",
+      "mysticalagriculture:soulium_nugget",
+      "mysticalagriculture:soulium_nugget",
+      "mysticalagriculture:soulium_nugget",
+      "mysticalagriculture:soulium_nugget"
+    ]
+  },
+  "mysticalagriculture:soulium_ingot_block": {
+    "result": "mysticalagriculture:soulium_ingot_block",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:soulium_ingot",
+      "mysticalagriculture:soulium_ingot",
+      "mysticalagriculture:soulium_ingot",
+      "mysticalagriculture:soulium_ingot",
+      "mysticalagriculture:soulium_ingot",
+      "mysticalagriculture:soulium_ingot",
+      "mysticalagriculture:soulium_ingot",
+      "mysticalagriculture:soulium_ingot",
+      "mysticalagriculture:soulium_ingot"
+    ]
+  },
+  "mysticalagriculture:soulium_nugget": {
+    "result": "mysticalagriculture:soulium_nugget",
+    "count": 9,
+    "ingredients": [
+      "mysticalagriculture:soulium_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mysticalagriculture:soulium_seed_base": {
+    "result": "mysticalagriculture:soulium_seed_base",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:prosperity_seed_base",
+      "mysticalagriculture:soulium_dust",
+      "mysticalagriculture:soulium_dust",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mysticalagriculture:soulium_spawner": {
+    "result": "mysticalagriculture:soulium_spawner",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "mysticalagriculture:soulium_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:wither_skeleton_skull",
+      "mysticalagriculture:machine_frame",
+      "minecraft:wither_skeleton_skull",
+      "minecraft:iron_ingot",
+      "mysticalagriculture:soulium_ingot",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "mysticalagriculture:soulstone_bricks": {
+    "result": "mysticalagriculture:soulstone_bricks",
+    "count": 4,
+    "ingredients": [
+      "mysticalagriculture:soulstone",
+      "mysticalagriculture:soulstone",
+      "",
+      "mysticalagriculture:soulstone",
+      "mysticalagriculture:soulstone",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mysticalagriculture:soulstone_bricks_slab": {
+    "result": "mysticalagriculture:soulstone_bricks_slab",
+    "count": 6,
+    "ingredients": [
+      "mysticalagriculture:soulstone_bricks",
+      "mysticalagriculture:soulstone_bricks",
+      "mysticalagriculture:soulstone_bricks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mysticalagriculture:soulstone_bricks_stairs": {
+    "result": "mysticalagriculture:soulstone_bricks_stairs",
+    "count": 4,
+    "ingredients": [
+      "mysticalagriculture:soulstone_bricks",
+      "",
+      "",
+      "mysticalagriculture:soulstone_bricks",
+      "mysticalagriculture:soulstone_bricks",
+      "",
+      "mysticalagriculture:soulstone_bricks",
+      "mysticalagriculture:soulstone_bricks",
+      "mysticalagriculture:soulstone_bricks"
+    ]
+  },
+  "mysticalagriculture:soulstone_bricks_wall": {
+    "result": "mysticalagriculture:soulstone_bricks_wall",
+    "count": 6,
+    "ingredients": [
+      "mysticalagriculture:soulstone_bricks",
+      "mysticalagriculture:soulstone_bricks",
+      "mysticalagriculture:soulstone_bricks",
+      "mysticalagriculture:soulstone_bricks",
+      "mysticalagriculture:soulstone_bricks",
+      "mysticalagriculture:soulstone_bricks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mysticalagriculture:soulstone_cobble_slab": {
+    "result": "mysticalagriculture:soulstone_cobble_slab",
+    "count": 6,
+    "ingredients": [
+      "mysticalagriculture:soulstone_cobble",
+      "mysticalagriculture:soulstone_cobble",
+      "mysticalagriculture:soulstone_cobble",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mysticalagriculture:soulstone_cobble_stairs": {
+    "result": "mysticalagriculture:soulstone_cobble_stairs",
+    "count": 4,
+    "ingredients": [
+      "mysticalagriculture:soulstone_cobble",
+      "",
+      "",
+      "mysticalagriculture:soulstone_cobble",
+      "mysticalagriculture:soulstone_cobble",
+      "",
+      "mysticalagriculture:soulstone_cobble",
+      "mysticalagriculture:soulstone_cobble",
+      "mysticalagriculture:soulstone_cobble"
+    ]
+  },
+  "mysticalagriculture:soulstone_cobble_wall": {
+    "result": "mysticalagriculture:soulstone_cobble_wall",
+    "count": 6,
+    "ingredients": [
+      "mysticalagriculture:soulstone_cobble",
+      "mysticalagriculture:soulstone_cobble",
+      "mysticalagriculture:soulstone_cobble",
+      "mysticalagriculture:soulstone_cobble",
+      "mysticalagriculture:soulstone_cobble",
+      "mysticalagriculture:soulstone_cobble",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mysticalagriculture:soulstone_slab": {
+    "result": "mysticalagriculture:soulstone_slab",
+    "count": 6,
+    "ingredients": [
+      "mysticalagriculture:soulstone",
+      "mysticalagriculture:soulstone",
+      "mysticalagriculture:soulstone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mysticalagriculture:soulstone_smooth_slab": {
+    "result": "mysticalagriculture:soulstone_smooth_slab",
+    "count": 6,
+    "ingredients": [
+      "mysticalagriculture:soulstone_smooth",
+      "mysticalagriculture:soulstone_smooth",
+      "mysticalagriculture:soulstone_smooth",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mysticalagriculture:soulstone_stairs": {
+    "result": "mysticalagriculture:soulstone_stairs",
+    "count": 4,
+    "ingredients": [
+      "mysticalagriculture:soulstone",
+      "",
+      "",
+      "mysticalagriculture:soulstone",
+      "mysticalagriculture:soulstone",
+      "",
+      "mysticalagriculture:soulstone",
+      "mysticalagriculture:soulstone",
+      "mysticalagriculture:soulstone"
+    ]
+  },
+  "mysticalagriculture:soul_extractor": {
+    "result": "mysticalagriculture:soul_extractor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "mysticalagriculture:soulium_ingot",
+      "minecraft:iron_ingot",
+      "mysticalagriculture:soulium_dagger",
+      "mysticalagriculture:machine_frame",
+      "mysticalagriculture:soulium_dagger",
+      "minecraft:iron_ingot",
+      "mysticalagriculture:soulium_ingot",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "mysticalagriculture:soul_glass": {
+    "result": "mysticalagriculture:soul_glass",
+    "count": 1,
+    "ingredients": [
+      "",
+      "mysticalagriculture:soul_dust",
+      "",
+      "mysticalagriculture:soul_dust",
+      "minecraft:glass",
+      "mysticalagriculture:soul_dust",
+      "",
+      "mysticalagriculture:soul_dust",
+      ""
+    ]
+  },
+  "mysticalagriculture:soul_jar": {
+    "result": "mysticalagriculture:soul_jar",
+    "count": 1,
+    "ingredients": [
+      "",
+      "mysticalagriculture:soulium_ingot",
+      "",
+      "mysticalagriculture:soul_glass",
+      "",
+      "mysticalagriculture:soul_glass",
+      "",
+      "mysticalagriculture:soul_glass",
+      ""
+    ]
+  },
+  "pamhc2crops:sorghumseeditem": {
+    "result": "pamhc2crops:sorghumseeditem",
+    "count": 1,
+    "ingredients": [
+      "pamhc2crops:sorghumitem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2crops:soybeanseeditem": {
+    "result": "pamhc2crops:soybeanseeditem",
+    "count": 1,
+    "ingredients": [
+      "pamhc2crops:soybeanitem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:softpretzelitem": {
+    "result": "pamhc2foodcore:softpretzelitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:dough",
+      "minecraft:salt",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:sorbetitem": {
+    "result": "pamhc2foodextended:sorbetitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:fruits",
+      "minecraft:ices",
+      "minecraft:sugar",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:sourcreamandonionpotatochipsitem": {
+    "result": "pamhc2foodextended:sourcreamandonionpotatochipsitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:onion",
+      "minecraft:cream",
+      "minecraft:potato",
+      "minecraft:cookingoil",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:soursopjellyitem": {
+    "result": "pamhc2foodextended:soursopjellyitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:soursop",
+      "minecraft:sugar",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:soursopjellysandwichitem": {
+    "result": "pamhc2foodextended:soursopjellysandwichitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:soursopjelly",
+      "minecraft:bread",
+      "minecraft:nutbutters",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:soursopjellytoastitem": {
+    "result": "pamhc2foodextended:soursopjellytoastitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:soursopjelly",
+      "minecraft:toast",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:soursopjuiceitem": {
+    "result": "pamhc2foodextended:soursopjuiceitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_juicer",
+      "minecraft:soursop",
+      "minecraft:soursop",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:soursoppieitem": {
+    "result": "pamhc2foodextended:soursoppieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:soursop",
+      "minecraft:sugar",
+      "minecraft:dough",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:soursopsmoothieitem": {
+    "result": "pamhc2foodextended:soursopsmoothieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:soursop",
+      "minecraft:ices",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:soursopyogurtitem": {
+    "result": "pamhc2foodextended:soursopyogurtitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:soursop",
+      "minecraft:yogurt",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:southernstylebreakfastitem": {
+    "result": "pamhc2foodextended:southernstylebreakfastitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "pamhc2foodextended:gritsitem",
+      "pamhc2foodextended:biscuititem",
+      "minecraft:rawpork",
+      "minecraft:egg",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:soymilkitem": {
+    "result": "pamhc2foodextended:soymilkitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:soybean",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:soysauceitem": {
+    "result": "pamhc2foodextended:soysauceitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_juicer",
+      "minecraft:soybean",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2trees:soursop_sapling": {
+    "result": "pamhc2trees:soursop_sapling",
+    "count": 1,
+    "ingredients": [
+      "pamhc2trees:soursopitem",
+      "pamhc2trees:soursopitem",
+      "pamhc2trees:soursopitem",
+      "pamhc2trees:soursopitem",
+      "pamhc2trees:soursopitem",
+      "pamhc2trees:soursopitem",
+      "pamhc2trees:soursopitem",
+      "pamhc2trees:soursopitem",
+      "minecraft:saplings"
+    ]
+  },
+  "pneumaticcraft:solar_compressor": {
+    "result": "pneumaticcraft:solar_compressor",
+    "count": 1,
+    "ingredients": [
+      "pneumaticcraft:solar_cell",
+      "pneumaticcraft:solar_cell",
+      "pneumaticcraft:solar_cell",
+      "pneumaticcraft:printed_circuit_board",
+      "pneumaticcraft:compressed_iron_gear",
+      "pneumaticcraft:printed_circuit_board",
+      "pneumaticcraft:advanced_pressure_tube",
+      "pneumaticcraft:compressed_iron_block",
+      "pneumaticcraft:advanced_pressure_tube"
+    ]
+  },
+  "powah:solar_panel_basic": {
+    "result": "powah:solar_panel_basic",
+    "count": 1,
+    "ingredients": [
+      "powah:solar_panel_starter",
+      "powah:solar_panel_starter",
+      "powah:solar_panel_starter",
+      "powah:capacitor_basic",
+      "powah:dielectric_casing",
+      "powah:capacitor_basic",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "powah:solar_panel_blazing": {
+    "result": "powah:solar_panel_blazing",
+    "count": 1,
+    "ingredients": [
+      "powah:solar_panel_hardened",
+      "powah:solar_panel_hardened",
+      "powah:solar_panel_hardened",
+      "powah:capacitor_blazing",
+      "powah:dielectric_casing",
+      "powah:capacitor_blazing",
+      "powah:crystal_blazing",
+      "powah:crystal_blazing",
+      "powah:crystal_blazing"
+    ]
+  },
+  "powah:solar_panel_hardened": {
+    "result": "powah:solar_panel_hardened",
+    "count": 1,
+    "ingredients": [
+      "powah:solar_panel_basic",
+      "powah:solar_panel_basic",
+      "powah:solar_panel_basic",
+      "powah:capacitor_hardened",
+      "powah:dielectric_casing",
+      "powah:capacitor_hardened",
+      "powah:steel_energized",
+      "powah:steel_energized",
+      "powah:steel_energized"
+    ]
+  },
+  "powah:solar_panel_niotic": {
+    "result": "powah:solar_panel_niotic",
+    "count": 1,
+    "ingredients": [
+      "powah:solar_panel_blazing",
+      "powah:solar_panel_blazing",
+      "powah:solar_panel_blazing",
+      "powah:capacitor_niotic",
+      "powah:dielectric_casing",
+      "powah:capacitor_niotic",
+      "powah:crystal_niotic",
+      "powah:crystal_niotic",
+      "powah:crystal_niotic"
+    ]
+  },
+  "powah:solar_panel_nitro": {
+    "result": "powah:solar_panel_nitro",
+    "count": 1,
+    "ingredients": [
+      "powah:solar_panel_spirited",
+      "powah:solar_panel_spirited",
+      "powah:solar_panel_spirited",
+      "powah:capacitor_nitro",
+      "powah:dielectric_casing",
+      "powah:capacitor_nitro",
+      "powah:crystal_nitro",
+      "powah:crystal_nitro",
+      "powah:crystal_nitro"
+    ]
+  },
+  "powah:solar_panel_spirited": {
+    "result": "powah:solar_panel_spirited",
+    "count": 1,
+    "ingredients": [
+      "powah:solar_panel_niotic",
+      "powah:solar_panel_niotic",
+      "powah:solar_panel_niotic",
+      "powah:capacitor_spirited",
+      "powah:dielectric_casing",
+      "powah:capacitor_spirited",
+      "powah:crystal_spirited",
+      "powah:crystal_spirited",
+      "powah:crystal_spirited"
+    ]
+  },
+  "powah:solar_panel_starter": {
+    "result": "powah:solar_panel_starter",
+    "count": 1,
+    "ingredients": [
+      "powah:photoelectric_pane",
+      "powah:photoelectric_pane",
+      "powah:photoelectric_pane",
+      "powah:capacitor_basic_tiny",
+      "powah:dielectric_casing",
+      "powah:capacitor_basic_tiny",
+      "powah:dielectric_paste",
+      "powah:dielectric_paste",
+      "powah:dielectric_paste"
+    ]
+  },
+  "productivebees:soul_sand_nest": {
+    "result": "productivebees:soul_sand_nest",
+    "count": 1,
+    "ingredients": [
+      "productivebees:soul_sand_nest",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:socotra_dragon_bookshelf": {
+    "result": "productivetrees:socotra_dragon_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:socotra_dragon_planks",
+      "productivetrees:socotra_dragon_planks",
+      "productivetrees:socotra_dragon_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:socotra_dragon_planks",
+      "productivetrees:socotra_dragon_planks",
+      "productivetrees:socotra_dragon_planks"
+    ]
+  },
+  "productivetrees:soul_tree_bookshelf": {
+    "result": "productivetrees:soul_tree_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:soul_tree_planks",
+      "productivetrees:soul_tree_planks",
+      "productivetrees:soul_tree_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:soul_tree_planks",
+      "productivetrees:soul_tree_planks",
+      "productivetrees:soul_tree_planks"
+    ]
+  },
+  "productivetrees:soursop_bookshelf": {
+    "result": "productivetrees:soursop_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:soursop_planks",
+      "productivetrees:soursop_planks",
+      "productivetrees:soursop_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:soursop_planks",
+      "productivetrees:soursop_planks",
+      "productivetrees:soursop_planks"
+    ]
+  },
+  "productivetrees:sour_cherry_bookshelf": {
+    "result": "productivetrees:sour_cherry_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:sour_cherry_planks",
+      "productivetrees:sour_cherry_planks",
+      "productivetrees:sour_cherry_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:sour_cherry_planks",
+      "productivetrees:sour_cherry_planks",
+      "productivetrees:sour_cherry_planks"
+    ]
+  },
+  "productivetrees:socotra_dragon_button": {
+    "result": "productivetrees:socotra_dragon_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:socotra_dragon_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:soul_tree_button": {
+    "result": "productivetrees:soul_tree_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:soul_tree_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:soursop_button": {
+    "result": "productivetrees:soursop_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:soursop_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sour_cherry_button": {
+    "result": "productivetrees:sour_cherry_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:sour_cherry_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:soursop_crate": {
+    "result": "productivetrees:soursop_crate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:soursop",
+      "minecraft:soursop",
+      "minecraft:soursop",
+      "minecraft:soursop",
+      "productivetrees:soursop",
+      "minecraft:soursop",
+      "minecraft:soursop",
+      "minecraft:soursop",
+      "minecraft:soursop"
+    ]
+  },
+  "productivetrees:soursop": {
+    "result": "productivetrees:soursop",
+    "count": 9,
+    "ingredients": [
+      "productivetrees:soursop_crate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sour_cherry_crate": {
+    "result": "productivetrees:sour_cherry_crate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:sour_cherry",
+      "minecraft:sour_cherry",
+      "minecraft:sour_cherry",
+      "minecraft:sour_cherry",
+      "productivetrees:sour_cherry",
+      "minecraft:sour_cherry",
+      "minecraft:sour_cherry",
+      "minecraft:sour_cherry",
+      "minecraft:sour_cherry"
+    ]
+  },
+  "productivetrees:sour_cherry": {
+    "result": "productivetrees:sour_cherry",
+    "count": 9,
+    "ingredients": [
+      "productivetrees:sour_cherry_crate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:socotra_dragon_door": {
+    "result": "productivetrees:socotra_dragon_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:socotra_dragon_planks",
+      "productivetrees:socotra_dragon_planks",
+      "",
+      "productivetrees:socotra_dragon_planks",
+      "productivetrees:socotra_dragon_planks",
+      "",
+      "productivetrees:socotra_dragon_planks",
+      "productivetrees:socotra_dragon_planks",
+      ""
+    ]
+  },
+  "productivetrees:soul_tree_door": {
+    "result": "productivetrees:soul_tree_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:soul_tree_planks",
+      "productivetrees:soul_tree_planks",
+      "",
+      "productivetrees:soul_tree_planks",
+      "productivetrees:soul_tree_planks",
+      "",
+      "productivetrees:soul_tree_planks",
+      "productivetrees:soul_tree_planks",
+      ""
+    ]
+  },
+  "productivetrees:soursop_door": {
+    "result": "productivetrees:soursop_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:soursop_planks",
+      "productivetrees:soursop_planks",
+      "",
+      "productivetrees:soursop_planks",
+      "productivetrees:soursop_planks",
+      "",
+      "productivetrees:soursop_planks",
+      "productivetrees:soursop_planks",
+      ""
+    ]
+  },
+  "productivetrees:sour_cherry_door": {
+    "result": "productivetrees:sour_cherry_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:sour_cherry_planks",
+      "productivetrees:sour_cherry_planks",
+      "",
+      "productivetrees:sour_cherry_planks",
+      "productivetrees:sour_cherry_planks",
+      "",
+      "productivetrees:sour_cherry_planks",
+      "productivetrees:sour_cherry_planks",
+      ""
+    ]
+  },
+  "productivetrees:socotra_dragon_fence": {
+    "result": "productivetrees:socotra_dragon_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:socotra_dragon_planks",
+      "minecraft:stick",
+      "productivetrees:socotra_dragon_planks",
+      "productivetrees:socotra_dragon_planks",
+      "minecraft:stick",
+      "productivetrees:socotra_dragon_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:soul_tree_fence": {
+    "result": "productivetrees:soul_tree_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:soul_tree_planks",
+      "minecraft:stick",
+      "productivetrees:soul_tree_planks",
+      "productivetrees:soul_tree_planks",
+      "minecraft:stick",
+      "productivetrees:soul_tree_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:soursop_fence": {
+    "result": "productivetrees:soursop_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:soursop_planks",
+      "minecraft:stick",
+      "productivetrees:soursop_planks",
+      "productivetrees:soursop_planks",
+      "minecraft:stick",
+      "productivetrees:soursop_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sour_cherry_fence": {
+    "result": "productivetrees:sour_cherry_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:sour_cherry_planks",
+      "minecraft:stick",
+      "productivetrees:sour_cherry_planks",
+      "productivetrees:sour_cherry_planks",
+      "minecraft:stick",
+      "productivetrees:sour_cherry_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:socotra_dragon_fence_gate": {
+    "result": "productivetrees:socotra_dragon_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:socotra_dragon_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:socotra_dragon_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:soul_tree_fence_gate": {
+    "result": "productivetrees:soul_tree_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:soul_tree_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:soul_tree_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:soursop_fence_gate": {
+    "result": "productivetrees:soursop_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:soursop_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:soursop_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sour_cherry_fence_gate": {
+    "result": "productivetrees:sour_cherry_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:sour_cherry_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:sour_cherry_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:socotra_dragon_hanging_sign": {
+    "result": "productivetrees:socotra_dragon_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:socotra_dragon_planks",
+      "productivetrees:socotra_dragon_planks",
+      "productivetrees:socotra_dragon_planks",
+      "productivetrees:socotra_dragon_planks",
+      "productivetrees:socotra_dragon_planks",
+      "productivetrees:socotra_dragon_planks"
+    ]
+  },
+  "productivetrees:soul_tree_hanging_sign": {
+    "result": "productivetrees:soul_tree_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:soul_tree_planks",
+      "productivetrees:soul_tree_planks",
+      "productivetrees:soul_tree_planks",
+      "productivetrees:soul_tree_planks",
+      "productivetrees:soul_tree_planks",
+      "productivetrees:soul_tree_planks"
+    ]
+  },
+  "productivetrees:soursop_hanging_sign": {
+    "result": "productivetrees:soursop_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:soursop_planks",
+      "productivetrees:soursop_planks",
+      "productivetrees:soursop_planks",
+      "productivetrees:soursop_planks",
+      "productivetrees:soursop_planks",
+      "productivetrees:soursop_planks"
+    ]
+  },
+  "productivetrees:sour_cherry_hanging_sign": {
+    "result": "productivetrees:sour_cherry_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:sour_cherry_planks",
+      "productivetrees:sour_cherry_planks",
+      "productivetrees:sour_cherry_planks",
+      "productivetrees:sour_cherry_planks",
+      "productivetrees:sour_cherry_planks",
+      "productivetrees:sour_cherry_planks"
+    ]
+  },
+  "productivetrees:socotra_dragon_planks": {
+    "result": "productivetrees:socotra_dragon_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:soul_tree_planks": {
+    "result": "productivetrees:soul_tree_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:soursop_planks": {
+    "result": "productivetrees:soursop_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sour_cherry_planks": {
+    "result": "productivetrees:sour_cherry_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:socotra_dragon_pressure_plate": {
+    "result": "productivetrees:socotra_dragon_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:socotra_dragon_planks",
+      "productivetrees:socotra_dragon_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:soul_tree_pressure_plate": {
+    "result": "productivetrees:soul_tree_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:soul_tree_planks",
+      "productivetrees:soul_tree_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:soursop_pressure_plate": {
+    "result": "productivetrees:soursop_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:soursop_planks",
+      "productivetrees:soursop_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sour_cherry_pressure_plate": {
+    "result": "productivetrees:sour_cherry_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:sour_cherry_planks",
+      "productivetrees:sour_cherry_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:socotra_dragon_sign": {
+    "result": "productivetrees:socotra_dragon_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:socotra_dragon_planks",
+      "productivetrees:socotra_dragon_planks",
+      "productivetrees:socotra_dragon_planks",
+      "productivetrees:socotra_dragon_planks",
+      "productivetrees:socotra_dragon_planks",
+      "productivetrees:socotra_dragon_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:soul_tree_sign": {
+    "result": "productivetrees:soul_tree_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:soul_tree_planks",
+      "productivetrees:soul_tree_planks",
+      "productivetrees:soul_tree_planks",
+      "productivetrees:soul_tree_planks",
+      "productivetrees:soul_tree_planks",
+      "productivetrees:soul_tree_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:soursop_sign": {
+    "result": "productivetrees:soursop_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:soursop_planks",
+      "productivetrees:soursop_planks",
+      "productivetrees:soursop_planks",
+      "productivetrees:soursop_planks",
+      "productivetrees:soursop_planks",
+      "productivetrees:soursop_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:sour_cherry_sign": {
+    "result": "productivetrees:sour_cherry_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:sour_cherry_planks",
+      "productivetrees:sour_cherry_planks",
+      "productivetrees:sour_cherry_planks",
+      "productivetrees:sour_cherry_planks",
+      "productivetrees:sour_cherry_planks",
+      "productivetrees:sour_cherry_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:socotra_dragon_slab": {
+    "result": "productivetrees:socotra_dragon_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:socotra_dragon_planks",
+      "productivetrees:socotra_dragon_planks",
+      "productivetrees:socotra_dragon_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:soul_tree_slab": {
+    "result": "productivetrees:soul_tree_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:soul_tree_planks",
+      "productivetrees:soul_tree_planks",
+      "productivetrees:soul_tree_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:soursop_slab": {
+    "result": "productivetrees:soursop_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:soursop_planks",
+      "productivetrees:soursop_planks",
+      "productivetrees:soursop_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sour_cherry_slab": {
+    "result": "productivetrees:sour_cherry_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:sour_cherry_planks",
+      "productivetrees:sour_cherry_planks",
+      "productivetrees:sour_cherry_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:socotra_dragon_stairs": {
+    "result": "productivetrees:socotra_dragon_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:socotra_dragon_planks",
+      "",
+      "",
+      "productivetrees:socotra_dragon_planks",
+      "productivetrees:socotra_dragon_planks",
+      "",
+      "productivetrees:socotra_dragon_planks",
+      "productivetrees:socotra_dragon_planks",
+      "productivetrees:socotra_dragon_planks"
+    ]
+  },
+  "productivetrees:soul_tree_stairs": {
+    "result": "productivetrees:soul_tree_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:soul_tree_planks",
+      "",
+      "",
+      "productivetrees:soul_tree_planks",
+      "productivetrees:soul_tree_planks",
+      "",
+      "productivetrees:soul_tree_planks",
+      "productivetrees:soul_tree_planks",
+      "productivetrees:soul_tree_planks"
+    ]
+  },
+  "productivetrees:soursop_stairs": {
+    "result": "productivetrees:soursop_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:soursop_planks",
+      "",
+      "",
+      "productivetrees:soursop_planks",
+      "productivetrees:soursop_planks",
+      "",
+      "productivetrees:soursop_planks",
+      "productivetrees:soursop_planks",
+      "productivetrees:soursop_planks"
+    ]
+  },
+  "productivetrees:sour_cherry_stairs": {
+    "result": "productivetrees:sour_cherry_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:sour_cherry_planks",
+      "",
+      "",
+      "productivetrees:sour_cherry_planks",
+      "productivetrees:sour_cherry_planks",
+      "",
+      "productivetrees:sour_cherry_planks",
+      "productivetrees:sour_cherry_planks",
+      "productivetrees:sour_cherry_planks"
+    ]
+  },
+  "productivetrees:socotra_dragon_trapdoor": {
+    "result": "productivetrees:socotra_dragon_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:socotra_dragon_planks",
+      "productivetrees:socotra_dragon_planks",
+      "productivetrees:socotra_dragon_planks",
+      "productivetrees:socotra_dragon_planks",
+      "productivetrees:socotra_dragon_planks",
+      "productivetrees:socotra_dragon_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:soul_tree_trapdoor": {
+    "result": "productivetrees:soul_tree_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:soul_tree_planks",
+      "productivetrees:soul_tree_planks",
+      "productivetrees:soul_tree_planks",
+      "productivetrees:soul_tree_planks",
+      "productivetrees:soul_tree_planks",
+      "productivetrees:soul_tree_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:soursop_trapdoor": {
+    "result": "productivetrees:soursop_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:soursop_planks",
+      "productivetrees:soursop_planks",
+      "productivetrees:soursop_planks",
+      "productivetrees:soursop_planks",
+      "productivetrees:soursop_planks",
+      "productivetrees:soursop_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sour_cherry_trapdoor": {
+    "result": "productivetrees:sour_cherry_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:sour_cherry_planks",
+      "productivetrees:sour_cherry_planks",
+      "productivetrees:sour_cherry_planks",
+      "productivetrees:sour_cherry_planks",
+      "productivetrees:sour_cherry_planks",
+      "productivetrees:sour_cherry_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:socotra_dragon_wood": {
+    "result": "productivetrees:socotra_dragon_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:socotra_dragon_log",
+      "productivetrees:socotra_dragon_log",
+      "",
+      "productivetrees:socotra_dragon_log",
+      "productivetrees:socotra_dragon_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:soul_tree_wood": {
+    "result": "productivetrees:soul_tree_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:soul_tree_log",
+      "productivetrees:soul_tree_log",
+      "",
+      "productivetrees:soul_tree_log",
+      "productivetrees:soul_tree_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:soursop_wood": {
+    "result": "productivetrees:soursop_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:soursop_log",
+      "productivetrees:soursop_log",
+      "",
+      "productivetrees:soursop_log",
+      "productivetrees:soursop_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sour_cherry_wood": {
+    "result": "productivetrees:sour_cherry_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:sour_cherry_log",
+      "productivetrees:sour_cherry_log",
+      "",
+      "productivetrees:sour_cherry_log",
+      "productivetrees:sour_cherry_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:solid_fueled_firebox": {
+    "result": "railcraft:solid_fueled_firebox",
+    "count": 1,
+    "ingredients": [
+      "minecraft:nether_brick",
+      "minecraft:nether_brick",
+      "minecraft:nether_brick",
+      "minecraft:nether_brick",
+      "minecraft:fire_charge",
+      "minecraft:nether_brick",
+      "minecraft:nether_brick",
+      "minecraft:furnace",
+      "minecraft:nether_brick"
+    ]
+  },
+  "regions_unexplored:socotra_boat": {
+    "result": "regions_unexplored:socotra_boat",
+    "count": 1,
+    "ingredients": [
+      "regions_unexplored:socotra_planks",
+      "",
+      "regions_unexplored:socotra_planks",
+      "regions_unexplored:socotra_planks",
+      "regions_unexplored:socotra_planks",
+      "regions_unexplored:socotra_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:socotra_branch": {
+    "result": "regions_unexplored:socotra_branch",
+    "count": 2,
+    "ingredients": [
+      "regions_unexplored:socotra_log",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:socotra_button": {
+    "result": "regions_unexplored:socotra_button",
+    "count": 1,
+    "ingredients": [
+      "regions_unexplored:socotra_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:socotra_chest_boat": {
+    "result": "regions_unexplored:socotra_chest_boat",
+    "count": 1,
+    "ingredients": [
+      "minecraft:chest",
+      "regions_unexplored:socotra_boat",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:socotra_door": {
+    "result": "regions_unexplored:socotra_door",
+    "count": 3,
+    "ingredients": [
+      "regions_unexplored:socotra_planks",
+      "regions_unexplored:socotra_planks",
+      "",
+      "regions_unexplored:socotra_planks",
+      "regions_unexplored:socotra_planks",
+      "",
+      "regions_unexplored:socotra_planks",
+      "regions_unexplored:socotra_planks",
+      ""
+    ]
+  },
+  "regions_unexplored:socotra_fence": {
+    "result": "regions_unexplored:socotra_fence",
+    "count": 3,
+    "ingredients": [
+      "regions_unexplored:socotra_planks",
+      "minecraft:stick",
+      "regions_unexplored:socotra_planks",
+      "regions_unexplored:socotra_planks",
+      "minecraft:stick",
+      "regions_unexplored:socotra_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:socotra_fence_gate": {
+    "result": "regions_unexplored:socotra_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "regions_unexplored:socotra_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "regions_unexplored:socotra_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:socotra_hanging_sign": {
+    "result": "regions_unexplored:socotra_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "regions_unexplored:stripped_socotra_log",
+      "regions_unexplored:stripped_socotra_log",
+      "regions_unexplored:stripped_socotra_log",
+      "regions_unexplored:stripped_socotra_log",
+      "regions_unexplored:stripped_socotra_log",
+      "regions_unexplored:stripped_socotra_log"
+    ]
+  },
+  "regions_unexplored:socotra_planks": {
+    "result": "regions_unexplored:socotra_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:socotra_pressure_plate": {
+    "result": "regions_unexplored:socotra_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "regions_unexplored:socotra_planks",
+      "regions_unexplored:socotra_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:socotra_sapling": {
+    "result": "regions_unexplored:socotra_sapling",
+    "count": 2,
+    "ingredients": [
+      "regions_unexplored:socotra_shrub",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:socotra_shrub": {
+    "result": "regions_unexplored:socotra_shrub",
+    "count": 1,
+    "ingredients": [
+      "regions_unexplored:socotra_sapling",
+      "",
+      "",
+      "regions_unexplored:socotra_sapling",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:socotra_sign": {
+    "result": "regions_unexplored:socotra_sign",
+    "count": 3,
+    "ingredients": [
+      "regions_unexplored:socotra_planks",
+      "regions_unexplored:socotra_planks",
+      "regions_unexplored:socotra_planks",
+      "regions_unexplored:socotra_planks",
+      "regions_unexplored:socotra_planks",
+      "regions_unexplored:socotra_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "regions_unexplored:socotra_slab": {
+    "result": "regions_unexplored:socotra_slab",
+    "count": 6,
+    "ingredients": [
+      "regions_unexplored:socotra_planks",
+      "regions_unexplored:socotra_planks",
+      "regions_unexplored:socotra_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:socotra_stairs": {
+    "result": "regions_unexplored:socotra_stairs",
+    "count": 4,
+    "ingredients": [
+      "regions_unexplored:socotra_planks",
+      "",
+      "",
+      "regions_unexplored:socotra_planks",
+      "regions_unexplored:socotra_planks",
+      "",
+      "regions_unexplored:socotra_planks",
+      "regions_unexplored:socotra_planks",
+      "regions_unexplored:socotra_planks"
+    ]
+  },
+  "regions_unexplored:socotra_trapdoor": {
+    "result": "regions_unexplored:socotra_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "regions_unexplored:socotra_planks",
+      "regions_unexplored:socotra_planks",
+      "regions_unexplored:socotra_planks",
+      "regions_unexplored:socotra_planks",
+      "regions_unexplored:socotra_planks",
+      "regions_unexplored:socotra_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:socotra_wood": {
+    "result": "regions_unexplored:socotra_wood",
+    "count": 3,
+    "ingredients": [
+      "regions_unexplored:socotra_log",
+      "regions_unexplored:socotra_log",
+      "",
+      "regions_unexplored:socotra_log",
+      "regions_unexplored:socotra_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "securitycraft:sonic_security_system": {
+    "result": "securitycraft:sonic_security_system",
+    "count": 1,
+    "ingredients": [
+      "",
+      "securitycraft:portable_radar",
+      "minecraft:bowl",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:iron_block",
+      ""
+    ]
+  },
+  "starbunclemania:source_condenser": {
+    "result": "starbunclemania:source_condenser",
+    "count": 1,
+    "ingredients": [
+      "starbunclemania:fluid_jar",
+      "ars_nouveau:relay",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "supplementaries:soap": {
+    "result": "supplementaries:soap",
+    "count": 9,
+    "ingredients": [
+      "supplementaries:soap_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "supplementaries:soap_block": {
+    "result": "supplementaries:soap_block",
+    "count": 1,
+    "ingredients": [
+      "supplementaries:soap",
+      "supplementaries:soap",
+      "supplementaries:soap",
+      "supplementaries:soap",
+      "supplementaries:soap",
+      "supplementaries:soap",
+      "supplementaries:soap",
+      "supplementaries:soap",
+      "supplementaries:soap"
+    ]
+  },
+  "twilightforest:sorting_boat": {
+    "result": "twilightforest:sorting_boat",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:sorting_planks",
+      "",
+      "twilightforest:sorting_planks",
+      "twilightforest:sorting_planks",
+      "twilightforest:sorting_planks",
+      "twilightforest:sorting_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:sorting_chest_boat": {
+    "result": "twilightforest:sorting_chest_boat",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:sorting_boat",
+      "minecraft:chest",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:sorting_banister": {
+    "result": "twilightforest:sorting_banister",
+    "count": 3,
+    "ingredients": [
+      "twilightforest:sorting_slab",
+      "twilightforest:sorting_slab",
+      "twilightforest:sorting_slab",
+      "minecraft:stick",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:sorting_button": {
+    "result": "twilightforest:sorting_button",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:sorting_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:sorting_chest": {
+    "result": "twilightforest:sorting_chest",
+    "count": 2,
+    "ingredients": [
+      "twilightforest:sorting_planks",
+      "twilightforest:sorting_planks",
+      "twilightforest:sorting_planks",
+      "twilightforest:sorting_planks",
+      "minecraft:chest",
+      "twilightforest:sorting_planks",
+      "twilightforest:sorting_planks",
+      "twilightforest:sorting_planks",
+      "twilightforest:sorting_planks"
+    ]
+  },
+  "twilightforest:sorting_door": {
+    "result": "twilightforest:sorting_door",
+    "count": 3,
+    "ingredients": [
+      "twilightforest:sorting_planks",
+      "twilightforest:sorting_planks",
+      "",
+      "twilightforest:sorting_planks",
+      "twilightforest:sorting_planks",
+      "",
+      "twilightforest:sorting_planks",
+      "twilightforest:sorting_planks",
+      ""
+    ]
+  },
+  "twilightforest:sorting_drying_rack": {
+    "result": "twilightforest:sorting_drying_rack",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:sorting_slab",
+      "twilightforest:sorting_slab",
+      "twilightforest:sorting_slab",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:sorting_fence": {
+    "result": "twilightforest:sorting_fence",
+    "count": 3,
+    "ingredients": [
+      "twilightforest:sorting_planks",
+      "minecraft:stick",
+      "twilightforest:sorting_planks",
+      "twilightforest:sorting_planks",
+      "minecraft:stick",
+      "twilightforest:sorting_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:sorting_fence_gate": {
+    "result": "twilightforest:sorting_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "twilightforest:sorting_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "twilightforest:sorting_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:sorting_hanging_sign": {
+    "result": "twilightforest:sorting_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "twilightforest:stripped_sorting_log",
+      "twilightforest:stripped_sorting_log",
+      "twilightforest:stripped_sorting_log",
+      "twilightforest:stripped_sorting_log",
+      "twilightforest:stripped_sorting_log",
+      "twilightforest:stripped_sorting_log"
+    ]
+  },
+  "twilightforest:sorting_planks": {
+    "result": "twilightforest:sorting_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:sorting_pressure_plate": {
+    "result": "twilightforest:sorting_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:sorting_planks",
+      "twilightforest:sorting_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:sorting_sign": {
+    "result": "twilightforest:sorting_sign",
+    "count": 3,
+    "ingredients": [
+      "twilightforest:sorting_planks",
+      "twilightforest:sorting_planks",
+      "twilightforest:sorting_planks",
+      "twilightforest:sorting_planks",
+      "twilightforest:sorting_planks",
+      "twilightforest:sorting_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "twilightforest:sorting_slab": {
+    "result": "twilightforest:sorting_slab",
+    "count": 6,
+    "ingredients": [
+      "twilightforest:sorting_planks",
+      "twilightforest:sorting_planks",
+      "twilightforest:sorting_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:sorting_stairs": {
+    "result": "twilightforest:sorting_stairs",
+    "count": 8,
+    "ingredients": [
+      "twilightforest:sorting_planks",
+      "",
+      "",
+      "twilightforest:sorting_planks",
+      "twilightforest:sorting_planks",
+      "",
+      "twilightforest:sorting_planks",
+      "twilightforest:sorting_planks",
+      "twilightforest:sorting_planks"
+    ]
+  },
+  "twilightforest:sorting_trapdoor": {
+    "result": "twilightforest:sorting_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "twilightforest:sorting_planks",
+      "twilightforest:sorting_planks",
+      "twilightforest:sorting_planks",
+      "twilightforest:sorting_planks",
+      "twilightforest:sorting_planks",
+      "twilightforest:sorting_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:sorting_trapped_chest": {
+    "result": "twilightforest:sorting_trapped_chest",
+    "count": 2,
+    "ingredients": [
+      "twilightforest:sorting_planks",
+      "twilightforest:sorting_planks",
+      "twilightforest:sorting_planks",
+      "twilightforest:sorting_planks",
+      "minecraft:trapped_chest",
+      "twilightforest:sorting_planks",
+      "twilightforest:sorting_planks",
+      "twilightforest:sorting_planks",
+      "twilightforest:sorting_planks"
+    ]
+  },
+  "twilightforest:sorting_wood": {
+    "result": "twilightforest:sorting_wood",
+    "count": 3,
+    "ingredients": [
+      "twilightforest:sorting_log",
+      "twilightforest:sorting_log",
+      "",
+      "twilightforest:sorting_log",
+      "twilightforest:sorting_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "utilitarian:sound_muffler": {
+    "result": "utilitarian:sound_muffler",
+    "count": 1,
+    "ingredients": [
+      "minecraft:white_wool",
+      "minecraft:note_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "utilitarian:soul_snad": {
+    "result": "utilitarian:soul_snad",
+    "count": 1,
+    "ingredients": [
+      "minecraft:soul_sand",
+      "minecraft:soul_sand",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xtonesreworked:sols_block_0": {
+    "result": "xtonesreworked:sols_block_0",
+    "count": 8,
+    "ingredients": [
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile",
+      "minecraft:yellow",
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile"
+    ]
+  },
+  "xycraft_machines:soaryn_box": {
+    "result": "xycraft_machines:soaryn_box",
+    "count": 2,
+    "ingredients": [
+      "minecraft:xychorium",
+      "minecraft:kivi",
+      "minecraft:xychorium",
+      "xycraft_machines:port_item",
+      "",
+      "xycraft_machines:port_item",
+      "minecraft:xychorium",
+      "minecraft:kivi",
+      "minecraft:xychorium"
+    ]
+  }
+}

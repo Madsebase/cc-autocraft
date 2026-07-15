@@ -1,0 +1,6932 @@
+{
+  "advanced_ae:walk_speed_card": {
+    "result": "advanced_ae:walk_speed_card",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:redstone",
+      "",
+      "ae2:speed_card",
+      "advanced_ae:quantum_upgrade_base",
+      "ae2:speed_card",
+      "",
+      "minecraft:redstone",
+      ""
+    ]
+  },
+  "advanced_ae:water_breathing_card": {
+    "result": "advanced_ae:water_breathing_card",
+    "count": 1,
+    "ingredients": [
+      "",
+      "ae2:entropy_manipulator",
+      "",
+      "minecraft:pufferfish",
+      "advanced_ae:quantum_upgrade_base",
+      "minecraft:pufferfish",
+      "",
+      "minecraft:heart_of_the_sea",
+      ""
+    ]
+  },
+  "allthecompressed:warped_wart_block_1x": {
+    "result": "allthecompressed:warped_wart_block_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:warped_wart_block_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:warped_wart_block_2x": {
+    "result": "allthecompressed:warped_wart_block_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:warped_wart_block_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:warped_wart_block_3x": {
+    "result": "allthecompressed:warped_wart_block_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:warped_wart_block_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:warped_wart_block_4x": {
+    "result": "allthecompressed:warped_wart_block_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:warped_wart_block_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:warped_wart_block_5x": {
+    "result": "allthecompressed:warped_wart_block_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:warped_wart_block_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:warped_wart_block_6x": {
+    "result": "allthecompressed:warped_wart_block_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:warped_wart_block_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:warped_wart_block_7x": {
+    "result": "allthecompressed:warped_wart_block_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:warped_wart_block_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:warped_wart_block_8x": {
+    "result": "allthecompressed:warped_wart_block_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:warped_wart_block_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:warped_wart_block_9x": {
+    "result": "allthecompressed:warped_wart_block_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:warped_wart_block_8x",
+      "allthecompressed:warped_wart_block_8x",
+      "allthecompressed:warped_wart_block_8x",
+      "allthecompressed:warped_wart_block_8x",
+      "allthecompressed:warped_wart_block_8x",
+      "allthecompressed:warped_wart_block_8x",
+      "allthecompressed:warped_wart_block_8x",
+      "allthecompressed:warped_wart_block_8x",
+      "allthecompressed:warped_wart_block_8x"
+    ]
+  },
+  "allthecompressed:wax_block_1x": {
+    "result": "allthecompressed:wax_block_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:wax_block_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:wax_block_2x": {
+    "result": "allthecompressed:wax_block_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:wax_block_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:wax_block_3x": {
+    "result": "allthecompressed:wax_block_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:wax_block_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:wax_block_4x": {
+    "result": "allthecompressed:wax_block_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:wax_block_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:wax_block_5x": {
+    "result": "allthecompressed:wax_block_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:wax_block_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:wax_block_6x": {
+    "result": "allthecompressed:wax_block_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:wax_block_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:wax_block_7x": {
+    "result": "allthecompressed:wax_block_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:wax_block_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:wax_block_8x": {
+    "result": "allthecompressed:wax_block_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:wax_block_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:wax_block_9x": {
+    "result": "allthecompressed:wax_block_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:wax_block_8x",
+      "allthecompressed:wax_block_8x",
+      "allthecompressed:wax_block_8x",
+      "allthecompressed:wax_block_8x",
+      "allthecompressed:wax_block_8x",
+      "allthecompressed:wax_block_8x",
+      "allthecompressed:wax_block_8x",
+      "allthecompressed:wax_block_8x",
+      "allthecompressed:wax_block_8x"
+    ]
+  },
+  "minecraft:warped_wart_block": {
+    "result": "minecraft:warped_wart_block",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:warped_wart_block_1x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivebees:wax_block": {
+    "result": "productivebees:wax_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:waxes",
+      "minecraft:waxes",
+      "minecraft:waxes",
+      "minecraft:waxes",
+      "minecraft:waxes",
+      "minecraft:waxes",
+      "minecraft:waxes",
+      "minecraft:waxes",
+      "minecraft:waxes"
+    ]
+  },
+  "ars_additions:wayfinder": {
+    "result": "ars_additions:wayfinder",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:gold_ingot",
+      "",
+      "minecraft:gold_ingot",
+      "minecraft:amethyst_shard",
+      "minecraft:gold_ingot",
+      "",
+      "minecraft:gold_ingot",
+      ""
+    ]
+  },
+  "ars_nouveau:warp_scroll": {
+    "result": "ars_nouveau:warp_scroll",
+    "count": 1,
+    "ingredients": [
+      "minecraft:lapis_lazuli",
+      "minecraft:lapis_lazuli",
+      "minecraft:lapis_lazuli",
+      "minecraft:lapis_lazuli",
+      "ars_nouveau:blank_parchment",
+      "minecraft:source",
+      "minecraft:source",
+      "minecraft:source",
+      "minecraft:source"
+    ]
+  },
+  "minecraft:water_bucket": {
+    "result": "minecraft:water_bucket",
+    "count": 1,
+    "ingredients": [
+      "theurgy:crystallized_water",
+      "minecraft:bucket",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:warped_bookcase": {
+    "result": "bibliocraft:warped_bookcase",
+    "count": 1,
+    "ingredients": [
+      "minecraft:warped_planks",
+      "minecraft:warped_slab",
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      "minecraft:warped_slab",
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      "minecraft:warped_slab",
+      "minecraft:warped_planks"
+    ]
+  },
+  "bibliocraft:warped_fancy_armor_stand": {
+    "result": "bibliocraft:warped_fancy_armor_stand",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      "minecraft:warped_slab"
+    ]
+  },
+  "bibliocraft:warped_fancy_clock": {
+    "result": "bibliocraft:warped_fancy_clock",
+    "count": 1,
+    "ingredients": [
+      "minecraft:warped_slab",
+      "minecraft:clock",
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      "minecraft:stick",
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      "minecraft:copper_ingot",
+      "minecraft:warped_slab"
+    ]
+  },
+  "bibliocraft:warped_fancy_crafter": {
+    "result": "bibliocraft:warped_fancy_crafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black",
+      "minecraft:crafting_tables",
+      "minecraft:feather",
+      "minecraft:warped_planks",
+      "minecraft:glass",
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      "minecraft:crafter",
+      "minecraft:warped_planks"
+    ]
+  },
+  "bibliocraft:warped_fancy_sign": {
+    "result": "bibliocraft:warped_fancy_sign",
+    "count": 1,
+    "ingredients": [
+      "minecraft:warped_planks",
+      "minecraft:paper",
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      "minecraft:paper",
+      "minecraft:warped_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "bibliocraft:warped_grandfather_clock": {
+    "result": "bibliocraft:warped_grandfather_clock",
+    "count": 1,
+    "ingredients": [
+      "bibliocraft:warped_fancy_clock",
+      "bibliocraft:warped_fancy_clock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:warped_label": {
+    "result": "bibliocraft:warped_label",
+    "count": 1,
+    "ingredients": [
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:warped_potion_shelf": {
+    "result": "bibliocraft:warped_potion_shelf",
+    "count": 1,
+    "ingredients": [
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      "minecraft:warped_planks",
+      "minecraft:glass_bottle",
+      "minecraft:warped_planks",
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      "minecraft:warped_slab"
+    ]
+  },
+  "bibliocraft:warped_shelf": {
+    "result": "bibliocraft:warped_shelf",
+    "count": 1,
+    "ingredients": [
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      "",
+      "minecraft:warped_planks",
+      "",
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      "minecraft:warped_slab"
+    ]
+  },
+  "bibliocraft:warped_table": {
+    "result": "bibliocraft:warped_table",
+    "count": 1,
+    "ingredients": [
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      "",
+      "minecraft:warped_planks",
+      "",
+      "",
+      "minecraft:warped_planks",
+      ""
+    ]
+  },
+  "bibliocraft:warped_tool_rack": {
+    "result": "bibliocraft:warped_tool_rack",
+    "count": 1,
+    "ingredients": [
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      "minecraft:iron_ingot",
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      "minecraft:warped_slab"
+    ]
+  },
+  "chipped:watering_can": {
+    "result": "chipped:watering_can",
+    "count": 1,
+    "ingredients": [
+      "chipped:botanist_workbench",
+      "minecraft:bucket",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "compactmachines:wall": {
+    "result": "compactmachines:wall",
+    "count": 8,
+    "ingredients": [
+      "minecraft:polished_deepslate",
+      "minecraft:polished_deepslate",
+      "minecraft:polished_deepslate",
+      "minecraft:polished_deepslate",
+      "",
+      "minecraft:polished_deepslate",
+      "minecraft:polished_deepslate",
+      "minecraft:polished_deepslate",
+      "minecraft:polished_deepslate"
+    ]
+  },
+  "create:warped_window": {
+    "result": "create:warped_window",
+    "count": 2,
+    "ingredients": [
+      "",
+      "minecraft:warped_planks",
+      "",
+      "minecraft:warped_planks",
+      "minecraft:glass",
+      "minecraft:warped_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:warped_window_pane": {
+    "result": "create:warped_window_pane",
+    "count": 16,
+    "ingredients": [
+      "create:warped_window",
+      "create:warped_window",
+      "create:warped_window",
+      "create:warped_window",
+      "create:warped_window",
+      "create:warped_window",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:waxed_copper_shingle_slab": {
+    "result": "create:waxed_copper_shingle_slab",
+    "count": 1,
+    "ingredients": [
+      "create:copper_shingle_slab",
+      "minecraft:honeycomb",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:waxed_copper_shingle_stairs": {
+    "result": "create:waxed_copper_shingle_stairs",
+    "count": 1,
+    "ingredients": [
+      "create:copper_shingle_stairs",
+      "minecraft:honeycomb",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:waxed_copper_tile_slab": {
+    "result": "create:waxed_copper_tile_slab",
+    "count": 1,
+    "ingredients": [
+      "create:copper_tile_slab",
+      "minecraft:honeycomb",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:waxed_copper_tile_stairs": {
+    "result": "create:waxed_copper_tile_stairs",
+    "count": 1,
+    "ingredients": [
+      "create:copper_tile_stairs",
+      "minecraft:honeycomb",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:waxed_exposed_copper_shingle_slab": {
+    "result": "create:waxed_exposed_copper_shingle_slab",
+    "count": 1,
+    "ingredients": [
+      "create:exposed_copper_shingle_slab",
+      "minecraft:honeycomb",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:waxed_exposed_copper_shingle_stairs": {
+    "result": "create:waxed_exposed_copper_shingle_stairs",
+    "count": 1,
+    "ingredients": [
+      "create:exposed_copper_shingle_stairs",
+      "minecraft:honeycomb",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:waxed_exposed_copper_tile_slab": {
+    "result": "create:waxed_exposed_copper_tile_slab",
+    "count": 1,
+    "ingredients": [
+      "create:exposed_copper_tile_slab",
+      "minecraft:honeycomb",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:waxed_exposed_copper_tile_stairs": {
+    "result": "create:waxed_exposed_copper_tile_stairs",
+    "count": 1,
+    "ingredients": [
+      "create:exposed_copper_tile_stairs",
+      "minecraft:honeycomb",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:waxed_oxidized_copper_shingle_slab": {
+    "result": "create:waxed_oxidized_copper_shingle_slab",
+    "count": 1,
+    "ingredients": [
+      "create:oxidized_copper_shingle_slab",
+      "minecraft:honeycomb",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:waxed_oxidized_copper_shingle_stairs": {
+    "result": "create:waxed_oxidized_copper_shingle_stairs",
+    "count": 1,
+    "ingredients": [
+      "create:oxidized_copper_shingle_stairs",
+      "minecraft:honeycomb",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:waxed_oxidized_copper_tile_slab": {
+    "result": "create:waxed_oxidized_copper_tile_slab",
+    "count": 1,
+    "ingredients": [
+      "create:oxidized_copper_tile_slab",
+      "minecraft:honeycomb",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:waxed_oxidized_copper_tile_stairs": {
+    "result": "create:waxed_oxidized_copper_tile_stairs",
+    "count": 1,
+    "ingredients": [
+      "create:oxidized_copper_tile_stairs",
+      "minecraft:honeycomb",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:waxed_weathered_copper_shingle_slab": {
+    "result": "create:waxed_weathered_copper_shingle_slab",
+    "count": 1,
+    "ingredients": [
+      "create:weathered_copper_shingle_slab",
+      "minecraft:honeycomb",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:waxed_weathered_copper_shingle_stairs": {
+    "result": "create:waxed_weathered_copper_shingle_stairs",
+    "count": 1,
+    "ingredients": [
+      "create:weathered_copper_shingle_stairs",
+      "minecraft:honeycomb",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:waxed_weathered_copper_tile_slab": {
+    "result": "create:waxed_weathered_copper_tile_slab",
+    "count": 1,
+    "ingredients": [
+      "create:weathered_copper_tile_slab",
+      "minecraft:honeycomb",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:waxed_weathered_copper_tile_stairs": {
+    "result": "create:waxed_weathered_copper_tile_stairs",
+    "count": 1,
+    "ingredients": [
+      "create:weathered_copper_tile_stairs",
+      "minecraft:honeycomb",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:waxed_copper_shingles": {
+    "result": "create:waxed_copper_shingles",
+    "count": 1,
+    "ingredients": [
+      "create:copper_shingles",
+      "minecraft:honeycomb",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:waxed_copper_tiles": {
+    "result": "create:waxed_copper_tiles",
+    "count": 1,
+    "ingredients": [
+      "create:copper_tiles",
+      "minecraft:honeycomb",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:waxed_exposed_copper_shingles": {
+    "result": "create:waxed_exposed_copper_shingles",
+    "count": 1,
+    "ingredients": [
+      "create:exposed_copper_shingles",
+      "minecraft:honeycomb",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:waxed_exposed_copper_tiles": {
+    "result": "create:waxed_exposed_copper_tiles",
+    "count": 1,
+    "ingredients": [
+      "create:exposed_copper_tiles",
+      "minecraft:honeycomb",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:waxed_oxidized_copper_shingles": {
+    "result": "create:waxed_oxidized_copper_shingles",
+    "count": 1,
+    "ingredients": [
+      "create:oxidized_copper_shingles",
+      "minecraft:honeycomb",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:waxed_oxidized_copper_tiles": {
+    "result": "create:waxed_oxidized_copper_tiles",
+    "count": 1,
+    "ingredients": [
+      "create:oxidized_copper_tiles",
+      "minecraft:honeycomb",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:waxed_weathered_copper_shingles": {
+    "result": "create:waxed_weathered_copper_shingles",
+    "count": 1,
+    "ingredients": [
+      "create:weathered_copper_shingles",
+      "minecraft:honeycomb",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:waxed_weathered_copper_tiles": {
+    "result": "create:waxed_weathered_copper_tiles",
+    "count": 1,
+    "ingredients": [
+      "create:weathered_copper_tiles",
+      "minecraft:honeycomb",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:water_wheel": {
+    "result": "create:water_wheel",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "create:shaft",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks"
+    ]
+  },
+  "deeperdarker:warden_upgrade_smithing_template": {
+    "result": "deeperdarker:warden_upgrade_smithing_template",
+    "count": 2,
+    "ingredients": [
+      "minecraft:diamond",
+      "deeperdarker:warden_upgrade_smithing_template",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:sculk",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond"
+    ]
+  },
+  "eternal_starlight:warped_starfire_bird_aviary": {
+    "result": "eternal_starlight:warped_starfire_bird_aviary",
+    "count": 1,
+    "ingredients": [
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      "eternal_starlight:starfire",
+      "eternal_starlight:starfire",
+      "eternal_starlight:starfire",
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      "minecraft:warped_planks"
+    ]
+  },
+  "eternal_starlight:water_crystal": {
+    "result": "eternal_starlight:water_crystal",
+    "count": 1,
+    "ingredients": [
+      "",
+      "eternal_starlight:red_starlight_crystal_shard",
+      "",
+      "eternal_starlight:red_starlight_crystal_shard",
+      "minecraft:water_crystal_ingredients",
+      "eternal_starlight:red_starlight_crystal_shard",
+      "",
+      "eternal_starlight:red_starlight_crystal_shard",
+      ""
+    ]
+  },
+  "eternal_starlight:waxed_chiseled_golem_steel_block": {
+    "result": "eternal_starlight:waxed_chiseled_golem_steel_block",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:chiseled_golem_steel_block",
+      "eternal_starlight:raw_amaramber",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:waxed_golem_steel_grate": {
+    "result": "eternal_starlight:waxed_golem_steel_grate",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:golem_steel_grate",
+      "eternal_starlight:raw_amaramber",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:waxed_golem_steel_pillar": {
+    "result": "eternal_starlight:waxed_golem_steel_pillar",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:golem_steel_pillar",
+      "eternal_starlight:raw_amaramber",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:waxed_golem_steel_slab": {
+    "result": "eternal_starlight:waxed_golem_steel_slab",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:golem_steel_slab",
+      "eternal_starlight:raw_amaramber",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:waxed_golem_steel_stairs": {
+    "result": "eternal_starlight:waxed_golem_steel_stairs",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:golem_steel_stairs",
+      "eternal_starlight:raw_amaramber",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:waxed_golem_steel_tiles": {
+    "result": "eternal_starlight:waxed_golem_steel_tiles",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:golem_steel_tiles",
+      "eternal_starlight:raw_amaramber",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:waxed_golem_steel_tile_slab": {
+    "result": "eternal_starlight:waxed_golem_steel_tile_slab",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:golem_steel_tile_slab",
+      "eternal_starlight:raw_amaramber",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:waxed_golem_steel_tile_stairs": {
+    "result": "eternal_starlight:waxed_golem_steel_tile_stairs",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:golem_steel_tile_stairs",
+      "eternal_starlight:raw_amaramber",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:waxed_alloy_furnace": {
+    "result": "eternal_starlight:waxed_alloy_furnace",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:alloy_furnace",
+      "eternal_starlight:raw_amaramber",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:waxed_golem_steel_bars": {
+    "result": "eternal_starlight:waxed_golem_steel_bars",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:golem_steel_bars",
+      "eternal_starlight:raw_amaramber",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:waxed_golem_steel_block": {
+    "result": "eternal_starlight:waxed_golem_steel_block",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:golem_steel_block",
+      "eternal_starlight:raw_amaramber",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:waxed_golem_steel_jet": {
+    "result": "eternal_starlight:waxed_golem_steel_jet",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:golem_steel_jet",
+      "eternal_starlight:raw_amaramber",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "everythingcopper:waxed_copper_anvil": {
+    "result": "everythingcopper:waxed_copper_anvil",
+    "count": 1,
+    "ingredients": [
+      "everythingcopper:copper_anvil",
+      "minecraft:waxing_items",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "everythingcopper:waxed_copper_bars": {
+    "result": "everythingcopper:waxed_copper_bars",
+    "count": 1,
+    "ingredients": [
+      "everythingcopper:copper_bars",
+      "minecraft:waxing_items",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "everythingcopper:waxed_copper_button": {
+    "result": "everythingcopper:waxed_copper_button",
+    "count": 1,
+    "ingredients": [
+      "everythingcopper:copper_button",
+      "minecraft:waxing_items",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "everythingcopper:waxed_copper_chain": {
+    "result": "everythingcopper:waxed_copper_chain",
+    "count": 1,
+    "ingredients": [
+      "everythingcopper:copper_chain",
+      "minecraft:waxing_items",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "everythingcopper:waxed_copper_hopper": {
+    "result": "everythingcopper:waxed_copper_hopper",
+    "count": 1,
+    "ingredients": [
+      "everythingcopper:copper_hopper",
+      "minecraft:waxing_items",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "everythingcopper:waxed_copper_ladder": {
+    "result": "everythingcopper:waxed_copper_ladder",
+    "count": 1,
+    "ingredients": [
+      "everythingcopper:copper_ladder",
+      "minecraft:waxing_items",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "everythingcopper:waxed_copper_lantern": {
+    "result": "everythingcopper:waxed_copper_lantern",
+    "count": 1,
+    "ingredients": [
+      "everythingcopper:copper_lantern",
+      "minecraft:waxing_items",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "everythingcopper:waxed_copper_pressure_plate": {
+    "result": "everythingcopper:waxed_copper_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "everythingcopper:copper_pressure_plate",
+      "minecraft:waxing_items",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "everythingcopper:waxed_copper_rail": {
+    "result": "everythingcopper:waxed_copper_rail",
+    "count": 1,
+    "ingredients": [
+      "everythingcopper:copper_rail",
+      "minecraft:waxing_items",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "everythingcopper:waxed_copper_soul_lantern": {
+    "result": "everythingcopper:waxed_copper_soul_lantern",
+    "count": 1,
+    "ingredients": [
+      "everythingcopper:copper_soul_lantern",
+      "minecraft:waxing_items",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "everythingcopper:waxed_exposed_copper_anvil": {
+    "result": "everythingcopper:waxed_exposed_copper_anvil",
+    "count": 1,
+    "ingredients": [
+      "everythingcopper:exposed_copper_anvil",
+      "minecraft:waxing_items",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "everythingcopper:waxed_exposed_copper_bars": {
+    "result": "everythingcopper:waxed_exposed_copper_bars",
+    "count": 1,
+    "ingredients": [
+      "everythingcopper:exposed_copper_bars",
+      "minecraft:waxing_items",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "everythingcopper:waxed_exposed_copper_button": {
+    "result": "everythingcopper:waxed_exposed_copper_button",
+    "count": 1,
+    "ingredients": [
+      "everythingcopper:exposed_copper_button",
+      "minecraft:waxing_items",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "everythingcopper:waxed_exposed_copper_chain": {
+    "result": "everythingcopper:waxed_exposed_copper_chain",
+    "count": 1,
+    "ingredients": [
+      "everythingcopper:exposed_copper_chain",
+      "minecraft:waxing_items",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "everythingcopper:waxed_exposed_copper_hopper": {
+    "result": "everythingcopper:waxed_exposed_copper_hopper",
+    "count": 1,
+    "ingredients": [
+      "everythingcopper:exposed_copper_hopper",
+      "minecraft:waxing_items",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "everythingcopper:waxed_exposed_copper_ladder": {
+    "result": "everythingcopper:waxed_exposed_copper_ladder",
+    "count": 1,
+    "ingredients": [
+      "everythingcopper:exposed_copper_ladder",
+      "minecraft:waxing_items",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "everythingcopper:waxed_exposed_copper_lantern": {
+    "result": "everythingcopper:waxed_exposed_copper_lantern",
+    "count": 1,
+    "ingredients": [
+      "everythingcopper:exposed_copper_lantern",
+      "minecraft:waxing_items",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "everythingcopper:waxed_exposed_copper_pressure_plate": {
+    "result": "everythingcopper:waxed_exposed_copper_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "everythingcopper:exposed_copper_pressure_plate",
+      "minecraft:waxing_items",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "everythingcopper:waxed_exposed_copper_rail": {
+    "result": "everythingcopper:waxed_exposed_copper_rail",
+    "count": 1,
+    "ingredients": [
+      "everythingcopper:exposed_copper_rail",
+      "minecraft:waxing_items",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "everythingcopper:waxed_exposed_copper_soul_lantern": {
+    "result": "everythingcopper:waxed_exposed_copper_soul_lantern",
+    "count": 1,
+    "ingredients": [
+      "everythingcopper:exposed_copper_soul_lantern",
+      "minecraft:waxing_items",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "everythingcopper:waxed_oxidized_copper_anvil": {
+    "result": "everythingcopper:waxed_oxidized_copper_anvil",
+    "count": 1,
+    "ingredients": [
+      "everythingcopper:oxidized_copper_anvil",
+      "minecraft:waxing_items",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "everythingcopper:waxed_oxidized_copper_bars": {
+    "result": "everythingcopper:waxed_oxidized_copper_bars",
+    "count": 1,
+    "ingredients": [
+      "everythingcopper:oxidized_copper_bars",
+      "minecraft:waxing_items",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "everythingcopper:waxed_oxidized_copper_button": {
+    "result": "everythingcopper:waxed_oxidized_copper_button",
+    "count": 1,
+    "ingredients": [
+      "everythingcopper:oxidized_copper_button",
+      "minecraft:waxing_items",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "everythingcopper:waxed_oxidized_copper_chain": {
+    "result": "everythingcopper:waxed_oxidized_copper_chain",
+    "count": 1,
+    "ingredients": [
+      "everythingcopper:oxidized_copper_chain",
+      "minecraft:waxing_items",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "everythingcopper:waxed_oxidized_copper_hopper": {
+    "result": "everythingcopper:waxed_oxidized_copper_hopper",
+    "count": 1,
+    "ingredients": [
+      "everythingcopper:oxidized_copper_hopper",
+      "minecraft:waxing_items",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "everythingcopper:waxed_oxidized_copper_lantern": {
+    "result": "everythingcopper:waxed_oxidized_copper_lantern",
+    "count": 1,
+    "ingredients": [
+      "everythingcopper:oxidized_copper_lantern",
+      "minecraft:waxing_items",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "everythingcopper:waxed_oxidized_copper_pressure_plate": {
+    "result": "everythingcopper:waxed_oxidized_copper_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "everythingcopper:oxidized_copper_pressure_plate",
+      "minecraft:waxing_items",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "everythingcopper:waxed_oxidized_copper_rail": {
+    "result": "everythingcopper:waxed_oxidized_copper_rail",
+    "count": 1,
+    "ingredients": [
+      "everythingcopper:oxidized_copper_rail",
+      "minecraft:waxing_items",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "everythingcopper:waxed_oxidized_copper_soul_lantern": {
+    "result": "everythingcopper:waxed_oxidized_copper_soul_lantern",
+    "count": 1,
+    "ingredients": [
+      "everythingcopper:oxidized_copper_soul_lantern",
+      "minecraft:waxing_items",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "everythingcopper:waxed_weathered_copper_anvil": {
+    "result": "everythingcopper:waxed_weathered_copper_anvil",
+    "count": 1,
+    "ingredients": [
+      "everythingcopper:weathered_copper_anvil",
+      "minecraft:waxing_items",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "everythingcopper:waxed_weathered_copper_bars": {
+    "result": "everythingcopper:waxed_weathered_copper_bars",
+    "count": 1,
+    "ingredients": [
+      "everythingcopper:weathered_copper_bars",
+      "minecraft:waxing_items",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "everythingcopper:waxed_weathered_copper_button": {
+    "result": "everythingcopper:waxed_weathered_copper_button",
+    "count": 1,
+    "ingredients": [
+      "everythingcopper:weathered_copper_button",
+      "minecraft:waxing_items",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "everythingcopper:waxed_weathered_copper_chain": {
+    "result": "everythingcopper:waxed_weathered_copper_chain",
+    "count": 1,
+    "ingredients": [
+      "everythingcopper:weathered_copper_chain",
+      "minecraft:waxing_items",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "everythingcopper:waxed_weathered_copper_hopper": {
+    "result": "everythingcopper:waxed_weathered_copper_hopper",
+    "count": 1,
+    "ingredients": [
+      "everythingcopper:weathered_copper_hopper",
+      "minecraft:waxing_items",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "everythingcopper:waxed_weathered_copper_lantern": {
+    "result": "everythingcopper:waxed_weathered_copper_lantern",
+    "count": 1,
+    "ingredients": [
+      "everythingcopper:weathered_copper_lantern",
+      "minecraft:waxing_items",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "everythingcopper:waxed_weathered_copper_pressure_plate": {
+    "result": "everythingcopper:waxed_weathered_copper_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "everythingcopper:weathered_copper_pressure_plate",
+      "minecraft:waxing_items",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "everythingcopper:waxed_weathered_copper_rail": {
+    "result": "everythingcopper:waxed_weathered_copper_rail",
+    "count": 1,
+    "ingredients": [
+      "everythingcopper:weathered_copper_rail",
+      "minecraft:waxing_items",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "farmersdelight:warped_cabinet": {
+    "result": "farmersdelight:warped_cabinet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      "minecraft:warped_trapdoor",
+      "",
+      "minecraft:warped_trapdoor",
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      "minecraft:warped_slab"
+    ]
+  },
+  "fireproofboats:warped_boat": {
+    "result": "fireproofboats:warped_boat",
+    "count": 1,
+    "ingredients": [
+      "minecraft:warped_planks",
+      "",
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "fireproofboats:warped_chest_boat": {
+    "result": "fireproofboats:warped_chest_boat",
+    "count": 1,
+    "ingredients": [
+      "minecraft:chest",
+      "fireproofboats:warped_boat",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "forbidden_arcanus:wax": {
+    "result": "forbidden_arcanus:wax",
+    "count": 2,
+    "ingredients": [
+      "minecraft:honey_bottle",
+      "minecraft:slime_ball",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "functionalstorage:warped_1": {
+    "result": "functionalstorage:warped_1",
+    "count": 1,
+    "ingredients": [
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      "minecraft:chest",
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      "minecraft:warped_planks"
+    ]
+  },
+  "functionalstorage:warped_2": {
+    "result": "functionalstorage:warped_2",
+    "count": 2,
+    "ingredients": [
+      "minecraft:warped_planks",
+      "minecraft:chest",
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      "minecraft:chest",
+      "minecraft:warped_planks"
+    ]
+  },
+  "functionalstorage:warped_4": {
+    "result": "functionalstorage:warped_4",
+    "count": 4,
+    "ingredients": [
+      "minecraft:chest",
+      "minecraft:warped_planks",
+      "minecraft:chest",
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      "minecraft:chest",
+      "minecraft:warped_planks",
+      "minecraft:chest"
+    ]
+  },
+  "functionalstorage:water_generator_upgrade": {
+    "result": "functionalstorage:water_generator_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone",
+      "minecraft:water_bucket",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:bucket",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:water_bucket",
+      "minecraft:stone"
+    ]
+  },
+  "minecraft:warped_door": {
+    "result": "minecraft:warped_door",
+    "count": 12,
+    "ingredients": [
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "",
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "",
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      ""
+    ]
+  },
+  "glassential:warped_glass_door": {
+    "result": "glassential:warped_glass_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:warped_door",
+      "minecraft:glass_pane",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "glassential:warped_glass_trapdoor": {
+    "result": "glassential:warped_glass_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:warped_trapdoor",
+      "minecraft:glass_pane",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:warped_trapdoor": {
+    "result": "minecraft:warped_trapdoor",
+    "count": 12,
+    "ingredients": [
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "",
+      "",
+      ""
+    ]
+  },
+  "handcrafted:warped_bench": {
+    "result": "handcrafted:warped_bench",
+    "count": 2,
+    "ingredients": [
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      "minecraft:warped_planks",
+      "",
+      "minecraft:warped_planks"
+    ]
+  },
+  "handcrafted:warped_chair": {
+    "result": "handcrafted:warped_chair",
+    "count": 2,
+    "ingredients": [
+      "minecraft:warped_slab",
+      "",
+      "",
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      "",
+      "minecraft:stick",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "handcrafted:warped_corner_trim": {
+    "result": "handcrafted:warped_corner_trim",
+    "count": 4,
+    "ingredients": [
+      "minecraft:warped_planks",
+      "",
+      "",
+      "minecraft:warped_planks",
+      "",
+      "",
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      "minecraft:warped_planks"
+    ]
+  },
+  "handcrafted:warped_couch": {
+    "result": "handcrafted:warped_couch",
+    "count": 2,
+    "ingredients": [
+      "minecraft:white_wool",
+      "minecraft:cushions",
+      "minecraft:white_wool",
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "handcrafted:warped_counter": {
+    "result": "handcrafted:warped_counter",
+    "count": 3,
+    "ingredients": [
+      "minecraft:calcite",
+      "minecraft:calcite",
+      "minecraft:calcite",
+      "minecraft:warped_planks",
+      "minecraft:chest",
+      "minecraft:warped_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "handcrafted:warped_cupboard": {
+    "result": "handcrafted:warped_cupboard",
+    "count": 3,
+    "ingredients": [
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      "minecraft:chest",
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      "minecraft:warped_planks"
+    ]
+  },
+  "handcrafted:warped_desk": {
+    "result": "handcrafted:warped_desk",
+    "count": 2,
+    "ingredients": [
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      "minecraft:warped_planks",
+      "minecraft:chest",
+      "minecraft:warped_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "handcrafted:warped_dining_bench": {
+    "result": "handcrafted:warped_dining_bench",
+    "count": 2,
+    "ingredients": [
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      "minecraft:warped_planks",
+      "",
+      "minecraft:warped_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "handcrafted:warped_drawer": {
+    "result": "handcrafted:warped_drawer",
+    "count": 2,
+    "ingredients": [
+      "minecraft:warped_planks",
+      "minecraft:chest",
+      "minecraft:warped_planks",
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      "minecraft:warped_slab"
+    ]
+  },
+  "handcrafted:warped_fancy_bed": {
+    "result": "handcrafted:warped_fancy_bed",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:cushions",
+      "minecraft:sheets",
+      "minecraft:warped_planks",
+      "minecraft:white_wool",
+      "minecraft:white_wool",
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      "minecraft:warped_planks"
+    ]
+  },
+  "handcrafted:warped_nightstand": {
+    "result": "handcrafted:warped_nightstand",
+    "count": 2,
+    "ingredients": [
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      "minecraft:chest",
+      "minecraft:warped_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "handcrafted:warped_pillar_trim": {
+    "result": "handcrafted:warped_pillar_trim",
+    "count": 4,
+    "ingredients": [
+      "minecraft:warped_planks",
+      "",
+      "",
+      "minecraft:warped_planks",
+      "",
+      "",
+      "minecraft:warped_planks",
+      "",
+      ""
+    ]
+  },
+  "handcrafted:warped_shelf": {
+    "result": "handcrafted:warped_shelf",
+    "count": 2,
+    "ingredients": [
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      "minecraft:warped_planks",
+      "minecraft:chest",
+      "minecraft:warped_planks",
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      "minecraft:warped_slab"
+    ]
+  },
+  "handcrafted:warped_side_table": {
+    "result": "handcrafted:warped_side_table",
+    "count": 2,
+    "ingredients": [
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      "minecraft:warped_planks",
+      "minecraft:chest",
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      "",
+      "minecraft:warped_planks"
+    ]
+  },
+  "handcrafted:warped_table": {
+    "result": "handcrafted:warped_table",
+    "count": 2,
+    "ingredients": [
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      "minecraft:stick",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:wall_clinker_brick": {
+    "result": "immersiveengineering:wall_clinker_brick",
+    "count": 6,
+    "ingredients": [
+      "immersiveengineering:clinker_brick",
+      "immersiveengineering:clinker_brick",
+      "immersiveengineering:clinker_brick",
+      "immersiveengineering:clinker_brick",
+      "immersiveengineering:clinker_brick",
+      "immersiveengineering:clinker_brick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:wall_concrete": {
+    "result": "immersiveengineering:wall_concrete",
+    "count": 6,
+    "ingredients": [
+      "immersiveengineering:concrete",
+      "immersiveengineering:concrete",
+      "immersiveengineering:concrete",
+      "immersiveengineering:concrete",
+      "immersiveengineering:concrete",
+      "immersiveengineering:concrete",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:wall_concrete_brick": {
+    "result": "immersiveengineering:wall_concrete_brick",
+    "count": 6,
+    "ingredients": [
+      "immersiveengineering:concrete_brick",
+      "immersiveengineering:concrete_brick",
+      "immersiveengineering:concrete_brick",
+      "immersiveengineering:concrete_brick",
+      "immersiveengineering:concrete_brick",
+      "immersiveengineering:concrete_brick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:wall_concrete_leaded": {
+    "result": "immersiveengineering:wall_concrete_leaded",
+    "count": 6,
+    "ingredients": [
+      "immersiveengineering:concrete_leaded",
+      "immersiveengineering:concrete_leaded",
+      "immersiveengineering:concrete_leaded",
+      "immersiveengineering:concrete_leaded",
+      "immersiveengineering:concrete_leaded",
+      "immersiveengineering:concrete_leaded",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:wall_concrete_tile": {
+    "result": "immersiveengineering:wall_concrete_tile",
+    "count": 6,
+    "ingredients": [
+      "immersiveengineering:concrete_tile",
+      "immersiveengineering:concrete_tile",
+      "immersiveengineering:concrete_tile",
+      "immersiveengineering:concrete_tile",
+      "immersiveengineering:concrete_tile",
+      "immersiveengineering:concrete_tile",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:wall_hempcrete": {
+    "result": "immersiveengineering:wall_hempcrete",
+    "count": 6,
+    "ingredients": [
+      "immersiveengineering:hempcrete",
+      "immersiveengineering:hempcrete",
+      "immersiveengineering:hempcrete",
+      "immersiveengineering:hempcrete",
+      "immersiveengineering:hempcrete",
+      "immersiveengineering:hempcrete",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:wall_hempcrete_brick": {
+    "result": "immersiveengineering:wall_hempcrete_brick",
+    "count": 6,
+    "ingredients": [
+      "immersiveengineering:hempcrete_brick",
+      "immersiveengineering:hempcrete_brick",
+      "immersiveengineering:hempcrete_brick",
+      "immersiveengineering:hempcrete_brick",
+      "immersiveengineering:hempcrete_brick",
+      "immersiveengineering:hempcrete_brick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:wall_slag_brick": {
+    "result": "immersiveengineering:wall_slag_brick",
+    "count": 6,
+    "ingredients": [
+      "immersiveengineering:slag_brick",
+      "immersiveengineering:slag_brick",
+      "immersiveengineering:slag_brick",
+      "immersiveengineering:slag_brick",
+      "immersiveengineering:slag_brick",
+      "immersiveengineering:slag_brick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:watermill": {
+    "result": "immersiveengineering:watermill",
+    "count": 1,
+    "ingredients": [
+      "",
+      "immersiveengineering:waterwheel_segment",
+      "",
+      "immersiveengineering:waterwheel_segment",
+      "modern_industrialization:steel_ingot",
+      "immersiveengineering:waterwheel_segment",
+      "",
+      "immersiveengineering:waterwheel_segment",
+      ""
+    ]
+  },
+  "immersiveengineering:waterwheel_segment": {
+    "result": "immersiveengineering:waterwheel_segment",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:treated_wood",
+      "",
+      "minecraft:treated_wood",
+      "minecraft:treated_wood",
+      "minecraft:treated_wood",
+      "minecraft:treated_wood",
+      "minecraft:treated_wood",
+      "minecraft:treated_wood"
+    ]
+  },
+  "industrialforegoing:washing_factory": {
+    "result": "industrialforegoing:washing_factory",
+    "count": 1,
+    "ingredients": [
+      "industrialforegoing:pink_slime_ingot",
+      "industrialforegoing:meat_feeder",
+      "industrialforegoing:pink_slime_ingot",
+      "minecraft:plastics",
+      "minecraft:advanced",
+      "minecraft:plastics",
+      "minecraft:diamond",
+      "minecraft:furnace",
+      "minecraft:diamond"
+    ]
+  },
+  "industrialforegoing:water_condensator": {
+    "result": "industrialforegoing:water_condensator",
+    "count": 1,
+    "ingredients": [
+      "minecraft:plastics",
+      "minecraft:water_bucket",
+      "minecraft:plastics",
+      "minecraft:piston",
+      "minecraft:pity",
+      "minecraft:piston",
+      "minecraft:iron",
+      "minecraft:redstone",
+      "minecraft:iron"
+    ]
+  },
+  "irons_spellbooks:wandering_magician_boots": {
+    "result": "irons_spellbooks:wandering_magician_boots",
+    "count": 1,
+    "ingredients": [
+      "minecraft:leather_boots",
+      "irons_spellbooks:arcane_essence",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "irons_spellbooks:wandering_magician_chestplate": {
+    "result": "irons_spellbooks:wandering_magician_chestplate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:leather_chestplate",
+      "irons_spellbooks:arcane_essence",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "irons_spellbooks:wandering_magician_helmet": {
+    "result": "irons_spellbooks:wandering_magician_helmet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:leather_helmet",
+      "irons_spellbooks:arcane_essence",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "irons_spellbooks:wandering_magician_leggings": {
+    "result": "irons_spellbooks:wandering_magician_leggings",
+    "count": 1,
+    "ingredients": [
+      "minecraft:leather_leggings",
+      "irons_spellbooks:arcane_essence",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "irons_spellbooks:wayward_compass": {
+    "result": "irons_spellbooks:wayward_compass",
+    "count": 1,
+    "ingredients": [
+      "irons_spellbooks:arcane_essence",
+      "minecraft:iron_ingot",
+      "irons_spellbooks:arcane_essence",
+      "minecraft:iron_ingot",
+      "minecraft:soul_lantern",
+      "minecraft:iron_ingot",
+      "irons_spellbooks:arcane_essence",
+      "minecraft:iron_ingot",
+      "irons_spellbooks:arcane_essence"
+    ]
+  },
+  "mcwbridges:warped_bridge_pier": {
+    "result": "mcwbridges:warped_bridge_pier",
+    "count": 3,
+    "ingredients": [
+      "minecraft:warped_stem",
+      "minecraft:warped_fence",
+      "minecraft:warped_stem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:warped_log_bridge_middle": {
+    "result": "mcwbridges:warped_log_bridge_middle",
+    "count": 1,
+    "ingredients": [
+      "mcwbridges:warped_log_bridge_stair",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:warped_log_bridge_stair": {
+    "result": "mcwbridges:warped_log_bridge_stair",
+    "count": 6,
+    "ingredients": [
+      "",
+      "",
+      "mcwbridges:warped_log_bridge_middle",
+      "",
+      "mcwbridges:warped_log_bridge_middle",
+      "mcwbridges:warped_log_bridge_middle",
+      "mcwbridges:warped_log_bridge_middle",
+      "mcwbridges:warped_log_bridge_middle",
+      "mcwbridges:warped_log_bridge_middle"
+    ]
+  },
+  "mcwbridges:warped_rail_bridge": {
+    "result": "mcwbridges:warped_rail_bridge",
+    "count": 4,
+    "ingredients": [
+      "minecraft:warped_fence",
+      "",
+      "minecraft:warped_fence",
+      "minecraft:warped_fence",
+      "minecraft:warped_slab",
+      "minecraft:warped_fence",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:warped_rope_bridge_stair": {
+    "result": "mcwbridges:warped_rope_bridge_stair",
+    "count": 6,
+    "ingredients": [
+      "",
+      "",
+      "mcwbridges:rope_warped_bridge",
+      "",
+      "mcwbridges:rope_warped_bridge",
+      "mcwbridges:rope_warped_bridge",
+      "mcwbridges:rope_warped_bridge",
+      "mcwbridges:rope_warped_bridge",
+      "mcwbridges:rope_warped_bridge"
+    ]
+  },
+  "mcwdoors:warped_bamboo_door": {
+    "result": "mcwdoors:warped_bamboo_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:warped_planks",
+      "",
+      "",
+      "mcwdoors:print_bamboo",
+      "",
+      "",
+      "minecraft:warped_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwdoors:warped_barn_door": {
+    "result": "mcwdoors:warped_barn_door",
+    "count": 2,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:stick",
+      "",
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      "",
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      ""
+    ]
+  },
+  "mcwdoors:warped_barn_glass_door": {
+    "result": "mcwdoors:warped_barn_glass_door",
+    "count": 3,
+    "ingredients": [
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "",
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      "",
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      ""
+    ]
+  },
+  "mcwdoors:warped_beach_door": {
+    "result": "mcwdoors:warped_beach_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:warped_planks",
+      "",
+      "",
+      "mcwdoors:print_jungle",
+      "",
+      "",
+      "minecraft:warped_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwdoors:warped_classic_door": {
+    "result": "mcwdoors:warped_classic_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:warped_planks",
+      "",
+      "",
+      "mcwdoors:print_oak",
+      "",
+      "",
+      "minecraft:warped_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwdoors:warped_cottage_door": {
+    "result": "mcwdoors:warped_cottage_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:warped_planks",
+      "",
+      "",
+      "mcwdoors:print_spruce",
+      "",
+      "",
+      "minecraft:warped_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwdoors:warped_four_panel_door": {
+    "result": "mcwdoors:warped_four_panel_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:warped_planks",
+      "",
+      "",
+      "mcwdoors:print_dark_oak",
+      "",
+      "",
+      "minecraft:warped_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwdoors:warped_glass_door": {
+    "result": "mcwdoors:warped_glass_door",
+    "count": 3,
+    "ingredients": [
+      "minecraft:warped_planks",
+      "minecraft:glass_pane",
+      "",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "",
+      "minecraft:warped_planks",
+      "minecraft:glass_pane",
+      ""
+    ]
+  },
+  "mcwdoors:warped_japanese2_door": {
+    "result": "mcwdoors:warped_japanese2_door",
+    "count": 3,
+    "ingredients": [
+      "minecraft:paper",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      "minecraft:paper",
+      "",
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      ""
+    ]
+  },
+  "mcwdoors:warped_japanese_door": {
+    "result": "mcwdoors:warped_japanese_door",
+    "count": 3,
+    "ingredients": [
+      "minecraft:paper",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      "minecraft:paper",
+      "",
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      ""
+    ]
+  },
+  "mcwdoors:warped_modern_door": {
+    "result": "mcwdoors:warped_modern_door",
+    "count": 3,
+    "ingredients": [
+      "minecraft:warped_planks",
+      "minecraft:glass_pane",
+      "",
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      "",
+      "minecraft:warped_planks",
+      "minecraft:glass_pane",
+      ""
+    ]
+  },
+  "mcwdoors:warped_nether_door": {
+    "result": "mcwdoors:warped_nether_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:warped_planks",
+      "",
+      "",
+      "mcwdoors:print_nether",
+      "",
+      "",
+      "minecraft:warped_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwdoors:warped_paper_door": {
+    "result": "mcwdoors:warped_paper_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:warped_planks",
+      "",
+      "",
+      "mcwdoors:print_birch",
+      "",
+      "",
+      "minecraft:warped_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwdoors:warped_stable_door": {
+    "result": "mcwdoors:warped_stable_door",
+    "count": 3,
+    "ingredients": [
+      "minecraft:iron_bars",
+      "minecraft:iron_bars",
+      "",
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      "",
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      ""
+    ]
+  },
+  "mcwdoors:warped_stable_head_door": {
+    "result": "mcwdoors:warped_stable_head_door",
+    "count": 1,
+    "ingredients": [
+      "mcwdoors:warped_stable_door",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwdoors:warped_stem_glass_door": {
+    "result": "mcwdoors:warped_stem_glass_door",
+    "count": 3,
+    "ingredients": [
+      "minecraft:warped_stem",
+      "minecraft:glass",
+      "",
+      "minecraft:glass",
+      "minecraft:glass",
+      "",
+      "minecraft:warped_stem",
+      "minecraft:glass",
+      ""
+    ]
+  },
+  "mcwdoors:warped_swamp_door": {
+    "result": "mcwdoors:warped_swamp_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:warped_planks",
+      "",
+      "",
+      "mcwdoors:print_swamp",
+      "",
+      "",
+      "minecraft:warped_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwdoors:warped_tropical_door": {
+    "result": "mcwdoors:warped_tropical_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:warped_planks",
+      "",
+      "",
+      "mcwdoors:print_acacia",
+      "",
+      "",
+      "minecraft:warped_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwdoors:warped_waffle_door": {
+    "result": "mcwdoors:warped_waffle_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:warped_planks",
+      "",
+      "",
+      "mcwdoors:print_waffle",
+      "",
+      "",
+      "minecraft:warped_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwdoors:warped_western_door": {
+    "result": "mcwdoors:warped_western_door",
+    "count": 3,
+    "ingredients": [
+      "",
+      "",
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      "minecraft:warped_slab",
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      "minecraft:warped_planks"
+    ]
+  },
+  "mcwdoors:warped_whispering_door": {
+    "result": "mcwdoors:warped_whispering_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:warped_planks",
+      "",
+      "",
+      "mcwdoors:print_whispering",
+      "",
+      "",
+      "minecraft:warped_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwfences:warped_curved_gate": {
+    "result": "mcwfences:warped_curved_gate",
+    "count": 4,
+    "ingredients": [
+      "minecraft:warped_stem",
+      "",
+      "minecraft:warped_planks",
+      "minecraft:warped_stem",
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfences:warped_highley_gate": {
+    "result": "mcwfences:warped_highley_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:warped_stem",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:warped_stem",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfences:warped_horse_fence": {
+    "result": "mcwfences:warped_horse_fence",
+    "count": 3,
+    "ingredients": [
+      "minecraft:warped_stem",
+      "minecraft:stick",
+      "minecraft:warped_stem",
+      "minecraft:stick",
+      "minecraft:warped_stem",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfences:warped_picket_fence": {
+    "result": "mcwfences:warped_picket_fence",
+    "count": 3,
+    "ingredients": [
+      "minecraft:warped_stem",
+      "minecraft:warped_planks",
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "minecraft:stick",
+      "minecraft:warped_stem",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfences:warped_pyramid_gate": {
+    "result": "mcwfences:warped_pyramid_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:warped_stem",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:warped_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfences:warped_stockade_fence": {
+    "result": "mcwfences:warped_stockade_fence",
+    "count": 3,
+    "ingredients": [
+      "minecraft:warped_stem",
+      "minecraft:warped_planks",
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "minecraft:warped_planks",
+      "minecraft:warped_stem",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfences:warped_wired_fence": {
+    "result": "mcwfences:warped_wired_fence",
+    "count": 3,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:iron_bars",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:warped_stem",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfurnitures:warped_bookshelf": {
+    "result": "mcwfurnitures:warped_bookshelf",
+    "count": 4,
+    "ingredients": [
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "minecraft:warped_stem"
+    ]
+  },
+  "mcwfurnitures:warped_bookshelf_cupboard": {
+    "result": "mcwfurnitures:warped_bookshelf_cupboard",
+    "count": 4,
+    "ingredients": [
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "mcwfurnitures:cabinet_door",
+      "minecraft:warped_stem",
+      "minecraft:book",
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "minecraft:warped_stem"
+    ]
+  },
+  "mcwfurnitures:warped_bookshelf_drawer": {
+    "result": "mcwfurnitures:warped_bookshelf_drawer",
+    "count": 4,
+    "ingredients": [
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "mcwfurnitures:cabinet_drawer",
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "minecraft:book",
+      "minecraft:warped_stem"
+    ]
+  },
+  "mcwfurnitures:warped_chair": {
+    "result": "mcwfurnitures:warped_chair",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:warped_stem",
+      "",
+      "minecraft:warped_slab",
+      "minecraft:warped_stem",
+      "",
+      "minecraft:warped_fence",
+      "minecraft:warped_fence",
+      ""
+    ]
+  },
+  "mcwfurnitures:warped_coffee_table": {
+    "result": "mcwfurnitures:warped_coffee_table",
+    "count": 1,
+    "ingredients": [
+      "minecraft:warped_stem",
+      "",
+      "",
+      "minecraft:warped_fence",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfurnitures:warped_counter": {
+    "result": "mcwfurnitures:warped_counter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:warped_slab",
+      "",
+      "",
+      "minecraft:warped_stem",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfurnitures:warped_covered_desk": {
+    "result": "mcwfurnitures:warped_covered_desk",
+    "count": 2,
+    "ingredients": [
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "",
+      "minecraft:warped_stem",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfurnitures:warped_cupboard_counter": {
+    "result": "mcwfurnitures:warped_cupboard_counter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:warped_slab",
+      "",
+      "",
+      "mcwfurnitures:warped_wardrobe",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfurnitures:warped_desk": {
+    "result": "mcwfurnitures:warped_desk",
+    "count": 2,
+    "ingredients": [
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "minecraft:warped_fence",
+      "",
+      "minecraft:warped_fence",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfurnitures:warped_double_drawer": {
+    "result": "mcwfurnitures:warped_double_drawer",
+    "count": 4,
+    "ingredients": [
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "mcwfurnitures:cabinet_drawer",
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "mcwfurnitures:cabinet_drawer",
+      "minecraft:warped_stem"
+    ]
+  },
+  "mcwfurnitures:warped_double_drawer_counter": {
+    "result": "mcwfurnitures:warped_double_drawer_counter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:warped_slab",
+      "",
+      "",
+      "mcwfurnitures:warped_double_drawer",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfurnitures:warped_double_kitchen_cabinet": {
+    "result": "mcwfurnitures:warped_double_kitchen_cabinet",
+    "count": 4,
+    "ingredients": [
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "",
+      "mcwfurnitures:cabinet_door",
+      "mcwfurnitures:cabinet_door",
+      "",
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      ""
+    ]
+  },
+  "mcwfurnitures:warped_double_wardrobe": {
+    "result": "mcwfurnitures:warped_double_wardrobe",
+    "count": 4,
+    "ingredients": [
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "mcwfurnitures:cabinet_door",
+      "minecraft:warped_stem",
+      "mcwfurnitures:cabinet_door",
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "minecraft:warped_stem"
+    ]
+  },
+  "mcwfurnitures:warped_drawer": {
+    "result": "mcwfurnitures:warped_drawer",
+    "count": 4,
+    "ingredients": [
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "mcwfurnitures:cabinet_drawer",
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "minecraft:warped_stem"
+    ]
+  },
+  "mcwfurnitures:warped_drawer_counter": {
+    "result": "mcwfurnitures:warped_drawer_counter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:warped_slab",
+      "",
+      "",
+      "mcwfurnitures:warped_drawer",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfurnitures:warped_end_table": {
+    "result": "mcwfurnitures:warped_end_table",
+    "count": 1,
+    "ingredients": [
+      "mcwfurnitures:warped_table",
+      "",
+      "",
+      "minecraft:warped_stem",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfurnitures:warped_glass_kitchen_cabinet": {
+    "result": "mcwfurnitures:warped_glass_kitchen_cabinet",
+    "count": 4,
+    "ingredients": [
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "",
+      "minecraft:glass",
+      "mcwfurnitures:cabinet_door",
+      "",
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      ""
+    ]
+  },
+  "mcwfurnitures:warped_glass_table": {
+    "result": "mcwfurnitures:warped_glass_table",
+    "count": 1,
+    "ingredients": [
+      "mcwfurnitures:warped_end_table",
+      "",
+      "",
+      "minecraft:glass",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfurnitures:warped_kitchen_cabinet": {
+    "result": "mcwfurnitures:warped_kitchen_cabinet",
+    "count": 4,
+    "ingredients": [
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "",
+      "minecraft:warped_stem",
+      "mcwfurnitures:cabinet_door",
+      "",
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      ""
+    ]
+  },
+  "mcwfurnitures:warped_kitchen_sink": {
+    "result": "mcwfurnitures:warped_kitchen_sink",
+    "count": 1,
+    "ingredients": [
+      "minecraft:warped_slab",
+      "minecraft:cauldron",
+      "minecraft:warped_slab",
+      "minecraft:warped_stem",
+      "minecraft:water_bucket",
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "minecraft:water_bucket",
+      "minecraft:warped_stem"
+    ]
+  },
+  "mcwfurnitures:warped_large_drawer": {
+    "result": "mcwfurnitures:warped_large_drawer",
+    "count": 4,
+    "ingredients": [
+      "minecraft:warped_stem",
+      "mcwfurnitures:cabinet_drawer",
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "minecraft:warped_stem"
+    ]
+  },
+  "mcwfurnitures:warped_lower_bookshelf_drawer": {
+    "result": "mcwfurnitures:warped_lower_bookshelf_drawer",
+    "count": 4,
+    "ingredients": [
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "minecraft:book",
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "mcwfurnitures:cabinet_drawer",
+      "minecraft:warped_stem"
+    ]
+  },
+  "mcwfurnitures:warped_lower_triple_drawer": {
+    "result": "mcwfurnitures:warped_lower_triple_drawer",
+    "count": 4,
+    "ingredients": [
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "mcwfurnitures:cabinet_drawer",
+      "minecraft:warped_stem",
+      "mcwfurnitures:cabinet_drawer",
+      "minecraft:warped_stem",
+      "mcwfurnitures:cabinet_drawer",
+      "minecraft:warped_stem"
+    ]
+  },
+  "mcwfurnitures:warped_modern_chair": {
+    "result": "mcwfurnitures:warped_modern_chair",
+    "count": 1,
+    "ingredients": [
+      "minecraft:warped_slab",
+      "minecraft:warped_stem",
+      "",
+      "minecraft:warped_fence",
+      "minecraft:warped_fence",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfurnitures:warped_modern_desk": {
+    "result": "mcwfurnitures:warped_modern_desk",
+    "count": 2,
+    "ingredients": [
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "minecraft:warped_fence",
+      "minecraft:stick",
+      "minecraft:warped_fence",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfurnitures:warped_modern_wardrobe": {
+    "result": "mcwfurnitures:warped_modern_wardrobe",
+    "count": 4,
+    "ingredients": [
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "mcwfurnitures:cabinet_door",
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "minecraft:warped_stem"
+    ]
+  },
+  "mcwfurnitures:warped_stool_chair": {
+    "result": "mcwfurnitures:warped_stool_chair",
+    "count": 1,
+    "ingredients": [
+      "minecraft:warped_stem",
+      "",
+      "",
+      "minecraft:warped_stem",
+      "",
+      "",
+      "minecraft:warped_fence",
+      "",
+      ""
+    ]
+  },
+  "mcwfurnitures:warped_striped_chair": {
+    "result": "mcwfurnitures:warped_striped_chair",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:warped_stem",
+      "",
+      "minecraft:warped_slab",
+      "minecraft:warped_fence",
+      "",
+      "minecraft:warped_fence",
+      "minecraft:warped_fence",
+      ""
+    ]
+  },
+  "mcwfurnitures:warped_table": {
+    "result": "mcwfurnitures:warped_table",
+    "count": 1,
+    "ingredients": [
+      "mcwfurnitures:warped_coffee_table",
+      "",
+      "",
+      "minecraft:warped_fence",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfurnitures:warped_triple_drawer": {
+    "result": "mcwfurnitures:warped_triple_drawer",
+    "count": 4,
+    "ingredients": [
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "mcwfurnitures:cabinet_drawer",
+      "minecraft:warped_stem",
+      "mcwfurnitures:cabinet_drawer",
+      "minecraft:warped_stem",
+      "mcwfurnitures:cabinet_drawer"
+    ]
+  },
+  "mcwfurnitures:warped_wardrobe": {
+    "result": "mcwfurnitures:warped_wardrobe",
+    "count": 4,
+    "ingredients": [
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "mcwfurnitures:cabinet_door",
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "minecraft:warped_stem"
+    ]
+  },
+  "mcwholidays:wavy_garland": {
+    "result": "mcwholidays:wavy_garland",
+    "count": 9,
+    "ingredients": [
+      "minecraft:spruce_leaves",
+      "",
+      "minecraft:spruce_leaves",
+      "",
+      "minecraft:spruce_leaves",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwholidays:wavy_garland_blue_lights": {
+    "result": "mcwholidays:wavy_garland_blue_lights",
+    "count": 8,
+    "ingredients": [
+      "mcwholidays:wavy_garland",
+      "mcwholidays:wavy_garland",
+      "mcwholidays:wavy_garland",
+      "mcwholidays:wavy_garland",
+      "mcwholidays:blue_string_lights",
+      "mcwholidays:wavy_garland",
+      "mcwholidays:wavy_garland",
+      "mcwholidays:wavy_garland",
+      "mcwholidays:wavy_garland"
+    ]
+  },
+  "mcwholidays:wavy_garland_colorful_lights": {
+    "result": "mcwholidays:wavy_garland_colorful_lights",
+    "count": 8,
+    "ingredients": [
+      "mcwholidays:wavy_garland",
+      "mcwholidays:wavy_garland",
+      "mcwholidays:wavy_garland",
+      "mcwholidays:wavy_garland",
+      "mcwholidays:colorful_string_lights",
+      "mcwholidays:wavy_garland",
+      "mcwholidays:wavy_garland",
+      "mcwholidays:wavy_garland",
+      "mcwholidays:wavy_garland"
+    ]
+  },
+  "mcwholidays:wavy_garland_green_lights": {
+    "result": "mcwholidays:wavy_garland_green_lights",
+    "count": 8,
+    "ingredients": [
+      "mcwholidays:wavy_garland",
+      "mcwholidays:wavy_garland",
+      "mcwholidays:wavy_garland",
+      "mcwholidays:wavy_garland",
+      "mcwholidays:green_string_lights",
+      "mcwholidays:wavy_garland",
+      "mcwholidays:wavy_garland",
+      "mcwholidays:wavy_garland",
+      "mcwholidays:wavy_garland"
+    ]
+  },
+  "mcwholidays:wavy_garland_orange_lights": {
+    "result": "mcwholidays:wavy_garland_orange_lights",
+    "count": 8,
+    "ingredients": [
+      "mcwholidays:wavy_garland",
+      "mcwholidays:wavy_garland",
+      "mcwholidays:wavy_garland",
+      "mcwholidays:wavy_garland",
+      "mcwholidays:orange_string_lights",
+      "mcwholidays:wavy_garland",
+      "mcwholidays:wavy_garland",
+      "mcwholidays:wavy_garland",
+      "mcwholidays:wavy_garland"
+    ]
+  },
+  "mcwholidays:wavy_garland_purple_lights": {
+    "result": "mcwholidays:wavy_garland_purple_lights",
+    "count": 8,
+    "ingredients": [
+      "mcwholidays:wavy_garland",
+      "mcwholidays:wavy_garland",
+      "mcwholidays:wavy_garland",
+      "mcwholidays:wavy_garland",
+      "mcwholidays:purple_string_lights",
+      "mcwholidays:wavy_garland",
+      "mcwholidays:wavy_garland",
+      "mcwholidays:wavy_garland",
+      "mcwholidays:wavy_garland"
+    ]
+  },
+  "mcwholidays:wavy_garland_red_lights": {
+    "result": "mcwholidays:wavy_garland_red_lights",
+    "count": 8,
+    "ingredients": [
+      "mcwholidays:wavy_garland",
+      "mcwholidays:wavy_garland",
+      "mcwholidays:wavy_garland",
+      "mcwholidays:wavy_garland",
+      "mcwholidays:red_string_lights",
+      "mcwholidays:wavy_garland",
+      "mcwholidays:wavy_garland",
+      "mcwholidays:wavy_garland",
+      "mcwholidays:wavy_garland"
+    ]
+  },
+  "mcwholidays:wavy_garland_yellow_lights": {
+    "result": "mcwholidays:wavy_garland_yellow_lights",
+    "count": 8,
+    "ingredients": [
+      "mcwholidays:wavy_garland",
+      "mcwholidays:wavy_garland",
+      "mcwholidays:wavy_garland",
+      "mcwholidays:wavy_garland",
+      "mcwholidays:yellow_string_lights",
+      "mcwholidays:wavy_garland",
+      "mcwholidays:wavy_garland",
+      "mcwholidays:wavy_garland",
+      "mcwholidays:wavy_garland"
+    ]
+  },
+  "mcwlights:wall_lamp": {
+    "result": "mcwlights:wall_lamp",
+    "count": 3,
+    "ingredients": [
+      "minecraft:white_wool",
+      "minecraft:redstone_lamp",
+      "minecraft:white_wool",
+      "",
+      "",
+      "minecraft:wooden_fences",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwlights:wall_lantern": {
+    "result": "mcwlights:wall_lantern",
+    "count": 1,
+    "ingredients": [
+      "minecraft:wooden_fences",
+      "minecraft:lantern",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwlights:warped_ceiling_fan_light": {
+    "result": "mcwlights:warped_ceiling_fan_light",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:iron_nugget",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:warped_slab",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:glowstone_dust",
+      ""
+    ]
+  },
+  "mcwlights:warped_tiki_torch": {
+    "result": "mcwlights:warped_tiki_torch",
+    "count": 1,
+    "ingredients": [
+      "minecraft:torch",
+      "",
+      "",
+      "minecraft:warped_fence",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwpaths:warped_planks_path": {
+    "result": "mcwpaths:warped_planks_path",
+    "count": 3,
+    "ingredients": [
+      "minecraft:warped_slab",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:warped_attic_roof": {
+    "result": "mcwroofs:warped_attic_roof",
+    "count": 2,
+    "ingredients": [
+      "",
+      "minecraft:warped_stem",
+      "",
+      "minecraft:warped_stem",
+      "minecraft:glass",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:warped_lower_roof": {
+    "result": "mcwroofs:warped_lower_roof",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:warped_planks_attic_roof": {
+    "result": "mcwroofs:warped_planks_attic_roof",
+    "count": 2,
+    "ingredients": [
+      "",
+      "minecraft:warped_planks",
+      "",
+      "minecraft:warped_planks",
+      "minecraft:glass",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:warped_planks_lower_roof": {
+    "result": "mcwroofs:warped_planks_lower_roof",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:warped_planks_roof": {
+    "result": "mcwroofs:warped_planks_roof",
+    "count": 2,
+    "ingredients": [
+      "",
+      "minecraft:warped_planks",
+      "",
+      "minecraft:warped_planks",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:warped_planks_steep_roof": {
+    "result": "mcwroofs:warped_planks_steep_roof",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:warped_planks",
+      "",
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      "",
+      "minecraft:warped_planks",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "mcwroofs:warped_planks_top_roof": {
+    "result": "mcwroofs:warped_planks_top_roof",
+    "count": 2,
+    "ingredients": [
+      "minecraft:warped_planks",
+      "minecraft:stick",
+      "minecraft:warped_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:warped_planks_upper_lower_roof": {
+    "result": "mcwroofs:warped_planks_upper_lower_roof",
+    "count": 3,
+    "ingredients": [
+      "",
+      "",
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:warped_planks_upper_steep_roof": {
+    "result": "mcwroofs:warped_planks_upper_steep_roof",
+    "count": 3,
+    "ingredients": [
+      "",
+      "minecraft:warped_planks",
+      "",
+      "",
+      "minecraft:warped_planks",
+      "",
+      "minecraft:warped_planks",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "mcwroofs:warped_roof": {
+    "result": "mcwroofs:warped_roof",
+    "count": 2,
+    "ingredients": [
+      "",
+      "minecraft:warped_stem",
+      "",
+      "minecraft:warped_stem",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:warped_steep_roof": {
+    "result": "mcwroofs:warped_steep_roof",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:warped_stem",
+      "",
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "",
+      "minecraft:warped_stem",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "mcwroofs:warped_top_roof": {
+    "result": "mcwroofs:warped_top_roof",
+    "count": 2,
+    "ingredients": [
+      "minecraft:warped_stem",
+      "minecraft:stick",
+      "minecraft:warped_stem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:warped_upper_lower_roof": {
+    "result": "mcwroofs:warped_upper_lower_roof",
+    "count": 3,
+    "ingredients": [
+      "",
+      "",
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:warped_upper_steep_roof": {
+    "result": "mcwroofs:warped_upper_steep_roof",
+    "count": 3,
+    "ingredients": [
+      "",
+      "minecraft:warped_stem",
+      "",
+      "",
+      "minecraft:warped_stem",
+      "",
+      "minecraft:warped_stem",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "mcwstairs:warped_balcony": {
+    "result": "mcwstairs:warped_balcony",
+    "count": 6,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:warped_fence",
+      "",
+      "minecraft:warped_fence",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick"
+    ]
+  },
+  "mcwstairs:warped_bulk_stairs": {
+    "result": "mcwstairs:warped_bulk_stairs",
+    "count": 6,
+    "ingredients": [
+      "minecraft:stripped_warped_stem",
+      "",
+      "",
+      "minecraft:warped_stem",
+      "minecraft:stripped_warped_stem",
+      "",
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "minecraft:stripped_warped_stem"
+    ]
+  },
+  "mcwstairs:warped_compact_stairs": {
+    "result": "mcwstairs:warped_compact_stairs",
+    "count": 6,
+    "ingredients": [
+      "minecraft:stripped_warped_stem",
+      "",
+      "",
+      "minecraft:stripped_warped_stem",
+      "minecraft:stripped_warped_stem",
+      "",
+      "minecraft:stripped_warped_stem",
+      "minecraft:stripped_warped_stem",
+      "minecraft:stripped_warped_stem"
+    ]
+  },
+  "mcwstairs:warped_loft_stairs": {
+    "result": "mcwstairs:warped_loft_stairs",
+    "count": 3,
+    "ingredients": [
+      "minecraft:stripped_warped_stem",
+      "",
+      "",
+      "",
+      "minecraft:stripped_warped_stem",
+      "",
+      "",
+      "",
+      "minecraft:stripped_warped_stem"
+    ]
+  },
+  "mcwstairs:warped_platform": {
+    "result": "mcwstairs:warped_platform",
+    "count": 12,
+    "ingredients": [
+      "",
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      "",
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwstairs:warped_railing": {
+    "result": "mcwstairs:warped_railing",
+    "count": 6,
+    "ingredients": [
+      "mcwstairs:warped_balcony",
+      "",
+      "",
+      "mcwstairs:warped_balcony",
+      "mcwstairs:warped_balcony",
+      "",
+      "mcwstairs:warped_balcony",
+      "mcwstairs:warped_balcony",
+      "mcwstairs:warped_balcony"
+    ]
+  },
+  "mcwstairs:warped_skyline_stairs": {
+    "result": "mcwstairs:warped_skyline_stairs",
+    "count": 4,
+    "ingredients": [
+      "minecraft:stripped_warped_stem",
+      "",
+      "",
+      "minecraft:warped_stem",
+      "minecraft:stripped_warped_stem",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwstairs:warped_terrace_stairs": {
+    "result": "mcwstairs:warped_terrace_stairs",
+    "count": 5,
+    "ingredients": [
+      "minecraft:stripped_warped_stem",
+      "",
+      "",
+      "minecraft:warped_stem",
+      "minecraft:stripped_warped_stem",
+      "",
+      "",
+      "minecraft:warped_stem",
+      "minecraft:stripped_warped_stem"
+    ]
+  },
+  "mcwtrpdoors:warped_bamboo_trapdoor": {
+    "result": "mcwtrpdoors:warped_bamboo_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:warped_planks",
+      "",
+      "",
+      "mcwtrpdoors:print_bamboo",
+      "",
+      "",
+      "minecraft:warped_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwtrpdoors:warped_bark_trapdoor": {
+    "result": "mcwtrpdoors:warped_bark_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "minecraft:warped_stem",
+      "minecraft:glass_pane",
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "minecraft:glass_pane",
+      "minecraft:warped_stem",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwtrpdoors:warped_barn_trapdoor": {
+    "result": "mcwtrpdoors:warped_barn_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:warped_planks",
+      "",
+      "",
+      "mcwtrpdoors:warped_glass_trapdoor",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwtrpdoors:warped_barred_trapdoor": {
+    "result": "mcwtrpdoors:warped_barred_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:warped_planks",
+      "",
+      "",
+      "mcwtrpdoors:print_barred",
+      "",
+      "",
+      "minecraft:warped_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwtrpdoors:warped_barrel_trapdoor": {
+    "result": "mcwtrpdoors:warped_barrel_trapdoor",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:warped_planks",
+      "",
+      "minecraft:warped_planks",
+      "minecraft:barrel",
+      "minecraft:warped_planks",
+      "",
+      "minecraft:warped_planks",
+      ""
+    ]
+  },
+  "mcwtrpdoors:warped_beach_trapdoor": {
+    "result": "mcwtrpdoors:warped_beach_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:warped_planks",
+      "",
+      "",
+      "mcwtrpdoors:print_beach",
+      "",
+      "",
+      "minecraft:warped_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwtrpdoors:warped_blossom_trapdoor": {
+    "result": "mcwtrpdoors:warped_blossom_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:warped_planks",
+      "",
+      "",
+      "mcwtrpdoors:print_blossom",
+      "",
+      "",
+      "minecraft:warped_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwtrpdoors:warped_classic_trapdoor": {
+    "result": "mcwtrpdoors:warped_classic_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:warped_planks",
+      "",
+      "",
+      "mcwtrpdoors:print_classic",
+      "",
+      "",
+      "minecraft:warped_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwtrpdoors:warped_cottage_trapdoor": {
+    "result": "mcwtrpdoors:warped_cottage_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:warped_planks",
+      "",
+      "",
+      "mcwtrpdoors:print_cottage",
+      "",
+      "",
+      "minecraft:warped_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwtrpdoors:warped_four_panel_trapdoor": {
+    "result": "mcwtrpdoors:warped_four_panel_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:warped_planks",
+      "",
+      "",
+      "mcwtrpdoors:print_four_panel",
+      "",
+      "",
+      "minecraft:warped_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwtrpdoors:warped_glass_trapdoor": {
+    "result": "mcwtrpdoors:warped_glass_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "minecraft:warped_planks",
+      "minecraft:glass_pane",
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      "minecraft:glass_pane",
+      "minecraft:warped_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwtrpdoors:warped_paper_trapdoor": {
+    "result": "mcwtrpdoors:warped_paper_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:warped_planks",
+      "",
+      "",
+      "mcwtrpdoors:print_paper",
+      "",
+      "",
+      "minecraft:warped_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwtrpdoors:warped_ranch_trapdoor": {
+    "result": "mcwtrpdoors:warped_ranch_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "minecraft:warped_stem",
+      "minecraft:stick",
+      "minecraft:warped_stem",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:warped_stem",
+      "minecraft:stick",
+      "minecraft:warped_stem"
+    ]
+  },
+  "mcwtrpdoors:warped_swamp_trapdoor": {
+    "result": "mcwtrpdoors:warped_swamp_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:warped_planks",
+      "",
+      "",
+      "mcwtrpdoors:print_swamp",
+      "",
+      "",
+      "minecraft:warped_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwtrpdoors:warped_tropical_trapdoor": {
+    "result": "mcwtrpdoors:warped_tropical_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:warped_planks",
+      "",
+      "",
+      "mcwtrpdoors:print_tropical",
+      "",
+      "",
+      "minecraft:warped_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwtrpdoors:warped_whispering_trapdoor": {
+    "result": "mcwtrpdoors:warped_whispering_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:warped_planks",
+      "",
+      "",
+      "mcwtrpdoors:print_whispering",
+      "",
+      "",
+      "minecraft:warped_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwwindows:warped_blinds": {
+    "result": "mcwwindows:warped_blinds",
+    "count": 3,
+    "ingredients": [
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick"
+    ]
+  },
+  "mcwwindows:warped_curtain_rod": {
+    "result": "mcwwindows:warped_curtain_rod",
+    "count": 5,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:warped_stem",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwwindows:warped_louvered_shutter": {
+    "result": "mcwwindows:warped_louvered_shutter",
+    "count": 3,
+    "ingredients": [
+      "minecraft:warped_slab",
+      "",
+      "",
+      "minecraft:warped_slab",
+      "",
+      "",
+      "minecraft:warped_slab",
+      "",
+      ""
+    ]
+  },
+  "mcwwindows:warped_pane_window": {
+    "result": "mcwwindows:warped_pane_window",
+    "count": 8,
+    "ingredients": [
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "minecraft:warped_stem",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base"
+    ]
+  },
+  "mcwwindows:warped_planks_four_window": {
+    "result": "mcwwindows:warped_planks_four_window",
+    "count": 8,
+    "ingredients": [
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "minecraft:warped_planks",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base"
+    ]
+  },
+  "mcwwindows:warped_planks_window": {
+    "result": "mcwwindows:warped_planks_window",
+    "count": 4,
+    "ingredients": [
+      "",
+      "mcwwindows:window_base",
+      "",
+      "mcwwindows:window_base",
+      "minecraft:warped_planks",
+      "mcwwindows:window_base",
+      "",
+      "mcwwindows:window_base",
+      ""
+    ]
+  },
+  "mcwwindows:warped_planks_window2": {
+    "result": "mcwwindows:warped_planks_window2",
+    "count": 8,
+    "ingredients": [
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "minecraft:warped_planks",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base"
+    ]
+  },
+  "mcwwindows:warped_plank_pane_window": {
+    "result": "mcwwindows:warped_plank_pane_window",
+    "count": 8,
+    "ingredients": [
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "minecraft:warped_planks",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base"
+    ]
+  },
+  "mcwwindows:warped_plank_parapet": {
+    "result": "mcwwindows:warped_plank_parapet",
+    "count": 5,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:warped_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwwindows:warped_shutter": {
+    "result": "mcwwindows:warped_shutter",
+    "count": 3,
+    "ingredients": [
+      "minecraft:warped_trapdoor",
+      "",
+      "",
+      "minecraft:warped_trapdoor",
+      "",
+      "",
+      "minecraft:warped_trapdoor",
+      "",
+      ""
+    ]
+  },
+  "mcwwindows:warped_stem_four_window": {
+    "result": "mcwwindows:warped_stem_four_window",
+    "count": 8,
+    "ingredients": [
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "minecraft:warped_stem",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base"
+    ]
+  },
+  "mcwwindows:warped_stem_parapet": {
+    "result": "mcwwindows:warped_stem_parapet",
+    "count": 5,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:warped_stem",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwwindows:warped_stem_window": {
+    "result": "mcwwindows:warped_stem_window",
+    "count": 4,
+    "ingredients": [
+      "",
+      "mcwwindows:window_base",
+      "",
+      "mcwwindows:window_base",
+      "minecraft:warped_stem",
+      "mcwwindows:window_base",
+      "",
+      "mcwwindows:window_base",
+      ""
+    ]
+  },
+  "mcwwindows:warped_stem_window2": {
+    "result": "mcwwindows:warped_stem_window2",
+    "count": 8,
+    "ingredients": [
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "minecraft:warped_stem",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base"
+    ]
+  },
+  "merrymaking:warped_roof_slab": {
+    "result": "merrymaking:warped_roof_slab",
+    "count": 4,
+    "ingredients": [
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      "merrymaking:roof_tiles",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:warped_mantel": {
+    "result": "merrymaking:warped_mantel",
+    "count": 1,
+    "ingredients": [
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      "minecraft:warped_planks",
+      "",
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      "",
+      "minecraft:warped_planks"
+    ]
+  },
+  "merrymaking:warped_picket_fence": {
+    "result": "merrymaking:warped_picket_fence",
+    "count": 3,
+    "ingredients": [
+      "minecraft:warped_planks",
+      "minecraft:stick",
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      "minecraft:stick",
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      "minecraft:stick",
+      "minecraft:warped_planks"
+    ]
+  },
+  "merrymaking:warped_picket_fence_gate": {
+    "result": "merrymaking:warped_picket_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:warped_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:warped_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:warped_planks",
+      "minecraft:stick"
+    ]
+  },
+  "merrymaking:warped_wreath_door": {
+    "result": "merrymaking:warped_wreath_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:warped_door",
+      "merrymaking:christmas_wreath",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:warped_wreath_fence": {
+    "result": "merrymaking:warped_wreath_fence",
+    "count": 1,
+    "ingredients": [
+      "merrymaking:warped_picket_fence",
+      "merrymaking:garland_horizontal",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:warped_wreath_fence_gate": {
+    "result": "merrymaking:warped_wreath_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "merrymaking:warped_picket_fence_gate",
+      "merrymaking:christmas_wreath",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:warped_wreath_lights_multi_door": {
+    "result": "merrymaking:warped_wreath_lights_multi_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:warped_door",
+      "merrymaking:christmas_wreath_multi_lights",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:warped_wreath_multi_fence": {
+    "result": "merrymaking:warped_wreath_multi_fence",
+    "count": 1,
+    "ingredients": [
+      "merrymaking:warped_picket_fence",
+      "merrymaking:garland_horizontal_multi",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:warped_wreath_multi_fence_gate": {
+    "result": "merrymaking:warped_wreath_multi_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "merrymaking:warped_picket_fence_gate",
+      "merrymaking:christmas_wreath_multi_lights",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:warped_wreath_lights_white_door": {
+    "result": "merrymaking:warped_wreath_lights_white_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:warped_door",
+      "merrymaking:christmas_wreath_white_lights",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:warped_wreath_lights_fence": {
+    "result": "merrymaking:warped_wreath_lights_fence",
+    "count": 1,
+    "ingredients": [
+      "merrymaking:warped_picket_fence",
+      "merrymaking:garland_horizontal_lights",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:warped_wreath_lights_fence_gate": {
+    "result": "merrymaking:warped_wreath_lights_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "merrymaking:warped_picket_fence_gate",
+      "merrymaking:christmas_wreath_white_lights",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mffs:warn_module": {
+    "result": "mffs:warn_module",
+    "count": 1,
+    "ingredients": [
+      "minecraft:note_block",
+      "mffs:focus_matrix",
+      "minecraft:note_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:ward_armor_trim_smithing_template": {
+    "result": "minecraft:ward_armor_trim_smithing_template",
+    "count": 2,
+    "ingredients": [
+      "minecraft:diamond",
+      "minecraft:ward_armor_trim_smithing_template",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:cobbled_deepslate",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond"
+    ]
+  },
+  "minecraft:warped_button": {
+    "result": "minecraft:warped_button",
+    "count": 1,
+    "ingredients": [
+      "minecraft:warped_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:warped_fence": {
+    "result": "minecraft:warped_fence",
+    "count": 3,
+    "ingredients": [
+      "minecraft:warped_planks",
+      "minecraft:stick",
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      "minecraft:stick",
+      "minecraft:warped_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:warped_fence_gate": {
+    "result": "minecraft:warped_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:warped_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:warped_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:warped_fungus_on_a_stick": {
+    "result": "minecraft:warped_fungus_on_a_stick",
+    "count": 1,
+    "ingredients": [
+      "minecraft:fishing_rod",
+      "",
+      "",
+      "",
+      "minecraft:warped_fungus",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:warped_hanging_sign": {
+    "result": "minecraft:warped_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "minecraft:stripped_warped_stem",
+      "minecraft:stripped_warped_stem",
+      "minecraft:stripped_warped_stem",
+      "minecraft:stripped_warped_stem",
+      "minecraft:stripped_warped_stem",
+      "minecraft:stripped_warped_stem"
+    ]
+  },
+  "minecraft:warped_hyphae": {
+    "result": "minecraft:warped_hyphae",
+    "count": 3,
+    "ingredients": [
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "",
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:warped_planks": {
+    "result": "minecraft:warped_planks",
+    "count": 1,
+    "ingredients": [
+      "minecraft:warped_slab",
+      "",
+      "",
+      "",
+      "minecraft:warped_slab",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:warped_pressure_plate": {
+    "result": "minecraft:warped_pressure_plate",
+    "count": 4,
+    "ingredients": [
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:warped_sign": {
+    "result": "minecraft:warped_sign",
+    "count": 3,
+    "ingredients": [
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      "minecraft:warped_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "minecraft:warped_slab": {
+    "result": "minecraft:warped_slab",
+    "count": 24,
+    "ingredients": [
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:warped_stairs": {
+    "result": "minecraft:warped_stairs",
+    "count": 16,
+    "ingredients": [
+      "minecraft:warped_stem",
+      "",
+      "",
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "",
+      "minecraft:warped_stem",
+      "minecraft:warped_stem",
+      "minecraft:warped_stem"
+    ]
+  },
+  "minecraft:waxed_chiseled_copper": {
+    "result": "minecraft:waxed_chiseled_copper",
+    "count": 1,
+    "ingredients": [
+      "minecraft:chiseled_copper",
+      "minecraft:honeycomb",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:waxed_copper_block": {
+    "result": "minecraft:waxed_copper_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:copper_block",
+      "modern_industrialization:wax",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:waxed_copper_bulb": {
+    "result": "minecraft:waxed_copper_bulb",
+    "count": 1,
+    "ingredients": [
+      "minecraft:copper_bulb",
+      "minecraft:honeycomb",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:waxed_copper_door": {
+    "result": "minecraft:waxed_copper_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:copper_door",
+      "minecraft:honeycomb",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:waxed_copper_grate": {
+    "result": "minecraft:waxed_copper_grate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:copper_grate",
+      "minecraft:honeycomb",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:waxed_copper_trapdoor": {
+    "result": "minecraft:waxed_copper_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:copper_trapdoor",
+      "minecraft:honeycomb",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:waxed_cut_copper": {
+    "result": "minecraft:waxed_cut_copper",
+    "count": 1,
+    "ingredients": [
+      "minecraft:cut_copper",
+      "modern_industrialization:wax",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:waxed_cut_copper_slab": {
+    "result": "minecraft:waxed_cut_copper_slab",
+    "count": 1,
+    "ingredients": [
+      "minecraft:cut_copper_slab",
+      "modern_industrialization:wax",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:waxed_cut_copper_stairs": {
+    "result": "minecraft:waxed_cut_copper_stairs",
+    "count": 1,
+    "ingredients": [
+      "minecraft:cut_copper_stairs",
+      "modern_industrialization:wax",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:waxed_exposed_chiseled_copper": {
+    "result": "minecraft:waxed_exposed_chiseled_copper",
+    "count": 1,
+    "ingredients": [
+      "minecraft:exposed_chiseled_copper",
+      "minecraft:honeycomb",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:waxed_exposed_copper_bulb": {
+    "result": "minecraft:waxed_exposed_copper_bulb",
+    "count": 1,
+    "ingredients": [
+      "minecraft:exposed_copper_bulb",
+      "minecraft:honeycomb",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:waxed_exposed_copper_door": {
+    "result": "minecraft:waxed_exposed_copper_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:exposed_copper_door",
+      "minecraft:honeycomb",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:waxed_exposed_copper": {
+    "result": "minecraft:waxed_exposed_copper",
+    "count": 1,
+    "ingredients": [
+      "minecraft:exposed_copper",
+      "modern_industrialization:wax",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:waxed_exposed_copper_grate": {
+    "result": "minecraft:waxed_exposed_copper_grate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:exposed_copper_grate",
+      "minecraft:honeycomb",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:waxed_exposed_copper_trapdoor": {
+    "result": "minecraft:waxed_exposed_copper_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:exposed_copper_trapdoor",
+      "minecraft:honeycomb",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:waxed_exposed_cut_copper": {
+    "result": "minecraft:waxed_exposed_cut_copper",
+    "count": 1,
+    "ingredients": [
+      "minecraft:exposed_cut_copper",
+      "modern_industrialization:wax",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:waxed_exposed_cut_copper_slab": {
+    "result": "minecraft:waxed_exposed_cut_copper_slab",
+    "count": 1,
+    "ingredients": [
+      "minecraft:exposed_cut_copper_slab",
+      "modern_industrialization:wax",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:waxed_exposed_cut_copper_stairs": {
+    "result": "minecraft:waxed_exposed_cut_copper_stairs",
+    "count": 1,
+    "ingredients": [
+      "minecraft:exposed_cut_copper_stairs",
+      "modern_industrialization:wax",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:waxed_oxidized_chiseled_copper": {
+    "result": "minecraft:waxed_oxidized_chiseled_copper",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oxidized_chiseled_copper",
+      "minecraft:honeycomb",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:waxed_oxidized_copper_bulb": {
+    "result": "minecraft:waxed_oxidized_copper_bulb",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oxidized_copper_bulb",
+      "minecraft:honeycomb",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:waxed_oxidized_copper_door": {
+    "result": "minecraft:waxed_oxidized_copper_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oxidized_copper_door",
+      "minecraft:honeycomb",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:waxed_oxidized_copper": {
+    "result": "minecraft:waxed_oxidized_copper",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oxidized_copper",
+      "modern_industrialization:wax",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:waxed_oxidized_copper_grate": {
+    "result": "minecraft:waxed_oxidized_copper_grate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oxidized_copper_grate",
+      "minecraft:honeycomb",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:waxed_oxidized_copper_trapdoor": {
+    "result": "minecraft:waxed_oxidized_copper_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oxidized_copper_trapdoor",
+      "minecraft:honeycomb",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:waxed_oxidized_cut_copper": {
+    "result": "minecraft:waxed_oxidized_cut_copper",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oxidized_cut_copper",
+      "modern_industrialization:wax",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:waxed_oxidized_cut_copper_slab": {
+    "result": "minecraft:waxed_oxidized_cut_copper_slab",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oxidized_cut_copper_slab",
+      "modern_industrialization:wax",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:waxed_oxidized_cut_copper_stairs": {
+    "result": "minecraft:waxed_oxidized_cut_copper_stairs",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oxidized_cut_copper_stairs",
+      "modern_industrialization:wax",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:waxed_weathered_chiseled_copper": {
+    "result": "minecraft:waxed_weathered_chiseled_copper",
+    "count": 1,
+    "ingredients": [
+      "minecraft:weathered_chiseled_copper",
+      "minecraft:honeycomb",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:waxed_weathered_copper_bulb": {
+    "result": "minecraft:waxed_weathered_copper_bulb",
+    "count": 1,
+    "ingredients": [
+      "minecraft:weathered_copper_bulb",
+      "minecraft:honeycomb",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:waxed_weathered_copper_door": {
+    "result": "minecraft:waxed_weathered_copper_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:weathered_copper_door",
+      "minecraft:honeycomb",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:waxed_weathered_copper": {
+    "result": "minecraft:waxed_weathered_copper",
+    "count": 1,
+    "ingredients": [
+      "minecraft:weathered_copper",
+      "modern_industrialization:wax",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:waxed_weathered_copper_grate": {
+    "result": "minecraft:waxed_weathered_copper_grate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:weathered_copper_grate",
+      "minecraft:honeycomb",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:waxed_weathered_copper_trapdoor": {
+    "result": "minecraft:waxed_weathered_copper_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:weathered_copper_trapdoor",
+      "minecraft:honeycomb",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:waxed_weathered_cut_copper": {
+    "result": "minecraft:waxed_weathered_cut_copper",
+    "count": 1,
+    "ingredients": [
+      "minecraft:weathered_cut_copper",
+      "modern_industrialization:wax",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:waxed_weathered_cut_copper_slab": {
+    "result": "minecraft:waxed_weathered_cut_copper_slab",
+    "count": 1,
+    "ingredients": [
+      "minecraft:weathered_cut_copper_slab",
+      "modern_industrialization:wax",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:waxed_weathered_cut_copper_stairs": {
+    "result": "minecraft:waxed_weathered_cut_copper_stairs",
+    "count": 1,
+    "ingredients": [
+      "minecraft:weathered_cut_copper_stairs",
+      "modern_industrialization:wax",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:wayfinder_armor_trim_smithing_template": {
+    "result": "minecraft:wayfinder_armor_trim_smithing_template",
+    "count": 2,
+    "ingredients": [
+      "minecraft:diamond",
+      "minecraft:wayfinder_armor_trim_smithing_template",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:terracotta",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond"
+    ]
+  },
+  "mysticalagriculture:wand": {
+    "result": "mysticalagriculture:wand",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "mysticalagriculture:inferium_essence",
+      "",
+      "minecraft:stick",
+      "",
+      "minecraft:stone",
+      "",
+      ""
+    ]
+  },
+  "mysticalagriculture:watering_can": {
+    "result": "mysticalagriculture:watering_can",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:bone_meal",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:bowl",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      ""
+    ]
+  },
+  "mysticalagriculture:water_agglomeratio": {
+    "result": "mysticalagriculture:water_agglomeratio",
+    "count": 1,
+    "ingredients": [
+      "minecraft:water_bucket",
+      "minecraft:gravel",
+      "",
+      "minecraft:dirt",
+      "minecraft:clay_ball",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:warped_fungus": {
+    "result": "minecraft:warped_fungus",
+    "count": 4,
+    "ingredients": [
+      "",
+      "mysticalagriculture:nature_essence",
+      "",
+      "",
+      "mysticalagriculture:nether_essence",
+      "",
+      "",
+      "mysticalagriculture:nature_essence",
+      ""
+    ]
+  },
+  "minecraft:warped_nylium": {
+    "result": "minecraft:warped_nylium",
+    "count": 20,
+    "ingredients": [
+      "mysticalagriculture:nether_essence",
+      "mysticalagriculture:nether_essence",
+      "mysticalagriculture:nether_essence",
+      "mysticalagriculture:nature_essence",
+      "mysticalagriculture:nature_essence",
+      "mysticalagriculture:nature_essence",
+      "mysticalagriculture:nether_essence",
+      "mysticalagriculture:nether_essence",
+      "mysticalagriculture:nether_essence"
+    ]
+  },
+  "minecraft:warped_stem": {
+    "result": "minecraft:warped_stem",
+    "count": 12,
+    "ingredients": [
+      "",
+      "mysticalagriculture:wood_essence",
+      "",
+      "",
+      "mysticalagriculture:nether_essence",
+      "",
+      "",
+      "mysticalagriculture:wood_essence",
+      ""
+    ]
+  },
+  "pamhc2crops:waterchestnutseeditem": {
+    "result": "pamhc2crops:waterchestnutseeditem",
+    "count": 1,
+    "ingredients": [
+      "pamhc2crops:waterchestnutitem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:wafflesitem": {
+    "result": "pamhc2foodextended:wafflesitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_skillet",
+      "minecraft:cookingoil",
+      "minecraft:batter",
+      "minecraft:butter",
+      "minecraft:egg",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:walnutbutteritem": {
+    "result": "pamhc2foodextended:walnutbutteritem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_grinder",
+      "minecraft:walnut",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:walnutraisinbreaditem": {
+    "result": "pamhc2foodextended:walnutraisinbreaditem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:walnut",
+      "pamhc2foodextended:raisinsitem",
+      "minecraft:dough",
+      "minecraft:groundcinnamon",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2trees:walnut_sapling": {
+    "result": "pamhc2trees:walnut_sapling",
+    "count": 1,
+    "ingredients": [
+      "pamhc2trees:walnutitem",
+      "pamhc2trees:walnutitem",
+      "pamhc2trees:walnutitem",
+      "pamhc2trees:walnutitem",
+      "pamhc2trees:walnutitem",
+      "pamhc2trees:walnutitem",
+      "pamhc2trees:walnutitem",
+      "pamhc2trees:walnutitem",
+      "minecraft:saplings"
+    ]
+  },
+  "pneumaticcraft:wall_lamp_black": {
+    "result": "pneumaticcraft:wall_lamp_black",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:redstone",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:glowstone",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:black",
+      ""
+    ]
+  },
+  "pneumaticcraft:wall_lamp_blue": {
+    "result": "pneumaticcraft:wall_lamp_blue",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:redstone",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:glowstone",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:blue",
+      ""
+    ]
+  },
+  "pneumaticcraft:wall_lamp_brown": {
+    "result": "pneumaticcraft:wall_lamp_brown",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:redstone",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:glowstone",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:brown",
+      ""
+    ]
+  },
+  "pneumaticcraft:wall_lamp_cyan": {
+    "result": "pneumaticcraft:wall_lamp_cyan",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:redstone",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:glowstone",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:cyan",
+      ""
+    ]
+  },
+  "pneumaticcraft:wall_lamp_gray": {
+    "result": "pneumaticcraft:wall_lamp_gray",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:redstone",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:glowstone",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:gray",
+      ""
+    ]
+  },
+  "pneumaticcraft:wall_lamp_green": {
+    "result": "pneumaticcraft:wall_lamp_green",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:redstone",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:glowstone",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:green",
+      ""
+    ]
+  },
+  "pneumaticcraft:wall_lamp_inverted_black": {
+    "result": "pneumaticcraft:wall_lamp_inverted_black",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:redstone_torch",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:glowstone",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:black",
+      ""
+    ]
+  },
+  "pneumaticcraft:wall_lamp_inverted_blue": {
+    "result": "pneumaticcraft:wall_lamp_inverted_blue",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:redstone_torch",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:glowstone",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:blue",
+      ""
+    ]
+  },
+  "pneumaticcraft:wall_lamp_inverted_brown": {
+    "result": "pneumaticcraft:wall_lamp_inverted_brown",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:redstone_torch",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:glowstone",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:brown",
+      ""
+    ]
+  },
+  "pneumaticcraft:wall_lamp_inverted_cyan": {
+    "result": "pneumaticcraft:wall_lamp_inverted_cyan",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:redstone_torch",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:glowstone",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:cyan",
+      ""
+    ]
+  },
+  "pneumaticcraft:wall_lamp_inverted_gray": {
+    "result": "pneumaticcraft:wall_lamp_inverted_gray",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:redstone_torch",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:glowstone",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:gray",
+      ""
+    ]
+  },
+  "pneumaticcraft:wall_lamp_inverted_green": {
+    "result": "pneumaticcraft:wall_lamp_inverted_green",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:redstone_torch",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:glowstone",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:green",
+      ""
+    ]
+  },
+  "pneumaticcraft:wall_lamp_inverted_light_blue": {
+    "result": "pneumaticcraft:wall_lamp_inverted_light_blue",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:redstone_torch",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:glowstone",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:light_blue",
+      ""
+    ]
+  },
+  "pneumaticcraft:wall_lamp_inverted_light_gray": {
+    "result": "pneumaticcraft:wall_lamp_inverted_light_gray",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:redstone_torch",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:glowstone",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:light_gray",
+      ""
+    ]
+  },
+  "pneumaticcraft:wall_lamp_inverted_lime": {
+    "result": "pneumaticcraft:wall_lamp_inverted_lime",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:redstone_torch",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:glowstone",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:lime",
+      ""
+    ]
+  },
+  "pneumaticcraft:wall_lamp_inverted_magenta": {
+    "result": "pneumaticcraft:wall_lamp_inverted_magenta",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:redstone_torch",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:glowstone",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:magenta",
+      ""
+    ]
+  },
+  "pneumaticcraft:wall_lamp_inverted_orange": {
+    "result": "pneumaticcraft:wall_lamp_inverted_orange",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:redstone_torch",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:glowstone",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:orange",
+      ""
+    ]
+  },
+  "pneumaticcraft:wall_lamp_inverted_pink": {
+    "result": "pneumaticcraft:wall_lamp_inverted_pink",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:redstone_torch",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:glowstone",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:pink",
+      ""
+    ]
+  },
+  "pneumaticcraft:wall_lamp_inverted_purple": {
+    "result": "pneumaticcraft:wall_lamp_inverted_purple",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:redstone_torch",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:glowstone",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:purple",
+      ""
+    ]
+  },
+  "pneumaticcraft:wall_lamp_inverted_red": {
+    "result": "pneumaticcraft:wall_lamp_inverted_red",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:redstone_torch",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:glowstone",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:red",
+      ""
+    ]
+  },
+  "pneumaticcraft:wall_lamp_inverted_white": {
+    "result": "pneumaticcraft:wall_lamp_inverted_white",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:redstone_torch",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:glowstone",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:white",
+      ""
+    ]
+  },
+  "pneumaticcraft:wall_lamp_inverted_yellow": {
+    "result": "pneumaticcraft:wall_lamp_inverted_yellow",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:redstone_torch",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:glowstone",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:yellow",
+      ""
+    ]
+  },
+  "pneumaticcraft:wall_lamp_light_blue": {
+    "result": "pneumaticcraft:wall_lamp_light_blue",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:redstone",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:glowstone",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:light_blue",
+      ""
+    ]
+  },
+  "pneumaticcraft:wall_lamp_light_gray": {
+    "result": "pneumaticcraft:wall_lamp_light_gray",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:redstone",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:glowstone",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:light_gray",
+      ""
+    ]
+  },
+  "pneumaticcraft:wall_lamp_lime": {
+    "result": "pneumaticcraft:wall_lamp_lime",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:redstone",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:glowstone",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:lime",
+      ""
+    ]
+  },
+  "pneumaticcraft:wall_lamp_magenta": {
+    "result": "pneumaticcraft:wall_lamp_magenta",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:redstone",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:glowstone",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:magenta",
+      ""
+    ]
+  },
+  "pneumaticcraft:wall_lamp_orange": {
+    "result": "pneumaticcraft:wall_lamp_orange",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:redstone",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:glowstone",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:orange",
+      ""
+    ]
+  },
+  "pneumaticcraft:wall_lamp_pink": {
+    "result": "pneumaticcraft:wall_lamp_pink",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:redstone",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:glowstone",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:pink",
+      ""
+    ]
+  },
+  "pneumaticcraft:wall_lamp_purple": {
+    "result": "pneumaticcraft:wall_lamp_purple",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:redstone",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:glowstone",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:purple",
+      ""
+    ]
+  },
+  "pneumaticcraft:wall_lamp_red": {
+    "result": "pneumaticcraft:wall_lamp_red",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:redstone",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:glowstone",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:red",
+      ""
+    ]
+  },
+  "pneumaticcraft:wall_lamp_white": {
+    "result": "pneumaticcraft:wall_lamp_white",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:redstone",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:glowstone",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:white",
+      ""
+    ]
+  },
+  "pneumaticcraft:wall_lamp_yellow": {
+    "result": "pneumaticcraft:wall_lamp_yellow",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:redstone",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:glowstone",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:yellow",
+      ""
+    ]
+  },
+  "productivebees:wax": {
+    "result": "productivebees:wax",
+    "count": 9,
+    "ingredients": [
+      "productivebees:wax_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:walnut_bookshelf": {
+    "result": "productivetrees:walnut_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:walnut_planks",
+      "productivetrees:walnut_planks",
+      "productivetrees:walnut_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:walnut_planks",
+      "productivetrees:walnut_planks",
+      "productivetrees:walnut_planks"
+    ]
+  },
+  "productivetrees:water_wonder_bookshelf": {
+    "result": "productivetrees:water_wonder_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:water_wonder_planks",
+      "productivetrees:water_wonder_planks",
+      "productivetrees:water_wonder_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:water_wonder_planks",
+      "productivetrees:water_wonder_planks",
+      "productivetrees:water_wonder_planks"
+    ]
+  },
+  "productivetrees:walnut_button": {
+    "result": "productivetrees:walnut_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:walnut_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:water_wonder_button": {
+    "result": "productivetrees:water_wonder_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:water_wonder_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:walnut_crate": {
+    "result": "productivetrees:walnut_crate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:walnut",
+      "minecraft:walnut",
+      "minecraft:walnut",
+      "minecraft:walnut",
+      "productivetrees:walnut",
+      "minecraft:walnut",
+      "minecraft:walnut",
+      "minecraft:walnut",
+      "minecraft:walnut"
+    ]
+  },
+  "productivetrees:walnut": {
+    "result": "productivetrees:walnut",
+    "count": 9,
+    "ingredients": [
+      "productivetrees:walnut_crate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:walnut_door": {
+    "result": "productivetrees:walnut_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:walnut_planks",
+      "productivetrees:walnut_planks",
+      "",
+      "productivetrees:walnut_planks",
+      "productivetrees:walnut_planks",
+      "",
+      "productivetrees:walnut_planks",
+      "productivetrees:walnut_planks",
+      ""
+    ]
+  },
+  "productivetrees:water_wonder_door": {
+    "result": "productivetrees:water_wonder_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:water_wonder_planks",
+      "productivetrees:water_wonder_planks",
+      "",
+      "productivetrees:water_wonder_planks",
+      "productivetrees:water_wonder_planks",
+      "",
+      "productivetrees:water_wonder_planks",
+      "productivetrees:water_wonder_planks",
+      ""
+    ]
+  },
+  "productivetrees:walnut_fence": {
+    "result": "productivetrees:walnut_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:walnut_planks",
+      "minecraft:stick",
+      "productivetrees:walnut_planks",
+      "productivetrees:walnut_planks",
+      "minecraft:stick",
+      "productivetrees:walnut_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:water_wonder_fence": {
+    "result": "productivetrees:water_wonder_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:water_wonder_planks",
+      "minecraft:stick",
+      "productivetrees:water_wonder_planks",
+      "productivetrees:water_wonder_planks",
+      "minecraft:stick",
+      "productivetrees:water_wonder_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:walnut_fence_gate": {
+    "result": "productivetrees:walnut_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:walnut_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:walnut_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:water_wonder_fence_gate": {
+    "result": "productivetrees:water_wonder_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:water_wonder_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:water_wonder_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:walnut_hanging_sign": {
+    "result": "productivetrees:walnut_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:walnut_planks",
+      "productivetrees:walnut_planks",
+      "productivetrees:walnut_planks",
+      "productivetrees:walnut_planks",
+      "productivetrees:walnut_planks",
+      "productivetrees:walnut_planks"
+    ]
+  },
+  "productivetrees:water_wonder_hanging_sign": {
+    "result": "productivetrees:water_wonder_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:water_wonder_planks",
+      "productivetrees:water_wonder_planks",
+      "productivetrees:water_wonder_planks",
+      "productivetrees:water_wonder_planks",
+      "productivetrees:water_wonder_planks",
+      "productivetrees:water_wonder_planks"
+    ]
+  },
+  "productivetrees:walnut_planks": {
+    "result": "productivetrees:walnut_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:water_wonder_planks": {
+    "result": "productivetrees:water_wonder_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:walnut_pressure_plate": {
+    "result": "productivetrees:walnut_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:walnut_planks",
+      "productivetrees:walnut_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:water_wonder_pressure_plate": {
+    "result": "productivetrees:water_wonder_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:water_wonder_planks",
+      "productivetrees:water_wonder_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:walnut_sign": {
+    "result": "productivetrees:walnut_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:walnut_planks",
+      "productivetrees:walnut_planks",
+      "productivetrees:walnut_planks",
+      "productivetrees:walnut_planks",
+      "productivetrees:walnut_planks",
+      "productivetrees:walnut_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:water_wonder_sign": {
+    "result": "productivetrees:water_wonder_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:water_wonder_planks",
+      "productivetrees:water_wonder_planks",
+      "productivetrees:water_wonder_planks",
+      "productivetrees:water_wonder_planks",
+      "productivetrees:water_wonder_planks",
+      "productivetrees:water_wonder_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:walnut_slab": {
+    "result": "productivetrees:walnut_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:walnut_planks",
+      "productivetrees:walnut_planks",
+      "productivetrees:walnut_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:water_wonder_slab": {
+    "result": "productivetrees:water_wonder_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:water_wonder_planks",
+      "productivetrees:water_wonder_planks",
+      "productivetrees:water_wonder_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:walnut_stairs": {
+    "result": "productivetrees:walnut_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:walnut_planks",
+      "",
+      "",
+      "productivetrees:walnut_planks",
+      "productivetrees:walnut_planks",
+      "",
+      "productivetrees:walnut_planks",
+      "productivetrees:walnut_planks",
+      "productivetrees:walnut_planks"
+    ]
+  },
+  "productivetrees:water_wonder_stairs": {
+    "result": "productivetrees:water_wonder_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:water_wonder_planks",
+      "",
+      "",
+      "productivetrees:water_wonder_planks",
+      "productivetrees:water_wonder_planks",
+      "",
+      "productivetrees:water_wonder_planks",
+      "productivetrees:water_wonder_planks",
+      "productivetrees:water_wonder_planks"
+    ]
+  },
+  "productivetrees:walnut_trapdoor": {
+    "result": "productivetrees:walnut_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:walnut_planks",
+      "productivetrees:walnut_planks",
+      "productivetrees:walnut_planks",
+      "productivetrees:walnut_planks",
+      "productivetrees:walnut_planks",
+      "productivetrees:walnut_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:water_wonder_trapdoor": {
+    "result": "productivetrees:water_wonder_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:water_wonder_planks",
+      "productivetrees:water_wonder_planks",
+      "productivetrees:water_wonder_planks",
+      "productivetrees:water_wonder_planks",
+      "productivetrees:water_wonder_planks",
+      "productivetrees:water_wonder_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:walnut_wood": {
+    "result": "productivetrees:walnut_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:walnut_log",
+      "productivetrees:walnut_log",
+      "",
+      "productivetrees:walnut_log",
+      "productivetrees:walnut_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:water_wonder_wood": {
+    "result": "productivetrees:water_wonder_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:water_wonder_log",
+      "productivetrees:water_wonder_log",
+      "",
+      "productivetrees:water_wonder_log",
+      "productivetrees:water_wonder_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:water_tank_siding": {
+    "result": "railcraft:water_tank_siding",
+    "count": 6,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:iron_ingot",
+      "minecraft:slime_ball",
+      "minecraft:iron_ingot",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks"
+    ]
+  },
+  "refurbished_furniture:warped_dark_ceiling_fan": {
+    "result": "refurbished_furniture:warped_dark_ceiling_fan",
+    "count": 1,
+    "ingredients": [
+      "refurbished_furniture:warped_light_ceiling_fan",
+      "minecraft:black_dye",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "sfm:water_tank": {
+    "result": "sfm:water_tank",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_bars",
+      "minecraft:water_bucket",
+      "minecraft:iron_bars",
+      "minecraft:iron_bars",
+      "minecraft:light_weighted_pressure_plate",
+      "minecraft:iron_bars",
+      "minecraft:iron_bars",
+      "minecraft:water_bucket",
+      "minecraft:iron_bars"
+    ]
+  },
+  "simplylight:wall_lamp": {
+    "result": "simplylight:wall_lamp",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:white_dye",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture"
+    ]
+  },
+  "simplylight:wall_lamp_black": {
+    "result": "simplylight:wall_lamp_black",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:black_dye",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture"
+    ]
+  },
+  "simplylight:wall_lamp_blue": {
+    "result": "simplylight:wall_lamp_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:blue_dye",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture"
+    ]
+  },
+  "simplylight:wall_lamp_brown": {
+    "result": "simplylight:wall_lamp_brown",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:brown_dye",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture"
+    ]
+  },
+  "simplylight:wall_lamp_cyan": {
+    "result": "simplylight:wall_lamp_cyan",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:cyan_dye",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture"
+    ]
+  },
+  "simplylight:wall_lamp_gray": {
+    "result": "simplylight:wall_lamp_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:gray_dye",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture"
+    ]
+  },
+  "simplylight:wall_lamp_green": {
+    "result": "simplylight:wall_lamp_green",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:green_dye",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture"
+    ]
+  },
+  "simplylight:wall_lamp_light_blue": {
+    "result": "simplylight:wall_lamp_light_blue",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:light_blue_dye",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture"
+    ]
+  },
+  "simplylight:wall_lamp_light_gray": {
+    "result": "simplylight:wall_lamp_light_gray",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:light_gray_dye",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture"
+    ]
+  },
+  "simplylight:wall_lamp_lime": {
+    "result": "simplylight:wall_lamp_lime",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:lime_dye",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture"
+    ]
+  },
+  "simplylight:wall_lamp_magenta": {
+    "result": "simplylight:wall_lamp_magenta",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:magenta_dye",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture"
+    ]
+  },
+  "simplylight:wall_lamp_orange": {
+    "result": "simplylight:wall_lamp_orange",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:orange_dye",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture"
+    ]
+  },
+  "simplylight:wall_lamp_pink": {
+    "result": "simplylight:wall_lamp_pink",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:pink_dye",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture"
+    ]
+  },
+  "simplylight:wall_lamp_purple": {
+    "result": "simplylight:wall_lamp_purple",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:purple_dye",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture"
+    ]
+  },
+  "simplylight:wall_lamp_red": {
+    "result": "simplylight:wall_lamp_red",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:red_dye",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture"
+    ]
+  },
+  "simplylight:wall_lamp_yellow": {
+    "result": "simplylight:wall_lamp_yellow",
+    "count": 8,
+    "ingredients": [
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:yellow_dye",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture",
+      "minecraft:any_fixture"
+    ]
+  },
+  "sophisticatedstorage:warped_storage_connector": {
+    "result": "sophisticatedstorage:warped_storage_connector",
+    "count": 4,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:warped_planks",
+      "minecraft:stick",
+      "minecraft:warped_planks",
+      "minecraft:stick",
+      "minecraft:warped_planks",
+      "minecraft:stick",
+      "minecraft:warped_planks",
+      "minecraft:stick"
+    ]
+  },
+  "storagedelight:warped_bookshelf_with_door": {
+    "result": "storagedelight:warped_bookshelf_with_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      "minecraft:warped_trapdoor",
+      "minecraft:warped_slab",
+      "minecraft:bookshelf",
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      "minecraft:warped_slab"
+    ]
+  },
+  "storagedelight:warped_cabinet_with_glass_doors": {
+    "result": "storagedelight:warped_cabinet_with_glass_doors",
+    "count": 1,
+    "ingredients": [
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      "minecraft:glass",
+      "minecraft:warped_trapdoor",
+      "minecraft:glass",
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      "minecraft:warped_slab"
+    ]
+  },
+  "storagedelight:warped_cabinet_with_polished_andesite_countertop": {
+    "result": "storagedelight:warped_cabinet_with_polished_andesite_countertop",
+    "count": 1,
+    "ingredients": [
+      "minecraft:polished_andesite_slab",
+      "minecraft:polished_andesite_slab",
+      "minecraft:polished_andesite_slab",
+      "minecraft:warped_trapdoor",
+      "",
+      "minecraft:warped_trapdoor",
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      "minecraft:warped_slab"
+    ]
+  },
+  "storagedelight:warped_cabinet_with_polished_deepslate_countertop": {
+    "result": "storagedelight:warped_cabinet_with_polished_deepslate_countertop",
+    "count": 1,
+    "ingredients": [
+      "minecraft:polished_deepslate_slab",
+      "minecraft:polished_deepslate_slab",
+      "minecraft:polished_deepslate_slab",
+      "minecraft:warped_trapdoor",
+      "",
+      "minecraft:warped_trapdoor",
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      "minecraft:warped_slab"
+    ]
+  },
+  "storagedelight:warped_cabinet_with_polished_tuff_countertop": {
+    "result": "storagedelight:warped_cabinet_with_polished_tuff_countertop",
+    "count": 1,
+    "ingredients": [
+      "minecraft:polished_tuff_slab",
+      "minecraft:polished_tuff_slab",
+      "minecraft:polished_tuff_slab",
+      "minecraft:warped_trapdoor",
+      "",
+      "minecraft:warped_trapdoor",
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      "minecraft:warped_slab"
+    ]
+  },
+  "storagedelight:warped_drawer": {
+    "result": "storagedelight:warped_drawer",
+    "count": 1,
+    "ingredients": [
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      "minecraft:warped_trapdoor",
+      "minecraft:warped_trapdoor",
+      "minecraft:warped_trapdoor",
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      "minecraft:warped_slab"
+    ]
+  },
+  "storagedelight:warped_drawer_with_books": {
+    "result": "storagedelight:warped_drawer_with_books",
+    "count": 1,
+    "ingredients": [
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      "minecraft:warped_trapdoor",
+      "minecraft:warped_trapdoor",
+      "minecraft:warped_trapdoor",
+      "minecraft:warped_slab",
+      "minecraft:bookshelf",
+      "minecraft:warped_slab"
+    ]
+  },
+  "storagedelight:warped_drawer_with_door": {
+    "result": "storagedelight:warped_drawer_with_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      "minecraft:warped_trapdoor",
+      "minecraft:warped_trapdoor",
+      "minecraft:warped_trapdoor",
+      "minecraft:warped_slab",
+      "minecraft:warped_trapdoor",
+      "minecraft:warped_slab"
+    ]
+  },
+  "storagedelight:warped_single_door_cabinet": {
+    "result": "storagedelight:warped_single_door_cabinet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      "",
+      "minecraft:warped_trapdoor",
+      "",
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      "minecraft:warped_slab"
+    ]
+  },
+  "supplementaries:way_sign_oak": {
+    "result": "supplementaries:way_sign_oak",
+    "count": 2,
+    "ingredients": [
+      "minecraft:oak_sign",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:warped_banister": {
+    "result": "twilightforest:warped_banister",
+    "count": 3,
+    "ingredients": [
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      "minecraft:stick",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:warped_drying_rack": {
+    "result": "twilightforest:warped_drying_rack",
+    "count": 1,
+    "ingredients": [
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      "minecraft:warped_slab",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "waystones:warp_dust": {
+    "result": "waystones:warp_dust",
+    "count": 4,
+    "ingredients": [
+      "minecraft:ender_pearl",
+      "minecraft:amethyst_shard",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "waystones:warp_plate": {
+    "result": "waystones:warp_plate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone_bricks",
+      "waystones:warp_dust",
+      "minecraft:stone_bricks",
+      "waystones:warp_dust",
+      "waystones:dormant_shard",
+      "waystones:warp_dust",
+      "minecraft:stone_bricks",
+      "waystones:warp_dust",
+      "minecraft:stone_bricks"
+    ]
+  },
+  "waystones:warp_scroll": {
+    "result": "waystones:warp_scroll",
+    "count": 3,
+    "ingredients": [
+      "minecraft:gold",
+      "minecraft:ink_sac",
+      "minecraft:gold",
+      "minecraft:gold",
+      "minecraft:ender_pearl",
+      "minecraft:gold",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper"
+    ]
+  },
+  "waystones:warp_stone": {
+    "result": "waystones:warp_stone",
+    "count": 1,
+    "ingredients": [
+      "minecraft:amethyst_shard",
+      "minecraft:ender_pearl",
+      "minecraft:amethyst_shard",
+      "minecraft:ender_pearl",
+      "minecraft:emerald",
+      "minecraft:ender_pearl",
+      "minecraft:amethyst_shard",
+      "minecraft:ender_pearl",
+      "minecraft:amethyst_shard"
+    ]
+  },
+  "waystones:waystone": {
+    "result": "waystones:waystone",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stone_bricks",
+      "",
+      "minecraft:stone_bricks",
+      "waystones:warp_stone",
+      "minecraft:stone_bricks",
+      "minecraft:obsidian",
+      "minecraft:obsidian",
+      "minecraft:obsidian"
+    ]
+  }
+}

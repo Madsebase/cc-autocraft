@@ -1,0 +1,1937 @@
+{
+  "actuallyadditions:travelers_sack": {
+    "result": "actuallyadditions:travelers_sack",
+    "count": 1,
+    "ingredients": [
+      "minecraft:string",
+      "minecraft:leather",
+      "minecraft:string",
+      "minecraft:string",
+      "minecraft:chest",
+      "minecraft:string",
+      "minecraft:leather",
+      "actuallyadditions:void_crystal_block",
+      "minecraft:leather"
+    ]
+  },
+  "minecraft:tripwire_hook": {
+    "result": "minecraft:tripwire_hook",
+    "count": 2,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:oak_planks",
+      "",
+      ""
+    ]
+  },
+  "apothic_enchanting:treasure_shelf": {
+    "result": "apothic_enchanting:treasure_shelf",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold",
+      "apothic_enchanting:deepshelf",
+      "minecraft:gold",
+      "minecraft:diamond",
+      "minecraft:emerald",
+      "minecraft:diamond",
+      "minecraft:gold",
+      "apothic_enchanting:deepshelf",
+      "minecraft:gold"
+    ]
+  },
+  "bibliocraft:tropicraft_mahogany_bookcase": {
+    "result": "bibliocraft:tropicraft_mahogany_bookcase",
+    "count": 1,
+    "ingredients": [
+      "tropicraft:mahogany_planks",
+      "tropicraft:mahogany_slab",
+      "tropicraft:mahogany_planks",
+      "tropicraft:mahogany_planks",
+      "tropicraft:mahogany_slab",
+      "tropicraft:mahogany_planks",
+      "tropicraft:mahogany_planks",
+      "tropicraft:mahogany_slab",
+      "tropicraft:mahogany_planks"
+    ]
+  },
+  "bibliocraft:tropicraft_mahogany_fancy_armor_stand": {
+    "result": "bibliocraft:tropicraft_mahogany_fancy_armor_stand",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "tropicraft:mahogany_slab",
+      "tropicraft:mahogany_slab",
+      "tropicraft:mahogany_slab"
+    ]
+  },
+  "bibliocraft:tropicraft_mahogany_fancy_clock": {
+    "result": "bibliocraft:tropicraft_mahogany_fancy_clock",
+    "count": 1,
+    "ingredients": [
+      "tropicraft:mahogany_slab",
+      "minecraft:clock",
+      "tropicraft:mahogany_slab",
+      "tropicraft:mahogany_slab",
+      "minecraft:stick",
+      "tropicraft:mahogany_slab",
+      "tropicraft:mahogany_slab",
+      "minecraft:copper_ingot",
+      "tropicraft:mahogany_slab"
+    ]
+  },
+  "bibliocraft:tropicraft_mahogany_fancy_crafter": {
+    "result": "bibliocraft:tropicraft_mahogany_fancy_crafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black",
+      "minecraft:crafting_tables",
+      "minecraft:feather",
+      "tropicraft:mahogany_planks",
+      "minecraft:glass",
+      "tropicraft:mahogany_planks",
+      "tropicraft:mahogany_planks",
+      "minecraft:crafter",
+      "tropicraft:mahogany_planks"
+    ]
+  },
+  "bibliocraft:tropicraft_mahogany_fancy_sign": {
+    "result": "bibliocraft:tropicraft_mahogany_fancy_sign",
+    "count": 1,
+    "ingredients": [
+      "tropicraft:mahogany_planks",
+      "minecraft:paper",
+      "tropicraft:mahogany_planks",
+      "tropicraft:mahogany_planks",
+      "minecraft:paper",
+      "tropicraft:mahogany_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "bibliocraft:tropicraft_mahogany_grandfather_clock": {
+    "result": "bibliocraft:tropicraft_mahogany_grandfather_clock",
+    "count": 1,
+    "ingredients": [
+      "bibliocraft:tropicraft_mahogany_fancy_clock",
+      "bibliocraft:tropicraft_mahogany_fancy_clock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:tropicraft_mahogany_label": {
+    "result": "bibliocraft:tropicraft_mahogany_label",
+    "count": 1,
+    "ingredients": [
+      "tropicraft:mahogany_slab",
+      "tropicraft:mahogany_slab",
+      "tropicraft:mahogany_slab",
+      "tropicraft:mahogany_slab",
+      "tropicraft:mahogany_slab",
+      "tropicraft:mahogany_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:tropicraft_mahogany_potion_shelf": {
+    "result": "bibliocraft:tropicraft_mahogany_potion_shelf",
+    "count": 1,
+    "ingredients": [
+      "tropicraft:mahogany_slab",
+      "tropicraft:mahogany_slab",
+      "tropicraft:mahogany_slab",
+      "tropicraft:mahogany_planks",
+      "minecraft:glass_bottle",
+      "tropicraft:mahogany_planks",
+      "tropicraft:mahogany_slab",
+      "tropicraft:mahogany_slab",
+      "tropicraft:mahogany_slab"
+    ]
+  },
+  "bibliocraft:tropicraft_mahogany_shelf": {
+    "result": "bibliocraft:tropicraft_mahogany_shelf",
+    "count": 1,
+    "ingredients": [
+      "tropicraft:mahogany_slab",
+      "tropicraft:mahogany_slab",
+      "tropicraft:mahogany_slab",
+      "",
+      "tropicraft:mahogany_planks",
+      "",
+      "tropicraft:mahogany_slab",
+      "tropicraft:mahogany_slab",
+      "tropicraft:mahogany_slab"
+    ]
+  },
+  "bibliocraft:tropicraft_mahogany_table": {
+    "result": "bibliocraft:tropicraft_mahogany_table",
+    "count": 1,
+    "ingredients": [
+      "tropicraft:mahogany_slab",
+      "tropicraft:mahogany_slab",
+      "tropicraft:mahogany_slab",
+      "",
+      "tropicraft:mahogany_planks",
+      "",
+      "",
+      "tropicraft:mahogany_planks",
+      ""
+    ]
+  },
+  "bibliocraft:tropicraft_mahogany_tool_rack": {
+    "result": "bibliocraft:tropicraft_mahogany_tool_rack",
+    "count": 1,
+    "ingredients": [
+      "tropicraft:mahogany_slab",
+      "tropicraft:mahogany_slab",
+      "tropicraft:mahogany_slab",
+      "tropicraft:mahogany_slab",
+      "minecraft:iron_ingot",
+      "tropicraft:mahogany_slab",
+      "tropicraft:mahogany_slab",
+      "tropicraft:mahogany_slab",
+      "tropicraft:mahogany_slab"
+    ]
+  },
+  "bibliocraft:tropicraft_mangrove_bookcase": {
+    "result": "bibliocraft:tropicraft_mangrove_bookcase",
+    "count": 1,
+    "ingredients": [
+      "tropicraft:mangrove_planks",
+      "tropicraft:mangrove_slab",
+      "tropicraft:mangrove_planks",
+      "tropicraft:mangrove_planks",
+      "tropicraft:mangrove_slab",
+      "tropicraft:mangrove_planks",
+      "tropicraft:mangrove_planks",
+      "tropicraft:mangrove_slab",
+      "tropicraft:mangrove_planks"
+    ]
+  },
+  "bibliocraft:tropicraft_mangrove_fancy_armor_stand": {
+    "result": "bibliocraft:tropicraft_mangrove_fancy_armor_stand",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "tropicraft:mangrove_slab",
+      "tropicraft:mangrove_slab",
+      "tropicraft:mangrove_slab"
+    ]
+  },
+  "bibliocraft:tropicraft_mangrove_fancy_clock": {
+    "result": "bibliocraft:tropicraft_mangrove_fancy_clock",
+    "count": 1,
+    "ingredients": [
+      "tropicraft:mangrove_slab",
+      "minecraft:clock",
+      "tropicraft:mangrove_slab",
+      "tropicraft:mangrove_slab",
+      "minecraft:stick",
+      "tropicraft:mangrove_slab",
+      "tropicraft:mangrove_slab",
+      "minecraft:copper_ingot",
+      "tropicraft:mangrove_slab"
+    ]
+  },
+  "bibliocraft:tropicraft_mangrove_fancy_crafter": {
+    "result": "bibliocraft:tropicraft_mangrove_fancy_crafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black",
+      "minecraft:crafting_tables",
+      "minecraft:feather",
+      "tropicraft:mangrove_planks",
+      "minecraft:glass",
+      "tropicraft:mangrove_planks",
+      "tropicraft:mangrove_planks",
+      "minecraft:crafter",
+      "tropicraft:mangrove_planks"
+    ]
+  },
+  "bibliocraft:tropicraft_mangrove_fancy_sign": {
+    "result": "bibliocraft:tropicraft_mangrove_fancy_sign",
+    "count": 1,
+    "ingredients": [
+      "tropicraft:mangrove_planks",
+      "minecraft:paper",
+      "tropicraft:mangrove_planks",
+      "tropicraft:mangrove_planks",
+      "minecraft:paper",
+      "tropicraft:mangrove_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "bibliocraft:tropicraft_mangrove_grandfather_clock": {
+    "result": "bibliocraft:tropicraft_mangrove_grandfather_clock",
+    "count": 1,
+    "ingredients": [
+      "bibliocraft:tropicraft_mangrove_fancy_clock",
+      "bibliocraft:tropicraft_mangrove_fancy_clock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:tropicraft_mangrove_label": {
+    "result": "bibliocraft:tropicraft_mangrove_label",
+    "count": 1,
+    "ingredients": [
+      "tropicraft:mangrove_slab",
+      "tropicraft:mangrove_slab",
+      "tropicraft:mangrove_slab",
+      "tropicraft:mangrove_slab",
+      "tropicraft:mangrove_slab",
+      "tropicraft:mangrove_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:tropicraft_mangrove_potion_shelf": {
+    "result": "bibliocraft:tropicraft_mangrove_potion_shelf",
+    "count": 1,
+    "ingredients": [
+      "tropicraft:mangrove_slab",
+      "tropicraft:mangrove_slab",
+      "tropicraft:mangrove_slab",
+      "tropicraft:mangrove_planks",
+      "minecraft:glass_bottle",
+      "tropicraft:mangrove_planks",
+      "tropicraft:mangrove_slab",
+      "tropicraft:mangrove_slab",
+      "tropicraft:mangrove_slab"
+    ]
+  },
+  "bibliocraft:tropicraft_mangrove_shelf": {
+    "result": "bibliocraft:tropicraft_mangrove_shelf",
+    "count": 1,
+    "ingredients": [
+      "tropicraft:mangrove_slab",
+      "tropicraft:mangrove_slab",
+      "tropicraft:mangrove_slab",
+      "",
+      "tropicraft:mangrove_planks",
+      "",
+      "tropicraft:mangrove_slab",
+      "tropicraft:mangrove_slab",
+      "tropicraft:mangrove_slab"
+    ]
+  },
+  "bibliocraft:tropicraft_mangrove_table": {
+    "result": "bibliocraft:tropicraft_mangrove_table",
+    "count": 1,
+    "ingredients": [
+      "tropicraft:mangrove_slab",
+      "tropicraft:mangrove_slab",
+      "tropicraft:mangrove_slab",
+      "",
+      "tropicraft:mangrove_planks",
+      "",
+      "",
+      "tropicraft:mangrove_planks",
+      ""
+    ]
+  },
+  "bibliocraft:tropicraft_mangrove_tool_rack": {
+    "result": "bibliocraft:tropicraft_mangrove_tool_rack",
+    "count": 1,
+    "ingredients": [
+      "tropicraft:mangrove_slab",
+      "tropicraft:mangrove_slab",
+      "tropicraft:mangrove_slab",
+      "tropicraft:mangrove_slab",
+      "minecraft:iron_ingot",
+      "tropicraft:mangrove_slab",
+      "tropicraft:mangrove_slab",
+      "tropicraft:mangrove_slab",
+      "tropicraft:mangrove_slab"
+    ]
+  },
+  "bibliocraft:tropicraft_palm_bookcase": {
+    "result": "bibliocraft:tropicraft_palm_bookcase",
+    "count": 1,
+    "ingredients": [
+      "tropicraft:palm_planks",
+      "tropicraft:palm_slab",
+      "tropicraft:palm_planks",
+      "tropicraft:palm_planks",
+      "tropicraft:palm_slab",
+      "tropicraft:palm_planks",
+      "tropicraft:palm_planks",
+      "tropicraft:palm_slab",
+      "tropicraft:palm_planks"
+    ]
+  },
+  "bibliocraft:tropicraft_palm_fancy_armor_stand": {
+    "result": "bibliocraft:tropicraft_palm_fancy_armor_stand",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "tropicraft:palm_slab",
+      "tropicraft:palm_slab",
+      "tropicraft:palm_slab"
+    ]
+  },
+  "bibliocraft:tropicraft_palm_fancy_clock": {
+    "result": "bibliocraft:tropicraft_palm_fancy_clock",
+    "count": 1,
+    "ingredients": [
+      "tropicraft:palm_slab",
+      "minecraft:clock",
+      "tropicraft:palm_slab",
+      "tropicraft:palm_slab",
+      "minecraft:stick",
+      "tropicraft:palm_slab",
+      "tropicraft:palm_slab",
+      "minecraft:copper_ingot",
+      "tropicraft:palm_slab"
+    ]
+  },
+  "bibliocraft:tropicraft_palm_fancy_crafter": {
+    "result": "bibliocraft:tropicraft_palm_fancy_crafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black",
+      "minecraft:crafting_tables",
+      "minecraft:feather",
+      "tropicraft:palm_planks",
+      "minecraft:glass",
+      "tropicraft:palm_planks",
+      "tropicraft:palm_planks",
+      "minecraft:crafter",
+      "tropicraft:palm_planks"
+    ]
+  },
+  "bibliocraft:tropicraft_palm_fancy_sign": {
+    "result": "bibliocraft:tropicraft_palm_fancy_sign",
+    "count": 1,
+    "ingredients": [
+      "tropicraft:palm_planks",
+      "minecraft:paper",
+      "tropicraft:palm_planks",
+      "tropicraft:palm_planks",
+      "minecraft:paper",
+      "tropicraft:palm_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "bibliocraft:tropicraft_palm_grandfather_clock": {
+    "result": "bibliocraft:tropicraft_palm_grandfather_clock",
+    "count": 1,
+    "ingredients": [
+      "bibliocraft:tropicraft_palm_fancy_clock",
+      "bibliocraft:tropicraft_palm_fancy_clock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:tropicraft_palm_label": {
+    "result": "bibliocraft:tropicraft_palm_label",
+    "count": 1,
+    "ingredients": [
+      "tropicraft:palm_slab",
+      "tropicraft:palm_slab",
+      "tropicraft:palm_slab",
+      "tropicraft:palm_slab",
+      "tropicraft:palm_slab",
+      "tropicraft:palm_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:tropicraft_palm_potion_shelf": {
+    "result": "bibliocraft:tropicraft_palm_potion_shelf",
+    "count": 1,
+    "ingredients": [
+      "tropicraft:palm_slab",
+      "tropicraft:palm_slab",
+      "tropicraft:palm_slab",
+      "tropicraft:palm_planks",
+      "minecraft:glass_bottle",
+      "tropicraft:palm_planks",
+      "tropicraft:palm_slab",
+      "tropicraft:palm_slab",
+      "tropicraft:palm_slab"
+    ]
+  },
+  "bibliocraft:tropicraft_palm_shelf": {
+    "result": "bibliocraft:tropicraft_palm_shelf",
+    "count": 1,
+    "ingredients": [
+      "tropicraft:palm_slab",
+      "tropicraft:palm_slab",
+      "tropicraft:palm_slab",
+      "",
+      "tropicraft:palm_planks",
+      "",
+      "tropicraft:palm_slab",
+      "tropicraft:palm_slab",
+      "tropicraft:palm_slab"
+    ]
+  },
+  "bibliocraft:tropicraft_palm_table": {
+    "result": "bibliocraft:tropicraft_palm_table",
+    "count": 1,
+    "ingredients": [
+      "tropicraft:palm_slab",
+      "tropicraft:palm_slab",
+      "tropicraft:palm_slab",
+      "",
+      "tropicraft:palm_planks",
+      "",
+      "",
+      "tropicraft:palm_planks",
+      ""
+    ]
+  },
+  "bibliocraft:tropicraft_palm_tool_rack": {
+    "result": "bibliocraft:tropicraft_palm_tool_rack",
+    "count": 1,
+    "ingredients": [
+      "tropicraft:palm_slab",
+      "tropicraft:palm_slab",
+      "tropicraft:palm_slab",
+      "tropicraft:palm_slab",
+      "minecraft:iron_ingot",
+      "tropicraft:palm_slab",
+      "tropicraft:palm_slab",
+      "tropicraft:palm_slab",
+      "tropicraft:palm_slab"
+    ]
+  },
+  "create:tree_fertilizer": {
+    "result": "create:tree_fertilizer",
+    "count": 2,
+    "ingredients": [
+      "minecraft:small_flowers",
+      "minecraft:small_flowers",
+      "minecraft:horn_coral",
+      "minecraft:bone_meal",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:track_observer": {
+    "result": "create:track_observer",
+    "count": 2,
+    "ingredients": [
+      "create:railway_casing",
+      "minecraft:stone_pressure_plate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:track_signal": {
+    "result": "create:track_signal",
+    "count": 4,
+    "ingredients": [
+      "create:railway_casing",
+      "create:electron_tube",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:track_station": {
+    "result": "create:track_station",
+    "count": 2,
+    "ingredients": [
+      "create:railway_casing",
+      "minecraft:compass",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:train_door": {
+    "result": "create:train_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:wooden_doors",
+      "create:railway_casing",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:train_trapdoor": {
+    "result": "create:train_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:wooden_trapdoors",
+      "create:railway_casing",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:transmitter": {
+    "result": "create:transmitter",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:lightning_rod",
+      "",
+      "minecraft:copper",
+      "minecraft:copper",
+      "minecraft:copper",
+      "",
+      "minecraft:redstone",
+      ""
+    ]
+  },
+  "minecraft:trident": {
+    "result": "minecraft:trident",
+    "count": 1,
+    "ingredients": [
+      "",
+      "create_aquatic_ambitions:spiky_shell",
+      "create_aquatic_ambitions:spiky_shell",
+      "",
+      "create_aquatic_ambitions:prismarine_alloy_rod",
+      "create_aquatic_ambitions:spiky_shell",
+      "create_aquatic_ambitions:prismarine_alloy_rod",
+      "",
+      ""
+    ]
+  },
+  "easy_villagers:trader": {
+    "result": "easy_villagers:trader",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:redstone",
+      "minecraft:glass",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "enderio:travel_anchor": {
+    "result": "enderio:travel_anchor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "enderio:conduit_binder",
+      "minecraft:iron_ingot",
+      "enderio:conduit_binder",
+      "minecraft:pulsating_crystal",
+      "enderio:conduit_binder",
+      "minecraft:iron_ingot",
+      "enderio:conduit_binder",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "enderio:transparent_conduit_facade": {
+    "result": "enderio:transparent_conduit_facade",
+    "count": 1,
+    "ingredients": [
+      "enderio:conduit_facade",
+      "minecraft:glass",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "enderio:transparent_hardened_conduit_facade": {
+    "result": "enderio:transparent_hardened_conduit_facade",
+    "count": 1,
+    "ingredients": [
+      "enderio:hardened_conduit_facade",
+      "minecraft:glass",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "handcrafted:tropical_fish_trophy": {
+    "result": "handcrafted:tropical_fish_trophy",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:tropical_fish",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks"
+    ]
+  },
+  "immersiveengineering:transformer": {
+    "result": "immersiveengineering:transformer",
+    "count": 1,
+    "ingredients": [
+      "immersiveengineering:connector_lv",
+      "immersiveengineering:connector_mv",
+      "",
+      "immersiveengineering:component_electronic",
+      "immersiveengineering:coil_mv",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      ""
+    ]
+  },
+  "immersiveengineering:transformer_hv": {
+    "result": "immersiveengineering:transformer_hv",
+    "count": 1,
+    "ingredients": [
+      "immersiveengineering:connector_mv",
+      "immersiveengineering:connector_hv",
+      "",
+      "immersiveengineering:component_electronic",
+      "immersiveengineering:coil_hv",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      ""
+    ]
+  },
+  "immersiveengineering:treated_door_framed": {
+    "result": "immersiveengineering:treated_door_framed",
+    "count": 1,
+    "ingredients": [
+      "immersiveengineering:treated_door",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:treated_door": {
+    "result": "immersiveengineering:treated_door",
+    "count": 1,
+    "ingredients": [
+      "immersiveengineering:treated_door_framed",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:treated_fence": {
+    "result": "immersiveengineering:treated_fence",
+    "count": 3,
+    "ingredients": [
+      "minecraft:treated_wood",
+      "minecraft:treated_wood",
+      "minecraft:treated_wood",
+      "minecraft:treated_wood",
+      "minecraft:treated_wood",
+      "minecraft:treated_wood",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:treated_fence_gate": {
+    "result": "immersiveengineering:treated_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:treated_wood",
+      "minecraft:treated_wood",
+      "minecraft:treated_wood",
+      "minecraft:treated_wood",
+      "minecraft:treated_wood",
+      "minecraft:treated_wood",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:treated_post": {
+    "result": "immersiveengineering:treated_post",
+    "count": 1,
+    "ingredients": [
+      "immersiveengineering:treated_fence",
+      "",
+      "",
+      "immersiveengineering:treated_fence",
+      "",
+      "",
+      "minecraft:stone_bricks",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:treated_scaffold": {
+    "result": "immersiveengineering:treated_scaffold",
+    "count": 6,
+    "ingredients": [
+      "minecraft:treated_wood",
+      "minecraft:treated_wood",
+      "minecraft:treated_wood",
+      "",
+      "minecraft:treated_wood",
+      "",
+      "minecraft:treated_wood",
+      "",
+      "minecraft:treated_wood"
+    ]
+  },
+  "immersiveengineering:treated_trapdoor_framed": {
+    "result": "immersiveengineering:treated_trapdoor_framed",
+    "count": 1,
+    "ingredients": [
+      "immersiveengineering:treated_trapdoor",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:treated_trapdoor": {
+    "result": "immersiveengineering:treated_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "immersiveengineering:treated_trapdoor_framed",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:treated_wallmount": {
+    "result": "immersiveengineering:treated_wallmount",
+    "count": 4,
+    "ingredients": [
+      "minecraft:treated_wood",
+      "minecraft:treated_wood",
+      "",
+      "minecraft:treated_wood",
+      "minecraft:treated_wood",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:treated_wood_hanging_sign": {
+    "result": "immersiveengineering:treated_wood_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "minecraft:treated_wood",
+      "minecraft:treated_wood",
+      "minecraft:treated_wood",
+      "minecraft:treated_wood",
+      "minecraft:treated_wood",
+      "minecraft:treated_wood"
+    ]
+  },
+  "immersiveengineering:treated_wood_horizontal": {
+    "result": "immersiveengineering:treated_wood_horizontal",
+    "count": 1,
+    "ingredients": [
+      "immersiveengineering:slab_treated_wood_horizontal",
+      "",
+      "",
+      "immersiveengineering:slab_treated_wood_horizontal",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:treated_wood_packaged": {
+    "result": "immersiveengineering:treated_wood_packaged",
+    "count": 1,
+    "ingredients": [
+      "immersiveengineering:treated_wood_vertical",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:treated_wood_sign": {
+    "result": "immersiveengineering:treated_wood_sign",
+    "count": 3,
+    "ingredients": [
+      "minecraft:treated_wood",
+      "minecraft:treated_wood",
+      "minecraft:treated_wood",
+      "minecraft:treated_wood",
+      "minecraft:treated_wood",
+      "minecraft:treated_wood",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "immersiveengineering:treated_wood_vertical": {
+    "result": "immersiveengineering:treated_wood_vertical",
+    "count": 1,
+    "ingredients": [
+      "immersiveengineering:slab_treated_wood_vertical",
+      "",
+      "",
+      "immersiveengineering:slab_treated_wood_vertical",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "irons_lib:transmog_table": {
+    "result": "irons_lib:transmog_table",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "",
+      "",
+      "minecraft:smithing_table",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwholidays:tree_balloon": {
+    "result": "mcwholidays:tree_balloon",
+    "count": 1,
+    "ingredients": [
+      "minecraft:green_dye",
+      "",
+      "",
+      "minecraft:white_wool",
+      "",
+      "",
+      "minecraft:string",
+      "",
+      ""
+    ]
+  },
+  "mcwholidays:tree_doormat": {
+    "result": "mcwholidays:tree_doormat",
+    "count": 8,
+    "ingredients": [
+      "minecraft:brown_carpet",
+      "minecraft:brown_carpet",
+      "minecraft:brown_carpet",
+      "minecraft:brown_carpet",
+      "minecraft:green_dye",
+      "minecraft:brown_carpet",
+      "minecraft:brown_carpet",
+      "minecraft:brown_carpet",
+      "minecraft:brown_carpet"
+    ]
+  },
+  "mcwholidays:triangle_cobweb": {
+    "result": "mcwholidays:triangle_cobweb",
+    "count": 4,
+    "ingredients": [
+      "minecraft:cobweb",
+      "minecraft:cobweb",
+      "minecraft:cobweb",
+      "",
+      "minecraft:cobweb",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:tree_christmas_cookie": {
+    "result": "merrymaking:tree_christmas_cookie",
+    "count": 8,
+    "ingredients": [
+      "minecraft:green_dye",
+      "merrymaking:icing",
+      "merrymaking:cookie_dough",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:tree_garland": {
+    "result": "merrymaking:tree_garland",
+    "count": 1,
+    "ingredients": [
+      "merrymaking:dried_sweet_berries",
+      "merrymaking:dried_sweet_berries",
+      "merrymaking:dried_sweet_berries",
+      "merrymaking:dried_sweet_berries",
+      "minecraft:string",
+      "merrymaking:dried_sweet_berries",
+      "merrymaking:dried_sweet_berries",
+      "merrymaking:dried_sweet_berries",
+      "merrymaking:dried_sweet_berries"
+    ]
+  },
+  "merrymaking:tree_lights_multi": {
+    "result": "merrymaking:tree_lights_multi",
+    "count": 4,
+    "ingredients": [
+      "minecraft:iron_nugget",
+      "minecraft:redstone",
+      "merrymaking:green_wires",
+      "merrymaking:multi_bulbs",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:tree_lights_white": {
+    "result": "merrymaking:tree_lights_white",
+    "count": 4,
+    "ingredients": [
+      "minecraft:iron_nugget",
+      "minecraft:redstone",
+      "merrymaking:green_wires",
+      "merrymaking:white_bulbs",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mffs:translation_module": {
+    "result": "mffs:translation_module",
+    "count": 2,
+    "ingredients": [
+      "mffs:focus_matrix",
+      "mffs:scale_module",
+      "mffs:focus_matrix",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:trapped_chest": {
+    "result": "minecraft:trapped_chest",
+    "count": 1,
+    "ingredients": [
+      "minecraft:chest",
+      "minecraft:tripwire_hook",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:trash_can": {
+    "result": "modern_industrialization:trash_can",
+    "count": 1,
+    "ingredients": [
+      "minecraft:steel",
+      "minecraft:steel",
+      "minecraft:steel",
+      "minecraft:steel",
+      "minecraft:lava_bucket",
+      "minecraft:steel",
+      "minecraft:steel",
+      "minecraft:steel",
+      "minecraft:steel"
+    ]
+  },
+  "modern_industrialization:transistor": {
+    "result": "modern_industrialization:transistor",
+    "count": 4,
+    "ingredients": [
+      "",
+      "modern_industrialization:electrum_fine_wire",
+      "",
+      "minecraft:steel",
+      "minecraft:steel",
+      "minecraft:steel",
+      "modern_industrialization:silicon_p_doped_plate",
+      "modern_industrialization:silicon_n_doped_plate",
+      "modern_industrialization:silicon_p_doped_plate"
+    ]
+  },
+  "minecraft:tropical_fish": {
+    "result": "minecraft:tropical_fish",
+    "count": 6,
+    "ingredients": [
+      "mysticalagriculture:fish_essence",
+      "",
+      "mysticalagriculture:fish_essence",
+      "",
+      "mysticalagriculture:fish_essence",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "oritech:transparent_item_pipe": {
+    "result": "oritech:transparent_item_pipe",
+    "count": 6,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:glass",
+      "minecraft:nickel",
+      "minecraft:glass",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks"
+    ]
+  },
+  "oritech:treefeller_block": {
+    "result": "oritech:treefeller_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:electrum",
+      "minecraft:electrum",
+      "minecraft:electrum",
+      "minecraft:electrum",
+      "oritech:motor",
+      "minecraft:electrum",
+      "minecraft:iron_axe",
+      "minecraft:plating",
+      "minecraft:iron_axe"
+    ]
+  },
+  "pamhc2crops:truffleseeditem": {
+    "result": "pamhc2crops:truffleseeditem",
+    "count": 1,
+    "ingredients": [
+      "pamhc2crops:truffleitem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:trailmixitem": {
+    "result": "pamhc2foodcore:trailmixitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:chocolatebar",
+      "minecraft:salt",
+      "minecraft:seeds",
+      "minecraft:fruits",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pneumaticcraft:transfer_gadget": {
+    "result": "pneumaticcraft:transfer_gadget",
+    "count": 1,
+    "ingredients": [
+      "minecraft:hopper",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivebees:treat_on_a_stick": {
+    "result": "productivebees:treat_on_a_stick",
+    "count": 1,
+    "ingredients": [
+      "productivebees:treat_on_a_stick",
+      "productivebees:honey_treat",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:track_layer": {
+    "result": "railcraft:track_layer",
+    "count": 1,
+    "ingredients": [
+      "minecraft:yellow",
+      "minecraft:redstone_lamp",
+      "minecraft:yellow",
+      "minecraft:anvil",
+      "minecraft:steel",
+      "minecraft:anvil",
+      "minecraft:dispenser",
+      "minecraft:minecart",
+      "minecraft:dispenser"
+    ]
+  },
+  "railcraft:track_relayer": {
+    "result": "railcraft:track_relayer",
+    "count": 1,
+    "ingredients": [
+      "minecraft:yellow",
+      "minecraft:redstone_lamp",
+      "minecraft:yellow",
+      "minecraft:blaze_rod",
+      "minecraft:steel",
+      "minecraft:blaze_rod",
+      "minecraft:diamond_pickaxe",
+      "minecraft:minecart",
+      "minecraft:diamond_pickaxe"
+    ]
+  },
+  "railcraft:track_remover": {
+    "result": "railcraft:track_remover",
+    "count": 1,
+    "ingredients": [
+      "minecraft:yellow",
+      "minecraft:redstone_lamp",
+      "minecraft:yellow",
+      "minecraft:sticky_piston",
+      "minecraft:steel",
+      "minecraft:sticky_piston",
+      "minecraft:crowbar",
+      "minecraft:minecart",
+      "minecraft:crowbar"
+    ]
+  },
+  "railcraft:track_undercutter": {
+    "result": "railcraft:track_undercutter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:yellow",
+      "minecraft:redstone_lamp",
+      "minecraft:yellow",
+      "minecraft:piston",
+      "minecraft:steel",
+      "minecraft:piston",
+      "minecraft:diamond_shovel",
+      "minecraft:minecart",
+      "minecraft:diamond_shovel"
+    ]
+  },
+  "railcraft:train_detector": {
+    "result": "railcraft:train_detector",
+    "count": 1,
+    "ingredients": [
+      "minecraft:nether_brick",
+      "minecraft:nether_brick",
+      "minecraft:nether_brick",
+      "minecraft:nether_brick",
+      "minecraft:stone_pressure_plate",
+      "minecraft:nether_brick",
+      "minecraft:nether_brick",
+      "minecraft:nether_brick",
+      "minecraft:nether_brick"
+    ]
+  },
+  "railcraft:train_dispenser": {
+    "result": "railcraft:train_dispenser",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "minecraft:crowbar",
+      "minecraft:redstone",
+      "minecraft:crowbar",
+      "railcraft:cart_dispenser",
+      "minecraft:crowbar",
+      "minecraft:redstone",
+      "minecraft:crowbar",
+      "minecraft:redstone"
+    ]
+  },
+  "railcraft:transition_track_kit": {
+    "result": "railcraft:transition_track_kit",
+    "count": 8,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "railcraft:track_parts",
+      "railcraft:advanced_rail",
+      "railcraft:advanced_rail",
+      "minecraft:redstone",
+      "minecraft:redstone",
+      "",
+      "",
+      ""
+    ]
+  },
+  "securitycraft:track_mine": {
+    "result": "securitycraft:track_mine",
+    "count": 6,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:stick",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:gunpowder",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "securitycraft:trophy_system": {
+    "result": "securitycraft:trophy_system",
+    "count": 1,
+    "ingredients": [
+      "",
+      "securitycraft:sentry",
+      "",
+      "",
+      "securitycraft:reinforced_iron_block",
+      "",
+      "minecraft:stick",
+      "",
+      "minecraft:stick"
+    ]
+  },
+  "silentgear:trident_blueprint": {
+    "result": "silentgear:trident_blueprint",
+    "count": 1,
+    "ingredients": [
+      "minecraft:paper",
+      "minecraft:heart_of_the_sea",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:trident",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      ""
+    ]
+  },
+  "supplementaries:trapped_present": {
+    "result": "supplementaries:trapped_present",
+    "count": 1,
+    "ingredients": [
+      "create:cardboard",
+      "create:cardboard",
+      "create:cardboard",
+      "create:cardboard",
+      "minecraft:tripwire_hook",
+      "create:cardboard",
+      "create:cardboard",
+      "create:cardboard",
+      "create:cardboard"
+    ]
+  },
+  "twilightforest:transformation_boat": {
+    "result": "twilightforest:transformation_boat",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:transformation_planks",
+      "",
+      "twilightforest:transformation_planks",
+      "twilightforest:transformation_planks",
+      "twilightforest:transformation_planks",
+      "twilightforest:transformation_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:transformation_chest_boat": {
+    "result": "twilightforest:transformation_chest_boat",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:transformation_boat",
+      "minecraft:chest",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:treated_leather": {
+    "result": "twilightforest:treated_leather",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:tannin",
+      "minecraft:leather",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:travellers_boots": {
+    "result": "twilightforest:travellers_boots",
+    "count": 1,
+    "ingredients": [
+      "minecraft:string",
+      "",
+      "minecraft:string",
+      "twilightforest:tanned_leather",
+      "",
+      "twilightforest:tanned_leather",
+      "twilightforest:tanned_leather",
+      "",
+      "twilightforest:tanned_leather"
+    ]
+  },
+  "twilightforest:travellers_gloves": {
+    "result": "twilightforest:travellers_gloves",
+    "count": 1,
+    "ingredients": [
+      "minecraft:string",
+      "",
+      "minecraft:string",
+      "twilightforest:tanned_leather",
+      "",
+      "twilightforest:tanned_leather",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:travellers_goggles": {
+    "result": "twilightforest:travellers_goggles",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:tanned_leather",
+      "",
+      "twilightforest:tanned_leather",
+      "minecraft:glass",
+      "twilightforest:tanned_leather",
+      "minecraft:glass",
+      "minecraft:gold_ingot",
+      "",
+      "minecraft:gold_ingot"
+    ]
+  },
+  "twilightforest:travellers_vest": {
+    "result": "twilightforest:travellers_vest",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:tanned_leather",
+      "",
+      "twilightforest:tanned_leather",
+      "twilightforest:tanned_leather",
+      "minecraft:white_wool",
+      "twilightforest:tanned_leather",
+      "twilightforest:tanned_leather",
+      "minecraft:white_wool",
+      "twilightforest:tanned_leather"
+    ]
+  },
+  "twilightforest:travellers_wings": {
+    "result": "twilightforest:travellers_wings",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "",
+      "minecraft:gold_ingot",
+      "minecraft:copper_ingot",
+      "twilightforest:tanned_leather",
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "minecraft:carminite",
+      "minecraft:copper_ingot"
+    ]
+  },
+  "twilightforest:transformation_banister": {
+    "result": "twilightforest:transformation_banister",
+    "count": 3,
+    "ingredients": [
+      "twilightforest:transformation_slab",
+      "twilightforest:transformation_slab",
+      "twilightforest:transformation_slab",
+      "minecraft:stick",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:transformation_button": {
+    "result": "twilightforest:transformation_button",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:transformation_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:transformation_chest": {
+    "result": "twilightforest:transformation_chest",
+    "count": 2,
+    "ingredients": [
+      "twilightforest:transformation_planks",
+      "twilightforest:transformation_planks",
+      "twilightforest:transformation_planks",
+      "twilightforest:transformation_planks",
+      "minecraft:chest",
+      "twilightforest:transformation_planks",
+      "twilightforest:transformation_planks",
+      "twilightforest:transformation_planks",
+      "twilightforest:transformation_planks"
+    ]
+  },
+  "twilightforest:transformation_door": {
+    "result": "twilightforest:transformation_door",
+    "count": 3,
+    "ingredients": [
+      "twilightforest:transformation_planks",
+      "twilightforest:transformation_planks",
+      "",
+      "twilightforest:transformation_planks",
+      "twilightforest:transformation_planks",
+      "",
+      "twilightforest:transformation_planks",
+      "twilightforest:transformation_planks",
+      ""
+    ]
+  },
+  "twilightforest:transformation_drying_rack": {
+    "result": "twilightforest:transformation_drying_rack",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:transformation_slab",
+      "twilightforest:transformation_slab",
+      "twilightforest:transformation_slab",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:transformation_fence": {
+    "result": "twilightforest:transformation_fence",
+    "count": 3,
+    "ingredients": [
+      "twilightforest:transformation_planks",
+      "minecraft:stick",
+      "twilightforest:transformation_planks",
+      "twilightforest:transformation_planks",
+      "minecraft:stick",
+      "twilightforest:transformation_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:transformation_fence_gate": {
+    "result": "twilightforest:transformation_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "twilightforest:transformation_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "twilightforest:transformation_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:transformation_hanging_sign": {
+    "result": "twilightforest:transformation_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "twilightforest:stripped_transformation_log",
+      "twilightforest:stripped_transformation_log",
+      "twilightforest:stripped_transformation_log",
+      "twilightforest:stripped_transformation_log",
+      "twilightforest:stripped_transformation_log",
+      "twilightforest:stripped_transformation_log"
+    ]
+  },
+  "twilightforest:transformation_planks": {
+    "result": "twilightforest:transformation_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:transformation_pressure_plate": {
+    "result": "twilightforest:transformation_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:transformation_planks",
+      "twilightforest:transformation_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:transformation_sign": {
+    "result": "twilightforest:transformation_sign",
+    "count": 3,
+    "ingredients": [
+      "twilightforest:transformation_planks",
+      "twilightforest:transformation_planks",
+      "twilightforest:transformation_planks",
+      "twilightforest:transformation_planks",
+      "twilightforest:transformation_planks",
+      "twilightforest:transformation_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "twilightforest:transformation_slab": {
+    "result": "twilightforest:transformation_slab",
+    "count": 6,
+    "ingredients": [
+      "twilightforest:transformation_planks",
+      "twilightforest:transformation_planks",
+      "twilightforest:transformation_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:transformation_stairs": {
+    "result": "twilightforest:transformation_stairs",
+    "count": 8,
+    "ingredients": [
+      "twilightforest:transformation_planks",
+      "",
+      "",
+      "twilightforest:transformation_planks",
+      "twilightforest:transformation_planks",
+      "",
+      "twilightforest:transformation_planks",
+      "twilightforest:transformation_planks",
+      "twilightforest:transformation_planks"
+    ]
+  },
+  "twilightforest:transformation_trapdoor": {
+    "result": "twilightforest:transformation_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "twilightforest:transformation_planks",
+      "twilightforest:transformation_planks",
+      "twilightforest:transformation_planks",
+      "twilightforest:transformation_planks",
+      "twilightforest:transformation_planks",
+      "twilightforest:transformation_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:transformation_trapped_chest": {
+    "result": "twilightforest:transformation_trapped_chest",
+    "count": 2,
+    "ingredients": [
+      "twilightforest:transformation_planks",
+      "twilightforest:transformation_planks",
+      "twilightforest:transformation_planks",
+      "twilightforest:transformation_planks",
+      "minecraft:trapped_chest",
+      "twilightforest:transformation_planks",
+      "twilightforest:transformation_planks",
+      "twilightforest:transformation_planks",
+      "twilightforest:transformation_planks"
+    ]
+  },
+  "twilightforest:transformation_wood": {
+    "result": "twilightforest:transformation_wood",
+    "count": 3,
+    "ingredients": [
+      "twilightforest:transformation_log",
+      "twilightforest:transformation_log",
+      "",
+      "twilightforest:transformation_log",
+      "twilightforest:transformation_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:tremblecrust_bricks": {
+    "result": "undergarden:tremblecrust_bricks",
+    "count": 4,
+    "ingredients": [
+      "undergarden:tremblecrust",
+      "undergarden:tremblecrust",
+      "",
+      "undergarden:tremblecrust",
+      "undergarden:tremblecrust",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:tremblecrust_brick_slab": {
+    "result": "undergarden:tremblecrust_brick_slab",
+    "count": 6,
+    "ingredients": [
+      "undergarden:tremblecrust_bricks",
+      "undergarden:tremblecrust_bricks",
+      "undergarden:tremblecrust_bricks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:tremblecrust_brick_stairs": {
+    "result": "undergarden:tremblecrust_brick_stairs",
+    "count": 4,
+    "ingredients": [
+      "undergarden:tremblecrust_bricks",
+      "",
+      "",
+      "undergarden:tremblecrust_bricks",
+      "undergarden:tremblecrust_bricks",
+      "",
+      "undergarden:tremblecrust_bricks",
+      "undergarden:tremblecrust_bricks",
+      "undergarden:tremblecrust_bricks"
+    ]
+  },
+  "undergarden:tremblecrust_brick_wall": {
+    "result": "undergarden:tremblecrust_brick_wall",
+    "count": 6,
+    "ingredients": [
+      "undergarden:tremblecrust_bricks",
+      "undergarden:tremblecrust_bricks",
+      "undergarden:tremblecrust_bricks",
+      "undergarden:tremblecrust_bricks",
+      "undergarden:tremblecrust_bricks",
+      "undergarden:tremblecrust_bricks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:tremblecrust_button": {
+    "result": "undergarden:tremblecrust_button",
+    "count": 1,
+    "ingredients": [
+      "undergarden:tremblecrust",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:tremblecrust_pressure_plate": {
+    "result": "undergarden:tremblecrust_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "undergarden:tremblecrust",
+      "undergarden:tremblecrust",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:tremblecrust_slab": {
+    "result": "undergarden:tremblecrust_slab",
+    "count": 6,
+    "ingredients": [
+      "undergarden:tremblecrust",
+      "undergarden:tremblecrust",
+      "undergarden:tremblecrust",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:tremblecrust_stairs": {
+    "result": "undergarden:tremblecrust_stairs",
+    "count": 4,
+    "ingredients": [
+      "undergarden:tremblecrust",
+      "",
+      "",
+      "undergarden:tremblecrust",
+      "undergarden:tremblecrust",
+      "",
+      "undergarden:tremblecrust",
+      "undergarden:tremblecrust",
+      "undergarden:tremblecrust"
+    ]
+  },
+  "undergarden:tremblecrust_wall": {
+    "result": "undergarden:tremblecrust_wall",
+    "count": 6,
+    "ingredients": [
+      "undergarden:tremblecrust",
+      "undergarden:tremblecrust",
+      "undergarden:tremblecrust",
+      "undergarden:tremblecrust",
+      "undergarden:tremblecrust",
+      "undergarden:tremblecrust",
+      "",
+      "",
+      ""
+    ]
+  },
+  "utilitarian:trowel": {
+    "result": "utilitarian:trowel",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      ""
+    ]
+  }
+}

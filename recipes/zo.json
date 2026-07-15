@@ -1,0 +1,992 @@
+{
+  "minecraft:zombie_head": {
+    "result": "minecraft:zombie_head",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:zombie_essence",
+      "mysticalagriculture:zombie_essence",
+      "mysticalagriculture:zombie_essence",
+      "mysticalagriculture:zombie_essence",
+      "mysticalagriculture:blank_skull",
+      "mysticalagriculture:zombie_essence",
+      "mysticalagriculture:zombie_essence",
+      "mysticalagriculture:zombie_essence",
+      "mysticalagriculture:zombie_essence"
+    ]
+  },
+  "reliquary:zombie_heart": {
+    "result": "reliquary:zombie_heart",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:rotten_flesh",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "xtonesreworked:zoea_block_0": {
+    "result": "xtonesreworked:zoea_block_0",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:white",
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:zoea"
+    ]
+  },
+  "xtonesreworked:zoea_block_15": {
+    "result": "xtonesreworked:zoea_block_15",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:black",
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:zoea"
+    ]
+  },
+  "xtonesreworked:zoea_block_1": {
+    "result": "xtonesreworked:zoea_block_1",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:yellow",
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:zoea"
+    ]
+  },
+  "xtonesreworked:zoea_block_10": {
+    "result": "xtonesreworked:zoea_block_10",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:pink",
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:zoea"
+    ]
+  },
+  "xtonesreworked:zoea_block_11": {
+    "result": "xtonesreworked:zoea_block_11",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:red",
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:zoea"
+    ]
+  },
+  "xtonesreworked:zoea_block_12": {
+    "result": "xtonesreworked:zoea_block_12",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:red",
+      "minecraft:zoea"
+    ]
+  },
+  "xtonesreworked:zoea_block_13": {
+    "result": "xtonesreworked:zoea_block_13",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:orange",
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:zoea"
+    ]
+  },
+  "xtonesreworked:zoea_block_14": {
+    "result": "xtonesreworked:zoea_block_14",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:brown",
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:zoea"
+    ]
+  },
+  "xtonesreworked:zoea_block_2": {
+    "result": "xtonesreworked:zoea_block_2",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:lime",
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:zoea"
+    ]
+  },
+  "xtonesreworked:zoea_block_3": {
+    "result": "xtonesreworked:zoea_block_3",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:green",
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:zoea"
+    ]
+  },
+  "xtonesreworked:zoea_block_4": {
+    "result": "xtonesreworked:zoea_block_4",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:cyan",
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:zoea"
+    ]
+  },
+  "xtonesreworked:zoea_block_5": {
+    "result": "xtonesreworked:zoea_block_5",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:light_blue",
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:zoea"
+    ]
+  },
+  "xtonesreworked:zoea_block_6": {
+    "result": "xtonesreworked:zoea_block_6",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:blue",
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:zoea"
+    ]
+  },
+  "xtonesreworked:zoea_block_7": {
+    "result": "xtonesreworked:zoea_block_7",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:blue",
+      "minecraft:zoea"
+    ]
+  },
+  "xtonesreworked:zoea_block_8": {
+    "result": "xtonesreworked:zoea_block_8",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:purple",
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:zoea"
+    ]
+  },
+  "xtonesreworked:zoea_block_9": {
+    "result": "xtonesreworked:zoea_block_9",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:magenta",
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:zoea",
+      "minecraft:zoea"
+    ]
+  },
+  "xtonesreworked:zome_block_0": {
+    "result": "xtonesreworked:zome_block_0",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:white",
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:zome"
+    ]
+  },
+  "xtonesreworked:zome_block_15": {
+    "result": "xtonesreworked:zome_block_15",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:black",
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:zome"
+    ]
+  },
+  "xtonesreworked:zome_block_1": {
+    "result": "xtonesreworked:zome_block_1",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:yellow",
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:zome"
+    ]
+  },
+  "xtonesreworked:zome_block_10": {
+    "result": "xtonesreworked:zome_block_10",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:magenta",
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:zome"
+    ]
+  },
+  "xtonesreworked:zome_block_11": {
+    "result": "xtonesreworked:zome_block_11",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:pink",
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:zome"
+    ]
+  },
+  "xtonesreworked:zome_block_12": {
+    "result": "xtonesreworked:zome_block_12",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:red",
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:zome"
+    ]
+  },
+  "xtonesreworked:zome_block_13": {
+    "result": "xtonesreworked:zome_block_13",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:brown",
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:zome"
+    ]
+  },
+  "xtonesreworked:zome_block_14": {
+    "result": "xtonesreworked:zome_block_14",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:orange",
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:zome"
+    ]
+  },
+  "xtonesreworked:zome_block_2": {
+    "result": "xtonesreworked:zome_block_2",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:lime",
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:zome"
+    ]
+  },
+  "xtonesreworked:zome_block_3": {
+    "result": "xtonesreworked:zome_block_3",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:green",
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:zome"
+    ]
+  },
+  "xtonesreworked:zome_block_4": {
+    "result": "xtonesreworked:zome_block_4",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:green",
+      "minecraft:zome"
+    ]
+  },
+  "xtonesreworked:zome_block_5": {
+    "result": "xtonesreworked:zome_block_5",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:cyan",
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:zome"
+    ]
+  },
+  "xtonesreworked:zome_block_6": {
+    "result": "xtonesreworked:zome_block_6",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:light_blue",
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:zome"
+    ]
+  },
+  "xtonesreworked:zome_block_7": {
+    "result": "xtonesreworked:zome_block_7",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:blue",
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:zome"
+    ]
+  },
+  "xtonesreworked:zome_block_8": {
+    "result": "xtonesreworked:zome_block_8",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:blue",
+      "minecraft:zome"
+    ]
+  },
+  "xtonesreworked:zome_block_9": {
+    "result": "xtonesreworked:zome_block_9",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:purple",
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:zome",
+      "minecraft:zome"
+    ]
+  },
+  "xtonesreworked:zone_block_0": {
+    "result": "xtonesreworked:zone_block_0",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:white",
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:zone"
+    ]
+  },
+  "xtonesreworked:zone_block_15": {
+    "result": "xtonesreworked:zone_block_15",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:black",
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:zone"
+    ]
+  },
+  "xtonesreworked:zone_block_1": {
+    "result": "xtonesreworked:zone_block_1",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:yellow",
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:zone"
+    ]
+  },
+  "xtonesreworked:zone_block_10": {
+    "result": "xtonesreworked:zone_block_10",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:magenta",
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:zone"
+    ]
+  },
+  "xtonesreworked:zone_block_11": {
+    "result": "xtonesreworked:zone_block_11",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:pink",
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:zone"
+    ]
+  },
+  "xtonesreworked:zone_block_12": {
+    "result": "xtonesreworked:zone_block_12",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:red",
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:zone"
+    ]
+  },
+  "xtonesreworked:zone_block_13": {
+    "result": "xtonesreworked:zone_block_13",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:orange",
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:zone"
+    ]
+  },
+  "xtonesreworked:zone_block_14": {
+    "result": "xtonesreworked:zone_block_14",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:brown",
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:zone"
+    ]
+  },
+  "xtonesreworked:zone_block_2": {
+    "result": "xtonesreworked:zone_block_2",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:lime",
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:zone"
+    ]
+  },
+  "xtonesreworked:zone_block_3": {
+    "result": "xtonesreworked:zone_block_3",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:green",
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:zone"
+    ]
+  },
+  "xtonesreworked:zone_block_4": {
+    "result": "xtonesreworked:zone_block_4",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:green",
+      "minecraft:zone"
+    ]
+  },
+  "xtonesreworked:zone_block_5": {
+    "result": "xtonesreworked:zone_block_5",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:cyan",
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:zone"
+    ]
+  },
+  "xtonesreworked:zone_block_6": {
+    "result": "xtonesreworked:zone_block_6",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:light_blue",
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:zone"
+    ]
+  },
+  "xtonesreworked:zone_block_7": {
+    "result": "xtonesreworked:zone_block_7",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:blue",
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:zone"
+    ]
+  },
+  "xtonesreworked:zone_block_8": {
+    "result": "xtonesreworked:zone_block_8",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:purple",
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:zone"
+    ]
+  },
+  "xtonesreworked:zone_block_9": {
+    "result": "xtonesreworked:zone_block_9",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:zone",
+      "minecraft:purple",
+      "minecraft:zone"
+    ]
+  },
+  "xtonesreworked:zorg_block_0": {
+    "result": "xtonesreworked:zorg_block_0",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:white",
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:zorg"
+    ]
+  },
+  "xtonesreworked:zorg_block_15": {
+    "result": "xtonesreworked:zorg_block_15",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:black",
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:zorg"
+    ]
+  },
+  "xtonesreworked:zorg_block_1": {
+    "result": "xtonesreworked:zorg_block_1",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:yellow",
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:zorg"
+    ]
+  },
+  "xtonesreworked:zorg_block_10": {
+    "result": "xtonesreworked:zorg_block_10",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:magenta",
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:zorg"
+    ]
+  },
+  "xtonesreworked:zorg_block_11": {
+    "result": "xtonesreworked:zorg_block_11",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:pink",
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:zorg"
+    ]
+  },
+  "xtonesreworked:zorg_block_12": {
+    "result": "xtonesreworked:zorg_block_12",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:red",
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:zorg"
+    ]
+  },
+  "xtonesreworked:zorg_block_13": {
+    "result": "xtonesreworked:zorg_block_13",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:brown",
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:zorg"
+    ]
+  },
+  "xtonesreworked:zorg_block_14": {
+    "result": "xtonesreworked:zorg_block_14",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:orange",
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:zorg"
+    ]
+  },
+  "xtonesreworked:zorg_block_2": {
+    "result": "xtonesreworked:zorg_block_2",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:lime",
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:zorg"
+    ]
+  },
+  "xtonesreworked:zorg_block_3": {
+    "result": "xtonesreworked:zorg_block_3",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:green",
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:zorg"
+    ]
+  },
+  "xtonesreworked:zorg_block_4": {
+    "result": "xtonesreworked:zorg_block_4",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:green",
+      "minecraft:zorg"
+    ]
+  },
+  "xtonesreworked:zorg_block_5": {
+    "result": "xtonesreworked:zorg_block_5",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:cyan",
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:zorg"
+    ]
+  },
+  "xtonesreworked:zorg_block_6": {
+    "result": "xtonesreworked:zorg_block_6",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:light_blue",
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:zorg"
+    ]
+  },
+  "xtonesreworked:zorg_block_7": {
+    "result": "xtonesreworked:zorg_block_7",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:blue",
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:zorg"
+    ]
+  },
+  "xtonesreworked:zorg_block_8": {
+    "result": "xtonesreworked:zorg_block_8",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:purple",
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:zorg"
+    ]
+  },
+  "xtonesreworked:zorg_block_9": {
+    "result": "xtonesreworked:zorg_block_9",
+    "count": 8,
+    "ingredients": [
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:zorg",
+      "minecraft:purple",
+      "minecraft:zorg"
+    ]
+  }
+}

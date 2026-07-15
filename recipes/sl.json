@@ -1,0 +1,1637 @@
+{
+  "minecraft:slime_block": {
+    "result": "minecraft:slime_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:slime_ball",
+      "minecraft:slime_ball",
+      "minecraft:slime_ball",
+      "minecraft:slime_ball",
+      "minecraft:slime_ball",
+      "minecraft:slime_ball",
+      "minecraft:slime_ball",
+      "minecraft:slime_ball",
+      "minecraft:slime_ball"
+    ]
+  },
+  "bibliocraft:slotted_book": {
+    "result": "bibliocraft:slotted_book",
+    "count": 1,
+    "ingredients": [
+      "minecraft:book",
+      "minecraft:labels",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "comforts:sleeping_bag_black": {
+    "result": "comforts:sleeping_bag_black",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:black_wool",
+      "",
+      "",
+      "minecraft:black_wool",
+      "",
+      "",
+      "minecraft:black_wool",
+      ""
+    ]
+  },
+  "comforts:sleeping_bag_blue": {
+    "result": "comforts:sleeping_bag_blue",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:blue_wool",
+      "",
+      "",
+      "minecraft:blue_wool",
+      "",
+      "",
+      "minecraft:blue_wool",
+      ""
+    ]
+  },
+  "comforts:sleeping_bag_brown": {
+    "result": "comforts:sleeping_bag_brown",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:brown_wool",
+      "",
+      "",
+      "minecraft:brown_wool",
+      "",
+      "",
+      "minecraft:brown_wool",
+      ""
+    ]
+  },
+  "comforts:sleeping_bag_cyan": {
+    "result": "comforts:sleeping_bag_cyan",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:cyan_wool",
+      "",
+      "",
+      "minecraft:cyan_wool",
+      "",
+      "",
+      "minecraft:cyan_wool",
+      ""
+    ]
+  },
+  "comforts:sleeping_bag_gray": {
+    "result": "comforts:sleeping_bag_gray",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:gray_wool",
+      "",
+      "",
+      "minecraft:gray_wool",
+      "",
+      "",
+      "minecraft:gray_wool",
+      ""
+    ]
+  },
+  "comforts:sleeping_bag_green": {
+    "result": "comforts:sleeping_bag_green",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:green_wool",
+      "",
+      "",
+      "minecraft:green_wool",
+      "",
+      "",
+      "minecraft:green_wool",
+      ""
+    ]
+  },
+  "comforts:sleeping_bag_light_blue": {
+    "result": "comforts:sleeping_bag_light_blue",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:light_blue_wool",
+      "",
+      "",
+      "minecraft:light_blue_wool",
+      "",
+      "",
+      "minecraft:light_blue_wool",
+      ""
+    ]
+  },
+  "comforts:sleeping_bag_light_gray": {
+    "result": "comforts:sleeping_bag_light_gray",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:light_gray_wool",
+      "",
+      "",
+      "minecraft:light_gray_wool",
+      "",
+      "",
+      "minecraft:light_gray_wool",
+      ""
+    ]
+  },
+  "comforts:sleeping_bag_lime": {
+    "result": "comforts:sleeping_bag_lime",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:lime_wool",
+      "",
+      "",
+      "minecraft:lime_wool",
+      "",
+      "",
+      "minecraft:lime_wool",
+      ""
+    ]
+  },
+  "comforts:sleeping_bag_magenta": {
+    "result": "comforts:sleeping_bag_magenta",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:magenta_wool",
+      "",
+      "",
+      "minecraft:magenta_wool",
+      "",
+      "",
+      "minecraft:magenta_wool",
+      ""
+    ]
+  },
+  "comforts:sleeping_bag_orange": {
+    "result": "comforts:sleeping_bag_orange",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:orange_wool",
+      "",
+      "",
+      "minecraft:orange_wool",
+      "",
+      "",
+      "minecraft:orange_wool",
+      ""
+    ]
+  },
+  "comforts:sleeping_bag_pink": {
+    "result": "comforts:sleeping_bag_pink",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:pink_wool",
+      "",
+      "",
+      "minecraft:pink_wool",
+      "",
+      "",
+      "minecraft:pink_wool",
+      ""
+    ]
+  },
+  "comforts:sleeping_bag_purple": {
+    "result": "comforts:sleeping_bag_purple",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:purple_wool",
+      "",
+      "",
+      "minecraft:purple_wool",
+      "",
+      "",
+      "minecraft:purple_wool",
+      ""
+    ]
+  },
+  "comforts:sleeping_bag_red": {
+    "result": "comforts:sleeping_bag_red",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:red_wool",
+      "",
+      "",
+      "minecraft:red_wool",
+      "",
+      "",
+      "minecraft:red_wool",
+      ""
+    ]
+  },
+  "comforts:sleeping_bag_white": {
+    "result": "comforts:sleeping_bag_white",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:white_wool",
+      "",
+      "",
+      "minecraft:white_wool",
+      "",
+      "",
+      "minecraft:white_wool",
+      ""
+    ]
+  },
+  "comforts:sleeping_bag_yellow": {
+    "result": "comforts:sleeping_bag_yellow",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:yellow_wool",
+      "",
+      "",
+      "minecraft:yellow_wool",
+      "",
+      "",
+      "minecraft:yellow_wool",
+      ""
+    ]
+  },
+  "minecraft:slime_ball": {
+    "result": "minecraft:slime_ball",
+    "count": 6,
+    "ingredients": [
+      "reliquary:slime_pearl",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "enderio:slice_and_splice": {
+    "result": "enderio:slice_and_splice",
+    "count": 1,
+    "ingredients": [
+      "minecraft:soularium",
+      "minecraft:skulls",
+      "minecraft:soularium",
+      "minecraft:soularium",
+      "enderio:ensouled_chassis",
+      "minecraft:soularium",
+      "minecraft:energized",
+      "minecraft:iron_bars",
+      "minecraft:energized"
+    ]
+  },
+  "immersiveengineering:slab_alloybrick": {
+    "result": "immersiveengineering:slab_alloybrick",
+    "count": 6,
+    "ingredients": [
+      "immersiveengineering:alloybrick",
+      "immersiveengineering:alloybrick",
+      "immersiveengineering:alloybrick",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:slab_alu_scaffolding_grate_top": {
+    "result": "immersiveengineering:slab_alu_scaffolding_grate_top",
+    "count": 6,
+    "ingredients": [
+      "immersiveengineering:alu_scaffolding_grate_top",
+      "immersiveengineering:alu_scaffolding_grate_top",
+      "immersiveengineering:alu_scaffolding_grate_top",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:slab_alu_scaffolding_standard": {
+    "result": "immersiveengineering:slab_alu_scaffolding_standard",
+    "count": 6,
+    "ingredients": [
+      "immersiveengineering:alu_scaffolding_standard",
+      "immersiveengineering:alu_scaffolding_standard",
+      "immersiveengineering:alu_scaffolding_standard",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:slab_alu_scaffolding_wooden_top": {
+    "result": "immersiveengineering:slab_alu_scaffolding_wooden_top",
+    "count": 6,
+    "ingredients": [
+      "immersiveengineering:alu_scaffolding_wooden_top",
+      "immersiveengineering:alu_scaffolding_wooden_top",
+      "immersiveengineering:alu_scaffolding_wooden_top",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:slab_blastbrick_reinforced": {
+    "result": "immersiveengineering:slab_blastbrick_reinforced",
+    "count": 6,
+    "ingredients": [
+      "immersiveengineering:blastbrick_reinforced",
+      "immersiveengineering:blastbrick_reinforced",
+      "immersiveengineering:blastbrick_reinforced",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:slab_blastbrick": {
+    "result": "immersiveengineering:slab_blastbrick",
+    "count": 6,
+    "ingredients": [
+      "immersiveengineering:blastbrick",
+      "immersiveengineering:blastbrick",
+      "immersiveengineering:blastbrick",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:slab_clinker_brick": {
+    "result": "immersiveengineering:slab_clinker_brick",
+    "count": 6,
+    "ingredients": [
+      "immersiveengineering:clinker_brick",
+      "immersiveengineering:clinker_brick",
+      "immersiveengineering:clinker_brick",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:slab_cokebrick": {
+    "result": "immersiveengineering:slab_cokebrick",
+    "count": 6,
+    "ingredients": [
+      "immersiveengineering:cokebrick",
+      "immersiveengineering:cokebrick",
+      "immersiveengineering:cokebrick",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:slab_coke": {
+    "result": "immersiveengineering:slab_coke",
+    "count": 6,
+    "ingredients": [
+      "immersiveengineering:coke",
+      "immersiveengineering:coke",
+      "immersiveengineering:coke",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:slab_concrete_brick": {
+    "result": "immersiveengineering:slab_concrete_brick",
+    "count": 6,
+    "ingredients": [
+      "immersiveengineering:concrete_brick",
+      "immersiveengineering:concrete_brick",
+      "immersiveengineering:concrete_brick",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:slab_concrete_leaded": {
+    "result": "immersiveengineering:slab_concrete_leaded",
+    "count": 6,
+    "ingredients": [
+      "immersiveengineering:concrete_leaded",
+      "immersiveengineering:concrete_leaded",
+      "immersiveengineering:concrete_leaded",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:slab_concrete_reinforced_tile": {
+    "result": "immersiveengineering:slab_concrete_reinforced_tile",
+    "count": 6,
+    "ingredients": [
+      "immersiveengineering:concrete_reinforced_tile",
+      "immersiveengineering:concrete_reinforced_tile",
+      "immersiveengineering:concrete_reinforced_tile",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:slab_concrete_reinforced": {
+    "result": "immersiveengineering:slab_concrete_reinforced",
+    "count": 6,
+    "ingredients": [
+      "immersiveengineering:concrete_reinforced",
+      "immersiveengineering:concrete_reinforced",
+      "immersiveengineering:concrete_reinforced",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:slab_concrete_tile": {
+    "result": "immersiveengineering:slab_concrete_tile",
+    "count": 6,
+    "ingredients": [
+      "immersiveengineering:concrete_tile",
+      "immersiveengineering:concrete_tile",
+      "immersiveengineering:concrete_tile",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:slab_concrete": {
+    "result": "immersiveengineering:slab_concrete",
+    "count": 6,
+    "ingredients": [
+      "immersiveengineering:concrete",
+      "immersiveengineering:concrete",
+      "immersiveengineering:concrete",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:slab_hempcrete_brick": {
+    "result": "immersiveengineering:slab_hempcrete_brick",
+    "count": 6,
+    "ingredients": [
+      "immersiveengineering:hempcrete_brick",
+      "immersiveengineering:hempcrete_brick",
+      "immersiveengineering:hempcrete_brick",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:slab_hempcrete": {
+    "result": "immersiveengineering:slab_hempcrete",
+    "count": 6,
+    "ingredients": [
+      "immersiveengineering:hempcrete",
+      "immersiveengineering:hempcrete",
+      "immersiveengineering:hempcrete",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:slab_insulating_glass": {
+    "result": "immersiveengineering:slab_insulating_glass",
+    "count": 6,
+    "ingredients": [
+      "immersiveengineering:insulating_glass",
+      "immersiveengineering:insulating_glass",
+      "immersiveengineering:insulating_glass",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:slab_sheetmetal_aluminum": {
+    "result": "immersiveengineering:slab_sheetmetal_aluminum",
+    "count": 6,
+    "ingredients": [
+      "immersiveengineering:sheetmetal_aluminum",
+      "immersiveengineering:sheetmetal_aluminum",
+      "immersiveengineering:sheetmetal_aluminum",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:slab_sheetmetal_colored_black": {
+    "result": "immersiveengineering:slab_sheetmetal_colored_black",
+    "count": 6,
+    "ingredients": [
+      "immersiveengineering:sheetmetal_colored_black",
+      "immersiveengineering:sheetmetal_colored_black",
+      "immersiveengineering:sheetmetal_colored_black",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:slab_sheetmetal_colored_blue": {
+    "result": "immersiveengineering:slab_sheetmetal_colored_blue",
+    "count": 6,
+    "ingredients": [
+      "immersiveengineering:sheetmetal_colored_blue",
+      "immersiveengineering:sheetmetal_colored_blue",
+      "immersiveengineering:sheetmetal_colored_blue",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:slab_sheetmetal_colored_brown": {
+    "result": "immersiveengineering:slab_sheetmetal_colored_brown",
+    "count": 6,
+    "ingredients": [
+      "immersiveengineering:sheetmetal_colored_brown",
+      "immersiveengineering:sheetmetal_colored_brown",
+      "immersiveengineering:sheetmetal_colored_brown",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:slab_sheetmetal_colored_cyan": {
+    "result": "immersiveengineering:slab_sheetmetal_colored_cyan",
+    "count": 6,
+    "ingredients": [
+      "immersiveengineering:sheetmetal_colored_cyan",
+      "immersiveengineering:sheetmetal_colored_cyan",
+      "immersiveengineering:sheetmetal_colored_cyan",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:slab_sheetmetal_colored_gray": {
+    "result": "immersiveengineering:slab_sheetmetal_colored_gray",
+    "count": 6,
+    "ingredients": [
+      "immersiveengineering:sheetmetal_colored_gray",
+      "immersiveengineering:sheetmetal_colored_gray",
+      "immersiveengineering:sheetmetal_colored_gray",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:slab_sheetmetal_colored_green": {
+    "result": "immersiveengineering:slab_sheetmetal_colored_green",
+    "count": 6,
+    "ingredients": [
+      "immersiveengineering:sheetmetal_colored_green",
+      "immersiveengineering:sheetmetal_colored_green",
+      "immersiveengineering:sheetmetal_colored_green",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:slab_sheetmetal_colored_light_blue": {
+    "result": "immersiveengineering:slab_sheetmetal_colored_light_blue",
+    "count": 6,
+    "ingredients": [
+      "immersiveengineering:sheetmetal_colored_light_blue",
+      "immersiveengineering:sheetmetal_colored_light_blue",
+      "immersiveengineering:sheetmetal_colored_light_blue",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:slab_sheetmetal_colored_light_gray": {
+    "result": "immersiveengineering:slab_sheetmetal_colored_light_gray",
+    "count": 6,
+    "ingredients": [
+      "immersiveengineering:sheetmetal_colored_light_gray",
+      "immersiveengineering:sheetmetal_colored_light_gray",
+      "immersiveengineering:sheetmetal_colored_light_gray",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:slab_sheetmetal_colored_lime": {
+    "result": "immersiveengineering:slab_sheetmetal_colored_lime",
+    "count": 6,
+    "ingredients": [
+      "immersiveengineering:sheetmetal_colored_lime",
+      "immersiveengineering:sheetmetal_colored_lime",
+      "immersiveengineering:sheetmetal_colored_lime",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:slab_sheetmetal_colored_magenta": {
+    "result": "immersiveengineering:slab_sheetmetal_colored_magenta",
+    "count": 6,
+    "ingredients": [
+      "immersiveengineering:sheetmetal_colored_magenta",
+      "immersiveengineering:sheetmetal_colored_magenta",
+      "immersiveengineering:sheetmetal_colored_magenta",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:slab_sheetmetal_colored_orange": {
+    "result": "immersiveengineering:slab_sheetmetal_colored_orange",
+    "count": 6,
+    "ingredients": [
+      "immersiveengineering:sheetmetal_colored_orange",
+      "immersiveengineering:sheetmetal_colored_orange",
+      "immersiveengineering:sheetmetal_colored_orange",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:slab_sheetmetal_colored_pink": {
+    "result": "immersiveengineering:slab_sheetmetal_colored_pink",
+    "count": 6,
+    "ingredients": [
+      "immersiveengineering:sheetmetal_colored_pink",
+      "immersiveengineering:sheetmetal_colored_pink",
+      "immersiveengineering:sheetmetal_colored_pink",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:slab_sheetmetal_colored_purple": {
+    "result": "immersiveengineering:slab_sheetmetal_colored_purple",
+    "count": 6,
+    "ingredients": [
+      "immersiveengineering:sheetmetal_colored_purple",
+      "immersiveengineering:sheetmetal_colored_purple",
+      "immersiveengineering:sheetmetal_colored_purple",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:slab_sheetmetal_colored_red": {
+    "result": "immersiveengineering:slab_sheetmetal_colored_red",
+    "count": 6,
+    "ingredients": [
+      "immersiveengineering:sheetmetal_colored_red",
+      "immersiveengineering:sheetmetal_colored_red",
+      "immersiveengineering:sheetmetal_colored_red",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:slab_sheetmetal_colored_white": {
+    "result": "immersiveengineering:slab_sheetmetal_colored_white",
+    "count": 6,
+    "ingredients": [
+      "immersiveengineering:sheetmetal_colored_white",
+      "immersiveengineering:sheetmetal_colored_white",
+      "immersiveengineering:sheetmetal_colored_white",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:slab_sheetmetal_colored_yellow": {
+    "result": "immersiveengineering:slab_sheetmetal_colored_yellow",
+    "count": 6,
+    "ingredients": [
+      "immersiveengineering:sheetmetal_colored_yellow",
+      "immersiveengineering:sheetmetal_colored_yellow",
+      "immersiveengineering:sheetmetal_colored_yellow",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:slab_sheetmetal_constantan": {
+    "result": "immersiveengineering:slab_sheetmetal_constantan",
+    "count": 6,
+    "ingredients": [
+      "immersiveengineering:sheetmetal_constantan",
+      "immersiveengineering:sheetmetal_constantan",
+      "immersiveengineering:sheetmetal_constantan",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:slab_sheetmetal_copper": {
+    "result": "immersiveengineering:slab_sheetmetal_copper",
+    "count": 6,
+    "ingredients": [
+      "immersiveengineering:sheetmetal_copper",
+      "immersiveengineering:sheetmetal_copper",
+      "immersiveengineering:sheetmetal_copper",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:slab_sheetmetal_electrum": {
+    "result": "immersiveengineering:slab_sheetmetal_electrum",
+    "count": 6,
+    "ingredients": [
+      "immersiveengineering:sheetmetal_electrum",
+      "immersiveengineering:sheetmetal_electrum",
+      "immersiveengineering:sheetmetal_electrum",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:slab_sheetmetal_gold": {
+    "result": "immersiveengineering:slab_sheetmetal_gold",
+    "count": 6,
+    "ingredients": [
+      "immersiveengineering:sheetmetal_gold",
+      "immersiveengineering:sheetmetal_gold",
+      "immersiveengineering:sheetmetal_gold",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:slab_sheetmetal_iron": {
+    "result": "immersiveengineering:slab_sheetmetal_iron",
+    "count": 6,
+    "ingredients": [
+      "immersiveengineering:sheetmetal_iron",
+      "immersiveengineering:sheetmetal_iron",
+      "immersiveengineering:sheetmetal_iron",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:slab_sheetmetal_lead": {
+    "result": "immersiveengineering:slab_sheetmetal_lead",
+    "count": 6,
+    "ingredients": [
+      "immersiveengineering:sheetmetal_lead",
+      "immersiveengineering:sheetmetal_lead",
+      "immersiveengineering:sheetmetal_lead",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:slab_sheetmetal_nickel": {
+    "result": "immersiveengineering:slab_sheetmetal_nickel",
+    "count": 6,
+    "ingredients": [
+      "immersiveengineering:sheetmetal_nickel",
+      "immersiveengineering:sheetmetal_nickel",
+      "immersiveengineering:sheetmetal_nickel",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:slab_sheetmetal_silver": {
+    "result": "immersiveengineering:slab_sheetmetal_silver",
+    "count": 6,
+    "ingredients": [
+      "immersiveengineering:sheetmetal_silver",
+      "immersiveengineering:sheetmetal_silver",
+      "immersiveengineering:sheetmetal_silver",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:slab_sheetmetal_steel": {
+    "result": "immersiveengineering:slab_sheetmetal_steel",
+    "count": 6,
+    "ingredients": [
+      "immersiveengineering:sheetmetal_steel",
+      "immersiveengineering:sheetmetal_steel",
+      "immersiveengineering:sheetmetal_steel",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:slab_sheetmetal_uranium": {
+    "result": "immersiveengineering:slab_sheetmetal_uranium",
+    "count": 6,
+    "ingredients": [
+      "immersiveengineering:sheetmetal_uranium",
+      "immersiveengineering:sheetmetal_uranium",
+      "immersiveengineering:sheetmetal_uranium",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:slag_brick": {
+    "result": "immersiveengineering:slag_brick",
+    "count": 1,
+    "ingredients": [
+      "immersiveengineering:slab_slag_brick",
+      "",
+      "",
+      "immersiveengineering:slab_slag_brick",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:slab_slag_brick": {
+    "result": "immersiveengineering:slab_slag_brick",
+    "count": 6,
+    "ingredients": [
+      "immersiveengineering:slag_brick",
+      "immersiveengineering:slag_brick",
+      "immersiveengineering:slag_brick",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:slab_steel_scaffolding_grate_top": {
+    "result": "immersiveengineering:slab_steel_scaffolding_grate_top",
+    "count": 6,
+    "ingredients": [
+      "immersiveengineering:steel_scaffolding_grate_top",
+      "immersiveengineering:steel_scaffolding_grate_top",
+      "immersiveengineering:steel_scaffolding_grate_top",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:slab_steel_scaffolding_standard": {
+    "result": "immersiveengineering:slab_steel_scaffolding_standard",
+    "count": 6,
+    "ingredients": [
+      "immersiveengineering:steel_scaffolding_standard",
+      "immersiveengineering:steel_scaffolding_standard",
+      "immersiveengineering:steel_scaffolding_standard",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:slab_steel_scaffolding_wooden_top": {
+    "result": "immersiveengineering:slab_steel_scaffolding_wooden_top",
+    "count": 6,
+    "ingredients": [
+      "immersiveengineering:steel_scaffolding_wooden_top",
+      "immersiveengineering:steel_scaffolding_wooden_top",
+      "immersiveengineering:steel_scaffolding_wooden_top",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:slab_storage_aluminum": {
+    "result": "immersiveengineering:slab_storage_aluminum",
+    "count": 6,
+    "ingredients": [
+      "immersiveengineering:storage_aluminum",
+      "immersiveengineering:storage_aluminum",
+      "immersiveengineering:storage_aluminum",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:slab_storage_constantan": {
+    "result": "immersiveengineering:slab_storage_constantan",
+    "count": 6,
+    "ingredients": [
+      "immersiveengineering:storage_constantan",
+      "immersiveengineering:storage_constantan",
+      "immersiveengineering:storage_constantan",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:slab_storage_electrum": {
+    "result": "immersiveengineering:slab_storage_electrum",
+    "count": 6,
+    "ingredients": [
+      "immersiveengineering:storage_electrum",
+      "immersiveengineering:storage_electrum",
+      "immersiveengineering:storage_electrum",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:slab_storage_lead": {
+    "result": "immersiveengineering:slab_storage_lead",
+    "count": 6,
+    "ingredients": [
+      "immersiveengineering:storage_lead",
+      "immersiveengineering:storage_lead",
+      "immersiveengineering:storage_lead",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:slab_storage_nickel": {
+    "result": "immersiveengineering:slab_storage_nickel",
+    "count": 6,
+    "ingredients": [
+      "immersiveengineering:storage_nickel",
+      "immersiveengineering:storage_nickel",
+      "immersiveengineering:storage_nickel",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:slab_storage_silver": {
+    "result": "immersiveengineering:slab_storage_silver",
+    "count": 6,
+    "ingredients": [
+      "immersiveengineering:storage_silver",
+      "immersiveengineering:storage_silver",
+      "immersiveengineering:storage_silver",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:slab_storage_steel": {
+    "result": "immersiveengineering:slab_storage_steel",
+    "count": 6,
+    "ingredients": [
+      "immersiveengineering:storage_steel",
+      "immersiveengineering:storage_steel",
+      "immersiveengineering:storage_steel",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:slab_storage_uranium": {
+    "result": "immersiveengineering:slab_storage_uranium",
+    "count": 6,
+    "ingredients": [
+      "immersiveengineering:storage_uranium",
+      "immersiveengineering:storage_uranium",
+      "immersiveengineering:storage_uranium",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:slab_treated_wood_horizontal": {
+    "result": "immersiveengineering:slab_treated_wood_horizontal",
+    "count": 6,
+    "ingredients": [
+      "immersiveengineering:treated_wood_horizontal",
+      "immersiveengineering:treated_wood_horizontal",
+      "immersiveengineering:treated_wood_horizontal",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:slab_treated_wood_packaged": {
+    "result": "immersiveengineering:slab_treated_wood_packaged",
+    "count": 6,
+    "ingredients": [
+      "immersiveengineering:treated_wood_packaged",
+      "immersiveengineering:treated_wood_packaged",
+      "immersiveengineering:treated_wood_packaged",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:slab_treated_wood_vertical": {
+    "result": "immersiveengineering:slab_treated_wood_vertical",
+    "count": 6,
+    "ingredients": [
+      "immersiveengineering:treated_wood_vertical",
+      "immersiveengineering:treated_wood_vertical",
+      "immersiveengineering:treated_wood_vertical",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "industrialforegoing:sludge_refiner": {
+    "result": "industrialforegoing:sludge_refiner",
+    "count": 1,
+    "ingredients": [
+      "minecraft:plastics",
+      "minecraft:bucket",
+      "minecraft:plastics",
+      "minecraft:furnace",
+      "minecraft:pity",
+      "minecraft:furnace",
+      "minecraft:iron",
+      "minecraft:gold",
+      "minecraft:iron"
+    ]
+  },
+  "mcwdoors:sliding_glass_door": {
+    "result": "mcwdoors:sliding_glass_door",
+    "count": 2,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:glass_pane",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:glass_pane",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:glass_pane",
+      ""
+    ]
+  },
+  "tconstruct:slimesteel_ingot": {
+    "result": "tconstruct:slimesteel_ingot",
+    "count": 4,
+    "ingredients": [
+      "mysticalagriculture:slimesteel_essence",
+      "mysticalagriculture:slimesteel_essence",
+      "mysticalagriculture:slimesteel_essence",
+      "mysticalagriculture:slimesteel_essence",
+      "",
+      "mysticalagriculture:slimesteel_essence",
+      "mysticalagriculture:slimesteel_essence",
+      "mysticalagriculture:slimesteel_essence",
+      "mysticalagriculture:slimesteel_essence"
+    ]
+  },
+  "pamhc2foodextended:slawdogitem": {
+    "result": "pamhc2foodextended:slawdogitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "pamhc2foodcore:hotdogitem",
+      "minecraft:ketchup",
+      "minecraft:mustard",
+      "minecraft:relish",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivebees:slimy_nest": {
+    "result": "productivebees:slimy_nest",
+    "count": 1,
+    "ingredients": [
+      "productivebees:slimy_nest",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:slimy_delight_bookshelf": {
+    "result": "productivetrees:slimy_delight_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:slimy_delight_planks",
+      "productivetrees:slimy_delight_planks",
+      "productivetrees:slimy_delight_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:slimy_delight_planks",
+      "productivetrees:slimy_delight_planks",
+      "productivetrees:slimy_delight_planks"
+    ]
+  },
+  "productivetrees:slimy_delight_button": {
+    "result": "productivetrees:slimy_delight_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:slimy_delight_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sloe_crate": {
+    "result": "productivetrees:sloe_crate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:sloe",
+      "minecraft:sloe",
+      "minecraft:sloe",
+      "minecraft:sloe",
+      "productivetrees:sloe",
+      "minecraft:sloe",
+      "minecraft:sloe",
+      "minecraft:sloe",
+      "minecraft:sloe"
+    ]
+  },
+  "productivetrees:sloe": {
+    "result": "productivetrees:sloe",
+    "count": 9,
+    "ingredients": [
+      "productivetrees:sloe_crate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:slimy_delight_door": {
+    "result": "productivetrees:slimy_delight_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:slimy_delight_planks",
+      "productivetrees:slimy_delight_planks",
+      "",
+      "productivetrees:slimy_delight_planks",
+      "productivetrees:slimy_delight_planks",
+      "",
+      "productivetrees:slimy_delight_planks",
+      "productivetrees:slimy_delight_planks",
+      ""
+    ]
+  },
+  "productivetrees:slimy_delight_fence": {
+    "result": "productivetrees:slimy_delight_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:slimy_delight_planks",
+      "minecraft:stick",
+      "productivetrees:slimy_delight_planks",
+      "productivetrees:slimy_delight_planks",
+      "minecraft:stick",
+      "productivetrees:slimy_delight_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:slimy_delight_fence_gate": {
+    "result": "productivetrees:slimy_delight_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:slimy_delight_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:slimy_delight_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:slimy_delight_hanging_sign": {
+    "result": "productivetrees:slimy_delight_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:slimy_delight_planks",
+      "productivetrees:slimy_delight_planks",
+      "productivetrees:slimy_delight_planks",
+      "productivetrees:slimy_delight_planks",
+      "productivetrees:slimy_delight_planks",
+      "productivetrees:slimy_delight_planks"
+    ]
+  },
+  "productivetrees:slimy_delight_planks": {
+    "result": "productivetrees:slimy_delight_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:slimy_delight_pressure_plate": {
+    "result": "productivetrees:slimy_delight_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:slimy_delight_planks",
+      "productivetrees:slimy_delight_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:slimy_delight_sign": {
+    "result": "productivetrees:slimy_delight_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:slimy_delight_planks",
+      "productivetrees:slimy_delight_planks",
+      "productivetrees:slimy_delight_planks",
+      "productivetrees:slimy_delight_planks",
+      "productivetrees:slimy_delight_planks",
+      "productivetrees:slimy_delight_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:slimy_delight_slab": {
+    "result": "productivetrees:slimy_delight_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:slimy_delight_planks",
+      "productivetrees:slimy_delight_planks",
+      "productivetrees:slimy_delight_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:slimy_delight_stairs": {
+    "result": "productivetrees:slimy_delight_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:slimy_delight_planks",
+      "",
+      "",
+      "productivetrees:slimy_delight_planks",
+      "productivetrees:slimy_delight_planks",
+      "",
+      "productivetrees:slimy_delight_planks",
+      "productivetrees:slimy_delight_planks",
+      "productivetrees:slimy_delight_planks"
+    ]
+  },
+  "productivetrees:slimy_delight_trapdoor": {
+    "result": "productivetrees:slimy_delight_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:slimy_delight_planks",
+      "productivetrees:slimy_delight_planks",
+      "productivetrees:slimy_delight_planks",
+      "productivetrees:slimy_delight_planks",
+      "productivetrees:slimy_delight_planks",
+      "productivetrees:slimy_delight_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:slimy_delight_wood": {
+    "result": "productivetrees:slimy_delight_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:slimy_delight_log",
+      "productivetrees:slimy_delight_log",
+      "",
+      "productivetrees:slimy_delight_log",
+      "productivetrees:slimy_delight_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "reliquary:slime_pearl": {
+    "result": "reliquary:slime_pearl",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:slime_ball",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "silentgear:slingshot_blueprint": {
+    "result": "silentgear:slingshot_blueprint",
+    "count": 1,
+    "ingredients": [
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "silentgear:slingshot_template": {
+    "result": "silentgear:slingshot_template",
+    "count": 1,
+    "ingredients": [
+      "minecraft:template_boards",
+      "",
+      "minecraft:template_boards",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "supplementaries:slice_map": {
+    "result": "supplementaries:slice_map",
+    "count": 1,
+    "ingredients": [
+      "minecraft:altimeters",
+      "minecraft:map",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "supplementaries:slidy_block": {
+    "result": "supplementaries:slidy_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron",
+      "minecraft:tuff",
+      "minecraft:iron",
+      "minecraft:tuff",
+      "minecraft:tuff",
+      "minecraft:tuff",
+      "minecraft:iron",
+      "minecraft:tuff",
+      "minecraft:iron"
+    ]
+  },
+  "supplementaries:slingshot": {
+    "result": "supplementaries:slingshot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:string",
+      "minecraft:rabbit_hide",
+      "minecraft:string",
+      "minecraft:stick",
+      "minecraft:slime_ball",
+      "minecraft:stick",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "undergarden:slingshot": {
+    "result": "undergarden:slingshot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "undergarden:twistytwig",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "undergarden:slop_bowl": {
+    "result": "undergarden:slop_bowl",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bowl",
+      "undergarden:underbeans",
+      "undergarden:underbeans",
+      "undergarden:blue_mogmoss",
+      "undergarden:blue_mogmoss",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

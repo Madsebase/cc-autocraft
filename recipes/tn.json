@@ -1,0 +1,32 @@
+{
+  "minecraft:tnt": {
+    "result": "minecraft:tnt",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gunpowder",
+      "minecraft:sand",
+      "minecraft:gunpowder",
+      "minecraft:sand",
+      "minecraft:gunpowder",
+      "minecraft:sand",
+      "minecraft:gunpowder",
+      "minecraft:sand",
+      "minecraft:gunpowder"
+    ]
+  },
+  "minecraft:tnt_minecart": {
+    "result": "minecraft:tnt_minecart",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:tnt",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      ""
+    ]
+  }
+}

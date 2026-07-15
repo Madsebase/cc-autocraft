@@ -1,0 +1,1382 @@
+{
+  "ae2:semi_dark_monitor": {
+    "result": "ae2:semi_dark_monitor",
+    "count": 1,
+    "ingredients": [
+      "ae2:dark_monitor",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:secondary_linear_chassis": {
+    "result": "create:secondary_linear_chassis",
+    "count": 1,
+    "ingredients": [
+      "create:linear_chassis",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:sequenced_gearshift": {
+    "result": "create:sequenced_gearshift",
+    "count": 1,
+    "ingredients": [
+      "create:brass_casing",
+      "create:cogwheel",
+      "create:electron_tube",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:seeking_eye": {
+    "result": "eternal_starlight:seeking_eye",
+    "count": 16,
+    "ingredients": [
+      "eternal_starlight:starlight_flower",
+      "eternal_starlight:starlight_flower",
+      "eternal_starlight:starlight_flower",
+      "eternal_starlight:starlight_flower",
+      "minecraft:ender_pearl",
+      "eternal_starlight:starlight_flower",
+      "eternal_starlight:starlight_flower",
+      "eternal_starlight:starlight_flower",
+      "eternal_starlight:starlight_flower"
+    ]
+  },
+  "iceandfire:sea_serpent_arrow": {
+    "result": "iceandfire:sea_serpent_arrow",
+    "count": 4,
+    "ingredients": [
+      "iceandfire:sea_serpent_fang",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:sea_serpent",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:sea_serpent_scale_block_blue": {
+    "result": "iceandfire:sea_serpent_scale_block_blue",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:sea_serpent_scales_blue",
+      "iceandfire:sea_serpent_scales_blue",
+      "iceandfire:sea_serpent_scales_blue",
+      "iceandfire:sea_serpent_scales_blue",
+      "iceandfire:sea_serpent_scales_blue",
+      "iceandfire:sea_serpent_scales_blue",
+      "iceandfire:sea_serpent_scales_blue",
+      "iceandfire:sea_serpent_scales_blue",
+      "iceandfire:sea_serpent_scales_blue"
+    ]
+  },
+  "iceandfire:sea_serpent_scale_block_bronze": {
+    "result": "iceandfire:sea_serpent_scale_block_bronze",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:sea_serpent_scales_bronze",
+      "iceandfire:sea_serpent_scales_bronze",
+      "iceandfire:sea_serpent_scales_bronze",
+      "iceandfire:sea_serpent_scales_bronze",
+      "iceandfire:sea_serpent_scales_bronze",
+      "iceandfire:sea_serpent_scales_bronze",
+      "iceandfire:sea_serpent_scales_bronze",
+      "iceandfire:sea_serpent_scales_bronze",
+      "iceandfire:sea_serpent_scales_bronze"
+    ]
+  },
+  "iceandfire:sea_serpent_scale_block_deepblue": {
+    "result": "iceandfire:sea_serpent_scale_block_deepblue",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:sea_serpent_scales_deepblue",
+      "iceandfire:sea_serpent_scales_deepblue",
+      "iceandfire:sea_serpent_scales_deepblue",
+      "iceandfire:sea_serpent_scales_deepblue",
+      "iceandfire:sea_serpent_scales_deepblue",
+      "iceandfire:sea_serpent_scales_deepblue",
+      "iceandfire:sea_serpent_scales_deepblue",
+      "iceandfire:sea_serpent_scales_deepblue",
+      "iceandfire:sea_serpent_scales_deepblue"
+    ]
+  },
+  "iceandfire:sea_serpent_scale_block_green": {
+    "result": "iceandfire:sea_serpent_scale_block_green",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:sea_serpent_scales_green",
+      "iceandfire:sea_serpent_scales_green",
+      "iceandfire:sea_serpent_scales_green",
+      "iceandfire:sea_serpent_scales_green",
+      "iceandfire:sea_serpent_scales_green",
+      "iceandfire:sea_serpent_scales_green",
+      "iceandfire:sea_serpent_scales_green",
+      "iceandfire:sea_serpent_scales_green",
+      "iceandfire:sea_serpent_scales_green"
+    ]
+  },
+  "iceandfire:sea_serpent_scale_block_purple": {
+    "result": "iceandfire:sea_serpent_scale_block_purple",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:sea_serpent_scales_purple",
+      "iceandfire:sea_serpent_scales_purple",
+      "iceandfire:sea_serpent_scales_purple",
+      "iceandfire:sea_serpent_scales_purple",
+      "iceandfire:sea_serpent_scales_purple",
+      "iceandfire:sea_serpent_scales_purple",
+      "iceandfire:sea_serpent_scales_purple",
+      "iceandfire:sea_serpent_scales_purple",
+      "iceandfire:sea_serpent_scales_purple"
+    ]
+  },
+  "iceandfire:sea_serpent_scale_block_red": {
+    "result": "iceandfire:sea_serpent_scale_block_red",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:sea_serpent_scales_red",
+      "iceandfire:sea_serpent_scales_red",
+      "iceandfire:sea_serpent_scales_red",
+      "iceandfire:sea_serpent_scales_red",
+      "iceandfire:sea_serpent_scales_red",
+      "iceandfire:sea_serpent_scales_red",
+      "iceandfire:sea_serpent_scales_red",
+      "iceandfire:sea_serpent_scales_red",
+      "iceandfire:sea_serpent_scales_red"
+    ]
+  },
+  "iceandfire:sea_serpent_scale_block_teal": {
+    "result": "iceandfire:sea_serpent_scale_block_teal",
+    "count": 1,
+    "ingredients": [
+      "iceandfire:sea_serpent_scales_teal",
+      "iceandfire:sea_serpent_scales_teal",
+      "iceandfire:sea_serpent_scales_teal",
+      "iceandfire:sea_serpent_scales_teal",
+      "iceandfire:sea_serpent_scales_teal",
+      "iceandfire:sea_serpent_scales_teal",
+      "iceandfire:sea_serpent_scales_teal",
+      "iceandfire:sea_serpent_scales_teal",
+      "iceandfire:sea_serpent_scales_teal"
+    ]
+  },
+  "iceandfire:sea_serpent_scales_blue": {
+    "result": "iceandfire:sea_serpent_scales_blue",
+    "count": 9,
+    "ingredients": [
+      "iceandfire:sea_serpent_scale_block_blue",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:sea_serpent_scales_bronze": {
+    "result": "iceandfire:sea_serpent_scales_bronze",
+    "count": 9,
+    "ingredients": [
+      "iceandfire:sea_serpent_scale_block_bronze",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:sea_serpent_scales_deepblue": {
+    "result": "iceandfire:sea_serpent_scales_deepblue",
+    "count": 9,
+    "ingredients": [
+      "iceandfire:sea_serpent_scale_block_deepblue",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:sea_serpent_scales_green": {
+    "result": "iceandfire:sea_serpent_scales_green",
+    "count": 9,
+    "ingredients": [
+      "iceandfire:sea_serpent_scale_block_green",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:sea_serpent_scales_purple": {
+    "result": "iceandfire:sea_serpent_scales_purple",
+    "count": 9,
+    "ingredients": [
+      "iceandfire:sea_serpent_scale_block_purple",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:sea_serpent_scales_red": {
+    "result": "iceandfire:sea_serpent_scales_red",
+    "count": 9,
+    "ingredients": [
+      "iceandfire:sea_serpent_scale_block_red",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:sea_serpent_scales_teal": {
+    "result": "iceandfire:sea_serpent_scales_teal",
+    "count": 9,
+    "ingredients": [
+      "iceandfire:sea_serpent_scale_block_teal",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "industrialforegoing:sewage_composter": {
+    "result": "industrialforegoing:sewage_composter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:plastics",
+      "minecraft:furnace",
+      "minecraft:plastics",
+      "minecraft:piston",
+      "minecraft:pity",
+      "minecraft:piston",
+      "minecraft:brick",
+      "minecraft:iron",
+      "minecraft:brick"
+    ]
+  },
+  "industrialforegoing:sewer": {
+    "result": "industrialforegoing:sewer",
+    "count": 1,
+    "ingredients": [
+      "minecraft:plastics",
+      "minecraft:bucket",
+      "minecraft:plastics",
+      "minecraft:brick",
+      "minecraft:pity",
+      "minecraft:brick",
+      "minecraft:brick",
+      "minecraft:iron",
+      "minecraft:brick"
+    ]
+  },
+  "justdirethings:sensort1": {
+    "result": "justdirethings:sensort1",
+    "count": 1,
+    "ingredients": [
+      "justdirethings:sensort1",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "justdirethings:sensort2": {
+    "result": "justdirethings:sensort2",
+    "count": 1,
+    "ingredients": [
+      "justdirethings:sensort2",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "little_big_redstone:selector": {
+    "result": "little_big_redstone:selector",
+    "count": 1,
+    "ingredients": [
+      "minecraft:repeater",
+      "minecraft:gold_ingot",
+      "minecraft:redstone",
+      "minecraft:repeater",
+      "little_big_redstone:redstone_bit",
+      "minecraft:redstone",
+      "minecraft:repeater",
+      "minecraft:gold_ingot",
+      "minecraft:redstone"
+    ]
+  },
+  "little_big_redstone:sequencer": {
+    "result": "little_big_redstone:sequencer",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:repeater",
+      "little_big_redstone:redstone_bit",
+      "minecraft:redstone",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot"
+    ]
+  },
+  "mcwlights:sea_lantern_slab": {
+    "result": "mcwlights:sea_lantern_slab",
+    "count": 6,
+    "ingredients": [
+      "minecraft:sea_lantern",
+      "minecraft:sea_lantern",
+      "minecraft:sea_lantern",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mekanism:security_desk": {
+    "result": "mekanism:security_desk",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:steel_ingot",
+      "minecraft:glass",
+      "modern_industrialization:steel_ingot",
+      "minecraft:elite",
+      "mekanism:steel_casing",
+      "minecraft:elite",
+      "modern_industrialization:steel_ingot",
+      "mekanism:network_reader",
+      "modern_industrialization:steel_ingot"
+    ]
+  },
+  "mekanism:seismic_vibrator": {
+    "result": "mekanism:seismic_vibrator",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:tin_ingot",
+      "minecraft:lapis_lazuli",
+      "modern_industrialization:tin_ingot",
+      "minecraft:basic",
+      "mekanism:steel_casing",
+      "minecraft:basic",
+      "modern_industrialization:tin_ingot",
+      "modern_industrialization:tin_ingot",
+      "modern_industrialization:tin_ingot"
+    ]
+  },
+  "minecraft:sea_lantern": {
+    "result": "minecraft:sea_lantern",
+    "count": 1,
+    "ingredients": [
+      "minecraft:prismarine_shard",
+      "minecraft:prismarine_crystals",
+      "minecraft:prismarine_shard",
+      "minecraft:prismarine_crystals",
+      "minecraft:prismarine_crystals",
+      "minecraft:prismarine_crystals",
+      "minecraft:prismarine_shard",
+      "minecraft:prismarine_crystals",
+      "minecraft:prismarine_shard"
+    ]
+  },
+  "minecraft:sentry_armor_trim_smithing_template": {
+    "result": "minecraft:sentry_armor_trim_smithing_template",
+    "count": 2,
+    "ingredients": [
+      "minecraft:diamond",
+      "minecraft:sentry_armor_trim_smithing_template",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:cobblestone",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond"
+    ]
+  },
+  "modularrouters:security_upgrade": {
+    "result": "modularrouters:security_upgrade",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:quartz",
+      "",
+      "minecraft:gold",
+      "modularrouters:blank_upgrade",
+      "minecraft:gold",
+      "",
+      "minecraft:redstone",
+      ""
+    ]
+  },
+  "modularrouters:sender_module_1": {
+    "result": "modularrouters:sender_module_1",
+    "count": 1,
+    "ingredients": [
+      "modularrouters:blank_module",
+      "minecraft:piston",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modularrouters:sender_module_2": {
+    "result": "modularrouters:sender_module_2",
+    "count": 4,
+    "ingredients": [
+      "modularrouters:sender_module_1",
+      "modularrouters:sender_module_1",
+      "modularrouters:sender_module_1",
+      "modularrouters:sender_module_1",
+      "minecraft:ender_pearl",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modularrouters:sender_module_3": {
+    "result": "modularrouters:sender_module_3",
+    "count": 1,
+    "ingredients": [
+      "modularrouters:sender_module_2",
+      "minecraft:end_stone",
+      "minecraft:ender_chest",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mysticalagriculture:seed_reprocessor": {
+    "result": "mysticalagriculture:seed_reprocessor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "mysticalagriculture:soulium_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_hoe",
+      "mysticalagriculture:machine_frame",
+      "minecraft:iron_hoe",
+      "minecraft:iron_ingot",
+      "mysticalagriculture:soulium_ingot",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "pamhc2crops:sesameseedsseeditem": {
+    "result": "pamhc2crops:sesameseedsseeditem",
+    "count": 1,
+    "ingredients": [
+      "pamhc2crops:sesameseedsitem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:seedsoupitem": {
+    "result": "pamhc2foodextended:seedsoupitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:seeds",
+      "minecraft:seeds",
+      "minecraft:seeds",
+      "minecraft:stock",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:sesameballitem": {
+    "result": "pamhc2foodextended:sesameballitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:sesameseeds",
+      "minecraft:cookingoil",
+      "minecraft:bean",
+      "minecraft:sugar",
+      "minecraft:flour",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:sesameoilitem": {
+    "result": "pamhc2foodextended:sesameoilitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_roller",
+      "minecraft:sesameseeds",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:sesamesnapsitem": {
+    "result": "pamhc2foodextended:sesamesnapsitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:sugar",
+      "minecraft:sesameseeds",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pneumaticcraft:search_upgrade": {
+    "result": "pneumaticcraft:search_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:upgrade_components",
+      "minecraft:ender_eye",
+      "minecraft:upgrade_components",
+      "minecraft:ender_eye",
+      "minecraft:golden_carrot",
+      "minecraft:ender_eye",
+      "minecraft:upgrade_components",
+      "minecraft:ender_eye",
+      "minecraft:upgrade_components"
+    ]
+  },
+  "pneumaticcraft:security_station": {
+    "result": "pneumaticcraft:security_station",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gray",
+      "minecraft:glass",
+      "minecraft:gray",
+      "pneumaticcraft:turbine_rotor",
+      "pneumaticcraft:printed_circuit_board",
+      "pneumaticcraft:turbine_rotor",
+      "minecraft:plastic_sheets",
+      "",
+      "minecraft:plastic_sheets"
+    ]
+  },
+  "pneumaticcraft:security_upgrade": {
+    "result": "pneumaticcraft:security_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:upgrade_components",
+      "minecraft:obsidians",
+      "minecraft:upgrade_components",
+      "minecraft:obsidians",
+      "pneumaticcraft:safety_tube_module",
+      "minecraft:obsidians",
+      "minecraft:upgrade_components",
+      "minecraft:obsidians",
+      "minecraft:upgrade_components"
+    ]
+  },
+  "pneumaticcraft:seismic_sensor": {
+    "result": "pneumaticcraft:seismic_sensor",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:redstone_torch",
+      "",
+      "minecraft:glass",
+      "minecraft:repeater",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:note_block",
+      "minecraft:glass"
+    ]
+  },
+  "pneumaticcraft:sentry_turret": {
+    "result": "pneumaticcraft:sentry_turret",
+    "count": 1,
+    "ingredients": [
+      "",
+      "pneumaticcraft:minigun",
+      "",
+      "minecraft:plastic_sheets",
+      "minecraft:iron_ingot",
+      "minecraft:plastic_sheets",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "productivetrees:sequoia_bookshelf": {
+    "result": "productivetrees:sequoia_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:sequoia_planks",
+      "productivetrees:sequoia_planks",
+      "productivetrees:sequoia_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:sequoia_planks",
+      "productivetrees:sequoia_planks",
+      "productivetrees:sequoia_planks"
+    ]
+  },
+  "productivetrees:sequoia_button": {
+    "result": "productivetrees:sequoia_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:sequoia_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sequoia_door": {
+    "result": "productivetrees:sequoia_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:sequoia_planks",
+      "productivetrees:sequoia_planks",
+      "",
+      "productivetrees:sequoia_planks",
+      "productivetrees:sequoia_planks",
+      "",
+      "productivetrees:sequoia_planks",
+      "productivetrees:sequoia_planks",
+      ""
+    ]
+  },
+  "productivetrees:sequoia_fence": {
+    "result": "productivetrees:sequoia_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:sequoia_planks",
+      "minecraft:stick",
+      "productivetrees:sequoia_planks",
+      "productivetrees:sequoia_planks",
+      "minecraft:stick",
+      "productivetrees:sequoia_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sequoia_fence_gate": {
+    "result": "productivetrees:sequoia_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:sequoia_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:sequoia_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sequoia_hanging_sign": {
+    "result": "productivetrees:sequoia_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:sequoia_planks",
+      "productivetrees:sequoia_planks",
+      "productivetrees:sequoia_planks",
+      "productivetrees:sequoia_planks",
+      "productivetrees:sequoia_planks",
+      "productivetrees:sequoia_planks"
+    ]
+  },
+  "productivetrees:sequoia_planks": {
+    "result": "productivetrees:sequoia_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sequoia_pressure_plate": {
+    "result": "productivetrees:sequoia_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:sequoia_planks",
+      "productivetrees:sequoia_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sequoia_sign": {
+    "result": "productivetrees:sequoia_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:sequoia_planks",
+      "productivetrees:sequoia_planks",
+      "productivetrees:sequoia_planks",
+      "productivetrees:sequoia_planks",
+      "productivetrees:sequoia_planks",
+      "productivetrees:sequoia_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:sequoia_slab": {
+    "result": "productivetrees:sequoia_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:sequoia_planks",
+      "productivetrees:sequoia_planks",
+      "productivetrees:sequoia_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sequoia_stairs": {
+    "result": "productivetrees:sequoia_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:sequoia_planks",
+      "",
+      "",
+      "productivetrees:sequoia_planks",
+      "productivetrees:sequoia_planks",
+      "",
+      "productivetrees:sequoia_planks",
+      "productivetrees:sequoia_planks",
+      "productivetrees:sequoia_planks"
+    ]
+  },
+  "productivetrees:sequoia_trapdoor": {
+    "result": "productivetrees:sequoia_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:sequoia_planks",
+      "productivetrees:sequoia_planks",
+      "productivetrees:sequoia_planks",
+      "productivetrees:sequoia_planks",
+      "productivetrees:sequoia_planks",
+      "productivetrees:sequoia_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:sequoia_wood": {
+    "result": "productivetrees:sequoia_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:sequoia_log",
+      "productivetrees:sequoia_log",
+      "",
+      "productivetrees:sequoia_log",
+      "productivetrees:sequoia_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "refinedstorage:security_card": {
+    "result": "refinedstorage:security_card",
+    "count": 1,
+    "ingredients": [
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:network_card",
+      "refinedstorage:advanced_processor",
+      "refinedstorage:network_card",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:quartz_enriched_iron"
+    ]
+  },
+  "refinedstorage:security_manager": {
+    "result": "refinedstorage:security_manager",
+    "count": 1,
+    "ingredients": [
+      "refinedstorage:quartz_enriched_iron",
+      "minecraft:chest",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:security_card",
+      "refinedstorage:machine_casing",
+      "refinedstorage:security_card",
+      "refinedstorage:quartz_enriched_iron",
+      "refinedstorage:fallback_security_card",
+      "refinedstorage:quartz_enriched_iron"
+    ]
+  },
+  "reliquary:serpent_staff": {
+    "result": "reliquary:serpent_staff",
+    "count": 1,
+    "ingredients": [
+      "",
+      "reliquary:chelicerae",
+      "minecraft:ender_eye",
+      "",
+      "reliquary:kraken_shell_fragment",
+      "reliquary:chelicerae",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "rftoolsutility:sensor": {
+    "result": "rftoolsutility:sensor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:comparator",
+      "minecraft:quartz",
+      "minecraft:redstone",
+      "rftoolsbase:machine_base",
+      "minecraft:redstone",
+      "minecraft:quartz",
+      "minecraft:comparator",
+      "minecraft:quartz"
+    ]
+  },
+  "rftoolsutility:sequencer": {
+    "result": "rftoolsutility:sequencer",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "minecraft:redstone_torch",
+      "minecraft:redstone",
+      "minecraft:redstone_torch",
+      "rftoolsbase:machine_base",
+      "minecraft:redstone_torch",
+      "minecraft:redstone",
+      "minecraft:redstone_torch",
+      "minecraft:redstone"
+    ]
+  },
+  "securitycraft:secret_acacia_hanging_sign": {
+    "result": "securitycraft:secret_acacia_hanging_sign",
+    "count": 3,
+    "ingredients": [
+      "minecraft:acacia_hanging_sign",
+      "minecraft:acacia_hanging_sign",
+      "minecraft:acacia_hanging_sign",
+      "securitycraft:retinal_scanner",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "securitycraft:secret_acacia_sign_item": {
+    "result": "securitycraft:secret_acacia_sign_item",
+    "count": 3,
+    "ingredients": [
+      "minecraft:acacia_sign",
+      "minecraft:acacia_sign",
+      "minecraft:acacia_sign",
+      "securitycraft:retinal_scanner",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "securitycraft:secret_bamboo_hanging_sign": {
+    "result": "securitycraft:secret_bamboo_hanging_sign",
+    "count": 3,
+    "ingredients": [
+      "minecraft:bamboo_hanging_sign",
+      "minecraft:bamboo_hanging_sign",
+      "minecraft:bamboo_hanging_sign",
+      "securitycraft:retinal_scanner",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "securitycraft:secret_bamboo_sign_item": {
+    "result": "securitycraft:secret_bamboo_sign_item",
+    "count": 3,
+    "ingredients": [
+      "minecraft:bamboo_sign",
+      "minecraft:bamboo_sign",
+      "minecraft:bamboo_sign",
+      "securitycraft:retinal_scanner",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "securitycraft:secret_birch_hanging_sign": {
+    "result": "securitycraft:secret_birch_hanging_sign",
+    "count": 3,
+    "ingredients": [
+      "minecraft:birch_hanging_sign",
+      "minecraft:birch_hanging_sign",
+      "minecraft:birch_hanging_sign",
+      "securitycraft:retinal_scanner",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "securitycraft:secret_birch_sign_item": {
+    "result": "securitycraft:secret_birch_sign_item",
+    "count": 3,
+    "ingredients": [
+      "minecraft:birch_sign",
+      "minecraft:birch_sign",
+      "minecraft:birch_sign",
+      "securitycraft:retinal_scanner",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "securitycraft:secret_cherry_hanging_sign": {
+    "result": "securitycraft:secret_cherry_hanging_sign",
+    "count": 3,
+    "ingredients": [
+      "minecraft:cherry_hanging_sign",
+      "minecraft:cherry_hanging_sign",
+      "minecraft:cherry_hanging_sign",
+      "securitycraft:retinal_scanner",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "securitycraft:secret_cherry_sign_item": {
+    "result": "securitycraft:secret_cherry_sign_item",
+    "count": 3,
+    "ingredients": [
+      "minecraft:cherry_sign",
+      "minecraft:cherry_sign",
+      "minecraft:cherry_sign",
+      "securitycraft:retinal_scanner",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "securitycraft:secret_crimson_hanging_sign": {
+    "result": "securitycraft:secret_crimson_hanging_sign",
+    "count": 3,
+    "ingredients": [
+      "minecraft:crimson_hanging_sign",
+      "minecraft:crimson_hanging_sign",
+      "minecraft:crimson_hanging_sign",
+      "securitycraft:retinal_scanner",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "securitycraft:secret_crimson_sign_item": {
+    "result": "securitycraft:secret_crimson_sign_item",
+    "count": 3,
+    "ingredients": [
+      "minecraft:crimson_sign",
+      "minecraft:crimson_sign",
+      "minecraft:crimson_sign",
+      "securitycraft:retinal_scanner",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "securitycraft:secret_dark_oak_hanging_sign": {
+    "result": "securitycraft:secret_dark_oak_hanging_sign",
+    "count": 3,
+    "ingredients": [
+      "minecraft:dark_oak_hanging_sign",
+      "minecraft:dark_oak_hanging_sign",
+      "minecraft:dark_oak_hanging_sign",
+      "securitycraft:retinal_scanner",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "securitycraft:secret_dark_oak_sign_item": {
+    "result": "securitycraft:secret_dark_oak_sign_item",
+    "count": 3,
+    "ingredients": [
+      "minecraft:dark_oak_sign",
+      "minecraft:dark_oak_sign",
+      "minecraft:dark_oak_sign",
+      "securitycraft:retinal_scanner",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "securitycraft:secret_jungle_hanging_sign": {
+    "result": "securitycraft:secret_jungle_hanging_sign",
+    "count": 3,
+    "ingredients": [
+      "minecraft:jungle_hanging_sign",
+      "minecraft:jungle_hanging_sign",
+      "minecraft:jungle_hanging_sign",
+      "securitycraft:retinal_scanner",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "securitycraft:secret_jungle_sign_item": {
+    "result": "securitycraft:secret_jungle_sign_item",
+    "count": 3,
+    "ingredients": [
+      "minecraft:jungle_sign",
+      "minecraft:jungle_sign",
+      "minecraft:jungle_sign",
+      "securitycraft:retinal_scanner",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "securitycraft:secret_mangrove_hanging_sign": {
+    "result": "securitycraft:secret_mangrove_hanging_sign",
+    "count": 3,
+    "ingredients": [
+      "minecraft:mangrove_hanging_sign",
+      "minecraft:mangrove_hanging_sign",
+      "minecraft:mangrove_hanging_sign",
+      "securitycraft:retinal_scanner",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "securitycraft:secret_mangrove_sign_item": {
+    "result": "securitycraft:secret_mangrove_sign_item",
+    "count": 3,
+    "ingredients": [
+      "minecraft:mangrove_sign",
+      "minecraft:mangrove_sign",
+      "minecraft:mangrove_sign",
+      "securitycraft:retinal_scanner",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "securitycraft:secret_oak_hanging_sign": {
+    "result": "securitycraft:secret_oak_hanging_sign",
+    "count": 3,
+    "ingredients": [
+      "minecraft:oak_hanging_sign",
+      "minecraft:oak_hanging_sign",
+      "minecraft:oak_hanging_sign",
+      "securitycraft:retinal_scanner",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "securitycraft:secret_sign_item": {
+    "result": "securitycraft:secret_sign_item",
+    "count": 3,
+    "ingredients": [
+      "minecraft:oak_sign",
+      "minecraft:oak_sign",
+      "minecraft:oak_sign",
+      "securitycraft:retinal_scanner",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "securitycraft:secret_spruce_hanging_sign": {
+    "result": "securitycraft:secret_spruce_hanging_sign",
+    "count": 3,
+    "ingredients": [
+      "minecraft:spruce_hanging_sign",
+      "minecraft:spruce_hanging_sign",
+      "minecraft:spruce_hanging_sign",
+      "securitycraft:retinal_scanner",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "securitycraft:secret_spruce_sign_item": {
+    "result": "securitycraft:secret_spruce_sign_item",
+    "count": 3,
+    "ingredients": [
+      "minecraft:spruce_sign",
+      "minecraft:spruce_sign",
+      "minecraft:spruce_sign",
+      "securitycraft:retinal_scanner",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "securitycraft:secret_warped_hanging_sign": {
+    "result": "securitycraft:secret_warped_hanging_sign",
+    "count": 3,
+    "ingredients": [
+      "minecraft:warped_hanging_sign",
+      "minecraft:warped_hanging_sign",
+      "minecraft:warped_hanging_sign",
+      "securitycraft:retinal_scanner",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "securitycraft:secret_warped_sign_item": {
+    "result": "securitycraft:secret_warped_sign_item",
+    "count": 3,
+    "ingredients": [
+      "minecraft:warped_sign",
+      "minecraft:warped_sign",
+      "minecraft:warped_sign",
+      "securitycraft:retinal_scanner",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "securitycraft:secure_redstone_interface": {
+    "result": "securitycraft:secure_redstone_interface",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone_torch",
+      "securitycraft:portable_radar",
+      "minecraft:bowl",
+      "securitycraft:reinforced_smooth_stone",
+      "minecraft:comparator",
+      "securitycraft:reinforced_smooth_stone",
+      "",
+      "",
+      ""
+    ]
+  },
+  "securitycraft:security_camera": {
+    "result": "securitycraft:security_camera",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "securitycraft:reinforced_glass",
+      "securitycraft:reinforced_redstone_block",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:stick"
+    ]
+  },
+  "securitycraft:sentry": {
+    "result": "securitycraft:sentry",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "securitycraft:reinforced_dispenser",
+      "minecraft:redstone",
+      "minecraft:iron_ingot",
+      "securitycraft:portable_radar",
+      "minecraft:iron_ingot",
+      "securitycraft:reinforced_iron_block",
+      "securitycraft:reinforced_iron_block",
+      "securitycraft:reinforced_iron_block"
+    ]
+  },
+  "starbunclemania:sea_bunny": {
+    "result": "starbunclemania:sea_bunny",
+    "count": 1,
+    "ingredients": [
+      "minecraft:white_wool",
+      "minecraft:white_wool",
+      "ars_nouveau:magebloom_fiber",
+      "minecraft:white_wool",
+      "minecraft:white_wool",
+      "ars_nouveau:magebloom_fiber",
+      "",
+      "",
+      ""
+    ]
+  },
+  "sushigocrafting:seaweed_on_a_stick": {
+    "result": "sushigocrafting:seaweed_on_a_stick",
+    "count": 1,
+    "ingredients": [
+      "minecraft:fishing_rod",
+      "minecraft:kelp",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "the_bumblezone:sentry_watcher_spawn_egg": {
+    "result": "the_bumblezone:sentry_watcher_spawn_egg",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:full_blocks",
+      "",
+      "minecraft:full_blocks",
+      "minecraft:light_nodes",
+      "minecraft:full_blocks",
+      "",
+      "minecraft:full_blocks",
+      ""
+    ]
+  },
+  "undergarden:sediment_glass_pane": {
+    "result": "undergarden:sediment_glass_pane",
+    "count": 16,
+    "ingredients": [
+      "undergarden:sediment_glass",
+      "undergarden:sediment_glass",
+      "undergarden:sediment_glass",
+      "undergarden:sediment_glass",
+      "undergarden:sediment_glass",
+      "undergarden:sediment_glass",
+      "",
+      "",
+      ""
+    ]
+  }
+}

@@ -1,0 +1,467 @@
+{
+  "ae2:not_so_mysterious_cube": {
+    "result": "ae2:not_so_mysterious_cube",
+    "count": 4,
+    "ingredients": [
+      "ae2:smooth_sky_stone_block",
+      "ae2:calculation_processor_press",
+      "ae2:smooth_sky_stone_block",
+      "ae2:engineering_processor_press",
+      "ae2:controller",
+      "ae2:logic_processor_press",
+      "ae2:smooth_sky_stone_block",
+      "ae2:silicon_press",
+      "ae2:smooth_sky_stone_block"
+    ]
+  },
+  "minecraft:note_block": {
+    "result": "minecraft:note_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:redstone",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks"
+    ]
+  },
+  "aquaculture:note_hook": {
+    "result": "aquaculture:note_hook",
+    "count": 1,
+    "ingredients": [
+      "aquaculture:iron_hook",
+      "minecraft:note_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_nouveau:novice_spell_book": {
+    "result": "ars_nouveau:novice_spell_book",
+    "count": 1,
+    "ingredients": [
+      "minecraft:book",
+      "minecraft:iron_shovel",
+      "minecraft:iron_pickaxe",
+      "minecraft:iron_axe",
+      "minecraft:iron_sword",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "cookingforblockheads:no_filter_edition": {
+    "result": "cookingforblockheads:no_filter_edition",
+    "count": 1,
+    "ingredients": [
+      "cookingforblockheads:recipe_book",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:nozzle": {
+    "result": "create:nozzle",
+    "count": 1,
+    "ingredients": [
+      "",
+      "create:andesite_alloy",
+      "",
+      "",
+      "minecraft:white_wool",
+      "",
+      "create:andesite_alloy",
+      "create:andesite_alloy",
+      "create:andesite_alloy"
+    ]
+  },
+  "eternal_starlight:northland_boat": {
+    "result": "eternal_starlight:northland_boat",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:northland_planks",
+      "",
+      "eternal_starlight:northland_planks",
+      "eternal_starlight:northland_planks",
+      "eternal_starlight:northland_planks",
+      "eternal_starlight:northland_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:northland_button": {
+    "result": "eternal_starlight:northland_button",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:northland_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:northland_chest_boat": {
+    "result": "eternal_starlight:northland_chest_boat",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:northland_boat",
+      "minecraft:chest",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:northland_door": {
+    "result": "eternal_starlight:northland_door",
+    "count": 3,
+    "ingredients": [
+      "eternal_starlight:northland_planks",
+      "eternal_starlight:northland_planks",
+      "",
+      "eternal_starlight:northland_planks",
+      "eternal_starlight:northland_planks",
+      "",
+      "eternal_starlight:northland_planks",
+      "eternal_starlight:northland_planks",
+      ""
+    ]
+  },
+  "eternal_starlight:northland_fence": {
+    "result": "eternal_starlight:northland_fence",
+    "count": 3,
+    "ingredients": [
+      "eternal_starlight:northland_planks",
+      "minecraft:stick",
+      "eternal_starlight:northland_planks",
+      "eternal_starlight:northland_planks",
+      "minecraft:stick",
+      "eternal_starlight:northland_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:northland_fence_gate": {
+    "result": "eternal_starlight:northland_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "eternal_starlight:northland_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "eternal_starlight:northland_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:northland_hanging_sign": {
+    "result": "eternal_starlight:northland_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "eternal_starlight:stripped_northland_log",
+      "eternal_starlight:stripped_northland_log",
+      "eternal_starlight:stripped_northland_log",
+      "eternal_starlight:stripped_northland_log",
+      "eternal_starlight:stripped_northland_log",
+      "eternal_starlight:stripped_northland_log"
+    ]
+  },
+  "eternal_starlight:northland_planks": {
+    "result": "eternal_starlight:northland_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:northland_pressure_plate": {
+    "result": "eternal_starlight:northland_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:northland_planks",
+      "eternal_starlight:northland_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:northland_sign": {
+    "result": "eternal_starlight:northland_sign",
+    "count": 3,
+    "ingredients": [
+      "eternal_starlight:northland_planks",
+      "eternal_starlight:northland_planks",
+      "eternal_starlight:northland_planks",
+      "eternal_starlight:northland_planks",
+      "eternal_starlight:northland_planks",
+      "eternal_starlight:northland_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "eternal_starlight:northland_slab": {
+    "result": "eternal_starlight:northland_slab",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:northland_planks",
+      "eternal_starlight:northland_planks",
+      "eternal_starlight:northland_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:northland_stairs": {
+    "result": "eternal_starlight:northland_stairs",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:northland_planks",
+      "",
+      "",
+      "eternal_starlight:northland_planks",
+      "eternal_starlight:northland_planks",
+      "",
+      "eternal_starlight:northland_planks",
+      "eternal_starlight:northland_planks",
+      "eternal_starlight:northland_planks"
+    ]
+  },
+  "eternal_starlight:northland_starfire_bird_aviary": {
+    "result": "eternal_starlight:northland_starfire_bird_aviary",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:northland_planks",
+      "eternal_starlight:northland_planks",
+      "eternal_starlight:northland_planks",
+      "eternal_starlight:starfire",
+      "eternal_starlight:starfire",
+      "eternal_starlight:starfire",
+      "eternal_starlight:northland_planks",
+      "eternal_starlight:northland_planks",
+      "eternal_starlight:northland_planks"
+    ]
+  },
+  "eternal_starlight:northland_trapdoor": {
+    "result": "eternal_starlight:northland_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "eternal_starlight:northland_planks",
+      "eternal_starlight:northland_planks",
+      "eternal_starlight:northland_planks",
+      "eternal_starlight:northland_planks",
+      "eternal_starlight:northland_planks",
+      "eternal_starlight:northland_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:northland_wood": {
+    "result": "eternal_starlight:northland_wood",
+    "count": 3,
+    "ingredients": [
+      "eternal_starlight:northland_log",
+      "eternal_starlight:northland_log",
+      "",
+      "eternal_starlight:northland_log",
+      "eternal_starlight:northland_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "little_big_redstone:nor_gate": {
+    "result": "little_big_redstone:nor_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "",
+      "",
+      "minecraft:redstone",
+      "little_big_redstone:redstone_bit",
+      "minecraft:redstone_torch",
+      "minecraft:redstone",
+      "",
+      ""
+    ]
+  },
+  "little_big_redstone:not_gate": {
+    "result": "little_big_redstone:not_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "little_big_redstone:redstone_bit",
+      "minecraft:redstone_torch",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:not_gate": {
+    "result": "modern_industrialization:not_gate",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "modern_industrialization:aluminum_wire",
+      "modern_industrialization:op_amp",
+      "modern_industrialization:resistor",
+      "",
+      "",
+      ""
+    ]
+  },
+  "morered:nor_gate": {
+    "result": "morered:nor_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone",
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:redstone",
+      "minecraft:redstone_torch",
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:redstone",
+      "minecraft:stone"
+    ]
+  },
+  "morered:not_gate": {
+    "result": "morered:not_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "minecraft:redstone_torch",
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2crops:nopalesseeditem": {
+    "result": "pamhc2crops:nopalesseeditem",
+    "count": 1,
+    "ingredients": [
+      "pamhc2crops:nopalesitem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:noodlesoupitem": {
+    "result": "pamhc2foodcore:noodlesoupitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:pasta",
+      "minecraft:stock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:nopalessaladitem": {
+    "result": "pamhc2foodextended:nopalessaladitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:cactus",
+      "minecraft:onion",
+      "minecraft:chilipepper",
+      "minecraft:tomato",
+      "minecraft:avocado",
+      "minecraft:spiceleaf",
+      "",
+      ""
+    ]
+  },
+  "supplementaries:notice_board": {
+    "result": "supplementaries:notice_board",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:paper",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks"
+    ]
+  },
+  "utilitarian:no_soliciting_banner": {
+    "result": "utilitarian:no_soliciting_banner",
+    "count": 1,
+    "ingredients": [
+      "minecraft:white_wool",
+      "minecraft:white_wool",
+      "minecraft:white_wool",
+      "minecraft:white_wool",
+      "minecraft:lead",
+      "minecraft:white_wool",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  }
+}

@@ -1,0 +1,4247 @@
+{
+  "actuallyadditions:ender_casing": {
+    "result": "actuallyadditions:ender_casing",
+    "count": 1,
+    "ingredients": [
+      "minecraft:ender_pearl",
+      "actuallyadditions:empowered_diamatine_crystal",
+      "minecraft:ender_pearl",
+      "actuallyadditions:empowered_diamatine_crystal",
+      "actuallyadditions:black_quartz_block",
+      "actuallyadditions:empowered_diamatine_crystal",
+      "minecraft:ender_pearl",
+      "actuallyadditions:empowered_diamatine_crystal",
+      "minecraft:ender_pearl"
+    ]
+  },
+  "actuallyadditions:ender_star": {
+    "result": "actuallyadditions:ender_star",
+    "count": 1,
+    "ingredients": [
+      "minecraft:nether_star",
+      "minecraft:dragon_breath",
+      "actuallyadditions:black_quartz",
+      "minecraft:prismarine_shard",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "actuallyadditions:energizer": {
+    "result": "actuallyadditions:energizer",
+    "count": 1,
+    "ingredients": [
+      "actuallyadditions:restonia_crystal",
+      "",
+      "actuallyadditions:restonia_crystal",
+      "actuallyadditions:advanced_coil",
+      "actuallyadditions:iron_casing",
+      "actuallyadditions:advanced_coil",
+      "actuallyadditions:restonia_crystal",
+      "",
+      "actuallyadditions:restonia_crystal"
+    ]
+  },
+  "actuallyadditions:enervator": {
+    "result": "actuallyadditions:enervator",
+    "count": 1,
+    "ingredients": [
+      "",
+      "actuallyadditions:restonia_crystal",
+      "",
+      "actuallyadditions:advanced_coil",
+      "actuallyadditions:iron_casing",
+      "actuallyadditions:advanced_coil",
+      "",
+      "actuallyadditions:restonia_crystal",
+      ""
+    ]
+  },
+  "actuallyadditions:engineers_goggles": {
+    "result": "actuallyadditions:engineers_goggles",
+    "count": 1,
+    "ingredients": [
+      "",
+      "actuallyadditions:restonia_crystal",
+      "",
+      "minecraft:iron_bars",
+      "minecraft:glass",
+      "minecraft:iron_bars",
+      "",
+      "",
+      ""
+    ]
+  },
+  "actuallyadditions:engineers_goggles_advanced": {
+    "result": "actuallyadditions:engineers_goggles_advanced",
+    "count": 1,
+    "ingredients": [
+      "",
+      "actuallyadditions:empowered_restonia_crystal",
+      "",
+      "minecraft:iron_bars",
+      "actuallyadditions:engineers_goggles",
+      "minecraft:iron_bars",
+      "",
+      "",
+      ""
+    ]
+  },
+  "actuallyadditions:enori_crystal": {
+    "result": "actuallyadditions:enori_crystal",
+    "count": 9,
+    "ingredients": [
+      "actuallyadditions:enori_crystal_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "actuallyadditions:enori_crystal_block": {
+    "result": "actuallyadditions:enori_crystal_block",
+    "count": 1,
+    "ingredients": [
+      "actuallyadditions:enori_crystal",
+      "actuallyadditions:enori_crystal",
+      "actuallyadditions:enori_crystal",
+      "actuallyadditions:enori_crystal",
+      "actuallyadditions:enori_crystal",
+      "actuallyadditions:enori_crystal",
+      "actuallyadditions:enori_crystal",
+      "actuallyadditions:enori_crystal",
+      "actuallyadditions:enori_crystal"
+    ]
+  },
+  "actuallyadditions:enori_crystal_shard": {
+    "result": "actuallyadditions:enori_crystal_shard",
+    "count": 9,
+    "ingredients": [
+      "actuallyadditions:enori_crystal",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "advancedperipherals:energy_detector": {
+    "result": "advancedperipherals:energy_detector",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "minecraft:redstone_torch",
+      "minecraft:redstone",
+      "minecraft:comparator",
+      "advancedperipherals:peripheral_casing",
+      "minecraft:comparator",
+      "minecraft:redstone",
+      "minecraft:gold_ingot",
+      "minecraft:redstone"
+    ]
+  },
+  "advancedperipherals:environment_detector": {
+    "result": "advancedperipherals:environment_detector",
+    "count": 1,
+    "ingredients": [
+      "minecraft:white_wool",
+      "minecraft:saplings",
+      "minecraft:white_wool",
+      "minecraft:leaves",
+      "advancedperipherals:peripheral_casing",
+      "minecraft:leaves",
+      "minecraft:white_wool",
+      "minecraft:crops",
+      "minecraft:white_wool"
+    ]
+  },
+  "ae2:energy_card": {
+    "result": "ae2:energy_card",
+    "count": 1,
+    "ingredients": [
+      "ae2:dense_energy_cell",
+      "ae2:advanced_card",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ae2:energy_acceptor": {
+    "result": "ae2:energy_acceptor",
+    "count": 1,
+    "ingredients": [
+      "ae2:cable_energy_acceptor",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ae2:energy_cell": {
+    "result": "ae2:energy_cell",
+    "count": 1,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:fluix",
+      "minecraft:quartz",
+      "minecraft:fluix",
+      "ae2:quartz_glass",
+      "minecraft:fluix",
+      "minecraft:quartz",
+      "minecraft:fluix",
+      "minecraft:quartz"
+    ]
+  },
+  "ae2:energy_level_emitter": {
+    "result": "ae2:energy_level_emitter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone_torch",
+      "ae2:charged_certus_quartz_crystal",
+      "ae2:calculation_processor",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ae2:entropy_manipulator": {
+    "result": "ae2:entropy_manipulator",
+    "count": 1,
+    "ingredients": [
+      "minecraft:all_fluix",
+      "ae2:energy_cell",
+      "",
+      "ae2:engineering_processor",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      "",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "allthecompressed:enderium_block_1x": {
+    "result": "allthecompressed:enderium_block_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:enderium_block_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:enderium_block_2x": {
+    "result": "allthecompressed:enderium_block_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:enderium_block_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:enderium_block_3x": {
+    "result": "allthecompressed:enderium_block_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:enderium_block_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:enderium_block_4x": {
+    "result": "allthecompressed:enderium_block_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:enderium_block_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:enderium_block_5x": {
+    "result": "allthecompressed:enderium_block_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:enderium_block_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:enderium_block_6x": {
+    "result": "allthecompressed:enderium_block_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:enderium_block_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:enderium_block_7x": {
+    "result": "allthecompressed:enderium_block_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:enderium_block_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:enderium_block_8x": {
+    "result": "allthecompressed:enderium_block_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:enderium_block_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:enderium_block_9x": {
+    "result": "allthecompressed:enderium_block_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:enderium_block_8x",
+      "allthecompressed:enderium_block_8x",
+      "allthecompressed:enderium_block_8x",
+      "allthecompressed:enderium_block_8x",
+      "allthecompressed:enderium_block_8x",
+      "allthecompressed:enderium_block_8x",
+      "allthecompressed:enderium_block_8x",
+      "allthecompressed:enderium_block_8x",
+      "allthecompressed:enderium_block_8x"
+    ]
+  },
+  "allthecompressed:ender_pearl_block_1x": {
+    "result": "allthecompressed:ender_pearl_block_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:ender_pearl_block_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:ender_pearl_block_2x": {
+    "result": "allthecompressed:ender_pearl_block_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:ender_pearl_block_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:ender_pearl_block_3x": {
+    "result": "allthecompressed:ender_pearl_block_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:ender_pearl_block_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:ender_pearl_block_4x": {
+    "result": "allthecompressed:ender_pearl_block_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:ender_pearl_block_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:ender_pearl_block_5x": {
+    "result": "allthecompressed:ender_pearl_block_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:ender_pearl_block_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:ender_pearl_block_6x": {
+    "result": "allthecompressed:ender_pearl_block_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:ender_pearl_block_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:ender_pearl_block_7x": {
+    "result": "allthecompressed:ender_pearl_block_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:ender_pearl_block_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:ender_pearl_block_8x": {
+    "result": "allthecompressed:ender_pearl_block_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:ender_pearl_block_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:ender_pearl_block_9x": {
+    "result": "allthecompressed:ender_pearl_block_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:ender_pearl_block_8x",
+      "allthecompressed:ender_pearl_block_8x",
+      "allthecompressed:ender_pearl_block_8x",
+      "allthecompressed:ender_pearl_block_8x",
+      "allthecompressed:ender_pearl_block_8x",
+      "allthecompressed:ender_pearl_block_8x",
+      "allthecompressed:ender_pearl_block_8x",
+      "allthecompressed:ender_pearl_block_8x",
+      "allthecompressed:ender_pearl_block_8x"
+    ]
+  },
+  "allthecompressed:end_steel_block_1x": {
+    "result": "allthecompressed:end_steel_block_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:end_steel_block_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:end_steel_block_2x": {
+    "result": "allthecompressed:end_steel_block_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:end_steel_block_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:end_steel_block_3x": {
+    "result": "allthecompressed:end_steel_block_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:end_steel_block_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:end_steel_block_4x": {
+    "result": "allthecompressed:end_steel_block_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:end_steel_block_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:end_steel_block_5x": {
+    "result": "allthecompressed:end_steel_block_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:end_steel_block_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:end_steel_block_6x": {
+    "result": "allthecompressed:end_steel_block_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:end_steel_block_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:end_steel_block_7x": {
+    "result": "allthecompressed:end_steel_block_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:end_steel_block_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:end_steel_block_8x": {
+    "result": "allthecompressed:end_steel_block_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:end_steel_block_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:end_steel_block_9x": {
+    "result": "allthecompressed:end_steel_block_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:end_steel_block_8x",
+      "allthecompressed:end_steel_block_8x",
+      "allthecompressed:end_steel_block_8x",
+      "allthecompressed:end_steel_block_8x",
+      "allthecompressed:end_steel_block_8x",
+      "allthecompressed:end_steel_block_8x",
+      "allthecompressed:end_steel_block_8x",
+      "allthecompressed:end_steel_block_8x",
+      "allthecompressed:end_steel_block_8x"
+    ]
+  },
+  "allthecompressed:end_stone_1x": {
+    "result": "allthecompressed:end_stone_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:end_stone_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:end_stone_2x": {
+    "result": "allthecompressed:end_stone_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:end_stone_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:end_stone_3x": {
+    "result": "allthecompressed:end_stone_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:end_stone_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:end_stone_4x": {
+    "result": "allthecompressed:end_stone_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:end_stone_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:end_stone_5x": {
+    "result": "allthecompressed:end_stone_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:end_stone_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:end_stone_6x": {
+    "result": "allthecompressed:end_stone_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:end_stone_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:end_stone_7x": {
+    "result": "allthecompressed:end_stone_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:end_stone_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:end_stone_8x": {
+    "result": "allthecompressed:end_stone_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:end_stone_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:end_stone_9x": {
+    "result": "allthecompressed:end_stone_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:end_stone_8x",
+      "allthecompressed:end_stone_8x",
+      "allthecompressed:end_stone_8x",
+      "allthecompressed:end_stone_8x",
+      "allthecompressed:end_stone_8x",
+      "allthecompressed:end_stone_8x",
+      "allthecompressed:end_stone_8x",
+      "allthecompressed:end_stone_8x",
+      "allthecompressed:end_stone_8x"
+    ]
+  },
+  "allthecompressed:energetic_alloy_block_1x": {
+    "result": "allthecompressed:energetic_alloy_block_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:energetic_alloy_block_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:energetic_alloy_block_2x": {
+    "result": "allthecompressed:energetic_alloy_block_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:energetic_alloy_block_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:energetic_alloy_block_3x": {
+    "result": "allthecompressed:energetic_alloy_block_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:energetic_alloy_block_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:energetic_alloy_block_4x": {
+    "result": "allthecompressed:energetic_alloy_block_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:energetic_alloy_block_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:energetic_alloy_block_5x": {
+    "result": "allthecompressed:energetic_alloy_block_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:energetic_alloy_block_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:energetic_alloy_block_6x": {
+    "result": "allthecompressed:energetic_alloy_block_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:energetic_alloy_block_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:energetic_alloy_block_7x": {
+    "result": "allthecompressed:energetic_alloy_block_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:energetic_alloy_block_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:energetic_alloy_block_8x": {
+    "result": "allthecompressed:energetic_alloy_block_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:energetic_alloy_block_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:energetic_alloy_block_9x": {
+    "result": "allthecompressed:energetic_alloy_block_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:energetic_alloy_block_8x",
+      "allthecompressed:energetic_alloy_block_8x",
+      "allthecompressed:energetic_alloy_block_8x",
+      "allthecompressed:energetic_alloy_block_8x",
+      "allthecompressed:energetic_alloy_block_8x",
+      "allthecompressed:energetic_alloy_block_8x",
+      "allthecompressed:energetic_alloy_block_8x",
+      "allthecompressed:energetic_alloy_block_8x",
+      "allthecompressed:energetic_alloy_block_8x"
+    ]
+  },
+  "allthecompressed:energized_steel_block_1x": {
+    "result": "allthecompressed:energized_steel_block_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:energized_steel_block_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:energized_steel_block_2x": {
+    "result": "allthecompressed:energized_steel_block_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:energized_steel_block_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:energized_steel_block_3x": {
+    "result": "allthecompressed:energized_steel_block_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:energized_steel_block_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:energized_steel_block_4x": {
+    "result": "allthecompressed:energized_steel_block_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:energized_steel_block_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:energized_steel_block_5x": {
+    "result": "allthecompressed:energized_steel_block_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:energized_steel_block_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:energized_steel_block_6x": {
+    "result": "allthecompressed:energized_steel_block_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:energized_steel_block_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:energized_steel_block_7x": {
+    "result": "allthecompressed:energized_steel_block_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:energized_steel_block_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:energized_steel_block_8x": {
+    "result": "allthecompressed:energized_steel_block_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:energized_steel_block_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:energized_steel_block_9x": {
+    "result": "allthecompressed:energized_steel_block_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:energized_steel_block_8x",
+      "allthecompressed:energized_steel_block_8x",
+      "allthecompressed:energized_steel_block_8x",
+      "allthecompressed:energized_steel_block_8x",
+      "allthecompressed:energized_steel_block_8x",
+      "allthecompressed:energized_steel_block_8x",
+      "allthecompressed:energized_steel_block_8x",
+      "allthecompressed:energized_steel_block_8x",
+      "allthecompressed:energized_steel_block_8x"
+    ]
+  },
+  "allthecompressed:entro_block_1x": {
+    "result": "allthecompressed:entro_block_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:entro_block_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:entro_block_2x": {
+    "result": "allthecompressed:entro_block_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:entro_block_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:entro_block_3x": {
+    "result": "allthecompressed:entro_block_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:entro_block_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:entro_block_4x": {
+    "result": "allthecompressed:entro_block_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:entro_block_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:entro_block_5x": {
+    "result": "allthecompressed:entro_block_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:entro_block_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:entro_block_6x": {
+    "result": "allthecompressed:entro_block_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:entro_block_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:entro_block_7x": {
+    "result": "allthecompressed:entro_block_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:entro_block_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:entro_block_8x": {
+    "result": "allthecompressed:entro_block_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:entro_block_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:entro_block_9x": {
+    "result": "allthecompressed:entro_block_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:entro_block_8x",
+      "allthecompressed:entro_block_8x",
+      "allthecompressed:entro_block_8x",
+      "allthecompressed:entro_block_8x",
+      "allthecompressed:entro_block_8x",
+      "allthecompressed:entro_block_8x",
+      "allthecompressed:entro_block_8x",
+      "allthecompressed:entro_block_8x",
+      "allthecompressed:entro_block_8x"
+    ]
+  },
+  "alltheores:enderium_block": {
+    "result": "alltheores:enderium_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:enderium",
+      "minecraft:enderium",
+      "minecraft:enderium",
+      "minecraft:enderium",
+      "minecraft:enderium",
+      "minecraft:enderium",
+      "minecraft:enderium",
+      "minecraft:enderium",
+      "minecraft:enderium"
+    ]
+  },
+  "allthetweaks:ender_pearl_block": {
+    "result": "allthetweaks:ender_pearl_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:ender_pearl",
+      "minecraft:ender_pearl",
+      "minecraft:ender_pearl",
+      "minecraft:ender_pearl",
+      "minecraft:ender_pearl",
+      "minecraft:ender_pearl",
+      "minecraft:ender_pearl",
+      "minecraft:ender_pearl",
+      "minecraft:ender_pearl"
+    ]
+  },
+  "enderio:end_steel_block": {
+    "result": "enderio:end_steel_block",
+    "count": 1,
+    "ingredients": [
+      "enderio:end_steel_ingot",
+      "enderio:end_steel_ingot",
+      "enderio:end_steel_ingot",
+      "enderio:end_steel_ingot",
+      "enderio:end_steel_ingot",
+      "enderio:end_steel_ingot",
+      "enderio:end_steel_ingot",
+      "enderio:end_steel_ingot",
+      "enderio:end_steel_ingot"
+    ]
+  },
+  "minecraft:end_stone": {
+    "result": "minecraft:end_stone",
+    "count": 1,
+    "ingredients": [
+      "occultism:gray_paste",
+      "minecraft:stone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "enderio:energetic_alloy_block": {
+    "result": "enderio:energetic_alloy_block",
+    "count": 1,
+    "ingredients": [
+      "enderio:energetic_alloy_ingot",
+      "enderio:energetic_alloy_ingot",
+      "enderio:energetic_alloy_ingot",
+      "enderio:energetic_alloy_ingot",
+      "enderio:energetic_alloy_ingot",
+      "enderio:energetic_alloy_ingot",
+      "enderio:energetic_alloy_ingot",
+      "enderio:energetic_alloy_ingot",
+      "enderio:energetic_alloy_ingot"
+    ]
+  },
+  "powah:energized_steel_block": {
+    "result": "powah:energized_steel_block",
+    "count": 1,
+    "ingredients": [
+      "powah:steel_energized",
+      "powah:steel_energized",
+      "powah:steel_energized",
+      "powah:steel_energized",
+      "powah:steel_energized",
+      "powah:steel_energized",
+      "powah:steel_energized",
+      "powah:steel_energized",
+      "powah:steel_energized"
+    ]
+  },
+  "extendedae:entro_block": {
+    "result": "extendedae:entro_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:entro",
+      "minecraft:entro",
+      "",
+      "minecraft:entro",
+      "minecraft:entro",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "alltheores:enderium_dust": {
+    "result": "alltheores:enderium_dust",
+    "count": 1,
+    "ingredients": [
+      "minecraft:ore_hammers",
+      "minecraft:enderium",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "alltheores:enderium_gear": {
+    "result": "alltheores:enderium_gear",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:enderium",
+      "",
+      "minecraft:enderium",
+      "minecraft:iron",
+      "minecraft:enderium",
+      "",
+      "minecraft:enderium",
+      ""
+    ]
+  },
+  "alltheores:enderium_ingot": {
+    "result": "alltheores:enderium_ingot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:enderium",
+      "minecraft:enderium",
+      "minecraft:enderium",
+      "minecraft:enderium",
+      "minecraft:enderium",
+      "minecraft:enderium",
+      "minecraft:enderium",
+      "minecraft:enderium",
+      "minecraft:enderium"
+    ]
+  },
+  "alltheores:enderium_nugget": {
+    "result": "alltheores:enderium_nugget",
+    "count": 9,
+    "ingredients": [
+      "minecraft:enderium",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "alltheores:enderium_plate": {
+    "result": "alltheores:enderium_plate",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "minecraft:ore_hammers",
+      "minecraft:enderium",
+      "",
+      "minecraft:enderium",
+      "",
+      ""
+    ]
+  },
+  "alltheores:enderium_rod": {
+    "result": "alltheores:enderium_rod",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "minecraft:enderium",
+      "minecraft:ore_hammers",
+      "minecraft:enderium",
+      ""
+    ]
+  },
+  "minecraft:ender_pearl": {
+    "result": "minecraft:ender_pearl",
+    "count": 3,
+    "ingredients": [
+      "reliquary:nebulous_heart",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "apothic_enchanting:endshelf": {
+    "result": "apothic_enchanting:endshelf",
+    "count": 1,
+    "ingredients": [
+      "minecraft:end_stone_bricks",
+      "minecraft:end_stone_bricks",
+      "minecraft:end_stone_bricks",
+      "apothic_enchanting:infused_breath",
+      "minecraft:bookshelves",
+      "minecraft:ender_pearl",
+      "minecraft:end_stone_bricks",
+      "minecraft:end_stone_bricks",
+      "minecraft:end_stone_bricks"
+    ]
+  },
+  "ars_nouveau:enchanting_apparatus": {
+    "result": "ars_nouveau:enchanting_apparatus",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold",
+      "ars_nouveau:sourcestone",
+      "minecraft:gold",
+      "minecraft:gold_ingot",
+      "minecraft:diamond",
+      "minecraft:gold_ingot",
+      "minecraft:gold",
+      "ars_nouveau:sourcestone",
+      "minecraft:gold"
+    ]
+  },
+  "minecraft:enchanted_golden_apple": {
+    "result": "minecraft:enchanted_golden_apple",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold",
+      "minecraft:gold",
+      "minecraft:gold",
+      "minecraft:gold",
+      "minecraft:apple",
+      "minecraft:gold",
+      "minecraft:gold",
+      "minecraft:gold",
+      "minecraft:gold"
+    ]
+  },
+  "bigreactors:energizercasing": {
+    "result": "bigreactors:energizercasing",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:redstone_block",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:gold",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:redstone_block",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "bigreactors:energizerchargingport_fe": {
+    "result": "bigreactors:energizerchargingport_fe",
+    "count": 1,
+    "ingredients": [
+      "bigreactors:energizercasing",
+      "minecraft:iron_ingot",
+      "bigreactors:energizercasing",
+      "minecraft:redstone",
+      "minecraft:lapis_block",
+      "minecraft:redstone",
+      "bigreactors:energizercasing",
+      "minecraft:iron_ingot",
+      "bigreactors:energizercasing"
+    ]
+  },
+  "bigreactors:energizercomputerport": {
+    "result": "bigreactors:energizercomputerport",
+    "count": 1,
+    "ingredients": [
+      "bigreactors:energizercasing",
+      "minecraft:blue",
+      "bigreactors:energizercasing",
+      "minecraft:glowstone",
+      "minecraft:lapis_lazuli",
+      "minecraft:glowstone",
+      "bigreactors:energizercasing",
+      "minecraft:gold_ingot",
+      "bigreactors:energizercasing"
+    ]
+  },
+  "bigreactors:energizercontroller": {
+    "result": "bigreactors:energizercontroller",
+    "count": 1,
+    "ingredients": [
+      "bigreactors:energizercasing",
+      "minecraft:comparator",
+      "bigreactors:energizercasing",
+      "minecraft:glowstone",
+      "minecraft:redstone_torch",
+      "minecraft:glowstone",
+      "bigreactors:energizercasing",
+      "minecraft:gold_ingot",
+      "bigreactors:energizercasing"
+    ]
+  },
+  "bigreactors:energizercell": {
+    "result": "bigreactors:energizercell",
+    "count": 1,
+    "ingredients": [
+      "bigreactors:benitoite_crystal",
+      "minecraft:gold",
+      "bigreactors:benitoite_crystal",
+      "minecraft:iron",
+      "bigreactors:energycore",
+      "minecraft:iron",
+      "bigreactors:benitoite_crystal",
+      "minecraft:gold",
+      "bigreactors:benitoite_crystal"
+    ]
+  },
+  "bigreactors:energycore": {
+    "result": "bigreactors:energycore",
+    "count": 1,
+    "ingredients": [
+      "bigreactors:anglesite_crystal",
+      "minecraft:redstone",
+      "bigreactors:anglesite_crystal",
+      "minecraft:ender_eye",
+      "minecraft:magentite",
+      "minecraft:ender_eye",
+      "bigreactors:anglesite_crystal",
+      "minecraft:redstone",
+      "bigreactors:anglesite_crystal"
+    ]
+  },
+  "bigreactors:energizerpowerport_fe": {
+    "result": "bigreactors:energizerpowerport_fe",
+    "count": 1,
+    "ingredients": [
+      "bigreactors:energizercasing",
+      "minecraft:iron_ingot",
+      "bigreactors:energizercasing",
+      "minecraft:stone",
+      "minecraft:redstone_block",
+      "minecraft:stone",
+      "bigreactors:energizercasing",
+      "minecraft:iron_ingot",
+      "bigreactors:energizercasing"
+    ]
+  },
+  "bigreactors:energizerpowerport_fe_active": {
+    "result": "bigreactors:energizerpowerport_fe_active",
+    "count": 1,
+    "ingredients": [
+      "bigreactors:energizercasing",
+      "minecraft:iron_ingot",
+      "bigreactors:energizercasing",
+      "minecraft:lapis_lazuli",
+      "minecraft:redstone_block",
+      "minecraft:lapis_lazuli",
+      "bigreactors:energizercasing",
+      "minecraft:iron_ingot",
+      "bigreactors:energizercasing"
+    ]
+  },
+  "botanypots:end_stone_bricks_botany_pot": {
+    "result": "botanypots:end_stone_bricks_botany_pot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:end_stone_bricks",
+      "",
+      "minecraft:end_stone_bricks",
+      "minecraft:end_stone_bricks",
+      "minecraft:flower_pot",
+      "minecraft:end_stone_bricks",
+      "",
+      "minecraft:end_stone_bricks",
+      ""
+    ]
+  },
+  "botanypots:end_stone_bricks_hopper_botany_pot": {
+    "result": "botanypots:end_stone_bricks_hopper_botany_pot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:end_stone_bricks",
+      "minecraft:hopper",
+      "minecraft:end_stone_bricks",
+      "minecraft:end_stone_bricks",
+      "minecraft:flower_pot",
+      "minecraft:end_stone_bricks",
+      "",
+      "minecraft:end_stone_bricks",
+      ""
+    ]
+  },
+  "botanypots:end_stone_bricks_waxed_botany_pot": {
+    "result": "botanypots:end_stone_bricks_waxed_botany_pot",
+    "count": 1,
+    "ingredients": [
+      "minecraft:honeycomb",
+      "botanypots:end_stone_bricks_botany_pot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "cataclysm:end_stone_pillar": {
+    "result": "cataclysm:end_stone_pillar",
+    "count": 1,
+    "ingredients": [
+      "minecraft:end_stone_bricks",
+      "",
+      "",
+      "minecraft:end_stone_bricks",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "cataclysm:end_stone_teleport_trap_bricks": {
+    "result": "cataclysm:end_stone_teleport_trap_bricks",
+    "count": 8,
+    "ingredients": [
+      "minecraft:end_stone_bricks",
+      "minecraft:end_stone_bricks",
+      "minecraft:end_stone_bricks",
+      "minecraft:end_stone_bricks",
+      "cataclysm:void_stone",
+      "minecraft:end_stone_bricks",
+      "minecraft:end_stone_bricks",
+      "minecraft:end_stone_bricks",
+      "minecraft:end_stone_bricks"
+    ]
+  },
+  "compactmachines:enlarging_module": {
+    "result": "compactmachines:enlarging_module",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone_button",
+      "minecraft:piston",
+      "minecraft:stone_button",
+      "minecraft:stone_button",
+      "minecraft:ender_eye",
+      "minecraft:stone_button",
+      "minecraft:stone_button",
+      "minecraft:light_weighted_pressure_plate",
+      "minecraft:stone_button"
+    ]
+  },
+  "create:encased_chain_drive": {
+    "result": "create:encased_chain_drive",
+    "count": 1,
+    "ingredients": [
+      "create:andesite_casing",
+      "minecraft:zinc",
+      "minecraft:zinc",
+      "minecraft:zinc",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:encased_fan": {
+    "result": "create:encased_fan",
+    "count": 1,
+    "ingredients": [
+      "create:shaft",
+      "",
+      "",
+      "create:andesite_casing",
+      "",
+      "",
+      "create:propeller",
+      "",
+      ""
+    ]
+  },
+  "create_enchantment_industry:ender_woven_bag": {
+    "result": "create_enchantment_industry:ender_woven_bag",
+    "count": 1,
+    "ingredients": [
+      "apothic_enchanting:ender_lead",
+      "create:rose_quartz_lamp",
+      "apothic_enchanting:ender_lead",
+      "apothic_enchanting:ender_lead",
+      "create:precision_mechanism",
+      "apothic_enchanting:ender_lead",
+      "apothic_enchanting:ender_lead",
+      "create:brass_casing",
+      "apothic_enchanting:ender_lead"
+    ]
+  },
+  "draconicevolution:entity_detector": {
+    "result": "draconicevolution:entity_detector",
+    "count": 1,
+    "ingredients": [
+      "minecraft:lapis_lazuli",
+      "minecraft:ender_eye",
+      "minecraft:lapis_lazuli",
+      "minecraft:redstone",
+      "minecraft:draconium",
+      "minecraft:redstone",
+      "minecraft:iron_ingot",
+      "draconicevolution:draconium_core",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "draconicevolution:entity_detector_advanced": {
+    "result": "draconicevolution:entity_detector_advanced",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "minecraft:skeleton_skull",
+      "minecraft:redstone",
+      "minecraft:lapis_lazuli",
+      "minecraft:diamond",
+      "minecraft:lapis_lazuli",
+      "minecraft:draconium",
+      "draconicevolution:entity_detector",
+      "minecraft:draconium"
+    ]
+  },
+  "draconicevolution:energy_core": {
+    "result": "draconicevolution:energy_core",
+    "count": 1,
+    "ingredients": [
+      "minecraft:draconium",
+      "minecraft:draconium",
+      "minecraft:draconium",
+      "draconicevolution:wyvern_energy_core",
+      "draconicevolution:wyvern_core",
+      "draconicevolution:wyvern_energy_core",
+      "minecraft:draconium",
+      "minecraft:draconium",
+      "minecraft:draconium"
+    ]
+  },
+  "draconicevolution:energy_core_stabilizer": {
+    "result": "draconicevolution:energy_core_stabilizer",
+    "count": 1,
+    "ingredients": [
+      "minecraft:diamond",
+      "",
+      "minecraft:diamond",
+      "",
+      "draconicevolution:particle_generator",
+      "",
+      "minecraft:diamond",
+      "",
+      "minecraft:diamond"
+    ]
+  },
+  "draconicevolution:energy_pylon": {
+    "result": "draconicevolution:energy_pylon",
+    "count": 2,
+    "ingredients": [
+      "minecraft:draconium",
+      "minecraft:ender_eye",
+      "minecraft:draconium",
+      "minecraft:emerald",
+      "draconicevolution:draconium_core",
+      "minecraft:emerald",
+      "minecraft:draconium",
+      "minecraft:diamond",
+      "minecraft:draconium"
+    ]
+  },
+  "draconicevolution:energy_transfuser": {
+    "result": "draconicevolution:energy_transfuser",
+    "count": 1,
+    "ingredients": [
+      "minecraft:draconium",
+      "draconicevolution:energy_core_stabilizer",
+      "minecraft:draconium",
+      "draconicevolution:draconium_core",
+      "minecraft:enchanting_table",
+      "draconicevolution:draconium_core",
+      "minecraft:draconium",
+      "draconicevolution:draconium_core",
+      "minecraft:draconium"
+    ]
+  },
+  "enderdrives:ender_disk_16k": {
+    "result": "enderdrives:ender_disk_16k",
+    "count": 1,
+    "ingredients": [
+      "ae2:quartz_vibrant_glass",
+      "ae2:calculation_processor",
+      "ae2:quartz_vibrant_glass",
+      "ae2:sky_dust",
+      "enderdrives:ender_storage_component_16k",
+      "ae2:sky_dust",
+      "minecraft:netherite_ingot",
+      "minecraft:ender_chest",
+      "minecraft:netherite_ingot"
+    ]
+  },
+  "enderdrives:ender_disk_1k": {
+    "result": "enderdrives:ender_disk_1k",
+    "count": 1,
+    "ingredients": [
+      "ae2:quartz_vibrant_glass",
+      "ae2:calculation_processor",
+      "ae2:quartz_vibrant_glass",
+      "ae2:sky_dust",
+      "enderdrives:ender_storage_component_1k",
+      "ae2:sky_dust",
+      "minecraft:netherite_ingot",
+      "minecraft:ender_chest",
+      "minecraft:netherite_ingot"
+    ]
+  },
+  "enderdrives:ender_disk_256k": {
+    "result": "enderdrives:ender_disk_256k",
+    "count": 1,
+    "ingredients": [
+      "ae2:quartz_vibrant_glass",
+      "ae2:calculation_processor",
+      "ae2:quartz_vibrant_glass",
+      "ae2:sky_dust",
+      "enderdrives:ender_storage_component_256k",
+      "ae2:sky_dust",
+      "minecraft:netherite_ingot",
+      "minecraft:ender_chest",
+      "minecraft:netherite_ingot"
+    ]
+  },
+  "enderdrives:ender_disk_4k": {
+    "result": "enderdrives:ender_disk_4k",
+    "count": 1,
+    "ingredients": [
+      "ae2:quartz_vibrant_glass",
+      "ae2:calculation_processor",
+      "ae2:quartz_vibrant_glass",
+      "ae2:sky_dust",
+      "enderdrives:ender_storage_component_4k",
+      "ae2:sky_dust",
+      "minecraft:netherite_ingot",
+      "minecraft:ender_chest",
+      "minecraft:netherite_ingot"
+    ]
+  },
+  "enderdrives:ender_disk_64k": {
+    "result": "enderdrives:ender_disk_64k",
+    "count": 1,
+    "ingredients": [
+      "ae2:quartz_vibrant_glass",
+      "ae2:calculation_processor",
+      "ae2:quartz_vibrant_glass",
+      "ae2:sky_dust",
+      "enderdrives:ender_storage_component_64k",
+      "ae2:sky_dust",
+      "minecraft:netherite_ingot",
+      "minecraft:ender_chest",
+      "minecraft:netherite_ingot"
+    ]
+  },
+  "enderdrives:ender_storage_component_16k": {
+    "result": "enderdrives:ender_storage_component_16k",
+    "count": 1,
+    "ingredients": [
+      "ae2:singularity",
+      "ae2:calculation_processor",
+      "ae2:singularity",
+      "enderdrives:ender_storage_component_4k",
+      "ae2:quartz_vibrant_glass",
+      "enderdrives:ender_storage_component_4k",
+      "ae2:singularity",
+      "enderdrives:ender_storage_component_4k",
+      "ae2:singularity"
+    ]
+  },
+  "enderdrives:ender_storage_component_1k": {
+    "result": "enderdrives:ender_storage_component_1k",
+    "count": 1,
+    "ingredients": [
+      "ae2:singularity",
+      "minecraft:ender_pearl",
+      "ae2:singularity",
+      "minecraft:ender_pearl",
+      "ae2:spatial_cell_component_128",
+      "minecraft:ender_pearl",
+      "ae2:singularity",
+      "minecraft:ender_pearl",
+      "ae2:singularity"
+    ]
+  },
+  "enderdrives:ender_storage_component_256k": {
+    "result": "enderdrives:ender_storage_component_256k",
+    "count": 1,
+    "ingredients": [
+      "ae2:singularity",
+      "ae2:calculation_processor",
+      "ae2:singularity",
+      "enderdrives:ender_storage_component_64k",
+      "ae2:quartz_vibrant_glass",
+      "enderdrives:ender_storage_component_64k",
+      "ae2:singularity",
+      "enderdrives:ender_storage_component_64k",
+      "ae2:singularity"
+    ]
+  },
+  "enderdrives:ender_storage_component_4k": {
+    "result": "enderdrives:ender_storage_component_4k",
+    "count": 1,
+    "ingredients": [
+      "ae2:singularity",
+      "ae2:calculation_processor",
+      "ae2:singularity",
+      "enderdrives:ender_storage_component_1k",
+      "ae2:quartz_vibrant_glass",
+      "enderdrives:ender_storage_component_1k",
+      "ae2:singularity",
+      "enderdrives:ender_storage_component_1k",
+      "ae2:singularity"
+    ]
+  },
+  "enderdrives:ender_storage_component_64k": {
+    "result": "enderdrives:ender_storage_component_64k",
+    "count": 1,
+    "ingredients": [
+      "ae2:singularity",
+      "ae2:calculation_processor",
+      "ae2:singularity",
+      "enderdrives:ender_storage_component_16k",
+      "ae2:quartz_vibrant_glass",
+      "enderdrives:ender_storage_component_16k",
+      "ae2:singularity",
+      "enderdrives:ender_storage_component_16k",
+      "ae2:singularity"
+    ]
+  },
+  "enderio:enchanter": {
+    "result": "enderio:enchanter",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:book",
+      "",
+      "minecraft:diamond",
+      "minecraft:lectern",
+      "minecraft:diamond",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot"
+    ]
+  },
+  "enderio:enderios": {
+    "result": "enderio:enderios",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bowl",
+      "minecraft:milk_bucket",
+      "minecraft:wheat",
+      "enderio:powdered_ender_pearl",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "enderio:end_steel_bars": {
+    "result": "enderio:end_steel_bars",
+    "count": 12,
+    "ingredients": [
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "",
+      "",
+      ""
+    ]
+  },
+  "enderio:end_steel_grinding_ball": {
+    "result": "enderio:end_steel_grinding_ball",
+    "count": 24,
+    "ingredients": [
+      "",
+      "modern_industrialization:steel_ingot",
+      "",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "",
+      "modern_industrialization:steel_ingot",
+      ""
+    ]
+  },
+  "enderio:end_steel_ingot": {
+    "result": "enderio:end_steel_ingot",
+    "count": 2,
+    "ingredients": [
+      "mysticalagriculture:end_steel_essence",
+      "mysticalagriculture:end_steel_essence",
+      "mysticalagriculture:end_steel_essence",
+      "mysticalagriculture:end_steel_essence",
+      "",
+      "mysticalagriculture:end_steel_essence",
+      "mysticalagriculture:end_steel_essence",
+      "mysticalagriculture:end_steel_essence",
+      "mysticalagriculture:end_steel_essence"
+    ]
+  },
+  "enderio:end_steel_nugget": {
+    "result": "enderio:end_steel_nugget",
+    "count": 9,
+    "ingredients": [
+      "enderio:end_steel_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "enderio:energetic_alloy_grinding_ball": {
+    "result": "enderio:energetic_alloy_grinding_ball",
+    "count": 24,
+    "ingredients": [
+      "",
+      "minecraft:energetic_alloy",
+      "",
+      "minecraft:energetic_alloy",
+      "minecraft:energetic_alloy",
+      "minecraft:energetic_alloy",
+      "",
+      "minecraft:energetic_alloy",
+      ""
+    ]
+  },
+  "enderio:energetic_alloy_ingot": {
+    "result": "enderio:energetic_alloy_ingot",
+    "count": 3,
+    "ingredients": [
+      "mysticalagriculture:energetic_alloy_essence",
+      "mysticalagriculture:energetic_alloy_essence",
+      "mysticalagriculture:energetic_alloy_essence",
+      "mysticalagriculture:energetic_alloy_essence",
+      "",
+      "mysticalagriculture:energetic_alloy_essence",
+      "mysticalagriculture:energetic_alloy_essence",
+      "mysticalagriculture:energetic_alloy_essence",
+      "mysticalagriculture:energetic_alloy_essence"
+    ]
+  },
+  "enderio:energetic_alloy_nugget": {
+    "result": "enderio:energetic_alloy_nugget",
+    "count": 9,
+    "ingredients": [
+      "enderio:energetic_alloy_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "enderio:energetic_photovoltaic_module": {
+    "result": "enderio:energetic_photovoltaic_module",
+    "count": 1,
+    "ingredients": [
+      "enderio:energetic_photovoltaic_module",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "enderio:energized_gear": {
+    "result": "enderio:energized_gear",
+    "count": 1,
+    "ingredients": [
+      "enderio:energetic_alloy_nugget",
+      "enderio:energetic_alloy_ingot",
+      "enderio:energetic_alloy_nugget",
+      "enderio:energetic_alloy_ingot",
+      "minecraft:iron",
+      "enderio:energetic_alloy_ingot",
+      "enderio:energetic_alloy_nugget",
+      "enderio:energetic_alloy_ingot",
+      "enderio:energetic_alloy_nugget"
+    ]
+  },
+  "enderio:ensouled_chassis": {
+    "result": "enderio:ensouled_chassis",
+    "count": 1,
+    "ingredients": [
+      "enderio:soul_chain",
+      "minecraft:soularium",
+      "enderio:soul_chain",
+      "minecraft:soularium",
+      "minecraft:quartz",
+      "minecraft:soularium",
+      "enderio:soul_chain",
+      "minecraft:soularium",
+      "enderio:soul_chain"
+    ]
+  },
+  "minecraft:ender_eye": {
+    "result": "minecraft:ender_eye",
+    "count": 3,
+    "ingredients": [
+      "mysticalagriculture:enderman_essence",
+      "mysticalagriculture:enderman_essence",
+      "mysticalagriculture:enderman_essence",
+      "mysticalagriculture:enderman_essence",
+      "mysticalagriculture:blaze_essence",
+      "mysticalagriculture:enderman_essence",
+      "mysticalagriculture:enderman_essence",
+      "mysticalagriculture:enderman_essence",
+      "mysticalagriculture:enderman_essence"
+    ]
+  },
+  "eternal_starlight:energy_boomerang": {
+    "result": "eternal_starlight:energy_boomerang",
+    "count": 1,
+    "ingredients": [
+      "",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "",
+      "",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      ""
+    ]
+  },
+  "eternal_starlight:energy_transmitter": {
+    "result": "eternal_starlight:energy_transmitter",
+    "count": 4,
+    "ingredients": [
+      "",
+      "eternal_starlight:golem_steel_nugget",
+      "",
+      "minecraft:redstone",
+      "eternal_starlight:golem_steel_nugget",
+      "minecraft:redstone",
+      "eternal_starlight:cinder_brick",
+      "eternal_starlight:cinder_brick",
+      "eternal_starlight:cinder_brick"
+    ]
+  },
+  "minecraft:enchanted_book": {
+    "result": "minecraft:enchanted_book",
+    "count": 1,
+    "ingredients": [
+      "evilcraft:bucket_poison",
+      "minecraft:book",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "extendedae:entro_crystal": {
+    "result": "extendedae:entro_crystal",
+    "count": 1,
+    "ingredients": [
+      "extendedae:entro_shard",
+      "extendedae:entro_shard",
+      "extendedae:entro_shard",
+      "extendedae:entro_shard",
+      "",
+      "extendedae:entro_shard",
+      "extendedae:entro_shard",
+      "extendedae:entro_shard",
+      "extendedae:entro_shard"
+    ]
+  },
+  "extendedae:entro_seed": {
+    "result": "extendedae:entro_seed",
+    "count": 2,
+    "ingredients": [
+      "minecraft:sands",
+      "minecraft:ender_pearl",
+      "minecraft:ender_pearl",
+      "minecraft:ender_pearl",
+      "minecraft:redstone",
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "ae2:sky_dust"
+    ]
+  },
+  "forbidden_arcanus:ender_pearl_fragment": {
+    "result": "forbidden_arcanus:ender_pearl_fragment",
+    "count": 4,
+    "ingredients": [
+      "minecraft:ender_pearl",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "functionalstorage:ender_drawer": {
+    "result": "functionalstorage:ender_drawer",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:drawer",
+      "minecraft:chest",
+      "minecraft:drawer",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks"
+    ]
+  },
+  "generatorgalore:enchantment_generator_64x": {
+    "result": "generatorgalore:enchantment_generator_64x",
+    "count": 1,
+    "ingredients": [
+      "generatorgalore:enchantment_generator_8x",
+      "generatorgalore:enchantment_generator_8x",
+      "generatorgalore:enchantment_generator_8x",
+      "generatorgalore:enchantment_generator_8x",
+      "minecraft:conduit",
+      "generatorgalore:enchantment_generator_8x",
+      "generatorgalore:enchantment_generator_8x",
+      "generatorgalore:enchantment_generator_8x",
+      "generatorgalore:enchantment_generator_8x"
+    ]
+  },
+  "generatorgalore:ender_generator_64x": {
+    "result": "generatorgalore:ender_generator_64x",
+    "count": 1,
+    "ingredients": [
+      "generatorgalore:ender_generator_8x",
+      "generatorgalore:ender_generator_8x",
+      "generatorgalore:ender_generator_8x",
+      "generatorgalore:ender_generator_8x",
+      "minecraft:conduit",
+      "generatorgalore:ender_generator_8x",
+      "generatorgalore:ender_generator_8x",
+      "generatorgalore:ender_generator_8x",
+      "generatorgalore:ender_generator_8x"
+    ]
+  },
+  "generatorgalore:enchantment_generator_8x": {
+    "result": "generatorgalore:enchantment_generator_8x",
+    "count": 1,
+    "ingredients": [
+      "generatorgalore:enchantment_generator",
+      "generatorgalore:enchantment_generator",
+      "generatorgalore:enchantment_generator",
+      "generatorgalore:enchantment_generator",
+      "minecraft:echo_shard",
+      "generatorgalore:enchantment_generator",
+      "generatorgalore:enchantment_generator",
+      "generatorgalore:enchantment_generator",
+      "generatorgalore:enchantment_generator"
+    ]
+  },
+  "generatorgalore:ender_generator_8x": {
+    "result": "generatorgalore:ender_generator_8x",
+    "count": 1,
+    "ingredients": [
+      "generatorgalore:ender_generator",
+      "generatorgalore:ender_generator",
+      "generatorgalore:ender_generator",
+      "generatorgalore:ender_generator",
+      "minecraft:echo_shard",
+      "generatorgalore:ender_generator",
+      "generatorgalore:ender_generator",
+      "generatorgalore:ender_generator",
+      "generatorgalore:ender_generator"
+    ]
+  },
+  "generatorgalore:enchantment_generator": {
+    "result": "generatorgalore:enchantment_generator",
+    "count": 1,
+    "ingredients": [
+      "minecraft:enchanted_book",
+      "minecraft:enchanted_book",
+      "minecraft:enchanted_book",
+      "minecraft:enchanted_book",
+      "generatorgalore:obsidian_generator",
+      "minecraft:enchanted_book",
+      "minecraft:enchanted_book",
+      "minecraft:enchanting_table",
+      "minecraft:enchanted_book"
+    ]
+  },
+  "generatorgalore:ender_generator": {
+    "result": "generatorgalore:ender_generator",
+    "count": 1,
+    "ingredients": [
+      "minecraft:ender_pearl",
+      "minecraft:ender_pearl",
+      "minecraft:ender_pearl",
+      "minecraft:ender_pearl",
+      "generatorgalore:obsidian_generator",
+      "minecraft:ender_pearl",
+      "minecraft:ender_pearl",
+      "minecraft:redstone",
+      "minecraft:ender_pearl"
+    ]
+  },
+  "generatorgalore:ender_to_halitosis_upgrade": {
+    "result": "generatorgalore:ender_to_halitosis_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:amethyst",
+      "minecraft:amethyst",
+      "minecraft:amethyst",
+      "minecraft:amethyst",
+      "minecraft:item_frame",
+      "minecraft:amethyst",
+      "minecraft:amethyst",
+      "minecraft:end_rod",
+      "minecraft:amethyst"
+    ]
+  },
+  "hostilenetworks:end_prediction": {
+    "result": "hostilenetworks:end_prediction",
+    "count": 1,
+    "ingredients": [
+      "",
+      "hostilenetworks:nether_prediction",
+      "",
+      "hostilenetworks:nether_prediction",
+      "minecraft:end_stone",
+      "hostilenetworks:nether_prediction",
+      "",
+      "hostilenetworks:nether_prediction",
+      ""
+    ]
+  },
+  "industrialforegoing:enchantment_applicator": {
+    "result": "industrialforegoing:enchantment_applicator",
+    "count": 1,
+    "ingredients": [
+      "minecraft:plastics",
+      "minecraft:plastics",
+      "minecraft:plastics",
+      "minecraft:anvil",
+      "minecraft:advanced",
+      "minecraft:anvil",
+      "minecraft:gold",
+      "minecraft:anvil",
+      "minecraft:gold"
+    ]
+  },
+  "industrialforegoing:enchantment_extractor": {
+    "result": "industrialforegoing:enchantment_extractor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:plastics",
+      "minecraft:nether_bricks",
+      "minecraft:plastics",
+      "minecraft:book",
+      "minecraft:advanced",
+      "minecraft:book",
+      "minecraft:diamond",
+      "minecraft:gold",
+      "minecraft:diamond"
+    ]
+  },
+  "industrialforegoing:enchantment_factory": {
+    "result": "industrialforegoing:enchantment_factory",
+    "count": 1,
+    "ingredients": [
+      "minecraft:plastics",
+      "minecraft:book",
+      "minecraft:plastics",
+      "minecraft:diamond",
+      "minecraft:advanced",
+      "minecraft:diamond",
+      "minecraft:obsidian",
+      "minecraft:obsidian",
+      "minecraft:obsidian"
+    ]
+  },
+  "industrialforegoing:enchantment_sorter": {
+    "result": "industrialforegoing:enchantment_sorter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:plastics",
+      "minecraft:ender_pearl",
+      "minecraft:plastics",
+      "minecraft:book",
+      "minecraft:advanced",
+      "minecraft:enchanted_book",
+      "minecraft:plastics",
+      "minecraft:diamond",
+      "minecraft:plastics"
+    ]
+  },
+  "integrateddynamics:energy_battery": {
+    "result": "integrateddynamics:energy_battery",
+    "count": 1,
+    "ingredients": [
+      "integrateddynamics:crystalized_menril_chunk",
+      "integrateddynamics:crystalized_menril_block",
+      "integrateddynamics:crystalized_menril_chunk",
+      "integrateddynamics:crystalized_menril_chunk",
+      "minecraft:redstone",
+      "integrateddynamics:crystalized_menril_chunk",
+      "integrateddynamics:crystalized_menril_chunk",
+      "integrateddynamics:crystalized_menril_block",
+      "integrateddynamics:crystalized_menril_chunk"
+    ]
+  },
+  "integrateddynamics:enhancement_offset": {
+    "result": "integrateddynamics:enhancement_offset",
+    "count": 1,
+    "ingredients": [
+      "integrateddynamics:variable_transformer_input",
+      "integrateddynamics:crystalized_menril_chunk",
+      "integrateddynamics:variable_transformer_output",
+      "integrateddynamics:variable_transformer_input",
+      "integrateddynamics:crystalized_menril_chunk",
+      "integrateddynamics:variable_transformer_output",
+      "",
+      "minecraft:diamond",
+      ""
+    ]
+  },
+  "irons_spellbooks:ender_rune": {
+    "result": "irons_spellbooks:ender_rune",
+    "count": 1,
+    "ingredients": [
+      "minecraft:ender_focus",
+      "minecraft:ender_focus",
+      "minecraft:ender_focus",
+      "minecraft:ender_focus",
+      "irons_spellbooks:blank_rune",
+      "minecraft:ender_focus",
+      "minecraft:ender_focus",
+      "minecraft:ender_focus",
+      "minecraft:ender_focus"
+    ]
+  },
+  "irons_spellbooks:ender_upgrade_orb": {
+    "result": "irons_spellbooks:ender_upgrade_orb",
+    "count": 1,
+    "ingredients": [
+      "irons_spellbooks:ender_rune",
+      "irons_spellbooks:ender_rune",
+      "irons_spellbooks:ender_rune",
+      "irons_spellbooks:ender_rune",
+      "irons_spellbooks:upgrade_orb",
+      "irons_spellbooks:ender_rune",
+      "irons_spellbooks:ender_rune",
+      "irons_spellbooks:ender_rune",
+      "irons_spellbooks:ender_rune"
+    ]
+  },
+  "irons_spellbooks:energized_core": {
+    "result": "irons_spellbooks:energized_core",
+    "count": 1,
+    "ingredients": [
+      "minecraft:lightning_focus",
+      "minecraft:lightning_focus",
+      "minecraft:lightning_focus",
+      "minecraft:lightning_focus",
+      "minecraft:copper_block",
+      "minecraft:lightning_focus",
+      "minecraft:lightning_focus",
+      "minecraft:lightning_focus",
+      "minecraft:lightning_focus"
+    ]
+  },
+  "justdirethings:energytransmitter": {
+    "result": "justdirethings:energytransmitter",
+    "count": 1,
+    "ingredients": [
+      "justdirethings:energytransmitter",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:end_stone_bricks_bridge": {
+    "result": "mcwbridges:end_stone_bricks_bridge",
+    "count": 1,
+    "ingredients": [
+      "mcwbridges:end_stone_bricks_bridge_stair",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:end_stone_bricks_bridge_pier": {
+    "result": "mcwbridges:end_stone_bricks_bridge_pier",
+    "count": 3,
+    "ingredients": [
+      "minecraft:end_stone_bricks",
+      "minecraft:end_stone_brick_wall",
+      "minecraft:end_stone_bricks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:end_stone_bricks_bridge_stair": {
+    "result": "mcwbridges:end_stone_bricks_bridge_stair",
+    "count": 6,
+    "ingredients": [
+      "",
+      "",
+      "mcwbridges:end_stone_bricks_bridge",
+      "",
+      "mcwbridges:end_stone_bricks_bridge",
+      "mcwbridges:end_stone_bricks_bridge",
+      "mcwbridges:end_stone_bricks_bridge",
+      "mcwbridges:end_stone_bricks_bridge",
+      "mcwbridges:end_stone_bricks_bridge"
+    ]
+  },
+  "mcwfences:end_brick_grass_topped_wall": {
+    "result": "mcwfences:end_brick_grass_topped_wall",
+    "count": 6,
+    "ingredients": [
+      "minecraft:end_stone",
+      "minecraft:dirt",
+      "minecraft:end_stone",
+      "minecraft:end_stone_bricks",
+      "minecraft:end_stone_bricks",
+      "minecraft:end_stone_bricks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfences:end_brick_pillar_wall": {
+    "result": "mcwfences:end_brick_pillar_wall",
+    "count": 5,
+    "ingredients": [
+      "minecraft:end_stone_bricks",
+      "minecraft:end_stone_bricks",
+      "minecraft:end_stone_bricks",
+      "minecraft:end_stone",
+      "",
+      "minecraft:end_stone",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfences:end_brick_railing_gate": {
+    "result": "mcwfences:end_brick_railing_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_bars",
+      "minecraft:end_stone_bricks",
+      "minecraft:iron_bars",
+      "minecraft:iron_bars",
+      "minecraft:end_stone_bricks",
+      "minecraft:iron_bars",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwwindows:ender_brick_arrow_slit": {
+    "result": "mcwwindows:ender_brick_arrow_slit",
+    "count": 3,
+    "ingredients": [
+      "",
+      "minecraft:end_stone_bricks",
+      "minecraft:end_stone_bricks",
+      "",
+      "minecraft:end_stone_brick_slab",
+      "minecraft:end_stone_brick_slab",
+      "",
+      "minecraft:end_stone_bricks",
+      "minecraft:end_stone_bricks"
+    ]
+  },
+  "mcwwindows:end_brick_gothic": {
+    "result": "mcwwindows:end_brick_gothic",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:end_stone_bricks",
+      "",
+      "minecraft:end_stone_bricks",
+      "minecraft:glass_pane",
+      "minecraft:end_stone_bricks",
+      "",
+      "minecraft:end_stone_bricks",
+      ""
+    ]
+  },
+  "mekanism:energized_smelter": {
+    "result": "mekanism:energized_smelter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:basic",
+      "minecraft:basic",
+      "minecraft:basic",
+      "minecraft:glass",
+      "mekanism:steel_casing",
+      "minecraft:glass",
+      "minecraft:basic",
+      "minecraft:basic",
+      "minecraft:basic"
+    ]
+  },
+  "mekanism:energy_tablet": {
+    "result": "mekanism:energy_tablet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "minecraft:gold_ingot",
+      "minecraft:redstone",
+      "minecraft:infused",
+      "minecraft:gold_ingot",
+      "minecraft:infused",
+      "minecraft:redstone",
+      "minecraft:gold_ingot",
+      "minecraft:redstone"
+    ]
+  },
+  "mekanism:enrichment_chamber": {
+    "result": "mekanism:enrichment_chamber",
+    "count": 1,
+    "ingredients": [
+      "minecraft:basic",
+      "minecraft:basic",
+      "minecraft:basic",
+      "minecraft:iron_ingot",
+      "mekanism:steel_casing",
+      "minecraft:iron_ingot",
+      "minecraft:basic",
+      "minecraft:basic",
+      "minecraft:basic"
+    ]
+  },
+  "merrymaking:end_stone_brick_garland_wall": {
+    "result": "merrymaking:end_stone_brick_garland_wall",
+    "count": 1,
+    "ingredients": [
+      "minecraft:end_stone_brick_wall",
+      "merrymaking:garland_horizontal",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:end_stone_brick_garland_multi_wall": {
+    "result": "merrymaking:end_stone_brick_garland_multi_wall",
+    "count": 1,
+    "ingredients": [
+      "minecraft:end_stone_brick_wall",
+      "merrymaking:garland_horizontal_multi",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:end_stone_brick_garland_lights_wall": {
+    "result": "merrymaking:end_stone_brick_garland_lights_wall",
+    "count": 1,
+    "ingredients": [
+      "minecraft:end_stone_brick_wall",
+      "merrymaking:garland_horizontal_lights",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:enchanting_table": {
+    "result": "minecraft:enchanting_table",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:book",
+      "",
+      "minecraft:diamond",
+      "minecraft:obsidian",
+      "minecraft:diamond",
+      "minecraft:obsidian",
+      "minecraft:obsidian",
+      "minecraft:obsidian"
+    ]
+  },
+  "minecraft:ender_chest": {
+    "result": "minecraft:ender_chest",
+    "count": 1,
+    "ingredients": [
+      "minecraft:obsidian",
+      "minecraft:obsidian",
+      "minecraft:obsidian",
+      "minecraft:obsidian",
+      "minecraft:ender_eye",
+      "minecraft:obsidian",
+      "minecraft:obsidian",
+      "minecraft:obsidian",
+      "minecraft:obsidian"
+    ]
+  },
+  "minecraft:end_crystal": {
+    "result": "minecraft:end_crystal",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:ender_eye",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:ghast_tear",
+      "minecraft:glass"
+    ]
+  },
+  "minecraft:end_rod": {
+    "result": "minecraft:end_rod",
+    "count": 4,
+    "ingredients": [
+      "minecraft:blaze_rod",
+      "",
+      "",
+      "minecraft:popped_chorus_fruit",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:end_stone_bricks": {
+    "result": "minecraft:end_stone_bricks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:end_stone",
+      "minecraft:end_stone",
+      "",
+      "minecraft:end_stone",
+      "minecraft:end_stone",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:end_stone_brick_slab": {
+    "result": "minecraft:end_stone_brick_slab",
+    "count": 6,
+    "ingredients": [
+      "minecraft:end_stone_bricks",
+      "minecraft:end_stone_bricks",
+      "minecraft:end_stone_bricks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:end_stone_brick_stairs": {
+    "result": "minecraft:end_stone_brick_stairs",
+    "count": 4,
+    "ingredients": [
+      "minecraft:end_stone_bricks",
+      "",
+      "",
+      "minecraft:end_stone_bricks",
+      "minecraft:end_stone_bricks",
+      "",
+      "minecraft:end_stone_bricks",
+      "minecraft:end_stone_bricks",
+      "minecraft:end_stone_bricks"
+    ]
+  },
+  "minecraft:end_stone_brick_wall": {
+    "result": "minecraft:end_stone_brick_wall",
+    "count": 6,
+    "ingredients": [
+      "minecraft:end_stone_bricks",
+      "minecraft:end_stone_bricks",
+      "minecraft:end_stone_bricks",
+      "minecraft:end_stone_bricks",
+      "minecraft:end_stone_bricks",
+      "minecraft:end_stone_bricks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mob_grinding_utils:ender_inhibitor_on": {
+    "result": "mob_grinding_utils:ender_inhibitor_on",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:redstone",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:ender_eye",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:stone",
+      ""
+    ]
+  },
+  "mob_grinding_utils:entity_conveyor": {
+    "result": "mob_grinding_utils:entity_conveyor",
+    "count": 6,
+    "ingredients": [
+      "",
+      "minecraft:slime_ball",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:redstone",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:slime_ball",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "mob_grinding_utils:entity_spawner": {
+    "result": "mob_grinding_utils:entity_spawner",
+    "count": 1,
+    "ingredients": [
+      "minecraft:ender_eye",
+      "minecraft:ender_eye",
+      "minecraft:ender_eye",
+      "mob_grinding_utils:solid_xp_block",
+      "minecraft:redstone",
+      "mob_grinding_utils:solid_xp_block",
+      "minecraft:iron",
+      "minecraft:piston",
+      "minecraft:iron"
+    ]
+  },
+  "modularrouters:energy_distributor_module": {
+    "result": "modularrouters:energy_distributor_module",
+    "count": 1,
+    "ingredients": [
+      "modularrouters:energy_output_module",
+      "modularrouters:distributor_module",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modularrouters:energy_output_module": {
+    "result": "modularrouters:energy_output_module",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:redstone",
+      "",
+      "minecraft:gold_ingot",
+      "modularrouters:blank_module",
+      "minecraft:gold_ingot",
+      "",
+      "minecraft:quartz",
+      ""
+    ]
+  },
+  "modularrouters:energy_upgrade": {
+    "result": "modularrouters:energy_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:redstone",
+      "minecraft:quartz",
+      "",
+      "modularrouters:blank_upgrade",
+      "",
+      "minecraft:quartz",
+      "minecraft:gold_ingot",
+      "minecraft:quartz"
+    ]
+  },
+  "mysticalagriculture:enchanter": {
+    "result": "mysticalagriculture:enchanter",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:enchanting_table",
+      "",
+      "",
+      "mysticalagriculture:soulium_ingot",
+      "",
+      "mysticalagriculture:soulstone",
+      "mysticalagriculture:soulstone",
+      "mysticalagriculture:soulstone"
+    ]
+  },
+  "mysticalagriculture:end_agglomeratio": {
+    "result": "mysticalagriculture:end_agglomeratio",
+    "count": 1,
+    "ingredients": [
+      "minecraft:end_stone",
+      "minecraft:chorus_fruit",
+      "",
+      "minecraft:purpur_block",
+      "minecraft:end_stone",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ae2:engineering_processor_press": {
+    "result": "ae2:engineering_processor_press",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:certus_quartz_essence",
+      "mysticalagriculture:certus_quartz_essence",
+      "mysticalagriculture:certus_quartz_essence",
+      "mysticalagriculture:certus_quartz_essence",
+      "minecraft:diamond",
+      "mysticalagriculture:certus_quartz_essence",
+      "mysticalagriculture:certus_quartz_essence",
+      "mysticalagriculture:certus_quartz_essence",
+      "mysticalagriculture:certus_quartz_essence"
+    ]
+  },
+  "oritech:energite_block": {
+    "result": "oritech:energite_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:energite",
+      "minecraft:energite",
+      "minecraft:energite",
+      "minecraft:energite",
+      "minecraft:energite",
+      "minecraft:energite",
+      "minecraft:energite",
+      "minecraft:energite",
+      "minecraft:energite"
+    ]
+  },
+  "oritech:energite_ingot": {
+    "result": "oritech:energite_ingot",
+    "count": 9,
+    "ingredients": [
+      "minecraft:energite",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "oritech:enchantment_catalyst_block": {
+    "result": "oritech:enchantment_catalyst_block",
+    "count": 1,
+    "ingredients": [
+      "oritech:fluxite",
+      "oritech:fluxite",
+      "oritech:fluxite",
+      "minecraft:normal",
+      "oritech:super_ai_chip",
+      "minecraft:normal",
+      "oritech:adamant_ingot",
+      "minecraft:enchanting_table",
+      "oritech:adamant_ingot"
+    ]
+  },
+  "oritech:energy_pipe_duct_block": {
+    "result": "oritech:energy_pipe_duct_block",
+    "count": 4,
+    "ingredients": [
+      "oritech:energy_pipe",
+      "minecraft:stone",
+      "oritech:energy_pipe",
+      "minecraft:stone",
+      "minecraft:plating",
+      "minecraft:stone",
+      "oritech:energy_pipe",
+      "minecraft:stone",
+      "oritech:energy_pipe"
+    ]
+  },
+  "oritech:enchanter_block": {
+    "result": "oritech:enchanter_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "oritech:enchantment_catalyst_block",
+      "minecraft:book",
+      "oritech:energite_ingot",
+      "oritech:duratium_ingot",
+      "oritech:energite_ingot"
+    ]
+  },
+  "oritech:energy_pipe": {
+    "result": "oritech:energy_pipe",
+    "count": 1,
+    "ingredients": [
+      "oritech:framed_energy_pipe",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:enchiladaitem": {
+    "result": "pamhc2foodextended:enchiladaitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:tortilla",
+      "minecraft:rawmeats",
+      "minecraft:tomato",
+      "minecraft:chilipepper",
+      "minecraft:garlic",
+      "minecraft:cheese",
+      "minecraft:spiceleaf",
+      ""
+    ]
+  },
+  "pamhc2foodextended:energydrinkitem": {
+    "result": "pamhc2foodextended:energydrinkitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:water",
+      "minecraft:sugar",
+      "minecraft:redstone",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pipez:energy_pipe": {
+    "result": "pipez:energy_pipe",
+    "count": 16,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:redstone",
+      "minecraft:redstone",
+      "minecraft:redstone",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "pneumaticcraft:ender_visor_upgrade": {
+    "result": "pneumaticcraft:ender_visor_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:upgrade_components",
+      "minecraft:chorus_flower",
+      "minecraft:upgrade_components",
+      "minecraft:chorus_flower",
+      "minecraft:carved_pumpkin",
+      "minecraft:chorus_flower",
+      "minecraft:upgrade_components",
+      "minecraft:chorus_flower",
+      "minecraft:upgrade_components"
+    ]
+  },
+  "pneumaticcraft:entity_tracker_upgrade": {
+    "result": "pneumaticcraft:entity_tracker_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:upgrade_components",
+      "minecraft:bone",
+      "minecraft:upgrade_components",
+      "minecraft:bone",
+      "minecraft:fermented_spider_eye",
+      "minecraft:bone",
+      "minecraft:upgrade_components",
+      "minecraft:bone",
+      "minecraft:upgrade_components"
+    ]
+  },
+  "potionsmaster:ender_powder": {
+    "result": "potionsmaster:ender_powder",
+    "count": 1,
+    "ingredients": [
+      "potionsmaster:pestle",
+      "minecraft:ender_pearl",
+      "potionsmaster:tile_mortar",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "powah:energy_cable_basic": {
+    "result": "powah:energy_cable_basic",
+    "count": 12,
+    "ingredients": [
+      "powah:dielectric_rod_horizontal",
+      "powah:dielectric_rod_horizontal",
+      "powah:dielectric_rod_horizontal",
+      "minecraft:iron_ingot",
+      "powah:capacitor_basic",
+      "minecraft:iron_ingot",
+      "powah:dielectric_rod_horizontal",
+      "powah:dielectric_rod_horizontal",
+      "powah:dielectric_rod_horizontal"
+    ]
+  },
+  "powah:energy_cable_blazing": {
+    "result": "powah:energy_cable_blazing",
+    "count": 12,
+    "ingredients": [
+      "powah:dielectric_rod_horizontal",
+      "powah:dielectric_rod_horizontal",
+      "powah:dielectric_rod_horizontal",
+      "powah:crystal_blazing",
+      "powah:capacitor_blazing",
+      "powah:crystal_blazing",
+      "powah:dielectric_rod_horizontal",
+      "powah:dielectric_rod_horizontal",
+      "powah:dielectric_rod_horizontal"
+    ]
+  },
+  "powah:energy_cable_hardened": {
+    "result": "powah:energy_cable_hardened",
+    "count": 12,
+    "ingredients": [
+      "powah:dielectric_rod_horizontal",
+      "powah:dielectric_rod_horizontal",
+      "powah:dielectric_rod_horizontal",
+      "powah:steel_energized",
+      "powah:capacitor_hardened",
+      "powah:steel_energized",
+      "powah:dielectric_rod_horizontal",
+      "powah:dielectric_rod_horizontal",
+      "powah:dielectric_rod_horizontal"
+    ]
+  },
+  "powah:energy_cable_niotic": {
+    "result": "powah:energy_cable_niotic",
+    "count": 12,
+    "ingredients": [
+      "powah:dielectric_rod_horizontal",
+      "powah:dielectric_rod_horizontal",
+      "powah:dielectric_rod_horizontal",
+      "powah:crystal_niotic",
+      "powah:capacitor_niotic",
+      "powah:crystal_niotic",
+      "powah:dielectric_rod_horizontal",
+      "powah:dielectric_rod_horizontal",
+      "powah:dielectric_rod_horizontal"
+    ]
+  },
+  "powah:energy_cable_nitro": {
+    "result": "powah:energy_cable_nitro",
+    "count": 12,
+    "ingredients": [
+      "powah:dielectric_rod_horizontal",
+      "powah:dielectric_rod_horizontal",
+      "powah:dielectric_rod_horizontal",
+      "powah:crystal_nitro",
+      "powah:capacitor_nitro",
+      "powah:crystal_nitro",
+      "powah:dielectric_rod_horizontal",
+      "powah:dielectric_rod_horizontal",
+      "powah:dielectric_rod_horizontal"
+    ]
+  },
+  "powah:energy_cable_spirited": {
+    "result": "powah:energy_cable_spirited",
+    "count": 12,
+    "ingredients": [
+      "powah:dielectric_rod_horizontal",
+      "powah:dielectric_rod_horizontal",
+      "powah:dielectric_rod_horizontal",
+      "powah:crystal_spirited",
+      "powah:capacitor_spirited",
+      "powah:crystal_spirited",
+      "powah:dielectric_rod_horizontal",
+      "powah:dielectric_rod_horizontal",
+      "powah:dielectric_rod_horizontal"
+    ]
+  },
+  "powah:energy_cable_starter": {
+    "result": "powah:energy_cable_starter",
+    "count": 12,
+    "ingredients": [
+      "powah:dielectric_rod_horizontal",
+      "powah:dielectric_rod_horizontal",
+      "powah:dielectric_rod_horizontal",
+      "minecraft:iron_nugget",
+      "powah:capacitor_basic_tiny",
+      "minecraft:iron_nugget",
+      "powah:dielectric_rod_horizontal",
+      "powah:dielectric_rod_horizontal",
+      "powah:dielectric_rod_horizontal"
+    ]
+  },
+  "powah:ender_cell_basic": {
+    "result": "powah:ender_cell_basic",
+    "count": 1,
+    "ingredients": [
+      "powah:ender_cell_basic",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "powah:ender_cell_blazing": {
+    "result": "powah:ender_cell_blazing",
+    "count": 1,
+    "ingredients": [
+      "powah:ender_cell_blazing",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "powah:ender_cell_hardened": {
+    "result": "powah:ender_cell_hardened",
+    "count": 1,
+    "ingredients": [
+      "powah:ender_cell_hardened",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "powah:ender_cell_niotic": {
+    "result": "powah:ender_cell_niotic",
+    "count": 1,
+    "ingredients": [
+      "powah:ender_cell_niotic",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "powah:ender_cell_nitro": {
+    "result": "powah:ender_cell_nitro",
+    "count": 1,
+    "ingredients": [
+      "powah:ender_cell_nitro",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "powah:ender_cell_spirited": {
+    "result": "powah:ender_cell_spirited",
+    "count": 1,
+    "ingredients": [
+      "powah:ender_cell_spirited",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "powah:ender_cell_starter": {
+    "result": "powah:ender_cell_starter",
+    "count": 1,
+    "ingredients": [
+      "powah:ender_cell_starter",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "powah:ender_gate_basic": {
+    "result": "powah:ender_gate_basic",
+    "count": 1,
+    "ingredients": [
+      "powah:ender_gate_basic",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "powah:ender_gate_blazing": {
+    "result": "powah:ender_gate_blazing",
+    "count": 1,
+    "ingredients": [
+      "powah:ender_gate_blazing",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "powah:ender_gate_hardened": {
+    "result": "powah:ender_gate_hardened",
+    "count": 1,
+    "ingredients": [
+      "powah:ender_gate_hardened",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "powah:ender_gate_niotic": {
+    "result": "powah:ender_gate_niotic",
+    "count": 1,
+    "ingredients": [
+      "powah:ender_gate_niotic",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "powah:ender_gate_nitro": {
+    "result": "powah:ender_gate_nitro",
+    "count": 1,
+    "ingredients": [
+      "powah:ender_gate_nitro",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "powah:ender_gate_spirited": {
+    "result": "powah:ender_gate_spirited",
+    "count": 1,
+    "ingredients": [
+      "powah:ender_gate_spirited",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "powah:ender_gate_starter": {
+    "result": "powah:ender_gate_starter",
+    "count": 1,
+    "ingredients": [
+      "powah:ender_gate_starter",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "powah:energizing_orb": {
+    "result": "powah:energizing_orb",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "powah:dielectric_casing",
+      "minecraft:glass",
+      "powah:dielectric_rod_horizontal",
+      "powah:dielectric_rod_horizontal",
+      "powah:dielectric_rod_horizontal"
+    ]
+  },
+  "powah:energizing_rod_basic": {
+    "result": "powah:energizing_rod_basic",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:quartz",
+      "",
+      "powah:capacitor_basic",
+      "powah:dielectric_casing",
+      "powah:capacitor_basic",
+      "",
+      "powah:energizing_rod_starter",
+      ""
+    ]
+  },
+  "powah:energizing_rod_blazing": {
+    "result": "powah:energizing_rod_blazing",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:quartz",
+      "",
+      "powah:capacitor_blazing",
+      "powah:dielectric_casing",
+      "powah:capacitor_blazing",
+      "",
+      "powah:energizing_rod_hardened",
+      ""
+    ]
+  },
+  "powah:energizing_rod_hardened": {
+    "result": "powah:energizing_rod_hardened",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:quartz",
+      "",
+      "powah:capacitor_hardened",
+      "powah:dielectric_casing",
+      "powah:capacitor_hardened",
+      "",
+      "powah:energizing_rod_basic",
+      ""
+    ]
+  },
+  "powah:energizing_rod_niotic": {
+    "result": "powah:energizing_rod_niotic",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:quartz",
+      "",
+      "powah:capacitor_niotic",
+      "powah:dielectric_casing",
+      "powah:capacitor_niotic",
+      "",
+      "powah:energizing_rod_blazing",
+      ""
+    ]
+  },
+  "powah:energizing_rod_nitro": {
+    "result": "powah:energizing_rod_nitro",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:quartz",
+      "",
+      "powah:capacitor_nitro",
+      "powah:dielectric_casing",
+      "powah:capacitor_nitro",
+      "",
+      "powah:energizing_rod_spirited",
+      ""
+    ]
+  },
+  "powah:energizing_rod_spirited": {
+    "result": "powah:energizing_rod_spirited",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:quartz",
+      "",
+      "powah:capacitor_spirited",
+      "powah:dielectric_casing",
+      "powah:capacitor_spirited",
+      "",
+      "powah:energizing_rod_niotic",
+      ""
+    ]
+  },
+  "powah:energizing_rod_starter": {
+    "result": "powah:energizing_rod_starter",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:quartz",
+      "",
+      "powah:capacitor_basic_tiny",
+      "powah:dielectric_casing",
+      "powah:capacitor_basic_tiny",
+      "",
+      "powah:dielectric_rod",
+      ""
+    ]
+  },
+  "powah:energy_cell_basic": {
+    "result": "powah:energy_cell_basic",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "powah:energy_cell_starter",
+      "powah:dielectric_casing",
+      "powah:energy_cell_starter",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "powah:energy_cell_blazing": {
+    "result": "powah:energy_cell_blazing",
+    "count": 1,
+    "ingredients": [
+      "powah:crystal_blazing",
+      "powah:capacitor_blazing",
+      "powah:crystal_blazing",
+      "powah:energy_cell_hardened",
+      "powah:dielectric_casing",
+      "powah:energy_cell_hardened",
+      "powah:crystal_blazing",
+      "powah:capacitor_blazing",
+      "powah:crystal_blazing"
+    ]
+  },
+  "powah:energy_cell_hardened": {
+    "result": "powah:energy_cell_hardened",
+    "count": 1,
+    "ingredients": [
+      "powah:steel_energized",
+      "powah:capacitor_hardened",
+      "powah:steel_energized",
+      "powah:energy_cell_basic",
+      "powah:dielectric_casing",
+      "powah:energy_cell_basic",
+      "powah:steel_energized",
+      "powah:capacitor_hardened",
+      "powah:steel_energized"
+    ]
+  },
+  "powah:energy_cell_niotic": {
+    "result": "powah:energy_cell_niotic",
+    "count": 1,
+    "ingredients": [
+      "powah:crystal_niotic",
+      "powah:capacitor_niotic",
+      "powah:crystal_niotic",
+      "powah:energy_cell_blazing",
+      "powah:dielectric_casing",
+      "powah:energy_cell_blazing",
+      "powah:crystal_niotic",
+      "powah:capacitor_niotic",
+      "powah:crystal_niotic"
+    ]
+  },
+  "powah:energy_cell_nitro": {
+    "result": "powah:energy_cell_nitro",
+    "count": 1,
+    "ingredients": [
+      "powah:crystal_nitro",
+      "powah:capacitor_nitro",
+      "powah:crystal_nitro",
+      "powah:energy_cell_spirited",
+      "powah:dielectric_casing",
+      "powah:energy_cell_spirited",
+      "powah:crystal_nitro",
+      "powah:capacitor_nitro",
+      "powah:crystal_nitro"
+    ]
+  },
+  "powah:energy_cell_spirited": {
+    "result": "powah:energy_cell_spirited",
+    "count": 1,
+    "ingredients": [
+      "powah:crystal_spirited",
+      "powah:capacitor_spirited",
+      "powah:crystal_spirited",
+      "powah:energy_cell_niotic",
+      "powah:dielectric_casing",
+      "powah:energy_cell_niotic",
+      "powah:crystal_spirited",
+      "powah:capacitor_spirited",
+      "powah:crystal_spirited"
+    ]
+  },
+  "powah:energy_cell_starter": {
+    "result": "powah:energy_cell_starter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "powah:capacitor_basic_tiny",
+      "minecraft:iron_ingot",
+      "powah:capacitor_basic_tiny",
+      "powah:dielectric_casing",
+      "powah:capacitor_basic_tiny",
+      "minecraft:iron_ingot",
+      "powah:capacitor_basic_tiny",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "powah:energy_discharger_basic": {
+    "result": "powah:energy_discharger_basic",
+    "count": 1,
+    "ingredients": [
+      "powah:dielectric_paste",
+      "powah:capacitor_basic",
+      "powah:dielectric_paste",
+      "powah:dielectric_paste",
+      "powah:dielectric_casing",
+      "powah:dielectric_paste",
+      "powah:dielectric_paste",
+      "powah:capacitor_basic",
+      "powah:dielectric_paste"
+    ]
+  },
+  "powah:energy_discharger_blazing": {
+    "result": "powah:energy_discharger_blazing",
+    "count": 1,
+    "ingredients": [
+      "powah:dielectric_paste",
+      "powah:capacitor_blazing",
+      "powah:dielectric_paste",
+      "powah:dielectric_paste",
+      "powah:dielectric_casing",
+      "powah:dielectric_paste",
+      "powah:dielectric_paste",
+      "powah:capacitor_blazing",
+      "powah:dielectric_paste"
+    ]
+  },
+  "powah:energy_discharger_hardened": {
+    "result": "powah:energy_discharger_hardened",
+    "count": 1,
+    "ingredients": [
+      "powah:dielectric_paste",
+      "powah:capacitor_hardened",
+      "powah:dielectric_paste",
+      "powah:dielectric_paste",
+      "powah:dielectric_casing",
+      "powah:dielectric_paste",
+      "powah:dielectric_paste",
+      "powah:capacitor_hardened",
+      "powah:dielectric_paste"
+    ]
+  },
+  "powah:energy_discharger_niotic": {
+    "result": "powah:energy_discharger_niotic",
+    "count": 1,
+    "ingredients": [
+      "powah:dielectric_paste",
+      "powah:capacitor_niotic",
+      "powah:dielectric_paste",
+      "powah:dielectric_paste",
+      "powah:dielectric_casing",
+      "powah:dielectric_paste",
+      "powah:dielectric_paste",
+      "powah:capacitor_niotic",
+      "powah:dielectric_paste"
+    ]
+  },
+  "powah:energy_discharger_nitro": {
+    "result": "powah:energy_discharger_nitro",
+    "count": 1,
+    "ingredients": [
+      "powah:dielectric_paste",
+      "powah:capacitor_nitro",
+      "powah:dielectric_paste",
+      "powah:dielectric_paste",
+      "powah:dielectric_casing",
+      "powah:dielectric_paste",
+      "powah:dielectric_paste",
+      "powah:capacitor_nitro",
+      "powah:dielectric_paste"
+    ]
+  },
+  "powah:energy_discharger_spirited": {
+    "result": "powah:energy_discharger_spirited",
+    "count": 1,
+    "ingredients": [
+      "powah:dielectric_paste",
+      "powah:capacitor_spirited",
+      "powah:dielectric_paste",
+      "powah:dielectric_paste",
+      "powah:dielectric_casing",
+      "powah:dielectric_paste",
+      "powah:dielectric_paste",
+      "powah:capacitor_spirited",
+      "powah:dielectric_paste"
+    ]
+  },
+  "powah:energy_discharger_starter": {
+    "result": "powah:energy_discharger_starter",
+    "count": 1,
+    "ingredients": [
+      "powah:dielectric_paste",
+      "powah:capacitor_basic_tiny",
+      "powah:dielectric_paste",
+      "powah:dielectric_paste",
+      "powah:dielectric_casing",
+      "powah:dielectric_paste",
+      "powah:dielectric_paste",
+      "powah:capacitor_basic_tiny",
+      "powah:dielectric_paste"
+    ]
+  },
+  "powah:energy_hopper_basic": {
+    "result": "powah:energy_hopper_basic",
+    "count": 1,
+    "ingredients": [
+      "powah:dielectric_paste",
+      "powah:dielectric_paste",
+      "powah:dielectric_paste",
+      "powah:capacitor_basic",
+      "powah:dielectric_casing",
+      "powah:capacitor_basic",
+      "powah:dielectric_paste",
+      "powah:energy_hopper_starter",
+      "powah:dielectric_paste"
+    ]
+  },
+  "powah:energy_hopper_blazing": {
+    "result": "powah:energy_hopper_blazing",
+    "count": 1,
+    "ingredients": [
+      "powah:dielectric_paste",
+      "powah:dielectric_paste",
+      "powah:dielectric_paste",
+      "powah:capacitor_blazing",
+      "powah:dielectric_casing",
+      "powah:capacitor_blazing",
+      "powah:dielectric_paste",
+      "powah:energy_hopper_hardened",
+      "powah:dielectric_paste"
+    ]
+  },
+  "powah:energy_hopper_hardened": {
+    "result": "powah:energy_hopper_hardened",
+    "count": 1,
+    "ingredients": [
+      "powah:dielectric_paste",
+      "powah:dielectric_paste",
+      "powah:dielectric_paste",
+      "powah:capacitor_hardened",
+      "powah:dielectric_casing",
+      "powah:capacitor_hardened",
+      "powah:dielectric_paste",
+      "powah:energy_hopper_basic",
+      "powah:dielectric_paste"
+    ]
+  },
+  "powah:energy_hopper_niotic": {
+    "result": "powah:energy_hopper_niotic",
+    "count": 1,
+    "ingredients": [
+      "powah:dielectric_paste",
+      "powah:dielectric_paste",
+      "powah:dielectric_paste",
+      "powah:capacitor_niotic",
+      "powah:dielectric_casing",
+      "powah:capacitor_niotic",
+      "powah:dielectric_paste",
+      "powah:energy_hopper_blazing",
+      "powah:dielectric_paste"
+    ]
+  },
+  "powah:energy_hopper_nitro": {
+    "result": "powah:energy_hopper_nitro",
+    "count": 1,
+    "ingredients": [
+      "powah:dielectric_paste",
+      "powah:dielectric_paste",
+      "powah:dielectric_paste",
+      "powah:capacitor_nitro",
+      "powah:dielectric_casing",
+      "powah:capacitor_nitro",
+      "powah:dielectric_paste",
+      "powah:energy_hopper_spirited",
+      "powah:dielectric_paste"
+    ]
+  },
+  "powah:energy_hopper_spirited": {
+    "result": "powah:energy_hopper_spirited",
+    "count": 1,
+    "ingredients": [
+      "powah:dielectric_paste",
+      "powah:dielectric_paste",
+      "powah:dielectric_paste",
+      "powah:capacitor_spirited",
+      "powah:dielectric_casing",
+      "powah:capacitor_spirited",
+      "powah:dielectric_paste",
+      "powah:energy_hopper_niotic",
+      "powah:dielectric_paste"
+    ]
+  },
+  "powah:energy_hopper_starter": {
+    "result": "powah:energy_hopper_starter",
+    "count": 1,
+    "ingredients": [
+      "powah:dielectric_paste",
+      "powah:dielectric_paste",
+      "powah:dielectric_paste",
+      "powah:capacitor_basic_tiny",
+      "powah:dielectric_casing",
+      "powah:capacitor_basic_tiny",
+      "powah:dielectric_paste",
+      "minecraft:hopper",
+      "powah:dielectric_paste"
+    ]
+  },
+  "productivebees:end_stone_nest": {
+    "result": "productivebees:end_stone_nest",
+    "count": 1,
+    "ingredients": [
+      "productivebees:end_stone_nest",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:energy_minecart": {
+    "result": "railcraft:energy_minecart",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:lead_ingot",
+      "minecraft:redstone_block",
+      "modern_industrialization:lead_ingot",
+      "minecraft:redstone_block",
+      "minecraft:minecart",
+      "minecraft:redstone_block",
+      "modern_industrialization:lead_ingot",
+      "minecraft:redstone_block",
+      "modern_industrialization:lead_ingot"
+    ]
+  },
+  "regions_unexplored:enchanted_birch_sapling": {
+    "result": "regions_unexplored:enchanted_birch_sapling",
+    "count": 2,
+    "ingredients": [
+      "regions_unexplored:enchanted_birch_shrub",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:enchanted_birch_shrub": {
+    "result": "regions_unexplored:enchanted_birch_shrub",
+    "count": 1,
+    "ingredients": [
+      "regions_unexplored:enchanted_birch_sapling",
+      "",
+      "",
+      "regions_unexplored:enchanted_birch_sapling",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "rftoolspower:endergenic": {
+    "result": "rftoolspower:endergenic",
+    "count": 1,
+    "ingredients": [
+      "minecraft:diamond",
+      "minecraft:ender_pearl",
+      "minecraft:diamond",
+      "rftoolsbase:infused_enderpearl",
+      "rftoolsbase:machine_frame",
+      "rftoolsbase:infused_enderpearl",
+      "minecraft:diamond",
+      "minecraft:ender_pearl",
+      "minecraft:diamond"
+    ]
+  },
+  "rftoolspower:ender_monitor": {
+    "result": "rftoolspower:ender_monitor",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:ender_pearl",
+      "",
+      "minecraft:redstone",
+      "rftoolsbase:machine_base",
+      "minecraft:redstone",
+      "minecraft:redstone_torch",
+      "minecraft:redstone",
+      "minecraft:redstone_torch"
+    ]
+  },
+  "rftoolsutility:energyplus_module": {
+    "result": "rftoolsutility:energyplus_module",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:ender_pearl",
+      "",
+      "minecraft:gold_ingot",
+      "rftoolsutility:energy_module",
+      "minecraft:gold_ingot",
+      "",
+      "minecraft:ender_pearl",
+      ""
+    ]
+  },
+  "rftoolsutility:energy_module": {
+    "result": "rftoolsutility:energy_module",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:redstone",
+      "",
+      "minecraft:redstone",
+      "minecraft:iron_ingot",
+      "minecraft:redstone",
+      "",
+      "minecraft:black",
+      ""
+    ]
+  },
+  "rftoolsutility:environmental_controller": {
+    "result": "rftoolsutility:environmental_controller",
+    "count": 1,
+    "ingredients": [
+      "minecraft:ender_pearl",
+      "minecraft:diamond_block",
+      "minecraft:ender_pearl",
+      "minecraft:gold_block",
+      "rftoolsbase:machine_frame",
+      "minecraft:iron_block",
+      "minecraft:ender_pearl",
+      "minecraft:emerald_block",
+      "minecraft:ender_pearl"
+    ]
+  },
+  "securitycraft:end_stone_mine": {
+    "result": "securitycraft:end_stone_mine",
+    "count": 1,
+    "ingredients": [
+      "minecraft:end_stone",
+      "securitycraft:mine",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "stevescarts:enhanced_galgadorian_metal": {
+    "result": "stevescarts:enhanced_galgadorian_metal",
+    "count": 1,
+    "ingredients": [
+      "stevescarts:component_enhanced_galgadorian_metal",
+      "stevescarts:component_enhanced_galgadorian_metal",
+      "stevescarts:component_enhanced_galgadorian_metal",
+      "stevescarts:component_enhanced_galgadorian_metal",
+      "stevescarts:component_enhanced_galgadorian_metal",
+      "stevescarts:component_enhanced_galgadorian_metal",
+      "stevescarts:component_enhanced_galgadorian_metal",
+      "stevescarts:component_enhanced_galgadorian_metal",
+      "stevescarts:component_enhanced_galgadorian_metal"
+    ]
+  },
+  "supplementaries:end_stone_lamp": {
+    "result": "supplementaries:end_stone_lamp",
+    "count": 1,
+    "ingredients": [
+      "minecraft:end_stone",
+      "minecraft:end_stone",
+      "minecraft:end_stone",
+      "minecraft:end_stone",
+      "minecraft:end_rod",
+      "minecraft:end_stone",
+      "minecraft:end_stone",
+      "minecraft:end_stone",
+      "minecraft:end_stone"
+    ]
+  },
+  "trashcans:energy_trash_can": {
+    "result": "trashcans:energy_trash_can",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:cobblestone",
+      "minecraft:redstone",
+      "minecraft:cobblestone",
+      "minecraft:cobblestone",
+      "minecraft:cobblestone",
+      "minecraft:cobblestone"
+    ]
+  },
+  "twilightforest:encased_fire_jet": {
+    "result": "twilightforest:encased_fire_jet",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:encased_towerwood",
+      "minecraft:redstone",
+      "twilightforest:encased_towerwood",
+      "minecraft:redstone",
+      "twilightforest:fire_jet",
+      "minecraft:redstone",
+      "minecraft:lava_bucket",
+      "minecraft:lava_bucket",
+      "minecraft:lava_bucket"
+    ]
+  },
+  "twilightforest:encased_smoker": {
+    "result": "twilightforest:encased_smoker",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:encased_towerwood",
+      "minecraft:redstone",
+      "twilightforest:encased_towerwood",
+      "minecraft:redstone",
+      "twilightforest:smoker",
+      "minecraft:redstone",
+      "twilightforest:encased_towerwood",
+      "minecraft:redstone",
+      "twilightforest:encased_towerwood"
+    ]
+  },
+  "twilightforest:encased_castle_brick_stairs": {
+    "result": "twilightforest:encased_castle_brick_stairs",
+    "count": 8,
+    "ingredients": [
+      "twilightforest:encased_castle_brick_pillar",
+      "",
+      "",
+      "twilightforest:encased_castle_brick_pillar",
+      "twilightforest:encased_castle_brick_pillar",
+      "",
+      "twilightforest:encased_castle_brick_pillar",
+      "twilightforest:encased_castle_brick_pillar",
+      "twilightforest:encased_castle_brick_pillar"
+    ]
+  },
+  "twilightforest:encased_castle_brick_pillar": {
+    "result": "twilightforest:encased_castle_brick_pillar",
+    "count": 6,
+    "ingredients": [
+      "twilightforest:castle_brick",
+      "twilightforest:encased_castle_brick_pillar",
+      "twilightforest:castle_brick",
+      "twilightforest:castle_brick",
+      "twilightforest:encased_castle_brick_pillar",
+      "twilightforest:castle_brick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "waystones:end_stone_waystone": {
+    "result": "waystones:end_stone_waystone",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:end_stone_bricks",
+      "",
+      "minecraft:end_stone_bricks",
+      "waystones:warp_stone",
+      "minecraft:end_stone_bricks",
+      "minecraft:obsidian",
+      "minecraft:obsidian",
+      "minecraft:obsidian"
+    ]
+  },
+  "xycraft_override:end_stone_bricks_blue": {
+    "result": "xycraft_override:end_stone_bricks_blue",
+    "count": 2,
+    "ingredients": [
+      "xycraft_world:xychorium_gem_blue",
+      "minecraft:end_stone_bricks",
+      "",
+      "minecraft:end_stone_bricks",
+      "xycraft_world:xychorium_gem_blue",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xycraft_override:end_stone_bricks_dark": {
+    "result": "xycraft_override:end_stone_bricks_dark",
+    "count": 2,
+    "ingredients": [
+      "xycraft_world:xychorium_gem_dark",
+      "minecraft:end_stone_bricks",
+      "",
+      "minecraft:end_stone_bricks",
+      "xycraft_world:xychorium_gem_dark",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xycraft_override:end_stone_bricks_green": {
+    "result": "xycraft_override:end_stone_bricks_green",
+    "count": 2,
+    "ingredients": [
+      "xycraft_world:xychorium_gem_green",
+      "minecraft:end_stone_bricks",
+      "",
+      "minecraft:end_stone_bricks",
+      "xycraft_world:xychorium_gem_green",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xycraft_override:end_stone_bricks_light": {
+    "result": "xycraft_override:end_stone_bricks_light",
+    "count": 2,
+    "ingredients": [
+      "xycraft_world:xychorium_gem_light",
+      "minecraft:end_stone_bricks",
+      "",
+      "minecraft:end_stone_bricks",
+      "xycraft_world:xychorium_gem_light",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xycraft_override:end_stone_bricks_red": {
+    "result": "xycraft_override:end_stone_bricks_red",
+    "count": 2,
+    "ingredients": [
+      "xycraft_world:xychorium_gem_red",
+      "minecraft:end_stone_bricks",
+      "",
+      "minecraft:end_stone_bricks",
+      "xycraft_world:xychorium_gem_red",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

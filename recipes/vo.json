@@ -1,0 +1,572 @@
+{
+  "actuallyadditions:void_sack": {
+    "result": "actuallyadditions:void_sack",
+    "count": 1,
+    "ingredients": [
+      "actuallyadditions:travelers_sack",
+      "minecraft:ender_pearl",
+      "minecraft:obsidians",
+      "actuallyadditions:void_crystal_block",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "actuallyadditions:void_crystal": {
+    "result": "actuallyadditions:void_crystal",
+    "count": 9,
+    "ingredients": [
+      "actuallyadditions:void_crystal_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "actuallyadditions:void_crystal_block": {
+    "result": "actuallyadditions:void_crystal_block",
+    "count": 1,
+    "ingredients": [
+      "actuallyadditions:void_crystal",
+      "actuallyadditions:void_crystal",
+      "actuallyadditions:void_crystal",
+      "actuallyadditions:void_crystal",
+      "actuallyadditions:void_crystal",
+      "actuallyadditions:void_crystal",
+      "actuallyadditions:void_crystal",
+      "actuallyadditions:void_crystal",
+      "actuallyadditions:void_crystal"
+    ]
+  },
+  "actuallyadditions:void_crystal_shard": {
+    "result": "actuallyadditions:void_crystal_shard",
+    "count": 9,
+    "ingredients": [
+      "actuallyadditions:void_crystal",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ae2:void_card": {
+    "result": "ae2:void_card",
+    "count": 1,
+    "ingredients": [
+      "ae2:calculation_processor",
+      "ae2:basic_card",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_nouveau:void_prism": {
+    "result": "ars_nouveau:void_prism",
+    "count": 1,
+    "ingredients": [
+      "minecraft:obsidians",
+      "minecraft:obsidians",
+      "minecraft:obsidians",
+      "minecraft:obsidians",
+      "ars_nouveau:spell_prism",
+      "minecraft:obsidians",
+      "minecraft:obsidians",
+      "minecraft:obsidians",
+      "minecraft:obsidians"
+    ]
+  },
+  "ars_nouveau:volcanic_sourcelink": {
+    "result": "ars_nouveau:volcanic_sourcelink",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:source",
+      "",
+      "minecraft:gold_ingot",
+      "minecraft:lava_bucket",
+      "minecraft:gold_ingot",
+      "",
+      "minecraft:source",
+      ""
+    ]
+  },
+  "cataclysm:void_eye": {
+    "result": "cataclysm:void_eye",
+    "count": 1,
+    "ingredients": [
+      "minecraft:purpur_pillar",
+      "minecraft:shulker_shell",
+      "minecraft:purpur_pillar",
+      "minecraft:end_stone_bricks",
+      "minecraft:ender_eye",
+      "minecraft:end_stone_bricks",
+      "minecraft:purpur_block",
+      "minecraft:shulker_shell",
+      "minecraft:purpur_block"
+    ]
+  },
+  "cataclysm:void_purpur_tiles": {
+    "result": "cataclysm:void_purpur_tiles",
+    "count": 8,
+    "ingredients": [
+      "cataclysm:purpur_tiles",
+      "cataclysm:purpur_tiles",
+      "cataclysm:purpur_tiles",
+      "cataclysm:purpur_tiles",
+      "cataclysm:void_stone",
+      "cataclysm:purpur_tiles",
+      "cataclysm:purpur_tiles",
+      "cataclysm:purpur_tiles",
+      "cataclysm:purpur_tiles"
+    ]
+  },
+  "cataclysm:void_scatter_arrow": {
+    "result": "cataclysm:void_scatter_arrow",
+    "count": 2,
+    "ingredients": [
+      "cataclysm:void_jaw",
+      "",
+      "",
+      "minecraft:spectral_arrow",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "enderio:void_chassis": {
+    "result": "enderio:void_chassis",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:grains_of_infinity",
+      "minecraft:iron_ingot",
+      "minecraft:grains_of_infinity",
+      "",
+      "minecraft:grains_of_infinity",
+      "minecraft:iron_ingot",
+      "minecraft:grains_of_infinity",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "enderio:void_vial": {
+    "result": "enderio:void_vial",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:soularium",
+      "",
+      "minecraft:quartz",
+      "enderio:suspicious_seed",
+      "minecraft:quartz",
+      "enderio:grains_of_infinity",
+      "minecraft:quartz",
+      "enderio:grains_of_infinity"
+    ]
+  },
+  "eternal_starlight:voidstone_bricks": {
+    "result": "eternal_starlight:voidstone_bricks",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:polished_voidstone",
+      "eternal_starlight:polished_voidstone",
+      "",
+      "eternal_starlight:polished_voidstone",
+      "eternal_starlight:polished_voidstone",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:voidstone_brick_slab": {
+    "result": "eternal_starlight:voidstone_brick_slab",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:voidstone_bricks",
+      "eternal_starlight:voidstone_bricks",
+      "eternal_starlight:voidstone_bricks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:voidstone_brick_stairs": {
+    "result": "eternal_starlight:voidstone_brick_stairs",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:voidstone_bricks",
+      "",
+      "",
+      "eternal_starlight:voidstone_bricks",
+      "eternal_starlight:voidstone_bricks",
+      "",
+      "eternal_starlight:voidstone_bricks",
+      "eternal_starlight:voidstone_bricks",
+      "eternal_starlight:voidstone_bricks"
+    ]
+  },
+  "eternal_starlight:voidstone_brick_wall": {
+    "result": "eternal_starlight:voidstone_brick_wall",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:voidstone_bricks",
+      "eternal_starlight:voidstone_bricks",
+      "eternal_starlight:voidstone_bricks",
+      "eternal_starlight:voidstone_bricks",
+      "eternal_starlight:voidstone_bricks",
+      "eternal_starlight:voidstone_bricks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:voidstone_slab": {
+    "result": "eternal_starlight:voidstone_slab",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:voidstone",
+      "eternal_starlight:voidstone",
+      "eternal_starlight:voidstone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:voidstone_stairs": {
+    "result": "eternal_starlight:voidstone_stairs",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:voidstone",
+      "",
+      "",
+      "eternal_starlight:voidstone",
+      "eternal_starlight:voidstone",
+      "",
+      "eternal_starlight:voidstone",
+      "eternal_starlight:voidstone",
+      "eternal_starlight:voidstone"
+    ]
+  },
+  "eternal_starlight:voidstone_tiles": {
+    "result": "eternal_starlight:voidstone_tiles",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:voidstone_bricks",
+      "eternal_starlight:voidstone_bricks",
+      "",
+      "eternal_starlight:voidstone_bricks",
+      "eternal_starlight:voidstone_bricks",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:voidstone_tile_slab": {
+    "result": "eternal_starlight:voidstone_tile_slab",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:voidstone_tiles",
+      "eternal_starlight:voidstone_tiles",
+      "eternal_starlight:voidstone_tiles",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:voidstone_tile_stairs": {
+    "result": "eternal_starlight:voidstone_tile_stairs",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:voidstone_tiles",
+      "",
+      "",
+      "eternal_starlight:voidstone_tiles",
+      "eternal_starlight:voidstone_tiles",
+      "",
+      "eternal_starlight:voidstone_tiles",
+      "eternal_starlight:voidstone_tiles",
+      "eternal_starlight:voidstone_tiles"
+    ]
+  },
+  "eternal_starlight:voidstone_tile_wall": {
+    "result": "eternal_starlight:voidstone_tile_wall",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:voidstone_tiles",
+      "eternal_starlight:voidstone_tiles",
+      "eternal_starlight:voidstone_tiles",
+      "eternal_starlight:voidstone_tiles",
+      "eternal_starlight:voidstone_tiles",
+      "eternal_starlight:voidstone_tiles",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:voidstone_wall": {
+    "result": "eternal_starlight:voidstone_wall",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:voidstone",
+      "eternal_starlight:voidstone",
+      "eternal_starlight:voidstone",
+      "eternal_starlight:voidstone",
+      "eternal_starlight:voidstone",
+      "eternal_starlight:voidstone",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:voracious_arrow": {
+    "result": "eternal_starlight:voracious_arrow",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:tooth_of_hunger",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:feather",
+      "",
+      ""
+    ]
+  },
+  "extendedae:void_cell": {
+    "result": "extendedae:void_cell",
+    "count": 1,
+    "ingredients": [
+      "ae2:quartz_glass",
+      "ae2:condenser",
+      "ae2:quartz_glass",
+      "ae2:void_card",
+      "ae2:cell_component_16k",
+      "ae2:void_card",
+      "minecraft:amethyst_shard",
+      "minecraft:amethyst_shard",
+      "minecraft:amethyst_shard"
+    ]
+  },
+  "functionalstorage:void_upgrade": {
+    "result": "functionalstorage:void_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:obsidians",
+      "minecraft:obsidians",
+      "minecraft:obsidians",
+      "minecraft:obsidians",
+      "minecraft:drawer",
+      "minecraft:obsidians",
+      "minecraft:obsidians",
+      "minecraft:obsidians",
+      "minecraft:obsidians"
+    ]
+  },
+  "immersiveengineering:voltmeter": {
+    "result": "immersiveengineering:voltmeter",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:compass",
+      "",
+      "minecraft:stick",
+      "minecraft:copper_ingot",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "justdirethings:voidshift_wand": {
+    "result": "justdirethings:voidshift_wand",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "justdirethings:celestigem",
+      "",
+      "justdirethings:blazejet_wand",
+      "",
+      "justdirethings:blazegold_ingot",
+      "",
+      ""
+    ]
+  },
+  "modularrouters:void_module": {
+    "result": "modularrouters:void_module",
+    "count": 1,
+    "ingredients": [
+      "modularrouters:blank_module",
+      "minecraft:lava_bucket",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pneumaticcraft:volume_upgrade": {
+    "result": "pneumaticcraft:volume_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:upgrade_components",
+      "minecraft:iron_ingot",
+      "minecraft:upgrade_components",
+      "minecraft:iron_ingot",
+      "pneumaticcraft:air_canister",
+      "minecraft:iron_ingot",
+      "minecraft:upgrade_components",
+      "minecraft:iron_ingot",
+      "minecraft:upgrade_components"
+    ]
+  },
+  "pneumaticcraft:vortex_cannon": {
+    "result": "pneumaticcraft:vortex_cannon",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:yellow",
+      "minecraft:iron_ingot",
+      "pneumaticcraft:air_canister",
+      "",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:lever",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "pneumaticcraft:vortex_tube": {
+    "result": "pneumaticcraft:vortex_tube",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "pneumaticcraft:pressure_tube",
+      "minecraft:iron_ingot",
+      "minecraft:copper_ingot",
+      "pneumaticcraft:pressure_tube",
+      "minecraft:copper_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "railcraft:void_chest": {
+    "result": "railcraft:void_chest",
+    "count": 1,
+    "ingredients": [
+      "minecraft:obsidian",
+      "minecraft:obsidian",
+      "minecraft:obsidian",
+      "minecraft:obsidian",
+      "railcraft:void_dust",
+      "minecraft:obsidian",
+      "minecraft:obsidian",
+      "minecraft:obsidian",
+      "minecraft:obsidian"
+    ]
+  },
+  "railcraft:void_chest_minecart": {
+    "result": "railcraft:void_chest_minecart",
+    "count": 1,
+    "ingredients": [
+      "railcraft:void_chest",
+      "",
+      "",
+      "minecraft:minecart",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:void_dust": {
+    "result": "railcraft:void_dust",
+    "count": 3,
+    "ingredients": [
+      "minecraft:coal",
+      "minecraft:ender_pearl",
+      "minecraft:obsidian",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "reliquary:void_tear": {
+    "result": "reliquary:void_tear",
+    "count": 1,
+    "ingredients": [
+      "minecraft:ghast_tear",
+      "reliquary:nebulous_heart",
+      "reliquary:slime_pearl",
+      "minecraft:lapis_lazuli",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "sophisticatedbackpacks:void_upgrade": {
+    "result": "sophisticatedbackpacks:void_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:string",
+      "sophisticatedstorage:void_upgrade",
+      "minecraft:string",
+      "",
+      "minecraft:leather",
+      "",
+      "minecraft:string",
+      "",
+      "minecraft:string"
+    ]
+  },
+  "sophisticatedstorage:void_upgrade": {
+    "result": "sophisticatedstorage:void_upgrade",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:ender_pearl",
+      "",
+      "minecraft:obsidians",
+      "sophisticatedstorage:upgrade_base",
+      "minecraft:obsidians",
+      "minecraft:redstone",
+      "minecraft:obsidians",
+      "minecraft:redstone"
+    ]
+  }
+}

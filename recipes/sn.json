@@ -1,0 +1,677 @@
+{
+  "allthecompressed:snow_1x": {
+    "result": "allthecompressed:snow_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:snow_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:snow_2x": {
+    "result": "allthecompressed:snow_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:snow_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:snow_3x": {
+    "result": "allthecompressed:snow_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:snow_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:snow_4x": {
+    "result": "allthecompressed:snow_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:snow_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:snow_5x": {
+    "result": "allthecompressed:snow_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:snow_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:snow_6x": {
+    "result": "allthecompressed:snow_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:snow_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:snow_7x": {
+    "result": "allthecompressed:snow_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:snow_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:snow_8x": {
+    "result": "allthecompressed:snow_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:snow_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:snow_9x": {
+    "result": "allthecompressed:snow_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:snow_8x",
+      "allthecompressed:snow_8x",
+      "allthecompressed:snow_8x",
+      "allthecompressed:snow_8x",
+      "allthecompressed:snow_8x",
+      "allthecompressed:snow_8x",
+      "allthecompressed:snow_8x",
+      "allthecompressed:snow_8x",
+      "allthecompressed:snow_8x"
+    ]
+  },
+  "minecraft:snow_block": {
+    "result": "minecraft:snow_block",
+    "count": 12,
+    "ingredients": [
+      "",
+      "mysticalagriculture:ice_essence",
+      "",
+      "mysticalagriculture:ice_essence",
+      "",
+      "mysticalagriculture:ice_essence",
+      "",
+      "mysticalagriculture:ice_essence",
+      ""
+    ]
+  },
+  "herbsandharvest:snickerdoodle_cookie": {
+    "result": "herbsandharvest:snickerdoodle_cookie",
+    "count": 8,
+    "ingredients": [
+      "minecraft:wheat",
+      "minecraft:egg",
+      "minecraft:sugar",
+      "minecraft:butter",
+      "minecraft:salt",
+      "herbsandharvest:ground_cinnamon",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwholidays:snowman": {
+    "result": "mcwholidays:snowman",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:snowball",
+      "",
+      "minecraft:stick",
+      "minecraft:snow_block",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwholidays:snowman_bottom": {
+    "result": "mcwholidays:snowman_bottom",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:snow_block",
+      "",
+      "",
+      "minecraft:snow_block",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwholidays:snowman_ear_muffs": {
+    "result": "mcwholidays:snowman_ear_muffs",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:blue_wool",
+      "",
+      "minecraft:stick",
+      "minecraft:snow_block",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwholidays:snowman_grinch": {
+    "result": "mcwholidays:snowman_grinch",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:green_wool",
+      "",
+      "minecraft:stick",
+      "minecraft:snow_block",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwholidays:snowman_with_pan": {
+    "result": "mcwholidays:snowman_with_pan",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:stick",
+      "minecraft:snow_block",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwholidays:snowman_with_santa_hat": {
+    "result": "mcwholidays:snowman_with_santa_hat",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:red_wool",
+      "",
+      "minecraft:stick",
+      "minecraft:snow_block",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwholidays:snowman_with_top_hat": {
+    "result": "mcwholidays:snowman_with_top_hat",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:black_wool",
+      "",
+      "minecraft:stick",
+      "minecraft:snow_block",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwholidays:snowman_with_ushanka": {
+    "result": "mcwholidays:snowman_with_ushanka",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:brown_wool",
+      "",
+      "minecraft:stick",
+      "minecraft:snow_block",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwholidays:snowy_fern": {
+    "result": "mcwholidays:snowy_fern",
+    "count": 1,
+    "ingredients": [
+      "minecraft:fern",
+      "minecraft:snowball",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwholidays:snowy_grass": {
+    "result": "mcwholidays:snowy_grass",
+    "count": 1,
+    "ingredients": [
+      "minecraft:short_grass",
+      "minecraft:snowball",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwholidays:snowy_grass_block": {
+    "result": "mcwholidays:snowy_grass_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dirt",
+      "minecraft:snowball",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwholidays:snowy_oak_leaves": {
+    "result": "mcwholidays:snowy_oak_leaves",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_leaves",
+      "minecraft:snowball",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwholidays:snowy_oak_leaves_carpet": {
+    "result": "mcwholidays:snowy_oak_leaves_carpet",
+    "count": 6,
+    "ingredients": [
+      "mcwholidays:snowy_oak_leaves",
+      "mcwholidays:snowy_oak_leaves",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwholidays:snowy_pine_bottom": {
+    "result": "mcwholidays:snowy_pine_bottom",
+    "count": 6,
+    "ingredients": [
+      "",
+      "minecraft:spruce_leaves",
+      "",
+      "minecraft:snowball",
+      "minecraft:spruce_leaves",
+      "minecraft:snowball",
+      "minecraft:spruce_leaves",
+      "minecraft:spruce_leaves",
+      "minecraft:spruce_leaves"
+    ]
+  },
+  "mcwholidays:snowy_pine_middle": {
+    "result": "mcwholidays:snowy_pine_middle",
+    "count": 3,
+    "ingredients": [
+      "minecraft:snowball",
+      "minecraft:spruce_leaves",
+      "minecraft:snowball",
+      "",
+      "minecraft:spruce_leaves",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwholidays:snowy_pine_top": {
+    "result": "mcwholidays:snowy_pine_top",
+    "count": 3,
+    "ingredients": [
+      "",
+      "minecraft:spruce_leaves",
+      "",
+      "minecraft:snowball",
+      "minecraft:spruce_leaves",
+      "minecraft:snowball",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwholidays:snowy_spruce_leaves": {
+    "result": "mcwholidays:snowy_spruce_leaves",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spruce_leaves",
+      "minecraft:snowball",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwholidays:snowy_spruce_leaves_carpet": {
+    "result": "mcwholidays:snowy_spruce_leaves_carpet",
+    "count": 6,
+    "ingredients": [
+      "mcwholidays:snowy_spruce_leaves",
+      "mcwholidays:snowy_spruce_leaves",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwholidays:snowy_tall_fern": {
+    "result": "mcwholidays:snowy_tall_fern",
+    "count": 1,
+    "ingredients": [
+      "minecraft:large_fern",
+      "minecraft:snowball",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwholidays:snowy_tall_grass": {
+    "result": "mcwholidays:snowy_tall_grass",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tall_grass",
+      "minecraft:snowball",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwholidays:snow_covered_pine_bottom": {
+    "result": "mcwholidays:snow_covered_pine_bottom",
+    "count": 6,
+    "ingredients": [
+      "",
+      "mcwholidays:snowy_spruce_leaves",
+      "",
+      "mcwholidays:snowy_spruce_leaves",
+      "mcwholidays:snowy_spruce_leaves",
+      "mcwholidays:snowy_spruce_leaves",
+      "mcwholidays:snowy_spruce_leaves",
+      "mcwholidays:snowy_spruce_leaves",
+      "mcwholidays:snowy_spruce_leaves"
+    ]
+  },
+  "mcwholidays:snow_covered_pine_middle": {
+    "result": "mcwholidays:snow_covered_pine_middle",
+    "count": 3,
+    "ingredients": [
+      "mcwholidays:snowy_spruce_leaves",
+      "mcwholidays:snowy_spruce_leaves",
+      "mcwholidays:snowy_spruce_leaves",
+      "",
+      "mcwholidays:snowy_spruce_leaves",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwholidays:snow_covered_pine_top": {
+    "result": "mcwholidays:snow_covered_pine_top",
+    "count": 3,
+    "ingredients": [
+      "",
+      "mcwholidays:snowy_spruce_leaves",
+      "",
+      "mcwholidays:snowy_spruce_leaves",
+      "mcwholidays:snowy_spruce_leaves",
+      "mcwholidays:snowy_spruce_leaves",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:snowy_christmas_tree": {
+    "result": "merrymaking:snowy_christmas_tree",
+    "count": 1,
+    "ingredients": [
+      "merrymaking:christmas_tree",
+      "minecraft:white_dye",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:snout_armor_trim_smithing_template": {
+    "result": "minecraft:snout_armor_trim_smithing_template",
+    "count": 2,
+    "ingredients": [
+      "minecraft:diamond",
+      "minecraft:snout_armor_trim_smithing_template",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:blackstone",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond",
+      "minecraft:diamond"
+    ]
+  },
+  "minecraft:snow": {
+    "result": "minecraft:snow",
+    "count": 6,
+    "ingredients": [
+      "minecraft:snow_block",
+      "minecraft:snow_block",
+      "minecraft:snow_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "naturesaura:snow_creator": {
+    "result": "naturesaura:snow_creator",
+    "count": 1,
+    "ingredients": [
+      "naturesaura:infused_brick",
+      "minecraft:ice",
+      "naturesaura:infused_brick",
+      "naturesaura:sky_ingot",
+      "minecraft:pumpkin",
+      "naturesaura:sky_ingot",
+      "naturesaura:infused_brick",
+      "minecraft:ice",
+      "naturesaura:infused_brick"
+    ]
+  },
+  "productivebees:snow_nest": {
+    "result": "productivebees:snow_nest",
+    "count": 1,
+    "ingredients": [
+      "productivebees:snow_nest",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:snake_fruit_crate": {
+    "result": "productivetrees:snake_fruit_crate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:snake_fruit",
+      "minecraft:snake_fruit",
+      "minecraft:snake_fruit",
+      "minecraft:snake_fruit",
+      "productivetrees:snake_fruit",
+      "minecraft:snake_fruit",
+      "minecraft:snake_fruit",
+      "minecraft:snake_fruit",
+      "minecraft:snake_fruit"
+    ]
+  },
+  "productivetrees:snake_fruit": {
+    "result": "productivetrees:snake_fruit",
+    "count": 9,
+    "ingredients": [
+      "productivetrees:snake_fruit_crate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:snowball": {
+    "result": "minecraft:snowball",
+    "count": 5,
+    "ingredients": [
+      "reliquary:frozen_core",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:snowy_cloud": {
+    "result": "twilightforest:snowy_cloud",
+    "count": 8,
+    "ingredients": [
+      "twilightforest:fluffy_cloud",
+      "twilightforest:fluffy_cloud",
+      "twilightforest:fluffy_cloud",
+      "twilightforest:fluffy_cloud",
+      "minecraft:powder_snow_bucket",
+      "twilightforest:fluffy_cloud",
+      "twilightforest:fluffy_cloud",
+      "twilightforest:fluffy_cloud",
+      "twilightforest:fluffy_cloud"
+    ]
+  },
+  "twilightforest:snow_queen_banner_pattern": {
+    "result": "twilightforest:snow_queen_banner_pattern",
+    "count": 1,
+    "ingredients": [
+      "minecraft:paper",
+      "twilightforest:snow_queen_trophy",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "utilitarian:snad": {
+    "result": "utilitarian:snad",
+    "count": 1,
+    "ingredients": [
+      "minecraft:sand",
+      "minecraft:sand",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

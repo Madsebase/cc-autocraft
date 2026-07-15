@@ -1,0 +1,77 @@
+{
+  "bibliocraft:typewriter": {
+    "result": "bibliocraft:typewriter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:paper",
+      "minecraft:iron_ingot",
+      "minecraft:iron",
+      "minecraft:black",
+      "minecraft:iron",
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:terracotta"
+    ]
+  },
+  "irons_spellbooks:tyros_statue": {
+    "result": "irons_spellbooks:tyros_statue",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "",
+      "minecraft:stone",
+      "",
+      "minecraft:smooth_stone_slab",
+      "minecraft:pyrium",
+      "minecraft:smooth_stone_slab"
+    ]
+  },
+  "silentgear:tyrian_steel_ingot": {
+    "result": "silentgear:tyrian_steel_ingot",
+    "count": 1,
+    "ingredients": [
+      "silentgear:tyrian_steel_nugget",
+      "silentgear:tyrian_steel_nugget",
+      "silentgear:tyrian_steel_nugget",
+      "silentgear:tyrian_steel_nugget",
+      "silentgear:tyrian_steel_nugget",
+      "silentgear:tyrian_steel_nugget",
+      "silentgear:tyrian_steel_nugget",
+      "silentgear:tyrian_steel_nugget",
+      "silentgear:tyrian_steel_nugget"
+    ]
+  },
+  "silentgear:tyrian_steel_block": {
+    "result": "silentgear:tyrian_steel_block",
+    "count": 1,
+    "ingredients": [
+      "silentgear:tyrian_steel_ingot",
+      "silentgear:tyrian_steel_ingot",
+      "silentgear:tyrian_steel_ingot",
+      "silentgear:tyrian_steel_ingot",
+      "silentgear:tyrian_steel_ingot",
+      "silentgear:tyrian_steel_ingot",
+      "silentgear:tyrian_steel_ingot",
+      "silentgear:tyrian_steel_ingot",
+      "silentgear:tyrian_steel_ingot"
+    ]
+  },
+  "silentgear:tyrian_steel_nugget": {
+    "result": "silentgear:tyrian_steel_nugget",
+    "count": 9,
+    "ingredients": [
+      "silentgear:tyrian_steel_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

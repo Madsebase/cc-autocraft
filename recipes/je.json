@@ -1,0 +1,212 @@
+{
+  "immersiveengineering:jerrycan": {
+    "result": "immersiveengineering:jerrycan",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:iron",
+      "minecraft:iron",
+      "minecraft:iron",
+      "minecraft:bucket",
+      "minecraft:bucket",
+      "minecraft:iron",
+      "minecraft:bucket",
+      "minecraft:bucket"
+    ]
+  },
+  "irons_jewelry:jewelcrafting_guide": {
+    "result": "irons_jewelry:jewelcrafting_guide",
+    "count": 2,
+    "ingredients": [
+      "minecraft:book",
+      "irons_jewelry:jewelcrafting_guide",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "irons_jewelry:jewelcrafting_station": {
+    "result": "irons_jewelry:jewelcrafting_station",
+    "count": 1,
+    "ingredients": [
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      ""
+    ]
+  },
+  "oritech:jetpack": {
+    "result": "oritech:jetpack",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:leather",
+      "",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot",
+      "minecraft:blaze_powder",
+      "minecraft:redstone_block",
+      "minecraft:blaze_powder"
+    ]
+  },
+  "oritech:jetpack_elytra": {
+    "result": "oritech:jetpack_elytra",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gunpowder",
+      "minecraft:gunpowder",
+      "minecraft:gunpowder",
+      "minecraft:gunpowder",
+      "oritech:jetpack",
+      "minecraft:gunpowder",
+      "oritech:processing_unit",
+      "minecraft:elytra",
+      "oritech:processing_unit"
+    ]
+  },
+  "oritech:jetpack_exo_elytra": {
+    "result": "oritech:jetpack_exo_elytra",
+    "count": 1,
+    "ingredients": [
+      "oritech:ion_thruster",
+      "oritech:ion_thruster",
+      "oritech:ion_thruster",
+      "oritech:ion_thruster",
+      "oritech:jetpack_elytra",
+      "oritech:ion_thruster",
+      "oritech:small_tank_block",
+      "oritech:exo_chestplate",
+      "oritech:small_tank_block"
+    ]
+  },
+  "pamhc2foodcore:jellybeansitem": {
+    "result": "pamhc2foodcore:jellybeansitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:sugar",
+      "minecraft:blue",
+      "minecraft:orange",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:jellyrollitem": {
+    "result": "pamhc2foodextended:jellyrollitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:chocolatebar",
+      "minecraft:flour",
+      "minecraft:jellies",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pneumaticcraft:jet_boots_upgrade_1": {
+    "result": "pneumaticcraft:jet_boots_upgrade_1",
+    "count": 1,
+    "ingredients": [
+      "minecraft:upgrade_components",
+      "pneumaticcraft:advanced_pressure_tube",
+      "minecraft:upgrade_components",
+      "pneumaticcraft:vortex_cannon",
+      "pneumaticcraft:advanced_air_compressor",
+      "pneumaticcraft:vortex_cannon",
+      "minecraft:upgrade_components",
+      "pneumaticcraft:advanced_pressure_tube",
+      "minecraft:upgrade_components"
+    ]
+  },
+  "pneumaticcraft:jet_boots_upgrade_2": {
+    "result": "pneumaticcraft:jet_boots_upgrade_2",
+    "count": 1,
+    "ingredients": [
+      "minecraft:feather",
+      "minecraft:feather",
+      "minecraft:feather",
+      "pneumaticcraft:vortex_cannon",
+      "pneumaticcraft:jet_boots_upgrade_1",
+      "pneumaticcraft:vortex_cannon",
+      "pneumaticcraft:pneumatic_cylinder",
+      "minecraft:feather",
+      "pneumaticcraft:pneumatic_cylinder"
+    ]
+  },
+  "pneumaticcraft:jet_boots_upgrade_3": {
+    "result": "pneumaticcraft:jet_boots_upgrade_3",
+    "count": 1,
+    "ingredients": [
+      "minecraft:ghast_tear",
+      "minecraft:blaze_rod",
+      "minecraft:ghast_tear",
+      "pneumaticcraft:vortex_cannon",
+      "pneumaticcraft:jet_boots_upgrade_2",
+      "pneumaticcraft:vortex_cannon",
+      "minecraft:ghast_tear",
+      "minecraft:blaze_rod",
+      "minecraft:ghast_tear"
+    ]
+  },
+  "pneumaticcraft:jet_boots_upgrade_5": {
+    "result": "pneumaticcraft:jet_boots_upgrade_5",
+    "count": 1,
+    "ingredients": [
+      "minecraft:end_rod",
+      "minecraft:elytra",
+      "minecraft:end_rod",
+      "pneumaticcraft:vortex_cannon",
+      "pneumaticcraft:jet_boots_upgrade_4",
+      "pneumaticcraft:vortex_cannon",
+      "minecraft:end_rod",
+      "minecraft:dragon_breath",
+      "minecraft:end_rod"
+    ]
+  },
+  "silentgear:jeweler_tools": {
+    "result": "silentgear:jeweler_tools",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "minecraft:oak_planks",
+      "minecraft:diamond",
+      "minecraft:paper",
+      "minecraft:stick",
+      "minecraft:iron_ingot",
+      "minecraft:oak_planks",
+      "minecraft:stick"
+    ]
+  },
+  "xtonesreworked:jelt_block_0": {
+    "result": "xtonesreworked:jelt_block_0",
+    "count": 8,
+    "ingredients": [
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile",
+      "minecraft:orange",
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile"
+    ]
+  }
+}

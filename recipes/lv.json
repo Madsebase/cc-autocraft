@@ -1,0 +1,137 @@
+{
+  "extended_industrialization:lv_solar_panel": {
+    "result": "extended_industrialization:lv_solar_panel",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tin",
+      "modern_industrialization:analog_circuit",
+      "minecraft:tin",
+      "minecraft:fluid_pipes",
+      "modern_industrialization:basic_machine_hull",
+      "minecraft:fluid_pipes",
+      "modern_industrialization:tin_cable",
+      "modern_industrialization:motor",
+      "modern_industrialization:tin_cable"
+    ]
+  },
+  "extended_industrialization:lv_tesla_receiver_hatch": {
+    "result": "extended_industrialization:lv_tesla_receiver_hatch",
+    "count": 1,
+    "ingredients": [
+      "extended_industrialization:tesla_receiver",
+      "",
+      "",
+      "modern_industrialization:basic_machine_hull",
+      "",
+      "",
+      "modern_industrialization:tin_cable",
+      "",
+      ""
+    ]
+  },
+  "moderndynamics:lv_cable": {
+    "result": "moderndynamics:lv_cable",
+    "count": 4,
+    "ingredients": [
+      "modern_industrialization:tin_cable",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:lv_diesel_generator": {
+    "result": "modern_industrialization:lv_diesel_generator",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:pump",
+      "modern_industrialization:analog_circuit",
+      "modern_industrialization:pump",
+      "minecraft:tin",
+      "modern_industrialization:basic_machine_hull",
+      "minecraft:tin",
+      "modern_industrialization:tin_cable",
+      "modern_industrialization:tin_cable",
+      "modern_industrialization:tin_cable"
+    ]
+  },
+  "modern_industrialization:lv_steam_turbine": {
+    "result": "modern_industrialization:lv_steam_turbine",
+    "count": 1,
+    "ingredients": [
+      "minecraft:fluid_pipes",
+      "modern_industrialization:analog_circuit",
+      "minecraft:fluid_pipes",
+      "modern_industrialization:tin_rotor",
+      "modern_industrialization:basic_machine_hull",
+      "modern_industrialization:tin_rotor",
+      "modern_industrialization:motor",
+      "modern_industrialization:tin_cable",
+      "modern_industrialization:motor"
+    ]
+  },
+  "modern_industrialization:lv_storage_unit": {
+    "result": "modern_industrialization:lv_storage_unit",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:redstone_battery",
+      "modern_industrialization:redstone_battery",
+      "modern_industrialization:redstone_battery",
+      "minecraft:battery_alloy",
+      "modern_industrialization:basic_machine_hull",
+      "minecraft:battery_alloy",
+      "modern_industrialization:redstone_battery",
+      "modern_industrialization:redstone_battery",
+      "modern_industrialization:redstone_battery"
+    ]
+  },
+  "modern_industrialization:lv_mv_transformer": {
+    "result": "modern_industrialization:lv_mv_transformer",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:tin_cable",
+      "modern_industrialization:tin_cable",
+      "",
+      "",
+      "modern_industrialization:basic_machine_hull",
+      "modern_industrialization:electrum_cable",
+      "modern_industrialization:tin_cable",
+      "modern_industrialization:tin_cable",
+      ""
+    ]
+  },
+  "modern_industrialization:lv_energy_input_hatch": {
+    "result": "modern_industrialization:lv_energy_input_hatch",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:tin_cable",
+      "",
+      "",
+      "modern_industrialization:basic_machine_hull",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modern_industrialization:lv_energy_output_hatch": {
+    "result": "modern_industrialization:lv_energy_output_hatch",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:basic_machine_hull",
+      "",
+      "",
+      "modern_industrialization:tin_cable",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

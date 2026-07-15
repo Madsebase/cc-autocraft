@@ -1,0 +1,62 @@
+{
+  "iceandfire:earplugs": {
+    "result": "iceandfire:earplugs",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "",
+      "minecraft:oak_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:earmuffs": {
+    "result": "immersiveengineering:earmuffs",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:iron",
+      "",
+      "minecraft:iron",
+      "",
+      "minecraft:iron",
+      "minecraft:white_wool",
+      "",
+      "minecraft:white_wool"
+    ]
+  },
+  "mysticalagriculture:earth_agglomeratio": {
+    "result": "mysticalagriculture:earth_agglomeratio",
+    "count": 1,
+    "ingredients": [
+      "minecraft:short_grass",
+      "minecraft:gravel",
+      "",
+      "minecraft:dirt",
+      "minecraft:clay_ball",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:earlgreyteaitem": {
+    "result": "pamhc2foodextended:earlgreyteaitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:tealeaf",
+      "minecraft:orange",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

@@ -1,0 +1,1667 @@
+{
+  "ars_nouveau:mimic_scroll": {
+    "result": "ars_nouveau:mimic_scroll",
+    "count": 1,
+    "ingredients": [
+      "ars_nouveau:allow_scroll",
+      "minecraft:chest",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ars_nouveau:mirrorweave": {
+    "result": "ars_nouveau:mirrorweave",
+    "count": 8,
+    "ingredients": [
+      "ars_nouveau:magebloom_block",
+      "ars_nouveau:magebloom_block",
+      "ars_nouveau:magebloom_block",
+      "ars_nouveau:magebloom_block",
+      "ars_nouveau:conjuration_essence",
+      "ars_nouveau:magebloom_block",
+      "ars_nouveau:magebloom_block",
+      "ars_nouveau:magebloom_block",
+      "ars_nouveau:magebloom_block"
+    ]
+  },
+  "bibliocraft:mirthdew_encore_clinkera_bookcase": {
+    "result": "bibliocraft:mirthdew_encore_clinkera_bookcase",
+    "count": 1,
+    "ingredients": [
+      "mirthdew_encore:clinkera_planks",
+      "mirthdew_encore:clinkera_slab",
+      "mirthdew_encore:clinkera_planks",
+      "mirthdew_encore:clinkera_planks",
+      "mirthdew_encore:clinkera_slab",
+      "mirthdew_encore:clinkera_planks",
+      "mirthdew_encore:clinkera_planks",
+      "mirthdew_encore:clinkera_slab",
+      "mirthdew_encore:clinkera_planks"
+    ]
+  },
+  "bibliocraft:mirthdew_encore_clinkera_fancy_armor_stand": {
+    "result": "bibliocraft:mirthdew_encore_clinkera_fancy_armor_stand",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "mirthdew_encore:clinkera_slab",
+      "mirthdew_encore:clinkera_slab",
+      "mirthdew_encore:clinkera_slab"
+    ]
+  },
+  "bibliocraft:mirthdew_encore_clinkera_fancy_clock": {
+    "result": "bibliocraft:mirthdew_encore_clinkera_fancy_clock",
+    "count": 1,
+    "ingredients": [
+      "mirthdew_encore:clinkera_slab",
+      "minecraft:clock",
+      "mirthdew_encore:clinkera_slab",
+      "mirthdew_encore:clinkera_slab",
+      "minecraft:stick",
+      "mirthdew_encore:clinkera_slab",
+      "mirthdew_encore:clinkera_slab",
+      "minecraft:copper_ingot",
+      "mirthdew_encore:clinkera_slab"
+    ]
+  },
+  "bibliocraft:mirthdew_encore_clinkera_fancy_crafter": {
+    "result": "bibliocraft:mirthdew_encore_clinkera_fancy_crafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black",
+      "minecraft:crafting_tables",
+      "minecraft:feather",
+      "mirthdew_encore:clinkera_planks",
+      "minecraft:glass",
+      "mirthdew_encore:clinkera_planks",
+      "mirthdew_encore:clinkera_planks",
+      "minecraft:crafter",
+      "mirthdew_encore:clinkera_planks"
+    ]
+  },
+  "bibliocraft:mirthdew_encore_clinkera_fancy_sign": {
+    "result": "bibliocraft:mirthdew_encore_clinkera_fancy_sign",
+    "count": 1,
+    "ingredients": [
+      "mirthdew_encore:clinkera_planks",
+      "minecraft:paper",
+      "mirthdew_encore:clinkera_planks",
+      "mirthdew_encore:clinkera_planks",
+      "minecraft:paper",
+      "mirthdew_encore:clinkera_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "bibliocraft:mirthdew_encore_clinkera_grandfather_clock": {
+    "result": "bibliocraft:mirthdew_encore_clinkera_grandfather_clock",
+    "count": 1,
+    "ingredients": [
+      "bibliocraft:mirthdew_encore_clinkera_fancy_clock",
+      "bibliocraft:mirthdew_encore_clinkera_fancy_clock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:mirthdew_encore_clinkera_label": {
+    "result": "bibliocraft:mirthdew_encore_clinkera_label",
+    "count": 1,
+    "ingredients": [
+      "mirthdew_encore:clinkera_slab",
+      "mirthdew_encore:clinkera_slab",
+      "mirthdew_encore:clinkera_slab",
+      "mirthdew_encore:clinkera_slab",
+      "mirthdew_encore:clinkera_slab",
+      "mirthdew_encore:clinkera_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:mirthdew_encore_clinkera_potion_shelf": {
+    "result": "bibliocraft:mirthdew_encore_clinkera_potion_shelf",
+    "count": 1,
+    "ingredients": [
+      "mirthdew_encore:clinkera_slab",
+      "mirthdew_encore:clinkera_slab",
+      "mirthdew_encore:clinkera_slab",
+      "mirthdew_encore:clinkera_planks",
+      "minecraft:glass_bottle",
+      "mirthdew_encore:clinkera_planks",
+      "mirthdew_encore:clinkera_slab",
+      "mirthdew_encore:clinkera_slab",
+      "mirthdew_encore:clinkera_slab"
+    ]
+  },
+  "bibliocraft:mirthdew_encore_clinkera_shelf": {
+    "result": "bibliocraft:mirthdew_encore_clinkera_shelf",
+    "count": 1,
+    "ingredients": [
+      "mirthdew_encore:clinkera_slab",
+      "mirthdew_encore:clinkera_slab",
+      "mirthdew_encore:clinkera_slab",
+      "",
+      "mirthdew_encore:clinkera_planks",
+      "",
+      "mirthdew_encore:clinkera_slab",
+      "mirthdew_encore:clinkera_slab",
+      "mirthdew_encore:clinkera_slab"
+    ]
+  },
+  "bibliocraft:mirthdew_encore_clinkera_table": {
+    "result": "bibliocraft:mirthdew_encore_clinkera_table",
+    "count": 1,
+    "ingredients": [
+      "mirthdew_encore:clinkera_slab",
+      "mirthdew_encore:clinkera_slab",
+      "mirthdew_encore:clinkera_slab",
+      "",
+      "mirthdew_encore:clinkera_planks",
+      "",
+      "",
+      "mirthdew_encore:clinkera_planks",
+      ""
+    ]
+  },
+  "bibliocraft:mirthdew_encore_clinkera_tool_rack": {
+    "result": "bibliocraft:mirthdew_encore_clinkera_tool_rack",
+    "count": 1,
+    "ingredients": [
+      "mirthdew_encore:clinkera_slab",
+      "mirthdew_encore:clinkera_slab",
+      "mirthdew_encore:clinkera_slab",
+      "mirthdew_encore:clinkera_slab",
+      "minecraft:iron_ingot",
+      "mirthdew_encore:clinkera_slab",
+      "mirthdew_encore:clinkera_slab",
+      "mirthdew_encore:clinkera_slab",
+      "mirthdew_encore:clinkera_slab"
+    ]
+  },
+  "bibliocraft:mirthdew_encore_decidrheum_bookcase": {
+    "result": "bibliocraft:mirthdew_encore_decidrheum_bookcase",
+    "count": 1,
+    "ingredients": [
+      "mirthdew_encore:decidrheum_planks",
+      "mirthdew_encore:decidrheum_slab",
+      "mirthdew_encore:decidrheum_planks",
+      "mirthdew_encore:decidrheum_planks",
+      "mirthdew_encore:decidrheum_slab",
+      "mirthdew_encore:decidrheum_planks",
+      "mirthdew_encore:decidrheum_planks",
+      "mirthdew_encore:decidrheum_slab",
+      "mirthdew_encore:decidrheum_planks"
+    ]
+  },
+  "bibliocraft:mirthdew_encore_decidrheum_fancy_armor_stand": {
+    "result": "bibliocraft:mirthdew_encore_decidrheum_fancy_armor_stand",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "mirthdew_encore:decidrheum_slab",
+      "mirthdew_encore:decidrheum_slab",
+      "mirthdew_encore:decidrheum_slab"
+    ]
+  },
+  "bibliocraft:mirthdew_encore_decidrheum_fancy_clock": {
+    "result": "bibliocraft:mirthdew_encore_decidrheum_fancy_clock",
+    "count": 1,
+    "ingredients": [
+      "mirthdew_encore:decidrheum_slab",
+      "minecraft:clock",
+      "mirthdew_encore:decidrheum_slab",
+      "mirthdew_encore:decidrheum_slab",
+      "minecraft:stick",
+      "mirthdew_encore:decidrheum_slab",
+      "mirthdew_encore:decidrheum_slab",
+      "minecraft:copper_ingot",
+      "mirthdew_encore:decidrheum_slab"
+    ]
+  },
+  "bibliocraft:mirthdew_encore_decidrheum_fancy_crafter": {
+    "result": "bibliocraft:mirthdew_encore_decidrheum_fancy_crafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black",
+      "minecraft:crafting_tables",
+      "minecraft:feather",
+      "mirthdew_encore:decidrheum_planks",
+      "minecraft:glass",
+      "mirthdew_encore:decidrheum_planks",
+      "mirthdew_encore:decidrheum_planks",
+      "minecraft:crafter",
+      "mirthdew_encore:decidrheum_planks"
+    ]
+  },
+  "bibliocraft:mirthdew_encore_decidrheum_fancy_sign": {
+    "result": "bibliocraft:mirthdew_encore_decidrheum_fancy_sign",
+    "count": 1,
+    "ingredients": [
+      "mirthdew_encore:decidrheum_planks",
+      "minecraft:paper",
+      "mirthdew_encore:decidrheum_planks",
+      "mirthdew_encore:decidrheum_planks",
+      "minecraft:paper",
+      "mirthdew_encore:decidrheum_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "bibliocraft:mirthdew_encore_decidrheum_grandfather_clock": {
+    "result": "bibliocraft:mirthdew_encore_decidrheum_grandfather_clock",
+    "count": 1,
+    "ingredients": [
+      "bibliocraft:mirthdew_encore_decidrheum_fancy_clock",
+      "bibliocraft:mirthdew_encore_decidrheum_fancy_clock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:mirthdew_encore_decidrheum_label": {
+    "result": "bibliocraft:mirthdew_encore_decidrheum_label",
+    "count": 1,
+    "ingredients": [
+      "mirthdew_encore:decidrheum_slab",
+      "mirthdew_encore:decidrheum_slab",
+      "mirthdew_encore:decidrheum_slab",
+      "mirthdew_encore:decidrheum_slab",
+      "mirthdew_encore:decidrheum_slab",
+      "mirthdew_encore:decidrheum_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:mirthdew_encore_decidrheum_potion_shelf": {
+    "result": "bibliocraft:mirthdew_encore_decidrheum_potion_shelf",
+    "count": 1,
+    "ingredients": [
+      "mirthdew_encore:decidrheum_slab",
+      "mirthdew_encore:decidrheum_slab",
+      "mirthdew_encore:decidrheum_slab",
+      "mirthdew_encore:decidrheum_planks",
+      "minecraft:glass_bottle",
+      "mirthdew_encore:decidrheum_planks",
+      "mirthdew_encore:decidrheum_slab",
+      "mirthdew_encore:decidrheum_slab",
+      "mirthdew_encore:decidrheum_slab"
+    ]
+  },
+  "bibliocraft:mirthdew_encore_decidrheum_shelf": {
+    "result": "bibliocraft:mirthdew_encore_decidrheum_shelf",
+    "count": 1,
+    "ingredients": [
+      "mirthdew_encore:decidrheum_slab",
+      "mirthdew_encore:decidrheum_slab",
+      "mirthdew_encore:decidrheum_slab",
+      "",
+      "mirthdew_encore:decidrheum_planks",
+      "",
+      "mirthdew_encore:decidrheum_slab",
+      "mirthdew_encore:decidrheum_slab",
+      "mirthdew_encore:decidrheum_slab"
+    ]
+  },
+  "bibliocraft:mirthdew_encore_decidrheum_table": {
+    "result": "bibliocraft:mirthdew_encore_decidrheum_table",
+    "count": 1,
+    "ingredients": [
+      "mirthdew_encore:decidrheum_slab",
+      "mirthdew_encore:decidrheum_slab",
+      "mirthdew_encore:decidrheum_slab",
+      "",
+      "mirthdew_encore:decidrheum_planks",
+      "",
+      "",
+      "mirthdew_encore:decidrheum_planks",
+      ""
+    ]
+  },
+  "bibliocraft:mirthdew_encore_decidrheum_tool_rack": {
+    "result": "bibliocraft:mirthdew_encore_decidrheum_tool_rack",
+    "count": 1,
+    "ingredients": [
+      "mirthdew_encore:decidrheum_slab",
+      "mirthdew_encore:decidrheum_slab",
+      "mirthdew_encore:decidrheum_slab",
+      "mirthdew_encore:decidrheum_slab",
+      "minecraft:iron_ingot",
+      "mirthdew_encore:decidrheum_slab",
+      "mirthdew_encore:decidrheum_slab",
+      "mirthdew_encore:decidrheum_slab",
+      "mirthdew_encore:decidrheum_slab"
+    ]
+  },
+  "cookingforblockheads:milk_jar": {
+    "result": "cookingforblockheads:milk_jar",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:oak_planks",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:milk_bucket",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass"
+    ]
+  },
+  "create:minecart_coupling": {
+    "result": "create:minecart_coupling",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "create:andesite_alloy",
+      "",
+      "minecraft:iron",
+      "",
+      "create:andesite_alloy",
+      "",
+      ""
+    ]
+  },
+  "create:millstone": {
+    "result": "create:millstone",
+    "count": 1,
+    "ingredients": [
+      "create:cogwheel",
+      "",
+      "",
+      "create:andesite_casing",
+      "",
+      "",
+      "minecraft:stone",
+      "",
+      ""
+    ]
+  },
+  "minecraft:minecart": {
+    "result": "minecraft:minecart",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:mint_carpet": {
+    "result": "dyenamics:mint_carpet",
+    "count": 3,
+    "ingredients": [
+      "dyenamics:mint_wool",
+      "dyenamics:mint_wool",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:mint_candle": {
+    "result": "dyenamics:mint_candle",
+    "count": 1,
+    "ingredients": [
+      "minecraft:candle",
+      "minecraft:mint",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:mint_concrete_powder": {
+    "result": "dyenamics:mint_concrete_powder",
+    "count": 8,
+    "ingredients": [
+      "minecraft:mint",
+      "minecraft:sand",
+      "minecraft:sand",
+      "minecraft:sand",
+      "minecraft:sand",
+      "minecraft:gravel",
+      "minecraft:gravel",
+      "minecraft:gravel",
+      "minecraft:gravel"
+    ]
+  },
+  "dyenamics:mint_dye": {
+    "result": "dyenamics:mint_dye",
+    "count": 3,
+    "ingredients": [
+      "minecraft:green",
+      "minecraft:white",
+      "minecraft:white",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:mint_stained_glass": {
+    "result": "dyenamics:mint_stained_glass",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:mint",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass"
+    ]
+  },
+  "dyenamics:mint_stained_glass_pane": {
+    "result": "dyenamics:mint_stained_glass_pane",
+    "count": 8,
+    "ingredients": [
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:mint",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane"
+    ]
+  },
+  "dyenamics:mint_terracotta": {
+    "result": "dyenamics:mint_terracotta",
+    "count": 8,
+    "ingredients": [
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:mint",
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:terracotta",
+      "minecraft:terracotta"
+    ]
+  },
+  "dyenamics:mint_wool": {
+    "result": "dyenamics:mint_wool",
+    "count": 1,
+    "ingredients": [
+      "minecraft:mint",
+      "minecraft:white_wool",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:mint_banner": {
+    "result": "dyenamics:mint_banner",
+    "count": 1,
+    "ingredients": [
+      "dyenamics:mint_wool",
+      "dyenamics:mint_wool",
+      "dyenamics:mint_wool",
+      "dyenamics:mint_wool",
+      "dyenamics:mint_wool",
+      "dyenamics:mint_wool",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "dyenamics:mint_bed": {
+    "result": "dyenamics:mint_bed",
+    "count": 1,
+    "ingredients": [
+      "minecraft:beds",
+      "minecraft:mint",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dyenamics:mint_rockwool": {
+    "result": "dyenamics:mint_rockwool",
+    "count": 1,
+    "ingredients": [
+      "thermal:white_rockwool",
+      "minecraft:mint",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "enderio:mind_killer": {
+    "result": "enderio:mind_killer",
+    "count": 1,
+    "ingredients": [
+      "",
+      "enderio:zombie_electrode",
+      "",
+      "minecraft:soularium",
+      "minecraft:energetic_alloy",
+      "minecraft:soularium",
+      "",
+      "",
+      ""
+    ]
+  },
+  "farmersdelight:milk_bottle": {
+    "result": "farmersdelight:milk_bottle",
+    "count": 4,
+    "ingredients": [
+      "minecraft:milk_bucket",
+      "minecraft:glass_bottle",
+      "minecraft:glass_bottle",
+      "minecraft:glass_bottle",
+      "minecraft:glass_bottle",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:milk_bucket": {
+    "result": "minecraft:milk_bucket",
+    "count": 1,
+    "ingredients": [
+      "productivebees:milk_bottle",
+      "productivebees:milk_bottle",
+      "productivebees:milk_bottle",
+      "productivebees:milk_bottle",
+      "minecraft:bucket",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "farmersdelight:mixed_salad": {
+    "result": "farmersdelight:mixed_salad",
+    "count": 1,
+    "ingredients": [
+      "minecraft:leafy_green",
+      "minecraft:tomato",
+      "minecraft:beetroot",
+      "minecraft:bowl",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "herbsandharvest:minced_garlic": {
+    "result": "herbsandharvest:minced_garlic",
+    "count": 4,
+    "ingredients": [
+      "herbsandharvest:garlic_clove",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "herbsandharvest:minced_onion": {
+    "result": "herbsandharvest:minced_onion",
+    "count": 4,
+    "ingredients": [
+      "herbsandharvest:onion",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:minecart_metalbarrel": {
+    "result": "immersiveengineering:minecart_metalbarrel",
+    "count": 1,
+    "ingredients": [
+      "immersiveengineering:metal_barrel",
+      "",
+      "",
+      "minecraft:minecart",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:minecart_reinforcedcrate": {
+    "result": "immersiveengineering:minecart_reinforcedcrate",
+    "count": 1,
+    "ingredients": [
+      "immersiveengineering:reinforced_crate",
+      "",
+      "",
+      "minecraft:minecart",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:minecart_woodenbarrel": {
+    "result": "immersiveengineering:minecart_woodenbarrel",
+    "count": 1,
+    "ingredients": [
+      "immersiveengineering:wooden_barrel",
+      "",
+      "",
+      "minecraft:minecart",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:minecart_woodencrate": {
+    "result": "immersiveengineering:minecart_woodencrate",
+    "count": 1,
+    "ingredients": [
+      "immersiveengineering:crate",
+      "",
+      "",
+      "minecraft:minecart",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ironfurnaces:million_furnace": {
+    "result": "ironfurnaces:million_furnace",
+    "count": 1,
+    "ingredients": [
+      "ironfurnaces:rainbow_plating",
+      "ironfurnaces:rainbow_plating",
+      "ironfurnaces:rainbow_plating",
+      "ironfurnaces:rainbow_plating",
+      "ironfurnaces:rainbow_core",
+      "ironfurnaces:rainbow_plating",
+      "ironfurnaces:rainbow_plating",
+      "ironfurnaces:rainbow_plating",
+      "ironfurnaces:rainbow_plating"
+    ]
+  },
+  "irons_spellbooks:mithril_ingot": {
+    "result": "irons_spellbooks:mithril_ingot",
+    "count": 1,
+    "ingredients": [
+      "irons_spellbooks:mithril_scrap",
+      "irons_spellbooks:mithril_scrap",
+      "",
+      "irons_spellbooks:mithril_scrap",
+      "irons_spellbooks:mithril_scrap",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "irons_spellbooks:mithril_weave": {
+    "result": "irons_spellbooks:mithril_weave",
+    "count": 1,
+    "ingredients": [
+      "minecraft:mithril",
+      "minecraft:chain",
+      "minecraft:mithril",
+      "minecraft:chain",
+      "minecraft:mithril",
+      "minecraft:chain",
+      "minecraft:mithril",
+      "minecraft:chain",
+      "minecraft:mithril"
+    ]
+  },
+  "mcwholidays:mistletoe": {
+    "result": "mcwholidays:mistletoe",
+    "count": 1,
+    "ingredients": [
+      "minecraft:spruce_sapling",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwholidays:mixed_oak_leaves": {
+    "result": "mcwholidays:mixed_oak_leaves",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_leaves",
+      "minecraft:yellow_dye",
+      "minecraft:oak_leaves",
+      "minecraft:red_dye",
+      "minecraft:oak_leaves",
+      "minecraft:orange_dye",
+      "minecraft:oak_leaves",
+      "minecraft:brown_dye",
+      "minecraft:oak_leaves"
+    ]
+  },
+  "mcwholidays:mixed_oak_leaves_carpet": {
+    "result": "mcwholidays:mixed_oak_leaves_carpet",
+    "count": 9,
+    "ingredients": [
+      "mcwholidays:mixed_oak_leaves",
+      "mcwholidays:mixed_oak_leaves",
+      "mcwholidays:mixed_oak_leaves",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:mini_lights_horizontal": {
+    "result": "merrymaking:mini_lights_horizontal",
+    "count": 3,
+    "ingredients": [
+      "merrymaking:tree_lights_white",
+      "merrymaking:tree_lights_white",
+      "merrymaking:tree_lights_white",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:mini_lights_cap": {
+    "result": "merrymaking:mini_lights_cap",
+    "count": 3,
+    "ingredients": [
+      "",
+      "merrymaking:tree_lights_white",
+      "",
+      "merrymaking:tree_lights_white",
+      "",
+      "merrymaking:tree_lights_white",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:mini_lights_diagonal_left": {
+    "result": "merrymaking:mini_lights_diagonal_left",
+    "count": 3,
+    "ingredients": [
+      "merrymaking:left_diag_template",
+      "merrymaking:tree_lights_white",
+      "merrymaking:tree_lights_white",
+      "merrymaking:tree_lights_white",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:mini_lights_diagonal_right": {
+    "result": "merrymaking:mini_lights_diagonal_right",
+    "count": 3,
+    "ingredients": [
+      "merrymaking:right_diag_template",
+      "merrymaking:tree_lights_white",
+      "merrymaking:tree_lights_white",
+      "merrymaking:tree_lights_white",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:mini_corner_lights_vertical_left": {
+    "result": "merrymaking:mini_corner_lights_vertical_left",
+    "count": 3,
+    "ingredients": [
+      "merrymaking:left_corner_template",
+      "merrymaking:tree_lights_white",
+      "merrymaking:tree_lights_white",
+      "merrymaking:tree_lights_white",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:mini_corner_lights_vertical_right": {
+    "result": "merrymaking:mini_corner_lights_vertical_right",
+    "count": 3,
+    "ingredients": [
+      "merrymaking:right_corner_template",
+      "merrymaking:tree_lights_white",
+      "merrymaking:tree_lights_white",
+      "merrymaking:tree_lights_white",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:mini_lights_vertical_left": {
+    "result": "merrymaking:mini_lights_vertical_left",
+    "count": 3,
+    "ingredients": [
+      "merrymaking:left_vert_template",
+      "merrymaking:tree_lights_white",
+      "merrymaking:tree_lights_white",
+      "merrymaking:tree_lights_white",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:mini_lights_vertical_right": {
+    "result": "merrymaking:mini_lights_vertical_right",
+    "count": 3,
+    "ingredients": [
+      "merrymaking:right_vert_template",
+      "merrymaking:tree_lights_white",
+      "merrymaking:tree_lights_white",
+      "merrymaking:tree_lights_white",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:mini_multi_diagonal_left": {
+    "result": "merrymaking:mini_multi_diagonal_left",
+    "count": 3,
+    "ingredients": [
+      "merrymaking:left_diag_template",
+      "merrymaking:tree_lights_multi",
+      "merrymaking:tree_lights_multi",
+      "merrymaking:tree_lights_multi",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:mini_multi_diagonal_right": {
+    "result": "merrymaking:mini_multi_diagonal_right",
+    "count": 3,
+    "ingredients": [
+      "merrymaking:right_diag_template",
+      "merrymaking:tree_lights_multi",
+      "merrymaking:tree_lights_multi",
+      "merrymaking:tree_lights_multi",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:mini_multi_horizontal": {
+    "result": "merrymaking:mini_multi_horizontal",
+    "count": 3,
+    "ingredients": [
+      "merrymaking:tree_lights_multi",
+      "merrymaking:tree_lights_multi",
+      "merrymaking:tree_lights_multi",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:mini_multi_cap": {
+    "result": "merrymaking:mini_multi_cap",
+    "count": 3,
+    "ingredients": [
+      "",
+      "merrymaking:tree_lights_multi",
+      "",
+      "merrymaking:tree_lights_multi",
+      "",
+      "merrymaking:tree_lights_multi",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:mini_corner_multi_vertical_left": {
+    "result": "merrymaking:mini_corner_multi_vertical_left",
+    "count": 3,
+    "ingredients": [
+      "merrymaking:left_corner_template",
+      "merrymaking:tree_lights_multi",
+      "merrymaking:tree_lights_multi",
+      "merrymaking:tree_lights_multi",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:mini_corner_multi_vertical_right": {
+    "result": "merrymaking:mini_corner_multi_vertical_right",
+    "count": 3,
+    "ingredients": [
+      "merrymaking:right_corner_template",
+      "merrymaking:tree_lights_multi",
+      "merrymaking:tree_lights_multi",
+      "merrymaking:tree_lights_multi",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:mini_multi_vertical_left": {
+    "result": "merrymaking:mini_multi_vertical_left",
+    "count": 3,
+    "ingredients": [
+      "merrymaking:left_vert_template",
+      "merrymaking:tree_lights_multi",
+      "merrymaking:tree_lights_multi",
+      "merrymaking:tree_lights_multi",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:mini_multi_vertical_right": {
+    "result": "merrymaking:mini_multi_vertical_right",
+    "count": 3,
+    "ingredients": [
+      "merrymaking:right_vert_template",
+      "merrymaking:tree_lights_multi",
+      "merrymaking:tree_lights_multi",
+      "merrymaking:tree_lights_multi",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:mitten_christmas_cookie": {
+    "result": "merrymaking:mitten_christmas_cookie",
+    "count": 8,
+    "ingredients": [
+      "minecraft:white_dye",
+      "merrymaking:icing",
+      "merrymaking:cookie_dough",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecolonies:mint_jelly": {
+    "result": "minecolonies:mint_jelly",
+    "count": 2,
+    "ingredients": [
+      "minecolonies:mint",
+      "minecolonies:mint",
+      "minecolonies:mint",
+      "minecolonies:large_water_bottle",
+      "minecraft:sugar",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecolonies:mint_tea": {
+    "result": "minecolonies:mint_tea",
+    "count": 2,
+    "ingredients": [
+      "minecolonies:mint",
+      "minecolonies:mint",
+      "minecolonies:large_water_bottle",
+      "minecraft:honey_bottle",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mininggadgets:mininggadget": {
+    "result": "mininggadgets:mininggadget",
+    "count": 1,
+    "ingredients": [
+      "minecraft:diamond",
+      "minecraft:iron_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:diamond",
+      "mininggadgets:upgrade_empty",
+      "minecraft:redstone",
+      "minecraft:diamond",
+      "minecraft:iron_ingot",
+      "minecraft:gold_ingot"
+    ]
+  },
+  "mininggadgets:mininggadget_fancy": {
+    "result": "mininggadgets:mininggadget_fancy",
+    "count": 1,
+    "ingredients": [
+      "minecraft:diamond",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:diamond",
+      "mininggadgets:upgrade_empty",
+      "minecraft:redstone",
+      "minecraft:diamond",
+      "minecraft:iron_ingot",
+      "minecraft:gold_ingot"
+    ]
+  },
+  "mininggadgets:mininggadget_simple": {
+    "result": "mininggadgets:mininggadget_simple",
+    "count": 1,
+    "ingredients": [
+      "minecraft:diamond",
+      "minecraft:iron_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:diamond",
+      "mininggadgets:upgrade_empty",
+      "minecraft:redstone",
+      "minecraft:diamond",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "modularrouters:mimic_augment": {
+    "result": "modularrouters:mimic_augment",
+    "count": 1,
+    "ingredients": [
+      "modularrouters:augment_core",
+      "minecraft:obsidians",
+      "minecraft:redstone",
+      "minecraft:stone",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2crops:milletseeditem": {
+    "result": "pamhc2crops:milletseeditem",
+    "count": 1,
+    "ingredients": [
+      "pamhc2crops:milletitem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:mixingbowlitem": {
+    "result": "pamhc2foodcore:mixingbowlitem",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "minecraft:oak_planks",
+      "minecraft:stick",
+      "minecraft:oak_planks",
+      "",
+      "minecraft:oak_planks",
+      ""
+    ]
+  },
+  "pamhc2foodextended:mincepieitem": {
+    "result": "pamhc2foodextended:mincepieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:rawbeef",
+      "minecraft:fruits",
+      "minecraft:nuts",
+      "minecraft:dough",
+      "minecraft:butter",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:mintchocolatechipicecreamitem": {
+    "result": "pamhc2foodextended:mintchocolatechipicecreamitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:icecream",
+      "minecraft:spiceleaf",
+      "minecraft:chocolatebar",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:misopasteitem": {
+    "result": "pamhc2foodextended:misopasteitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_grinder",
+      "minecraft:soybean",
+      "minecraft:mushrooms",
+      "minecraft:rice",
+      "minecraft:salt",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:misosoupitem": {
+    "result": "pamhc2foodextended:misosoupitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:firmtofu",
+      "minecraft:water",
+      "minecraft:scallion",
+      "pamhc2foodextended:taiyakiitem",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:mixedflowerssaladitem": {
+    "result": "pamhc2foodextended:mixedflowerssaladitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:leafyvegetables",
+      "minecraft:flowers",
+      "minecraft:flowers",
+      "minecraft:saladdressing",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:mixedsaladitem": {
+    "result": "pamhc2foodextended:mixedsaladitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:vegetables",
+      "minecraft:vegetables",
+      "minecraft:saladdressing",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pneumaticcraft:micromissiles": {
+    "result": "pneumaticcraft:micromissiles",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:tnt",
+      "",
+      "minecraft:plastic_sheets",
+      "pneumaticcraft:printed_circuit_board",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:fire_charge",
+      "minecraft:plastic_sheets"
+    ]
+  },
+  "pneumaticcraft:minigun": {
+    "result": "pneumaticcraft:minigun",
+    "count": 1,
+    "ingredients": [
+      "pneumaticcraft:air_canister",
+      "",
+      "",
+      "minecraft:chest",
+      "minecraft:iron_ingot",
+      "pneumaticcraft:cannon_barrel",
+      "minecraft:copper_ingot",
+      "minecraft:lever",
+      ""
+    ]
+  },
+  "pneumaticcraft:minigun_upgrade": {
+    "result": "pneumaticcraft:minigun_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:upgrade_components",
+      "minecraft:gunpowder",
+      "minecraft:upgrade_components",
+      "minecraft:gunpowder",
+      "pneumaticcraft:minigun",
+      "minecraft:gunpowder",
+      "minecraft:upgrade_components",
+      "minecraft:gunpowder",
+      "minecraft:upgrade_components"
+    ]
+  },
+  "reliquified_artifacts:mimi_dust": {
+    "result": "reliquified_artifacts:mimi_dust",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:glowstone_dust",
+      "",
+      "minecraft:redstone",
+      "minecraft:echo_shard",
+      "minecraft:redstone",
+      "",
+      "minecraft:glowstone_dust",
+      ""
+    ]
+  },
+  "securitycraft:mine": {
+    "result": "securitycraft:mine",
+    "count": 3,
+    "ingredients": [
+      "",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:gunpowder",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:mining_boat": {
+    "result": "twilightforest:mining_boat",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:mining_planks",
+      "",
+      "twilightforest:mining_planks",
+      "twilightforest:mining_planks",
+      "twilightforest:mining_planks",
+      "twilightforest:mining_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:mining_chest_boat": {
+    "result": "twilightforest:mining_chest_boat",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:mining_boat",
+      "minecraft:chest",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:minoshroom_banner_pattern": {
+    "result": "twilightforest:minoshroom_banner_pattern",
+    "count": 1,
+    "ingredients": [
+      "minecraft:paper",
+      "twilightforest:minoshroom_trophy",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:mining_banister": {
+    "result": "twilightforest:mining_banister",
+    "count": 3,
+    "ingredients": [
+      "twilightforest:mining_slab",
+      "twilightforest:mining_slab",
+      "twilightforest:mining_slab",
+      "minecraft:stick",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:mining_button": {
+    "result": "twilightforest:mining_button",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:mining_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:mining_chest": {
+    "result": "twilightforest:mining_chest",
+    "count": 2,
+    "ingredients": [
+      "twilightforest:mining_planks",
+      "twilightforest:mining_planks",
+      "twilightforest:mining_planks",
+      "twilightforest:mining_planks",
+      "minecraft:chest",
+      "twilightforest:mining_planks",
+      "twilightforest:mining_planks",
+      "twilightforest:mining_planks",
+      "twilightforest:mining_planks"
+    ]
+  },
+  "twilightforest:mining_door": {
+    "result": "twilightforest:mining_door",
+    "count": 3,
+    "ingredients": [
+      "twilightforest:mining_planks",
+      "twilightforest:mining_planks",
+      "",
+      "twilightforest:mining_planks",
+      "twilightforest:mining_planks",
+      "",
+      "twilightforest:mining_planks",
+      "twilightforest:mining_planks",
+      ""
+    ]
+  },
+  "twilightforest:mining_drying_rack": {
+    "result": "twilightforest:mining_drying_rack",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:mining_slab",
+      "twilightforest:mining_slab",
+      "twilightforest:mining_slab",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:mining_fence": {
+    "result": "twilightforest:mining_fence",
+    "count": 3,
+    "ingredients": [
+      "twilightforest:mining_planks",
+      "minecraft:stick",
+      "twilightforest:mining_planks",
+      "twilightforest:mining_planks",
+      "minecraft:stick",
+      "twilightforest:mining_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:mining_fence_gate": {
+    "result": "twilightforest:mining_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "twilightforest:mining_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "twilightforest:mining_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:mining_hanging_sign": {
+    "result": "twilightforest:mining_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "twilightforest:stripped_mining_log",
+      "twilightforest:stripped_mining_log",
+      "twilightforest:stripped_mining_log",
+      "twilightforest:stripped_mining_log",
+      "twilightforest:stripped_mining_log",
+      "twilightforest:stripped_mining_log"
+    ]
+  },
+  "twilightforest:mining_planks": {
+    "result": "twilightforest:mining_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:mining_pressure_plate": {
+    "result": "twilightforest:mining_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:mining_planks",
+      "twilightforest:mining_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:mining_sign": {
+    "result": "twilightforest:mining_sign",
+    "count": 3,
+    "ingredients": [
+      "twilightforest:mining_planks",
+      "twilightforest:mining_planks",
+      "twilightforest:mining_planks",
+      "twilightforest:mining_planks",
+      "twilightforest:mining_planks",
+      "twilightforest:mining_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "twilightforest:mining_slab": {
+    "result": "twilightforest:mining_slab",
+    "count": 6,
+    "ingredients": [
+      "twilightforest:mining_planks",
+      "twilightforest:mining_planks",
+      "twilightforest:mining_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:mining_stairs": {
+    "result": "twilightforest:mining_stairs",
+    "count": 8,
+    "ingredients": [
+      "twilightforest:mining_planks",
+      "",
+      "",
+      "twilightforest:mining_planks",
+      "twilightforest:mining_planks",
+      "",
+      "twilightforest:mining_planks",
+      "twilightforest:mining_planks",
+      "twilightforest:mining_planks"
+    ]
+  },
+  "twilightforest:mining_trapdoor": {
+    "result": "twilightforest:mining_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "twilightforest:mining_planks",
+      "twilightforest:mining_planks",
+      "twilightforest:mining_planks",
+      "twilightforest:mining_planks",
+      "twilightforest:mining_planks",
+      "twilightforest:mining_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:mining_trapped_chest": {
+    "result": "twilightforest:mining_trapped_chest",
+    "count": 2,
+    "ingredients": [
+      "twilightforest:mining_planks",
+      "twilightforest:mining_planks",
+      "twilightforest:mining_planks",
+      "twilightforest:mining_planks",
+      "minecraft:trapped_chest",
+      "twilightforest:mining_planks",
+      "twilightforest:mining_planks",
+      "twilightforest:mining_planks",
+      "twilightforest:mining_planks"
+    ]
+  },
+  "twilightforest:mining_wood": {
+    "result": "twilightforest:mining_wood",
+    "count": 3,
+    "ingredients": [
+      "twilightforest:mining_log",
+      "twilightforest:mining_log",
+      "",
+      "twilightforest:mining_log",
+      "twilightforest:mining_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xtonesreworked:mint_block_0": {
+    "result": "xtonesreworked:mint_block_0",
+    "count": 8,
+    "ingredients": [
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile",
+      "minecraft:lime",
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile"
+    ]
+  }
+}

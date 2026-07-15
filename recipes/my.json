@@ -1,0 +1,1097 @@
+{
+  "allthecompressed:mycelium_1x": {
+    "result": "allthecompressed:mycelium_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:mycelium_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:mycelium_2x": {
+    "result": "allthecompressed:mycelium_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:mycelium_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:mycelium_3x": {
+    "result": "allthecompressed:mycelium_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:mycelium_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:mycelium_4x": {
+    "result": "allthecompressed:mycelium_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:mycelium_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:mycelium_5x": {
+    "result": "allthecompressed:mycelium_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:mycelium_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:mycelium_6x": {
+    "result": "allthecompressed:mycelium_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:mycelium_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:mycelium_7x": {
+    "result": "allthecompressed:mycelium_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:mycelium_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:mycelium_8x": {
+    "result": "allthecompressed:mycelium_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:mycelium_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:mycelium_9x": {
+    "result": "allthecompressed:mycelium_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:mycelium_8x",
+      "allthecompressed:mycelium_8x",
+      "allthecompressed:mycelium_8x",
+      "allthecompressed:mycelium_8x",
+      "allthecompressed:mycelium_8x",
+      "allthecompressed:mycelium_8x",
+      "allthecompressed:mycelium_8x",
+      "allthecompressed:mycelium_8x",
+      "allthecompressed:mycelium_8x"
+    ]
+  },
+  "minecraft:mycelium": {
+    "result": "minecraft:mycelium",
+    "count": 20,
+    "ingredients": [
+      "mysticalagriculture:dirt_essence",
+      "mysticalagriculture:nature_essence",
+      "mysticalagriculture:dirt_essence",
+      "mysticalagriculture:dirt_essence",
+      "mysticalagriculture:nature_essence",
+      "mysticalagriculture:dirt_essence",
+      "mysticalagriculture:dirt_essence",
+      "mysticalagriculture:nature_essence",
+      "mysticalagriculture:dirt_essence"
+    ]
+  },
+  "ars_nouveau:mycelial_sourcelink": {
+    "result": "ars_nouveau:mycelial_sourcelink",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:source",
+      "",
+      "minecraft:gold_ingot",
+      "minecraft:mushroom_stew",
+      "minecraft:gold_ingot",
+      "",
+      "minecraft:source",
+      ""
+    ]
+  },
+  "bibliocraft:mynethersdelight_powdery_bookcase": {
+    "result": "bibliocraft:mynethersdelight_powdery_bookcase",
+    "count": 1,
+    "ingredients": [
+      "mynethersdelight:powdery_planks",
+      "mynethersdelight:powdery_slab",
+      "mynethersdelight:powdery_planks",
+      "mynethersdelight:powdery_planks",
+      "mynethersdelight:powdery_slab",
+      "mynethersdelight:powdery_planks",
+      "mynethersdelight:powdery_planks",
+      "mynethersdelight:powdery_slab",
+      "mynethersdelight:powdery_planks"
+    ]
+  },
+  "bibliocraft:mynethersdelight_powdery_fancy_armor_stand": {
+    "result": "bibliocraft:mynethersdelight_powdery_fancy_armor_stand",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "mynethersdelight:powdery_slab",
+      "mynethersdelight:powdery_slab",
+      "mynethersdelight:powdery_slab"
+    ]
+  },
+  "bibliocraft:mynethersdelight_powdery_fancy_clock": {
+    "result": "bibliocraft:mynethersdelight_powdery_fancy_clock",
+    "count": 1,
+    "ingredients": [
+      "mynethersdelight:powdery_slab",
+      "minecraft:clock",
+      "mynethersdelight:powdery_slab",
+      "mynethersdelight:powdery_slab",
+      "minecraft:stick",
+      "mynethersdelight:powdery_slab",
+      "mynethersdelight:powdery_slab",
+      "minecraft:copper_ingot",
+      "mynethersdelight:powdery_slab"
+    ]
+  },
+  "bibliocraft:mynethersdelight_powdery_fancy_crafter": {
+    "result": "bibliocraft:mynethersdelight_powdery_fancy_crafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black",
+      "minecraft:crafting_tables",
+      "minecraft:feather",
+      "mynethersdelight:powdery_planks",
+      "minecraft:glass",
+      "mynethersdelight:powdery_planks",
+      "mynethersdelight:powdery_planks",
+      "minecraft:crafter",
+      "mynethersdelight:powdery_planks"
+    ]
+  },
+  "bibliocraft:mynethersdelight_powdery_fancy_sign": {
+    "result": "bibliocraft:mynethersdelight_powdery_fancy_sign",
+    "count": 1,
+    "ingredients": [
+      "mynethersdelight:powdery_planks",
+      "minecraft:paper",
+      "mynethersdelight:powdery_planks",
+      "mynethersdelight:powdery_planks",
+      "minecraft:paper",
+      "mynethersdelight:powdery_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "bibliocraft:mynethersdelight_powdery_grandfather_clock": {
+    "result": "bibliocraft:mynethersdelight_powdery_grandfather_clock",
+    "count": 1,
+    "ingredients": [
+      "bibliocraft:mynethersdelight_powdery_fancy_clock",
+      "bibliocraft:mynethersdelight_powdery_fancy_clock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:mynethersdelight_powdery_label": {
+    "result": "bibliocraft:mynethersdelight_powdery_label",
+    "count": 1,
+    "ingredients": [
+      "mynethersdelight:powdery_slab",
+      "mynethersdelight:powdery_slab",
+      "mynethersdelight:powdery_slab",
+      "mynethersdelight:powdery_slab",
+      "mynethersdelight:powdery_slab",
+      "mynethersdelight:powdery_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:mynethersdelight_powdery_potion_shelf": {
+    "result": "bibliocraft:mynethersdelight_powdery_potion_shelf",
+    "count": 1,
+    "ingredients": [
+      "mynethersdelight:powdery_slab",
+      "mynethersdelight:powdery_slab",
+      "mynethersdelight:powdery_slab",
+      "mynethersdelight:powdery_planks",
+      "minecraft:glass_bottle",
+      "mynethersdelight:powdery_planks",
+      "mynethersdelight:powdery_slab",
+      "mynethersdelight:powdery_slab",
+      "mynethersdelight:powdery_slab"
+    ]
+  },
+  "bibliocraft:mynethersdelight_powdery_shelf": {
+    "result": "bibliocraft:mynethersdelight_powdery_shelf",
+    "count": 1,
+    "ingredients": [
+      "mynethersdelight:powdery_slab",
+      "mynethersdelight:powdery_slab",
+      "mynethersdelight:powdery_slab",
+      "",
+      "mynethersdelight:powdery_planks",
+      "",
+      "mynethersdelight:powdery_slab",
+      "mynethersdelight:powdery_slab",
+      "mynethersdelight:powdery_slab"
+    ]
+  },
+  "bibliocraft:mynethersdelight_powdery_table": {
+    "result": "bibliocraft:mynethersdelight_powdery_table",
+    "count": 1,
+    "ingredients": [
+      "mynethersdelight:powdery_slab",
+      "mynethersdelight:powdery_slab",
+      "mynethersdelight:powdery_slab",
+      "",
+      "mynethersdelight:powdery_planks",
+      "",
+      "",
+      "mynethersdelight:powdery_planks",
+      ""
+    ]
+  },
+  "bibliocraft:mynethersdelight_powdery_tool_rack": {
+    "result": "bibliocraft:mynethersdelight_powdery_tool_rack",
+    "count": 1,
+    "ingredients": [
+      "mynethersdelight:powdery_slab",
+      "mynethersdelight:powdery_slab",
+      "mynethersdelight:powdery_slab",
+      "mynethersdelight:powdery_slab",
+      "minecraft:iron_ingot",
+      "mynethersdelight:powdery_slab",
+      "mynethersdelight:powdery_slab",
+      "mynethersdelight:powdery_slab",
+      "mynethersdelight:powdery_slab"
+    ]
+  },
+  "create:mysterious_cuckoo_clock": {
+    "result": "create:mysterious_cuckoo_clock",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:gunpowder",
+      "",
+      "minecraft:gunpowder",
+      "create:cuckoo_clock",
+      "minecraft:gunpowder",
+      "",
+      "minecraft:gunpowder",
+      ""
+    ]
+  },
+  "industrialforegoing:mycelial_crimed": {
+    "result": "industrialforegoing:mycelial_crimed",
+    "count": 1,
+    "ingredients": [
+      "minecraft:nether_wart_block",
+      "minecraft:nether_wart_block",
+      "minecraft:nether_wart_block",
+      "minecraft:nether_wart_block",
+      "minecraft:crimson_fungus",
+      "minecraft:nether_wart_block",
+      "minecraft:redstone",
+      "minecraft:advanced",
+      "minecraft:redstone"
+    ]
+  },
+  "industrialforegoing:mycelial_culinary": {
+    "result": "industrialforegoing:mycelial_culinary",
+    "count": 1,
+    "ingredients": [
+      "minecraft:crops",
+      "minecraft:crops",
+      "minecraft:crops",
+      "minecraft:crops",
+      "minecraft:cooked_beef",
+      "minecraft:crops",
+      "minecraft:redstone",
+      "minecraft:simple",
+      "minecraft:redstone"
+    ]
+  },
+  "industrialforegoing:mycelial_death": {
+    "result": "industrialforegoing:mycelial_death",
+    "count": 1,
+    "ingredients": [
+      "minecraft:rotten_flesh",
+      "minecraft:rotten_flesh",
+      "minecraft:rotten_flesh",
+      "minecraft:rotten_flesh",
+      "minecraft:bone",
+      "minecraft:rotten_flesh",
+      "minecraft:redstone",
+      "minecraft:advanced",
+      "minecraft:redstone"
+    ]
+  },
+  "industrialforegoing:mycelial_disenchantment": {
+    "result": "industrialforegoing:mycelial_disenchantment",
+    "count": 1,
+    "ingredients": [
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:grindstone",
+      "minecraft:book",
+      "minecraft:redstone",
+      "minecraft:advanced",
+      "minecraft:redstone"
+    ]
+  },
+  "industrialforegoing:mycelial_ender": {
+    "result": "industrialforegoing:mycelial_ender",
+    "count": 1,
+    "ingredients": [
+      "minecraft:ender_pearl",
+      "minecraft:ender_pearl",
+      "minecraft:ender_pearl",
+      "minecraft:ender_pearl",
+      "minecraft:ender_eye",
+      "minecraft:ender_pearl",
+      "minecraft:redstone",
+      "minecraft:advanced",
+      "minecraft:redstone"
+    ]
+  },
+  "industrialforegoing:mycelial_explosive": {
+    "result": "industrialforegoing:mycelial_explosive",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tnt",
+      "minecraft:tnt",
+      "minecraft:tnt",
+      "minecraft:tnt",
+      "minecraft:redstone_torch",
+      "minecraft:tnt",
+      "minecraft:redstone",
+      "minecraft:advanced",
+      "minecraft:redstone"
+    ]
+  },
+  "industrialforegoing:mycelial_frosty": {
+    "result": "industrialforegoing:mycelial_frosty",
+    "count": 1,
+    "ingredients": [
+      "minecraft:snowball",
+      "minecraft:snowball",
+      "minecraft:snowball",
+      "minecraft:snowball",
+      "minecraft:ice",
+      "minecraft:snowball",
+      "minecraft:redstone",
+      "minecraft:simple",
+      "minecraft:redstone"
+    ]
+  },
+  "industrialforegoing:mycelial_furnace": {
+    "result": "industrialforegoing:mycelial_furnace",
+    "count": 1,
+    "ingredients": [
+      "minecraft:coal",
+      "minecraft:coal",
+      "minecraft:coal",
+      "minecraft:coal",
+      "minecraft:furnace",
+      "minecraft:coal",
+      "minecraft:redstone",
+      "minecraft:simple",
+      "minecraft:redstone"
+    ]
+  },
+  "industrialforegoing:mycelial_halitosis": {
+    "result": "industrialforegoing:mycelial_halitosis",
+    "count": 1,
+    "ingredients": [
+      "minecraft:purpur_block",
+      "minecraft:purpur_block",
+      "minecraft:purpur_block",
+      "minecraft:purpur_block",
+      "minecraft:end_rod",
+      "minecraft:purpur_block",
+      "minecraft:redstone",
+      "minecraft:supreme",
+      "minecraft:redstone"
+    ]
+  },
+  "industrialforegoing:mycelial_magma": {
+    "result": "industrialforegoing:mycelial_magma",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "minecraft:redstone",
+      "minecraft:redstone",
+      "minecraft:redstone",
+      "minecraft:lava_bucket",
+      "minecraft:redstone",
+      "minecraft:redstone",
+      "minecraft:advanced",
+      "minecraft:redstone"
+    ]
+  },
+  "industrialforegoing:mycelial_meatallurgic": {
+    "result": "industrialforegoing:mycelial_meatallurgic",
+    "count": 1,
+    "ingredients": [
+      "minecraft:ingots",
+      "minecraft:ingots",
+      "minecraft:ingots",
+      "minecraft:ingots",
+      "industrialforegoing:meat_bucket",
+      "minecraft:ingots",
+      "minecraft:redstone",
+      "minecraft:supreme",
+      "minecraft:redstone"
+    ]
+  },
+  "industrialforegoing:mycelial_netherstar": {
+    "result": "industrialforegoing:mycelial_netherstar",
+    "count": 1,
+    "ingredients": [
+      "minecraft:wither_skeleton_skull",
+      "minecraft:wither_skeleton_skull",
+      "minecraft:wither_skeleton_skull",
+      "minecraft:wither_skeleton_skull",
+      "minecraft:nether_star",
+      "minecraft:wither_skeleton_skull",
+      "minecraft:redstone",
+      "minecraft:supreme",
+      "minecraft:redstone"
+    ]
+  },
+  "industrialforegoing:mycelial_pink": {
+    "result": "industrialforegoing:mycelial_pink",
+    "count": 1,
+    "ingredients": [
+      "minecraft:pink",
+      "minecraft:pink",
+      "minecraft:pink",
+      "minecraft:pink",
+      "minecraft:pink_wool",
+      "minecraft:pink",
+      "minecraft:redstone",
+      "minecraft:simple",
+      "minecraft:redstone"
+    ]
+  },
+  "industrialforegoing:mycelial_potion": {
+    "result": "industrialforegoing:mycelial_potion",
+    "count": 1,
+    "ingredients": [
+      "minecraft:nether_wart",
+      "minecraft:nether_wart",
+      "minecraft:nether_wart",
+      "minecraft:nether_wart",
+      "minecraft:brewing_stand",
+      "minecraft:nether_wart",
+      "minecraft:redstone",
+      "minecraft:advanced",
+      "minecraft:redstone"
+    ]
+  },
+  "industrialforegoing:mycelial_rocket": {
+    "result": "industrialforegoing:mycelial_rocket",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gunpowder",
+      "minecraft:gunpowder",
+      "minecraft:gunpowder",
+      "minecraft:gunpowder",
+      "minecraft:paper",
+      "minecraft:gunpowder",
+      "minecraft:redstone",
+      "minecraft:advanced",
+      "minecraft:redstone"
+    ]
+  },
+  "industrialforegoing:mycelial_slimey": {
+    "result": "industrialforegoing:mycelial_slimey",
+    "count": 1,
+    "ingredients": [
+      "minecraft:slime_block",
+      "minecraft:slime_block",
+      "minecraft:slime_block",
+      "minecraft:slime_block",
+      "minecraft:milk_bucket",
+      "minecraft:slime_block",
+      "minecraft:redstone",
+      "minecraft:advanced",
+      "minecraft:redstone"
+    ]
+  },
+  "mahoutsukai:mystic_code": {
+    "result": "mahoutsukai:mystic_code",
+    "count": 1,
+    "ingredients": [
+      "mahoutsukai:spell_cloth",
+      "mahoutsukai:powdered_gold",
+      "mahoutsukai:spell_cloth",
+      "mahoutsukai:spell_cloth",
+      "mahoutsukai:powdered_gold",
+      "mahoutsukai:spell_cloth",
+      "mahoutsukai:spell_cloth",
+      "mahoutsukai:powdered_gold",
+      "mahoutsukai:spell_cloth"
+    ]
+  },
+  "mahoutsukai:mystic_code_first_sorcery": {
+    "result": "mahoutsukai:mystic_code_first_sorcery",
+    "count": 1,
+    "ingredients": [
+      "mahoutsukai:spell_cloth",
+      "mahoutsukai:fae_essence",
+      "mahoutsukai:spell_cloth",
+      "mahoutsukai:spell_cloth",
+      "mahoutsukai:powdered_diamond",
+      "mahoutsukai:spell_cloth",
+      "mahoutsukai:spell_cloth",
+      "mahoutsukai:fae_essence",
+      "mahoutsukai:spell_cloth"
+    ]
+  },
+  "mysticalagriculture:mystical_fertilizer": {
+    "result": "mysticalagriculture:mystical_fertilizer",
+    "count": 8,
+    "ingredients": [
+      "mysticalagriculture:inferium_essence",
+      "mysticalagriculture:fertilized_essence",
+      "mysticalagriculture:inferium_essence",
+      "mysticalagriculture:fertilized_essence",
+      "minecraft:diamond",
+      "mysticalagriculture:fertilized_essence",
+      "mysticalagriculture:inferium_essence",
+      "mysticalagriculture:fertilized_essence",
+      "mysticalagriculture:inferium_essence"
+    ]
+  },
+  "mysticalagriculture:mystical_flower_agglomeratio": {
+    "result": "mysticalagriculture:mystical_flower_agglomeratio",
+    "count": 1,
+    "ingredients": [
+      "botania:cyan_mystical_flower",
+      "botania:orange_mystical_flower",
+      "",
+      "botania:pink_mystical_flower",
+      "botania:red_mystical_flower",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:myrtle_ebony_bookshelf": {
+    "result": "productivetrees:myrtle_ebony_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:myrtle_ebony_planks",
+      "productivetrees:myrtle_ebony_planks",
+      "productivetrees:myrtle_ebony_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:myrtle_ebony_planks",
+      "productivetrees:myrtle_ebony_planks",
+      "productivetrees:myrtle_ebony_planks"
+    ]
+  },
+  "productivetrees:myrtle_ebony_button": {
+    "result": "productivetrees:myrtle_ebony_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:myrtle_ebony_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:myrtle_ebony_door": {
+    "result": "productivetrees:myrtle_ebony_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:myrtle_ebony_planks",
+      "productivetrees:myrtle_ebony_planks",
+      "",
+      "productivetrees:myrtle_ebony_planks",
+      "productivetrees:myrtle_ebony_planks",
+      "",
+      "productivetrees:myrtle_ebony_planks",
+      "productivetrees:myrtle_ebony_planks",
+      ""
+    ]
+  },
+  "productivetrees:myrtle_ebony_fence": {
+    "result": "productivetrees:myrtle_ebony_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:myrtle_ebony_planks",
+      "minecraft:stick",
+      "productivetrees:myrtle_ebony_planks",
+      "productivetrees:myrtle_ebony_planks",
+      "minecraft:stick",
+      "productivetrees:myrtle_ebony_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:myrtle_ebony_fence_gate": {
+    "result": "productivetrees:myrtle_ebony_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:myrtle_ebony_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:myrtle_ebony_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:myrtle_ebony_hanging_sign": {
+    "result": "productivetrees:myrtle_ebony_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:myrtle_ebony_planks",
+      "productivetrees:myrtle_ebony_planks",
+      "productivetrees:myrtle_ebony_planks",
+      "productivetrees:myrtle_ebony_planks",
+      "productivetrees:myrtle_ebony_planks",
+      "productivetrees:myrtle_ebony_planks"
+    ]
+  },
+  "productivetrees:myrtle_ebony_planks": {
+    "result": "productivetrees:myrtle_ebony_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:myrtle_ebony_pressure_plate": {
+    "result": "productivetrees:myrtle_ebony_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:myrtle_ebony_planks",
+      "productivetrees:myrtle_ebony_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:myrtle_ebony_sign": {
+    "result": "productivetrees:myrtle_ebony_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:myrtle_ebony_planks",
+      "productivetrees:myrtle_ebony_planks",
+      "productivetrees:myrtle_ebony_planks",
+      "productivetrees:myrtle_ebony_planks",
+      "productivetrees:myrtle_ebony_planks",
+      "productivetrees:myrtle_ebony_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:myrtle_ebony_slab": {
+    "result": "productivetrees:myrtle_ebony_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:myrtle_ebony_planks",
+      "productivetrees:myrtle_ebony_planks",
+      "productivetrees:myrtle_ebony_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:myrtle_ebony_stairs": {
+    "result": "productivetrees:myrtle_ebony_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:myrtle_ebony_planks",
+      "",
+      "",
+      "productivetrees:myrtle_ebony_planks",
+      "productivetrees:myrtle_ebony_planks",
+      "",
+      "productivetrees:myrtle_ebony_planks",
+      "productivetrees:myrtle_ebony_planks",
+      "productivetrees:myrtle_ebony_planks"
+    ]
+  },
+  "productivetrees:myrtle_ebony_trapdoor": {
+    "result": "productivetrees:myrtle_ebony_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:myrtle_ebony_planks",
+      "productivetrees:myrtle_ebony_planks",
+      "productivetrees:myrtle_ebony_planks",
+      "productivetrees:myrtle_ebony_planks",
+      "productivetrees:myrtle_ebony_planks",
+      "productivetrees:myrtle_ebony_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:myrtle_ebony_wood": {
+    "result": "productivetrees:myrtle_ebony_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:myrtle_ebony_log",
+      "productivetrees:myrtle_ebony_log",
+      "",
+      "productivetrees:myrtle_ebony_log",
+      "productivetrees:myrtle_ebony_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:mystic_crown": {
+    "result": "twilightforest:mystic_crown",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:crown_splinter",
+      "twilightforest:crown_splinter",
+      "twilightforest:crown_splinter",
+      "twilightforest:crown_splinter",
+      "",
+      "twilightforest:crown_splinter",
+      "twilightforest:crown_splinter",
+      "twilightforest:crown_splinter",
+      "twilightforest:crown_splinter"
+    ]
+  },
+  "xtonesreworked:myst_block_0": {
+    "result": "xtonesreworked:myst_block_0",
+    "count": 8,
+    "ingredients": [
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile",
+      "minecraft:snow",
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile"
+    ]
+  },
+  "xtonesreworked:myst_block_1": {
+    "result": "xtonesreworked:myst_block_1",
+    "count": 8,
+    "ingredients": [
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:pink",
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:myst"
+    ]
+  },
+  "xtonesreworked:myst_block_10": {
+    "result": "xtonesreworked:myst_block_10",
+    "count": 8,
+    "ingredients": [
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:gray",
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:myst"
+    ]
+  },
+  "xtonesreworked:myst_block_11": {
+    "result": "xtonesreworked:myst_block_11",
+    "count": 8,
+    "ingredients": [
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:black",
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:myst"
+    ]
+  },
+  "xtonesreworked:myst_block_12": {
+    "result": "xtonesreworked:myst_block_12",
+    "count": 8,
+    "ingredients": [
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:green",
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:myst"
+    ]
+  },
+  "xtonesreworked:myst_block_13": {
+    "result": "xtonesreworked:myst_block_13",
+    "count": 8,
+    "ingredients": [
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:magenta",
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:myst"
+    ]
+  },
+  "xtonesreworked:myst_block_14": {
+    "result": "xtonesreworked:myst_block_14",
+    "count": 8,
+    "ingredients": [
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:red",
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:myst"
+    ]
+  },
+  "xtonesreworked:myst_block_15": {
+    "result": "xtonesreworked:myst_block_15",
+    "count": 8,
+    "ingredients": [
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:white",
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:myst"
+    ]
+  },
+  "xtonesreworked:myst_block_2": {
+    "result": "xtonesreworked:myst_block_2",
+    "count": 8,
+    "ingredients": [
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:light_blue",
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:myst"
+    ]
+  },
+  "xtonesreworked:myst_block_3": {
+    "result": "xtonesreworked:myst_block_3",
+    "count": 8,
+    "ingredients": [
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:light_gray",
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:myst"
+    ]
+  },
+  "xtonesreworked:myst_block_4": {
+    "result": "xtonesreworked:myst_block_4",
+    "count": 8,
+    "ingredients": [
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:lime",
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:myst"
+    ]
+  },
+  "xtonesreworked:myst_block_5": {
+    "result": "xtonesreworked:myst_block_5",
+    "count": 8,
+    "ingredients": [
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:brown",
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:myst"
+    ]
+  },
+  "xtonesreworked:myst_block_6": {
+    "result": "xtonesreworked:myst_block_6",
+    "count": 8,
+    "ingredients": [
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:purple",
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:myst"
+    ]
+  },
+  "xtonesreworked:myst_block_7": {
+    "result": "xtonesreworked:myst_block_7",
+    "count": 8,
+    "ingredients": [
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:orange",
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:myst"
+    ]
+  },
+  "xtonesreworked:myst_block_8": {
+    "result": "xtonesreworked:myst_block_8",
+    "count": 8,
+    "ingredients": [
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:cyan",
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:myst"
+    ]
+  },
+  "xtonesreworked:myst_block_9": {
+    "result": "xtonesreworked:myst_block_9",
+    "count": 8,
+    "ingredients": [
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:blue",
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:myst",
+      "minecraft:myst"
+    ]
+  }
+}

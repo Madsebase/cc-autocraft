@@ -1,0 +1,257 @@
+{
+  "twilightforest:knightmetal_ingot": {
+    "result": "twilightforest:knightmetal_ingot",
+    "count": 9,
+    "ingredients": [
+      "twilightforest:knightmetal_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "refurbished_furniture:knife": {
+    "result": "refurbished_furniture:knife",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:string",
+      "",
+      "minecraft:leather",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:string",
+      ""
+    ]
+  },
+  "silentgear:knife_blueprint": {
+    "result": "silentgear:knife_blueprint",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:paper",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgear:knife_template": {
+    "result": "silentgear:knife_template",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:template_boards",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "tempad:knowledge_projector": {
+    "result": "tempad:knowledge_projector",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glass",
+      "",
+      "",
+      "minecraft:book",
+      "",
+      "",
+      "minecraft:copper_ingot",
+      "",
+      ""
+    ]
+  },
+  "tempad:knowledge_repository_upgrade": {
+    "result": "tempad:knowledge_repository_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:dried_kelp",
+      "minecraft:dried_kelp",
+      "minecraft:dried_kelp",
+      "minecraft:book",
+      "tempad:knowledge_projector",
+      "minecraft:book",
+      "minecraft:dried_kelp",
+      "minecraft:dried_kelp",
+      "minecraft:dried_kelp"
+    ]
+  },
+  "twilightforest:knight_phantom_banner_pattern": {
+    "result": "twilightforest:knight_phantom_banner_pattern",
+    "count": 1,
+    "ingredients": [
+      "minecraft:paper",
+      "twilightforest:knight_phantom_trophy",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:knightmetal_block": {
+    "result": "twilightforest:knightmetal_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:knightmetal",
+      "minecraft:knightmetal",
+      "minecraft:knightmetal",
+      "minecraft:knightmetal",
+      "twilightforest:knightmetal_ingot",
+      "minecraft:knightmetal",
+      "minecraft:knightmetal",
+      "minecraft:knightmetal",
+      "minecraft:knightmetal"
+    ]
+  },
+  "twilightforest:knightmetal_axe": {
+    "result": "twilightforest:knightmetal_axe",
+    "count": 1,
+    "ingredients": [
+      "minecraft:knightmetal",
+      "minecraft:knightmetal",
+      "",
+      "minecraft:knightmetal",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "twilightforest:knightmetal_boots": {
+    "result": "twilightforest:knightmetal_boots",
+    "count": 1,
+    "ingredients": [
+      "minecraft:knightmetal",
+      "",
+      "minecraft:knightmetal",
+      "minecraft:knightmetal",
+      "",
+      "minecraft:knightmetal",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:knightmetal_chestplate": {
+    "result": "twilightforest:knightmetal_chestplate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:knightmetal",
+      "",
+      "minecraft:knightmetal",
+      "minecraft:knightmetal",
+      "minecraft:knightmetal",
+      "minecraft:knightmetal",
+      "minecraft:knightmetal",
+      "minecraft:knightmetal",
+      "minecraft:knightmetal"
+    ]
+  },
+  "twilightforest:knightmetal_helmet": {
+    "result": "twilightforest:knightmetal_helmet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:knightmetal",
+      "minecraft:knightmetal",
+      "minecraft:knightmetal",
+      "minecraft:knightmetal",
+      "",
+      "minecraft:knightmetal",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:knightmetal_leggings": {
+    "result": "twilightforest:knightmetal_leggings",
+    "count": 1,
+    "ingredients": [
+      "minecraft:knightmetal",
+      "minecraft:knightmetal",
+      "minecraft:knightmetal",
+      "minecraft:knightmetal",
+      "",
+      "minecraft:knightmetal",
+      "minecraft:knightmetal",
+      "",
+      "minecraft:knightmetal"
+    ]
+  },
+  "twilightforest:knightmetal_pickaxe": {
+    "result": "twilightforest:knightmetal_pickaxe",
+    "count": 1,
+    "ingredients": [
+      "minecraft:knightmetal",
+      "minecraft:knightmetal",
+      "minecraft:knightmetal",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "twilightforest:knightmetal_ring": {
+    "result": "twilightforest:knightmetal_ring",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:knightmetal",
+      "",
+      "minecraft:knightmetal",
+      "",
+      "minecraft:knightmetal",
+      "",
+      "minecraft:knightmetal",
+      ""
+    ]
+  },
+  "twilightforest:knightmetal_shield": {
+    "result": "twilightforest:knightmetal_shield",
+    "count": 1,
+    "ingredients": [
+      "minecraft:knightmetal",
+      "minecraft:towerwood",
+      "",
+      "minecraft:knightmetal",
+      "twilightforest:knightmetal_ring",
+      "",
+      "minecraft:knightmetal",
+      "minecraft:towerwood",
+      ""
+    ]
+  },
+  "twilightforest:knightmetal_sword": {
+    "result": "twilightforest:knightmetal_sword",
+    "count": 1,
+    "ingredients": [
+      "minecraft:knightmetal",
+      "",
+      "",
+      "minecraft:knightmetal",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  }
+}

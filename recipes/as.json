@@ -1,0 +1,1337 @@
+{
+  "biomeswevegone:aspen_boat": {
+    "result": "biomeswevegone:aspen_boat",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:aspen_planks",
+      "",
+      "biomeswevegone:aspen_planks",
+      "biomeswevegone:aspen_planks",
+      "biomeswevegone:aspen_planks",
+      "biomeswevegone:aspen_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:aspen_bookshelf": {
+    "result": "biomeswevegone:aspen_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:aspen_planks",
+      "biomeswevegone:aspen_planks",
+      "biomeswevegone:aspen_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "biomeswevegone:aspen_planks",
+      "biomeswevegone:aspen_planks",
+      "biomeswevegone:aspen_planks"
+    ]
+  },
+  "biomeswevegone:aspen_button": {
+    "result": "biomeswevegone:aspen_button",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:aspen_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:aspen_chest_boat": {
+    "result": "biomeswevegone:aspen_chest_boat",
+    "count": 1,
+    "ingredients": [
+      "minecraft:chest",
+      "biomeswevegone:aspen_boat",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:aspen_crafting_table": {
+    "result": "biomeswevegone:aspen_crafting_table",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:aspen_planks",
+      "biomeswevegone:aspen_planks",
+      "",
+      "biomeswevegone:aspen_planks",
+      "biomeswevegone:aspen_planks",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:aspen_door": {
+    "result": "biomeswevegone:aspen_door",
+    "count": 3,
+    "ingredients": [
+      "biomeswevegone:aspen_planks",
+      "biomeswevegone:aspen_planks",
+      "",
+      "biomeswevegone:aspen_planks",
+      "biomeswevegone:aspen_planks",
+      "",
+      "biomeswevegone:aspen_planks",
+      "biomeswevegone:aspen_planks",
+      ""
+    ]
+  },
+  "biomeswevegone:aspen_fence": {
+    "result": "biomeswevegone:aspen_fence",
+    "count": 3,
+    "ingredients": [
+      "biomeswevegone:aspen_planks",
+      "minecraft:stick",
+      "biomeswevegone:aspen_planks",
+      "biomeswevegone:aspen_planks",
+      "minecraft:stick",
+      "biomeswevegone:aspen_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:aspen_fence_gate": {
+    "result": "biomeswevegone:aspen_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "biomeswevegone:aspen_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "biomeswevegone:aspen_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:aspen_hanging_sign": {
+    "result": "biomeswevegone:aspen_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "biomeswevegone:stripped_aspen_log",
+      "biomeswevegone:stripped_aspen_log",
+      "biomeswevegone:stripped_aspen_log",
+      "biomeswevegone:stripped_aspen_log",
+      "biomeswevegone:stripped_aspen_log",
+      "biomeswevegone:stripped_aspen_log"
+    ]
+  },
+  "biomeswevegone:aspen_planks": {
+    "result": "biomeswevegone:aspen_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:aspen_pressure_plate": {
+    "result": "biomeswevegone:aspen_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:aspen_planks",
+      "biomeswevegone:aspen_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:aspen_sign": {
+    "result": "biomeswevegone:aspen_sign",
+    "count": 3,
+    "ingredients": [
+      "biomeswevegone:aspen_planks",
+      "biomeswevegone:aspen_planks",
+      "biomeswevegone:aspen_planks",
+      "biomeswevegone:aspen_planks",
+      "biomeswevegone:aspen_planks",
+      "biomeswevegone:aspen_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "biomeswevegone:aspen_slab": {
+    "result": "biomeswevegone:aspen_slab",
+    "count": 6,
+    "ingredients": [
+      "biomeswevegone:aspen_planks",
+      "biomeswevegone:aspen_planks",
+      "biomeswevegone:aspen_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:aspen_stairs": {
+    "result": "biomeswevegone:aspen_stairs",
+    "count": 4,
+    "ingredients": [
+      "biomeswevegone:aspen_planks",
+      "",
+      "",
+      "biomeswevegone:aspen_planks",
+      "biomeswevegone:aspen_planks",
+      "",
+      "biomeswevegone:aspen_planks",
+      "biomeswevegone:aspen_planks",
+      "biomeswevegone:aspen_planks"
+    ]
+  },
+  "biomeswevegone:aspen_trapdoor": {
+    "result": "biomeswevegone:aspen_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "biomeswevegone:aspen_planks",
+      "biomeswevegone:aspen_planks",
+      "biomeswevegone:aspen_planks",
+      "biomeswevegone:aspen_planks",
+      "biomeswevegone:aspen_planks",
+      "biomeswevegone:aspen_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:aspen_wood": {
+    "result": "biomeswevegone:aspen_wood",
+    "count": 3,
+    "ingredients": [
+      "biomeswevegone:aspen_log",
+      "biomeswevegone:aspen_log",
+      "",
+      "biomeswevegone:aspen_log",
+      "biomeswevegone:aspen_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "cataclysm:astrape": {
+    "result": "cataclysm:astrape",
+    "count": 1,
+    "ingredients": [
+      "",
+      "cataclysm:essence_of_the_storm",
+      "cataclysm:lacrima",
+      "",
+      "cataclysm:lacrima",
+      "cataclysm:essence_of_the_storm",
+      "cataclysm:lacrima",
+      "",
+      ""
+    ]
+  },
+  "extendedae:assembler_matrix_frame": {
+    "result": "extendedae:assembler_matrix_frame",
+    "count": 1,
+    "ingredients": [
+      "minecraft:quartz",
+      "minecraft:lapis_lazuli",
+      "minecraft:quartz",
+      "minecraft:lapis_lazuli",
+      "extendedae:machine_frame",
+      "minecraft:lapis_lazuli",
+      "minecraft:quartz",
+      "minecraft:lapis_lazuli",
+      "minecraft:quartz"
+    ]
+  },
+  "extendedae:assembler_matrix_glass": {
+    "result": "extendedae:assembler_matrix_glass",
+    "count": 2,
+    "ingredients": [
+      "ae2:quartz_glass",
+      "minecraft:fluix",
+      "ae2:quartz_glass",
+      "minecraft:infused_entro",
+      "minecraft:chiseled_quartz_block",
+      "minecraft:infused_entro",
+      "ae2:quartz_glass",
+      "minecraft:fluix",
+      "ae2:quartz_glass"
+    ]
+  },
+  "extendedae:assembler_matrix_wall": {
+    "result": "extendedae:assembler_matrix_wall",
+    "count": 2,
+    "ingredients": [
+      "minecraft:iron_bars",
+      "minecraft:fluix",
+      "minecraft:iron_bars",
+      "minecraft:infused_entro",
+      "minecraft:chiseled_quartz_block",
+      "minecraft:infused_entro",
+      "minecraft:iron_bars",
+      "minecraft:fluix",
+      "minecraft:iron_bars"
+    ]
+  },
+  "herbsandharvest:asparagus_seeds": {
+    "result": "herbsandharvest:asparagus_seeds",
+    "count": 1,
+    "ingredients": [
+      "herbsandharvest:asparagus",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "iceandfire:ash": {
+    "result": "iceandfire:ash",
+    "count": 1,
+    "ingredients": [
+      "minecraft:charred_blocks",
+      "minecraft:charred_blocks",
+      "minecraft:charred_blocks",
+      "minecraft:charred_blocks",
+      "minecraft:charred_blocks",
+      "minecraft:charred_blocks",
+      "minecraft:charred_blocks",
+      "minecraft:charred_blocks",
+      "minecraft:charred_blocks"
+    ]
+  },
+  "mcwbridges:asian_red_bridge": {
+    "result": "mcwbridges:asian_red_bridge",
+    "count": 4,
+    "ingredients": [
+      "minecraft:wooden_fences",
+      "minecraft:red_dye",
+      "minecraft:wooden_fences",
+      "minecraft:wooden_slabs",
+      "minecraft:wooden_slabs",
+      "minecraft:wooden_slabs",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:asian_red_bridge_pier": {
+    "result": "mcwbridges:asian_red_bridge_pier",
+    "count": 3,
+    "ingredients": [
+      "",
+      "minecraft:red_dye",
+      "",
+      "minecraft:oak_log",
+      "minecraft:wooden_fences",
+      "minecraft:oak_log",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:asian_red_bridge_stair": {
+    "result": "mcwbridges:asian_red_bridge_stair",
+    "count": 6,
+    "ingredients": [
+      "",
+      "",
+      "mcwbridges:asian_red_bridge",
+      "",
+      "mcwbridges:asian_red_bridge",
+      "mcwbridges:asian_red_bridge",
+      "mcwbridges:asian_red_bridge",
+      "mcwbridges:asian_red_bridge",
+      "mcwbridges:asian_red_bridge"
+    ]
+  },
+  "minecolonies:assistanthammer_gold": {
+    "result": "minecolonies:assistanthammer_gold",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:gold_ingot",
+      "structurize:sceptergold",
+      "minecraft:gold_ingot",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "modern_industrialization:assembler": {
+    "result": "modern_industrialization:assembler",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:robot_arm",
+      "modern_industrialization:analog_circuit",
+      "modern_industrialization:robot_arm",
+      "modern_industrialization:conveyor",
+      "modern_industrialization:basic_machine_hull",
+      "modern_industrialization:conveyor",
+      "modern_industrialization:robot_arm",
+      "modern_industrialization:analog_circuit",
+      "modern_industrialization:robot_arm"
+    ]
+  },
+  "create:asurine": {
+    "result": "create:asurine",
+    "count": 16,
+    "ingredients": [
+      "mysticalagriculture:stone_essence",
+      "mysticalagriculture:stone_essence",
+      "mysticalagriculture:stone_essence",
+      "mysticalagriculture:stone_essence",
+      "mysticalagriculture:zinc_essence",
+      "mysticalagriculture:stone_essence",
+      "mysticalagriculture:stone_essence",
+      "mysticalagriculture:stone_essence",
+      "mysticalagriculture:stone_essence"
+    ]
+  },
+  "oritech:assembler_block": {
+    "result": "oritech:assembler_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "minecraft:crafter",
+      "oritech:adamant_ingot",
+      "minecraft:crafter",
+      "oritech:motor",
+      "minecraft:plating",
+      "oritech:motor"
+    ]
+  },
+  "pamhc2crops:asparagusseeditem": {
+    "result": "pamhc2crops:asparagusseeditem",
+    "count": 1,
+    "ingredients": [
+      "pamhc2crops:asparagusitem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:asparagusquicheitem": {
+    "result": "pamhc2foodextended:asparagusquicheitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_skillet",
+      "minecraft:asparagus",
+      "minecraft:egg",
+      "minecraft:onion",
+      "minecraft:cheese",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pneumaticcraft:assembly_controller": {
+    "result": "pneumaticcraft:assembly_controller",
+    "count": 1,
+    "ingredients": [
+      "",
+      "pneumaticcraft:printed_circuit_board",
+      "",
+      "pneumaticcraft:pressure_tube",
+      "pneumaticcraft:printed_circuit_board",
+      "pneumaticcraft:printed_circuit_board",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "pneumaticcraft:assembly_drill": {
+    "result": "pneumaticcraft:assembly_drill",
+    "count": 1,
+    "ingredients": [
+      "minecraft:diamond",
+      "pneumaticcraft:pneumatic_cylinder",
+      "pneumaticcraft:pneumatic_cylinder",
+      "",
+      "",
+      "pneumaticcraft:pneumatic_cylinder",
+      "minecraft:iron_ingot",
+      "pneumaticcraft:printed_circuit_board",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "pneumaticcraft:assembly_io_unit_export": {
+    "result": "pneumaticcraft:assembly_io_unit_export",
+    "count": 1,
+    "ingredients": [
+      "pneumaticcraft:assembly_io_unit_import",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pneumaticcraft:assembly_io_unit_import": {
+    "result": "pneumaticcraft:assembly_io_unit_import",
+    "count": 1,
+    "ingredients": [
+      "pneumaticcraft:assembly_io_unit_export",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pneumaticcraft:assembly_laser": {
+    "result": "pneumaticcraft:assembly_laser",
+    "count": 1,
+    "ingredients": [
+      "minecraft:red_stained_glass",
+      "pneumaticcraft:pneumatic_cylinder",
+      "pneumaticcraft:pneumatic_cylinder",
+      "",
+      "",
+      "pneumaticcraft:pneumatic_cylinder",
+      "minecraft:iron_ingot",
+      "pneumaticcraft:printed_circuit_board",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "pneumaticcraft:assembly_platform": {
+    "result": "pneumaticcraft:assembly_platform",
+    "count": 1,
+    "ingredients": [
+      "pneumaticcraft:pneumatic_cylinder",
+      "",
+      "pneumaticcraft:pneumatic_cylinder",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:plastic_sheets",
+      "minecraft:iron_ingot",
+      "pneumaticcraft:printed_circuit_board",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "pneumaticcraft:assembly_program_drill_laser": {
+    "result": "pneumaticcraft:assembly_program_drill_laser",
+    "count": 1,
+    "ingredients": [
+      "pneumaticcraft:assembly_program_laser",
+      "pneumaticcraft:assembly_program_drill",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:asai_palm_bookshelf": {
+    "result": "productivetrees:asai_palm_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:asai_palm_planks",
+      "productivetrees:asai_palm_planks",
+      "productivetrees:asai_palm_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:asai_palm_planks",
+      "productivetrees:asai_palm_planks",
+      "productivetrees:asai_palm_planks"
+    ]
+  },
+  "productivetrees:ash_bookshelf": {
+    "result": "productivetrees:ash_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:ash_planks",
+      "productivetrees:ash_planks",
+      "productivetrees:ash_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:ash_planks",
+      "productivetrees:ash_planks",
+      "productivetrees:ash_planks"
+    ]
+  },
+  "productivetrees:aspen_bookshelf": {
+    "result": "productivetrees:aspen_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:aspen_planks",
+      "productivetrees:aspen_planks",
+      "productivetrees:aspen_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:aspen_planks",
+      "productivetrees:aspen_planks",
+      "productivetrees:aspen_planks"
+    ]
+  },
+  "productivetrees:asai_palm_button": {
+    "result": "productivetrees:asai_palm_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:asai_palm_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:ash_button": {
+    "result": "productivetrees:ash_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:ash_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:aspen_button": {
+    "result": "productivetrees:aspen_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:aspen_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:asai_berry_crate": {
+    "result": "productivetrees:asai_berry_crate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:asai_berry",
+      "minecraft:asai_berry",
+      "minecraft:asai_berry",
+      "minecraft:asai_berry",
+      "productivetrees:asai_berry",
+      "minecraft:asai_berry",
+      "minecraft:asai_berry",
+      "minecraft:asai_berry",
+      "minecraft:asai_berry"
+    ]
+  },
+  "productivetrees:asai_berry": {
+    "result": "productivetrees:asai_berry",
+    "count": 9,
+    "ingredients": [
+      "productivetrees:asai_berry_crate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:asai_palm_door": {
+    "result": "productivetrees:asai_palm_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:asai_palm_planks",
+      "productivetrees:asai_palm_planks",
+      "",
+      "productivetrees:asai_palm_planks",
+      "productivetrees:asai_palm_planks",
+      "",
+      "productivetrees:asai_palm_planks",
+      "productivetrees:asai_palm_planks",
+      ""
+    ]
+  },
+  "productivetrees:ash_door": {
+    "result": "productivetrees:ash_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:ash_planks",
+      "productivetrees:ash_planks",
+      "",
+      "productivetrees:ash_planks",
+      "productivetrees:ash_planks",
+      "",
+      "productivetrees:ash_planks",
+      "productivetrees:ash_planks",
+      ""
+    ]
+  },
+  "productivetrees:aspen_door": {
+    "result": "productivetrees:aspen_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:aspen_planks",
+      "productivetrees:aspen_planks",
+      "",
+      "productivetrees:aspen_planks",
+      "productivetrees:aspen_planks",
+      "",
+      "productivetrees:aspen_planks",
+      "productivetrees:aspen_planks",
+      ""
+    ]
+  },
+  "productivetrees:asai_palm_fence": {
+    "result": "productivetrees:asai_palm_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:asai_palm_planks",
+      "minecraft:stick",
+      "productivetrees:asai_palm_planks",
+      "productivetrees:asai_palm_planks",
+      "minecraft:stick",
+      "productivetrees:asai_palm_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:ash_fence": {
+    "result": "productivetrees:ash_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:ash_planks",
+      "minecraft:stick",
+      "productivetrees:ash_planks",
+      "productivetrees:ash_planks",
+      "minecraft:stick",
+      "productivetrees:ash_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:aspen_fence": {
+    "result": "productivetrees:aspen_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:aspen_planks",
+      "minecraft:stick",
+      "productivetrees:aspen_planks",
+      "productivetrees:aspen_planks",
+      "minecraft:stick",
+      "productivetrees:aspen_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:asai_palm_fence_gate": {
+    "result": "productivetrees:asai_palm_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:asai_palm_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:asai_palm_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:ash_fence_gate": {
+    "result": "productivetrees:ash_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:ash_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:ash_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:aspen_fence_gate": {
+    "result": "productivetrees:aspen_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:aspen_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:aspen_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:asai_palm_hanging_sign": {
+    "result": "productivetrees:asai_palm_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:asai_palm_planks",
+      "productivetrees:asai_palm_planks",
+      "productivetrees:asai_palm_planks",
+      "productivetrees:asai_palm_planks",
+      "productivetrees:asai_palm_planks",
+      "productivetrees:asai_palm_planks"
+    ]
+  },
+  "productivetrees:ash_hanging_sign": {
+    "result": "productivetrees:ash_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:ash_planks",
+      "productivetrees:ash_planks",
+      "productivetrees:ash_planks",
+      "productivetrees:ash_planks",
+      "productivetrees:ash_planks",
+      "productivetrees:ash_planks"
+    ]
+  },
+  "productivetrees:aspen_hanging_sign": {
+    "result": "productivetrees:aspen_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:aspen_planks",
+      "productivetrees:aspen_planks",
+      "productivetrees:aspen_planks",
+      "productivetrees:aspen_planks",
+      "productivetrees:aspen_planks",
+      "productivetrees:aspen_planks"
+    ]
+  },
+  "productivetrees:asai_palm_planks": {
+    "result": "productivetrees:asai_palm_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:ash_planks": {
+    "result": "productivetrees:ash_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:aspen_planks": {
+    "result": "productivetrees:aspen_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:asai_palm_pressure_plate": {
+    "result": "productivetrees:asai_palm_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:asai_palm_planks",
+      "productivetrees:asai_palm_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:ash_pressure_plate": {
+    "result": "productivetrees:ash_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:ash_planks",
+      "productivetrees:ash_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:aspen_pressure_plate": {
+    "result": "productivetrees:aspen_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:aspen_planks",
+      "productivetrees:aspen_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:asai_palm_sign": {
+    "result": "productivetrees:asai_palm_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:asai_palm_planks",
+      "productivetrees:asai_palm_planks",
+      "productivetrees:asai_palm_planks",
+      "productivetrees:asai_palm_planks",
+      "productivetrees:asai_palm_planks",
+      "productivetrees:asai_palm_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:ash_sign": {
+    "result": "productivetrees:ash_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:ash_planks",
+      "productivetrees:ash_planks",
+      "productivetrees:ash_planks",
+      "productivetrees:ash_planks",
+      "productivetrees:ash_planks",
+      "productivetrees:ash_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:aspen_sign": {
+    "result": "productivetrees:aspen_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:aspen_planks",
+      "productivetrees:aspen_planks",
+      "productivetrees:aspen_planks",
+      "productivetrees:aspen_planks",
+      "productivetrees:aspen_planks",
+      "productivetrees:aspen_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:asai_palm_slab": {
+    "result": "productivetrees:asai_palm_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:asai_palm_planks",
+      "productivetrees:asai_palm_planks",
+      "productivetrees:asai_palm_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:ash_slab": {
+    "result": "productivetrees:ash_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:ash_planks",
+      "productivetrees:ash_planks",
+      "productivetrees:ash_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:aspen_slab": {
+    "result": "productivetrees:aspen_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:aspen_planks",
+      "productivetrees:aspen_planks",
+      "productivetrees:aspen_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:asai_palm_stairs": {
+    "result": "productivetrees:asai_palm_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:asai_palm_planks",
+      "",
+      "",
+      "productivetrees:asai_palm_planks",
+      "productivetrees:asai_palm_planks",
+      "",
+      "productivetrees:asai_palm_planks",
+      "productivetrees:asai_palm_planks",
+      "productivetrees:asai_palm_planks"
+    ]
+  },
+  "productivetrees:ash_stairs": {
+    "result": "productivetrees:ash_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:ash_planks",
+      "",
+      "",
+      "productivetrees:ash_planks",
+      "productivetrees:ash_planks",
+      "",
+      "productivetrees:ash_planks",
+      "productivetrees:ash_planks",
+      "productivetrees:ash_planks"
+    ]
+  },
+  "productivetrees:aspen_stairs": {
+    "result": "productivetrees:aspen_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:aspen_planks",
+      "",
+      "",
+      "productivetrees:aspen_planks",
+      "productivetrees:aspen_planks",
+      "",
+      "productivetrees:aspen_planks",
+      "productivetrees:aspen_planks",
+      "productivetrees:aspen_planks"
+    ]
+  },
+  "productivetrees:asai_palm_trapdoor": {
+    "result": "productivetrees:asai_palm_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:asai_palm_planks",
+      "productivetrees:asai_palm_planks",
+      "productivetrees:asai_palm_planks",
+      "productivetrees:asai_palm_planks",
+      "productivetrees:asai_palm_planks",
+      "productivetrees:asai_palm_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:ash_trapdoor": {
+    "result": "productivetrees:ash_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:ash_planks",
+      "productivetrees:ash_planks",
+      "productivetrees:ash_planks",
+      "productivetrees:ash_planks",
+      "productivetrees:ash_planks",
+      "productivetrees:ash_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:aspen_trapdoor": {
+    "result": "productivetrees:aspen_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:aspen_planks",
+      "productivetrees:aspen_planks",
+      "productivetrees:aspen_planks",
+      "productivetrees:aspen_planks",
+      "productivetrees:aspen_planks",
+      "productivetrees:aspen_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:asai_palm_wood": {
+    "result": "productivetrees:asai_palm_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:asai_palm_log",
+      "productivetrees:asai_palm_log",
+      "",
+      "productivetrees:asai_palm_log",
+      "productivetrees:asai_palm_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:ash_wood": {
+    "result": "productivetrees:ash_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:ash_log",
+      "productivetrees:ash_log",
+      "",
+      "productivetrees:ash_log",
+      "productivetrees:ash_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:aspen_wood": {
+    "result": "productivetrees:aspen_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:aspen_log",
+      "productivetrees:aspen_log",
+      "",
+      "productivetrees:aspen_log",
+      "productivetrees:aspen_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:ash": {
+    "result": "regions_unexplored:ash",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gunpowder",
+      "minecraft:gunpowder",
+      "",
+      "minecraft:gunpowder",
+      "minecraft:gunpowder",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:ashen_dirt": {
+    "result": "regions_unexplored:ashen_dirt",
+    "count": 4,
+    "ingredients": [
+      "regions_unexplored:silt_dirt",
+      "minecraft:ash",
+      "",
+      "minecraft:ash",
+      "regions_unexplored:silt_dirt",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:ashen_sapling": {
+    "result": "regions_unexplored:ashen_sapling",
+    "count": 2,
+    "ingredients": [
+      "regions_unexplored:ashen_shrub",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:ashen_shrub": {
+    "result": "regions_unexplored:ashen_shrub",
+    "count": 1,
+    "ingredients": [
+      "regions_unexplored:ashen_sapling",
+      "",
+      "",
+      "regions_unexplored:ashen_sapling",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:ashen_wood": {
+    "result": "regions_unexplored:ashen_wood",
+    "count": 3,
+    "ingredients": [
+      "regions_unexplored:ashen_log",
+      "regions_unexplored:ashen_log",
+      "",
+      "regions_unexplored:ashen_log",
+      "regions_unexplored:ashen_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "supplementaries:ash_bricks": {
+    "result": "supplementaries:ash_bricks",
+    "count": 1,
+    "ingredients": [
+      "supplementaries:ash_brick",
+      "supplementaries:ash_brick",
+      "",
+      "supplementaries:ash_brick",
+      "supplementaries:ash_brick",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "supplementaries:ash_bricks_slab": {
+    "result": "supplementaries:ash_bricks_slab",
+    "count": 6,
+    "ingredients": [
+      "supplementaries:ash_bricks",
+      "supplementaries:ash_bricks",
+      "supplementaries:ash_bricks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "supplementaries:ash_bricks_stairs": {
+    "result": "supplementaries:ash_bricks_stairs",
+    "count": 4,
+    "ingredients": [
+      "supplementaries:ash_bricks",
+      "",
+      "",
+      "supplementaries:ash_bricks",
+      "supplementaries:ash_bricks",
+      "",
+      "supplementaries:ash_bricks",
+      "supplementaries:ash_bricks",
+      "supplementaries:ash_bricks"
+    ]
+  },
+  "supplementaries:ash_bricks_wall": {
+    "result": "supplementaries:ash_bricks_wall",
+    "count": 6,
+    "ingredients": [
+      "supplementaries:ash_bricks",
+      "supplementaries:ash_bricks",
+      "supplementaries:ash_bricks",
+      "supplementaries:ash_bricks",
+      "supplementaries:ash_bricks",
+      "supplementaries:ash_bricks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "supplementaries:ash": {
+    "result": "supplementaries:ash",
+    "count": 1,
+    "ingredients": [
+      "immersive_weathering:soot",
+      "immersive_weathering:soot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

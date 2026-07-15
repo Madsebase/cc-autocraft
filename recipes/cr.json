@@ -1,0 +1,6377 @@
+{
+  "actuallyadditions:crafter_on_a_stick": {
+    "result": "actuallyadditions:crafter_on_a_stick",
+    "count": 1,
+    "ingredients": [
+      "minecraft:crafting_table",
+      "minecraft:signs",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "actuallyadditions:crate_keeper": {
+    "result": "actuallyadditions:crate_keeper",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "minecraft:iron_ingot",
+      "minecraft:oak_planks",
+      "minecraft:iron_ingot",
+      "actuallyadditions:black_quartz",
+      "minecraft:iron_ingot",
+      "minecraft:oak_planks",
+      "minecraft:iron_ingot",
+      "minecraft:oak_planks"
+    ]
+  },
+  "actuallyadditions:crusher": {
+    "result": "actuallyadditions:crusher",
+    "count": 1,
+    "ingredients": [
+      "actuallyadditions:crusher",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "actuallyadditions:crusher_double": {
+    "result": "actuallyadditions:crusher_double",
+    "count": 1,
+    "ingredients": [
+      "actuallyadditions:crusher_double",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ae2:crafting_card": {
+    "result": "ae2:crafting_card",
+    "count": 1,
+    "ingredients": [
+      "minecraft:crafting_table",
+      "ae2:basic_card",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ae2:crystal_resonance_generator": {
+    "result": "ae2:crystal_resonance_generator",
+    "count": 1,
+    "ingredients": [
+      "minecraft:copper_ingot",
+      "ae2:fluix_block",
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "ae2:charged_certus_quartz_crystal",
+      "minecraft:copper_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "ae2:crank": {
+    "result": "ae2:crank",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:copper_ingot"
+    ]
+  },
+  "ae2:crafting_accelerator": {
+    "result": "ae2:crafting_accelerator",
+    "count": 1,
+    "ingredients": [
+      "ae2:crafting_unit",
+      "ae2:engineering_processor",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ae2:crafting_monitor": {
+    "result": "ae2:crafting_monitor",
+    "count": 1,
+    "ingredients": [
+      "ae2:crafting_unit",
+      "ae2:storage_monitor",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ae2:crafting_unit": {
+    "result": "ae2:crafting_unit",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "ae2:calculation_processor",
+      "minecraft:iron_ingot",
+      "ae2:fluix_glass_cable",
+      "ae2:logic_processor",
+      "ae2:fluix_glass_cable",
+      "minecraft:iron_ingot",
+      "ae2:calculation_processor",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "ae2:crafting_terminal": {
+    "result": "ae2:crafting_terminal",
+    "count": 1,
+    "ingredients": [
+      "ae2:terminal",
+      "minecraft:crafting_table",
+      "ae2:calculation_processor",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:crafting_table": {
+    "result": "minecraft:crafting_table",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "",
+      "minecraft:oak_planks",
+      "minecraft:oak_planks",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthearcanistgear:creative_spell_book": {
+    "result": "allthearcanistgear:creative_spell_book",
+    "count": 1,
+    "ingredients": [
+      "ars_nouveau:creative_spell_book",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:crushed_blackstone_1x": {
+    "result": "allthecompressed:crushed_blackstone_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:crushed_blackstone_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:crushed_blackstone_2x": {
+    "result": "allthecompressed:crushed_blackstone_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:crushed_blackstone_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:crushed_blackstone_3x": {
+    "result": "allthecompressed:crushed_blackstone_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:crushed_blackstone_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:crushed_blackstone_4x": {
+    "result": "allthecompressed:crushed_blackstone_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:crushed_blackstone_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:crushed_blackstone_5x": {
+    "result": "allthecompressed:crushed_blackstone_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:crushed_blackstone_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:crushed_blackstone_6x": {
+    "result": "allthecompressed:crushed_blackstone_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:crushed_blackstone_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:crushed_blackstone_7x": {
+    "result": "allthecompressed:crushed_blackstone_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:crushed_blackstone_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:crushed_blackstone_8x": {
+    "result": "allthecompressed:crushed_blackstone_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:crushed_blackstone_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:crushed_blackstone_9x": {
+    "result": "allthecompressed:crushed_blackstone_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:crushed_blackstone_8x",
+      "allthecompressed:crushed_blackstone_8x",
+      "allthecompressed:crushed_blackstone_8x",
+      "allthecompressed:crushed_blackstone_8x",
+      "allthecompressed:crushed_blackstone_8x",
+      "allthecompressed:crushed_blackstone_8x",
+      "allthecompressed:crushed_blackstone_8x",
+      "allthecompressed:crushed_blackstone_8x",
+      "allthecompressed:crushed_blackstone_8x"
+    ]
+  },
+  "allthecompressed:crushed_deepslate_1x": {
+    "result": "allthecompressed:crushed_deepslate_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:crushed_deepslate_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:crushed_deepslate_2x": {
+    "result": "allthecompressed:crushed_deepslate_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:crushed_deepslate_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:crushed_deepslate_3x": {
+    "result": "allthecompressed:crushed_deepslate_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:crushed_deepslate_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:crushed_deepslate_4x": {
+    "result": "allthecompressed:crushed_deepslate_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:crushed_deepslate_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:crushed_deepslate_5x": {
+    "result": "allthecompressed:crushed_deepslate_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:crushed_deepslate_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:crushed_deepslate_6x": {
+    "result": "allthecompressed:crushed_deepslate_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:crushed_deepslate_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:crushed_deepslate_7x": {
+    "result": "allthecompressed:crushed_deepslate_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:crushed_deepslate_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:crushed_deepslate_8x": {
+    "result": "allthecompressed:crushed_deepslate_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:crushed_deepslate_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:crushed_deepslate_9x": {
+    "result": "allthecompressed:crushed_deepslate_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:crushed_deepslate_8x",
+      "allthecompressed:crushed_deepslate_8x",
+      "allthecompressed:crushed_deepslate_8x",
+      "allthecompressed:crushed_deepslate_8x",
+      "allthecompressed:crushed_deepslate_8x",
+      "allthecompressed:crushed_deepslate_8x",
+      "allthecompressed:crushed_deepslate_8x",
+      "allthecompressed:crushed_deepslate_8x",
+      "allthecompressed:crushed_deepslate_8x"
+    ]
+  },
+  "allthecompressed:crushed_end_stone_1x": {
+    "result": "allthecompressed:crushed_end_stone_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:crushed_end_stone_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:crushed_end_stone_2x": {
+    "result": "allthecompressed:crushed_end_stone_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:crushed_end_stone_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:crushed_end_stone_3x": {
+    "result": "allthecompressed:crushed_end_stone_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:crushed_end_stone_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:crushed_end_stone_4x": {
+    "result": "allthecompressed:crushed_end_stone_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:crushed_end_stone_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:crushed_end_stone_5x": {
+    "result": "allthecompressed:crushed_end_stone_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:crushed_end_stone_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:crushed_end_stone_6x": {
+    "result": "allthecompressed:crushed_end_stone_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:crushed_end_stone_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:crushed_end_stone_7x": {
+    "result": "allthecompressed:crushed_end_stone_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:crushed_end_stone_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:crushed_end_stone_8x": {
+    "result": "allthecompressed:crushed_end_stone_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:crushed_end_stone_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:crushed_end_stone_9x": {
+    "result": "allthecompressed:crushed_end_stone_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:crushed_end_stone_8x",
+      "allthecompressed:crushed_end_stone_8x",
+      "allthecompressed:crushed_end_stone_8x",
+      "allthecompressed:crushed_end_stone_8x",
+      "allthecompressed:crushed_end_stone_8x",
+      "allthecompressed:crushed_end_stone_8x",
+      "allthecompressed:crushed_end_stone_8x",
+      "allthecompressed:crushed_end_stone_8x",
+      "allthecompressed:crushed_end_stone_8x"
+    ]
+  },
+  "allthecompressed:crushed_netherrack_1x": {
+    "result": "allthecompressed:crushed_netherrack_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:crushed_netherrack_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:crushed_netherrack_2x": {
+    "result": "allthecompressed:crushed_netherrack_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:crushed_netherrack_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:crushed_netherrack_3x": {
+    "result": "allthecompressed:crushed_netherrack_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:crushed_netherrack_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:crushed_netherrack_4x": {
+    "result": "allthecompressed:crushed_netherrack_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:crushed_netherrack_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:crushed_netherrack_5x": {
+    "result": "allthecompressed:crushed_netherrack_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:crushed_netherrack_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:crushed_netherrack_6x": {
+    "result": "allthecompressed:crushed_netherrack_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:crushed_netherrack_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:crushed_netherrack_7x": {
+    "result": "allthecompressed:crushed_netherrack_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:crushed_netherrack_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:crushed_netherrack_8x": {
+    "result": "allthecompressed:crushed_netherrack_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:crushed_netherrack_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:crushed_netherrack_9x": {
+    "result": "allthecompressed:crushed_netherrack_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:crushed_netherrack_8x",
+      "allthecompressed:crushed_netherrack_8x",
+      "allthecompressed:crushed_netherrack_8x",
+      "allthecompressed:crushed_netherrack_8x",
+      "allthecompressed:crushed_netherrack_8x",
+      "allthecompressed:crushed_netherrack_8x",
+      "allthecompressed:crushed_netherrack_8x",
+      "allthecompressed:crushed_netherrack_8x",
+      "allthecompressed:crushed_netherrack_8x"
+    ]
+  },
+  "exdeorum:crushed_blackstone": {
+    "result": "exdeorum:crushed_blackstone",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:crushed_blackstone_1x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "exdeorum:crushed_deepslate": {
+    "result": "exdeorum:crushed_deepslate",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:crushed_deepslate_1x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "exdeorum:crushed_end_stone": {
+    "result": "exdeorum:crushed_end_stone",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:crushed_end_stone_1x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "exdeorum:crushed_netherrack": {
+    "result": "exdeorum:crushed_netherrack",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:crushed_netherrack_1x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "apothic_enchanting:crystal_seashelf": {
+    "result": "apothic_enchanting:crystal_seashelf",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:prismarine_crystals",
+      "",
+      "",
+      "apothic_enchanting:infused_seashelf",
+      "",
+      "minecraft:prismarine_crystals",
+      "",
+      "minecraft:prismarine_crystals"
+    ]
+  },
+  "ars_additions:cracked_polished_sourcestone_wall": {
+    "result": "ars_additions:cracked_polished_sourcestone_wall",
+    "count": 6,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "ars_additions:cracked_polished_sourcestone",
+      "ars_additions:cracked_polished_sourcestone",
+      "ars_additions:cracked_polished_sourcestone",
+      "ars_additions:cracked_polished_sourcestone",
+      "ars_additions:cracked_polished_sourcestone",
+      "ars_additions:cracked_polished_sourcestone"
+    ]
+  },
+  "ars_additions:cracked_sourcestone_wall": {
+    "result": "ars_additions:cracked_sourcestone_wall",
+    "count": 6,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "ars_additions:cracked_sourcestone",
+      "ars_additions:cracked_sourcestone",
+      "ars_additions:cracked_sourcestone",
+      "ars_additions:cracked_sourcestone",
+      "ars_additions:cracked_sourcestone",
+      "ars_additions:cracked_sourcestone"
+    ]
+  },
+  "bibliocraft:crimson_bookcase": {
+    "result": "bibliocraft:crimson_bookcase",
+    "count": 1,
+    "ingredients": [
+      "minecraft:crimson_planks",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_planks"
+    ]
+  },
+  "bibliocraft:crimson_fancy_armor_stand": {
+    "result": "bibliocraft:crimson_fancy_armor_stand",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab"
+    ]
+  },
+  "bibliocraft:crimson_fancy_clock": {
+    "result": "bibliocraft:crimson_fancy_clock",
+    "count": 1,
+    "ingredients": [
+      "minecraft:crimson_slab",
+      "minecraft:clock",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "minecraft:stick",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "minecraft:copper_ingot",
+      "minecraft:crimson_slab"
+    ]
+  },
+  "bibliocraft:crimson_fancy_crafter": {
+    "result": "bibliocraft:crimson_fancy_crafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:black",
+      "minecraft:crafting_tables",
+      "minecraft:feather",
+      "minecraft:crimson_planks",
+      "minecraft:glass",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks",
+      "minecraft:crafter",
+      "minecraft:crimson_planks"
+    ]
+  },
+  "bibliocraft:crimson_fancy_sign": {
+    "result": "bibliocraft:crimson_fancy_sign",
+    "count": 1,
+    "ingredients": [
+      "minecraft:crimson_planks",
+      "minecraft:paper",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks",
+      "minecraft:paper",
+      "minecraft:crimson_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "bibliocraft:crimson_grandfather_clock": {
+    "result": "bibliocraft:crimson_grandfather_clock",
+    "count": 1,
+    "ingredients": [
+      "bibliocraft:crimson_fancy_clock",
+      "bibliocraft:crimson_fancy_clock",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:crimson_label": {
+    "result": "bibliocraft:crimson_label",
+    "count": 1,
+    "ingredients": [
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "",
+      "",
+      ""
+    ]
+  },
+  "bibliocraft:crimson_potion_shelf": {
+    "result": "bibliocraft:crimson_potion_shelf",
+    "count": 1,
+    "ingredients": [
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_planks",
+      "minecraft:glass_bottle",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab"
+    ]
+  },
+  "bibliocraft:crimson_shelf": {
+    "result": "bibliocraft:crimson_shelf",
+    "count": 1,
+    "ingredients": [
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "",
+      "minecraft:crimson_planks",
+      "",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab"
+    ]
+  },
+  "bibliocraft:crimson_table": {
+    "result": "bibliocraft:crimson_table",
+    "count": 1,
+    "ingredients": [
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "",
+      "minecraft:crimson_planks",
+      "",
+      "",
+      "minecraft:crimson_planks",
+      ""
+    ]
+  },
+  "bibliocraft:crimson_tool_rack": {
+    "result": "bibliocraft:crimson_tool_rack",
+    "count": 1,
+    "ingredients": [
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "minecraft:iron_ingot",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab"
+    ]
+  },
+  "biomeswevegone:cracked_dacite_brick_slab": {
+    "result": "biomeswevegone:cracked_dacite_brick_slab",
+    "count": 6,
+    "ingredients": [
+      "biomeswevegone:cracked_dacite_bricks",
+      "biomeswevegone:cracked_dacite_bricks",
+      "biomeswevegone:cracked_dacite_bricks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:cracked_dacite_brick_stairs": {
+    "result": "biomeswevegone:cracked_dacite_brick_stairs",
+    "count": 4,
+    "ingredients": [
+      "biomeswevegone:cracked_dacite_bricks",
+      "",
+      "",
+      "biomeswevegone:cracked_dacite_bricks",
+      "biomeswevegone:cracked_dacite_bricks",
+      "",
+      "biomeswevegone:cracked_dacite_bricks",
+      "biomeswevegone:cracked_dacite_bricks",
+      "biomeswevegone:cracked_dacite_bricks"
+    ]
+  },
+  "biomeswevegone:cracked_dacite_brick_wall": {
+    "result": "biomeswevegone:cracked_dacite_brick_wall",
+    "count": 6,
+    "ingredients": [
+      "biomeswevegone:cracked_dacite_bricks",
+      "biomeswevegone:cracked_dacite_bricks",
+      "biomeswevegone:cracked_dacite_bricks",
+      "biomeswevegone:cracked_dacite_bricks",
+      "biomeswevegone:cracked_dacite_bricks",
+      "biomeswevegone:cracked_dacite_bricks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:cracked_red_rock_brick_slab": {
+    "result": "biomeswevegone:cracked_red_rock_brick_slab",
+    "count": 6,
+    "ingredients": [
+      "biomeswevegone:cracked_red_rock_bricks",
+      "biomeswevegone:cracked_red_rock_bricks",
+      "biomeswevegone:cracked_red_rock_bricks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:cracked_red_rock_brick_stairs": {
+    "result": "biomeswevegone:cracked_red_rock_brick_stairs",
+    "count": 4,
+    "ingredients": [
+      "biomeswevegone:cracked_red_rock_bricks",
+      "",
+      "",
+      "biomeswevegone:cracked_red_rock_bricks",
+      "biomeswevegone:cracked_red_rock_bricks",
+      "",
+      "biomeswevegone:cracked_red_rock_bricks",
+      "biomeswevegone:cracked_red_rock_bricks",
+      "biomeswevegone:cracked_red_rock_bricks"
+    ]
+  },
+  "biomeswevegone:cracked_red_rock_brick_wall": {
+    "result": "biomeswevegone:cracked_red_rock_brick_wall",
+    "count": 6,
+    "ingredients": [
+      "biomeswevegone:cracked_red_rock_bricks",
+      "biomeswevegone:cracked_red_rock_bricks",
+      "biomeswevegone:cracked_red_rock_bricks",
+      "biomeswevegone:cracked_red_rock_bricks",
+      "biomeswevegone:cracked_red_rock_bricks",
+      "biomeswevegone:cracked_red_rock_bricks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:cracked_white_dacite_brick_slab": {
+    "result": "biomeswevegone:cracked_white_dacite_brick_slab",
+    "count": 6,
+    "ingredients": [
+      "biomeswevegone:cracked_white_dacite_bricks",
+      "biomeswevegone:cracked_white_dacite_bricks",
+      "biomeswevegone:cracked_white_dacite_bricks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:cracked_white_dacite_brick_stairs": {
+    "result": "biomeswevegone:cracked_white_dacite_brick_stairs",
+    "count": 4,
+    "ingredients": [
+      "biomeswevegone:cracked_white_dacite_bricks",
+      "",
+      "",
+      "biomeswevegone:cracked_white_dacite_bricks",
+      "biomeswevegone:cracked_white_dacite_bricks",
+      "",
+      "biomeswevegone:cracked_white_dacite_bricks",
+      "biomeswevegone:cracked_white_dacite_bricks",
+      "biomeswevegone:cracked_white_dacite_bricks"
+    ]
+  },
+  "biomeswevegone:cracked_white_dacite_brick_wall": {
+    "result": "biomeswevegone:cracked_white_dacite_brick_wall",
+    "count": 6,
+    "ingredients": [
+      "biomeswevegone:cracked_white_dacite_bricks",
+      "biomeswevegone:cracked_white_dacite_bricks",
+      "biomeswevegone:cracked_white_dacite_bricks",
+      "biomeswevegone:cracked_white_dacite_bricks",
+      "biomeswevegone:cracked_white_dacite_bricks",
+      "biomeswevegone:cracked_white_dacite_bricks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "cabletiers:creative_constructor": {
+    "result": "cabletiers:creative_constructor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:creative_constructors",
+      "minecraft:gray",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "cabletiers:creative_destructor": {
+    "result": "cabletiers:creative_destructor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:creative_destructors",
+      "minecraft:gray",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "cabletiers:creative_exporter": {
+    "result": "cabletiers:creative_exporter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:creative_exporters",
+      "minecraft:gray",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "cabletiers:creative_importer": {
+    "result": "cabletiers:creative_importer",
+    "count": 1,
+    "ingredients": [
+      "minecraft:creative_importers",
+      "minecraft:gray",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "cabletiers:creative_autocrafter": {
+    "result": "cabletiers:creative_autocrafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:creative_autocrafters",
+      "minecraft:light_blue",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "cabletiers:creative_disk_interface": {
+    "result": "cabletiers:creative_disk_interface",
+    "count": 1,
+    "ingredients": [
+      "minecraft:creative_disk_interfaces",
+      "minecraft:light_blue",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "cataclysm:crystallized_coral": {
+    "result": "cataclysm:crystallized_coral",
+    "count": 1,
+    "ingredients": [
+      "cataclysm:crystallized_coral_fragments",
+      "cataclysm:crystallized_coral_fragments",
+      "",
+      "cataclysm:crystallized_coral_fragments",
+      "cataclysm:crystallized_coral_fragments",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "cookingforblockheads:crafting_book": {
+    "result": "cookingforblockheads:crafting_book",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:diamond",
+      "",
+      "minecraft:crafting_table",
+      "cookingforblockheads:recipe_book",
+      "minecraft:crafting_table",
+      "",
+      "minecraft:diamond",
+      ""
+    ]
+  },
+  "crafting_on_a_stick:crafting_table": {
+    "result": "crafting_on_a_stick:crafting_table",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:crafting_table",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:crimson_window": {
+    "result": "create:crimson_window",
+    "count": 2,
+    "ingredients": [
+      "",
+      "minecraft:crimson_planks",
+      "",
+      "minecraft:crimson_planks",
+      "minecraft:glass",
+      "minecraft:crimson_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:crimson_window_pane": {
+    "result": "create:crimson_window_pane",
+    "count": 16,
+    "ingredients": [
+      "create:crimson_window",
+      "create:crimson_window",
+      "create:crimson_window",
+      "create:crimson_window",
+      "create:crimson_window",
+      "create:crimson_window",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:crafting_blueprint": {
+    "result": "create:crafting_blueprint",
+    "count": 1,
+    "ingredients": [
+      "minecraft:painting",
+      "minecraft:crafting_table",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "create:crafter_slot_cover": {
+    "result": "create:crafter_slot_cover",
+    "count": 1,
+    "ingredients": [
+      "minecraft:brass",
+      "minecraft:brass",
+      "minecraft:brass",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "crystalix:crystalix_glass": {
+    "result": "crystalix:crystalix_glass",
+    "count": 4,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:amethyst",
+      "minecraft:glass",
+      "minecraft:amethyst",
+      "",
+      "minecraft:amethyst",
+      "minecraft:glass",
+      "minecraft:amethyst",
+      "minecraft:glass"
+    ]
+  },
+  "crystalix:crystalix_wand": {
+    "result": "crystalix:crystalix_wand",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:blocks",
+      "minecraft:diamond",
+      "",
+      "minecraft:stick",
+      "minecraft:blocks",
+      "minecraft:stick",
+      "",
+      ""
+    ]
+  },
+  "domum_ornamentum:cream_bricks": {
+    "result": "domum_ornamentum:cream_bricks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:sandstone",
+      "minecraft:sandstone",
+      "minecraft:brick",
+      "minecraft:brick",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "domum_ornamentum:cream_stone_bricks": {
+    "result": "domum_ornamentum:cream_stone_bricks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:sandstone",
+      "minecraft:sandstone",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "draconicevolution:crafting_core": {
+    "result": "draconicevolution:crafting_core",
+    "count": 1,
+    "ingredients": [
+      "minecraft:lapis_lazuli",
+      "minecraft:diamond",
+      "minecraft:lapis_lazuli",
+      "minecraft:diamond",
+      "draconicevolution:draconium_core",
+      "minecraft:diamond",
+      "minecraft:lapis_lazuli",
+      "minecraft:diamond",
+      "minecraft:lapis_lazuli"
+    ]
+  },
+  "draconicevolution:crystal_binder": {
+    "result": "draconicevolution:crystal_binder",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:draconium",
+      "minecraft:diamond",
+      "",
+      "minecraft:blaze_rod",
+      "minecraft:draconium",
+      "draconicevolution:draconium_core",
+      "",
+      ""
+    ]
+  },
+  "enderio:crafter": {
+    "result": "enderio:crafter",
+    "count": 1,
+    "ingredients": [
+      "enderio:crafter",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:cradlewood_boat": {
+    "result": "eternal_starlight:cradlewood_boat",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:cradlewood_planks",
+      "",
+      "eternal_starlight:cradlewood_planks",
+      "eternal_starlight:cradlewood_planks",
+      "eternal_starlight:cradlewood_planks",
+      "eternal_starlight:cradlewood_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:cradlewood_button": {
+    "result": "eternal_starlight:cradlewood_button",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:cradlewood_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:cradlewood_chest_boat": {
+    "result": "eternal_starlight:cradlewood_chest_boat",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:cradlewood_boat",
+      "minecraft:chest",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:cradlewood_door": {
+    "result": "eternal_starlight:cradlewood_door",
+    "count": 3,
+    "ingredients": [
+      "eternal_starlight:cradlewood_planks",
+      "eternal_starlight:cradlewood_planks",
+      "",
+      "eternal_starlight:cradlewood_planks",
+      "eternal_starlight:cradlewood_planks",
+      "",
+      "eternal_starlight:cradlewood_planks",
+      "eternal_starlight:cradlewood_planks",
+      ""
+    ]
+  },
+  "eternal_starlight:cradlewood_fence": {
+    "result": "eternal_starlight:cradlewood_fence",
+    "count": 3,
+    "ingredients": [
+      "eternal_starlight:cradlewood_planks",
+      "minecraft:stick",
+      "eternal_starlight:cradlewood_planks",
+      "eternal_starlight:cradlewood_planks",
+      "minecraft:stick",
+      "eternal_starlight:cradlewood_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:cradlewood_fence_gate": {
+    "result": "eternal_starlight:cradlewood_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "eternal_starlight:cradlewood_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "eternal_starlight:cradlewood_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:cradlewood_hanging_sign": {
+    "result": "eternal_starlight:cradlewood_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "eternal_starlight:stripped_cradlewood_log",
+      "eternal_starlight:stripped_cradlewood_log",
+      "eternal_starlight:stripped_cradlewood_log",
+      "eternal_starlight:stripped_cradlewood_log",
+      "eternal_starlight:stripped_cradlewood_log",
+      "eternal_starlight:stripped_cradlewood_log"
+    ]
+  },
+  "eternal_starlight:cradlewood_planks": {
+    "result": "eternal_starlight:cradlewood_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:cradlewood_pressure_plate": {
+    "result": "eternal_starlight:cradlewood_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:cradlewood_planks",
+      "eternal_starlight:cradlewood_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:cradlewood_sign": {
+    "result": "eternal_starlight:cradlewood_sign",
+    "count": 3,
+    "ingredients": [
+      "eternal_starlight:cradlewood_planks",
+      "eternal_starlight:cradlewood_planks",
+      "eternal_starlight:cradlewood_planks",
+      "eternal_starlight:cradlewood_planks",
+      "eternal_starlight:cradlewood_planks",
+      "eternal_starlight:cradlewood_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "eternal_starlight:cradlewood_slab": {
+    "result": "eternal_starlight:cradlewood_slab",
+    "count": 6,
+    "ingredients": [
+      "eternal_starlight:cradlewood_planks",
+      "eternal_starlight:cradlewood_planks",
+      "eternal_starlight:cradlewood_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:cradlewood_stairs": {
+    "result": "eternal_starlight:cradlewood_stairs",
+    "count": 4,
+    "ingredients": [
+      "eternal_starlight:cradlewood_planks",
+      "",
+      "",
+      "eternal_starlight:cradlewood_planks",
+      "eternal_starlight:cradlewood_planks",
+      "",
+      "eternal_starlight:cradlewood_planks",
+      "eternal_starlight:cradlewood_planks",
+      "eternal_starlight:cradlewood_planks"
+    ]
+  },
+  "eternal_starlight:cradlewood_starfire_bird_aviary": {
+    "result": "eternal_starlight:cradlewood_starfire_bird_aviary",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:cradlewood_planks",
+      "eternal_starlight:cradlewood_planks",
+      "eternal_starlight:cradlewood_planks",
+      "eternal_starlight:starfire",
+      "eternal_starlight:starfire",
+      "eternal_starlight:starfire",
+      "eternal_starlight:cradlewood_planks",
+      "eternal_starlight:cradlewood_planks",
+      "eternal_starlight:cradlewood_planks"
+    ]
+  },
+  "eternal_starlight:cradlewood_trapdoor": {
+    "result": "eternal_starlight:cradlewood_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "eternal_starlight:cradlewood_planks",
+      "eternal_starlight:cradlewood_planks",
+      "eternal_starlight:cradlewood_planks",
+      "eternal_starlight:cradlewood_planks",
+      "eternal_starlight:cradlewood_planks",
+      "eternal_starlight:cradlewood_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:cradlewood_wood": {
+    "result": "eternal_starlight:cradlewood_wood",
+    "count": 3,
+    "ingredients": [
+      "eternal_starlight:cradlewood_log",
+      "eternal_starlight:cradlewood_log",
+      "",
+      "eternal_starlight:cradlewood_log",
+      "eternal_starlight:cradlewood_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:crescent_spear": {
+    "result": "eternal_starlight:crescent_spear",
+    "count": 1,
+    "ingredients": [
+      "modern_industrialization:silver_ingot",
+      "",
+      "modern_industrialization:silver_ingot",
+      "eternal_starlight:tenacious_petal",
+      "modern_industrialization:silver_ingot",
+      "eternal_starlight:tenacious_petal",
+      "",
+      "eternal_starlight:tenacious_vine",
+      ""
+    ]
+  },
+  "eternal_starlight:crimson_starfire_bird_aviary": {
+    "result": "eternal_starlight:crimson_starfire_bird_aviary",
+    "count": 1,
+    "ingredients": [
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks",
+      "eternal_starlight:starfire",
+      "eternal_starlight:starfire",
+      "eternal_starlight:starfire",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks"
+    ]
+  },
+  "eternal_starlight:crinoa_bale": {
+    "result": "eternal_starlight:crinoa_bale",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:crinoa",
+      "eternal_starlight:crinoa",
+      "eternal_starlight:crinoa",
+      "eternal_starlight:crinoa",
+      "eternal_starlight:crinoa",
+      "eternal_starlight:crinoa",
+      "eternal_starlight:crinoa",
+      "eternal_starlight:crinoa",
+      "eternal_starlight:crinoa"
+    ]
+  },
+  "eternal_starlight:crinoa": {
+    "result": "eternal_starlight:crinoa",
+    "count": 9,
+    "ingredients": [
+      "eternal_starlight:crinoa_bale",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:crystalborn_catalyst": {
+    "result": "eternal_starlight:crystalborn_catalyst",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:cinder_brick",
+      "eternal_starlight:tooth_of_hunger",
+      "eternal_starlight:cinder_brick",
+      "eternal_starlight:tooth_of_hunger",
+      "minecraft:redstone",
+      "eternal_starlight:tooth_of_hunger",
+      "eternal_starlight:cinder_brick",
+      "eternal_starlight:tooth_of_hunger",
+      "eternal_starlight:cinder_brick"
+    ]
+  },
+  "eternal_starlight:crystal_crossbow": {
+    "result": "eternal_starlight:crystal_crossbow",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:blue_starlight_crystal_shard",
+      "modern_industrialization:steel_ingot",
+      "eternal_starlight:blue_starlight_crystal_shard",
+      "minecraft:string",
+      "minecraft:tripwire_hook",
+      "minecraft:string",
+      "",
+      "eternal_starlight:red_starlight_crystal_shard",
+      ""
+    ]
+  },
+  "eternal_starlight:crystal_greatsword": {
+    "result": "eternal_starlight:crystal_greatsword",
+    "count": 1,
+    "ingredients": [
+      "",
+      "eternal_starlight:shivering_gel",
+      "eternal_starlight:red_starlight_crystal_shard",
+      "",
+      "modern_industrialization:steel_ingot",
+      "eternal_starlight:blue_starlight_crystal_shard",
+      "minecraft:stick",
+      "modern_industrialization:steel_ingot",
+      ""
+    ]
+  },
+  "eternal_starlight:crinoa_ball": {
+    "result": "eternal_starlight:crinoa_ball",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:crinoa",
+      "eternal_starlight:crinoa",
+      "eternal_starlight:lunar_berries",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:crinoa_porridge": {
+    "result": "eternal_starlight:crinoa_porridge",
+    "count": 1,
+    "ingredients": [
+      "eternal_starlight:crinoa",
+      "eternal_starlight:crinoa",
+      "eternal_starlight:crinoa",
+      "minecraft:bowl",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "extendedae:crystal_assembler": {
+    "result": "extendedae:crystal_assembler",
+    "count": 1,
+    "ingredients": [
+      "",
+      "ae2:crafting_terminal",
+      "",
+      "ae2:logic_processor",
+      "extendedae:machine_frame",
+      "ae2:logic_processor",
+      "minecraft:glass",
+      "ae2:sky_stone_tank",
+      "minecraft:glass"
+    ]
+  },
+  "farmersdelight:crimson_cabinet": {
+    "result": "farmersdelight:crimson_cabinet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_trapdoor",
+      "",
+      "minecraft:crimson_trapdoor",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab"
+    ]
+  },
+  "fireproofboats:crimson_boat": {
+    "result": "fireproofboats:crimson_boat",
+    "count": 1,
+    "ingredients": [
+      "minecraft:crimson_planks",
+      "",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "fireproofboats:crimson_chest_boat": {
+    "result": "fireproofboats:crimson_chest_boat",
+    "count": 1,
+    "ingredients": [
+      "minecraft:chest",
+      "fireproofboats:crimson_boat",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "forbidden_arcanus:cracked_obsidian_skull": {
+    "result": "forbidden_arcanus:cracked_obsidian_skull",
+    "count": 1,
+    "ingredients": [
+      "forbidden_arcanus:fragmented_obsidian_skull",
+      "forbidden_arcanus:obsidiansteel_ingot",
+      "forbidden_arcanus:obsidiansteel_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "functionalstorage:crimson_1": {
+    "result": "functionalstorage:crimson_1",
+    "count": 1,
+    "ingredients": [
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks",
+      "minecraft:chest",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks"
+    ]
+  },
+  "functionalstorage:crimson_2": {
+    "result": "functionalstorage:crimson_2",
+    "count": 2,
+    "ingredients": [
+      "minecraft:crimson_planks",
+      "minecraft:chest",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks",
+      "minecraft:chest",
+      "minecraft:crimson_planks"
+    ]
+  },
+  "functionalstorage:crimson_4": {
+    "result": "functionalstorage:crimson_4",
+    "count": 4,
+    "ingredients": [
+      "minecraft:chest",
+      "minecraft:crimson_planks",
+      "minecraft:chest",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks",
+      "minecraft:chest",
+      "minecraft:crimson_planks",
+      "minecraft:chest"
+    ]
+  },
+  "minecraft:crimson_door": {
+    "result": "minecraft:crimson_door",
+    "count": 12,
+    "ingredients": [
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      ""
+    ]
+  },
+  "glassential:crimson_glass_door": {
+    "result": "glassential:crimson_glass_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:crimson_door",
+      "minecraft:glass_pane",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "glassential:crimson_glass_trapdoor": {
+    "result": "glassential:crimson_glass_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:crimson_trapdoor",
+      "minecraft:glass_pane",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:crimson_trapdoor": {
+    "result": "minecraft:crimson_trapdoor",
+    "count": 12,
+    "ingredients": [
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "",
+      "",
+      ""
+    ]
+  },
+  "handcrafted:creeper_trophy": {
+    "result": "handcrafted:creeper_trophy",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stone",
+      "",
+      "minecraft:stone",
+      "minecraft:creeper_head",
+      "minecraft:stone",
+      "minecraft:stone",
+      "",
+      "minecraft:stone"
+    ]
+  },
+  "handcrafted:crimson_bench": {
+    "result": "handcrafted:crimson_bench",
+    "count": 2,
+    "ingredients": [
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_planks",
+      "",
+      "minecraft:crimson_planks"
+    ]
+  },
+  "handcrafted:crimson_chair": {
+    "result": "handcrafted:crimson_chair",
+    "count": 2,
+    "ingredients": [
+      "minecraft:crimson_slab",
+      "",
+      "",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks",
+      "",
+      "minecraft:stick",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "handcrafted:crimson_corner_trim": {
+    "result": "handcrafted:crimson_corner_trim",
+    "count": 4,
+    "ingredients": [
+      "minecraft:crimson_planks",
+      "",
+      "",
+      "minecraft:crimson_planks",
+      "",
+      "",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks"
+    ]
+  },
+  "handcrafted:crimson_couch": {
+    "result": "handcrafted:crimson_couch",
+    "count": 2,
+    "ingredients": [
+      "minecraft:white_wool",
+      "minecraft:cushions",
+      "minecraft:white_wool",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "handcrafted:crimson_counter": {
+    "result": "handcrafted:crimson_counter",
+    "count": 3,
+    "ingredients": [
+      "minecraft:calcite",
+      "minecraft:calcite",
+      "minecraft:calcite",
+      "minecraft:crimson_planks",
+      "minecraft:chest",
+      "minecraft:crimson_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "handcrafted:crimson_cupboard": {
+    "result": "handcrafted:crimson_cupboard",
+    "count": 3,
+    "ingredients": [
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks",
+      "minecraft:chest",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks"
+    ]
+  },
+  "handcrafted:crimson_desk": {
+    "result": "handcrafted:crimson_desk",
+    "count": 2,
+    "ingredients": [
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_planks",
+      "minecraft:chest",
+      "minecraft:crimson_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "handcrafted:crimson_dining_bench": {
+    "result": "handcrafted:crimson_dining_bench",
+    "count": 2,
+    "ingredients": [
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_planks",
+      "",
+      "minecraft:crimson_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "handcrafted:crimson_drawer": {
+    "result": "handcrafted:crimson_drawer",
+    "count": 2,
+    "ingredients": [
+      "minecraft:crimson_planks",
+      "minecraft:chest",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab"
+    ]
+  },
+  "handcrafted:crimson_fancy_bed": {
+    "result": "handcrafted:crimson_fancy_bed",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:cushions",
+      "minecraft:sheets",
+      "minecraft:crimson_planks",
+      "minecraft:white_wool",
+      "minecraft:white_wool",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks"
+    ]
+  },
+  "handcrafted:crimson_nightstand": {
+    "result": "handcrafted:crimson_nightstand",
+    "count": 2,
+    "ingredients": [
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks",
+      "minecraft:chest",
+      "minecraft:crimson_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "handcrafted:crimson_pillar_trim": {
+    "result": "handcrafted:crimson_pillar_trim",
+    "count": 4,
+    "ingredients": [
+      "minecraft:crimson_planks",
+      "",
+      "",
+      "minecraft:crimson_planks",
+      "",
+      "",
+      "minecraft:crimson_planks",
+      "",
+      ""
+    ]
+  },
+  "handcrafted:crimson_shelf": {
+    "result": "handcrafted:crimson_shelf",
+    "count": 2,
+    "ingredients": [
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_planks",
+      "minecraft:chest",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab"
+    ]
+  },
+  "handcrafted:crimson_side_table": {
+    "result": "handcrafted:crimson_side_table",
+    "count": 2,
+    "ingredients": [
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_planks",
+      "minecraft:chest",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks",
+      "",
+      "minecraft:crimson_planks"
+    ]
+  },
+  "handcrafted:crimson_table": {
+    "result": "handcrafted:crimson_table",
+    "count": 2,
+    "ingredients": [
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks",
+      "minecraft:stick",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "herbsandharvest:cream_cheese": {
+    "result": "herbsandharvest:cream_cheese",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bowl",
+      "minecraft:cream",
+      "minecraft:lemon",
+      "minecraft:salt",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "herbsandharvest:crop_basket": {
+    "result": "herbsandharvest:crop_basket",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "",
+      "minecraft:bamboo",
+      "minecraft:bamboo",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:craftingtable": {
+    "result": "immersiveengineering:craftingtable",
+    "count": 1,
+    "ingredients": [
+      "minecraft:treated_wood_slab",
+      "minecraft:treated_wood_slab",
+      "minecraft:treated_wood_slab",
+      "minecraft:treated_wood",
+      "minecraft:crafting_table",
+      "minecraft:treated_wood",
+      "minecraft:treated_wood",
+      "",
+      "minecraft:treated_wood"
+    ]
+  },
+  "immersiveengineering:crate": {
+    "result": "immersiveengineering:crate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:treated_wood",
+      "minecraft:treated_wood",
+      "minecraft:treated_wood",
+      "minecraft:treated_wood",
+      "",
+      "minecraft:treated_wood",
+      "minecraft:treated_wood",
+      "minecraft:treated_wood",
+      "minecraft:treated_wood"
+    ]
+  },
+  "integrateddynamics:crystalized_chorus_block": {
+    "result": "integrateddynamics:crystalized_chorus_block",
+    "count": 1,
+    "ingredients": [
+      "integrateddynamics:crystalized_chorus_chunk",
+      "integrateddynamics:crystalized_chorus_chunk",
+      "integrateddynamics:crystalized_chorus_chunk",
+      "integrateddynamics:crystalized_chorus_chunk",
+      "integrateddynamics:crystalized_chorus_chunk",
+      "integrateddynamics:crystalized_chorus_chunk",
+      "integrateddynamics:crystalized_chorus_chunk",
+      "integrateddynamics:crystalized_chorus_chunk",
+      "integrateddynamics:crystalized_chorus_chunk"
+    ]
+  },
+  "integrateddynamics:crystalized_chorus_block_slab": {
+    "result": "integrateddynamics:crystalized_chorus_block_slab",
+    "count": 6,
+    "ingredients": [
+      "integrateddynamics:crystalized_chorus_block",
+      "integrateddynamics:crystalized_chorus_block",
+      "integrateddynamics:crystalized_chorus_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "integrateddynamics:crystalized_chorus_block_stairs": {
+    "result": "integrateddynamics:crystalized_chorus_block_stairs",
+    "count": 4,
+    "ingredients": [
+      "integrateddynamics:crystalized_chorus_block",
+      "",
+      "",
+      "integrateddynamics:crystalized_chorus_block",
+      "integrateddynamics:crystalized_chorus_block",
+      "",
+      "integrateddynamics:crystalized_chorus_block",
+      "integrateddynamics:crystalized_chorus_block",
+      "integrateddynamics:crystalized_chorus_block"
+    ]
+  },
+  "integrateddynamics:crystalized_chorus_brick": {
+    "result": "integrateddynamics:crystalized_chorus_brick",
+    "count": 4,
+    "ingredients": [
+      "integrateddynamics:crystalized_chorus_block",
+      "integrateddynamics:crystalized_chorus_block",
+      "",
+      "integrateddynamics:crystalized_chorus_block",
+      "integrateddynamics:crystalized_chorus_block",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "integrateddynamics:crystalized_chorus_brick_slab": {
+    "result": "integrateddynamics:crystalized_chorus_brick_slab",
+    "count": 6,
+    "ingredients": [
+      "integrateddynamics:crystalized_chorus_brick",
+      "integrateddynamics:crystalized_chorus_brick",
+      "integrateddynamics:crystalized_chorus_brick",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "integrateddynamics:crystalized_chorus_brick_stairs": {
+    "result": "integrateddynamics:crystalized_chorus_brick_stairs",
+    "count": 4,
+    "ingredients": [
+      "integrateddynamics:crystalized_chorus_brick",
+      "",
+      "",
+      "integrateddynamics:crystalized_chorus_brick",
+      "integrateddynamics:crystalized_chorus_brick",
+      "",
+      "integrateddynamics:crystalized_chorus_brick",
+      "integrateddynamics:crystalized_chorus_brick",
+      "integrateddynamics:crystalized_chorus_brick"
+    ]
+  },
+  "integrateddynamics:crystalized_chorus_chunk": {
+    "result": "integrateddynamics:crystalized_chorus_chunk",
+    "count": 9,
+    "ingredients": [
+      "integrateddynamics:crystalized_chorus_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "integrateddynamics:crystalized_menril_block": {
+    "result": "integrateddynamics:crystalized_menril_block",
+    "count": 1,
+    "ingredients": [
+      "integrateddynamics:crystalized_menril_chunk",
+      "integrateddynamics:crystalized_menril_chunk",
+      "integrateddynamics:crystalized_menril_chunk",
+      "integrateddynamics:crystalized_menril_chunk",
+      "integrateddynamics:crystalized_menril_chunk",
+      "integrateddynamics:crystalized_menril_chunk",
+      "integrateddynamics:crystalized_menril_chunk",
+      "integrateddynamics:crystalized_menril_chunk",
+      "integrateddynamics:crystalized_menril_chunk"
+    ]
+  },
+  "integrateddynamics:crystalized_menril_block_slab": {
+    "result": "integrateddynamics:crystalized_menril_block_slab",
+    "count": 6,
+    "ingredients": [
+      "integrateddynamics:crystalized_menril_block",
+      "integrateddynamics:crystalized_menril_block",
+      "integrateddynamics:crystalized_menril_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "integrateddynamics:crystalized_menril_block_stairs": {
+    "result": "integrateddynamics:crystalized_menril_block_stairs",
+    "count": 4,
+    "ingredients": [
+      "integrateddynamics:crystalized_menril_block",
+      "",
+      "",
+      "integrateddynamics:crystalized_menril_block",
+      "integrateddynamics:crystalized_menril_block",
+      "",
+      "integrateddynamics:crystalized_menril_block",
+      "integrateddynamics:crystalized_menril_block",
+      "integrateddynamics:crystalized_menril_block"
+    ]
+  },
+  "integrateddynamics:crystalized_menril_brick": {
+    "result": "integrateddynamics:crystalized_menril_brick",
+    "count": 4,
+    "ingredients": [
+      "integrateddynamics:crystalized_menril_block",
+      "integrateddynamics:crystalized_menril_block",
+      "",
+      "integrateddynamics:crystalized_menril_block",
+      "integrateddynamics:crystalized_menril_block",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "integrateddynamics:crystalized_menril_brick_slab": {
+    "result": "integrateddynamics:crystalized_menril_brick_slab",
+    "count": 6,
+    "ingredients": [
+      "integrateddynamics:crystalized_menril_brick",
+      "integrateddynamics:crystalized_menril_brick",
+      "integrateddynamics:crystalized_menril_brick",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "integrateddynamics:crystalized_menril_brick_stairs": {
+    "result": "integrateddynamics:crystalized_menril_brick_stairs",
+    "count": 4,
+    "ingredients": [
+      "integrateddynamics:crystalized_menril_brick",
+      "",
+      "",
+      "integrateddynamics:crystalized_menril_brick",
+      "integrateddynamics:crystalized_menril_brick",
+      "",
+      "integrateddynamics:crystalized_menril_brick",
+      "integrateddynamics:crystalized_menril_brick",
+      "integrateddynamics:crystalized_menril_brick"
+    ]
+  },
+  "integrateddynamics:crystalized_menril_chunk": {
+    "result": "integrateddynamics:crystalized_menril_chunk",
+    "count": 9,
+    "ingredients": [
+      "integrateddynamics:crystalized_menril_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ironfurnaces:crystal_furnace": {
+    "result": "ironfurnaces:crystal_furnace",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:diamond",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:ender_eye",
+      "minecraft:glass"
+    ]
+  },
+  "irons_spellbooks:cryomancer_boots": {
+    "result": "irons_spellbooks:cryomancer_boots",
+    "count": 1,
+    "ingredients": [
+      "minecraft:wizard_base_boots",
+      "irons_spellbooks:ice_rune",
+      "irons_spellbooks:arcane_essence",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "irons_spellbooks:cryomancer_chestplate": {
+    "result": "irons_spellbooks:cryomancer_chestplate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:chest",
+      "irons_spellbooks:ice_rune",
+      "irons_spellbooks:arcane_essence",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "irons_spellbooks:cryomancer_helmet": {
+    "result": "irons_spellbooks:cryomancer_helmet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:wizard_base_helmet",
+      "irons_spellbooks:ice_rune",
+      "irons_spellbooks:arcane_essence",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "irons_spellbooks:cryomancer_leggings": {
+    "result": "irons_spellbooks:cryomancer_leggings",
+    "count": 1,
+    "ingredients": [
+      "minecraft:wizard_base_leggings",
+      "irons_spellbooks:ice_rune",
+      "irons_spellbooks:arcane_essence",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "justdirethings:creaturecatcher": {
+    "result": "justdirethings:creaturecatcher",
+    "count": 1,
+    "ingredients": [
+      "",
+      "justdirethings:blazegold_ingot",
+      "",
+      "justdirethings:blazegold_ingot",
+      "minecraft:ender_pearl",
+      "justdirethings:blazegold_ingot",
+      "",
+      "justdirethings:blazegold_ingot",
+      ""
+    ]
+  },
+  "mcwbridges:crimson_bridge_pier": {
+    "result": "mcwbridges:crimson_bridge_pier",
+    "count": 3,
+    "ingredients": [
+      "minecraft:crimson_stem",
+      "minecraft:crimson_fence",
+      "minecraft:crimson_stem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:crimson_log_bridge_middle": {
+    "result": "mcwbridges:crimson_log_bridge_middle",
+    "count": 1,
+    "ingredients": [
+      "mcwbridges:crimson_log_bridge_stair",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:crimson_log_bridge_stair": {
+    "result": "mcwbridges:crimson_log_bridge_stair",
+    "count": 6,
+    "ingredients": [
+      "",
+      "",
+      "mcwbridges:crimson_log_bridge_middle",
+      "",
+      "mcwbridges:crimson_log_bridge_middle",
+      "mcwbridges:crimson_log_bridge_middle",
+      "mcwbridges:crimson_log_bridge_middle",
+      "mcwbridges:crimson_log_bridge_middle",
+      "mcwbridges:crimson_log_bridge_middle"
+    ]
+  },
+  "mcwbridges:crimson_rail_bridge": {
+    "result": "mcwbridges:crimson_rail_bridge",
+    "count": 4,
+    "ingredients": [
+      "minecraft:crimson_fence",
+      "",
+      "minecraft:crimson_fence",
+      "minecraft:crimson_fence",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_fence",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwbridges:crimson_rope_bridge_stair": {
+    "result": "mcwbridges:crimson_rope_bridge_stair",
+    "count": 6,
+    "ingredients": [
+      "",
+      "",
+      "mcwbridges:rope_crimson_bridge",
+      "",
+      "mcwbridges:rope_crimson_bridge",
+      "mcwbridges:rope_crimson_bridge",
+      "mcwbridges:rope_crimson_bridge",
+      "mcwbridges:rope_crimson_bridge",
+      "mcwbridges:rope_crimson_bridge"
+    ]
+  },
+  "mcwdoors:crimson_bamboo_door": {
+    "result": "mcwdoors:crimson_bamboo_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:crimson_planks",
+      "",
+      "",
+      "mcwdoors:print_bamboo",
+      "",
+      "",
+      "minecraft:crimson_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwdoors:crimson_barn_door": {
+    "result": "mcwdoors:crimson_barn_door",
+    "count": 2,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:stick",
+      "",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks",
+      "",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks",
+      ""
+    ]
+  },
+  "mcwdoors:crimson_barn_glass_door": {
+    "result": "mcwdoors:crimson_barn_glass_door",
+    "count": 3,
+    "ingredients": [
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks",
+      "",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks",
+      ""
+    ]
+  },
+  "mcwdoors:crimson_beach_door": {
+    "result": "mcwdoors:crimson_beach_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:crimson_planks",
+      "",
+      "",
+      "mcwdoors:print_jungle",
+      "",
+      "",
+      "minecraft:crimson_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwdoors:crimson_classic_door": {
+    "result": "mcwdoors:crimson_classic_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:crimson_planks",
+      "",
+      "",
+      "mcwdoors:print_oak",
+      "",
+      "",
+      "minecraft:crimson_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwdoors:crimson_cottage_door": {
+    "result": "mcwdoors:crimson_cottage_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:crimson_planks",
+      "",
+      "",
+      "mcwdoors:print_spruce",
+      "",
+      "",
+      "minecraft:crimson_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwdoors:crimson_four_panel_door": {
+    "result": "mcwdoors:crimson_four_panel_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:crimson_planks",
+      "",
+      "",
+      "mcwdoors:print_dark_oak",
+      "",
+      "",
+      "minecraft:crimson_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwdoors:crimson_glass_door": {
+    "result": "mcwdoors:crimson_glass_door",
+    "count": 3,
+    "ingredients": [
+      "minecraft:crimson_planks",
+      "minecraft:glass_pane",
+      "",
+      "minecraft:glass_pane",
+      "minecraft:glass_pane",
+      "",
+      "minecraft:crimson_planks",
+      "minecraft:glass_pane",
+      ""
+    ]
+  },
+  "mcwdoors:crimson_japanese2_door": {
+    "result": "mcwdoors:crimson_japanese2_door",
+    "count": 3,
+    "ingredients": [
+      "minecraft:paper",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      "minecraft:paper",
+      "",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      ""
+    ]
+  },
+  "mcwdoors:crimson_japanese_door": {
+    "result": "mcwdoors:crimson_japanese_door",
+    "count": 3,
+    "ingredients": [
+      "minecraft:paper",
+      "minecraft:paper",
+      "",
+      "minecraft:paper",
+      "minecraft:paper",
+      "",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks",
+      ""
+    ]
+  },
+  "mcwdoors:crimson_modern_door": {
+    "result": "mcwdoors:crimson_modern_door",
+    "count": 3,
+    "ingredients": [
+      "minecraft:crimson_planks",
+      "minecraft:glass_pane",
+      "",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks",
+      "",
+      "minecraft:crimson_planks",
+      "minecraft:glass_pane",
+      ""
+    ]
+  },
+  "mcwdoors:crimson_mystic_door": {
+    "result": "mcwdoors:crimson_mystic_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:crimson_planks",
+      "",
+      "",
+      "mcwdoors:print_mystic",
+      "",
+      "",
+      "minecraft:crimson_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwdoors:crimson_paper_door": {
+    "result": "mcwdoors:crimson_paper_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:crimson_planks",
+      "",
+      "",
+      "mcwdoors:print_birch",
+      "",
+      "",
+      "minecraft:crimson_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwdoors:crimson_stable_door": {
+    "result": "mcwdoors:crimson_stable_door",
+    "count": 3,
+    "ingredients": [
+      "minecraft:iron_bars",
+      "minecraft:iron_bars",
+      "",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks",
+      "",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks",
+      ""
+    ]
+  },
+  "mcwdoors:crimson_stable_head_door": {
+    "result": "mcwdoors:crimson_stable_head_door",
+    "count": 1,
+    "ingredients": [
+      "mcwdoors:crimson_stable_door",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwdoors:crimson_stem_glass_door": {
+    "result": "mcwdoors:crimson_stem_glass_door",
+    "count": 3,
+    "ingredients": [
+      "minecraft:crimson_stem",
+      "minecraft:glass",
+      "",
+      "minecraft:glass",
+      "minecraft:glass",
+      "",
+      "minecraft:crimson_stem",
+      "minecraft:glass",
+      ""
+    ]
+  },
+  "mcwdoors:crimson_swamp_door": {
+    "result": "mcwdoors:crimson_swamp_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:crimson_planks",
+      "",
+      "",
+      "mcwdoors:print_swamp",
+      "",
+      "",
+      "minecraft:crimson_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwdoors:crimson_tropical_door": {
+    "result": "mcwdoors:crimson_tropical_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:crimson_planks",
+      "",
+      "",
+      "mcwdoors:print_acacia",
+      "",
+      "",
+      "minecraft:crimson_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwdoors:crimson_waffle_door": {
+    "result": "mcwdoors:crimson_waffle_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:crimson_planks",
+      "",
+      "",
+      "mcwdoors:print_waffle",
+      "",
+      "",
+      "minecraft:crimson_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwdoors:crimson_western_door": {
+    "result": "mcwdoors:crimson_western_door",
+    "count": 3,
+    "ingredients": [
+      "",
+      "",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks"
+    ]
+  },
+  "mcwdoors:crimson_whispering_door": {
+    "result": "mcwdoors:crimson_whispering_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:crimson_planks",
+      "",
+      "",
+      "mcwdoors:print_whispering",
+      "",
+      "",
+      "minecraft:crimson_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwfences:crimson_curved_gate": {
+    "result": "mcwfences:crimson_curved_gate",
+    "count": 4,
+    "ingredients": [
+      "minecraft:crimson_stem",
+      "",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfences:crimson_highley_gate": {
+    "result": "mcwfences:crimson_highley_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:crimson_stem",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:crimson_stem",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfences:crimson_horse_fence": {
+    "result": "mcwfences:crimson_horse_fence",
+    "count": 3,
+    "ingredients": [
+      "minecraft:crimson_stem",
+      "minecraft:stick",
+      "minecraft:crimson_stem",
+      "minecraft:stick",
+      "minecraft:crimson_stem",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfences:crimson_picket_fence": {
+    "result": "mcwfences:crimson_picket_fence",
+    "count": 3,
+    "ingredients": [
+      "minecraft:crimson_stem",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "minecraft:stick",
+      "minecraft:crimson_stem",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfences:crimson_pyramid_gate": {
+    "result": "mcwfences:crimson_pyramid_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:crimson_stem",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:crimson_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfences:crimson_stockade_fence": {
+    "result": "mcwfences:crimson_stockade_fence",
+    "count": 3,
+    "ingredients": [
+      "minecraft:crimson_stem",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_stem",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfences:crimson_wired_fence": {
+    "result": "mcwfences:crimson_wired_fence",
+    "count": 3,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:iron_bars",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:crimson_stem",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfurnitures:crimson_bookshelf": {
+    "result": "mcwfurnitures:crimson_bookshelf",
+    "count": 4,
+    "ingredients": [
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem"
+    ]
+  },
+  "mcwfurnitures:crimson_bookshelf_cupboard": {
+    "result": "mcwfurnitures:crimson_bookshelf_cupboard",
+    "count": 4,
+    "ingredients": [
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "mcwfurnitures:cabinet_door",
+      "minecraft:crimson_stem",
+      "minecraft:book",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem"
+    ]
+  },
+  "mcwfurnitures:crimson_bookshelf_drawer": {
+    "result": "mcwfurnitures:crimson_bookshelf_drawer",
+    "count": 4,
+    "ingredients": [
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "mcwfurnitures:cabinet_drawer",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "minecraft:book",
+      "minecraft:crimson_stem"
+    ]
+  },
+  "mcwfurnitures:crimson_chair": {
+    "result": "mcwfurnitures:crimson_chair",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:crimson_stem",
+      "",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_stem",
+      "",
+      "minecraft:crimson_fence",
+      "minecraft:crimson_fence",
+      ""
+    ]
+  },
+  "mcwfurnitures:crimson_coffee_table": {
+    "result": "mcwfurnitures:crimson_coffee_table",
+    "count": 1,
+    "ingredients": [
+      "minecraft:crimson_stem",
+      "",
+      "",
+      "minecraft:crimson_fence",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfurnitures:crimson_counter": {
+    "result": "mcwfurnitures:crimson_counter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:crimson_slab",
+      "",
+      "",
+      "minecraft:crimson_stem",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfurnitures:crimson_covered_desk": {
+    "result": "mcwfurnitures:crimson_covered_desk",
+    "count": 2,
+    "ingredients": [
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "",
+      "minecraft:crimson_stem",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfurnitures:crimson_cupboard_counter": {
+    "result": "mcwfurnitures:crimson_cupboard_counter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:crimson_slab",
+      "",
+      "",
+      "mcwfurnitures:crimson_wardrobe",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfurnitures:crimson_desk": {
+    "result": "mcwfurnitures:crimson_desk",
+    "count": 2,
+    "ingredients": [
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_fence",
+      "",
+      "minecraft:crimson_fence",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfurnitures:crimson_double_drawer": {
+    "result": "mcwfurnitures:crimson_double_drawer",
+    "count": 4,
+    "ingredients": [
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "mcwfurnitures:cabinet_drawer",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "mcwfurnitures:cabinet_drawer",
+      "minecraft:crimson_stem"
+    ]
+  },
+  "mcwfurnitures:crimson_double_drawer_counter": {
+    "result": "mcwfurnitures:crimson_double_drawer_counter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:crimson_slab",
+      "",
+      "",
+      "mcwfurnitures:crimson_double_drawer",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfurnitures:crimson_double_kitchen_cabinet": {
+    "result": "mcwfurnitures:crimson_double_kitchen_cabinet",
+    "count": 4,
+    "ingredients": [
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "",
+      "mcwfurnitures:cabinet_door",
+      "mcwfurnitures:cabinet_door",
+      "",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      ""
+    ]
+  },
+  "mcwfurnitures:crimson_double_wardrobe": {
+    "result": "mcwfurnitures:crimson_double_wardrobe",
+    "count": 4,
+    "ingredients": [
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "mcwfurnitures:cabinet_door",
+      "minecraft:crimson_stem",
+      "mcwfurnitures:cabinet_door",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem"
+    ]
+  },
+  "mcwfurnitures:crimson_drawer": {
+    "result": "mcwfurnitures:crimson_drawer",
+    "count": 4,
+    "ingredients": [
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "mcwfurnitures:cabinet_drawer",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem"
+    ]
+  },
+  "mcwfurnitures:crimson_drawer_counter": {
+    "result": "mcwfurnitures:crimson_drawer_counter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:crimson_slab",
+      "",
+      "",
+      "mcwfurnitures:crimson_drawer",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfurnitures:crimson_end_table": {
+    "result": "mcwfurnitures:crimson_end_table",
+    "count": 1,
+    "ingredients": [
+      "mcwfurnitures:crimson_table",
+      "",
+      "",
+      "minecraft:crimson_stem",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfurnitures:crimson_glass_kitchen_cabinet": {
+    "result": "mcwfurnitures:crimson_glass_kitchen_cabinet",
+    "count": 4,
+    "ingredients": [
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "",
+      "minecraft:glass",
+      "mcwfurnitures:cabinet_door",
+      "",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      ""
+    ]
+  },
+  "mcwfurnitures:crimson_glass_table": {
+    "result": "mcwfurnitures:crimson_glass_table",
+    "count": 1,
+    "ingredients": [
+      "mcwfurnitures:crimson_end_table",
+      "",
+      "",
+      "minecraft:glass",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfurnitures:crimson_kitchen_cabinet": {
+    "result": "mcwfurnitures:crimson_kitchen_cabinet",
+    "count": 4,
+    "ingredients": [
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "",
+      "minecraft:crimson_stem",
+      "mcwfurnitures:cabinet_door",
+      "",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      ""
+    ]
+  },
+  "mcwfurnitures:crimson_kitchen_sink": {
+    "result": "mcwfurnitures:crimson_kitchen_sink",
+    "count": 1,
+    "ingredients": [
+      "minecraft:crimson_slab",
+      "minecraft:cauldron",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_stem",
+      "minecraft:water_bucket",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "minecraft:water_bucket",
+      "minecraft:crimson_stem"
+    ]
+  },
+  "mcwfurnitures:crimson_large_drawer": {
+    "result": "mcwfurnitures:crimson_large_drawer",
+    "count": 4,
+    "ingredients": [
+      "minecraft:crimson_stem",
+      "mcwfurnitures:cabinet_drawer",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem"
+    ]
+  },
+  "mcwfurnitures:crimson_lower_bookshelf_drawer": {
+    "result": "mcwfurnitures:crimson_lower_bookshelf_drawer",
+    "count": 4,
+    "ingredients": [
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "minecraft:book",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "mcwfurnitures:cabinet_drawer",
+      "minecraft:crimson_stem"
+    ]
+  },
+  "mcwfurnitures:crimson_lower_triple_drawer": {
+    "result": "mcwfurnitures:crimson_lower_triple_drawer",
+    "count": 4,
+    "ingredients": [
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "mcwfurnitures:cabinet_drawer",
+      "minecraft:crimson_stem",
+      "mcwfurnitures:cabinet_drawer",
+      "minecraft:crimson_stem",
+      "mcwfurnitures:cabinet_drawer",
+      "minecraft:crimson_stem"
+    ]
+  },
+  "mcwfurnitures:crimson_modern_chair": {
+    "result": "mcwfurnitures:crimson_modern_chair",
+    "count": 1,
+    "ingredients": [
+      "minecraft:crimson_slab",
+      "minecraft:crimson_stem",
+      "",
+      "minecraft:crimson_fence",
+      "minecraft:crimson_fence",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfurnitures:crimson_modern_desk": {
+    "result": "mcwfurnitures:crimson_modern_desk",
+    "count": 2,
+    "ingredients": [
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_fence",
+      "minecraft:stick",
+      "minecraft:crimson_fence",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfurnitures:crimson_modern_wardrobe": {
+    "result": "mcwfurnitures:crimson_modern_wardrobe",
+    "count": 4,
+    "ingredients": [
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "mcwfurnitures:cabinet_door",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem"
+    ]
+  },
+  "mcwfurnitures:crimson_stool_chair": {
+    "result": "mcwfurnitures:crimson_stool_chair",
+    "count": 1,
+    "ingredients": [
+      "minecraft:crimson_stem",
+      "",
+      "",
+      "minecraft:crimson_stem",
+      "",
+      "",
+      "minecraft:crimson_fence",
+      "",
+      ""
+    ]
+  },
+  "mcwfurnitures:crimson_striped_chair": {
+    "result": "mcwfurnitures:crimson_striped_chair",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:crimson_stem",
+      "",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_fence",
+      "",
+      "minecraft:crimson_fence",
+      "minecraft:crimson_fence",
+      ""
+    ]
+  },
+  "mcwfurnitures:crimson_table": {
+    "result": "mcwfurnitures:crimson_table",
+    "count": 1,
+    "ingredients": [
+      "mcwfurnitures:crimson_coffee_table",
+      "",
+      "",
+      "minecraft:crimson_fence",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwfurnitures:crimson_triple_drawer": {
+    "result": "mcwfurnitures:crimson_triple_drawer",
+    "count": 4,
+    "ingredients": [
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "mcwfurnitures:cabinet_drawer",
+      "minecraft:crimson_stem",
+      "mcwfurnitures:cabinet_drawer",
+      "minecraft:crimson_stem",
+      "mcwfurnitures:cabinet_drawer"
+    ]
+  },
+  "mcwfurnitures:crimson_wardrobe": {
+    "result": "mcwfurnitures:crimson_wardrobe",
+    "count": 4,
+    "ingredients": [
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "mcwfurnitures:cabinet_door",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem"
+    ]
+  },
+  "mcwlights:crimson_ceiling_fan_light": {
+    "result": "mcwlights:crimson_ceiling_fan_light",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:iron_nugget",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:crimson_slab",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:glowstone_dust",
+      ""
+    ]
+  },
+  "mcwlights:crimson_tiki_torch": {
+    "result": "mcwlights:crimson_tiki_torch",
+    "count": 1,
+    "ingredients": [
+      "minecraft:torch",
+      "",
+      "",
+      "minecraft:crimson_fence",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwlights:cross_lantern": {
+    "result": "mcwlights:cross_lantern",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_nugget",
+      "",
+      "minecraft:iron_nugget",
+      "",
+      "minecraft:torch",
+      "",
+      "minecraft:iron_nugget",
+      "",
+      "minecraft:iron_nugget"
+    ]
+  },
+  "mcwlights:cross_wall_lantern": {
+    "result": "mcwlights:cross_wall_lantern",
+    "count": 1,
+    "ingredients": [
+      "minecraft:wooden_fences",
+      "mcwlights:cross_lantern",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwpaths:crimson_planks_path": {
+    "result": "mcwpaths:crimson_planks_path",
+    "count": 3,
+    "ingredients": [
+      "minecraft:crimson_slab",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:crimson_attic_roof": {
+    "result": "mcwroofs:crimson_attic_roof",
+    "count": 2,
+    "ingredients": [
+      "",
+      "minecraft:crimson_stem",
+      "",
+      "minecraft:crimson_stem",
+      "minecraft:glass",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:crimson_lower_roof": {
+    "result": "mcwroofs:crimson_lower_roof",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:crimson_planks_attic_roof": {
+    "result": "mcwroofs:crimson_planks_attic_roof",
+    "count": 2,
+    "ingredients": [
+      "",
+      "minecraft:crimson_planks",
+      "",
+      "minecraft:crimson_planks",
+      "minecraft:glass",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:crimson_planks_lower_roof": {
+    "result": "mcwroofs:crimson_planks_lower_roof",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:crimson_planks_roof": {
+    "result": "mcwroofs:crimson_planks_roof",
+    "count": 2,
+    "ingredients": [
+      "",
+      "minecraft:crimson_planks",
+      "",
+      "minecraft:crimson_planks",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:crimson_planks_steep_roof": {
+    "result": "mcwroofs:crimson_planks_steep_roof",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:crimson_planks",
+      "",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks",
+      "",
+      "minecraft:crimson_planks",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "mcwroofs:crimson_planks_top_roof": {
+    "result": "mcwroofs:crimson_planks_top_roof",
+    "count": 2,
+    "ingredients": [
+      "minecraft:crimson_planks",
+      "minecraft:stick",
+      "minecraft:crimson_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:crimson_planks_upper_lower_roof": {
+    "result": "mcwroofs:crimson_planks_upper_lower_roof",
+    "count": 3,
+    "ingredients": [
+      "",
+      "",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:crimson_planks_upper_steep_roof": {
+    "result": "mcwroofs:crimson_planks_upper_steep_roof",
+    "count": 3,
+    "ingredients": [
+      "",
+      "minecraft:crimson_planks",
+      "",
+      "",
+      "minecraft:crimson_planks",
+      "",
+      "minecraft:crimson_planks",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "mcwroofs:crimson_roof": {
+    "result": "mcwroofs:crimson_roof",
+    "count": 2,
+    "ingredients": [
+      "",
+      "minecraft:crimson_stem",
+      "",
+      "minecraft:crimson_stem",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:crimson_steep_roof": {
+    "result": "mcwroofs:crimson_steep_roof",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:crimson_stem",
+      "",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "",
+      "minecraft:crimson_stem",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "mcwroofs:crimson_top_roof": {
+    "result": "mcwroofs:crimson_top_roof",
+    "count": 2,
+    "ingredients": [
+      "minecraft:crimson_stem",
+      "minecraft:stick",
+      "minecraft:crimson_stem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:crimson_upper_lower_roof": {
+    "result": "mcwroofs:crimson_upper_lower_roof",
+    "count": 3,
+    "ingredients": [
+      "",
+      "",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwroofs:crimson_upper_steep_roof": {
+    "result": "mcwroofs:crimson_upper_steep_roof",
+    "count": 3,
+    "ingredients": [
+      "",
+      "minecraft:crimson_stem",
+      "",
+      "",
+      "minecraft:crimson_stem",
+      "",
+      "minecraft:crimson_stem",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "mcwstairs:crimson_balcony": {
+    "result": "mcwstairs:crimson_balcony",
+    "count": 6,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:crimson_fence",
+      "",
+      "minecraft:crimson_fence",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick"
+    ]
+  },
+  "mcwstairs:crimson_bulk_stairs": {
+    "result": "mcwstairs:crimson_bulk_stairs",
+    "count": 6,
+    "ingredients": [
+      "minecraft:stripped_crimson_stem",
+      "",
+      "",
+      "minecraft:crimson_stem",
+      "minecraft:stripped_crimson_stem",
+      "",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "minecraft:stripped_crimson_stem"
+    ]
+  },
+  "mcwstairs:crimson_compact_stairs": {
+    "result": "mcwstairs:crimson_compact_stairs",
+    "count": 6,
+    "ingredients": [
+      "minecraft:stripped_crimson_stem",
+      "",
+      "",
+      "minecraft:stripped_crimson_stem",
+      "minecraft:stripped_crimson_stem",
+      "",
+      "minecraft:stripped_crimson_stem",
+      "minecraft:stripped_crimson_stem",
+      "minecraft:stripped_crimson_stem"
+    ]
+  },
+  "mcwstairs:crimson_loft_stairs": {
+    "result": "mcwstairs:crimson_loft_stairs",
+    "count": 3,
+    "ingredients": [
+      "minecraft:stripped_crimson_stem",
+      "",
+      "",
+      "",
+      "minecraft:stripped_crimson_stem",
+      "",
+      "",
+      "",
+      "minecraft:stripped_crimson_stem"
+    ]
+  },
+  "mcwstairs:crimson_platform": {
+    "result": "mcwstairs:crimson_platform",
+    "count": 12,
+    "ingredients": [
+      "",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwstairs:crimson_railing": {
+    "result": "mcwstairs:crimson_railing",
+    "count": 6,
+    "ingredients": [
+      "mcwstairs:crimson_balcony",
+      "",
+      "",
+      "mcwstairs:crimson_balcony",
+      "mcwstairs:crimson_balcony",
+      "",
+      "mcwstairs:crimson_balcony",
+      "mcwstairs:crimson_balcony",
+      "mcwstairs:crimson_balcony"
+    ]
+  },
+  "mcwstairs:crimson_skyline_stairs": {
+    "result": "mcwstairs:crimson_skyline_stairs",
+    "count": 4,
+    "ingredients": [
+      "minecraft:stripped_crimson_stem",
+      "",
+      "",
+      "minecraft:crimson_stem",
+      "minecraft:stripped_crimson_stem",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwstairs:crimson_terrace_stairs": {
+    "result": "mcwstairs:crimson_terrace_stairs",
+    "count": 5,
+    "ingredients": [
+      "minecraft:stripped_crimson_stem",
+      "",
+      "",
+      "minecraft:crimson_stem",
+      "minecraft:stripped_crimson_stem",
+      "",
+      "",
+      "minecraft:crimson_stem",
+      "minecraft:stripped_crimson_stem"
+    ]
+  },
+  "mcwtrpdoors:crimson_bamboo_trapdoor": {
+    "result": "mcwtrpdoors:crimson_bamboo_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:crimson_planks",
+      "",
+      "",
+      "mcwtrpdoors:print_bamboo",
+      "",
+      "",
+      "minecraft:crimson_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwtrpdoors:crimson_bark_trapdoor": {
+    "result": "mcwtrpdoors:crimson_bark_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "minecraft:crimson_stem",
+      "minecraft:glass_pane",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "minecraft:glass_pane",
+      "minecraft:crimson_stem",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwtrpdoors:crimson_barn_trapdoor": {
+    "result": "mcwtrpdoors:crimson_barn_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:crimson_planks",
+      "",
+      "",
+      "mcwtrpdoors:crimson_glass_trapdoor",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwtrpdoors:crimson_barrel_trapdoor": {
+    "result": "mcwtrpdoors:crimson_barrel_trapdoor",
+    "count": 4,
+    "ingredients": [
+      "",
+      "minecraft:crimson_planks",
+      "",
+      "minecraft:crimson_planks",
+      "minecraft:barrel",
+      "minecraft:crimson_planks",
+      "",
+      "minecraft:crimson_planks",
+      ""
+    ]
+  },
+  "mcwtrpdoors:crimson_beach_trapdoor": {
+    "result": "mcwtrpdoors:crimson_beach_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:crimson_planks",
+      "",
+      "",
+      "mcwtrpdoors:print_beach",
+      "",
+      "",
+      "minecraft:crimson_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwtrpdoors:crimson_blossom_trapdoor": {
+    "result": "mcwtrpdoors:crimson_blossom_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:crimson_planks",
+      "",
+      "",
+      "mcwtrpdoors:print_blossom",
+      "",
+      "",
+      "minecraft:crimson_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwtrpdoors:crimson_classic_trapdoor": {
+    "result": "mcwtrpdoors:crimson_classic_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:crimson_planks",
+      "",
+      "",
+      "mcwtrpdoors:print_classic",
+      "",
+      "",
+      "minecraft:crimson_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwtrpdoors:crimson_cottage_trapdoor": {
+    "result": "mcwtrpdoors:crimson_cottage_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:crimson_planks",
+      "",
+      "",
+      "mcwtrpdoors:print_cottage",
+      "",
+      "",
+      "minecraft:crimson_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwtrpdoors:crimson_four_panel_trapdoor": {
+    "result": "mcwtrpdoors:crimson_four_panel_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:crimson_planks",
+      "",
+      "",
+      "mcwtrpdoors:print_four_panel",
+      "",
+      "",
+      "minecraft:crimson_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwtrpdoors:crimson_glass_trapdoor": {
+    "result": "mcwtrpdoors:crimson_glass_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "minecraft:crimson_planks",
+      "minecraft:glass_pane",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks",
+      "minecraft:glass_pane",
+      "minecraft:crimson_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwtrpdoors:crimson_mystic_trapdoor": {
+    "result": "mcwtrpdoors:crimson_mystic_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:crimson_planks",
+      "",
+      "",
+      "mcwtrpdoors:print_mystic",
+      "",
+      "",
+      "minecraft:crimson_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwtrpdoors:crimson_paper_trapdoor": {
+    "result": "mcwtrpdoors:crimson_paper_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:crimson_planks",
+      "",
+      "",
+      "mcwtrpdoors:print_paper",
+      "",
+      "",
+      "minecraft:crimson_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwtrpdoors:crimson_ranch_trapdoor": {
+    "result": "mcwtrpdoors:crimson_ranch_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "minecraft:crimson_stem",
+      "minecraft:stick",
+      "minecraft:crimson_stem",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:crimson_stem",
+      "minecraft:stick",
+      "minecraft:crimson_stem"
+    ]
+  },
+  "mcwtrpdoors:crimson_swamp_trapdoor": {
+    "result": "mcwtrpdoors:crimson_swamp_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:crimson_planks",
+      "",
+      "",
+      "mcwtrpdoors:print_swamp",
+      "",
+      "",
+      "minecraft:crimson_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwtrpdoors:crimson_tropical_trapdoor": {
+    "result": "mcwtrpdoors:crimson_tropical_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:crimson_planks",
+      "",
+      "",
+      "mcwtrpdoors:print_tropical",
+      "",
+      "",
+      "minecraft:crimson_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwtrpdoors:crimson_whispering_trapdoor": {
+    "result": "mcwtrpdoors:crimson_whispering_trapdoor",
+    "count": 1,
+    "ingredients": [
+      "minecraft:crimson_planks",
+      "",
+      "",
+      "mcwtrpdoors:print_whispering",
+      "",
+      "",
+      "minecraft:crimson_planks",
+      "",
+      ""
+    ]
+  },
+  "mcwwindows:crimson_blinds": {
+    "result": "mcwwindows:crimson_blinds",
+    "count": 3,
+    "ingredients": [
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick"
+    ]
+  },
+  "mcwwindows:crimson_curtain_rod": {
+    "result": "mcwwindows:crimson_curtain_rod",
+    "count": 5,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:crimson_stem",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwwindows:crimson_louvered_shutter": {
+    "result": "mcwwindows:crimson_louvered_shutter",
+    "count": 3,
+    "ingredients": [
+      "minecraft:crimson_slab",
+      "",
+      "",
+      "minecraft:crimson_slab",
+      "",
+      "",
+      "minecraft:crimson_slab",
+      "",
+      ""
+    ]
+  },
+  "mcwwindows:crimson_pane_window": {
+    "result": "mcwwindows:crimson_pane_window",
+    "count": 8,
+    "ingredients": [
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "minecraft:crimson_stem",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base"
+    ]
+  },
+  "mcwwindows:crimson_planks_four_window": {
+    "result": "mcwwindows:crimson_planks_four_window",
+    "count": 8,
+    "ingredients": [
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "minecraft:crimson_planks",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base"
+    ]
+  },
+  "mcwwindows:crimson_planks_window": {
+    "result": "mcwwindows:crimson_planks_window",
+    "count": 4,
+    "ingredients": [
+      "",
+      "mcwwindows:window_base",
+      "",
+      "mcwwindows:window_base",
+      "minecraft:crimson_planks",
+      "mcwwindows:window_base",
+      "",
+      "mcwwindows:window_base",
+      ""
+    ]
+  },
+  "mcwwindows:crimson_planks_window2": {
+    "result": "mcwwindows:crimson_planks_window2",
+    "count": 8,
+    "ingredients": [
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "minecraft:crimson_planks",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base"
+    ]
+  },
+  "mcwwindows:crimson_plank_pane_window": {
+    "result": "mcwwindows:crimson_plank_pane_window",
+    "count": 8,
+    "ingredients": [
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "minecraft:crimson_planks",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base",
+      "mcwwindows:window_base"
+    ]
+  },
+  "mcwwindows:crimson_plank_parapet": {
+    "result": "mcwwindows:crimson_plank_parapet",
+    "count": 5,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:crimson_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwwindows:crimson_shutter": {
+    "result": "mcwwindows:crimson_shutter",
+    "count": 3,
+    "ingredients": [
+      "minecraft:crimson_trapdoor",
+      "",
+      "",
+      "minecraft:crimson_trapdoor",
+      "",
+      "",
+      "minecraft:crimson_trapdoor",
+      "",
+      ""
+    ]
+  },
+  "mcwwindows:crimson_stem_four_window": {
+    "result": "mcwwindows:crimson_stem_four_window",
+    "count": 8,
+    "ingredients": [
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "minecraft:crimson_stem",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base",
+      "mcwwindows:window_centre_bar_base"
+    ]
+  },
+  "mcwwindows:crimson_stem_parapet": {
+    "result": "mcwwindows:crimson_stem_parapet",
+    "count": 5,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:crimson_stem",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mcwwindows:crimson_stem_window": {
+    "result": "mcwwindows:crimson_stem_window",
+    "count": 4,
+    "ingredients": [
+      "",
+      "mcwwindows:window_base",
+      "",
+      "mcwwindows:window_base",
+      "minecraft:crimson_stem",
+      "mcwwindows:window_base",
+      "",
+      "mcwwindows:window_base",
+      ""
+    ]
+  },
+  "mcwwindows:crimson_stem_window2": {
+    "result": "mcwwindows:crimson_stem_window2",
+    "count": 8,
+    "ingredients": [
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "minecraft:crimson_stem",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base",
+      "mcwwindows:window_half_bar_base"
+    ]
+  },
+  "mekanism:crafting_formula": {
+    "result": "mekanism:crafting_formula",
+    "count": 1,
+    "ingredients": [
+      "minecraft:paper",
+      "minecraft:basic",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mekanism:crusher": {
+    "result": "mekanism:crusher",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "minecraft:basic",
+      "minecraft:redstone",
+      "minecraft:lava",
+      "mekanism:steel_casing",
+      "minecraft:lava",
+      "minecraft:redstone",
+      "minecraft:basic",
+      "minecraft:redstone"
+    ]
+  },
+  "merrymaking:crimson_mantel": {
+    "result": "merrymaking:crimson_mantel",
+    "count": 1,
+    "ingredients": [
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_planks",
+      "",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks",
+      "",
+      "minecraft:crimson_planks"
+    ]
+  },
+  "merrymaking:crimson_picket_fence": {
+    "result": "merrymaking:crimson_picket_fence",
+    "count": 3,
+    "ingredients": [
+      "minecraft:crimson_planks",
+      "minecraft:stick",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks",
+      "minecraft:stick",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks",
+      "minecraft:stick",
+      "minecraft:crimson_planks"
+    ]
+  },
+  "merrymaking:crimson_picket_fence_gate": {
+    "result": "merrymaking:crimson_picket_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:crimson_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:crimson_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:crimson_planks",
+      "minecraft:stick"
+    ]
+  },
+  "merrymaking:crimson_wreath_door": {
+    "result": "merrymaking:crimson_wreath_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:crimson_door",
+      "merrymaking:christmas_wreath",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:crimson_wreath_fence": {
+    "result": "merrymaking:crimson_wreath_fence",
+    "count": 1,
+    "ingredients": [
+      "merrymaking:crimson_picket_fence",
+      "merrymaking:garland_horizontal",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:crimson_wreath_fence_gate": {
+    "result": "merrymaking:crimson_wreath_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "merrymaking:crimson_picket_fence_gate",
+      "merrymaking:christmas_wreath",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:crimson_wreath_lights_multi_door": {
+    "result": "merrymaking:crimson_wreath_lights_multi_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:crimson_door",
+      "merrymaking:christmas_wreath_multi_lights",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:crimson_wreath_multi_fence": {
+    "result": "merrymaking:crimson_wreath_multi_fence",
+    "count": 1,
+    "ingredients": [
+      "merrymaking:crimson_picket_fence",
+      "merrymaking:garland_horizontal_multi",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:crimson_wreath_multi_fence_gate": {
+    "result": "merrymaking:crimson_wreath_multi_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "merrymaking:crimson_picket_fence_gate",
+      "merrymaking:christmas_wreath_multi_lights",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:crimson_wreath_lights_white_door": {
+    "result": "merrymaking:crimson_wreath_lights_white_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:crimson_door",
+      "merrymaking:christmas_wreath_white_lights",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:crimson_wreath_lights_fence": {
+    "result": "merrymaking:crimson_wreath_lights_fence",
+    "count": 1,
+    "ingredients": [
+      "merrymaking:crimson_picket_fence",
+      "merrymaking:garland_horizontal_lights",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:crimson_wreath_lights_fence_gate": {
+    "result": "merrymaking:crimson_wreath_lights_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "merrymaking:crimson_picket_fence_gate",
+      "merrymaking:christmas_wreath_white_lights",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "merrymaking:crimson_roof_slab": {
+    "result": "merrymaking:crimson_roof_slab",
+    "count": 4,
+    "ingredients": [
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "merrymaking:roof_tiles",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecolonies:creamcheese": {
+    "result": "minecolonies:creamcheese",
+    "count": 2,
+    "ingredients": [
+      "",
+      "minecolonies:large_soy_milk_bottle",
+      "",
+      "minecolonies:large_soy_milk_bottle",
+      "minecolonies:large_soy_milk_bottle",
+      "minecolonies:large_soy_milk_bottle",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:crafter": {
+    "result": "minecraft:crafter",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:crafting_table",
+      "minecraft:iron_ingot",
+      "minecraft:redstone",
+      "minecraft:dropper",
+      "minecraft:redstone"
+    ]
+  },
+  "minecraft:creeper_banner_pattern": {
+    "result": "minecraft:creeper_banner_pattern",
+    "count": 1,
+    "ingredients": [
+      "minecraft:paper",
+      "minecraft:creeper_head",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:crimson_button": {
+    "result": "minecraft:crimson_button",
+    "count": 1,
+    "ingredients": [
+      "minecraft:crimson_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:crimson_fence": {
+    "result": "minecraft:crimson_fence",
+    "count": 3,
+    "ingredients": [
+      "minecraft:crimson_planks",
+      "minecraft:stick",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks",
+      "minecraft:stick",
+      "minecraft:crimson_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:crimson_fence_gate": {
+    "result": "minecraft:crimson_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:crimson_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:crimson_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:crimson_hanging_sign": {
+    "result": "minecraft:crimson_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "minecraft:stripped_crimson_stem",
+      "minecraft:stripped_crimson_stem",
+      "minecraft:stripped_crimson_stem",
+      "minecraft:stripped_crimson_stem",
+      "minecraft:stripped_crimson_stem",
+      "minecraft:stripped_crimson_stem"
+    ]
+  },
+  "minecraft:crimson_hyphae": {
+    "result": "minecraft:crimson_hyphae",
+    "count": 3,
+    "ingredients": [
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:crimson_planks": {
+    "result": "minecraft:crimson_planks",
+    "count": 1,
+    "ingredients": [
+      "minecraft:crimson_slab",
+      "",
+      "",
+      "",
+      "minecraft:crimson_slab",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:crimson_pressure_plate": {
+    "result": "minecraft:crimson_pressure_plate",
+    "count": 4,
+    "ingredients": [
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:crimson_sign": {
+    "result": "minecraft:crimson_sign",
+    "count": 3,
+    "ingredients": [
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks",
+      "minecraft:crimson_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "minecraft:crimson_slab": {
+    "result": "minecraft:crimson_slab",
+    "count": 24,
+    "ingredients": [
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:crimson_stairs": {
+    "result": "minecraft:crimson_stairs",
+    "count": 16,
+    "ingredients": [
+      "minecraft:crimson_stem",
+      "",
+      "",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem",
+      "minecraft:crimson_stem"
+    ]
+  },
+  "minecraft:crossbow": {
+    "result": "minecraft:crossbow",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:iron_ingot",
+      "minecraft:stick",
+      "minecraft:string",
+      "minecraft:tripwire_hook",
+      "minecraft:string",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "create:crimsite": {
+    "result": "create:crimsite",
+    "count": 16,
+    "ingredients": [
+      "mysticalagriculture:stone_essence",
+      "mysticalagriculture:stone_essence",
+      "mysticalagriculture:stone_essence",
+      "mysticalagriculture:stone_essence",
+      "mysticalagriculture:iron_essence",
+      "mysticalagriculture:stone_essence",
+      "mysticalagriculture:stone_essence",
+      "mysticalagriculture:stone_essence",
+      "mysticalagriculture:stone_essence"
+    ]
+  },
+  "minecraft:creeper_head": {
+    "result": "minecraft:creeper_head",
+    "count": 1,
+    "ingredients": [
+      "mysticalagriculture:creeper_essence",
+      "mysticalagriculture:creeper_essence",
+      "mysticalagriculture:creeper_essence",
+      "mysticalagriculture:creeper_essence",
+      "mysticalagriculture:blank_skull",
+      "mysticalagriculture:creeper_essence",
+      "mysticalagriculture:creeper_essence",
+      "mysticalagriculture:creeper_essence",
+      "mysticalagriculture:creeper_essence"
+    ]
+  },
+  "minecraft:crimson_fungus": {
+    "result": "minecraft:crimson_fungus",
+    "count": 4,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "mysticalagriculture:nature_essence",
+      "mysticalagriculture:nether_essence",
+      "mysticalagriculture:nature_essence",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:crimson_nylium": {
+    "result": "minecraft:crimson_nylium",
+    "count": 20,
+    "ingredients": [
+      "mysticalagriculture:nether_essence",
+      "mysticalagriculture:nature_essence",
+      "mysticalagriculture:nether_essence",
+      "mysticalagriculture:nether_essence",
+      "mysticalagriculture:nature_essence",
+      "mysticalagriculture:nether_essence",
+      "mysticalagriculture:nether_essence",
+      "mysticalagriculture:nature_essence",
+      "mysticalagriculture:nether_essence"
+    ]
+  },
+  "minecraft:crimson_stem": {
+    "result": "minecraft:crimson_stem",
+    "count": 12,
+    "ingredients": [
+      "",
+      "",
+      "",
+      "mysticalagriculture:wood_essence",
+      "mysticalagriculture:nether_essence",
+      "mysticalagriculture:wood_essence",
+      "",
+      "",
+      ""
+    ]
+  },
+  "powah:crystal_blazing": {
+    "result": "powah:crystal_blazing",
+    "count": 9,
+    "ingredients": [
+      "powah:blazing_crystal_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "powah:crystal_niotic": {
+    "result": "powah:crystal_niotic",
+    "count": 9,
+    "ingredients": [
+      "powah:niotic_crystal_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "powah:crystal_spirited": {
+    "result": "powah:crystal_spirited",
+    "count": 9,
+    "ingredients": [
+      "powah:spirited_crystal_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "oritech:crop_filter_addon": {
+    "result": "oritech:crop_filter_addon",
+    "count": 1,
+    "ingredients": [
+      "minecraft:carbon_fibre",
+      "minecraft:carbon_fibre",
+      "minecraft:carbon_fibre",
+      "minecraft:carbon_fibre",
+      "oritech:processing_unit",
+      "minecraft:carbon_fibre",
+      "oritech:motor",
+      "minecraft:plating",
+      "oritech:motor"
+    ]
+  },
+  "pamhc2crops:cranberryseeditem": {
+    "result": "pamhc2crops:cranberryseeditem",
+    "count": 1,
+    "ingredients": [
+      "pamhc2crops:cranberryitem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:crackeritem": {
+    "result": "pamhc2foodcore:crackeritem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:flour",
+      "minecraft:salt",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:crackersandcheeseitem": {
+    "result": "pamhc2foodcore:crackersandcheeseitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:cracker",
+      "minecraft:cheese",
+      "minecraft:cracker",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodcore:creamitem": {
+    "result": "pamhc2foodcore:creamitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:milk",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:crackersandcheeseitem": {
+    "result": "pamhc2foodextended:crackersandcheeseitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:cheese",
+      "pamhc2foodcore:crackeritem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:cracklinsitem": {
+    "result": "pamhc2foodextended:cracklinsitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:rawpork",
+      "minecraft:cookingoil",
+      "minecraft:spiceleaf",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:cranberryjellyitem": {
+    "result": "pamhc2foodextended:cranberryjellyitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:cranberry",
+      "minecraft:sugar",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:cranberryjellysandwichitem": {
+    "result": "pamhc2foodextended:cranberryjellysandwichitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:cranberryjelly",
+      "minecraft:bread",
+      "minecraft:nutbutters",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:cranberryjellytoastitem": {
+    "result": "pamhc2foodextended:cranberryjellytoastitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:cranberryjelly",
+      "minecraft:toast",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:cranberryjuiceitem": {
+    "result": "pamhc2foodextended:cranberryjuiceitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_juicer",
+      "minecraft:cranberry",
+      "minecraft:cranberry",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:cranberrypieitem": {
+    "result": "pamhc2foodextended:cranberrypieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:cranberry",
+      "minecraft:sugar",
+      "minecraft:dough",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:cranberrysauceitem": {
+    "result": "pamhc2foodextended:cranberrysauceitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:cranberry",
+      "minecraft:cranberry",
+      "minecraft:sugar",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:cranberrysmoothieitem": {
+    "result": "pamhc2foodextended:cranberrysmoothieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:cranberry",
+      "minecraft:ices",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:cranberryyogurtitem": {
+    "result": "pamhc2foodextended:cranberryyogurtitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:cranberry",
+      "minecraft:yogurt",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:creamedbroccolisoupitem": {
+    "result": "pamhc2foodextended:creamedbroccolisoupitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:broccoli",
+      "minecraft:carrot",
+      "minecraft:flour",
+      "minecraft:blackpepper",
+      "minecraft:stock",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:creamedcornitem": {
+    "result": "pamhc2foodextended:creamedcornitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:corn",
+      "minecraft:onion",
+      "minecraft:cream",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:creamofavocadosoupitem": {
+    "result": "pamhc2foodextended:creamofavocadosoupitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:avocado",
+      "minecraft:cream",
+      "minecraft:lime",
+      "minecraft:spiceleaf",
+      "minecraft:stock",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:creamofchickenitem": {
+    "result": "pamhc2foodextended:creamofchickenitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:rawchicken",
+      "minecraft:cream",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:creamofmushroomitem": {
+    "result": "pamhc2foodextended:creamofmushroomitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:mushrooms",
+      "minecraft:cream",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:crispyricepuffbarsitem": {
+    "result": "pamhc2foodextended:crispyricepuffbarsitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:marshmellows",
+      "minecraft:rice",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:crispyricepuffcerealitem": {
+    "result": "pamhc2foodextended:crispyricepuffcerealitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:rice",
+      "minecraft:milk",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:croissantitem": {
+    "result": "pamhc2foodextended:croissantitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:dough",
+      "minecraft:butter",
+      "minecraft:egg",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pneumaticcraft:crop_support": {
+    "result": "pneumaticcraft:crop_support",
+    "count": 1,
+    "ingredients": [
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "",
+      "",
+      ""
+    ]
+  },
+  "powah:crystal_nitro": {
+    "result": "powah:crystal_nitro",
+    "count": 9,
+    "ingredients": [
+      "powah:nitro_crystal_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:crusher": {
+    "result": "railcraft:crusher",
+    "count": 4,
+    "ingredients": [
+      "minecraft:diamond",
+      "minecraft:piston",
+      "minecraft:diamond",
+      "minecraft:piston",
+      "minecraft:steel",
+      "minecraft:piston",
+      "minecraft:diamond",
+      "railcraft:charge_motor",
+      "minecraft:diamond"
+    ]
+  },
+  "refinedstorage:crafting_grid": {
+    "result": "refinedstorage:crafting_grid",
+    "count": 1,
+    "ingredients": [
+      "refinedstorage:grid",
+      "refinedstorage:advanced_processor",
+      "minecraft:crafting_tables",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "refurbished_furniture:crimson_dark_ceiling_fan": {
+    "result": "refurbished_furniture:crimson_dark_ceiling_fan",
+    "count": 1,
+    "ingredients": [
+      "refurbished_furniture:crimson_light_ceiling_fan",
+      "minecraft:black_dye",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "reliquary:crimson_cloth": {
+    "result": "reliquary:crimson_cloth",
+    "count": 1,
+    "ingredients": [
+      "minecraft:red_wool",
+      "minecraft:black_wool",
+      "reliquary:nebulous_heart",
+      "reliquary:nebulous_heart",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "rftoolsbase:crafting_card": {
+    "result": "rftoolsbase:crafting_card",
+    "count": 8,
+    "ingredients": [
+      "minecraft:paper",
+      "minecraft:crafting_table",
+      "",
+      "minecraft:redstone",
+      "minecraft:paper",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "rftoolsutility:crafter1": {
+    "result": "rftoolsutility:crafter1",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:redstone_torch",
+      "",
+      "minecraft:crafting_table",
+      "rftoolsbase:machine_frame",
+      "minecraft:crafting_table",
+      "",
+      "minecraft:redstone_torch",
+      ""
+    ]
+  },
+  "securitycraft:crystal_quartz": {
+    "result": "securitycraft:crystal_quartz",
+    "count": 1,
+    "ingredients": [
+      "securitycraft:crystal_quartz_item",
+      "securitycraft:crystal_quartz_item",
+      "",
+      "securitycraft:crystal_quartz_item",
+      "securitycraft:crystal_quartz_item",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "securitycraft:crystal_quartz_bricks": {
+    "result": "securitycraft:crystal_quartz_bricks",
+    "count": 4,
+    "ingredients": [
+      "securitycraft:crystal_quartz",
+      "securitycraft:crystal_quartz",
+      "",
+      "securitycraft:crystal_quartz",
+      "securitycraft:crystal_quartz",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "securitycraft:crystal_quartz_item": {
+    "result": "securitycraft:crystal_quartz_item",
+    "count": 9,
+    "ingredients": [
+      "minecraft:prismarine",
+      "minecraft:quartz",
+      "minecraft:prismarine",
+      "minecraft:quartz",
+      "minecraft:prismarine",
+      "minecraft:quartz",
+      "minecraft:prismarine",
+      "minecraft:quartz",
+      "minecraft:prismarine"
+    ]
+  },
+  "securitycraft:crystal_quartz_pillar": {
+    "result": "securitycraft:crystal_quartz_pillar",
+    "count": 2,
+    "ingredients": [
+      "securitycraft:crystal_quartz",
+      "",
+      "",
+      "securitycraft:crystal_quartz",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "securitycraft:crystal_quartz_slab": {
+    "result": "securitycraft:crystal_quartz_slab",
+    "count": 6,
+    "ingredients": [
+      "securitycraft:crystal_quartz",
+      "securitycraft:crystal_quartz",
+      "securitycraft:crystal_quartz",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "securitycraft:crystal_quartz_stairs": {
+    "result": "securitycraft:crystal_quartz_stairs",
+    "count": 4,
+    "ingredients": [
+      "securitycraft:crystal_quartz",
+      "",
+      "",
+      "securitycraft:crystal_quartz",
+      "securitycraft:crystal_quartz",
+      "",
+      "securitycraft:crystal_quartz",
+      "securitycraft:crystal_quartz",
+      "securitycraft:crystal_quartz"
+    ]
+  },
+  "silentgear:crimson_iron_ingot": {
+    "result": "silentgear:crimson_iron_ingot",
+    "count": 1,
+    "ingredients": [
+      "silentgear:crimson_iron_nugget",
+      "silentgear:crimson_iron_nugget",
+      "silentgear:crimson_iron_nugget",
+      "silentgear:crimson_iron_nugget",
+      "silentgear:crimson_iron_nugget",
+      "silentgear:crimson_iron_nugget",
+      "silentgear:crimson_iron_nugget",
+      "silentgear:crimson_iron_nugget",
+      "silentgear:crimson_iron_nugget"
+    ]
+  },
+  "silentgear:crimson_iron_block": {
+    "result": "silentgear:crimson_iron_block",
+    "count": 1,
+    "ingredients": [
+      "silentgear:crimson_iron_ingot",
+      "silentgear:crimson_iron_ingot",
+      "silentgear:crimson_iron_ingot",
+      "silentgear:crimson_iron_ingot",
+      "silentgear:crimson_iron_ingot",
+      "silentgear:crimson_iron_ingot",
+      "silentgear:crimson_iron_ingot",
+      "silentgear:crimson_iron_ingot",
+      "silentgear:crimson_iron_ingot"
+    ]
+  },
+  "silentgear:crimson_iron_nugget": {
+    "result": "silentgear:crimson_iron_nugget",
+    "count": 9,
+    "ingredients": [
+      "silentgear:crimson_iron_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgear:crimson_repair_kit": {
+    "result": "silentgear:crimson_repair_kit",
+    "count": 1,
+    "ingredients": [
+      "silentgear:crimson_repair_kit",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgear:crimson_steel_ingot": {
+    "result": "silentgear:crimson_steel_ingot",
+    "count": 1,
+    "ingredients": [
+      "silentgear:crimson_steel_nugget",
+      "silentgear:crimson_steel_nugget",
+      "silentgear:crimson_steel_nugget",
+      "silentgear:crimson_steel_nugget",
+      "silentgear:crimson_steel_nugget",
+      "silentgear:crimson_steel_nugget",
+      "silentgear:crimson_steel_nugget",
+      "silentgear:crimson_steel_nugget",
+      "silentgear:crimson_steel_nugget"
+    ]
+  },
+  "silentgear:crimson_steel_block": {
+    "result": "silentgear:crimson_steel_block",
+    "count": 1,
+    "ingredients": [
+      "silentgear:crimson_steel_ingot",
+      "silentgear:crimson_steel_ingot",
+      "silentgear:crimson_steel_ingot",
+      "silentgear:crimson_steel_ingot",
+      "silentgear:crimson_steel_ingot",
+      "silentgear:crimson_steel_ingot",
+      "silentgear:crimson_steel_ingot",
+      "silentgear:crimson_steel_ingot",
+      "silentgear:crimson_steel_ingot"
+    ]
+  },
+  "silentgear:crimson_steel_nugget": {
+    "result": "silentgear:crimson_steel_nugget",
+    "count": 9,
+    "ingredients": [
+      "silentgear:crimson_steel_ingot",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgear:crossbow_blueprint": {
+    "result": "silentgear:crossbow_blueprint",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:paper",
+      "minecraft:stick",
+      "minecraft:paper",
+      "minecraft:paper",
+      "minecraft:paper",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "silentgear:crossbow_template": {
+    "result": "silentgear:crossbow_template",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:template_boards",
+      "minecraft:stick",
+      "minecraft:template_boards",
+      "minecraft:template_boards",
+      "minecraft:template_boards",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "silentgear:crude_hammer": {
+    "result": "silentgear:crude_hammer",
+    "count": 1,
+    "ingredients": [
+      "minecraft:cobblestone",
+      "minecraft:cobblestone",
+      "",
+      "",
+      "silentgear:crude_tool_parts",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgear:crude_knife": {
+    "result": "silentgear:crude_knife",
+    "count": 1,
+    "ingredients": [
+      "minecraft:cobblestone",
+      "",
+      "",
+      "silentgear:crude_tool_parts",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgear:crude_mixer": {
+    "result": "silentgear:crude_mixer",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stone",
+      "silentgear:flax_string",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:oak_planks",
+      "minecraft:stone",
+      "",
+      "minecraft:stone",
+      ""
+    ]
+  },
+  "silentgear:crude_repair_kit": {
+    "result": "silentgear:crude_repair_kit",
+    "count": 1,
+    "ingredients": [
+      "silentgear:crude_repair_kit",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgear:crude_tool_parts": {
+    "result": "silentgear:crude_tool_parts",
+    "count": 4,
+    "ingredients": [
+      "minecraft:cobblestone",
+      "minecraft:dirt",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "sophisticatedbackpacks:crafting_upgrade": {
+    "result": "sophisticatedbackpacks:crafting_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:string",
+      "sophisticatedstorage:crafting_upgrade",
+      "minecraft:string",
+      "",
+      "minecraft:leather",
+      "",
+      "minecraft:string",
+      "",
+      "minecraft:string"
+    ]
+  },
+  "sophisticatedstorage:crafting_upgrade": {
+    "result": "sophisticatedstorage:crafting_upgrade",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_planks",
+      "sophisticatedbackpacks:crafting_upgrade",
+      "minecraft:oak_planks",
+      "",
+      "minecraft:oak_planks",
+      "",
+      "minecraft:oak_planks",
+      "",
+      "minecraft:oak_planks"
+    ]
+  },
+  "sophisticatedstorage:crimson_storage_connector": {
+    "result": "sophisticatedstorage:crimson_storage_connector",
+    "count": 4,
+    "ingredients": [
+      "minecraft:stick",
+      "minecraft:crimson_planks",
+      "minecraft:stick",
+      "minecraft:crimson_planks",
+      "minecraft:stick",
+      "minecraft:crimson_planks",
+      "minecraft:stick",
+      "minecraft:crimson_planks",
+      "minecraft:stick"
+    ]
+  },
+  "storagedelight:crimson_bookshelf_with_door": {
+    "result": "storagedelight:crimson_bookshelf_with_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_trapdoor",
+      "minecraft:crimson_slab",
+      "minecraft:bookshelf",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab"
+    ]
+  },
+  "storagedelight:crimson_cabinet_with_glass_doors": {
+    "result": "storagedelight:crimson_cabinet_with_glass_doors",
+    "count": 1,
+    "ingredients": [
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "minecraft:glass",
+      "minecraft:crimson_trapdoor",
+      "minecraft:glass",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab"
+    ]
+  },
+  "storagedelight:crimson_cabinet_with_polished_andesite_countertop": {
+    "result": "storagedelight:crimson_cabinet_with_polished_andesite_countertop",
+    "count": 1,
+    "ingredients": [
+      "minecraft:polished_andesite_slab",
+      "minecraft:polished_andesite_slab",
+      "minecraft:polished_andesite_slab",
+      "minecraft:crimson_trapdoor",
+      "",
+      "minecraft:crimson_trapdoor",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab"
+    ]
+  },
+  "storagedelight:crimson_cabinet_with_polished_deepslate_countertop": {
+    "result": "storagedelight:crimson_cabinet_with_polished_deepslate_countertop",
+    "count": 1,
+    "ingredients": [
+      "minecraft:polished_deepslate_slab",
+      "minecraft:polished_deepslate_slab",
+      "minecraft:polished_deepslate_slab",
+      "minecraft:crimson_trapdoor",
+      "",
+      "minecraft:crimson_trapdoor",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab"
+    ]
+  },
+  "storagedelight:crimson_cabinet_with_polished_tuff_countertop": {
+    "result": "storagedelight:crimson_cabinet_with_polished_tuff_countertop",
+    "count": 1,
+    "ingredients": [
+      "minecraft:polished_tuff_slab",
+      "minecraft:polished_tuff_slab",
+      "minecraft:polished_tuff_slab",
+      "minecraft:crimson_trapdoor",
+      "",
+      "minecraft:crimson_trapdoor",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab"
+    ]
+  },
+  "storagedelight:crimson_drawer": {
+    "result": "storagedelight:crimson_drawer",
+    "count": 1,
+    "ingredients": [
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_trapdoor",
+      "minecraft:crimson_trapdoor",
+      "minecraft:crimson_trapdoor",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab"
+    ]
+  },
+  "storagedelight:crimson_drawer_with_books": {
+    "result": "storagedelight:crimson_drawer_with_books",
+    "count": 1,
+    "ingredients": [
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_trapdoor",
+      "minecraft:crimson_trapdoor",
+      "minecraft:crimson_trapdoor",
+      "minecraft:crimson_slab",
+      "minecraft:bookshelf",
+      "minecraft:crimson_slab"
+    ]
+  },
+  "storagedelight:crimson_drawer_with_door": {
+    "result": "storagedelight:crimson_drawer_with_door",
+    "count": 1,
+    "ingredients": [
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_trapdoor",
+      "minecraft:crimson_trapdoor",
+      "minecraft:crimson_trapdoor",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_trapdoor",
+      "minecraft:crimson_slab"
+    ]
+  },
+  "storagedelight:crimson_single_door_cabinet": {
+    "result": "storagedelight:crimson_single_door_cabinet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "",
+      "minecraft:crimson_trapdoor",
+      "",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab"
+    ]
+  },
+  "supplementaries:crank": {
+    "result": "supplementaries:crank",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:stick",
+      "",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:stone",
+      "",
+      "",
+      ""
+    ]
+  },
+  "supplementaries:crystal_display": {
+    "result": "supplementaries:crystal_display",
+    "count": 2,
+    "ingredients": [
+      "minecraft:deepslate",
+      "minecraft:amethyst_shard",
+      "",
+      "minecraft:deepslate",
+      "minecraft:amethyst_shard",
+      "",
+      "minecraft:deepslate",
+      "minecraft:amethyst_shard",
+      ""
+    ]
+  },
+  "theurgy:crystallized_lava": {
+    "result": "theurgy:crystallized_lava",
+    "count": 1,
+    "ingredients": [
+      "minecraft:alchemical_salts",
+      "minecraft:lava_bucket",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "theurgy:crystallized_water": {
+    "result": "theurgy:crystallized_water",
+    "count": 1,
+    "ingredients": [
+      "minecraft:alchemical_salts",
+      "minecraft:water_bucket",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "the_bumblezone:crystal_cannon": {
+    "result": "the_bumblezone:crystal_cannon",
+    "count": 1,
+    "ingredients": [
+      "the_bumblezone:honey_crystal_shards",
+      "the_bumblezone:bee_cannon",
+      "the_bumblezone:honey_crystal_shards",
+      "",
+      "the_bumblezone:honey_crystal",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:cracked_castle_brick_stairs": {
+    "result": "twilightforest:cracked_castle_brick_stairs",
+    "count": 8,
+    "ingredients": [
+      "twilightforest:cracked_castle_brick",
+      "",
+      "",
+      "twilightforest:cracked_castle_brick",
+      "twilightforest:cracked_castle_brick",
+      "",
+      "twilightforest:cracked_castle_brick",
+      "twilightforest:cracked_castle_brick",
+      "twilightforest:cracked_castle_brick"
+    ]
+  },
+  "twilightforest:cracked_nagastone_stairs_left": {
+    "result": "twilightforest:cracked_nagastone_stairs_left",
+    "count": 8,
+    "ingredients": [
+      "twilightforest:cracked_etched_nagastone",
+      "",
+      "",
+      "twilightforest:cracked_etched_nagastone",
+      "twilightforest:cracked_etched_nagastone",
+      "",
+      "twilightforest:cracked_etched_nagastone",
+      "twilightforest:cracked_etched_nagastone",
+      "twilightforest:cracked_etched_nagastone"
+    ]
+  },
+  "twilightforest:cracked_nagastone_stairs_right": {
+    "result": "twilightforest:cracked_nagastone_stairs_right",
+    "count": 8,
+    "ingredients": [
+      "twilightforest:cracked_etched_nagastone",
+      "twilightforest:cracked_etched_nagastone",
+      "twilightforest:cracked_etched_nagastone",
+      "",
+      "twilightforest:cracked_etched_nagastone",
+      "twilightforest:cracked_etched_nagastone",
+      "",
+      "",
+      "twilightforest:cracked_etched_nagastone"
+    ]
+  },
+  "twilightforest:crimson_banister": {
+    "result": "twilightforest:crimson_banister",
+    "count": 3,
+    "ingredients": [
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "minecraft:stick",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:crimson_drying_rack": {
+    "result": "twilightforest:crimson_drying_rack",
+    "count": 1,
+    "ingredients": [
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "minecraft:crimson_slab",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "undergarden:crumbling_catalyst": {
+    "result": "undergarden:crumbling_catalyst",
+    "count": 1,
+    "ingredients": [
+      "minecraft:oak_log",
+      "undergarden:depthrock",
+      "minecraft:oak_log",
+      "undergarden:depthrock",
+      "minecraft:forgotten_metal",
+      "undergarden:depthrock",
+      "minecraft:oak_log",
+      "undergarden:depthrock",
+      "minecraft:oak_log"
+    ]
+  },
+  "xtonesreworked:cray_block_0": {
+    "result": "xtonesreworked:cray_block_0",
+    "count": 8,
+    "ingredients": [
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:white",
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:cray"
+    ]
+  },
+  "xtonesreworked:cray_block_1": {
+    "result": "xtonesreworked:cray_block_1",
+    "count": 8,
+    "ingredients": [
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:yellow",
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:cray"
+    ]
+  },
+  "xtonesreworked:cray_block_10": {
+    "result": "xtonesreworked:cray_block_10",
+    "count": 8,
+    "ingredients": [
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:magenta",
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:cray"
+    ]
+  },
+  "xtonesreworked:cray_block_11": {
+    "result": "xtonesreworked:cray_block_11",
+    "count": 8,
+    "ingredients": [
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:pink",
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:cray"
+    ]
+  },
+  "xtonesreworked:cray_block_12": {
+    "result": "xtonesreworked:cray_block_12",
+    "count": 8,
+    "ingredients": [
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:red",
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:cray"
+    ]
+  },
+  "xtonesreworked:cray_block_13": {
+    "result": "xtonesreworked:cray_block_13",
+    "count": 8,
+    "ingredients": [
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:orange",
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:cray"
+    ]
+  },
+  "xtonesreworked:cray_block_14": {
+    "result": "xtonesreworked:cray_block_14",
+    "count": 8,
+    "ingredients": [
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:brown",
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:cray"
+    ]
+  },
+  "xtonesreworked:cray_block_15": {
+    "result": "xtonesreworked:cray_block_15",
+    "count": 8,
+    "ingredients": [
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:light_gray",
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:cray"
+    ]
+  },
+  "xtonesreworked:cray_block_2": {
+    "result": "xtonesreworked:cray_block_2",
+    "count": 8,
+    "ingredients": [
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:lime",
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:cray"
+    ]
+  },
+  "xtonesreworked:cray_block_3": {
+    "result": "xtonesreworked:cray_block_3",
+    "count": 8,
+    "ingredients": [
+      "minecraft:cray",
+      "minecraft:green",
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:cray"
+    ]
+  },
+  "xtonesreworked:cray_block_4": {
+    "result": "xtonesreworked:cray_block_4",
+    "count": 8,
+    "ingredients": [
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:green",
+      "minecraft:cray"
+    ]
+  },
+  "xtonesreworked:cray_block_5": {
+    "result": "xtonesreworked:cray_block_5",
+    "count": 8,
+    "ingredients": [
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:cyan",
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:cray"
+    ]
+  },
+  "xtonesreworked:cray_block_6": {
+    "result": "xtonesreworked:cray_block_6",
+    "count": 8,
+    "ingredients": [
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:light_blue",
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:cray"
+    ]
+  },
+  "xtonesreworked:cray_block_7": {
+    "result": "xtonesreworked:cray_block_7",
+    "count": 8,
+    "ingredients": [
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:blue",
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:cray"
+    ]
+  },
+  "xtonesreworked:cray_block_8": {
+    "result": "xtonesreworked:cray_block_8",
+    "count": 8,
+    "ingredients": [
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:purple",
+      "minecraft:cray"
+    ]
+  },
+  "xtonesreworked:cray_block_9": {
+    "result": "xtonesreworked:cray_block_9",
+    "count": 8,
+    "ingredients": [
+      "minecraft:cray",
+      "minecraft:purple",
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:cray",
+      "minecraft:cray"
+    ]
+  },
+  "xycraft_override:crying_obsidian_blue": {
+    "result": "xycraft_override:crying_obsidian_blue",
+    "count": 2,
+    "ingredients": [
+      "xycraft_world:xychorium_gem_blue",
+      "minecraft:crying_obsidian",
+      "",
+      "minecraft:crying_obsidian",
+      "xycraft_world:xychorium_gem_blue",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xycraft_override:crying_obsidian_dark": {
+    "result": "xycraft_override:crying_obsidian_dark",
+    "count": 2,
+    "ingredients": [
+      "xycraft_world:xychorium_gem_dark",
+      "minecraft:crying_obsidian",
+      "",
+      "minecraft:crying_obsidian",
+      "xycraft_world:xychorium_gem_dark",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xycraft_override:crying_obsidian_green": {
+    "result": "xycraft_override:crying_obsidian_green",
+    "count": 2,
+    "ingredients": [
+      "xycraft_world:xychorium_gem_green",
+      "minecraft:crying_obsidian",
+      "",
+      "minecraft:crying_obsidian",
+      "xycraft_world:xychorium_gem_green",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xycraft_override:crying_obsidian_light": {
+    "result": "xycraft_override:crying_obsidian_light",
+    "count": 2,
+    "ingredients": [
+      "xycraft_world:xychorium_gem_light",
+      "minecraft:crying_obsidian",
+      "",
+      "minecraft:crying_obsidian",
+      "xycraft_world:xychorium_gem_light",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xycraft_override:crying_obsidian_red": {
+    "result": "xycraft_override:crying_obsidian_red",
+    "count": 2,
+    "ingredients": [
+      "xycraft_world:xychorium_gem_red",
+      "minecraft:crying_obsidian",
+      "",
+      "minecraft:crying_obsidian",
+      "xycraft_world:xychorium_gem_red",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

@@ -1,0 +1,1097 @@
+{
+  "aquaculture:tackle_box": {
+    "result": "aquaculture:tackle_box",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tackle_box_green",
+      "minecraft:iron_ingot",
+      "minecraft:tackle_box_green",
+      "minecraft:iron_ingot",
+      "minecraft:chest",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "bibliocraft:tape_measure": {
+    "result": "bibliocraft:tape_measure",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      "bibliocraft:tape_reel",
+      "minecraft:iron_ingot",
+      "",
+      "minecraft:iron_ingot",
+      ""
+    ]
+  },
+  "bibliocraft:tape_reel": {
+    "result": "bibliocraft:tape_reel",
+    "count": 1,
+    "ingredients": [
+      "minecraft:string",
+      "minecraft:string",
+      "minecraft:string",
+      "minecraft:string",
+      "minecraft:yellow",
+      "minecraft:string",
+      "minecraft:string",
+      "minecraft:string",
+      "minecraft:string"
+    ]
+  },
+  "dummmmmmy:target_dummy": {
+    "result": "dummmmmmy:target_dummy",
+    "count": 1,
+    "ingredients": [
+      "minecraft:hay_block",
+      "",
+      "",
+      "minecraft:armor_stand",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "enderdrives:tape_disk": {
+    "result": "enderdrives:tape_disk",
+    "count": 1,
+    "ingredients": [
+      "ae2:quartz_vibrant_glass",
+      "ae2:sky_dust",
+      "ae2:quartz_vibrant_glass",
+      "ae2:sky_dust",
+      "ae2:cell_component_256k",
+      "ae2:sky_dust",
+      "minecraft:netherite_ingot",
+      "ae2:light_blue_paint_ball",
+      "minecraft:netherite_ingot"
+    ]
+  },
+  "extendedae:tag_export_bus": {
+    "result": "extendedae:tag_export_bus",
+    "count": 1,
+    "ingredients": [
+      "",
+      "ae2:logic_processor",
+      "",
+      "minecraft:redstone",
+      "ae2:export_bus",
+      "minecraft:redstone",
+      "",
+      "minecraft:book",
+      ""
+    ]
+  },
+  "extendedae:tag_storage_bus": {
+    "result": "extendedae:tag_storage_bus",
+    "count": 1,
+    "ingredients": [
+      "",
+      "ae2:logic_processor",
+      "",
+      "minecraft:redstone",
+      "ae2:storage_bus",
+      "minecraft:redstone",
+      "",
+      "minecraft:book",
+      ""
+    ]
+  },
+  "farmersdelight:tatami": {
+    "result": "farmersdelight:tatami",
+    "count": 1,
+    "ingredients": [
+      "farmersdelight:full_tatami_mat",
+      "farmersdelight:full_tatami_mat",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "ftbquests:task_screen_configurator": {
+    "result": "ftbquests:task_screen_configurator",
+    "count": 1,
+    "ingredients": [
+      "",
+      "ftbquests:screen_1",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "herbsandharvest:taco": {
+    "result": "herbsandharvest:taco",
+    "count": 3,
+    "ingredients": [
+      "minecraft:cooked_beef",
+      "minecraft:corn",
+      "minecraft:cheddar",
+      "minecraft:lettuce",
+      "minecraft:onion",
+      "minecraft:tomato",
+      "minecraft:sour_cream",
+      "",
+      ""
+    ]
+  },
+  "little_big_redstone:tag": {
+    "result": "little_big_redstone:tag",
+    "count": 1,
+    "ingredients": [
+      "minecraft:ender_pearl",
+      "minecraft:quartz",
+      "minecraft:gold_ingot",
+      "minecraft:ender_pearl",
+      "little_big_redstone:redstone_bit",
+      "minecraft:redstone",
+      "minecraft:ender_pearl",
+      "minecraft:quartz",
+      "minecraft:gold_ingot"
+    ]
+  },
+  "mcwlights:tavern_lantern": {
+    "result": "mcwlights:tavern_lantern",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:iron_nugget",
+      "",
+      "minecraft:iron_nugget",
+      "minecraft:torch",
+      "minecraft:iron_nugget",
+      "",
+      "minecraft:iron_nugget",
+      ""
+    ]
+  },
+  "mcwlights:tavern_wall_lantern": {
+    "result": "mcwlights:tavern_wall_lantern",
+    "count": 1,
+    "ingredients": [
+      "minecraft:wooden_fences",
+      "mcwlights:tavern_lantern",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "measurements:tape_measure": {
+    "result": "measurements:tape_measure",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:gray_wool",
+      "",
+      "minecraft:gray_wool",
+      "minecraft:iron_ingot",
+      "minecraft:yellow_wool",
+      "",
+      "minecraft:gray_wool",
+      "minecraft:yellow_wool"
+    ]
+  },
+  "minecraft:tall_grass": {
+    "result": "minecraft:tall_grass",
+    "count": 1,
+    "ingredients": [
+      "minecraft:short_grass",
+      "minecraft:short_grass",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "minecraft:target": {
+    "result": "minecraft:target",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:redstone",
+      "",
+      "minecraft:redstone",
+      "minecraft:hay_block",
+      "minecraft:redstone",
+      "",
+      "minecraft:redstone",
+      ""
+    ]
+  },
+  "mob_grinding_utils:tank": {
+    "result": "mob_grinding_utils:tank",
+    "count": 1,
+    "ingredients": [
+      "mob_grinding_utils:tank",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "mob_grinding_utils:tank_sink": {
+    "result": "mob_grinding_utils:tank_sink",
+    "count": 1,
+    "ingredients": [
+      "mob_grinding_utils:tank_sink",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "modularrouters:tag_filter": {
+    "result": "modularrouters:tag_filter",
+    "count": 1,
+    "ingredients": [
+      "modularrouters:bulk_item_filter",
+      "minecraft:paper",
+      "minecraft:black",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "naturesaura:tainted_gold": {
+    "result": "naturesaura:tainted_gold",
+    "count": 9,
+    "ingredients": [
+      "naturesaura:tainted_gold_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "naturesaura:tainted_gold_block": {
+    "result": "naturesaura:tainted_gold_block",
+    "count": 1,
+    "ingredients": [
+      "naturesaura:tainted_gold",
+      "naturesaura:tainted_gold",
+      "naturesaura:tainted_gold",
+      "naturesaura:tainted_gold",
+      "naturesaura:tainted_gold",
+      "naturesaura:tainted_gold",
+      "naturesaura:tainted_gold",
+      "naturesaura:tainted_gold",
+      "naturesaura:tainted_gold"
+    ]
+  },
+  "occultism:tallow": {
+    "result": "occultism:tallow",
+    "count": 9,
+    "ingredients": [
+      "occultism:tallow_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "occultism:tallow_block": {
+    "result": "occultism:tallow_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tallow",
+      "minecraft:tallow",
+      "minecraft:tallow",
+      "minecraft:tallow",
+      "minecraft:tallow",
+      "minecraft:tallow",
+      "minecraft:tallow",
+      "minecraft:tallow",
+      "minecraft:tallow"
+    ]
+  },
+  "oritech:target_designator": {
+    "result": "oritech:target_designator",
+    "count": 1,
+    "ingredients": [
+      "",
+      "oritech:processing_unit",
+      "",
+      "oritech:processing_unit",
+      "minecraft:plastic",
+      "oritech:processing_unit",
+      "minecraft:electrum",
+      "modern_industrialization:steel_ingot",
+      "modern_industrialization:steel_ingot"
+    ]
+  },
+  "pamhc2crops:taroseeditem": {
+    "result": "pamhc2crops:taroseeditem",
+    "count": 1,
+    "ingredients": [
+      "pamhc2crops:taroitem",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:tacoitem": {
+    "result": "pamhc2foodextended:tacoitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:rawbeef",
+      "minecraft:lettuce",
+      "minecraft:cheese",
+      "minecraft:tortilla",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:taiyakiitem": {
+    "result": "pamhc2foodextended:taiyakiitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_skillet",
+      "minecraft:dough",
+      "pamhc2foodextended:misopasteitem",
+      "minecraft:sugar",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:tamarindjellyitem": {
+    "result": "pamhc2foodextended:tamarindjellyitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_saucepan",
+      "minecraft:tamarind",
+      "minecraft:sugar",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:tamarindjellysandwichitem": {
+    "result": "pamhc2foodextended:tamarindjellysandwichitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:tamarindjelly",
+      "minecraft:bread",
+      "minecraft:nutbutters",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:tamarindjellytoastitem": {
+    "result": "pamhc2foodextended:tamarindjellytoastitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:tamarindjelly",
+      "minecraft:toast",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:tamarindjuiceitem": {
+    "result": "pamhc2foodextended:tamarindjuiceitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_juicer",
+      "minecraft:tamarind",
+      "minecraft:tamarind",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:tamarindpieitem": {
+    "result": "pamhc2foodextended:tamarindpieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:tamarind",
+      "minecraft:sugar",
+      "minecraft:dough",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:tamarindsmoothieitem": {
+    "result": "pamhc2foodextended:tamarindsmoothieitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_mixingbowl",
+      "minecraft:tamarind",
+      "minecraft:ices",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:tamarindyogurtitem": {
+    "result": "pamhc2foodextended:tamarindyogurtitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:tamarind",
+      "minecraft:yogurt",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:tatertotsitem": {
+    "result": "pamhc2foodextended:tatertotsitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:potato",
+      "minecraft:flour",
+      "minecraft:salt",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2trees:tamarind_sapling": {
+    "result": "pamhc2trees:tamarind_sapling",
+    "count": 1,
+    "ingredients": [
+      "pamhc2trees:tamarinditem",
+      "pamhc2trees:tamarinditem",
+      "pamhc2trees:tamarinditem",
+      "pamhc2trees:tamarinditem",
+      "pamhc2trees:tamarinditem",
+      "pamhc2trees:tamarinditem",
+      "pamhc2trees:tamarinditem",
+      "pamhc2trees:tamarinditem",
+      "minecraft:saplings"
+    ]
+  },
+  "pneumaticcraft:tag_workbench": {
+    "result": "pneumaticcraft:tag_workbench",
+    "count": 1,
+    "ingredients": [
+      "minecraft:writable_book",
+      "",
+      "",
+      "pneumaticcraft:display_table",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:tangerine_bookshelf": {
+    "result": "productivetrees:tangerine_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:tangerine_planks",
+      "productivetrees:tangerine_planks",
+      "productivetrees:tangerine_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:tangerine_planks",
+      "productivetrees:tangerine_planks",
+      "productivetrees:tangerine_planks"
+    ]
+  },
+  "productivetrees:tangerine_button": {
+    "result": "productivetrees:tangerine_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:tangerine_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:tangerine_crate": {
+    "result": "productivetrees:tangerine_crate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tangerine",
+      "minecraft:tangerine",
+      "minecraft:tangerine",
+      "minecraft:tangerine",
+      "productivetrees:tangerine",
+      "minecraft:tangerine",
+      "minecraft:tangerine",
+      "minecraft:tangerine",
+      "minecraft:tangerine"
+    ]
+  },
+  "productivetrees:tangerine": {
+    "result": "productivetrees:tangerine",
+    "count": 9,
+    "ingredients": [
+      "productivetrees:tangerine_crate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:tangerine_door": {
+    "result": "productivetrees:tangerine_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:tangerine_planks",
+      "productivetrees:tangerine_planks",
+      "",
+      "productivetrees:tangerine_planks",
+      "productivetrees:tangerine_planks",
+      "",
+      "productivetrees:tangerine_planks",
+      "productivetrees:tangerine_planks",
+      ""
+    ]
+  },
+  "productivetrees:tangerine_fence": {
+    "result": "productivetrees:tangerine_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:tangerine_planks",
+      "minecraft:stick",
+      "productivetrees:tangerine_planks",
+      "productivetrees:tangerine_planks",
+      "minecraft:stick",
+      "productivetrees:tangerine_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:tangerine_fence_gate": {
+    "result": "productivetrees:tangerine_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:tangerine_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:tangerine_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:tangerine_hanging_sign": {
+    "result": "productivetrees:tangerine_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:tangerine_planks",
+      "productivetrees:tangerine_planks",
+      "productivetrees:tangerine_planks",
+      "productivetrees:tangerine_planks",
+      "productivetrees:tangerine_planks",
+      "productivetrees:tangerine_planks"
+    ]
+  },
+  "productivetrees:tangerine_planks": {
+    "result": "productivetrees:tangerine_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:tangerine_pressure_plate": {
+    "result": "productivetrees:tangerine_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:tangerine_planks",
+      "productivetrees:tangerine_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:tangerine_sign": {
+    "result": "productivetrees:tangerine_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:tangerine_planks",
+      "productivetrees:tangerine_planks",
+      "productivetrees:tangerine_planks",
+      "productivetrees:tangerine_planks",
+      "productivetrees:tangerine_planks",
+      "productivetrees:tangerine_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:tangerine_slab": {
+    "result": "productivetrees:tangerine_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:tangerine_planks",
+      "productivetrees:tangerine_planks",
+      "productivetrees:tangerine_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:tangerine_stairs": {
+    "result": "productivetrees:tangerine_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:tangerine_planks",
+      "",
+      "",
+      "productivetrees:tangerine_planks",
+      "productivetrees:tangerine_planks",
+      "",
+      "productivetrees:tangerine_planks",
+      "productivetrees:tangerine_planks",
+      "productivetrees:tangerine_planks"
+    ]
+  },
+  "productivetrees:tangerine_trapdoor": {
+    "result": "productivetrees:tangerine_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:tangerine_planks",
+      "productivetrees:tangerine_planks",
+      "productivetrees:tangerine_planks",
+      "productivetrees:tangerine_planks",
+      "productivetrees:tangerine_planks",
+      "productivetrees:tangerine_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:tangerine_wood": {
+    "result": "productivetrees:tangerine_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:tangerine_log",
+      "productivetrees:tangerine_log",
+      "",
+      "productivetrees:tangerine_log",
+      "productivetrees:tangerine_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "railcraft:tank_detector": {
+    "result": "railcraft:tank_detector",
+    "count": 1,
+    "ingredients": [
+      "minecraft:brick",
+      "minecraft:brick",
+      "minecraft:brick",
+      "minecraft:brick",
+      "minecraft:stone_pressure_plate",
+      "minecraft:brick",
+      "minecraft:brick",
+      "minecraft:brick",
+      "minecraft:brick"
+    ]
+  },
+  "railcraft:tank_minecart": {
+    "result": "railcraft:tank_minecart",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glass",
+      "",
+      "",
+      "minecraft:minecart",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:tall_blue_bioshroom": {
+    "result": "regions_unexplored:tall_blue_bioshroom",
+    "count": 1,
+    "ingredients": [
+      "regions_unexplored:blue_bioshroom",
+      "",
+      "",
+      "regions_unexplored:blue_bioshroom",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:tall_green_bioshroom": {
+    "result": "regions_unexplored:tall_green_bioshroom",
+    "count": 1,
+    "ingredients": [
+      "regions_unexplored:green_bioshroom",
+      "",
+      "",
+      "regions_unexplored:green_bioshroom",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:tall_pink_bioshroom": {
+    "result": "regions_unexplored:tall_pink_bioshroom",
+    "count": 1,
+    "ingredients": [
+      "regions_unexplored:pink_bioshroom",
+      "",
+      "",
+      "regions_unexplored:pink_bioshroom",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "regions_unexplored:tall_yellow_bioshroom": {
+    "result": "regions_unexplored:tall_yellow_bioshroom",
+    "count": 1,
+    "ingredients": [
+      "regions_unexplored:yellow_bioshroom",
+      "",
+      "",
+      "regions_unexplored:yellow_bioshroom",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "rftoolsbase:tablet": {
+    "result": "rftoolsbase:tablet",
+    "count": 1,
+    "ingredients": [
+      "minecraft:gold",
+      "minecraft:emerald",
+      "minecraft:gold",
+      "minecraft:redstone_block",
+      "minecraft:quartz_block",
+      "minecraft:redstone_block",
+      "minecraft:gold",
+      "minecraft:redstone_block",
+      "minecraft:gold"
+    ]
+  },
+  "rftoolsutility:tank": {
+    "result": "rftoolsutility:tank",
+    "count": 1,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:bucket",
+      "rftoolsbase:machine_frame",
+      "minecraft:bucket",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "securitycraft:taser": {
+    "result": "securitycraft:taser",
+    "count": 1,
+    "ingredients": [
+      "minecraft:bow",
+      "minecraft:gold_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:redstone",
+      "minecraft:stick",
+      "minecraft:gold_ingot",
+      "",
+      "",
+      "minecraft:stick"
+    ]
+  },
+  "silentgems:tanzanite": {
+    "result": "silentgems:tanzanite",
+    "count": 9,
+    "ingredients": [
+      "silentgems:tanzanite_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgems:tanzanite_bricks": {
+    "result": "silentgems:tanzanite_bricks",
+    "count": 12,
+    "ingredients": [
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:tanzanite",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks"
+    ]
+  },
+  "silentgems:tanzanite_block": {
+    "result": "silentgems:tanzanite_block",
+    "count": 1,
+    "ingredients": [
+      "silentgems:tanzanite",
+      "silentgems:tanzanite",
+      "silentgems:tanzanite",
+      "silentgems:tanzanite",
+      "silentgems:tanzanite",
+      "silentgems:tanzanite",
+      "silentgems:tanzanite",
+      "silentgems:tanzanite",
+      "silentgems:tanzanite"
+    ]
+  },
+  "silentgems:tanzanite_glass": {
+    "result": "silentgems:tanzanite_glass",
+    "count": 12,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:tanzanite",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass"
+    ]
+  },
+  "silentgems:tanzanite_lamp": {
+    "result": "silentgems:tanzanite_lamp",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:tanzanite",
+      "minecraft:stone",
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:redstone"
+    ]
+  },
+  "silentgems:tanzanite_lamp_inverted_on": {
+    "result": "silentgems:tanzanite_lamp_inverted_on",
+    "count": 1,
+    "ingredients": [
+      "silentgems:tanzanite_lamp",
+      "minecraft:redstone_torch",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgems:tanzanite_redstone_teleporter": {
+    "result": "silentgems:tanzanite_redstone_teleporter",
+    "count": 1,
+    "ingredients": [
+      "silentgems:tanzanite_teleporter",
+      "minecraft:redstone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgems:tanzanite_small_bricks": {
+    "result": "silentgems:tanzanite_small_bricks",
+    "count": 12,
+    "ingredients": [
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:tanzanite",
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:bricks"
+    ]
+  },
+  "silentgems:tanzanite_teleporter": {
+    "result": "silentgems:tanzanite_teleporter",
+    "count": 2,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "minecraft:tanzanite",
+      "minecraft:gold_ingot",
+      "minecraft:tanzanite",
+      "silentgems:chaos_essence_block",
+      "minecraft:tanzanite",
+      "",
+      "minecraft:ender_pearl",
+      ""
+    ]
+  },
+  "silentgems:tanzanite_tiles": {
+    "result": "silentgems:tanzanite_tiles",
+    "count": 12,
+    "ingredients": [
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:tanzanite",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles"
+    ]
+  },
+  "treetap:tap": {
+    "result": "treetap:tap",
+    "count": 1,
+    "ingredients": [
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "",
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "minecraft:copper_ingot",
+      "",
+      "",
+      ""
+    ]
+  },
+  "xtonesreworked:tank_block_0": {
+    "result": "xtonesreworked:tank_block_0",
+    "count": 8,
+    "ingredients": [
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile",
+      "minecraft:gray",
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile",
+      "xtonesreworked:xtone_tile"
+    ]
+  }
+}

@@ -1,0 +1,1217 @@
+{
+  "allthecompressed:cinnabar_block_1x": {
+    "result": "allthecompressed:cinnabar_block_1x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:cinnabar_block_2x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:cinnabar_block_2x": {
+    "result": "allthecompressed:cinnabar_block_2x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:cinnabar_block_3x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:cinnabar_block_3x": {
+    "result": "allthecompressed:cinnabar_block_3x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:cinnabar_block_4x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:cinnabar_block_4x": {
+    "result": "allthecompressed:cinnabar_block_4x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:cinnabar_block_5x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:cinnabar_block_5x": {
+    "result": "allthecompressed:cinnabar_block_5x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:cinnabar_block_6x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:cinnabar_block_6x": {
+    "result": "allthecompressed:cinnabar_block_6x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:cinnabar_block_7x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:cinnabar_block_7x": {
+    "result": "allthecompressed:cinnabar_block_7x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:cinnabar_block_8x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:cinnabar_block_8x": {
+    "result": "allthecompressed:cinnabar_block_8x",
+    "count": 9,
+    "ingredients": [
+      "allthecompressed:cinnabar_block_9x",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "allthecompressed:cinnabar_block_9x": {
+    "result": "allthecompressed:cinnabar_block_9x",
+    "count": 1,
+    "ingredients": [
+      "allthecompressed:cinnabar_block_8x",
+      "allthecompressed:cinnabar_block_8x",
+      "allthecompressed:cinnabar_block_8x",
+      "allthecompressed:cinnabar_block_8x",
+      "allthecompressed:cinnabar_block_8x",
+      "allthecompressed:cinnabar_block_8x",
+      "allthecompressed:cinnabar_block_8x",
+      "allthecompressed:cinnabar_block_8x",
+      "allthecompressed:cinnabar_block_8x"
+    ]
+  },
+  "alltheores:cinnabar_block": {
+    "result": "alltheores:cinnabar_block",
+    "count": 1,
+    "ingredients": [
+      "minecraft:cinnabar",
+      "minecraft:cinnabar",
+      "minecraft:cinnabar",
+      "minecraft:cinnabar",
+      "minecraft:cinnabar",
+      "minecraft:cinnabar",
+      "minecraft:cinnabar",
+      "minecraft:cinnabar",
+      "minecraft:cinnabar"
+    ]
+  },
+  "alltheores:cinnabar": {
+    "result": "alltheores:cinnabar",
+    "count": 2,
+    "ingredients": [
+      "minecraft:ore_hammers",
+      "minecraft:cinnabar",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "alltheores:cinnabar_dust": {
+    "result": "alltheores:cinnabar_dust",
+    "count": 1,
+    "ingredients": [
+      "minecraft:ore_hammers",
+      "minecraft:cinnabar",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:cika_boat": {
+    "result": "biomeswevegone:cika_boat",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:cika_planks",
+      "",
+      "biomeswevegone:cika_planks",
+      "biomeswevegone:cika_planks",
+      "biomeswevegone:cika_planks",
+      "biomeswevegone:cika_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:cika_bookshelf": {
+    "result": "biomeswevegone:cika_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:cika_planks",
+      "biomeswevegone:cika_planks",
+      "biomeswevegone:cika_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "biomeswevegone:cika_planks",
+      "biomeswevegone:cika_planks",
+      "biomeswevegone:cika_planks"
+    ]
+  },
+  "biomeswevegone:cika_button": {
+    "result": "biomeswevegone:cika_button",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:cika_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:cika_chest_boat": {
+    "result": "biomeswevegone:cika_chest_boat",
+    "count": 1,
+    "ingredients": [
+      "minecraft:chest",
+      "biomeswevegone:cika_boat",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:cika_crafting_table": {
+    "result": "biomeswevegone:cika_crafting_table",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:cika_planks",
+      "biomeswevegone:cika_planks",
+      "",
+      "biomeswevegone:cika_planks",
+      "biomeswevegone:cika_planks",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:cika_door": {
+    "result": "biomeswevegone:cika_door",
+    "count": 3,
+    "ingredients": [
+      "biomeswevegone:cika_planks",
+      "biomeswevegone:cika_planks",
+      "",
+      "biomeswevegone:cika_planks",
+      "biomeswevegone:cika_planks",
+      "",
+      "biomeswevegone:cika_planks",
+      "biomeswevegone:cika_planks",
+      ""
+    ]
+  },
+  "biomeswevegone:cika_fence": {
+    "result": "biomeswevegone:cika_fence",
+    "count": 3,
+    "ingredients": [
+      "biomeswevegone:cika_planks",
+      "minecraft:stick",
+      "biomeswevegone:cika_planks",
+      "biomeswevegone:cika_planks",
+      "minecraft:stick",
+      "biomeswevegone:cika_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:cika_fence_gate": {
+    "result": "biomeswevegone:cika_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "biomeswevegone:cika_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "biomeswevegone:cika_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:cika_hanging_sign": {
+    "result": "biomeswevegone:cika_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "biomeswevegone:stripped_cika_log",
+      "biomeswevegone:stripped_cika_log",
+      "biomeswevegone:stripped_cika_log",
+      "biomeswevegone:stripped_cika_log",
+      "biomeswevegone:stripped_cika_log",
+      "biomeswevegone:stripped_cika_log"
+    ]
+  },
+  "biomeswevegone:cika_planks": {
+    "result": "biomeswevegone:cika_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:cika_pressure_plate": {
+    "result": "biomeswevegone:cika_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "biomeswevegone:cika_planks",
+      "biomeswevegone:cika_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:cika_sign": {
+    "result": "biomeswevegone:cika_sign",
+    "count": 3,
+    "ingredients": [
+      "biomeswevegone:cika_planks",
+      "biomeswevegone:cika_planks",
+      "biomeswevegone:cika_planks",
+      "biomeswevegone:cika_planks",
+      "biomeswevegone:cika_planks",
+      "biomeswevegone:cika_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "biomeswevegone:cika_slab": {
+    "result": "biomeswevegone:cika_slab",
+    "count": 6,
+    "ingredients": [
+      "biomeswevegone:cika_planks",
+      "biomeswevegone:cika_planks",
+      "biomeswevegone:cika_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:cika_stairs": {
+    "result": "biomeswevegone:cika_stairs",
+    "count": 4,
+    "ingredients": [
+      "biomeswevegone:cika_planks",
+      "",
+      "",
+      "biomeswevegone:cika_planks",
+      "biomeswevegone:cika_planks",
+      "",
+      "biomeswevegone:cika_planks",
+      "biomeswevegone:cika_planks",
+      "biomeswevegone:cika_planks"
+    ]
+  },
+  "biomeswevegone:cika_trapdoor": {
+    "result": "biomeswevegone:cika_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "biomeswevegone:cika_planks",
+      "biomeswevegone:cika_planks",
+      "biomeswevegone:cika_planks",
+      "biomeswevegone:cika_planks",
+      "biomeswevegone:cika_planks",
+      "biomeswevegone:cika_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "biomeswevegone:cika_wood": {
+    "result": "biomeswevegone:cika_wood",
+    "count": 3,
+    "ingredients": [
+      "biomeswevegone:cika_log",
+      "biomeswevegone:cika_log",
+      "",
+      "biomeswevegone:cika_log",
+      "biomeswevegone:cika_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "eternal_starlight:cinder_brick": {
+    "result": "eternal_starlight:cinder_brick",
+    "count": 8,
+    "ingredients": [
+      "minecraft:lava",
+      "minecraft:starcore",
+      "minecraft:starcore",
+      "minecraft:gravels",
+      "minecraft:gravels",
+      "minecraft:gravels",
+      "minecraft:gravels",
+      "",
+      ""
+    ]
+  },
+  "herbsandharvest:cinnamon_roll": {
+    "result": "herbsandharvest:cinnamon_roll",
+    "count": 4,
+    "ingredients": [
+      "minecraft:wheat",
+      "minecraft:sugar",
+      "minecraft:egg",
+      "minecraft:milk",
+      "minecraft:butter",
+      "minecraft:salt",
+      "minecraft:cinnamon",
+      "",
+      ""
+    ]
+  },
+  "twilightforest:cicada": {
+    "result": "twilightforest:cicada",
+    "count": 8,
+    "ingredients": [
+      "hostilenetworks:twilight_prediction",
+      "hostilenetworks:twilight_prediction",
+      "minecraft:note_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "immersiveengineering:circuit_table": {
+    "result": "immersiveengineering:circuit_table",
+    "count": 1,
+    "ingredients": [
+      "minecraft:treated_wood_slab",
+      "minecraft:treated_wood_slab",
+      "immersiveengineering:screwdriver",
+      "immersiveengineering:craftingtable",
+      "",
+      "immersiveengineering:light_engineering",
+      "",
+      "",
+      ""
+    ]
+  },
+  "irons_spellbooks:cinderous_soulcaller": {
+    "result": "irons_spellbooks:cinderous_soulcaller",
+    "count": 1,
+    "ingredients": [
+      "irons_spellbooks:cinder_essence",
+      "minecraft:netherite_scrap",
+      "irons_spellbooks:cinder_essence",
+      "irons_spellbooks:cinder_essence",
+      "minecraft:echo_shard",
+      "irons_spellbooks:cinder_essence",
+      "irons_spellbooks:cinder_essence",
+      "minecraft:netherite_scrap",
+      "irons_spellbooks:cinder_essence"
+    ]
+  },
+  "pamhc2foodextended:cinnamonappleoatmealitem": {
+    "result": "pamhc2foodextended:cinnamonappleoatmealitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:oats",
+      "minecraft:groundcinnamon",
+      "minecraft:apple",
+      "minecraft:water",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:cinnamonbreaditem": {
+    "result": "pamhc2foodextended:cinnamonbreaditem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:dough",
+      "minecraft:groundcinnamon",
+      "minecraft:butter",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:cinnamonrollitem": {
+    "result": "pamhc2foodextended:cinnamonrollitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:groundcinnamon",
+      "minecraft:sugar",
+      "minecraft:dough",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:cinnamonsugardonutitem": {
+    "result": "pamhc2foodextended:cinnamonsugardonutitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_pot",
+      "minecraft:cookingoil",
+      "minecraft:batter",
+      "minecraft:groundcinnamon",
+      "minecraft:sugar",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:cinnamontoastitem": {
+    "result": "pamhc2foodextended:cinnamontoastitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_bakeware",
+      "minecraft:bread",
+      "minecraft:groundcinnamon",
+      "minecraft:sugar",
+      "minecraft:butter",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2foodextended:citrussaladitem": {
+    "result": "pamhc2foodextended:citrussaladitem",
+    "count": 1,
+    "ingredients": [
+      "minecraft:tool_cuttingboard",
+      "minecraft:citrusfruits",
+      "minecraft:citrusfruits",
+      "minecraft:leafyvegetables",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "pamhc2trees:cinnamon_sapling": {
+    "result": "pamhc2trees:cinnamon_sapling",
+    "count": 1,
+    "ingredients": [
+      "pamhc2trees:cinnamonitem",
+      "pamhc2trees:cinnamonitem",
+      "pamhc2trees:cinnamonitem",
+      "pamhc2trees:cinnamonitem",
+      "pamhc2trees:cinnamonitem",
+      "pamhc2trees:cinnamonitem",
+      "pamhc2trees:cinnamonitem",
+      "pamhc2trees:cinnamonitem",
+      "minecraft:saplings"
+    ]
+  },
+  "productivetrees:cinnamon_bookshelf": {
+    "result": "productivetrees:cinnamon_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:cinnamon_planks",
+      "productivetrees:cinnamon_planks",
+      "productivetrees:cinnamon_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:cinnamon_planks",
+      "productivetrees:cinnamon_planks",
+      "productivetrees:cinnamon_planks"
+    ]
+  },
+  "productivetrees:citron_bookshelf": {
+    "result": "productivetrees:citron_bookshelf",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:citron_planks",
+      "productivetrees:citron_planks",
+      "productivetrees:citron_planks",
+      "minecraft:book",
+      "minecraft:book",
+      "minecraft:book",
+      "productivetrees:citron_planks",
+      "productivetrees:citron_planks",
+      "productivetrees:citron_planks"
+    ]
+  },
+  "productivetrees:cinnamon_button": {
+    "result": "productivetrees:cinnamon_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:cinnamon_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:citron_button": {
+    "result": "productivetrees:citron_button",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:citron_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:cinnamon_crate": {
+    "result": "productivetrees:cinnamon_crate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:cinnamon",
+      "minecraft:cinnamon",
+      "minecraft:cinnamon",
+      "minecraft:cinnamon",
+      "productivetrees:cinnamon",
+      "minecraft:cinnamon",
+      "minecraft:cinnamon",
+      "minecraft:cinnamon",
+      "minecraft:cinnamon"
+    ]
+  },
+  "productivetrees:cinnamon": {
+    "result": "productivetrees:cinnamon",
+    "count": 9,
+    "ingredients": [
+      "productivetrees:cinnamon_crate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:citron_crate": {
+    "result": "productivetrees:citron_crate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:citron",
+      "minecraft:citron",
+      "minecraft:citron",
+      "minecraft:citron",
+      "productivetrees:citron",
+      "minecraft:citron",
+      "minecraft:citron",
+      "minecraft:citron",
+      "minecraft:citron"
+    ]
+  },
+  "productivetrees:citron": {
+    "result": "productivetrees:citron",
+    "count": 9,
+    "ingredients": [
+      "productivetrees:citron_crate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:cinnamon_door": {
+    "result": "productivetrees:cinnamon_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:cinnamon_planks",
+      "productivetrees:cinnamon_planks",
+      "",
+      "productivetrees:cinnamon_planks",
+      "productivetrees:cinnamon_planks",
+      "",
+      "productivetrees:cinnamon_planks",
+      "productivetrees:cinnamon_planks",
+      ""
+    ]
+  },
+  "productivetrees:citron_door": {
+    "result": "productivetrees:citron_door",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:citron_planks",
+      "productivetrees:citron_planks",
+      "",
+      "productivetrees:citron_planks",
+      "productivetrees:citron_planks",
+      "",
+      "productivetrees:citron_planks",
+      "productivetrees:citron_planks",
+      ""
+    ]
+  },
+  "productivetrees:cinnamon_fence": {
+    "result": "productivetrees:cinnamon_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:cinnamon_planks",
+      "minecraft:stick",
+      "productivetrees:cinnamon_planks",
+      "productivetrees:cinnamon_planks",
+      "minecraft:stick",
+      "productivetrees:cinnamon_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:citron_fence": {
+    "result": "productivetrees:citron_fence",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:citron_planks",
+      "minecraft:stick",
+      "productivetrees:citron_planks",
+      "productivetrees:citron_planks",
+      "minecraft:stick",
+      "productivetrees:citron_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:cinnamon_fence_gate": {
+    "result": "productivetrees:cinnamon_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:cinnamon_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:cinnamon_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:citron_fence_gate": {
+    "result": "productivetrees:citron_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "productivetrees:citron_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "productivetrees:citron_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:cinnamon_hanging_sign": {
+    "result": "productivetrees:cinnamon_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:cinnamon_planks",
+      "productivetrees:cinnamon_planks",
+      "productivetrees:cinnamon_planks",
+      "productivetrees:cinnamon_planks",
+      "productivetrees:cinnamon_planks",
+      "productivetrees:cinnamon_planks"
+    ]
+  },
+  "productivetrees:citron_hanging_sign": {
+    "result": "productivetrees:citron_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "productivetrees:citron_planks",
+      "productivetrees:citron_planks",
+      "productivetrees:citron_planks",
+      "productivetrees:citron_planks",
+      "productivetrees:citron_planks",
+      "productivetrees:citron_planks"
+    ]
+  },
+  "productivetrees:cinnamon_planks": {
+    "result": "productivetrees:cinnamon_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:citron_planks": {
+    "result": "productivetrees:citron_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:cinnamon_pressure_plate": {
+    "result": "productivetrees:cinnamon_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:cinnamon_planks",
+      "productivetrees:cinnamon_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:citron_pressure_plate": {
+    "result": "productivetrees:citron_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "productivetrees:citron_planks",
+      "productivetrees:citron_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:cinnamon_sign": {
+    "result": "productivetrees:cinnamon_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:cinnamon_planks",
+      "productivetrees:cinnamon_planks",
+      "productivetrees:cinnamon_planks",
+      "productivetrees:cinnamon_planks",
+      "productivetrees:cinnamon_planks",
+      "productivetrees:cinnamon_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:citron_sign": {
+    "result": "productivetrees:citron_sign",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:citron_planks",
+      "productivetrees:citron_planks",
+      "productivetrees:citron_planks",
+      "productivetrees:citron_planks",
+      "productivetrees:citron_planks",
+      "productivetrees:citron_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "productivetrees:cinnamon_slab": {
+    "result": "productivetrees:cinnamon_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:cinnamon_planks",
+      "productivetrees:cinnamon_planks",
+      "productivetrees:cinnamon_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:citron_slab": {
+    "result": "productivetrees:citron_slab",
+    "count": 6,
+    "ingredients": [
+      "productivetrees:citron_planks",
+      "productivetrees:citron_planks",
+      "productivetrees:citron_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:cinnamon_stairs": {
+    "result": "productivetrees:cinnamon_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:cinnamon_planks",
+      "",
+      "",
+      "productivetrees:cinnamon_planks",
+      "productivetrees:cinnamon_planks",
+      "",
+      "productivetrees:cinnamon_planks",
+      "productivetrees:cinnamon_planks",
+      "productivetrees:cinnamon_planks"
+    ]
+  },
+  "productivetrees:citron_stairs": {
+    "result": "productivetrees:citron_stairs",
+    "count": 4,
+    "ingredients": [
+      "productivetrees:citron_planks",
+      "",
+      "",
+      "productivetrees:citron_planks",
+      "productivetrees:citron_planks",
+      "",
+      "productivetrees:citron_planks",
+      "productivetrees:citron_planks",
+      "productivetrees:citron_planks"
+    ]
+  },
+  "productivetrees:cinnamon_trapdoor": {
+    "result": "productivetrees:cinnamon_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:cinnamon_planks",
+      "productivetrees:cinnamon_planks",
+      "productivetrees:cinnamon_planks",
+      "productivetrees:cinnamon_planks",
+      "productivetrees:cinnamon_planks",
+      "productivetrees:cinnamon_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:citron_trapdoor": {
+    "result": "productivetrees:citron_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "productivetrees:citron_planks",
+      "productivetrees:citron_planks",
+      "productivetrees:citron_planks",
+      "productivetrees:citron_planks",
+      "productivetrees:citron_planks",
+      "productivetrees:citron_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:cinnamon_wood": {
+    "result": "productivetrees:cinnamon_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:cinnamon_log",
+      "productivetrees:cinnamon_log",
+      "",
+      "productivetrees:cinnamon_log",
+      "productivetrees:cinnamon_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "productivetrees:citron_wood": {
+    "result": "productivetrees:citron_wood",
+    "count": 3,
+    "ingredients": [
+      "productivetrees:citron_log",
+      "productivetrees:citron_log",
+      "",
+      "productivetrees:citron_log",
+      "productivetrees:citron_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgems:citrine": {
+    "result": "silentgems:citrine",
+    "count": 9,
+    "ingredients": [
+      "silentgems:citrine_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgems:citrine_bricks": {
+    "result": "silentgems:citrine_bricks",
+    "count": 12,
+    "ingredients": [
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:citrine",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks",
+      "minecraft:stone_bricks"
+    ]
+  },
+  "silentgems:citrine_block": {
+    "result": "silentgems:citrine_block",
+    "count": 1,
+    "ingredients": [
+      "silentgems:citrine",
+      "silentgems:citrine",
+      "silentgems:citrine",
+      "silentgems:citrine",
+      "silentgems:citrine",
+      "silentgems:citrine",
+      "silentgems:citrine",
+      "silentgems:citrine",
+      "silentgems:citrine"
+    ]
+  },
+  "silentgems:citrine_glass": {
+    "result": "silentgems:citrine_glass",
+    "count": 12,
+    "ingredients": [
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:citrine",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass",
+      "minecraft:glass"
+    ]
+  },
+  "silentgems:citrine_lamp": {
+    "result": "silentgems:citrine_lamp",
+    "count": 1,
+    "ingredients": [
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:citrine",
+      "minecraft:stone",
+      "minecraft:redstone",
+      "minecraft:stone",
+      "minecraft:redstone"
+    ]
+  },
+  "silentgems:citrine_lamp_inverted_on": {
+    "result": "silentgems:citrine_lamp_inverted_on",
+    "count": 1,
+    "ingredients": [
+      "silentgems:citrine_lamp",
+      "minecraft:redstone_torch",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgems:citrine_redstone_teleporter": {
+    "result": "silentgems:citrine_redstone_teleporter",
+    "count": 1,
+    "ingredients": [
+      "silentgems:citrine_teleporter",
+      "minecraft:redstone",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "silentgems:citrine_small_bricks": {
+    "result": "silentgems:citrine_small_bricks",
+    "count": 12,
+    "ingredients": [
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:citrine",
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:bricks",
+      "minecraft:bricks"
+    ]
+  },
+  "silentgems:citrine_teleporter": {
+    "result": "silentgems:citrine_teleporter",
+    "count": 2,
+    "ingredients": [
+      "minecraft:gold_ingot",
+      "minecraft:citrine",
+      "minecraft:gold_ingot",
+      "minecraft:citrine",
+      "silentgems:chaos_essence_block",
+      "minecraft:citrine",
+      "",
+      "minecraft:ender_pearl",
+      ""
+    ]
+  },
+  "silentgems:citrine_tiles": {
+    "result": "silentgems:citrine_tiles",
+    "count": 12,
+    "ingredients": [
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:citrine",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles",
+      "minecraft:deepslate_tiles"
+    ]
+  },
+  "twilightforest:cicada_jar": {
+    "result": "twilightforest:cicada_jar",
+    "count": 1,
+    "ingredients": [
+      "twilightforest:cicada",
+      "twilightforest:mason_jar",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

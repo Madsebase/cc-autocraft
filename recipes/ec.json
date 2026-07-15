@@ -1,0 +1,437 @@
+{
+  "apothic_enchanting:echoing_deepshelf": {
+    "result": "apothic_enchanting:echoing_deepshelf",
+    "count": 1,
+    "ingredients": [
+      "",
+      "minecraft:echo_shard",
+      "",
+      "",
+      "apothic_enchanting:deepshelf",
+      "",
+      "minecraft:candles",
+      "minecraft:candles",
+      "minecraft:candles"
+    ]
+  },
+  "apothic_enchanting:echoing_sculkshelf": {
+    "result": "apothic_enchanting:echoing_sculkshelf",
+    "count": 1,
+    "ingredients": [
+      "",
+      "apothic_enchanting:warden_tendril",
+      "",
+      "minecraft:sculk",
+      "apothic_enchanting:echoing_deepshelf",
+      "minecraft:sculk",
+      "minecraft:sculk",
+      "minecraft:sculk_catalyst",
+      "minecraft:sculk"
+    ]
+  },
+  "deeperdarker:echo_boat": {
+    "result": "deeperdarker:echo_boat",
+    "count": 1,
+    "ingredients": [
+      "deeperdarker:echo_planks",
+      "",
+      "deeperdarker:echo_planks",
+      "deeperdarker:echo_planks",
+      "deeperdarker:echo_planks",
+      "deeperdarker:echo_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "deeperdarker:echo_button": {
+    "result": "deeperdarker:echo_button",
+    "count": 1,
+    "ingredients": [
+      "deeperdarker:echo_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "deeperdarker:echo_chest_boat": {
+    "result": "deeperdarker:echo_chest_boat",
+    "count": 1,
+    "ingredients": [
+      "minecraft:chest",
+      "deeperdarker:echo_boat",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "deeperdarker:echo_door": {
+    "result": "deeperdarker:echo_door",
+    "count": 3,
+    "ingredients": [
+      "deeperdarker:echo_planks",
+      "deeperdarker:echo_planks",
+      "",
+      "deeperdarker:echo_planks",
+      "deeperdarker:echo_planks",
+      "",
+      "deeperdarker:echo_planks",
+      "deeperdarker:echo_planks",
+      ""
+    ]
+  },
+  "deeperdarker:echo_fence": {
+    "result": "deeperdarker:echo_fence",
+    "count": 3,
+    "ingredients": [
+      "deeperdarker:echo_planks",
+      "minecraft:stick",
+      "deeperdarker:echo_planks",
+      "deeperdarker:echo_planks",
+      "minecraft:stick",
+      "deeperdarker:echo_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "deeperdarker:echo_fence_gate": {
+    "result": "deeperdarker:echo_fence_gate",
+    "count": 1,
+    "ingredients": [
+      "minecraft:stick",
+      "deeperdarker:echo_planks",
+      "minecraft:stick",
+      "minecraft:stick",
+      "deeperdarker:echo_planks",
+      "minecraft:stick",
+      "",
+      "",
+      ""
+    ]
+  },
+  "deeperdarker:echo_hanging_sign": {
+    "result": "deeperdarker:echo_hanging_sign",
+    "count": 6,
+    "ingredients": [
+      "minecraft:chain",
+      "",
+      "minecraft:chain",
+      "deeperdarker:stripped_echo_log",
+      "deeperdarker:stripped_echo_log",
+      "deeperdarker:stripped_echo_log",
+      "deeperdarker:stripped_echo_log",
+      "deeperdarker:stripped_echo_log",
+      "deeperdarker:stripped_echo_log"
+    ]
+  },
+  "deeperdarker:echo_planks": {
+    "result": "deeperdarker:echo_planks",
+    "count": 4,
+    "ingredients": [
+      "minecraft:oak_log",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "deeperdarker:echo_pressure_plate": {
+    "result": "deeperdarker:echo_pressure_plate",
+    "count": 1,
+    "ingredients": [
+      "deeperdarker:echo_planks",
+      "deeperdarker:echo_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "deeperdarker:echo_sign": {
+    "result": "deeperdarker:echo_sign",
+    "count": 3,
+    "ingredients": [
+      "deeperdarker:echo_planks",
+      "deeperdarker:echo_planks",
+      "deeperdarker:echo_planks",
+      "deeperdarker:echo_planks",
+      "deeperdarker:echo_planks",
+      "deeperdarker:echo_planks",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "deeperdarker:echo_slab": {
+    "result": "deeperdarker:echo_slab",
+    "count": 6,
+    "ingredients": [
+      "deeperdarker:echo_planks",
+      "deeperdarker:echo_planks",
+      "deeperdarker:echo_planks",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "deeperdarker:echo_stairs": {
+    "result": "deeperdarker:echo_stairs",
+    "count": 4,
+    "ingredients": [
+      "deeperdarker:echo_planks",
+      "",
+      "",
+      "deeperdarker:echo_planks",
+      "deeperdarker:echo_planks",
+      "",
+      "deeperdarker:echo_planks",
+      "deeperdarker:echo_planks",
+      "deeperdarker:echo_planks"
+    ]
+  },
+  "deeperdarker:echo_trapdoor": {
+    "result": "deeperdarker:echo_trapdoor",
+    "count": 2,
+    "ingredients": [
+      "deeperdarker:echo_planks",
+      "deeperdarker:echo_planks",
+      "deeperdarker:echo_planks",
+      "deeperdarker:echo_planks",
+      "deeperdarker:echo_planks",
+      "deeperdarker:echo_planks",
+      "",
+      "",
+      ""
+    ]
+  },
+  "deeperdarker:echo_wood": {
+    "result": "deeperdarker:echo_wood",
+    "count": 3,
+    "ingredients": [
+      "deeperdarker:echo_log",
+      "deeperdarker:echo_log",
+      "",
+      "deeperdarker:echo_log",
+      "deeperdarker:echo_log",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "justdirethings:eclipsealloy_axe": {
+    "result": "justdirethings:eclipsealloy_axe",
+    "count": 1,
+    "ingredients": [
+      "justdirethings:eclipsealloy_ingot",
+      "justdirethings:eclipsealloy_ingot",
+      "",
+      "justdirethings:eclipsealloy_ingot",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "justdirethings:eclipsealloy_ingot": {
+    "result": "justdirethings:eclipsealloy_ingot",
+    "count": 9,
+    "ingredients": [
+      "justdirethings:eclipsealloy_block",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "justdirethings:eclipsealloy_boots": {
+    "result": "justdirethings:eclipsealloy_boots",
+    "count": 1,
+    "ingredients": [
+      "justdirethings:eclipsealloy_ingot",
+      "",
+      "justdirethings:eclipsealloy_ingot",
+      "justdirethings:eclipsealloy_ingot",
+      "",
+      "justdirethings:eclipsealloy_ingot",
+      "",
+      "",
+      ""
+    ]
+  },
+  "justdirethings:eclipsealloy_chestplate": {
+    "result": "justdirethings:eclipsealloy_chestplate",
+    "count": 1,
+    "ingredients": [
+      "justdirethings:eclipsealloy_ingot",
+      "",
+      "justdirethings:eclipsealloy_ingot",
+      "justdirethings:eclipsealloy_ingot",
+      "justdirethings:eclipsealloy_ingot",
+      "justdirethings:eclipsealloy_ingot",
+      "justdirethings:eclipsealloy_ingot",
+      "justdirethings:eclipsealloy_ingot",
+      "justdirethings:eclipsealloy_ingot"
+    ]
+  },
+  "justdirethings:eclipsealloy_helmet": {
+    "result": "justdirethings:eclipsealloy_helmet",
+    "count": 1,
+    "ingredients": [
+      "justdirethings:eclipsealloy_ingot",
+      "justdirethings:eclipsealloy_ingot",
+      "justdirethings:eclipsealloy_ingot",
+      "justdirethings:eclipsealloy_ingot",
+      "",
+      "justdirethings:eclipsealloy_ingot",
+      "",
+      "",
+      ""
+    ]
+  },
+  "justdirethings:eclipsealloy_hoe": {
+    "result": "justdirethings:eclipsealloy_hoe",
+    "count": 1,
+    "ingredients": [
+      "justdirethings:eclipsealloy_ingot",
+      "justdirethings:eclipsealloy_ingot",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "justdirethings:eclipsealloy_block": {
+    "result": "justdirethings:eclipsealloy_block",
+    "count": 1,
+    "ingredients": [
+      "justdirethings:eclipsealloy_ingot",
+      "justdirethings:eclipsealloy_ingot",
+      "justdirethings:eclipsealloy_ingot",
+      "justdirethings:eclipsealloy_ingot",
+      "justdirethings:eclipsealloy_ingot",
+      "justdirethings:eclipsealloy_ingot",
+      "justdirethings:eclipsealloy_ingot",
+      "justdirethings:eclipsealloy_ingot",
+      "justdirethings:eclipsealloy_ingot"
+    ]
+  },
+  "justdirethings:eclipsealloy_leggings": {
+    "result": "justdirethings:eclipsealloy_leggings",
+    "count": 1,
+    "ingredients": [
+      "justdirethings:eclipsealloy_ingot",
+      "justdirethings:eclipsealloy_ingot",
+      "justdirethings:eclipsealloy_ingot",
+      "justdirethings:eclipsealloy_ingot",
+      "",
+      "justdirethings:eclipsealloy_ingot",
+      "justdirethings:eclipsealloy_ingot",
+      "",
+      "justdirethings:eclipsealloy_ingot"
+    ]
+  },
+  "justdirethings:eclipsealloy_pickaxe": {
+    "result": "justdirethings:eclipsealloy_pickaxe",
+    "count": 1,
+    "ingredients": [
+      "justdirethings:eclipsealloy_ingot",
+      "justdirethings:eclipsealloy_ingot",
+      "justdirethings:eclipsealloy_ingot",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "justdirethings:eclipsealloy_shovel": {
+    "result": "justdirethings:eclipsealloy_shovel",
+    "count": 1,
+    "ingredients": [
+      "",
+      "justdirethings:eclipsealloy_ingot",
+      "",
+      "",
+      "minecraft:stick",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "justdirethings:eclipsealloy_sword": {
+    "result": "justdirethings:eclipsealloy_sword",
+    "count": 1,
+    "ingredients": [
+      "",
+      "justdirethings:eclipsealloy_ingot",
+      "",
+      "",
+      "justdirethings:eclipsealloy_ingot",
+      "",
+      "",
+      "minecraft:stick",
+      ""
+    ]
+  },
+  "justdirethings:eclipsegate_wand": {
+    "result": "justdirethings:eclipsegate_wand",
+    "count": 1,
+    "ingredients": [
+      "",
+      "",
+      "justdirethings:eclipsealloy_ingot",
+      "",
+      "justdirethings:voidshift_wand",
+      "",
+      "justdirethings:celestigem",
+      "",
+      ""
+    ]
+  },
+  "minecraft:echo_shard": {
+    "result": "minecraft:echo_shard",
+    "count": 1,
+    "ingredients": [
+      "occultism:gray_paste",
+      "minecraft:echo",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}
