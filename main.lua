@@ -12,7 +12,7 @@ if not fs.exists("basalt.lua") then
     if not http then
         error("HTTP API is disabled! Please enable it in computer craft config to auto-download Basalt.")
     end
-    local response = http.get("https://raw.githubusercontent.com/Pyroxenium/Basalt/master/basalt.lua")
+    local response = http.get("https://raw.githubusercontent.com/Pyroxenium/Basalt2/refs/heads/main/release/basalt-full.lua")
     if not response then
         error("Failed to download Basalt library. Check internet connection.")
     end
