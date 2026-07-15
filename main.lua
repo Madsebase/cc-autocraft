@@ -241,7 +241,7 @@ local activeItemLabel = activePane:addLabel()
     :setForeground(colors.cyan)
     :setSize(26, 1)
 
-local progressBar = activePane:addProgressbar()
+local progressBar = activePane:addProgressBar()
     :setPosition(2, 4)
     :setSize(26, 1)
     :setBackground(colors.gray)
