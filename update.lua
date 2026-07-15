@@ -17,7 +17,8 @@ print("Fetching latest files from GitHub...")
 
 for fileName, url in pairs(files) do
     write("Downloading " .. fileName .. "... ")
-    local response = http.get(url)
+    local cbUrl = url .. "?cb=" .. (os.epoch and os.epoch("utc") or math.random(1, 100000))
+    local response = http.get(cbUrl)
     if response then
         local file = fs.open(fileName, "w")
         file.write(response.readAll())
