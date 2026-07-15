@@ -64,7 +64,7 @@ local isCancelled = false
 
 -- Defensive Helper to read list values across different Basalt v2 releases
 local function getSelectedListValue(listObj)
-    local item = listObj:getValue()
+    local item = listObj:getSelectedItem()
     if type(item) == "table" then
         return item.text
     end
@@ -193,7 +193,7 @@ local qtyInput = configPane:addInput()
     :setPosition(7, 3)
     :setSize(6, 1)
     :setPattern("%d")
-    :setValue("1")
+    :setText("1")
     :setBackground(colors.gray)
     :setForeground(colors.white)
 
@@ -373,7 +373,7 @@ end)
 
 -- Search input change handler
 searchInput:onChange(function(self)
-    filterCatalog(self:getValue())
+    filterCatalog(self:getText())
 end)
 
 -- Catalog list selection handler
@@ -382,7 +382,7 @@ catalogList:onChange(function(self)
     if item then
         selectedItem = item
         selectedItemLabel:setText(item:match(":(.+)$") or item)
-        qtyInput:setValue("1")
+        qtyInput:setText("1")
         setActiveTabUI("craft")
         showPane(configPane)
         updateRequirements(1)
@@ -391,25 +391,25 @@ end)
 
 -- Quantity Change Handlers
 qtyInput:onChange(function(self)
-    local val = tonumber(self:getValue()) or 1
+    local val = tonumber(self:getText()) or 1
     if val < 1 then
         val = 1
-        self:setValue("1")
+        self:setText("1")
     end
     updateRequirements(val)
 end)
 
 btnDec:onClick(function()
-    local val = tonumber(qtyInput:getValue()) or 1
+    local val = tonumber(qtyInput:getText()) or 1
     if val > 1 then
-        qtyInput:setValue(tostring(val - 1))
+        qtyInput:setText(tostring(val - 1))
         updateRequirements(val - 1)
     end
 end)
 
 btnInc:onClick(function()
-    local val = tonumber(qtyInput:getValue()) or 1
-    qtyInput:setValue(tostring(val + 1))
+    local val = tonumber(qtyInput:getText()) or 1
+    qtyInput:setText(tostring(val + 1))
     updateRequirements(val + 1)
 end)
 
@@ -417,7 +417,7 @@ end)
 queueButton:onClick(function()
     if not selectedItem or not canCraft then return end
     
-    local qty = tonumber(qtyInput:getValue()) or 1
+    local qty = tonumber(qtyInput:getText()) or 1
     
     table.insert(jobQueue, {
         item = selectedItem,
@@ -435,7 +435,7 @@ queueButton:onClick(function()
     
     -- Clear configuration selection
     selectedItem = nil
-    qtyInput:setValue("1")
+    qtyInput:setText("1")
 end)
 
 -- Stop Button Click Handler
