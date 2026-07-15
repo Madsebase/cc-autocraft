@@ -129,20 +129,20 @@ local configPane = main:addFrame()
     :setPosition(22, 2)
     :setSize(30, 18)
     :setBackground(colors.black)
-    :hide()
+    :setVisible(false)
 
 local activePane = main:addFrame()
     :setPosition(22, 2)
     :setSize(30, 18)
     :setBackground(colors.black)
-    :hide()
+    :setVisible(false)
 
 -- Helper to switch between panes
 local function showPane(paneToShow)
-    configPane:hide()
-    activePane:hide()
-    welcomePane:hide()
-    paneToShow:show()
+    configPane:setVisible(false)
+    activePane:setVisible(false)
+    welcomePane:setVisible(false)
+    paneToShow:setVisible(true)
 end
 
 local function setActiveTabUI(activeTab)
